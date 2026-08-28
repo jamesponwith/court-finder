@@ -1,0 +1,67 @@
+/*
+ * Design tokens — the single place to swap the brand palette when this
+ * experience is folded into the All About Tennis mobile app.
+ */
+:root {
+  /* Brand */
+  --brand-navy: #12463b;        /* deep court green-navy */
+  --brand-navy-deep: #0e2a24;
+  --brand-accent: #d4e157;      /* tennis-ball chartreuse */
+  --brand-accent-strong: #b8cb2e;
+  --brand-accent-ink: #2c3308;  /* text on accent */
+
+  /* Surface chip colors */
+  --surface-hard: #3b82c4;
+  --surface-clay: #c4703b;
+  --surface-grass: #3f9e57;
+  --surface-unknown: #8a8f98;
+
+  /* Light theme (default) */
+  --color-bg: #f4f6f3;
+  --color-panel: #ffffff;
+  --color-panel-raised: #ffffff;
+  --color-card: #ffffff;
+  --color-border: #dde3dc;
+  --color-text: #1a2420;
+  --color-text-muted: #5b6862;
+  --color-header-bg: var(--brand-navy);
+  --color-header-text: #f2f7ee;
+  --color-chip-bg: #eef1ec;
+  --color-skeleton: #e4e8e2;
+  --color-skeleton-shine: #f2f5f0;
+  --color-overlay: rgba(10, 20, 16, 0.45);
+  --shadow-panel: 0 -6px 24px rgba(12, 24, 20, 0.14);
+  --shadow-card: 0 1px 3px rgba(12, 24, 20, 0.1);
+
+  /* Type */
+  --font-body: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial, sans-serif;
+
+  /* Shape & spacing */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 18px;
+  --radius-pill: 999px;
+
+  color-scheme: light dark;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-bg: #0d1512;
+    --color-panel: #14201b;
+    --color-panel-raised: #182721;
+    --color-card: #1a2a24;
+    --color-border: #27382f;
+    --color-text: #e6ede8;
+    --color-text-muted: #96a69d;
+    --color-header-bg: var(--brand-navy-deep);
+    --color-header-text: #eaf2e6;
+    --color-chip-bg: #223129;
+    --color-skeleton: #1e2d26;
+    --color-skeleton-shine: #27382f;
+    --color-overlay: rgba(0, 0, 0, 0.6);
+    --shadow-panel: 0 -6px 24px rgba(0, 0, 0, 0.5);
+    --shadow-card: 0 1px 3px rgba(0, 0, 0, 0.4);
+  }
+}
