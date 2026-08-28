@@ -107,7 +107,7 @@
     },
     {
       "id": "osm-w35821430",
-      "name": "Willowbrook Park Tennis Courts",
+      "name": "College of Staten Island Tennis Courts",
       "lat": 40.603621,
       "lng": -74.150131,
       "courtCount": 6,
@@ -120,11 +120,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w36897473",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Coventry Road",
       "lat": 40.589772,
       "lng": -74.10538,
       "courtCount": 8,
@@ -133,15 +135,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Coventry Road",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w46422037",
-      "name": "Public Tennis Courts",
+      "name": "The Octagon Tennis Courts",
       "lat": 40.768414,
       "lng": -73.943432,
       "courtCount": 6,
@@ -177,7 +179,7 @@
     },
     {
       "id": "osm-w62239361",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East 233rd Street",
       "lat": 40.895802,
       "lng": -73.879402,
       "courtCount": 1,
@@ -186,8 +188,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 233rd Street",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -231,7 +233,7 @@
     },
     {
       "id": "osm-w137353001",
-      "name": "Public Tennis Courts",
+      "name": "Harry S Truman High School Campus Tennis Courts",
       "lat": 40.875072,
       "lng": -73.830722,
       "courtCount": 6,
@@ -244,7 +246,9 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w138265866",
@@ -303,7 +307,7 @@
     },
     {
       "id": "osm-w164720437",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West 41st Street",
       "lat": 40.761416,
       "lng": -74.001044,
       "courtCount": 2,
@@ -312,15 +316,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 41st Street",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w165434076",
-      "name": "Public Tennis Courts",
+      "name": "Stuyvesant Town Tennis Courts",
       "lat": 40.72963,
       "lng": -73.976416,
       "courtCount": 3,
@@ -337,7 +341,7 @@
     },
     {
       "id": "osm-w180338806",
-      "name": "Public Tennis Courts",
+      "name": "Long Island University Brooklyn Campus Tennis Courts",
       "lat": 40.691271,
       "lng": -73.978619,
       "courtCount": 4,
@@ -350,7 +354,9 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w180508842",
@@ -391,7 +397,7 @@
     },
     {
       "id": "osm-w184999236",
-      "name": "Public Tennis Courts",
+      "name": "Brooklyn College - Athletic Field Tennis Courts",
       "lat": 40.630283,
       "lng": -73.954401,
       "courtCount": 6,
@@ -442,7 +448,7 @@
     },
     {
       "id": "osm-w191840876",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West 225th Street",
       "lat": 40.875037,
       "lng": -73.913168,
       "courtCount": 1,
@@ -451,8 +457,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 225th Street",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -514,7 +520,7 @@
     },
     {
       "id": "osm-w220632075",
-      "name": "Dutch Kills Playground Tennis Courts",
+      "name": "P.S. 112Q - Dutch Kills School Tennis Courts",
       "lat": 40.756782,
       "lng": -73.933369,
       "courtCount": 4,
@@ -527,7 +533,9 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w224023939",
@@ -565,7 +573,7 @@
     },
     {
       "id": "osm-w224108455",
-      "name": "Public Tennis Courts",
+      "name": "Trinity School Henry C. Moses Building Tennis Courts",
       "lat": 40.790055,
       "lng": -73.970147,
       "courtCount": 2,
@@ -578,7 +586,9 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w224160374",
@@ -619,7 +629,7 @@
     },
     {
       "id": "osm-w231847174",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Shore Tower Path",
       "lat": 40.776518,
       "lng": -73.928272,
       "courtCount": 1,
@@ -628,8 +638,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Shore Tower Path",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -763,7 +773,7 @@
     },
     {
       "id": "osm-w243997135",
-      "name": "Public Tennis Courts",
+      "name": "Rockaway Point Tennis Courts",
       "lat": 40.560253,
       "lng": -73.917071,
       "courtCount": 3,
@@ -797,7 +807,7 @@
     },
     {
       "id": "osm-w244986187",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West 246th Street",
       "lat": 40.891633,
       "lng": -73.910481,
       "courtCount": 2,
@@ -806,8 +816,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 246th Street",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -831,7 +841,7 @@
     },
     {
       "id": "osm-w246724809",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Joyce Lane",
       "lat": 40.510419,
       "lng": -74.241094,
       "courtCount": 4,
@@ -840,8 +850,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Joyce Lane",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -865,7 +875,7 @@
     },
     {
       "id": "osm-w246740927",
-      "name": "Public Tennis Courts",
+      "name": "Fawn Ridge Condominiums Tennis Courts",
       "lat": 40.547001,
       "lng": -74.21289,
       "courtCount": 2,
@@ -882,7 +892,7 @@
     },
     {
       "id": "osm-w247143600",
-      "name": "Public Tennis Courts",
+      "name": "Saint Joseph By The Sea High School Tennis Courts",
       "lat": 40.52273,
       "lng": -74.175781,
       "courtCount": 1,
@@ -895,11 +905,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w248632184",
-      "name": "Public Tennis Courts",
+      "name": "Lander College for Men Tennis Courts",
       "lat": 40.724961,
       "lng": -73.813873,
       "courtCount": 1,
@@ -912,7 +924,9 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w250114118",
@@ -950,7 +964,7 @@
     },
     {
       "id": "osm-w253855700",
-      "name": "Public Tennis Courts",
+      "name": "Boys and Girls High School Tennis Courts",
       "lat": 40.678486,
       "lng": -73.932655,
       "courtCount": 1,
@@ -963,7 +977,9 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w254737278",
@@ -1004,7 +1020,7 @@
     },
     {
       "id": "osm-w261702668",
-      "name": "Sperandeo Brothers Playground Tennis Courts",
+      "name": "Rafael Cordero y Molina School Campus Tennis Courts",
       "lat": 40.676675,
       "lng": -73.884637,
       "courtCount": 3,
@@ -1017,7 +1033,9 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w261703581",
@@ -1040,7 +1058,7 @@
     },
     {
       "id": "osm-w262144288",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 86th Crescent",
       "lat": 40.71046,
       "lng": -73.803218,
       "courtCount": 1,
@@ -1049,8 +1067,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "86th Crescent",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -1228,7 +1246,7 @@
     },
     {
       "id": "osm-w283806887",
-      "name": "Public Tennis Courts",
+      "name": "P.S. 223Q - Lyndon B. Johnson School Tennis Courts",
       "lat": 40.674883,
       "lng": -73.79076,
       "courtCount": 3,
@@ -1241,7 +1259,9 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w283808830",
@@ -1285,7 +1305,7 @@
     },
     {
       "id": "osm-w284453963",
-      "name": "Public Tennis Courts",
+      "name": "I.S. 238 - Susan B. Anthony Academy Tennis Courts",
       "lat": 40.713156,
       "lng": -73.77934,
       "courtCount": 2,
@@ -1298,11 +1318,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w284543003",
-      "name": "Public Tennis Courts",
+      "name": "P.S. 211 - Elm Tree Elementary School Tennis Courts",
       "lat": 40.741713,
       "lng": -73.863154,
       "courtCount": 3,
@@ -1315,7 +1337,9 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w284637275",
@@ -1370,7 +1394,7 @@
     },
     {
       "id": "osm-w284860787",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Queens",
       "lat": 40.741916,
       "lng": -73.847962,
       "courtCount": 1,
@@ -1380,14 +1404,14 @@
       "access": "unknown",
       "fee": null,
       "address": "23 Carousel Loop",
-      "city": null,
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w284861436",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 16th Avenue",
       "lat": 40.784344,
       "lng": -73.77917,
       "courtCount": 1,
@@ -1396,8 +1420,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "16th Avenue",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -1438,7 +1462,7 @@
     },
     {
       "id": "osm-w284891909",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 5th Avenue",
       "lat": 40.792298,
       "lng": -73.839571,
       "courtCount": 1,
@@ -1447,15 +1471,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "5th Avenue",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w285028858",
-      "name": "Public Tennis Courts",
+      "name": "Co-Op City Tennis Courts",
       "lat": 40.873045,
       "lng": -73.825671,
       "courtCount": 1,
@@ -1472,7 +1496,7 @@
     },
     {
       "id": "osm-w285058169",
-      "name": "Soundview Park Tennis Courts",
+      "name": "P.S. 107X Tennis Courts",
       "lat": 40.819358,
       "lng": -73.868581,
       "courtCount": 2,
@@ -1485,7 +1509,9 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w285062101",
@@ -1506,7 +1532,7 @@
     },
     {
       "id": "osm-w285135387",
-      "name": "Public Tennis Courts",
+      "name": "Herbert H. Lehman Educational Campus Tennis Courts",
       "lat": 40.839068,
       "lng": -73.839289,
       "courtCount": 2,
@@ -1519,11 +1545,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w285293022",
-      "name": "Public Tennis Courts",
+      "name": "Belle Harbor Tennis Courts",
       "lat": 40.581355,
       "lng": -73.84884,
       "courtCount": 2,
@@ -1540,7 +1568,7 @@
     },
     {
       "id": "osm-w285296072",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ralph Avenue",
       "lat": 40.62837,
       "lng": -73.917913,
       "courtCount": 1,
@@ -1549,8 +1577,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ralph Avenue",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -1598,7 +1626,7 @@
     },
     {
       "id": "osm-w285980024",
-      "name": "Public Tennis Courts",
+      "name": "Regal Walk Condominiums Tennis Courts",
       "lat": 40.622187,
       "lng": -74.164787,
       "courtCount": 1,
@@ -1632,7 +1660,7 @@
     },
     {
       "id": "osm-w285986705",
-      "name": "Public Tennis Courts",
+      "name": "Aspen Knolls Estates Tennis Courts",
       "lat": 40.560541,
       "lng": -74.183939,
       "courtCount": 1,
@@ -1649,7 +1677,7 @@
     },
     {
       "id": "osm-w286149121",
-      "name": "Public Tennis Courts",
+      "name": "La Tourette Golf Course Tennis Courts",
       "lat": 40.580374,
       "lng": -74.153779,
       "courtCount": 1,
@@ -1666,7 +1694,7 @@
     },
     {
       "id": "osm-w286149122",
-      "name": "Public Tennis Courts",
+      "name": "Essex Shire Tennis Courts",
       "lat": 40.581572,
       "lng": -74.157426,
       "courtCount": 1,
@@ -1842,7 +1870,7 @@
     },
     {
       "id": "osm-w329779768",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 57th Avenue",
       "lat": 40.735143,
       "lng": -73.872065,
       "courtCount": 1,
@@ -1851,8 +1879,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "57th Avenue",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -1930,7 +1958,7 @@
     },
     {
       "id": "osm-w375719858",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East 75th Street",
       "lat": 40.771374,
       "lng": -73.957677,
       "courtCount": 5,
@@ -1939,15 +1967,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 75th Street",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w377503730",
-      "name": "Playground One Twenty Five CXXV Tennis Courts",
+      "name": "P.S. 125 - The Ralph Bunche School Tennis Courts",
       "lat": 40.810753,
       "lng": -73.955326,
       "courtCount": 1,
@@ -1960,7 +1988,9 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w380284835",
@@ -2037,7 +2067,7 @@
     },
     {
       "id": "osm-w390086293",
-      "name": "Public Tennis Courts",
+      "name": "Adlai E Stevenson Educational Campus Tennis Courts",
       "lat": 40.81992,
       "lng": -73.855379,
       "courtCount": 1,
@@ -2050,7 +2080,9 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w400014459",
@@ -2111,7 +2143,7 @@
     },
     {
       "id": "osm-w412082578",
-      "name": "Spring Creek Park Tennis Courts",
+      "name": "Moe Finkelstein Athletic Complex Tennis Courts",
       "lat": 40.658896,
       "lng": -73.871332,
       "courtCount": 2,
@@ -2124,7 +2156,9 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w413492426",
@@ -2185,7 +2219,7 @@
     },
     {
       "id": "osm-w415626908",
-      "name": "Public Tennis Courts",
+      "name": "Midwood High School Field Tennis Courts",
       "lat": 40.622549,
       "lng": -73.959452,
       "courtCount": 4,
@@ -2202,7 +2236,7 @@
     },
     {
       "id": "osm-w415712926",
-      "name": "Forest Park Tennis Courts",
+      "name": "Queens Metropolitan High School Tennis Courts",
       "lat": 40.709574,
       "lng": -73.856456,
       "courtCount": 1,
@@ -2215,11 +2249,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w415720911",
-      "name": "Russell Sage Playground Tennis Courts",
+      "name": "J.H.S. 190Q - Russel Sage Junior High School Tennis Courts",
       "lat": 40.723694,
       "lng": -73.851371,
       "courtCount": 4,
@@ -2232,11 +2268,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w419968844",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · John Muir Trail",
       "lat": 40.890902,
       "lng": -73.892834,
       "courtCount": 1,
@@ -2245,15 +2283,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "John Muir Trail",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w423052202",
-      "name": "Dyker Beach Park Tennis Courts",
+      "name": "Poly Prep Country Day School Tennis Courts",
       "lat": 40.612992,
       "lng": -74.023963,
       "courtCount": 6,
@@ -2266,11 +2304,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w429887427",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 86th Street Transverse",
       "lat": 40.782632,
       "lng": -73.96434,
       "courtCount": 2,
@@ -2279,15 +2319,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "86th Street Transverse",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w438367112",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · The Bronx",
       "lat": 40.786959,
       "lng": -73.879336,
       "courtCount": 4,
@@ -2297,14 +2337,14 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w442616528",
-      "name": "Public Tennis Courts",
+      "name": "Manhattan College Tennis Courts",
       "lat": 40.887945,
       "lng": -73.898466,
       "courtCount": 1,
@@ -2317,11 +2357,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w444099694",
-      "name": "Public Tennis Courts",
+      "name": "P.S. 215 - Morris H. Weiss Elementary School Tennis Courts",
       "lat": 40.602786,
       "lng": -73.970389,
       "courtCount": 1,
@@ -2334,7 +2376,9 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w451798773",
@@ -2355,7 +2399,7 @@
     },
     {
       "id": "osm-w455778922",
-      "name": "Idlewild Park Tennis Courts",
+      "name": "P.S. 181Q - The Brookfield School Tennis Courts",
       "lat": 40.655529,
       "lng": -73.752871,
       "courtCount": 1,
@@ -2368,7 +2412,9 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w457010056",
@@ -2411,7 +2457,7 @@
     },
     {
       "id": "osm-w470122964",
-      "name": "Public Tennis Courts",
+      "name": "Kingsborough Community College Tennis Courts",
       "lat": 40.58054,
       "lng": -73.93366,
       "courtCount": 4,
@@ -2424,11 +2470,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w487239769",
-      "name": "Public Tennis Courts",
+      "name": "Martin Van Buren High School Tennis Courts",
       "lat": 40.734098,
       "lng": -73.739595,
       "courtCount": 4,
@@ -2441,11 +2489,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w507795358",
-      "name": "Century Playground Tennis Courts",
+      "name": "P370K Main Site - The Jim Thorpe School Tennis Courts",
       "lat": 40.577228,
       "lng": -73.970013,
       "courtCount": 1,
@@ -2458,11 +2508,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w512147758",
-      "name": "Public Tennis Courts",
+      "name": "Sea Gate Tennis Courts",
       "lat": 40.573065,
       "lng": -74.00354,
       "courtCount": 2,
@@ -2500,7 +2552,7 @@
     },
     {
       "id": "osm-w531024258",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 213th Place",
       "lat": 40.781086,
       "lng": -73.777691,
       "courtCount": 5,
@@ -2509,15 +2561,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "213th Place",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w531033459",
-      "name": "Alley Pond Park Tennis Courts",
+      "name": "Benjamin N. Cardozo High School Tennis Courts",
       "lat": 40.752629,
       "lng": -73.758468,
       "courtCount": 3,
@@ -2530,11 +2582,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w531033463",
-      "name": "Alley Pond Park Tennis Courts",
+      "name": "Queensborough Community College - City University of New York Tennis Courts",
       "lat": 40.75603,
       "lng": -73.759845,
       "courtCount": 6,
@@ -2547,11 +2601,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w531058015",
-      "name": "Public Tennis Courts",
+      "name": "Glen Oaks Village Tennis Courts",
       "lat": 40.752866,
       "lng": -73.720172,
       "courtCount": 2,
@@ -2568,7 +2624,7 @@
     },
     {
       "id": "osm-w531066265",
-      "name": "Public Tennis Courts",
+      "name": "Jamaica Educational Campus Tennis Courts",
       "lat": 40.715276,
       "lng": -73.797724,
       "courtCount": 3,
@@ -2581,7 +2637,9 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w531068874",
@@ -2602,7 +2660,7 @@
     },
     {
       "id": "osm-w536717594",
-      "name": "Public Tennis Courts",
+      "name": "P.S. / I.S. 66 Tennis Courts",
       "lat": 40.649472,
       "lng": -73.907522,
       "courtCount": 1,
@@ -2615,7 +2673,9 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w547496359",
@@ -2656,7 +2716,7 @@
     },
     {
       "id": "osm-w622312507",
-      "name": "Public Tennis Courts",
+      "name": "Staten Island Technical High School Tennis Courts",
       "lat": 40.56889,
       "lng": -74.117162,
       "courtCount": 4,
@@ -2669,7 +2729,9 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w625093347",
@@ -2707,7 +2769,7 @@
     },
     {
       "id": "osm-w676105742",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Colden Street",
       "lat": 40.752204,
       "lng": -73.824226,
       "courtCount": 1,
@@ -2716,8 +2778,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Colden Street",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -2821,7 +2883,7 @@
     },
     {
       "id": "osm-w722371287",
-      "name": "Public Tennis Courts",
+      "name": "Boys and Girls High School Tennis Courts",
       "lat": 40.678537,
       "lng": -73.930795,
       "courtCount": 1,
@@ -2834,7 +2896,9 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w722371289",
@@ -2855,7 +2919,7 @@
     },
     {
       "id": "osm-w727609692",
-      "name": "Public Tennis Courts",
+      "name": "Bayside High School Tennis Courts",
       "lat": 40.771627,
       "lng": -73.781915,
       "courtCount": 2,
@@ -2868,11 +2932,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w738351977",
-      "name": "Public Tennis Courts",
+      "name": "Maguire Woods of Woodrow Tennis Courts",
       "lat": 40.539054,
       "lng": -74.212784,
       "courtCount": 1,
@@ -2906,7 +2972,7 @@
     },
     {
       "id": "osm-w743369772",
-      "name": "Public Tennis Courts",
+      "name": "The Hills at Grasmere Tennis Courts",
       "lat": 40.604139,
       "lng": -74.072381,
       "courtCount": 2,
@@ -2923,7 +2989,7 @@
     },
     {
       "id": "osm-w743369815",
-      "name": "Public Tennis Courts",
+      "name": "Hills North Tennis Courts",
       "lat": 40.606689,
       "lng": -74.07361,
       "courtCount": 1,
@@ -2940,7 +3006,7 @@
     },
     {
       "id": "osm-w744432012",
-      "name": "Blue Heron Park Tennis Courts",
+      "name": "Saint Joseph By The Sea High School Tennis Courts",
       "lat": 40.524839,
       "lng": -74.176308,
       "courtCount": 3,
@@ -2953,11 +3019,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w830352086",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 23rd Avenue",
       "lat": 40.778871,
       "lng": -73.780044,
       "courtCount": 1,
@@ -2966,15 +3034,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "23rd Avenue",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w833597988",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 9th Avenue",
       "lat": 40.792473,
       "lng": -73.79609,
       "courtCount": 3,
@@ -2983,8 +3051,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "9th Avenue",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -3025,7 +3093,7 @@
     },
     {
       "id": "osm-w842164339",
-      "name": "Public Tennis Courts",
+      "name": "Springfield Gardens Educational Campus Tennis Courts",
       "lat": 40.669631,
       "lng": -73.758051,
       "courtCount": 5,
@@ -3038,11 +3106,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w849465578",
-      "name": "Public Tennis Courts",
+      "name": "1199 Plaza Tennis Courts",
       "lat": 40.791113,
       "lng": -73.937482,
       "courtCount": 2,
@@ -3076,7 +3146,7 @@
     },
     {
       "id": "osm-w867869991",
-      "name": "Public Tennis Courts",
+      "name": "P.S. 52Q Tennis Courts",
       "lat": 40.661427,
       "lng": -73.76764,
       "courtCount": 1,
@@ -3089,7 +3159,9 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w888695596",
@@ -3110,7 +3182,7 @@
     },
     {
       "id": "osm-w889079781",
-      "name": "Public Tennis Courts",
+      "name": "P.S. 58 - Space Shuttle Columbia School Tennis Courts",
       "lat": 40.582411,
       "lng": -74.15976,
       "courtCount": 1,
@@ -3123,11 +3195,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w889079791",
-      "name": "Public Tennis Courts",
+      "name": "College of Staten Island High School for International Studies Tennis Courts",
       "lat": 40.579324,
       "lng": -74.160816,
       "courtCount": 2,
@@ -3140,11 +3214,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w889263176",
-      "name": "Skyline Park Tennis Courts",
+      "name": "Harvard Yard Tennis Courts",
       "lat": 40.639557,
       "lng": -74.089906,
       "courtCount": 2,
@@ -3178,7 +3254,7 @@
     },
     {
       "id": "osm-w896013986",
-      "name": "Little Bay Park Tennis Courts",
+      "name": "Clearview Park Tennis Courts",
       "lat": 40.78631,
       "lng": -73.787202,
       "courtCount": 2,
@@ -3212,7 +3288,7 @@
     },
     {
       "id": "osm-w902533773",
-      "name": "Public Tennis Courts",
+      "name": "Abraham Lincoln High School Tennis Courts",
       "lat": 40.582932,
       "lng": -73.970295,
       "courtCount": 5,
@@ -3225,7 +3301,9 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w902536227",
@@ -3250,7 +3328,7 @@
     },
     {
       "id": "osm-w902539676",
-      "name": "Public Tennis Courts",
+      "name": "John Dewey High School Tennis Courts",
       "lat": 40.587146,
       "lng": -73.97956,
       "courtCount": 3,
@@ -3263,11 +3341,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w902542485",
-      "name": "Sheepshead Playground Tennis Courts",
+      "name": "P.S. 52 - Sheepshead Bay School Tennis Courts",
       "lat": 40.588355,
       "lng": -73.939951,
       "courtCount": 2,
@@ -3280,7 +3360,9 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w902543637",
@@ -3338,7 +3420,7 @@
     },
     {
       "id": "osm-w902550151",
-      "name": "Public Tennis Courts",
+      "name": "James Madison High School Tennis Courts",
       "lat": 40.611189,
       "lng": -73.948425,
       "courtCount": 3,
@@ -3351,7 +3433,9 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w902551427",
@@ -3396,7 +3480,7 @@
     },
     {
       "id": "osm-w905693761",
-      "name": "Public Tennis Courts",
+      "name": "The Tides at Charleston Tennis Courts",
       "lat": 40.529861,
       "lng": -74.239656,
       "courtCount": 1,
@@ -3430,7 +3514,7 @@
     },
     {
       "id": "osm-w911290689",
-      "name": "Public Tennis Courts",
+      "name": "P.S. 140Q - Edward K. Ellington Magnet School Tennis Courts",
       "lat": 40.687623,
       "lng": -73.781455,
       "courtCount": 1,
@@ -3443,11 +3527,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w914493774",
-      "name": "Baisley Pond Park Tennis Courts",
+      "name": "August Martin High School Tennis Courts",
       "lat": 40.674126,
       "lng": -73.783062,
       "courtCount": 3,
@@ -3460,11 +3546,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w920611517",
-      "name": "Public Tennis Courts",
+      "name": "P.S. / M.S. 122Q - The Mamie Fay School Tennis Courts",
       "lat": 40.780584,
       "lng": -73.915285,
       "courtCount": 2,
@@ -3477,11 +3565,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w920622921",
-      "name": "Public Tennis Courts",
+      "name": "P.S. 152Q - The Gwendoline N. Alleyne School Tennis Courts",
       "lat": 40.753156,
       "lng": -73.900738,
       "courtCount": 1,
@@ -3494,11 +3584,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w920652871",
-      "name": "Prospect Park Parade Ground Tennis Courts",
+      "name": "P.S. 249 - The Caton School Tennis Courts",
       "lat": 40.649297,
       "lng": -73.966626,
       "courtCount": 1,
@@ -3511,11 +3603,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w920665890",
-      "name": "Public Tennis Courts",
+      "name": "Riverdale Avenue Community & Middle School Tennis Courts",
       "lat": 40.659412,
       "lng": -73.913654,
       "courtCount": 1,
@@ -3528,11 +3622,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w925388930",
-      "name": "Public Tennis Courts",
+      "name": "Grover Cleveland High School Tennis Courts",
       "lat": 40.711963,
       "lng": -73.909823,
       "courtCount": 5,
@@ -3545,11 +3641,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w925876432",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 24th Avenue",
       "lat": 40.780989,
       "lng": -73.773217,
       "courtCount": 2,
@@ -3558,15 +3656,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "24th Avenue",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w928558316",
-      "name": "Public Tennis Courts",
+      "name": "J.H.S. 185 - Edward Bleeker Junior High School Tennis Courts",
       "lat": 40.775091,
       "lng": -73.819246,
       "courtCount": 1,
@@ -3579,11 +3677,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w929417359",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 58th Avenue",
       "lat": 40.761712,
       "lng": -73.72283,
       "courtCount": 2,
@@ -3592,15 +3692,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "58th Avenue",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w933103336",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Surf Drive",
       "lat": 40.80492,
       "lng": -73.853784,
       "courtCount": 1,
@@ -3609,15 +3709,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Surf Drive",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w933635147",
-      "name": "Public Tennis Courts",
+      "name": "P.S. 19Q - Marino P. Jeantet School Tennis Courts",
       "lat": 40.748234,
       "lng": -73.86646,
       "courtCount": 2,
@@ -3630,11 +3730,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w933638411",
-      "name": "Public Tennis Courts",
+      "name": "Forest Hills High School Tennis Courts",
       "lat": 40.730335,
       "lng": -73.84264,
       "courtCount": 4,
@@ -3647,11 +3749,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w938180362",
-      "name": "Public Tennis Courts",
+      "name": "Horizon Village Condominiums Tennis Courts",
       "lat": 40.614536,
       "lng": -74.151778,
       "courtCount": 1,
@@ -3668,7 +3772,7 @@
     },
     {
       "id": "osm-w968001211",
-      "name": "Public Tennis Courts",
+      "name": "Grand Street Educational Campus Tennis Courts",
       "lat": 40.711265,
       "lng": -73.938866,
       "courtCount": 5,
@@ -3681,7 +3785,9 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w968260318",
@@ -3702,7 +3808,7 @@
     },
     {
       "id": "osm-w972138855",
-      "name": "Public Tennis Courts",
+      "name": "Albert Einstein College of Medicine Tennis Courts",
       "lat": 40.852964,
       "lng": -73.843931,
       "courtCount": 1,
@@ -3715,11 +3821,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w984997986",
-      "name": "Wave Hill Tennis Courts",
+      "name": "Riverdale Country School Tennis Courts",
       "lat": 40.89837,
       "lng": -73.914276,
       "courtCount": 4,
@@ -3732,11 +3840,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w984999585",
-      "name": "Public Tennis Courts",
+      "name": "Riverdale Country School Tennis Courts",
       "lat": 40.900147,
       "lng": -73.900584,
       "courtCount": 3,
@@ -3749,7 +3859,9 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w994976030",
@@ -3774,7 +3886,7 @@
     },
     {
       "id": "osm-w1014234276",
-      "name": "Wolfe's Pond Park Tennis Courts",
+      "name": "Tottenville High School Tennis Courts",
       "lat": 40.52838,
       "lng": -74.194253,
       "courtCount": 3,
@@ -3787,7 +3899,9 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w1016740732",
@@ -3846,7 +3960,7 @@
     },
     {
       "id": "osm-w1023668014",
-      "name": "Public Tennis Courts",
+      "name": "P.S 184M - Shuang Wen School Tennis Courts",
       "lat": 40.710849,
       "lng": -73.985128,
       "courtCount": 1,
@@ -3859,11 +3973,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w1034049677",
-      "name": "Public Tennis Courts",
+      "name": "Michael J. Petrides Educational Complex Tennis Courts",
       "lat": 40.609265,
       "lng": -74.107547,
       "courtCount": 4,
@@ -3876,11 +3992,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w1034319249",
-      "name": "Public Tennis Courts",
+      "name": "Moore Catholic High School Tennis Courts",
       "lat": 40.608705,
       "lng": -74.16381,
       "courtCount": 1,
@@ -3893,11 +4011,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w1047533365",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hudson River Park Esplanade",
       "lat": 40.72717,
       "lng": -74.011302,
       "courtCount": 3,
@@ -3906,15 +4026,15 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hudson River Park Esplanade",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1054932756",
-      "name": "Public Tennis Courts",
+      "name": "P.S. 377 - Alejandrina Benitez De Gautier School Tennis Courts",
       "lat": 40.693101,
       "lng": -73.915819,
       "courtCount": 1,
@@ -3927,7 +4047,9 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w1057223620",
@@ -3985,7 +4107,7 @@
     },
     {
       "id": "osm-w1084448542",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bergen Street",
       "lat": 40.67431,
       "lng": -73.919805,
       "courtCount": 1,
@@ -3994,15 +4116,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bergen Street",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1088634945",
-      "name": "Miller Field Tennis Courts",
+      "name": "New Dorp High School Tennis Courts",
       "lat": 40.571757,
       "lng": -74.106193,
       "courtCount": 6,
@@ -4015,11 +4137,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w1091759462",
-      "name": "Public Tennis Courts",
+      "name": "Silver Lake Golf Course Tennis Courts",
       "lat": 40.627871,
       "lng": -74.099355,
       "courtCount": 4,
@@ -4036,7 +4160,7 @@
     },
     {
       "id": "osm-w1095197043",
-      "name": "Public Tennis Courts",
+      "name": "LeFrak City Tennis Courts",
       "lat": 40.735859,
       "lng": -73.864449,
       "courtCount": 1,
@@ -4053,7 +4177,7 @@
     },
     {
       "id": "osm-w1095292215",
-      "name": "Richmond Parkway Tennis Courts",
+      "name": "Susan E. Wagner High School Tennis Courts",
       "lat": 40.596677,
       "lng": -74.125875,
       "courtCount": 4,
@@ -4066,11 +4190,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w1095293123",
-      "name": "Public Tennis Courts",
+      "name": "Wagner College Tennis Courts",
       "lat": 40.613852,
       "lng": -74.090369,
       "courtCount": 4,
@@ -4083,7 +4209,9 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w1096334794",
@@ -4104,7 +4232,7 @@
     },
     {
       "id": "osm-w1100636358",
-      "name": "Public Tennis Courts",
+      "name": "Stonegate at Grasmere Tennis Courts",
       "lat": 40.601728,
       "lng": -74.087531,
       "courtCount": 2,
@@ -4121,7 +4249,7 @@
     },
     {
       "id": "osm-w1100667779",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Signs Road",
       "lat": 40.603459,
       "lng": -74.171115,
       "courtCount": 1,
@@ -4130,15 +4258,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Signs Road",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1100667781",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Amsterdam Avenue",
       "lat": 40.603938,
       "lng": -74.1689,
       "courtCount": 7,
@@ -4147,8 +4275,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Amsterdam Avenue",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -4194,7 +4322,7 @@
     },
     {
       "id": "osm-w1106899323",
-      "name": "Willowbrook Park Tennis Courts",
+      "name": "P.S. 69 - Daniel D. Tompkins School Tennis Courts",
       "lat": 40.591899,
       "lng": -74.156755,
       "courtCount": 1,
@@ -4207,11 +4335,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w1107174144",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Henry Hudson Parkway West",
       "lat": 40.883228,
       "lng": -73.91634,
       "courtCount": 1,
@@ -4220,15 +4350,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Henry Hudson Parkway West",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1107381421",
-      "name": "Public Tennis Courts",
+      "name": "John F. Kennedy Educational Campus Tennis Courts",
       "lat": 40.876703,
       "lng": -73.914047,
       "courtCount": 8,
@@ -4241,7 +4371,9 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w1107539368",
@@ -4296,7 +4428,7 @@
     },
     {
       "id": "osm-w1118430221",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Huguenot Avenue",
       "lat": 40.54733,
       "lng": -74.199183,
       "courtCount": 1,
@@ -4305,8 +4437,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Huguenot Avenue",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -4330,7 +4462,7 @@
     },
     {
       "id": "osm-w1122435208",
-      "name": "Public Tennis Courts",
+      "name": "Staten Island Academy Tennis Courts",
       "lat": 40.593309,
       "lng": -74.109981,
       "courtCount": 3,
@@ -4343,7 +4475,9 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w1125688349",
@@ -4384,7 +4518,7 @@
     },
     {
       "id": "osm-w1126767724",
-      "name": "Public Tennis Courts",
+      "name": "P.S. 57 - Hubert H. Humphrey School Tennis Courts",
       "lat": 40.611458,
       "lng": -74.084247,
       "courtCount": 1,
@@ -4397,7 +4531,9 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w1128337633",
@@ -4455,7 +4591,7 @@
     },
     {
       "id": "osm-w1137694110",
-      "name": "Public Tennis Courts",
+      "name": "P.S. / M.S. 146Q - The Howard Beach School Tennis Courts",
       "lat": 40.660927,
       "lng": -73.835158,
       "courtCount": 1,
@@ -4468,11 +4604,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w1144870793",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Country Drive North",
       "lat": 40.587859,
       "lng": -74.163418,
       "courtCount": 2,
@@ -4481,8 +4619,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Country Drive North",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -4506,7 +4644,7 @@
     },
     {
       "id": "osm-w1148354549",
-      "name": "Public Tennis Courts",
+      "name": "Bay Street Landing Tennis Courts",
       "lat": 40.638644,
       "lng": -74.073976,
       "courtCount": 2,
@@ -4523,7 +4661,7 @@
     },
     {
       "id": "osm-w1148363232",
-      "name": "Public Tennis Courts",
+      "name": "I.S. 25Q - Adrien Block Intermediate School Tennis Courts",
       "lat": 40.764741,
       "lng": -73.789178,
       "courtCount": 1,
@@ -4536,7 +4674,9 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w1149028397",
@@ -4557,7 +4697,7 @@
     },
     {
       "id": "osm-w1150217574",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Grafe Street",
       "lat": 40.551514,
       "lng": -74.213409,
       "courtCount": 5,
@@ -4566,15 +4706,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Grafe Street",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1150789783",
-      "name": "Public Tennis Courts",
+      "name": "Joan of Arc Educational Complex Tennis Courts",
       "lat": 40.791201,
       "lng": -73.970759,
       "courtCount": 2,
@@ -4587,7 +4727,9 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w1151010307",
@@ -4625,7 +4767,7 @@
     },
     {
       "id": "osm-w1173390377",
-      "name": "Public Tennis Courts",
+      "name": "Franklin K Lane High School Tennis Courts",
       "lat": 40.692907,
       "lng": -73.870014,
       "courtCount": 4,
@@ -4638,11 +4780,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w1173393902",
-      "name": "Public Tennis Courts",
+      "name": "Lexington School for the Deaf Tennis Courts",
       "lat": 40.761028,
       "lng": -73.894465,
       "courtCount": 2,
@@ -4655,11 +4799,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w1183844801",
-      "name": "Public Tennis Courts",
+      "name": "Flushing Meadows Golf Center Tennis Courts",
       "lat": 40.751749,
       "lng": -73.842098,
       "courtCount": 12,
@@ -4710,7 +4856,7 @@
     },
     {
       "id": "osm-w1223282498",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Middletown Road",
       "lat": 40.849797,
       "lng": -73.823392,
       "courtCount": 10,
@@ -4719,8 +4865,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Middletown Road",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -4812,7 +4958,7 @@
     },
     {
       "id": "osm-w1241746586",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Throgs Neck Expressway Service Road",
       "lat": 40.817598,
       "lng": -73.808497,
       "courtCount": 6,
@@ -4821,8 +4967,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Throgs Neck Expressway Service Road",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -4900,7 +5046,7 @@
     },
     {
       "id": "osm-w1272824984",
-      "name": "Public Tennis Courts",
+      "name": "Stapleton Houses Tennis Courts",
       "lat": 40.62177,
       "lng": -74.081035,
       "courtCount": 1,
@@ -4917,7 +5063,7 @@
     },
     {
       "id": "osm-w1278655496",
-      "name": "Public Tennis Courts",
+      "name": "Francis Lewis High School Tennis Courts",
       "lat": 40.740694,
       "lng": -73.796477,
       "courtCount": 3,
@@ -4930,7 +5076,9 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w1355611780",
@@ -4951,7 +5099,7 @@
     },
     {
       "id": "osm-w1283050165",
-      "name": "Public Tennis Courts",
+      "name": "Saint John's University Queens Campus Tennis Courts",
       "lat": 40.72388,
       "lng": -73.796401,
       "courtCount": 5,
@@ -4964,11 +5112,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w1300520275",
-      "name": "Alley Pond Park Tennis Courts",
+      "name": "Cathedral Seminary House of Formation Tennis Courts",
       "lat": 40.746078,
       "lng": -73.734692,
       "courtCount": 1,
@@ -4981,11 +5131,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w1311561215",
-      "name": "Public Tennis Courts",
+      "name": "Port Richmond High School Tennis Courts",
       "lat": 40.635427,
       "lng": -74.142475,
       "courtCount": 5,
@@ -4998,7 +5150,9 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w1335028289",
@@ -5039,7 +5193,7 @@
     },
     {
       "id": "osm-w1365375888",
-      "name": "Public Tennis Courts",
+      "name": "United Nations International School Tennis Courts",
       "lat": 40.736186,
       "lng": -73.972956,
       "courtCount": 1,
@@ -5052,11 +5206,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w1394562299",
-      "name": "David A Fox Playground Tennis Courts",
+      "name": "P.S. 251 - The Paerdegat School Tennis Courts",
       "lat": 40.631758,
       "lng": -73.923743,
       "courtCount": 2,
@@ -5069,11 +5225,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w1394562493",
-      "name": "Public Tennis Courts",
+      "name": "P.S. 197 - The Kings Highway Academy Tennis Courts",
       "lat": 40.611921,
       "lng": -73.951304,
       "courtCount": 3,
@@ -5086,11 +5244,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w1433371744",
-      "name": "Public Tennis Courts",
+      "name": "York College / City University of New York Tennis Courts",
       "lat": 40.699255,
       "lng": -73.79647,
       "courtCount": 6,
@@ -5103,11 +5263,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w1434484164",
-      "name": "Public Tennis Courts",
+      "name": "Lehman College Tennis Courts",
       "lat": 40.874193,
       "lng": -73.89298,
       "courtCount": 5,
@@ -5120,7 +5282,9 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w1457389462",
@@ -5158,7 +5322,7 @@
     },
     {
       "id": "osm-w1471512345",
-      "name": "Gantry Plaza State Park Tennis Courts",
+      "name": "P.S.  / I.S. 78Q - Middle School Tennis Courts",
       "lat": 40.747671,
       "lng": -73.955317,
       "courtCount": 2,
@@ -5171,7 +5335,9 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w1471512804",
@@ -5216,7 +5382,7 @@
     },
     {
       "id": "osm-w1500339820",
-      "name": "Dyker Beach Park Tennis Courts",
+      "name": "P.S. / I.S. 229 Tennis Courts",
       "lat": 40.610225,
       "lng": -74.013907,
       "courtCount": 2,
@@ -5229,7 +5395,9 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w1500340472",
@@ -5253,7 +5421,7 @@
     },
     {
       "id": "osm-w1500341059",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Water's Edge Drive",
       "lat": 40.786065,
       "lng": -73.775416,
       "courtCount": 4,
@@ -5262,15 +5430,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Water's Edge Drive",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1509645593",
-      "name": "Public Tennis Courts",
+      "name": "Far Rockaway Educational Campus Tennis Courts",
       "lat": 40.600846,
       "lng": -73.764162,
       "courtCount": 4,
@@ -5283,7 +5451,9 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w1509645905",
@@ -5327,7 +5497,7 @@
     },
     {
       "id": "osm-w1525030454",
-      "name": "Public Tennis Courts",
+      "name": "Horace Mann School Tennis Courts",
       "lat": 40.894652,
       "lng": -73.898347,
       "courtCount": 4,
@@ -5340,11 +5510,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w1527416519",
-      "name": "Public Tennis Courts",
+      "name": "Canarsie Educational Campus Tennis Courts",
       "lat": 40.640794,
       "lng": -73.899925,
       "courtCount": 4,
@@ -5357,11 +5529,13 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w1535701778",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Orchard Beach Boardwalk",
       "lat": 40.869585,
       "lng": -73.791625,
       "courtCount": 3,
@@ -5370,15 +5544,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Orchard Beach Boardwalk",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1539115754",
-      "name": "Public Tennis Courts",
+      "name": "Success Academy - Rosedale Elementary School Tennis Courts",
       "lat": 40.656012,
       "lng": -73.737478,
       "courtCount": 1,
@@ -5391,7 +5565,9 @@
       "city": null,
       "state": "NY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w1552396756",

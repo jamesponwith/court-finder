@@ -7,6 +7,13 @@
  *         data/raw/osm-az-parks.json, osm-nyc-parks.json (optional; named park/
  *           sports-centre bounding boxes from Overpass `out tags bb`, used to
  *           name facilities that would otherwise fall back to a generic name)
+ *         data/raw/osm-az-places.json, osm-nyc-places.json (optional; named
+ *           school/college/university, sports/recreation-ground/golf, and
+ *           residential-complex bounding boxes, same Overpass `out tags bb`
+ *           shape, used the same way — smallest containing named box wins)
+ *         data/raw/geocode-cache.json (optional; raw Nominatim reverse-geocode
+ *           responses keyed by facility id, produced by scripts/geocode.mjs;
+ *           used to name still-unnamed facilities and fill address/city)
  * Writes: public/data/courts-az.json, public/data/courts-nyc.json
  *
  * Re-run: node scripts/normalize.mjs
@@ -242,11 +249,17 @@ function facilityFromCluster(members, state) {
   const fee = feeVals.length ? feeVals.some((v) => v) : null;
 
   // access: customers wins if any member says so; unknown -> public inside park context.
+  // _accessExplicit (internal, stripped before write) records whether the value
+  // came from actual OSM access=* tags rather than the park-context heuristic.
   let access;
+  let accessExplicit = true;
   if (members.some((m) => m.tags.access === "customers")) access = "customers";
   else if (members.some((m) => m.tags.access === "public" || m.tags.access === "yes" || m.tags.access === "permissive"))
     access = "public";
-  else access = members.some((m) => parkContext(m.tags)) ? "public" : "unknown";
+  else {
+    access = members.some((m) => parkContext(m.tags)) ? "public" : "unknown";
+    accessExplicit = false;
+  }
 
   // address / city from addr:* tags on any member.
   let address = null, city = null;
@@ -288,6 +301,7 @@ function facilityFromCluster(members, state) {
     state,
     source: "osm",
     tags: extras,
+    _accessExplicit: accessExplicit,
   };
 }
 
@@ -341,6 +355,7 @@ function mergeNycParks(facilities, parksFile) {
       if (surface) best.surface = surface;
       if (indoor !== null) best.indoor = indoor;
       best.access = "public";
+      best._accessExplicit = true; // official NYC Parks record
       best.address = best.address || rec.Location || null;
       best.city = best.city || city;
       best.source = "merged";
@@ -369,31 +384,42 @@ function mergeNycParks(facilities, parksFile) {
         state: "NY",
         source: "nycparks",
         tags,
+        _accessExplicit: true, // official NYC Parks record
       });
     }
   }
   return stats;
 }
 
-// -------------------------------------------------- park-name enrichment
+// -------------------------------------------- containment-name enrichment
 
 /**
  * Optional stage: name fallback-named facilities after the named park /
- * sports centre whose bounding box contains them (smallest box wins).
- * Reads data/raw/osm-<region>-parks.json (Overpass `out tags bb`); silently
- * skipped when the file is missing.
+ * sports centre / school / campus / residential complex whose bounding box
+ * contains them (smallest containing box wins).
+ * Reads data/raw/osm-<region>-parks.json and osm-<region>-places.json
+ * (Overpass `out tags bb`); a missing file is silently skipped.
  */
-function loadParkBoxes(file) {
+function placeKind(tags) {
+  if (/^(school|college|university)$/.test(tags.amenity || "")) return "school";
+  if (tags.landuse === "residential") return "residential";
+  return "place";
+}
+
+function loadPlaceBoxes(file) {
+  if (!existsSync(file)) return [];
   const data = JSON.parse(readFileSync(file, "utf8"));
-  const parks = [];
+  const boxes = [];
   for (const el of data.elements || []) {
     const name = el.tags?.name;
     const b = el.bounds;
     if (!name || !b) continue;
-    // A bounding box is a poor containment proxy for huge parks/preserves.
+    // A bounding box is a poor containment proxy for huge parks/preserves
+    // (or sprawling subdivisions): skip boxes with a >4 km diagonal.
     if (haversineM(b.minlat, b.minlon, b.maxlat, b.maxlon) > 4000) continue;
-    parks.push({
+    boxes.push({
       name,
+      kind: placeKind(el.tags || {}),
       minlat: b.minlat,
       maxlat: b.maxlat,
       minlon: b.minlon,
@@ -401,36 +427,110 @@ function loadParkBoxes(file) {
       areaDeg: (b.maxlat - b.minlat) * (b.maxlon - b.minlon),
     });
   }
-  return parks;
+  return boxes;
 }
 
-function enrichNamesFromParks(region, facilities, parksFile) {
-  if (!existsSync(parksFile)) {
-    console.log(`[${region}] no park boxes file — skipping park-name enrichment`);
+function enrichNamesFromPlaces(region, facilities, parksFile, placesFile) {
+  const boxes = [...loadPlaceBoxes(parksFile), ...loadPlaceBoxes(placesFile)];
+  if (!boxes.length) {
+    console.log(`[${region}] no park/place boxes — skipping containment enrichment`);
     return;
   }
-  const parks = loadParkBoxes(parksFile);
   const MARGIN = 30 / 111000; // ~30 m of bbox slack, in degrees
-  let renamed = 0;
+  let renamed = 0, schools = 0;
   for (const f of facilities) {
     if (f.name !== FALLBACK_NAME) continue;
-    let best = null;
-    for (const p of parks) {
+    // Smallest containing named box wins, except that residential-complex
+    // boxes only apply when no park/school/sports box contains the facility
+    // (condo subdivisions often abut or overlap the park their courts are
+    // actually part of).
+    let best = null, bestResidential = null;
+    for (const p of boxes) {
       if (
         f.lat < p.minlat - MARGIN || f.lat > p.maxlat + MARGIN ||
         f.lng < p.minlon - MARGIN || f.lng > p.maxlon + MARGIN
       ) continue;
-      if (!best || p.areaDeg < best.areaDeg) best = p;
+      if (p.kind === "residential") {
+        if (!bestResidential || p.areaDeg < bestResidential.areaDeg) bestResidential = p;
+      } else if (!best || p.areaDeg < best.areaDeg) best = p;
     }
+    if (!best) best = bestResidential;
     if (best) {
-      f.name = /tennis|court/i.test(best.name)
+      f.name = /tennis|racquet|racket/i.test(best.name)
         ? best.name
         : `${best.name} Tennis Courts`;
       renamed++;
+      if (best.kind === "school") {
+        // Courts on school/college/university grounds may not be truly
+        // public; flag the context and demote heuristic-derived access.
+        if (!f._accessExplicit) f.access = "unknown";
+        f.tags.context = "school";
+        schools++;
+      }
     }
   }
   console.log(
-    `[${region}] park-name enrichment: named ${renamed} facilities from ${parks.length} park boxes`
+    `[${region}] containment enrichment: named ${renamed} facilities ` +
+      `(${schools} school-context) from ${boxes.length} boxes`
+  );
+}
+
+// -------------------------------------------- geocode-cache enrichment
+
+/**
+ * Optional stage: use cached Nominatim reverse-geocode responses
+ * (data/raw/geocode-cache.json, produced by scripts/geocode.mjs, keyed by
+ * facility id) to (a) name facilities still carrying the fallback name and
+ * (b) fill null address/city on any facility with a cached response.
+ * Silently skipped when the cache file is missing.
+ */
+const NOMINATIM_SPORTY_TYPES = new Set([
+  "park", "pitch", "sports_centre", "sports_hall", "recreation_ground",
+  "playground", "stadium", "track", "fitness_centre", "golf_course",
+  "garden", "dog_park",
+]);
+
+function applyGeocodeCache(region, facilities, cacheFile) {
+  if (!existsSync(cacheFile)) {
+    console.log(`[${region}] no geocode cache — skipping geocode enrichment`);
+    return;
+  }
+  const cache = JSON.parse(readFileSync(cacheFile, "utf8"));
+  let renamed = 0, addrFilled = 0, cityFilled = 0;
+  for (const f of facilities) {
+    const g = cache[f.id];
+    if (!g || g.error || !g.address) continue;
+    const a = g.address;
+    const road = a.road || a.pedestrian || a.footway || null;
+    const addr = [a.house_number, road].filter(Boolean).join(" ") || null;
+    const city = a.city || a.town || a.village || a.suburb || a.county || null;
+
+    if (f.name === FALLBACK_NAME) {
+      // Prefer the Nominatim feature name when it's a park/pitch/sports
+      // thing; else fall back to "Tennis Courts · <road/neighbourhood>".
+      const sporty =
+        g.name &&
+        (g.category === "leisure" || NOMINATIM_SPORTY_TYPES.has(g.type));
+      const area = a.neighbourhood || a.suburb || null;
+      if (sporty) {
+        f.name = /tennis|racquet|racket/i.test(g.name)
+          ? g.name
+          : `${g.name} Tennis Courts`;
+        renamed++;
+      } else if (road) {
+        f.name = `Tennis Courts · ${road}`;
+        renamed++;
+      } else if (area) {
+        f.name = `Tennis Courts · ${area}`;
+        renamed++;
+      }
+    }
+    if (!f.address && addr) { f.address = addr; addrFilled++; }
+    if (!f.city && city) { f.city = city; cityFilled++; }
+  }
+  console.log(
+    `[${region}] geocode enrichment: named ${renamed}, ` +
+      `filled ${addrFilled} addresses, ${cityFilled} cities`
   );
 }
 
@@ -501,10 +601,19 @@ if (existsSync(parksFile)) {
   console.log("[nyc] no nyc-parks-tennis.json — skipping Parks merge");
 }
 
-// Name remaining fallback-named facilities after their surrounding park
-// (runs after the Parks merge so official NYC Parks names win).
-enrichNamesFromParks("az", azFacilities, join(RAW, "osm-az-parks.json"));
-enrichNamesFromParks("nyc", nycFacilities, join(RAW, "osm-nyc-parks.json"));
+// Name remaining fallback-named facilities after their surrounding park /
+// school / sports centre / residential complex (runs after the Parks merge
+// so official NYC Parks names win).
+enrichNamesFromPlaces("az", azFacilities, join(RAW, "osm-az-parks.json"), join(RAW, "osm-az-places.json"));
+enrichNamesFromPlaces("nyc", nycFacilities, join(RAW, "osm-nyc-parks.json"), join(RAW, "osm-nyc-places.json"));
+
+// Fill names/addresses from cached Nominatim reverse-geocode responses
+// (runs last: containment-derived names are preferred over street names).
+applyGeocodeCache("az", azFacilities, join(RAW, "geocode-cache.json"));
+applyGeocodeCache("nyc", nycFacilities, join(RAW, "geocode-cache.json"));
+
+// Strip internal working fields so the output schema stays unchanged.
+for (const f of [...azFacilities, ...nycFacilities]) delete f._accessExplicit;
 
 sanityCheck("az", azFacilities);
 sanityCheck("nyc", nycFacilities);
