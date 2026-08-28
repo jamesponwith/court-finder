@@ -97,9 +97,9 @@ export function CourtDetail({
 
         {facility.tags.permitRequired === true && (
           <p className="permit-note">
-            <strong>Heads up:</strong> NYC Parks courts require a tennis permit
-            during the outdoor season (April–November). Single-play and
-            season permits are available from NYC Parks.
+            <strong>Heads up:</strong> These courts require a tennis permit to
+            play (at least during peak season). Check with the facility or the
+            local parks department for single-play and season permits.
           </p>
         )}
 

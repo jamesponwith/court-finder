@@ -2,19 +2,22 @@
 /**
  * normalize.mjs — Court Finder data pipeline (stage 2: normalize).
  *
- * Reads:  data/raw/osm-az.json, data/raw/osm-nyc.json  (Overpass JSON)
- *         data/raw/nyc-parks-tennis.json               (optional; NYC Parks directory)
- *         data/raw/osm-az-parks.json, osm-nyc-parks.json (optional; named park/
- *           sports-centre bounding boxes from Overpass `out tags bb`, used to
- *           name facilities that would otherwise fall back to a generic name)
- *         data/raw/osm-az-places.json, osm-nyc-places.json (optional; named
- *           school/college/university, sports/recreation-ground/golf, and
- *           residential-complex bounding boxes, same Overpass `out tags bb`
- *           shape, used the same way — smallest containing named box wins)
+ * Regions come from scripts/regions.mjs (slug, state, bounds, raw-file names,
+ * flags); adding a region is one entry there plus its raw extracts.
+ *
+ * Reads, per region <slug>:
+ *         data/raw/osm-<slug>.json (Overpass JSON, from scripts/fetch-osm.mjs)
+ *         the region's configured place extracts (optional; e.g.
+ *           osm-<slug>-places.json — named park/sports-centre/school/campus/
+ *           residential bounding boxes from Overpass `out tags bb`, used to
+ *           name facilities that would otherwise fall back to a generic name;
+ *           smallest containing named box wins)
+ *         data/raw/nyc-parks-tennis.json (optional; NYC Parks directory,
+ *           merged only into regions flagged nycParksMerge — i.e. ny)
  *         data/raw/geocode-cache.json (optional; raw Nominatim reverse-geocode
  *           responses keyed by facility id, produced by scripts/geocode.mjs;
  *           used to name still-unnamed facilities and fill address/city)
- * Writes: public/data/courts-az.json, public/data/courts-nyc.json
+ * Writes: public/data/courts-<slug>.json for every configured region.
  *
  * Re-run: node scripts/normalize.mjs
  * Plain Node (>=16), no npm dependencies.
@@ -23,6 +26,7 @@
 import { readFileSync, writeFileSync, mkdirSync, existsSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
+import { REGIONS } from "./regions.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const RAW = join(ROOT, "data", "raw");
@@ -34,10 +38,10 @@ const MERGE_RADIUS_M = 150; // NYC Parks record -> OSM facility matching
 const MAX_COURTS = 60;
 const FALLBACK_NAME = "Public Tennis Courts";
 
-const BOUNDS = {
-  az: { latMin: 31, latMax: 37.1, lngMin: -115, lngMax: -109 },
-  nyc: { latMin: 40.4, latMax: 41, lngMin: -74.3, lngMax: -73.6 },
-};
+// NYC-city bounding box, used only by the NYC Parks merge to correct the
+// source quirk of longitudes with a missing minus sign (the ny region's own
+// sanity bounds are statewide and too wide for that check).
+const NYC_CITY = { latMin: 40.4, latMax: 41, lngMin: -74.3, lngMax: -73.6 };
 
 // ---------------------------------------------------------------- helpers
 
@@ -325,7 +329,7 @@ function mergeNycParks(facilities, parksFile) {
     const lat = parseFloat(rec.lat);
     let lon = parseFloat(rec.lon);
     // Source data quirk: a few records omit the minus sign on longitude.
-    if (Number.isFinite(lon) && lon > 0 && -lon >= BOUNDS.nyc.lngMin && -lon <= BOUNDS.nyc.lngMax)
+    if (Number.isFinite(lon) && lon > 0 && -lon >= NYC_CITY.lngMin && -lon <= NYC_CITY.lngMax)
       lon = -lon;
     if (!Number.isFinite(lat) || !Number.isFinite(lon)) {
       stats.noCoord++;
@@ -397,8 +401,8 @@ function mergeNycParks(facilities, parksFile) {
  * Optional stage: name fallback-named facilities after the named park /
  * sports centre / school / campus / residential complex whose bounding box
  * contains them (smallest containing box wins).
- * Reads data/raw/osm-<region>-parks.json and osm-<region>-places.json
- * (Overpass `out tags bb`); a missing file is silently skipped.
+ * Reads the region's configured place extracts (Overpass `out tags bb`,
+ * e.g. data/raw/osm-<slug>-places.json); a missing file is silently skipped.
  */
 function placeKind(tags) {
   if (/^(school|college|university)$/.test(tags.amenity || "")) return "school";
@@ -430,8 +434,8 @@ function loadPlaceBoxes(file) {
   return boxes;
 }
 
-function enrichNamesFromPlaces(region, facilities, parksFile, placesFile) {
-  const boxes = [...loadPlaceBoxes(parksFile), ...loadPlaceBoxes(placesFile)];
+function enrichNamesFromPlaces(region, facilities, placeFiles) {
+  const boxes = placeFiles.flatMap((f) => loadPlaceBoxes(f));
   if (!boxes.length) {
     console.log(`[${region}] no park/place boxes — skipping containment enrichment`);
     return;
@@ -548,8 +552,7 @@ function processRegion(region, osmFile, state) {
   return facilities;
 }
 
-function sanityCheck(region, facilities) {
-  const b = BOUNDS[region];
+function sanityCheck(region, facilities, b) {
   const bad = [];
   for (const f of facilities) {
     if (!Number.isFinite(f.lat) || !Number.isFinite(f.lng) ||
@@ -587,37 +590,55 @@ function summarize(region, facilities) {
   );
 }
 
-const azFacilities = processRegion("az", join(RAW, "osm-az.json"), "AZ");
-const nycFacilities = processRegion("nyc", join(RAW, "osm-nyc.json"), "NY");
+for (const region of REGIONS) {
+  const { slug, state, bounds } = region;
+  const osmFile = join(RAW, `osm-${slug}.json`);
+  if (!existsSync(osmFile)) {
+    console.error(
+      `[${slug}] MISSING ${osmFile} — run node scripts/fetch-osm.mjs ${slug}; skipping region`
+    );
+    process.exitCode = 1;
+    continue;
+  }
+  let facilities = processRegion(slug, osmFile, state);
 
-const parksFile = join(RAW, "nyc-parks-tennis.json");
-if (existsSync(parksFile)) {
-  const s = mergeNycParks(nycFacilities, parksFile);
-  console.log(
-    `[nyc] Parks merge: ${s.total} records; ${s.matched} matched to OSM (source=merged), ` +
-      `${s.added} added as nycparks-only, ${s.noCoord} skipped (no coordinates)`
-  );
-} else {
-  console.log("[nyc] no nyc-parks-tennis.json — skipping Parks merge");
+  // Per-region exclusions (e.g. elp's fetch bbox spans into Ciudad Juárez, MX).
+  if (region.excludeIds?.length) {
+    const drop = new Set(region.excludeIds);
+    const before = facilities.length;
+    facilities = facilities.filter((f) => !drop.has(f.id));
+    console.log(`[${slug}] excluded ${before - facilities.length} facilities via excludeIds`);
+  }
+
+  // NYC Parks directory merge (regions flagged nycParksMerge, i.e. ny).
+  // Proximity matching (150 m) only touches facilities near the city, so it
+  // is safe — and required — on the statewide ny region.
+  if (region.nycParksMerge) {
+    const parksFile = join(RAW, "nyc-parks-tennis.json");
+    if (existsSync(parksFile)) {
+      const s = mergeNycParks(facilities, parksFile);
+      console.log(
+        `[${slug}] Parks merge: ${s.total} records; ${s.matched} matched to OSM (source=merged), ` +
+          `${s.added} added as nycparks-only, ${s.noCoord} skipped (no coordinates)`
+      );
+    } else {
+      console.log(`[${slug}] no nyc-parks-tennis.json — skipping Parks merge`);
+    }
+  }
+
+  // Name remaining fallback-named facilities after their surrounding park /
+  // school / sports centre / residential complex (runs after the Parks merge
+  // so official NYC Parks names win).
+  enrichNamesFromPlaces(slug, facilities, region.placeFiles.map((f) => join(RAW, f)));
+
+  // Fill names/addresses from cached Nominatim reverse-geocode responses
+  // (runs last: containment-derived names are preferred over street names).
+  applyGeocodeCache(slug, facilities, join(RAW, "geocode-cache.json"));
+
+  // Strip internal working fields so the output schema stays unchanged.
+  for (const f of facilities) delete f._accessExplicit;
+
+  sanityCheck(slug, facilities, bounds);
+  writeRegion(slug, facilities);
+  summarize(slug, facilities);
 }
-
-// Name remaining fallback-named facilities after their surrounding park /
-// school / sports centre / residential complex (runs after the Parks merge
-// so official NYC Parks names win).
-enrichNamesFromPlaces("az", azFacilities, join(RAW, "osm-az-parks.json"), join(RAW, "osm-az-places.json"));
-enrichNamesFromPlaces("nyc", nycFacilities, join(RAW, "osm-nyc-parks.json"), join(RAW, "osm-nyc-places.json"));
-
-// Fill names/addresses from cached Nominatim reverse-geocode responses
-// (runs last: containment-derived names are preferred over street names).
-applyGeocodeCache("az", azFacilities, join(RAW, "geocode-cache.json"));
-applyGeocodeCache("nyc", nycFacilities, join(RAW, "geocode-cache.json"));
-
-// Strip internal working fields so the output schema stays unchanged.
-for (const f of [...azFacilities, ...nycFacilities]) delete f._accessExplicit;
-
-sanityCheck("az", azFacilities);
-sanityCheck("nyc", nycFacilities);
-writeRegion("az", azFacilities);
-writeRegion("nyc", nycFacilities);
-summarize("az", azFacilities);
-summarize("nyc", nycFacilities);

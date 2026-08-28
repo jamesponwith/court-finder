@@ -16,6 +16,7 @@ import { haversineMiles } from './lib/distance';
 import {
   DEFAULT_REGION,
   REGIONS,
+  resolveRegionSlug,
   type CourtsFile,
   type Facility,
   type LatLng,
@@ -35,7 +36,12 @@ const NO_FACILITIES: Facility[] = [];
 function loadStoredRegion(): Region {
   try {
     const stored = window.localStorage.getItem(REGION_STORAGE_KEY);
-    if (stored === 'az' || stored === 'nyc') return stored;
+    if (stored !== null) {
+      // Migrates legacy slugs (e.g. "nyc" → "ny"); unknown values fall
+      // through to the default.
+      const region = resolveRegionSlug(stored);
+      if (region !== null) return region;
+    }
   } catch {
     // Storage unavailable (private mode etc.) — fall through.
   }
@@ -159,7 +165,7 @@ export default function App() {
   const attribution =
     data.status === 'ready'
       ? data.file.attribution
-      : '© OpenStreetMap contributors (ODbL); NYC Parks Open Data';
+      : '© OpenStreetMap contributors (ODbL)';
 
   const sheetLabel =
     data.status === 'loading'

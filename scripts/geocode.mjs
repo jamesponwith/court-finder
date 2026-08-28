@@ -3,8 +3,8 @@
  * geocode.mjs — Court Finder data pipeline (stage 3: reverse-geocode).
  *
  * Reverse-geocodes facilities that are still fallback-named ("Public Tennis
- * Courts") after normalize.mjs's containment enrichment, using the public
- * Nominatim API. Responses are cached verbatim in
+ * Courts") after normalize.mjs's containment enrichment, across every region
+ * configured in scripts/regions.mjs, using the public Nominatim API. Responses are cached verbatim in
  * data/raw/geocode-cache.json keyed by facility id; normalize.mjs consumes
  * that cache on its next run to derive names/addresses/cities.
  *
@@ -26,6 +26,7 @@
 import { readFileSync, writeFileSync, existsSync, renameSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
+import { REGIONS } from "./regions.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const OUT = join(ROOT, "public", "data");
@@ -46,17 +47,24 @@ const RETRY_ERRORS = args.includes("--retry-errors");
 
 function loadTargets() {
   const targets = [];
-  for (const region of ["az", "nyc"]) {
-    const file = join(OUT, `courts-${region}.json`);
+  const perRegion = [];
+  for (const { slug } of REGIONS) {
+    const file = join(OUT, `courts-${slug}.json`);
     if (!existsSync(file)) {
       console.error(`missing ${file} — run node scripts/normalize.mjs first`);
       process.exit(1);
     }
     const { facilities } = JSON.parse(readFileSync(file, "utf8"));
+    let n = 0;
     for (const f of facilities) {
-      if (f.name === FALLBACK_NAME) targets.push({ id: f.id, lat: f.lat, lng: f.lng });
+      if (f.name === FALLBACK_NAME) {
+        targets.push({ id: f.id, lat: f.lat, lng: f.lng });
+        n++;
+      }
     }
+    perRegion.push(`${slug}: ${n}`);
   }
+  console.log(`fallback-named per region: ${perRegion.join(", ")}`);
   return targets;
 }
 

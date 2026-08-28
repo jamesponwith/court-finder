@@ -38,18 +38,23 @@ export function Header({ region, onRegionChange }: HeaderProps) {
           <p className="header-subtitle">by All About Tennis</p>
         </div>
       </div>
-      <nav className="region-switcher" aria-label="Region">
-        {(Object.keys(REGIONS) as Region[]).map((key) => (
-          <button
-            key={key}
-            type="button"
-            aria-pressed={region === key}
-            onClick={() => onRegionChange(key)}
-          >
-            {REGIONS[key].label}
-          </button>
-        ))}
-      </nav>
+      <div className="region-switcher">
+        <label className="visually-hidden" htmlFor="region-select">
+          Region
+        </label>
+        <select
+          id="region-select"
+          className="region-select"
+          value={region}
+          onChange={(e) => onRegionChange(e.target.value as Region)}
+        >
+          {(Object.keys(REGIONS) as Region[]).map((key) => (
+            <option key={key} value={key}>
+              {REGIONS[key].label}
+            </option>
+          ))}
+        </select>
+      </div>
     </header>
   );
 }

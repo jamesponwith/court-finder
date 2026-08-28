@@ -1,10 +1,20 @@
 # Court Finder · by All About Tennis
 
 A mobile-first web app for finding public tennis courts, built for the
-**All About Tennis** brand. It ships with two regions — **Arizona** and
-**New York City** — a full-screen map with clustered tennis-ball markers,
+**All About Tennis** brand. It ships with six regions — **Arizona**,
+**New York**, **California**, **Florida**, **New Mexico**, and
+**El Paso, TX** — a full-screen map with clustered tennis-ball markers,
 distance-aware search, filters, and per-facility detail pages with
 directions.
+
+| Slug  | Region      | Default map view        |
+| ----- | ----------- | ----------------------- |
+| `az`  | Arizona     | Phoenix (zoom 10)       |
+| `ny`  | New York    | NYC (zoom 11) — statewide data |
+| `ca`  | California  | Los Angeles (zoom 9)    |
+| `fl`  | Florida     | Statewide (zoom 7)      |
+| `nm`  | New Mexico  | Statewide (zoom 7)      |
+| `elp` | El Paso, TX | El Paso (zoom 11)       |
 
 ## Quick start
 
@@ -28,9 +38,10 @@ Court data is produced offline and served as static JSON:
   via Overpass, NYC Parks Open Data) into `data/raw/`, then normalize and
   merge it into the app-facing files.
 - `data/raw/` — raw source snapshots (not consumed by the app).
-- `public/data/courts-az.json` and `public/data/courts-nyc.json` — the
-  normalized files the app fetches at runtime from `/data/courts-az.json`
-  and `/data/courts-nyc.json`.
+- `public/data/courts-<slug>.json` (one per region: `courts-az.json`,
+  `courts-ny.json`, `courts-ca.json`, `courts-fl.json`,
+  `courts-nm.json`, `courts-elp.json`) — the normalized files the app
+  fetches at runtime from `/data/courts-<slug>.json`.
 - `docs/` — additional pipeline documentation.
 
 The app never talks to Overpass or NYC APIs directly; regenerating the
@@ -42,7 +53,7 @@ Each `public/data/courts-<region>.json` file:
 
 ```jsonc
 {
-  "region": "az" | "nyc",
+  "region": "az" | "ny" | "ca" | "fl" | "nm" | "elp",
   "attribution": "© OpenStreetMap contributors (ODbL); NYC Parks Open Data",
   "facilities": [
     {
@@ -57,7 +68,7 @@ Each `public/data/courts-<region>.json` file:
       "fee": true | false | null,
       "address": "123 Main St" | null,
       "city": "Phoenix" | null,
-      "state": "AZ" | "NY",
+      "state": "AZ" | "NY" | "CA" | "FL" | "NM" | "TX",
       "source": "osm" | "nycparks" | "merged",
       "tags": {                       // optional extras
         "permitRequired": true,
@@ -72,6 +83,22 @@ Each `public/data/courts-<region>.json` file:
 
 The TypeScript source of truth for this contract is
 [`src/lib/types.ts`](src/lib/types.ts).
+
+### Adding a region
+
+Two touch points — one in the app, one in the pipeline:
+
+1. **App:** add one entry to the `REGIONS` map in
+   [`src/lib/types.ts`](src/lib/types.ts) (slug, label, default map
+   center, and zoom), extending the `Region` union — and `StateCode`, if
+   the region introduces a new state. Nothing else in `src/` needs to
+   change: the header dropdown, data loader, and persistence all derive
+   from `REGIONS`.
+2. **Pipeline:** add a matching entry to the region table in `scripts/`
+   and run the fetch/normalize step so it produces
+   `public/data/courts-<slug>.json` with the schema above. The slug is
+   the contract between the two — the app fetches
+   `/data/courts-<slug>.json` at runtime.
 
 ## Architecture
 
@@ -101,8 +128,10 @@ re-brand.
 
 ## Features
 
-- Region switcher (Arizona / New York City), persisted in
-  `localStorage`, defaulting to Arizona.
+- Region switcher — a dropdown in the header covering all six regions —
+  persisted in `localStorage`, defaulting to Arizona. (A legacy stored
+  `"nyc"` value is migrated to `"ny"` on load; anything unrecognized
+  falls back to Arizona.)
 - Full-screen OpenStreetMap map with clustered, tennis-ball-styled
   markers and proper attribution.
 - "Near me" geolocation: a you-are-here dot, distance in miles on every
@@ -111,8 +140,8 @@ re-brand.
   text search over name/city/address.
 - Mobile bottom sheet (drag or tap the handle to resize) that becomes a
   left sidebar on desktop.
-- Detail view per facility with all fields, an NYC Parks permit note
-  when `tags.permitRequired` is set, and a Google Maps Directions link.
+- Detail view per facility with all fields, a permit note when
+  `tags.permitRequired` is set, and a Google Maps Directions link.
 - PWA-installable: web manifest + tennis SVG icon (no service worker —
   the app is fully functional online-only and the build stays simple).
 - Loading skeletons, empty states, friendly fetch-failure state, and

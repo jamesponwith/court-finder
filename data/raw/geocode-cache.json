@@ -14381,5 +14381,164 @@
    "-73.7946895",
    "-73.7849639"
   ]
+ },
+ "osm-n10754003308": {
+  "place_id": 358434494,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "way",
+  "osm_id": 20191956,
+  "lat": "40.6367815",
+  "lon": "-73.2053593",
+  "category": "highway",
+  "type": "pedestrian",
+  "place_rank": 26,
+  "importance": 0.05338519035629813,
+  "addresstype": "road",
+  "name": "East Lighthouse Walk",
+  "display_name": "East Lighthouse Walk, Kismet, Fair Harbor, Town of Islip, Suffolk County, New York, 11770, United States",
+  "address": {
+   "road": "East Lighthouse Walk",
+   "hamlet": "Kismet",
+   "village": "Fair Harbor",
+   "town": "Town of Islip",
+   "county": "Suffolk County",
+   "state": "New York",
+   "ISO3166-2-lvl4": "US-NY",
+   "postcode": "11770",
+   "country": "United States",
+   "country_code": "us"
+  },
+  "boundingbox": [
+   "40.6333481",
+   "40.6372987",
+   "-73.2055957",
+   "-73.2037508"
+  ]
+ },
+ "osm-n11195130336": {
+  "place_id": 357623602,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "way",
+  "osm_id": 20245670,
+  "lat": "40.9687520",
+  "lon": "-72.3373388",
+  "category": "highway",
+  "type": "residential",
+  "place_rank": 26,
+  "importance": 0.05338512779430835,
+  "addresstype": "road",
+  "name": "Old Sag Harbor Road",
+  "display_name": "Old Sag Harbor Road, Bridgehampton, Town of Southampton, Suffolk County, New York, 11963, United States",
+  "address": {
+   "road": "Old Sag Harbor Road",
+   "town": "Bridgehampton",
+   "county": "Suffolk County",
+   "state": "New York",
+   "ISO3166-2-lvl4": "US-NY",
+   "postcode": "11963",
+   "country": "United States",
+   "country_code": "us"
+  },
+  "boundingbox": [
+   "40.9675696",
+   "40.9754523",
+   "-72.3389815",
+   "-72.3186445"
+  ]
+ },
+ "osm-w1425734118": {
+  "place_id": 360425837,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "way",
+  "osm_id": 20227016,
+  "lat": "40.8251166",
+  "lon": "-72.6060307",
+  "category": "highway",
+  "type": "residential",
+  "place_rank": 26,
+  "importance": 0.05338563134203094,
+  "addresstype": "road",
+  "name": "Wintergreen Way",
+  "display_name": "Wintergreen Way, Village of Quogue, Town of Southampton, Suffolk County, New York, 11959, United States",
+  "address": {
+   "road": "Wintergreen Way",
+   "village": "Village of Quogue",
+   "town": "Town of Southampton",
+   "county": "Suffolk County",
+   "state": "New York",
+   "ISO3166-2-lvl4": "US-NY",
+   "postcode": "11959",
+   "country": "United States",
+   "country_code": "us"
+  },
+  "boundingbox": [
+   "40.8247740",
+   "40.8255480",
+   "-72.6063080",
+   "-72.6058920"
+  ]
+ },
+ "osm-w1425734337": {
+  "place_id": 360462086,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "way",
+  "osm_id": 579555733,
+  "lat": "40.8272864",
+  "lon": "-72.6092186",
+  "category": "highway",
+  "type": "residential",
+  "place_rank": 26,
+  "importance": 0.05338563134203094,
+  "addresstype": "road",
+  "name": "Post Fields Lane",
+  "display_name": "Post Fields Lane, Village of Quogue, Town of Southampton, Suffolk County, New York, 11959, United States",
+  "address": {
+   "road": "Post Fields Lane",
+   "village": "Village of Quogue",
+   "town": "Town of Southampton",
+   "county": "Suffolk County",
+   "state": "New York",
+   "ISO3166-2-lvl4": "US-NY",
+   "postcode": "11959",
+   "country": "United States",
+   "country_code": "us"
+  },
+  "boundingbox": [
+   "40.8257984",
+   "40.8299336",
+   "-72.6100965",
+   "-72.6085491"
+  ]
+ },
+ "osm-w1425674578": {
+  "place_id": 359752845,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "way",
+  "osm_id": 20175972,
+  "lat": "40.8222311",
+  "lon": "-72.6219174",
+  "category": "highway",
+  "type": "residential",
+  "place_rank": 26,
+  "importance": 0.053381781490806406,
+  "addresstype": "road",
+  "name": "",
+  "display_name": "Quiogue, Town of Southampton, Suffolk County, New York, 11959, United States",
+  "address": {
+   "village": "Quiogue",
+   "town": "Town of Southampton",
+   "county": "Suffolk County",
+   "state": "New York",
+   "ISO3166-2-lvl4": "US-NY",
+   "postcode": "11959",
+   "country": "United States",
+   "country_code": "us"
+  },
+  "boundingbox": [
+   "40.8221330",
+   "40.8230920",
+   "-72.6221767",
+   "-72.6219067"
+  ]
  }
 }
