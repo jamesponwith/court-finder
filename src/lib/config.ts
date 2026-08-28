@@ -6,14 +6,11 @@
 import type { Facility } from './types';
 
 /**
- * Destination for "Suggest a correction" emails.
- *
- * All About Tennis: set your support address here (e.g.
- * "corrections@allabouttennis.example") to enable the "Suggest a
- * correction" button on facility detail pages. Leave as `null` to hide
- * the button entirely.
+ * Destination for "Suggest a correction" emails. Set to `null` to hide
+ * the button entirely. Note: this address ships in the public JS bundle
+ * (any mailto link does), so use a monitored public-facing inbox.
  */
-export const FEEDBACK_EMAIL: string | null = null;
+export const FEEDBACK_EMAIL: string | null = 'allatennis.contactus@gmail.com';
 
 /**
  * Build a fully URL-encoded `mailto:` link for reporting a data problem
