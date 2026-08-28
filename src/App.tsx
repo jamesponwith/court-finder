@@ -24,6 +24,11 @@ import {
 
 const REGION_STORAGE_KEY = 'courtfinder.region';
 
+// Base-aware data directory so the app works when deployed under a
+// sub-path (e.g. GitHub Pages project sites). Vite guarantees BASE_URL
+// ends with "/".
+const DATA_BASE_URL = `${import.meta.env.BASE_URL}data`;
+
 /** Stable empty list so loading/error states don't churn identities. */
 const NO_FACILITIES: Facility[] = [];
 
@@ -59,7 +64,7 @@ export default function App() {
     let cancelled = false;
     setData({ status: 'loading' });
     setSelectedId(null);
-    loadRegion(region, (url) => fetch(url))
+    loadRegion(region, (url) => fetch(url), DATA_BASE_URL)
       .then((file) => {
         if (!cancelled) setData({ status: 'ready', file });
       })
@@ -236,6 +241,7 @@ export default function App() {
       {selected && (
         <CourtDetail
           facility={selected.facility}
+          regionLabel={regionConfig.label}
           distanceMiles={selected.distanceMiles}
           onClose={() => setSelectedId(null)}
         />

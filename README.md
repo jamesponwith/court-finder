@@ -118,6 +118,25 @@ re-brand.
 - Loading skeletons, empty states, friendly fetch-failure state, and
   data attribution in the footer.
 
+## Crowdsourced corrections
+
+Facility detail pages can show a **"Suggest a correction"** button that
+opens the visitor's mail app with a prefilled subject and checklist
+(facility name/id/region, wrong location, court count, lights, surface,
+permanently closed, other). One-line setup: set `FEEDBACK_EMAIL` in
+[`src/lib/config.ts`](src/lib/config.ts) to the All About Tennis support
+address. While it is `null` (the default) the button is hidden entirely.
+
+## Deploying to GitHub Pages
+
+`.github/workflows/deploy.yml` builds and deploys `dist/` to GitHub
+Pages on every push to `main` (enable **Settings → Pages → Source:
+GitHub Actions** once). The app is served as a project page at
+`https://<user>.github.io/court-finder/`, so the workflow builds with
+`BASE_PATH=/court-finder/`; Vite's `base` comes from that env var and
+all asset/data URLs are resolved relative to it. A plain
+`npm run build` still targets the site root for any other static host.
+
 ## Integrating into the All About Tennis mobile app
 
 Recommended path, in order of effort:

@@ -1,9 +1,11 @@
 import { useEffect } from 'react';
+import { FEEDBACK_EMAIL, buildCorrectionMailto } from '../lib/config';
 import { formatMiles } from '../lib/distance';
 import type { Facility } from '../lib/types';
 
 interface CourtDetailProps {
   facility: Facility;
+  regionLabel: string;
   distanceMiles: number | null;
   onClose: () => void;
 }
@@ -34,7 +36,12 @@ function yesNoUnknown(value: boolean | null): string {
   return 'Unknown';
 }
 
-export function CourtDetail({ facility, distanceMiles, onClose }: CourtDetailProps) {
+export function CourtDetail({
+  facility,
+  regionLabel,
+  distanceMiles,
+  onClose,
+}: CourtDetailProps) {
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
       if (e.key === 'Escape') onClose();
@@ -142,6 +149,14 @@ export function CourtDetail({ facility, distanceMiles, onClose }: CourtDetailPro
           >
             🧭 Directions
           </a>
+          {FEEDBACK_EMAIL !== null && (
+            <a
+              className="btn-quiet"
+              href={buildCorrectionMailto(FEEDBACK_EMAIL, facility, regionLabel)}
+            >
+              ✉️ Suggest a correction
+            </a>
+          )}
         </div>
       </section>
     </div>

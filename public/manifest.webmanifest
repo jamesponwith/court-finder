@@ -2,21 +2,21 @@
   "name": "Court Finder by All About Tennis",
   "short_name": "Court Finder",
   "description": "Find public tennis courts in Arizona and New York City.",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": ".",
+  "scope": ".",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0e2a24",
   "theme_color": "#12463b",
   "icons": [
     {
-      "src": "/icons/tennis-ball.svg",
+      "src": "icons/tennis-ball.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any"
     },
     {
-      "src": "/icons/tennis-ball.svg",
+      "src": "icons/tennis-ball.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "maskable"
