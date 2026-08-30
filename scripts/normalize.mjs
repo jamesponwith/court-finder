@@ -19,7 +19,12 @@
  *           used to name still-unnamed facilities and fill address/city)
  * Writes: public/data/courts-<slug>.json for every configured region.
  *
- * Re-run: node scripts/normalize.mjs
+ * Re-run: node scripts/normalize.mjs [--allow-missing]
+ *   Regions whose raw extract is missing are always skipped with a warning;
+ *   by default that makes the exit code non-zero. With --allow-missing the
+ *   exit stays clean (0) when missing raw files are the only issue — for
+ *   staged deploys while the 50-state fetch batch is still incomplete.
+ *   Sanity-check failures exit non-zero regardless.
  * Plain Node (>=16), no npm dependencies.
  */
 
@@ -590,19 +595,24 @@ function summarize(region, facilities) {
   );
 }
 
+const ALLOW_MISSING = process.argv.slice(2).includes("--allow-missing");
+
+let missing = 0;
 for (const region of REGIONS) {
   const { slug, state, bounds } = region;
   const osmFile = join(RAW, `osm-${slug}.json`);
   if (!existsSync(osmFile)) {
-    console.error(
+    console.warn(
       `[${slug}] MISSING ${osmFile} — run node scripts/fetch-osm.mjs ${slug}; skipping region`
     );
-    process.exitCode = 1;
+    missing++;
+    if (!ALLOW_MISSING) process.exitCode = 1;
     continue;
   }
   let facilities = processRegion(slug, osmFile, state);
 
-  // Per-region exclusions (e.g. elp's fetch bbox spans into Ciudad Juárez, MX).
+  // Per-region exclusions (generic hook; no current region configures any —
+  // ISO state areas don't cross borders, so out-of-country strays are rare).
   if (region.excludeIds?.length) {
     const drop = new Set(region.excludeIds);
     const before = facilities.length;
@@ -641,4 +651,13 @@ for (const region of REGIONS) {
   sanityCheck(slug, facilities, bounds);
   writeRegion(slug, facilities);
   summarize(slug, facilities);
+}
+
+if (missing) {
+  console.warn(
+    `${missing} region(s) skipped for missing raw extracts` +
+      (ALLOW_MISSING
+        ? " (--allow-missing: exiting clean)"
+        : " (exiting non-zero; pass --allow-missing for staged runs)")
+  );
 }

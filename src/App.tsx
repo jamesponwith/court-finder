@@ -13,6 +13,7 @@ import {
   type CourtFilters,
 } from './lib/filters';
 import { haversineMiles } from './lib/distance';
+import { isLocationInRegion, regionForLocation } from './lib/geo';
 import {
   DEFAULT_REGION,
   REGIONS,
@@ -48,6 +49,14 @@ function loadStoredRegion(): Region {
   return DEFAULT_REGION;
 }
 
+function persistRegion(region: Region): void {
+  try {
+    window.localStorage.setItem(REGION_STORAGE_KEY, region);
+  } catch {
+    // Ignore storage failures.
+  }
+}
+
 type DataState =
   | { status: 'loading' }
   | { status: 'error'; message: string }
@@ -64,6 +73,8 @@ export default function App() {
   const [userLocation, setUserLocation] = useState<LatLng | null>(null);
   const [geoStatus, setGeoStatus] = useState<GeoStatus>('idle');
   const [geoError, setGeoError] = useState<string | null>(null);
+  // Inline note shown briefly after "Near me" auto-switches the region.
+  const [autoSwitchNote, setAutoSwitchNote] = useState<string | null>(null);
 
   // Load region data.
   useEffect(() => {
@@ -87,21 +98,24 @@ export default function App() {
     };
   }, [region, reloadKey]);
 
-  // A fix from the old region is misleading in the new one (distances show as
-  // ~2,000 mi) — drop the location until the user taps "Near me" again.
+  // Auto-dismiss the auto-switch note after a few seconds.
   useEffect(() => {
-    setUserLocation(null);
-    setGeoStatus('idle');
-    setGeoError(null);
-  }, [region]);
+    if (autoSwitchNote === null) return;
+    const timer = window.setTimeout(() => setAutoSwitchNote(null), 6000);
+    return () => window.clearTimeout(timer);
+  }, [autoSwitchNote]);
 
   const handleRegionChange = useCallback((next: Region) => {
     setRegion(next);
-    try {
-      window.localStorage.setItem(REGION_STORAGE_KEY, next);
-    } catch {
-      // Ignore storage failures.
-    }
+    persistRegion(next);
+    // A fix from the old region is misleading in the new one (distances show
+    // as ~2,000 mi) — drop the location until the user taps "Near me" again.
+    // (The auto-switch path below keeps the location instead: there the
+    // region is chosen to match the fix.)
+    setUserLocation(null);
+    setGeoStatus('idle');
+    setGeoError(null);
+    setAutoSwitchNote(null);
   }, []);
 
   const handleNearMe = useCallback(() => {
@@ -112,9 +126,25 @@ export default function App() {
     }
     setGeoStatus('locating');
     setGeoError(null);
+    setAutoSwitchNote(null);
     navigator.geolocation.getCurrentPosition(
       (pos) => {
-        setUserLocation({ lat: pos.coords.latitude, lng: pos.coords.longitude });
+        const location = { lat: pos.coords.latitude, lng: pos.coords.longitude };
+        // If the fix is outside the current region's plausible area, switch
+        // to the region that contains it BEFORE applying the location, so
+        // the right state's data loads. regionForLocation returning null
+        // (not plausibly in any region) means stay put.
+        if (!isLocationInRegion(region, location.lat, location.lng)) {
+          const target = regionForLocation(location.lat, location.lng);
+          if (target !== null && target !== region) {
+            setRegion(target);
+            persistRegion(target);
+            setAutoSwitchNote(
+              `Switched to ${REGIONS[target].label} based on your location.`
+            );
+          }
+        }
+        setUserLocation(location);
         setGeoStatus('located');
       },
       (err) => {
@@ -127,7 +157,7 @@ export default function App() {
       },
       { enableHighAccuracy: false, timeout: 12000, maximumAge: 60000 }
     );
-  }, []);
+  }, [region]);
 
   const facilities = data.status === 'ready' ? data.file.facilities : NO_FACILITIES;
 
@@ -199,6 +229,11 @@ export default function App() {
           {geoStatus === 'error' && geoError && (
             <p className="geo-error" role="alert">
               {geoError}
+            </p>
+          )}
+          {autoSwitchNote && (
+            <p className="geo-error geo-note" role="status">
+              {autoSwitchNote}
             </p>
           )}
         </div>

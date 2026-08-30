@@ -10,13 +10,16 @@
  *                           consumed by normalize.mjs containment enrichment
  *
  * Usage:  node scripts/fetch-osm.mjs [slug ...] [--force]
- *   With no slugs, fetches every configured region. Existing files are
- *   skipped unless --force is given. Queries run strictly one at a time
- *   (Overpass fair-use), retrying once per endpoint and falling back from
- *   overpass-api.de to overpass.kumi.systems.
+ *   With no slugs (or --all), fetches every configured region — all 50
+ *   states + DC. Existing files are skipped unless --force is given, so an
+ *   interrupted batch is resumable: just re-run and it picks up at the first
+ *   region missing a raw file. Queries run strictly one at a time (Overpass
+ *   fair-use) with a polite 3 s pause between successive queries, retrying
+ *   once per endpoint and falling back from overpass-api.de to
+ *   overpass.kumi.systems.
  *
- * State regions are scoped via area["ISO3166-2"="US-XX"]["admin_level"="4"];
- * bbox regions (elp) query a plain bounding box.
+ * Regions are scoped via area["ISO3166-2"="US-XX"]["admin_level"="4"];
+ * an { bbox } region (none currently) would query a plain bounding box.
  *
  * Plain Node (>= 18, for global fetch), no npm dependencies.
  */
@@ -35,7 +38,7 @@ const ENDPOINTS = [
 ];
 const USER_AGENT =
   "AllAboutTennis-CourtFinder/1.0 (court data pipeline; occasional batch)";
-const PAUSE_MS = 5000; // between successive queries
+const PAUSE_MS = 3000; // polite pause between successive queries
 const RETRY_PAUSE_MS = 30000; // before retrying a failed query
 
 // ------------------------------------------------------------- queries
@@ -132,6 +135,7 @@ async function fetchFile(file, query, label, force) {
 
 const args = process.argv.slice(2);
 const force = args.includes("--force");
+// --all is accepted as an explicit synonym for the no-slug default.
 const slugs = args.filter((a) => !a.startsWith("--"));
 const regions = slugs.length
   ? slugs.map((s) => {

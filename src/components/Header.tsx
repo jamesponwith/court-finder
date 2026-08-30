@@ -1,5 +1,10 @@
 import { REGIONS, type Region } from '../lib/types';
 
+// Alphabetical by label so users can scan (and typeahead) the long state list.
+const REGION_OPTIONS = Object.values(REGIONS)
+  .slice()
+  .sort((a, b) => a.label.localeCompare(b.label));
+
 interface HeaderProps {
   region: Region;
   onRegionChange: (region: Region) => void;
@@ -48,9 +53,9 @@ export function Header({ region, onRegionChange }: HeaderProps) {
           value={region}
           onChange={(e) => onRegionChange(e.target.value as Region)}
         >
-          {(Object.keys(REGIONS) as Region[]).map((key) => (
-            <option key={key} value={key}>
-              {REGIONS[key].label}
+          {REGION_OPTIONS.map((config) => (
+            <option key={config.region} value={config.region}>
+              {config.label}
             </option>
           ))}
         </select>

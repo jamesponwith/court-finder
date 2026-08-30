@@ -111,6 +111,12 @@ button {
   border-radius: var(--radius-pill);
   cursor: pointer;
   white-space: nowrap;
+  /* 51 options now include long labels ("District of Columbia",
+     "Massachusetts") — cap the trigger so it never crowds the brand out of
+     the header on narrow phones; the selected label ellipsizes instead. */
+  max-width: min(48vw, 220px);
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .region-select:hover {
@@ -283,6 +289,12 @@ button {
   box-shadow: var(--shadow-card);
   max-width: min(92%, 420px);
   text-align: center;
+}
+
+/* Same inline pill as .geo-error, but for informational notes (e.g. the
+   "Switched to <state>" message after a Near-me auto-switch). */
+.geo-note {
+  border-color: var(--brand-accent-strong);
 }
 
 /* Tennis-ball marker */

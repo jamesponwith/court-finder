@@ -4,7 +4,9 @@
  *
  * Reverse-geocodes facilities that are still fallback-named ("Public Tennis
  * Courts") after normalize.mjs's containment enrichment, across every region
- * configured in scripts/regions.mjs, using the public Nominatim API. Responses are cached verbatim in
+ * configured in scripts/regions.mjs that has an output file (regions not yet
+ * fetched/normalized are skipped with a warning — staged fetching is fine),
+ * using the public Nominatim API. Responses are cached verbatim in
  * data/raw/geocode-cache.json keyed by facility id; normalize.mjs consumes
  * that cache on its next run to derive names/addresses/cities.
  *
@@ -48,11 +50,13 @@ const RETRY_ERRORS = args.includes("--retry-errors");
 function loadTargets() {
   const targets = [];
   const perRegion = [];
+  const skipped = [];
   for (const { slug } of REGIONS) {
     const file = join(OUT, `courts-${slug}.json`);
     if (!existsSync(file)) {
-      console.error(`missing ${file} — run node scripts/normalize.mjs first`);
-      process.exit(1);
+      // Staged fetching: regions without outputs yet are simply skipped.
+      skipped.push(slug);
+      continue;
     }
     const { facilities } = JSON.parse(readFileSync(file, "utf8"));
     let n = 0;
@@ -65,6 +69,10 @@ function loadTargets() {
     perRegion.push(`${slug}: ${n}`);
   }
   console.log(`fallback-named per region: ${perRegion.join(", ")}`);
+  if (skipped.length)
+    console.warn(
+      `skipped ${skipped.length} region(s) with no output yet (run normalize after fetching): ${skipped.join(", ")}`
+    );
   return targets;
 }
 

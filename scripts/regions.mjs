@@ -3,8 +3,10 @@
  *
  * Single source of truth for the data pipeline's regions, shared by
  * scripts/fetch-osm.mjs, scripts/normalize.mjs, and scripts/geocode.mjs.
- * Adding a region = adding one entry here, running fetch-osm.mjs for it,
- * then normalize.mjs (and optionally geocode.mjs + normalize.mjs again).
+ * Covers all 50 US states plus DC, one region per state, slug = lowercase
+ * USPS code. Adding/refreshing a region = its entry here, running
+ * fetch-osm.mjs for it, then normalize.mjs (and optionally geocode.mjs +
+ * normalize.mjs again).
  *
  * Fields:
  *   slug        region id; also names the raw/output files
@@ -12,12 +14,16 @@
  *               The slug is the contract with the app — do not rename casually.
  *   name        human-readable label (docs/logs only).
  *   state       2-letter state code stamped on every facility.
- *   bounds      rough sanity-check bounds; every facility must fall inside.
+ *   bounds      rough sanity-check bounds (state bounding box with ~0.05°
+ *               margin); every facility must fall inside.
  *   overpass    how fetch-osm.mjs scopes the Overpass queries:
  *                 { iso: "US-XX" }              -> area["ISO3166-2"="US-XX"]["admin_level"="4"]
  *                 { bbox: [s, w, n, e] }        -> plain bounding-box query
- *               (elp uses a bbox: resolving "El Paso County" by name is
- *               ambiguous — Colorado has one too.)
+ *               All current regions use iso scoping; bbox remains supported
+ *               for any future sub-state region. (The old bbox-scoped elp
+ *               region is gone — Texas statewide covers El Paso, and ISO
+ *               state areas never cross the border, so its Ciudad Juárez
+ *               excludeIds hack is obsolete.)
  *   placeFiles  ordered list of `out tags bb` extracts consumed by the
  *               containment-name enrichment stage (missing files are skipped).
  *               az keeps its historical two-file split (-parks + -places);
@@ -31,6 +37,35 @@
 
 export const REGIONS = [
   {
+    slug: "ak",
+    name: "Alaska",
+    state: "AK",
+    // Mainland + eastern Aleutians only: far-Aleutian courts west of the
+    // antimeridian (lng > 0, e.g. Attu) are out of scope for this pipeline.
+    bounds: { latMin: 51, latMax: 71.5, lngMin: -180, lngMax: -129 },
+    overpass: { iso: "US-AK" },
+    placeFiles: ["osm-ak-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "al",
+    name: "Alabama",
+    state: "AL",
+    bounds: { latMin: 30.1, latMax: 35.05, lngMin: -88.55, lngMax: -84.85 },
+    overpass: { iso: "US-AL" },
+    placeFiles: ["osm-al-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "ar",
+    name: "Arkansas",
+    state: "AR",
+    bounds: { latMin: 32.95, latMax: 36.55, lngMin: -94.7, lngMax: -89.6 },
+    overpass: { iso: "US-AR" },
+    placeFiles: ["osm-ar-places.json"],
+    nycParksMerge: false,
+  },
+  {
     slug: "az",
     name: "Arizona",
     state: "AZ",
@@ -40,21 +75,48 @@ export const REGIONS = [
     nycParksMerge: false,
   },
   {
-    slug: "ny",
-    name: "New York (statewide; replaces the old nyc region)",
-    state: "NY",
-    bounds: { latMin: 40.4, latMax: 45.05, lngMin: -79.9, lngMax: -71.8 },
-    overpass: { iso: "US-NY" },
-    placeFiles: ["osm-ny-places.json"],
-    nycParksMerge: true,
-  },
-  {
     slug: "ca",
     name: "California",
     state: "CA",
     bounds: { latMin: 32.5, latMax: 42.1, lngMin: -124.5, lngMax: -114.1 },
     overpass: { iso: "US-CA" },
     placeFiles: ["osm-ca-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "co",
+    name: "Colorado",
+    state: "CO",
+    bounds: { latMin: 36.95, latMax: 41.05, lngMin: -109.1, lngMax: -102.0 },
+    overpass: { iso: "US-CO" },
+    placeFiles: ["osm-co-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "ct",
+    name: "Connecticut",
+    state: "CT",
+    bounds: { latMin: 40.9, latMax: 42.1, lngMin: -73.8, lngMax: -71.75 },
+    overpass: { iso: "US-CT" },
+    placeFiles: ["osm-ct-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "dc",
+    name: "District of Columbia",
+    state: "DC",
+    bounds: { latMin: 38.74, latMax: 39.05, lngMin: -77.17, lngMax: -76.86 },
+    overpass: { iso: "US-DC" },
+    placeFiles: ["osm-dc-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "de",
+    name: "Delaware",
+    state: "DE",
+    bounds: { latMin: 38.4, latMax: 39.9, lngMin: -75.85, lngMax: -75.0 },
+    overpass: { iso: "US-DE" },
+    placeFiles: ["osm-de-places.json"],
     nycParksMerge: false,
   },
   {
@@ -67,6 +129,206 @@ export const REGIONS = [
     nycParksMerge: false,
   },
   {
+    slug: "ga",
+    name: "Georgia",
+    state: "GA",
+    bounds: { latMin: 30.3, latMax: 35.05, lngMin: -85.65, lngMax: -80.78 },
+    overpass: { iso: "US-GA" },
+    placeFiles: ["osm-ga-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "hi",
+    name: "Hawaii",
+    state: "HI",
+    // Main islands (Niihau–Hawaii); the uninhabited NW Hawaiian islands have
+    // no tennis courts.
+    bounds: { latMin: 18.85, latMax: 22.3, lngMin: -160.3, lngMax: -154.75 },
+    overpass: { iso: "US-HI" },
+    placeFiles: ["osm-hi-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "ia",
+    name: "Iowa",
+    state: "IA",
+    bounds: { latMin: 40.33, latMax: 43.55, lngMin: -96.7, lngMax: -90.1 },
+    overpass: { iso: "US-IA" },
+    placeFiles: ["osm-ia-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "id",
+    name: "Idaho",
+    state: "ID",
+    bounds: { latMin: 41.95, latMax: 49.05, lngMin: -117.3, lngMax: -111.0 },
+    overpass: { iso: "US-ID" },
+    placeFiles: ["osm-id-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "il",
+    name: "Illinois",
+    state: "IL",
+    bounds: { latMin: 36.92, latMax: 42.56, lngMin: -91.57, lngMax: -87.0 },
+    overpass: { iso: "US-IL" },
+    placeFiles: ["osm-il-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "in",
+    name: "Indiana",
+    state: "IN",
+    bounds: { latMin: 37.72, latMax: 41.81, lngMin: -88.15, lngMax: -84.73 },
+    overpass: { iso: "US-IN" },
+    placeFiles: ["osm-in-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "ks",
+    name: "Kansas",
+    state: "KS",
+    bounds: { latMin: 36.95, latMax: 40.05, lngMin: -102.1, lngMax: -94.55 },
+    overpass: { iso: "US-KS" },
+    placeFiles: ["osm-ks-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "ky",
+    name: "Kentucky",
+    state: "KY",
+    bounds: { latMin: 36.44, latMax: 39.2, lngMin: -89.62, lngMax: -81.9 },
+    overpass: { iso: "US-KY" },
+    placeFiles: ["osm-ky-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "la",
+    name: "Louisiana",
+    state: "LA",
+    bounds: { latMin: 28.85, latMax: 33.07, lngMin: -94.1, lngMax: -88.75 },
+    overpass: { iso: "US-LA" },
+    placeFiles: ["osm-la-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "ma",
+    name: "Massachusetts",
+    state: "MA",
+    bounds: { latMin: 41.18, latMax: 42.94, lngMin: -73.56, lngMax: -69.87 },
+    overpass: { iso: "US-MA" },
+    placeFiles: ["osm-ma-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "md",
+    name: "Maryland",
+    state: "MD",
+    bounds: { latMin: 37.86, latMax: 39.77, lngMin: -79.54, lngMax: -74.98 },
+    overpass: { iso: "US-MD" },
+    placeFiles: ["osm-md-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "me",
+    name: "Maine",
+    state: "ME",
+    bounds: { latMin: 42.95, latMax: 47.51, lngMin: -71.14, lngMax: -66.9 },
+    overpass: { iso: "US-ME" },
+    placeFiles: ["osm-me-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "mi",
+    name: "Michigan",
+    state: "MI",
+    bounds: { latMin: 41.65, latMax: 48.36, lngMin: -90.47, lngMax: -82.07 },
+    overpass: { iso: "US-MI" },
+    placeFiles: ["osm-mi-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "mn",
+    name: "Minnesota",
+    state: "MN",
+    bounds: { latMin: 43.45, latMax: 49.45, lngMin: -97.29, lngMax: -89.44 },
+    overpass: { iso: "US-MN" },
+    placeFiles: ["osm-mn-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "mo",
+    name: "Missouri",
+    state: "MO",
+    bounds: { latMin: 35.95, latMax: 40.67, lngMin: -95.82, lngMax: -89.05 },
+    overpass: { iso: "US-MO" },
+    placeFiles: ["osm-mo-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "ms",
+    name: "Mississippi",
+    state: "MS",
+    bounds: { latMin: 30.1, latMax: 35.05, lngMin: -91.7, lngMax: -88.03 },
+    overpass: { iso: "US-MS" },
+    placeFiles: ["osm-ms-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "mt",
+    name: "Montana",
+    state: "MT",
+    bounds: { latMin: 44.31, latMax: 49.05, lngMin: -116.1, lngMax: -103.99 },
+    overpass: { iso: "US-MT" },
+    placeFiles: ["osm-mt-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "nc",
+    name: "North Carolina",
+    state: "NC",
+    bounds: { latMin: 33.79, latMax: 36.64, lngMin: -84.37, lngMax: -75.4 },
+    overpass: { iso: "US-NC" },
+    placeFiles: ["osm-nc-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "nd",
+    name: "North Dakota",
+    state: "ND",
+    bounds: { latMin: 45.89, latMax: 49.05, lngMin: -104.1, lngMax: -96.5 },
+    overpass: { iso: "US-ND" },
+    placeFiles: ["osm-nd-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "ne",
+    name: "Nebraska",
+    state: "NE",
+    bounds: { latMin: 39.95, latMax: 43.05, lngMin: -104.1, lngMax: -95.26 },
+    overpass: { iso: "US-NE" },
+    placeFiles: ["osm-ne-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "nh",
+    name: "New Hampshire",
+    state: "NH",
+    bounds: { latMin: 42.65, latMax: 45.36, lngMin: -72.62, lngMax: -70.55 },
+    overpass: { iso: "US-NH" },
+    placeFiles: ["osm-nh-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "nj",
+    name: "New Jersey",
+    state: "NJ",
+    bounds: { latMin: 38.87, latMax: 41.41, lngMin: -75.61, lngMax: -73.84 },
+    overpass: { iso: "US-NJ" },
+    placeFiles: ["osm-nj-places.json"],
+    nycParksMerge: false,
+  },
+  {
     slug: "nm",
     name: "New Mexico",
     state: "NM",
@@ -76,25 +338,165 @@ export const REGIONS = [
     nycParksMerge: false,
   },
   {
-    slug: "elp",
-    name: "El Paso, TX (metro)",
-    state: "TX",
-    bounds: { latMin: 31.2, latMax: 32.2, lngMin: -106.8, lngMax: -105.4 },
-    overpass: { bbox: [31.2, -106.8, 32.2, -105.4] },
-    placeFiles: ["osm-elp-places.json"],
+    slug: "nv",
+    name: "Nevada",
+    state: "NV",
+    bounds: { latMin: 34.95, latMax: 42.05, lngMin: -120.06, lngMax: -113.99 },
+    overpass: { iso: "US-NV" },
+    placeFiles: ["osm-nv-places.json"],
     nycParksMerge: false,
-    // The fetch bbox unavoidably spans the border; these facilities are in
-    // Ciudad Juárez, MX (country verified via Nominatim reverse geocoding).
-    excludeIds: [
-      "osm-w302630082", // San Miguel Tennis Club
-      "osm-w614122244", // UACJ CU gym
-      "osm-w666735413", // Universidad Interamericana del Norte
-      "osm-w756121443", // Parque Ignacio Allende
-      "osm-w1419447342", // south Juárez public courts
-      "osm-w1419447343", // south Juárez public courts (adjacent)
-      "osm-w1467132743", // Preparatoria El Chamizal
-      "osm-w1529424254", // Pradera Dorada, Juárez
-      "osm-w1529425790", // Unidad Deportiva Oriente Siglo XXI
-    ],
+  },
+  {
+    slug: "ny",
+    name: "New York (statewide; replaces the old nyc region)",
+    state: "NY",
+    bounds: { latMin: 40.4, latMax: 45.05, lngMin: -79.9, lngMax: -71.8 },
+    overpass: { iso: "US-NY" },
+    placeFiles: ["osm-ny-places.json"],
+    nycParksMerge: true,
+  },
+  {
+    slug: "oh",
+    name: "Ohio",
+    state: "OH",
+    bounds: { latMin: 38.35, latMax: 42.03, lngMin: -84.87, lngMax: -80.47 },
+    overpass: { iso: "US-OH" },
+    placeFiles: ["osm-oh-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "ok",
+    name: "Oklahoma",
+    state: "OK",
+    bounds: { latMin: 33.57, latMax: 37.05, lngMin: -103.05, lngMax: -94.38 },
+    overpass: { iso: "US-OK" },
+    placeFiles: ["osm-ok-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "or",
+    name: "Oregon",
+    state: "OR",
+    bounds: { latMin: 41.95, latMax: 46.35, lngMin: -124.62, lngMax: -116.41 },
+    overpass: { iso: "US-OR" },
+    placeFiles: ["osm-or-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "pa",
+    name: "Pennsylvania",
+    state: "PA",
+    bounds: { latMin: 39.67, latMax: 42.32, lngMin: -80.57, lngMax: -74.64 },
+    overpass: { iso: "US-PA" },
+    placeFiles: ["osm-pa-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "ri",
+    name: "Rhode Island",
+    state: "RI",
+    bounds: { latMin: 41.1, latMax: 42.07, lngMin: -71.95, lngMax: -71.07 },
+    overpass: { iso: "US-RI" },
+    placeFiles: ["osm-ri-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "sc",
+    name: "South Carolina",
+    state: "SC",
+    bounds: { latMin: 31.99, latMax: 35.27, lngMin: -83.4, lngMax: -78.49 },
+    overpass: { iso: "US-SC" },
+    placeFiles: ["osm-sc-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "sd",
+    name: "South Dakota",
+    state: "SD",
+    bounds: { latMin: 42.43, latMax: 46.0, lngMin: -104.11, lngMax: -96.39 },
+    overpass: { iso: "US-SD" },
+    placeFiles: ["osm-sd-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "tn",
+    name: "Tennessee",
+    state: "TN",
+    bounds: { latMin: 34.93, latMax: 36.73, lngMin: -90.36, lngMax: -81.6 },
+    overpass: { iso: "US-TN" },
+    placeFiles: ["osm-tn-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "tx",
+    name: "Texas",
+    state: "TX",
+    bounds: { latMin: 25.79, latMax: 36.55, lngMin: -106.7, lngMax: -93.46 },
+    overpass: { iso: "US-TX" },
+    placeFiles: ["osm-tx-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "ut",
+    name: "Utah",
+    state: "UT",
+    bounds: { latMin: 36.95, latMax: 42.05, lngMin: -114.1, lngMax: -109.0 },
+    overpass: { iso: "US-UT" },
+    placeFiles: ["osm-ut-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "va",
+    name: "Virginia",
+    state: "VA",
+    bounds: { latMin: 36.49, latMax: 39.52, lngMin: -83.73, lngMax: -75.18 },
+    overpass: { iso: "US-VA" },
+    placeFiles: ["osm-va-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "vt",
+    name: "Vermont",
+    state: "VT",
+    bounds: { latMin: 42.68, latMax: 45.07, lngMin: -73.49, lngMax: -71.41 },
+    overpass: { iso: "US-VT" },
+    placeFiles: ["osm-vt-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "wa",
+    name: "Washington",
+    state: "WA",
+    bounds: { latMin: 45.49, latMax: 49.05, lngMin: -124.9, lngMax: -116.87 },
+    overpass: { iso: "US-WA" },
+    placeFiles: ["osm-wa-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "wi",
+    name: "Wisconsin",
+    state: "WI",
+    bounds: { latMin: 42.44, latMax: 47.35, lngMin: -92.94, lngMax: -86.2 },
+    overpass: { iso: "US-WI" },
+    placeFiles: ["osm-wi-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "wv",
+    name: "West Virginia",
+    state: "WV",
+    bounds: { latMin: 37.15, latMax: 40.69, lngMin: -82.69, lngMax: -77.67 },
+    overpass: { iso: "US-WV" },
+    placeFiles: ["osm-wv-places.json"],
+    nycParksMerge: false,
+  },
+  {
+    slug: "wy",
+    name: "Wyoming",
+    state: "WY",
+    bounds: { latMin: 40.95, latMax: 45.06, lngMin: -111.11, lngMax: -104.0 },
+    overpass: { iso: "US-WY" },
+    placeFiles: ["osm-wy-places.json"],
+    nycParksMerge: false,
   },
 ];
