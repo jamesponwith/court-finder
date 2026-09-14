@@ -89,7 +89,9 @@
       "city": "Franklin County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w496550322",
@@ -106,7 +108,9 @@
       "city": "West Springfield",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-n12292239648",
@@ -123,7 +127,9 @@
       "city": "Hollymead",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-n13971521430",
@@ -157,7 +163,9 @@
       "city": "Fairfax County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-n14132469740",
@@ -318,7 +326,9 @@
       "city": "Sugarland Run",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w44740504",
@@ -352,7 +362,9 @@
       "city": "Sugarland Run",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w44861299",
@@ -369,7 +381,9 @@
       "city": "Sugarland Run",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w44919737",
@@ -458,7 +472,9 @@
       "city": "Linton Hall",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w45868982",
@@ -492,7 +508,9 @@
       "city": "Burke Centre",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w49062229",
@@ -526,7 +544,9 @@
       "city": "Reston",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w51055803",
@@ -543,7 +563,9 @@
       "city": "Leesburg",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w51056083",
@@ -560,7 +582,9 @@
       "city": "Goose Creek Village",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w51060108",
@@ -628,7 +652,9 @@
       "city": "Fair Oaks",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w51851514",
@@ -766,7 +792,9 @@
       "city": "Herndon",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w70643404",
@@ -936,7 +964,9 @@
       "city": "Reston",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w79150928",
@@ -1055,7 +1085,9 @@
       "city": "Reston",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w79448508",
@@ -1106,7 +1138,9 @@
       "city": "Herndon",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w79854451",
@@ -1123,7 +1157,9 @@
       "city": "Reston",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w80019483",
@@ -1140,7 +1176,9 @@
       "city": "Burke",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w80190456",
@@ -1174,7 +1212,9 @@
       "city": "Reston",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w80278337",
@@ -1191,7 +1231,9 @@
       "city": "Reston",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w80288158",
@@ -1242,7 +1284,9 @@
       "city": "Reston",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w82004488",
@@ -1405,7 +1449,9 @@
       "city": "Cherry Hill",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w95241093",
@@ -1422,7 +1468,9 @@
       "city": "Montclair",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w95241098",
@@ -1439,7 +1487,9 @@
       "city": "Woodbridge",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w95241115",
@@ -1507,7 +1557,9 @@
       "city": "Montclair",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w95418979",
@@ -1558,7 +1610,9 @@
       "city": "Hollymead",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w102234715",
@@ -1575,7 +1629,9 @@
       "city": "Burke",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w103089526",
@@ -1628,7 +1684,9 @@
       "city": "Springfield",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w109420265",
@@ -1662,7 +1720,9 @@
       "city": "Falmouth",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w111696837",
@@ -1679,7 +1739,9 @@
       "city": "Hayfield",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w111705613",
@@ -1730,7 +1792,9 @@
       "city": "McNair",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w111782932",
@@ -1853,7 +1917,9 @@
       "city": "Springfield",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w117112338",
@@ -1887,7 +1953,9 @@
       "city": "Ashburn",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w117315375",
@@ -1904,7 +1972,9 @@
       "city": "Wolf Trap",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w117315768",
@@ -1921,7 +1991,9 @@
       "city": "Wolf Trap",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w117405764",
@@ -2059,7 +2131,9 @@
       "city": "Burke",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w120905660",
@@ -2076,7 +2150,9 @@
       "city": "Burke",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w121189901",
@@ -2110,7 +2186,9 @@
       "city": "Chantilly",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w123830193",
@@ -2161,7 +2239,9 @@
       "city": "Burke",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w131360798",
@@ -2248,7 +2328,9 @@
       "city": "Fair Oaks",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w136291531",
@@ -2301,7 +2383,9 @@
       "city": "Fairfax County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w140479297",
@@ -2318,7 +2402,9 @@
       "city": "Fairfax County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w140788145",
@@ -2335,7 +2421,9 @@
       "city": "Clifton",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w141329377",
@@ -2403,7 +2491,9 @@
       "city": "Fort Belvoir",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w142028909",
@@ -2420,7 +2510,9 @@
       "city": "Fort Belvoir",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w142641114",
@@ -2522,7 +2614,9 @@
       "city": "Hayfield",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w142815333",
@@ -2624,7 +2718,9 @@
       "city": "Lorton",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w143784391",
@@ -2692,7 +2788,9 @@
       "city": "Centreville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w144082840",
@@ -2743,7 +2841,9 @@
       "city": "Lorton",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w144126509",
@@ -2760,7 +2860,9 @@
       "city": "Lorton",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w144489087",
@@ -2794,7 +2896,9 @@
       "city": "South Run",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w145116944",
@@ -2828,7 +2932,9 @@
       "city": "Centreville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w145116955",
@@ -2862,7 +2968,9 @@
       "city": "Hutchison",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w145116971",
@@ -2879,7 +2987,9 @@
       "city": "Centreville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w145418251",
@@ -2949,7 +3059,9 @@
       "city": "Kings Park West",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w145418298",
@@ -2966,7 +3078,9 @@
       "city": "Burke Centre",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w145418305",
@@ -3000,7 +3114,9 @@
       "city": "McLean",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w146253674",
@@ -3068,7 +3184,9 @@
       "city": "Burke",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w148092632",
@@ -3102,7 +3220,9 @@
       "city": "Vienna",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w149178931",
@@ -3136,7 +3256,9 @@
       "city": "South Run",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w151509925",
@@ -3187,7 +3309,9 @@
       "city": "Centreville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w156984185",
@@ -3204,7 +3328,9 @@
       "city": "Centreville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w157033001",
@@ -3221,7 +3347,9 @@
       "city": "Albemarle County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w157033004",
@@ -3397,7 +3525,9 @@
       "city": "Crosspointe",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w162803837",
@@ -3702,7 +3832,9 @@
       "city": "Bedford County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w471264567",
@@ -3736,7 +3868,9 @@
       "city": "Roanoke",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w169192115",
@@ -3770,7 +3904,9 @@
       "city": "Cave Spring",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w169192249",
@@ -3787,7 +3923,9 @@
       "city": "Cave Spring",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w169192306",
@@ -3804,7 +3942,9 @@
       "city": "Cave Spring",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w169192310",
@@ -3821,7 +3961,9 @@
       "city": "Cave Spring",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w169192614",
@@ -3838,7 +3980,9 @@
       "city": "Roanoke",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w169192744",
@@ -3889,7 +4033,9 @@
       "city": "Wakefield",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w172232837",
@@ -4061,7 +4207,9 @@
       "city": "Ashburn",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w173720236",
@@ -4097,7 +4245,9 @@
       "city": "Tysons",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w173870341",
@@ -4114,7 +4264,9 @@
       "city": "Reston",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w173871931",
@@ -4131,7 +4283,9 @@
       "city": "Woodbridge",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w174006833",
@@ -4148,7 +4302,9 @@
       "city": "Reston",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w174192867",
@@ -4199,7 +4355,9 @@
       "city": "Midlothian",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w177678275",
@@ -4254,7 +4412,9 @@
       "city": "Ford's Colony",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w185873636",
@@ -4343,7 +4503,9 @@
       "city": "Rustburg",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w192497874",
@@ -4360,7 +4522,9 @@
       "city": "Richmond",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w192560224",
@@ -4377,7 +4541,9 @@
       "city": "Prince William County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w193816776",
@@ -4428,7 +4594,9 @@
       "city": "Mount Vernon",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w203023696",
@@ -4670,7 +4838,9 @@
       "city": "Spotsylvania County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w207760185",
@@ -4687,7 +4857,9 @@
       "city": "Arlington",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w208057183",
@@ -4721,7 +4893,9 @@
       "city": "Huntington",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w208502053",
@@ -4808,7 +4982,9 @@
       "city": "Arlington",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w209937478",
@@ -4912,7 +5088,9 @@
       "city": "Prince William County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w210190309",
@@ -4929,7 +5107,9 @@
       "city": "Herndon",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w210898041",
@@ -4965,7 +5145,9 @@
       "city": "Arlington",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w211051038",
@@ -5016,7 +5198,9 @@
       "city": "Winchester",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w211857825",
@@ -5033,7 +5217,9 @@
       "city": "Winchester",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w213945270",
@@ -5067,7 +5253,9 @@
       "city": "Frederick County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w216326611",
@@ -5152,7 +5340,9 @@
       "city": "Alexandria",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w217103140",
@@ -5205,7 +5395,9 @@
       "city": "Alexandria",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w217607565",
@@ -5239,7 +5431,9 @@
       "city": "Countryside",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w217710838",
@@ -5256,7 +5450,9 @@
       "city": "Countryside",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w218198040",
@@ -5290,7 +5486,9 @@
       "city": "Fort Hunt",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w218830795",
@@ -5496,7 +5694,9 @@
       "city": "Bull Run",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w221815260",
@@ -5513,7 +5713,9 @@
       "city": "Bull Run",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w221841518",
@@ -5530,7 +5732,9 @@
       "city": "Chesterfield County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w221923868",
@@ -5547,7 +5751,9 @@
       "city": "Bull Run",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w222240401",
@@ -5581,7 +5787,9 @@
       "city": "Bull Run",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w223084328",
@@ -5598,7 +5806,9 @@
       "city": "Manassas",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w223220870",
@@ -5634,7 +5844,9 @@
       "city": "Alexandria",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w223322539",
@@ -5719,7 +5931,9 @@
       "city": "Powhatan",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w225076672",
@@ -5736,7 +5950,9 @@
       "city": "Prince William County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w225349258",
@@ -5963,7 +6179,9 @@
       "city": "Bull Run",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w227606628",
@@ -5980,7 +6198,9 @@
       "city": "Reston",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w227606993",
@@ -6016,7 +6236,9 @@
       "city": "Bristow",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w227949045",
@@ -6033,7 +6255,9 @@
       "city": "Bristow",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w228170550",
@@ -6067,7 +6291,9 @@
       "city": "Franklin Farm",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w228470259",
@@ -6084,7 +6310,9 @@
       "city": "Franklin Farm",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w228619161",
@@ -6135,7 +6363,9 @@
       "city": "Bristow",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w228896844",
@@ -6222,7 +6452,9 @@
       "city": "Centreville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w231657366",
@@ -6343,7 +6575,9 @@
       "city": "One Loudoun",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w234059351",
@@ -6360,7 +6594,9 @@
       "city": "Centreville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w234059559",
@@ -6377,7 +6613,9 @@
       "city": "Centreville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w234169885",
@@ -6394,7 +6632,9 @@
       "city": "Dale City",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w234365536",
@@ -6411,7 +6651,9 @@
       "city": "Centreville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w234369335",
@@ -6428,7 +6670,9 @@
       "city": "Centreville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w234369762",
@@ -6445,7 +6689,9 @@
       "city": "Centreville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w235064180",
@@ -6462,7 +6708,9 @@
       "city": "James City County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w235612434",
@@ -6479,7 +6727,9 @@
       "city": "Centreville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w236027521",
@@ -6532,7 +6782,9 @@
       "city": "Cave Spring",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w236139450",
@@ -6619,7 +6871,9 @@
       "city": "Bailey's Crossroads",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w236804935",
@@ -6636,7 +6890,9 @@
       "city": "Bailey's Crossroads",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w236869653",
@@ -6706,7 +6962,9 @@
       "city": "Annandale",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w237518793",
@@ -6723,7 +6981,9 @@
       "city": "South Riding",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w237521665",
@@ -6757,7 +7017,9 @@
       "city": "Leesburg",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w238015174",
@@ -6791,7 +7053,9 @@
       "city": "Stafford County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w238272295",
@@ -6808,7 +7072,9 @@
       "city": "Woodburn",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w238397268",
@@ -6897,7 +7163,9 @@
       "city": "Merrifield",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w239142235",
@@ -6914,7 +7182,9 @@
       "city": "Idylwood",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w239147979",
@@ -6965,7 +7235,9 @@
       "city": "Herndon",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w240092660",
@@ -6982,7 +7254,9 @@
       "city": "McNair",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w240892512",
@@ -7035,7 +7309,9 @@
       "city": "Fair Oaks",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w242854261",
@@ -7069,7 +7345,9 @@
       "city": "Pantops",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w242887210",
@@ -7141,7 +7419,9 @@
       "city": "Culpeper",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w247328575",
@@ -7158,7 +7438,9 @@
       "city": "Franconia",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w247661394",
@@ -7175,7 +7457,9 @@
       "city": "Alexandria",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w247742959",
@@ -7192,7 +7476,9 @@
       "city": "Culpeper County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w248757848",
@@ -7226,7 +7512,9 @@
       "city": "Groveton",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w253737518",
@@ -7468,7 +7756,9 @@
       "city": "McNair",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w263909983",
@@ -7485,7 +7775,9 @@
       "city": "McNair",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w264067600",
@@ -7519,7 +7811,9 @@
       "city": "Harrisonburg",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w264219811",
@@ -7591,7 +7885,9 @@
       "city": "Massanetta Springs",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w264441196",
@@ -7608,7 +7904,9 @@
       "city": "Harrisonburg",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w264441199",
@@ -7642,7 +7940,9 @@
       "city": "Ruckersville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w264795716",
@@ -7659,7 +7959,9 @@
       "city": "Fishersville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w264795717",
@@ -7676,7 +7978,9 @@
       "city": "Fishersville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w265450892",
@@ -7748,7 +8052,9 @@
       "city": "Oak Grove",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w276426572",
@@ -8072,7 +8378,9 @@
       "city": "Middleburg",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w296901883",
@@ -8246,7 +8554,9 @@
       "city": "Lake Wilderness",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w302349455",
@@ -8263,7 +8573,9 @@
       "city": "Lake Holiday",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w303125226",
@@ -8297,7 +8609,9 @@
       "city": "McLean",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w304443864",
@@ -8314,7 +8628,9 @@
       "city": "Arlington",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w305502332",
@@ -8331,7 +8647,9 @@
       "city": "Bristow",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w305705140",
@@ -8348,7 +8666,9 @@
       "city": "Fair Lakes",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w305711442",
@@ -8365,7 +8685,9 @@
       "city": "Fair Oaks",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w305715905",
@@ -8382,7 +8704,9 @@
       "city": "Union Mill",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w305796734",
@@ -8416,7 +8740,9 @@
       "city": "Tappahannock",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w306064076",
@@ -8681,7 +9007,9 @@
       "city": "McLean",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w315394579",
@@ -8749,7 +9077,9 @@
       "city": "Luray",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w315510253",
@@ -8766,7 +9096,9 @@
       "city": "McLean",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w315649519",
@@ -8783,7 +9115,9 @@
       "city": "McLean",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w315685672",
@@ -8853,7 +9187,9 @@
       "city": "McLean",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w319053375",
@@ -8870,7 +9206,9 @@
       "city": "Newport News",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w319503395",
@@ -8887,7 +9225,9 @@
       "city": "McLean",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w321827969",
@@ -8955,7 +9295,9 @@
       "city": "Navy",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w327013268",
@@ -8989,7 +9331,9 @@
       "city": "Centreville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w328832425",
@@ -9006,7 +9350,9 @@
       "city": "Tysons",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w329601392",
@@ -9023,7 +9369,9 @@
       "city": "Centreville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w329603004",
@@ -9040,7 +9388,9 @@
       "city": "Centreville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w329945938",
@@ -9095,7 +9445,9 @@
       "city": "Albemarle County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w335684650",
@@ -9112,7 +9464,9 @@
       "city": "McNair",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w335686462",
@@ -9129,7 +9483,9 @@
       "city": "McNair",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w339463181",
@@ -9197,7 +9553,9 @@
       "city": "Covington",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w340806211",
@@ -9233,7 +9591,9 @@
       "city": "Covington",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w341513512",
@@ -9250,7 +9610,9 @@
       "city": "Covington",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w344019742",
@@ -9284,7 +9646,9 @@
       "city": "Centreville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w346998443",
@@ -9352,7 +9716,9 @@
       "city": "Rockingham County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w352822995",
@@ -9369,7 +9735,9 @@
       "city": "Norfolk",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w353172924",
@@ -9386,7 +9754,9 @@
       "city": "Reston",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w353929264",
@@ -9403,7 +9773,9 @@
       "city": "Woodlake",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w354017765",
@@ -9475,7 +9847,9 @@
       "city": "Burke",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w359905449",
@@ -9564,7 +9938,9 @@
       "city": "Ashland",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w366893159",
@@ -9598,7 +9974,9 @@
       "city": "Merrifield",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w367746555",
@@ -9668,7 +10046,9 @@
       "city": "York County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w369078480",
@@ -9685,7 +10065,9 @@
       "city": "Arlington",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w375082735",
@@ -9702,7 +10084,9 @@
       "city": "Portsmouth",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w377683868",
@@ -9876,7 +10260,9 @@
       "city": "Suffolk",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w384481103",
@@ -9995,7 +10381,9 @@
       "city": "Loudoun County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w396016487",
@@ -10012,7 +10400,9 @@
       "city": "Loudoun County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w396822652",
@@ -10029,7 +10419,9 @@
       "city": "Danville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w397525669",
@@ -10046,7 +10438,9 @@
       "city": "Montclair",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w398631460",
@@ -10082,7 +10476,9 @@
       "city": "Salem",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w400083646",
@@ -10150,7 +10546,9 @@
       "city": "Oakton",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w403553640",
@@ -10309,7 +10707,9 @@
       "city": "Norfolk",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w407840910",
@@ -10438,7 +10838,9 @@
       "city": "King William County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w409655517",
@@ -10717,7 +11119,9 @@
       "city": "Virginia Beach",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w412581617",
@@ -10772,7 +11176,9 @@
       "city": "Norfolk",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w412987869",
@@ -10846,7 +11252,9 @@
       "city": "Leesylvania",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w414037477",
@@ -11009,7 +11417,9 @@
       "city": "Norfolk",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w414563799",
@@ -11060,7 +11470,9 @@
       "city": "Virginia Beach",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w416455755",
@@ -11147,7 +11559,9 @@
       "city": "Occoquan",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w422957993",
@@ -11164,7 +11578,9 @@
       "city": "Surry County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w425632178",
@@ -11232,7 +11648,9 @@
       "city": "County Center",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w431324139",
@@ -11266,7 +11684,9 @@
       "city": "Northampton County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w435690543",
@@ -11351,7 +11771,9 @@
       "city": "McLean",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w443276094",
@@ -11368,7 +11790,9 @@
       "city": "McLean",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w443279753",
@@ -11419,7 +11843,9 @@
       "city": "McLean",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w465015406",
@@ -11436,7 +11862,9 @@
       "city": "Centreville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w465021322",
@@ -11453,7 +11881,9 @@
       "city": "Centreville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w465028888",
@@ -11470,7 +11900,9 @@
       "city": "Fair Lakes",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w465251927",
@@ -11487,7 +11919,9 @@
       "city": "Fair Oaks",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w465254897",
@@ -11504,7 +11938,9 @@
       "city": "Fair Lakes",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w467231870",
@@ -11574,7 +12010,9 @@
       "city": "Virginia Beach",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w468166049",
@@ -11591,7 +12029,9 @@
       "city": "Virginia Beach",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w468955167",
@@ -11627,7 +12067,9 @@
       "city": "Greenbriar",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w469205103",
@@ -11765,7 +12207,9 @@
       "city": "Innsbrook",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w476427181",
@@ -11835,7 +12279,9 @@
       "city": "Oakton",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w480110185",
@@ -11852,7 +12298,9 @@
       "city": "Oakton",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w481891030",
@@ -11869,7 +12317,9 @@
       "city": "Loudoun Valley Estates",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w482238949",
@@ -11886,7 +12336,9 @@
       "city": "Brambleton",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w485419350",
@@ -11903,7 +12355,9 @@
       "city": "Fauquier County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w487089485",
@@ -11954,7 +12408,9 @@
       "city": "Centreville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w493042549",
@@ -11988,7 +12444,9 @@
       "city": "Bethel Manor",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w496791858",
@@ -12132,7 +12590,9 @@
       "city": "Prince William County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w508257573",
@@ -12166,7 +12626,9 @@
       "city": "Loudoun County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w510567414",
@@ -12234,7 +12696,9 @@
       "city": "Manchester",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w517046771",
@@ -12421,7 +12885,9 @@
       "city": "Bellwood",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w525190612",
@@ -12438,7 +12904,9 @@
       "city": "Salem",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w525200632",
@@ -12455,7 +12923,9 @@
       "city": "Salem",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w527625052",
@@ -12491,7 +12961,9 @@
       "city": "Woodbridge",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w530883145",
@@ -12525,7 +12997,9 @@
       "city": "Difficult Run",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w531591716",
@@ -12542,7 +13016,9 @@
       "city": "Reston",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w532533606",
@@ -12631,7 +13107,9 @@
       "city": "Long Branch",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w537858789",
@@ -12684,7 +13162,9 @@
       "city": "Fauquier County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w541407112",
@@ -12756,7 +13236,9 @@
       "city": "Chincoteague",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w544330499",
@@ -12790,7 +13272,9 @@
       "city": "Fair Oaks",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w545381578",
@@ -12843,7 +13327,9 @@
       "city": "Goochland",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w548189058",
@@ -12896,7 +13382,9 @@
       "city": "Arlington",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w550153736",
@@ -12913,7 +13401,9 @@
       "city": "Washington County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w553685849",
@@ -12930,7 +13420,9 @@
       "city": "Virginia Beach",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w555009478",
@@ -12981,7 +13473,9 @@
       "city": "James City County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w559328071",
@@ -12998,7 +13492,9 @@
       "city": "Centreville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w559945859",
@@ -13138,7 +13634,9 @@
       "city": "Elmont",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w562091137",
@@ -13314,7 +13812,9 @@
       "city": "Springfield",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w577861391",
@@ -13331,7 +13831,9 @@
       "city": "Enon",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w577885672",
@@ -13348,7 +13850,9 @@
       "city": "Leesburg",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w580584435",
@@ -13382,7 +13886,9 @@
       "city": "Sandston",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w584970852",
@@ -13484,7 +13990,9 @@
       "city": "Fauquier County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w600348065",
@@ -13677,7 +14185,9 @@
       "city": "Sterling",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w612086578",
@@ -13728,7 +14238,9 @@
       "city": "Virginia Beach",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w613843437",
@@ -13887,7 +14399,9 @@
       "city": "Haymarket",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w638999808",
@@ -13923,7 +14437,9 @@
       "city": "Claremont",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w642108940",
@@ -13995,7 +14511,9 @@
       "city": "Leesburg",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w651825414",
@@ -14012,7 +14530,9 @@
       "city": "Countryside",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w651831095",
@@ -14046,7 +14566,9 @@
       "city": "Cascades",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w651838039",
@@ -14063,7 +14585,9 @@
       "city": "Cascades",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w652526604",
@@ -14131,7 +14655,9 @@
       "city": "Gainesville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w654809313",
@@ -14148,7 +14674,9 @@
       "city": "Moorefield",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w658570424",
@@ -14182,7 +14710,9 @@
       "city": "Ashburn",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w664869231",
@@ -14199,7 +14729,9 @@
       "city": "Coeburn",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w664986782",
@@ -14326,7 +14858,9 @@
       "city": "Pantops",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w675326473",
@@ -14343,7 +14877,9 @@
       "city": "Chesterfield County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w675925950",
@@ -14379,7 +14915,9 @@
       "city": "Centreville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w681525848",
@@ -14447,7 +14985,9 @@
       "city": "Alexandria",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w684251269",
@@ -14464,7 +15004,9 @@
       "city": "Frederick County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w686314515",
@@ -14517,7 +15059,9 @@
       "city": "Henrico County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w688699867",
@@ -14534,7 +15078,9 @@
       "city": "Alexandria",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w689621608",
@@ -14551,7 +15097,9 @@
       "city": "Shenandoah County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w690227772",
@@ -14606,7 +15154,9 @@
       "city": "Spotsylvania County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w698698767",
@@ -14640,7 +15190,9 @@
       "city": "Fort Belvoir",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w700980780",
@@ -14691,7 +15243,9 @@
       "city": "Leesburg",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w707012061",
@@ -14725,7 +15279,9 @@
       "city": "Alexandria",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w707835907",
@@ -14742,7 +15298,9 @@
       "city": "Leesburg",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w710286280",
@@ -14901,7 +15459,9 @@
       "city": "Rose Hill",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w720933756",
@@ -14918,7 +15478,9 @@
       "city": "Spotsylvania Courthouse",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w721976824",
@@ -14952,7 +15514,9 @@
       "city": "Bedford County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w722611805",
@@ -14969,7 +15533,9 @@
       "city": "Leesburg",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w722613285",
@@ -14986,7 +15552,9 @@
       "city": "Winchester",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w722931686",
@@ -15060,7 +15628,9 @@
       "city": "Alexandria",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w725117911",
@@ -15111,7 +15681,9 @@
       "city": "Patrick County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w729439442",
@@ -15162,7 +15734,9 @@
       "city": "Hanover County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w734230979",
@@ -15230,7 +15804,9 @@
       "city": "Middlesex County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w739694549",
@@ -15247,7 +15823,9 @@
       "city": "Essex County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w740097275",
@@ -15264,7 +15842,9 @@
       "city": "Dale City",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w745392851",
@@ -15281,7 +15861,9 @@
       "city": "Northampton County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w745495578",
@@ -15366,7 +15948,9 @@
       "city": "Richmond",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w746432628",
@@ -15400,7 +15984,9 @@
       "city": "Richmond",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w746642292",
@@ -15417,7 +16003,9 @@
       "city": "Goochland County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w747183119",
@@ -15451,7 +16039,9 @@
       "city": "Leesburg",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w747481355",
@@ -15485,7 +16075,9 @@
       "city": "Madison County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w750930244",
@@ -15557,7 +16149,9 @@
       "city": "Loudoun County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w755288866",
@@ -15593,7 +16187,9 @@
       "city": "Richmond",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w755698254",
@@ -15610,7 +16206,9 @@
       "city": "Leesburg",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w755820608",
@@ -15646,7 +16244,9 @@
       "city": "Richmond",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w756058758",
@@ -15663,7 +16263,9 @@
       "city": "Sterling",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w756090144",
@@ -15714,7 +16316,9 @@
       "city": "Richmond",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w757230587",
@@ -15801,7 +16405,9 @@
       "city": "Richmond",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w762930463",
@@ -15818,7 +16424,9 @@
       "city": "Lowes Island",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w764623026",
@@ -15854,7 +16462,9 @@
       "city": "Rockbridge County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w767332611",
@@ -15890,7 +16500,9 @@
       "city": "James City County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w769725654",
@@ -15941,7 +16553,9 @@
       "city": "Gainesville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w776555386",
@@ -15977,7 +16591,9 @@
       "city": "Leavells",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w779660392",
@@ -15994,7 +16610,9 @@
       "city": "Arlington",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w779989556",
@@ -16011,7 +16629,9 @@
       "city": "Sterling",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w779989559",
@@ -16028,7 +16648,9 @@
       "city": "Sterling",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w783766417",
@@ -16045,7 +16667,9 @@
       "city": "Kings Park",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w784644523",
@@ -16134,7 +16758,9 @@
       "city": "Tysons",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w793888417",
@@ -16168,7 +16794,9 @@
       "city": "Goochland County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w801972865",
@@ -16202,7 +16830,9 @@
       "city": "South Riding",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w814017575",
@@ -16253,7 +16883,9 @@
       "city": "James City County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w816246644",
@@ -16287,7 +16919,9 @@
       "city": "Newport News",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w818018208",
@@ -16376,7 +17010,9 @@
       "city": "Patrick County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w822733790",
@@ -16571,7 +17207,9 @@
       "city": "Triangle",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w829618760",
@@ -16836,7 +17474,9 @@
       "city": "Mechanicsville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w841741380",
@@ -16853,7 +17493,9 @@
       "city": "Salem Church",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w843734690",
@@ -16908,7 +17550,9 @@
       "city": "Stone Ridge",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w845858929",
@@ -16942,7 +17586,9 @@
       "city": "Mechanicsville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w846734086",
@@ -17046,7 +17692,9 @@
       "city": "Salem Church",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w852189457",
@@ -17063,7 +17711,9 @@
       "city": "Salem Church",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w853021433",
@@ -17080,7 +17730,9 @@
       "city": "Floyd County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w854896829",
@@ -17114,7 +17766,9 @@
       "city": "South Riding",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w857393262",
@@ -17131,7 +17785,9 @@
       "city": "Woodbridge",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w860344634",
@@ -17182,7 +17838,9 @@
       "city": "Northumberland County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w865341081",
@@ -17284,7 +17942,9 @@
       "city": "Centreville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w872734802",
@@ -17318,7 +17978,9 @@
       "city": "South Riding",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w872773717",
@@ -17335,7 +17997,9 @@
       "city": "Woodlawn",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w876615897",
@@ -17352,7 +18016,9 @@
       "city": "Tysons",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w876627184",
@@ -17369,7 +18035,9 @@
       "city": "Woodbridge",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w878001035",
@@ -17558,7 +18226,9 @@
       "city": "James City County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w884335408",
@@ -17628,7 +18298,9 @@
       "city": "Virginia Beach",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w886058241",
@@ -17645,7 +18317,9 @@
       "city": "Northumberland County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w886058991",
@@ -17662,7 +18336,9 @@
       "city": "Northumberland County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w886353236",
@@ -17749,7 +18425,9 @@
       "city": "James City County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w888790782",
@@ -17766,7 +18444,9 @@
       "city": "Fair Lakes",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w890784251",
@@ -17817,7 +18497,9 @@
       "city": "Alexandria",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w891952535",
@@ -17904,7 +18586,9 @@
       "city": "Cave Spring",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w892872316",
@@ -17921,7 +18605,9 @@
       "city": "Cave Spring",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w893202447",
@@ -17955,7 +18641,9 @@
       "city": "Cave Spring",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w899855122",
@@ -17972,7 +18660,9 @@
       "city": "Chancellor",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w900773408",
@@ -17989,7 +18679,9 @@
       "city": "New Post",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w901445322",
@@ -18006,7 +18698,9 @@
       "city": "Oakton",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w901958784",
@@ -18023,7 +18717,9 @@
       "city": "Spotsylvania County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w902710312",
@@ -18040,7 +18736,9 @@
       "city": "Hanover County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w902812625",
@@ -18076,7 +18774,9 @@
       "city": "Centreville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w905253411",
@@ -18093,7 +18793,9 @@
       "city": "Salem Fields",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w906667668",
@@ -18146,7 +18848,9 @@
       "city": "Moorefield",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w907932033",
@@ -18163,7 +18867,9 @@
       "city": "South Riding",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w910966979",
@@ -18197,7 +18903,9 @@
       "city": "Virginia Beach",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w913821197",
@@ -18214,7 +18922,9 @@
       "city": "Virginia Beach",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w917415141",
@@ -18248,7 +18958,9 @@
       "city": "Toano",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w917485771",
@@ -18282,7 +18994,9 @@
       "city": "Woodbridge",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w917487960",
@@ -18299,7 +19013,9 @@
       "city": "Fairfax County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w917489880",
@@ -18316,7 +19032,9 @@
       "city": "Fairfax County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w918849293",
@@ -18333,7 +19051,9 @@
       "city": "Halifax County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w929851116",
@@ -18350,7 +19070,9 @@
       "city": "Dulles Town Center",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w932946586",
@@ -18384,7 +19106,9 @@
       "city": "Manassas",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w937893104",
@@ -18418,7 +19142,9 @@
       "city": "Prince William County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w938526890",
@@ -18435,7 +19161,9 @@
       "city": "Mechanicsville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w938526913",
@@ -18452,7 +19180,9 @@
       "city": "Hanover County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w938558350",
@@ -18469,7 +19199,9 @@
       "city": "Centreville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w940522242",
@@ -18503,7 +19235,9 @@
       "city": "Short Pump",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w943011927",
@@ -18573,7 +19307,9 @@
       "city": "Northumberland County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w945911090",
@@ -18590,7 +19326,9 @@
       "city": "Loudoun County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w947076772",
@@ -18607,7 +19345,9 @@
       "city": "Chamberlayne",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w947846724",
@@ -18709,7 +19449,9 @@
       "city": "Gainesville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w959007636",
@@ -18726,7 +19468,9 @@
       "city": "Bailey's Crossroads",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w960168439",
@@ -18777,7 +19521,9 @@
       "city": "Midlothian",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w964071653",
@@ -18794,7 +19540,9 @@
       "city": "Cascades",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w964169746",
@@ -18830,7 +19578,9 @@
       "city": "Chesterfield County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w964991211",
@@ -18883,7 +19633,9 @@
       "city": "Gloucester County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w969832553",
@@ -19008,7 +19760,9 @@
       "city": "Stone Ridge",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w979431148",
@@ -19059,7 +19813,9 @@
       "city": "Arlington",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w988321261",
@@ -19093,7 +19849,9 @@
       "city": "Loudoun County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w989908848",
@@ -19303,7 +20061,9 @@
       "city": "Dale City",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1013877056",
@@ -19320,7 +20080,9 @@
       "city": "Dale City",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1014606102",
@@ -19371,7 +20133,9 @@
       "city": "Merrifield",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1022360401",
@@ -19388,7 +20152,9 @@
       "city": "Virginia Beach",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1025381085",
@@ -19456,7 +20222,9 @@
       "city": "Virginia Beach",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1028445864",
@@ -19473,7 +20241,9 @@
       "city": "Virginia Beach",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1028791602",
@@ -19507,7 +20277,9 @@
       "city": "Virginia Beach",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1038812539",
@@ -19543,7 +20315,9 @@
       "city": "New Town",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1040220868",
@@ -19577,7 +20351,9 @@
       "city": "Tuckahoe",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1040925042",
@@ -19685,7 +20461,9 @@
       "city": "Stafford County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1057038353",
@@ -19702,7 +20480,9 @@
       "city": "Charlottesville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1057042783",
@@ -19738,7 +20518,9 @@
       "city": "Springfield",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1058133620",
@@ -19774,7 +20556,9 @@
       "city": "Southampton County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1059691002",
@@ -19810,7 +20594,9 @@
       "city": "Spotsylvania County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1064127402",
@@ -19878,7 +20664,9 @@
       "city": "Keswick",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1065754998",
@@ -19912,7 +20700,9 @@
       "city": "Alexandria",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1072757422",
@@ -19982,7 +20772,9 @@
       "city": "Loudoun County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1079503600",
@@ -20101,7 +20893,9 @@
       "city": "Loudoun County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1083612316",
@@ -20135,7 +20929,9 @@
       "city": "Loudoun County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084389747",
@@ -20169,7 +20965,9 @@
       "city": "McLean",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084396367",
@@ -20186,7 +20984,9 @@
       "city": "McLean",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084449981",
@@ -20203,7 +21003,9 @@
       "city": "Northumberland County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084943466",
@@ -20324,7 +21126,9 @@
       "city": "King George County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1086533315",
@@ -20377,7 +21181,9 @@
       "city": "Gloucester Point",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1086552967",
@@ -20394,7 +21200,9 @@
       "city": "Gloucester Point",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1087619225",
@@ -20430,7 +21238,9 @@
       "city": "Northumberland County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1087622799",
@@ -20447,7 +21257,9 @@
       "city": "Northumberland County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1087623772",
@@ -20464,7 +21276,9 @@
       "city": "Northampton County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1087624710",
@@ -20481,7 +21295,9 @@
       "city": "Gloucester Point",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1087624782",
@@ -20498,7 +21314,9 @@
       "city": "Gloucester Point",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1087625054",
@@ -20515,7 +21333,9 @@
       "city": "Gloucester Point",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1087625169",
@@ -20532,7 +21352,9 @@
       "city": "Gloucester Point",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1088187132",
@@ -20583,7 +21405,9 @@
       "city": "Reston",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1092526631",
@@ -20600,7 +21424,9 @@
       "city": "Reston",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1092526632",
@@ -20617,7 +21443,9 @@
       "city": "Reston",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1092526637",
@@ -20634,7 +21462,9 @@
       "city": "Reston",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1092787303",
@@ -20651,7 +21481,9 @@
       "city": "Difficult Run",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1092955539",
@@ -20719,7 +21551,9 @@
       "city": "Reston",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1095532545",
@@ -20806,7 +21640,9 @@
       "city": "Fairfax County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1104686036",
@@ -20859,7 +21695,9 @@
       "city": "Warren County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1106737355",
@@ -20876,7 +21714,9 @@
       "city": "York County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1107890009",
@@ -21046,7 +21886,9 @@
       "city": "Spotsylvania County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1112650807",
@@ -21063,7 +21905,9 @@
       "city": "Rockbridge County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1115813705",
@@ -21099,7 +21943,9 @@
       "city": "Stafford County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1118221713",
@@ -21135,7 +21981,9 @@
       "city": "Stuarts Draft",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1123803114",
@@ -21169,7 +22017,9 @@
       "city": "Chesterfield County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1124297288",
@@ -21277,7 +22127,9 @@
       "city": "Bedford County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1128357712",
@@ -21294,7 +22146,9 @@
       "city": "Crozet",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1129942684",
@@ -21311,7 +22165,9 @@
       "city": "Isle of Wight County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1132063975",
@@ -21328,7 +22184,9 @@
       "city": "Leesylvania",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1133630231",
@@ -21345,7 +22203,9 @@
       "city": "Woodlake",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1134144975",
@@ -21379,7 +22239,9 @@
       "city": "Suffolk",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1136315938",
@@ -21447,7 +22309,9 @@
       "city": "Catlett",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1148348170",
@@ -21464,7 +22328,9 @@
       "city": "Alexandria",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1148362582",
@@ -21570,7 +22436,9 @@
       "city": "Tysons",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1152884574",
@@ -21604,7 +22472,9 @@
       "city": "Gloucester",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1157360708",
@@ -21621,7 +22491,9 @@
       "city": "Burke",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1158052480",
@@ -21638,7 +22510,9 @@
       "city": "Virginia Beach",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1158242709",
@@ -21655,7 +22529,9 @@
       "city": "Cherry Hill",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1158246269",
@@ -21672,7 +22548,9 @@
       "city": "Cherry Hill",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1159023757",
@@ -21780,7 +22658,9 @@
       "city": "Gloucester County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1165961564",
@@ -21850,7 +22730,9 @@
       "city": "Basye",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1173188830",
@@ -21867,7 +22749,9 @@
       "city": "Crozet",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1173552829",
@@ -21884,7 +22768,9 @@
       "city": "Goochland County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1174007122",
@@ -21901,7 +22787,9 @@
       "city": "Fredericksburg",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1174668663",
@@ -21918,7 +22806,9 @@
       "city": "Henrico County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1175879914",
@@ -21935,7 +22825,9 @@
       "city": "Chancellor",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1176003465",
@@ -21952,7 +22844,9 @@
       "city": "Woodbridge",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1176992918",
@@ -21969,7 +22863,9 @@
       "city": "Springfield",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1180125680",
@@ -21986,7 +22882,9 @@
       "city": "North Garden",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1180267984",
@@ -22020,7 +22918,9 @@
       "city": "Oakton",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1184338676",
@@ -22037,7 +22937,9 @@
       "city": "Ivy",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1184472571",
@@ -22054,7 +22956,9 @@
       "city": "Norfolk",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1185407857",
@@ -22071,7 +22975,9 @@
       "city": "South Boston",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1190206398",
@@ -22122,7 +23028,9 @@
       "city": "Fredericksburg",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1193392228",
@@ -22175,7 +23083,9 @@
       "city": "Chantilly",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1206698113",
@@ -22192,7 +23102,9 @@
       "city": "Franklin County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1207205483",
@@ -22226,7 +23138,9 @@
       "city": "Prince George County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1208336421",
@@ -22260,7 +23174,9 @@
       "city": "Rockbridge County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1208511637",
@@ -22277,7 +23193,9 @@
       "city": "Rockingham County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1211980012",
@@ -22313,7 +23231,9 @@
       "city": "Rappahannock County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1212835709",
@@ -22381,7 +23301,9 @@
       "city": "Rockbridge County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1215783121",
@@ -22432,7 +23354,9 @@
       "city": "Poquoson",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1219038925",
@@ -22449,7 +23373,9 @@
       "city": "County Center",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1220106577",
@@ -22483,7 +23409,9 @@
       "city": "Rio",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1222049729",
@@ -22500,7 +23428,9 @@
       "city": "Free Union",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1225946472",
@@ -22585,7 +23515,9 @@
       "city": "Earlysville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1229215824",
@@ -22602,7 +23534,9 @@
       "city": "Hollymead",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1229679711",
@@ -22636,7 +23570,9 @@
       "city": "Rio",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1231240342",
@@ -22653,7 +23589,9 @@
       "city": "Rio",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1233041002",
@@ -22687,7 +23625,9 @@
       "city": "Groveton",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1240704531",
@@ -22704,7 +23644,9 @@
       "city": "Madison County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1240734083",
@@ -22738,7 +23680,9 @@
       "city": "Norfolk",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1242601132",
@@ -22772,7 +23716,9 @@
       "city": "Franklin County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1250980259",
@@ -22863,7 +23809,9 @@
       "city": "Orange County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1270934426",
@@ -22897,7 +23845,9 @@
       "city": "Northampton County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1271317652",
@@ -22931,7 +23881,9 @@
       "city": "Prince William County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1279548884",
@@ -22982,7 +23934,9 @@
       "city": "Manassas",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1287194925",
@@ -23069,7 +24023,9 @@
       "city": "Reston",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1299387845",
@@ -23086,7 +24042,9 @@
       "city": "Bethel Manor",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1299594983",
@@ -23137,7 +24095,9 @@
       "city": "Loudoun County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1313136998",
@@ -23154,7 +24114,9 @@
       "city": "Louisa County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1313988796",
@@ -23357,7 +24319,9 @@
       "city": "Fredericksburg",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1322391781",
@@ -23374,7 +24338,9 @@
       "city": "Fauquier County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1322391885",
@@ -23427,7 +24393,9 @@
       "city": "Campbell County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1329523307",
@@ -23495,7 +24463,9 @@
       "city": "Reston",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1331113975",
@@ -23512,7 +24482,9 @@
       "city": "Chincoteague",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1331114004",
@@ -23546,7 +24518,9 @@
       "city": "Norfolk",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1331114019",
@@ -23684,7 +24658,9 @@
       "city": "Fluvanna County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334160667",
@@ -23718,7 +24694,9 @@
       "city": "Shenandoah",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334160926",
@@ -23754,7 +24732,9 @@
       "city": "Rockbridge County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334161108",
@@ -23771,7 +24751,9 @@
       "city": "Franklin County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334161116",
@@ -23788,7 +24770,9 @@
       "city": "Cave Spring",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334161146",
@@ -23822,7 +24806,9 @@
       "city": "Stafford County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1337282349",
@@ -23856,7 +24842,9 @@
       "city": "McLean",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1338150223",
@@ -23924,7 +24912,9 @@
       "city": "Southern Gateway",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1339740485",
@@ -23994,7 +24984,9 @@
       "city": "Lake Wilderness",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1339916176",
@@ -24011,7 +25003,9 @@
       "city": "Spotsylvania County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1339956738",
@@ -24062,7 +25056,9 @@
       "city": "Charles City County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1340462885",
@@ -24333,7 +25329,9 @@
       "city": "Stafford County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1341440412",
@@ -24384,7 +25382,9 @@
       "city": "Salem Fields",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1345246952",
@@ -24469,7 +25469,9 @@
       "city": "Stafford County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1346341110",
@@ -24486,7 +25488,9 @@
       "city": "Stafford County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1346963656",
@@ -24520,7 +25524,9 @@
       "city": "Belle Haven",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1347448028",
@@ -24537,7 +25543,9 @@
       "city": "Northumberland County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1347450521",
@@ -24605,7 +25613,9 @@
       "city": "King George",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1350000289",
@@ -24656,7 +25666,9 @@
       "city": "Frederick County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1354477304",
@@ -24673,7 +25685,9 @@
       "city": "Pittsylvania County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1355253153",
@@ -24724,7 +25738,9 @@
       "city": "Warrenton",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1355430131",
@@ -24760,7 +25776,9 @@
       "city": "Rocky Mount",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356410528",
@@ -24813,7 +25831,9 @@
       "city": "Fieldale",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1379208030",
@@ -24830,7 +25850,9 @@
       "city": "Burke",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1380075390",
@@ -24866,7 +25888,9 @@
       "city": "Prince William County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1386910837",
@@ -24921,7 +25945,9 @@
       "city": "Buchanan",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1395623906",
@@ -24938,7 +25964,9 @@
       "city": "Fair Lakes",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1410434897",
@@ -24955,7 +25983,9 @@
       "city": "Rockwood",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1412346306",
@@ -24972,7 +26002,9 @@
       "city": "Bedford County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1412404157",
@@ -25080,7 +26112,9 @@
       "city": "Reston",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1413351563",
@@ -25097,7 +26131,9 @@
       "city": "Great Falls",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1414018880",
@@ -25148,7 +26184,9 @@
       "city": "York County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1414186985",
@@ -25165,7 +26203,9 @@
       "city": "Appomattox",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1414377432",
@@ -25288,7 +26328,9 @@
       "city": "Edinburg",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1416737844",
@@ -25341,7 +26383,9 @@
       "city": "Pulaski County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1417651765",
@@ -25358,7 +26402,9 @@
       "city": "Richmond",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1418069938",
@@ -25375,7 +26421,9 @@
       "city": "Narrows",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1418710362",
@@ -25409,7 +26457,9 @@
       "city": "York County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1419233079",
@@ -25426,7 +26476,9 @@
       "city": "Bath County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1420643171",
@@ -25602,7 +26654,9 @@
       "city": "Falls Church",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1422491494",
@@ -25619,7 +26673,9 @@
       "city": "Caroline County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1424132899",
@@ -25672,7 +26728,9 @@
       "city": "Nelson County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1424642915",
@@ -25689,7 +26747,9 @@
       "city": "York County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1424843449",
@@ -25706,7 +26766,9 @@
       "city": "Lake Land'Or",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1425041982",
@@ -25723,7 +26785,9 @@
       "city": "Caroline County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1425042654",
@@ -25975,7 +27039,9 @@
       "city": "James City County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1427166638",
@@ -26028,7 +27094,9 @@
       "city": "Midlothian",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1428764332",
@@ -26278,7 +27346,9 @@
       "city": "Short Pump",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1430662212",
@@ -26513,7 +27583,9 @@
       "city": "Mechanicsville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1431219572",
@@ -26566,7 +27638,9 @@
       "city": "Henrico County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1431221015",
@@ -26801,7 +27875,9 @@
       "city": "Appomattox",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1432779108",
@@ -26979,7 +28055,9 @@
       "city": "Centreville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1434396687",
@@ -27030,7 +28108,9 @@
       "city": "Albemarle County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1434797850",
@@ -27100,7 +28180,9 @@
       "city": "Wolf Trap",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435104967",
@@ -27117,7 +28199,9 @@
       "city": "Wolf Trap",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435105168",
@@ -27134,7 +28218,9 @@
       "city": "Tysons",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435106369",
@@ -27202,7 +28288,9 @@
       "city": "Stuarts Draft",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435980662",
@@ -27236,7 +28324,9 @@
       "city": "Oakton",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1436183083",
@@ -27253,7 +28343,9 @@
       "city": "Reston",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1436494840",
@@ -27270,7 +28362,9 @@
       "city": "Arlington",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1436751690",
@@ -27306,7 +28400,9 @@
       "city": "Gainesville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1436999867",
@@ -27391,7 +28487,9 @@
       "city": "Portsmouth",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442425273",
@@ -27408,7 +28506,9 @@
       "city": "Virginia Beach",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442457793",
@@ -27459,7 +28559,9 @@
       "city": "Chantilly",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442458125",
@@ -27476,7 +28578,9 @@
       "city": "Chantilly",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442978658",
@@ -27493,7 +28597,9 @@
       "city": "Washington County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442978659",
@@ -27527,7 +28633,9 @@
       "city": "Buchanan",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443576838",
@@ -27544,7 +28652,9 @@
       "city": "Goose Creek Village",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443821296",
@@ -27597,7 +28707,9 @@
       "city": "Fincastle",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443900253",
@@ -27614,7 +28726,9 @@
       "city": "Daleville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443900810",
@@ -27631,7 +28745,9 @@
       "city": "Salem",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443901205",
@@ -27648,7 +28764,9 @@
       "city": "Bedford",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443901277",
@@ -27718,7 +28836,9 @@
       "city": "Augusta County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443987280",
@@ -27735,7 +28855,9 @@
       "city": "Woodlake",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1444560430",
@@ -27786,7 +28908,9 @@
       "city": "Marshall",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1445702469",
@@ -27822,7 +28946,9 @@
       "city": "Loudoun County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446424179",
@@ -27890,7 +29016,9 @@
       "city": "Powhatan",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1447808049",
@@ -27941,7 +29069,9 @@
       "city": "Franklin Farm",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1449715908",
@@ -27992,7 +29122,9 @@
       "city": "Charles City County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1454783032",
@@ -28028,7 +29160,9 @@
       "city": "Chesterfield County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1456140771",
@@ -28117,7 +29251,9 @@
       "city": "Woodbridge",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1460408822",
@@ -28170,7 +29306,9 @@
       "city": "Northumberland County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1462200283",
@@ -28238,7 +29376,9 @@
       "city": "James City County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1463637301",
@@ -28378,7 +29518,9 @@
       "city": "Abingdon",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1466357653",
@@ -28433,7 +29575,9 @@
       "city": "Centreville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1467190652",
@@ -28486,7 +29630,9 @@
       "city": "Woodbridge",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469837733",
@@ -28520,7 +29666,9 @@
       "city": "Broadway",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474826137",
@@ -28537,7 +29685,9 @@
       "city": "Pound",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474837391",
@@ -28554,7 +29704,9 @@
       "city": "Reynolds Store",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474837989",
@@ -28590,7 +29742,9 @@
       "city": "Frederick County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474840594",
@@ -28645,7 +29799,9 @@
       "city": "Smyth County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474885234",
@@ -28730,7 +29886,9 @@
       "city": "Bristol",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474895851",
@@ -28902,7 +30060,9 @@
       "city": "Chesapeake",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1475995907",
@@ -29093,7 +30253,9 @@
       "city": "Norfolk",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1476211848",
@@ -29269,7 +30431,9 @@
       "city": "Newport News",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1476220336",
@@ -29388,7 +30552,9 @@
       "city": "James City County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1476223041",
@@ -29441,7 +30607,9 @@
       "city": "Prince George County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1476229015",
@@ -29636,7 +30804,9 @@
       "city": "Brookneal",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1476237180",
@@ -29833,7 +31003,9 @@
       "city": "Tuckahoe",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1476330887",
@@ -29850,7 +31022,9 @@
       "city": "Annandale",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1476331167",
@@ -29886,7 +31060,9 @@
       "city": "Reston",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1476331653",
@@ -29939,7 +31115,9 @@
       "city": "Alexandria",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1476332122",
@@ -30007,7 +31185,9 @@
       "city": "Stanleytown",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1476656526",
@@ -30130,7 +31310,9 @@
       "city": "Grayson County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1478458941",
@@ -30217,7 +31399,9 @@
       "city": "Hanover County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1478460903",
@@ -30327,7 +31511,9 @@
       "city": "Lorton",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1484758928",
@@ -30382,7 +31568,9 @@
       "city": "Louisa County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1484759711",
@@ -30486,7 +31674,9 @@
       "city": "Albemarle County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1485394298",
@@ -30503,7 +31693,9 @@
       "city": "Albemarle County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1485483848",
@@ -30554,7 +31746,9 @@
       "city": "Dahlgren Center",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1488359034",
@@ -30656,7 +31850,9 @@
       "city": "Caroline County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1490427308",
@@ -30779,7 +31975,9 @@
       "city": "Arlington",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492285966",
@@ -30813,7 +32011,9 @@
       "city": "Franklin County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492719874",
@@ -30919,7 +32119,9 @@
       "city": "Fauquier County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1493301130",
@@ -30953,7 +32155,9 @@
       "city": "Fort Hunt",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1493479407",
@@ -31006,7 +32210,9 @@
       "city": "New Kent County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1495322137",
@@ -31023,7 +32229,9 @@
       "city": "Brambleton",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1495322281",
@@ -31074,7 +32282,9 @@
       "city": "Louisa County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1495486593",
@@ -31125,7 +32335,9 @@
       "city": "West Falls Church",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1495891920",
@@ -31176,7 +32388,9 @@
       "city": "Loudoun County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1497425401",
@@ -31193,7 +32407,9 @@
       "city": "Wakefield",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1497990969",
@@ -31210,7 +32426,9 @@
       "city": "Middleburg",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1497991275",
@@ -31244,7 +32462,9 @@
       "city": "Idylwood",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1497991455",
@@ -31261,7 +32481,9 @@
       "city": "Idylwood",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1498078568",
@@ -31316,7 +32538,9 @@
       "city": "Albemarle County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1500312198",
@@ -31350,7 +32574,9 @@
       "city": "Springfield",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1500651052",
@@ -31367,7 +32593,9 @@
       "city": "Springfield",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1501071879",
@@ -31401,7 +32629,9 @@
       "city": "Reston",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1501135406",
@@ -31418,7 +32648,9 @@
       "city": "Woodbridge",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1501460744",
@@ -31632,7 +32864,9 @@
       "city": "Fairfax",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1504768005",
@@ -31700,7 +32934,9 @@
       "city": "Goochland County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1508004670",
@@ -31768,7 +33004,9 @@
       "city": "Culpeper County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1509244121",
@@ -31891,7 +33129,9 @@
       "city": "Midlothian",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1509665638",
@@ -31946,7 +33186,9 @@
       "city": "Midlothian",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1509778310",
@@ -32152,7 +33394,9 @@
       "city": "Doswell",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1509970003",
@@ -32256,7 +33500,9 @@
       "city": "Lee's Hill",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1509987588",
@@ -32290,7 +33536,9 @@
       "city": "Caroline County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1510000012",
@@ -32307,7 +33555,9 @@
       "city": "Dahlgren Center",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1510000244",
@@ -32324,7 +33574,9 @@
       "city": "Dahlgren Center",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1510001251",
@@ -32398,7 +33650,9 @@
       "city": "Hollymead",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1510144947",
@@ -32542,7 +33796,9 @@
       "city": "Rockingham County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1510147055",
@@ -32682,7 +33938,9 @@
       "city": "Front Royal",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1510294927",
@@ -32754,7 +34012,9 @@
       "city": "Warrenton",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1510315645",
@@ -32771,7 +34031,9 @@
       "city": "Oakton",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1510705219",
@@ -32911,7 +34173,9 @@
       "city": "Quantico Base",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512085182",
@@ -33032,7 +34296,9 @@
       "city": "Lorton",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512100011",
@@ -33066,7 +34332,9 @@
       "city": "Mount Vernon",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512100585",
@@ -33155,7 +34423,9 @@
       "city": "Wise",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1513112776",
@@ -33191,7 +34461,9 @@
       "city": "Fairfax County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1515717308",
@@ -33208,7 +34480,9 @@
       "city": "Leesburg",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1515717375",
@@ -33225,7 +34499,9 @@
       "city": "Countryside",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1516390134",
@@ -33420,7 +34696,9 @@
       "city": "Greenbriar",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1523560986",
@@ -33473,7 +34751,9 @@
       "city": "Linton Hall",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524043732",
@@ -33526,7 +34806,9 @@
       "city": "Long Branch",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524123918",
@@ -33594,7 +34876,9 @@
       "city": "Reston",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524284621",
@@ -33804,7 +35088,9 @@
       "city": "Springfield",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524553854",
@@ -33838,7 +35124,9 @@
       "city": "Groveton",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524755077",
@@ -33891,7 +35179,9 @@
       "city": "Bull Run",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524784575",
@@ -34014,7 +35304,9 @@
       "city": "Burke",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524787917",
@@ -34118,7 +35410,9 @@
       "city": "North Springfield",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524820353",
@@ -34205,7 +35499,9 @@
       "city": "Alexandria",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524821906",
@@ -34275,7 +35571,9 @@
       "city": "Mantua",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524823994",
@@ -34309,7 +35607,9 @@
       "city": "Rose Hill",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524824657",
@@ -34343,7 +35643,9 @@
       "city": "Annandale",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524824982",
@@ -34447,7 +35749,9 @@
       "city": "Springfield",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524828165",
@@ -34481,7 +35785,9 @@
       "city": "Rose Hill",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524829304",
@@ -34566,7 +35872,9 @@
       "city": "Gainesville",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524901273",
@@ -34583,7 +35891,9 @@
       "city": "Linton Hall",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524902030",
@@ -34617,7 +35927,9 @@
       "city": "Franklin Farm",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524902265",
@@ -34634,7 +35946,9 @@
       "city": "Great Falls Crossing",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524903030",
@@ -34668,7 +35982,9 @@
       "city": "Oakton",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524905842",
@@ -34685,7 +36001,9 @@
       "city": "Alexandria",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524906022",
@@ -34721,7 +36039,9 @@
       "city": "Northumberland County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1525035382",
@@ -34810,7 +36130,9 @@
       "city": "Chesterfield",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1528978300",
@@ -34844,7 +36166,9 @@
       "city": "Lake Barcroft",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1529751396",
@@ -34933,7 +36257,9 @@
       "city": "Fairfax County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1529991589",
@@ -34950,7 +36276,9 @@
       "city": "McLean",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1529992282",
@@ -34967,7 +36295,9 @@
       "city": "McLean",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1529994060",
@@ -34984,7 +36314,9 @@
       "city": "McLean",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1530218028",
@@ -35001,7 +36333,9 @@
       "city": "Long Branch",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1530219185",
@@ -35018,7 +36352,9 @@
       "city": "Fairfax County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1530727452",
@@ -35035,7 +36371,9 @@
       "city": "Tysons",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1530730187",
@@ -35103,7 +36441,9 @@
       "city": "Henrico County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1533315247",
@@ -35137,7 +36477,9 @@
       "city": "Mantua",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1540119890",
@@ -35154,7 +36496,9 @@
       "city": "Waterford",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1544908306",
@@ -35171,7 +36515,9 @@
       "city": "Goochland County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1547343268",
@@ -35188,7 +36534,9 @@
       "city": "Fauquier County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551586556",
@@ -35222,7 +36570,9 @@
       "city": "Aldie",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1553156076",
@@ -35256,7 +36606,9 @@
       "city": "Fairfax County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1553186413",
@@ -35311,7 +36663,9 @@
       "city": "Broadway",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1553311054",
@@ -35366,7 +36720,9 @@
       "city": "York County",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-r6543245",
@@ -35383,7 +36739,9 @@
       "city": "Fork Union",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-r7633270",
@@ -35519,7 +36877,9 @@
       "city": "Chantilly",
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     }
   ]
 }

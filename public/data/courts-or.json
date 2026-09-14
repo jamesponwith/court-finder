@@ -399,7 +399,9 @@
       "city": "Independence",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w40117461",
@@ -1656,7 +1658,9 @@
       "city": "Beaverton",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w131155957",
@@ -1690,7 +1694,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w133234513",
@@ -1762,7 +1768,9 @@
       "city": "West Linn",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w133800053",
@@ -1851,7 +1859,9 @@
       "city": "Portland",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w142991280",
@@ -2007,7 +2017,9 @@
       "city": "Brookings",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w163045440",
@@ -2266,7 +2278,9 @@
       "city": "Salem",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w169188414",
@@ -2387,7 +2401,9 @@
       "city": "Woodburn",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w171822080",
@@ -2495,7 +2511,9 @@
       "city": "Sheridan",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w179504981",
@@ -2828,7 +2846,9 @@
       "city": "Lane County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w216886471",
@@ -2896,7 +2916,9 @@
       "city": "Eugene",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w222238297",
@@ -2949,7 +2971,9 @@
       "city": "Springfield",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w233419963",
@@ -3017,7 +3041,9 @@
       "city": "Netarts",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w268536462",
@@ -3189,7 +3215,9 @@
       "city": "Dayville",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w293601869",
@@ -3259,7 +3287,9 @@
       "city": "Gresham",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w299088589",
@@ -3276,7 +3306,9 @@
       "city": "Oak Hills",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w306183874",
@@ -3397,7 +3429,9 @@
       "city": "Corvallis",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w317137175",
@@ -3450,7 +3484,9 @@
       "city": "Bend",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w319244968",
@@ -3467,7 +3503,9 @@
       "city": "Deschutes County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w321765443",
@@ -3501,7 +3539,9 @@
       "city": "Sunriver",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w322284077",
@@ -3518,7 +3558,9 @@
       "city": "Sunriver",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w322284080",
@@ -3654,7 +3696,9 @@
       "city": "Salem",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w344392320",
@@ -3671,7 +3715,9 @@
       "city": "Lane County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w345155268",
@@ -3739,7 +3785,9 @@
       "city": "La Pine",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w358981677",
@@ -3756,7 +3804,9 @@
       "city": "Depoe Bay",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w359249416",
@@ -3790,7 +3840,9 @@
       "city": "Corbett",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w360602882",
@@ -3841,7 +3893,9 @@
       "city": "Lincoln City",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w363429002",
@@ -3877,7 +3931,9 @@
       "city": "Eugene",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w364442980",
@@ -3930,7 +3986,9 @@
       "city": "Beaverton",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w368549427",
@@ -3964,7 +4022,9 @@
       "city": "Beaverton",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w369011208",
@@ -3981,7 +4041,9 @@
       "city": "West Haven-Sylvan",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w369011211",
@@ -3998,7 +4060,9 @@
       "city": "West Haven-Sylvan",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w369025928",
@@ -4034,7 +4098,9 @@
       "city": "Beaverton",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w369252422",
@@ -4051,7 +4117,9 @@
       "city": "Beaverton",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w369558447",
@@ -4102,7 +4170,9 @@
       "city": "Beaverton",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w373716922",
@@ -4225,7 +4295,9 @@
       "city": "Portland",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w399153088",
@@ -4363,7 +4435,9 @@
       "city": "Cedar Mill",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w410321315",
@@ -4380,7 +4454,9 @@
       "city": "Jackson County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w412554337",
@@ -4433,7 +4509,9 @@
       "city": "Beaverton",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w415688360",
@@ -4554,7 +4632,9 @@
       "city": "Harney County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w422896236",
@@ -4571,7 +4651,9 @@
       "city": "Seaside",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w422896240",
@@ -4588,7 +4670,9 @@
       "city": "Seaside",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w422917829",
@@ -4605,7 +4689,9 @@
       "city": "Gearhart",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w423990058",
@@ -4872,7 +4958,9 @@
       "city": "Tigard",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w439276628",
@@ -4889,7 +4977,9 @@
       "city": "Tigard",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w439334100",
@@ -4906,7 +4996,9 @@
       "city": "Bull Mountain",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w439338962",
@@ -4923,7 +5015,9 @@
       "city": "Kingston Terrace",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w439387574",
@@ -4940,7 +5034,9 @@
       "city": "Bull Mountain",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w439401564",
@@ -4974,7 +5070,9 @@
       "city": "Tigard",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w439463948",
@@ -4991,7 +5089,9 @@
       "city": "Tigard",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w439899267",
@@ -5008,7 +5108,9 @@
       "city": "Tigard",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w440155145",
@@ -5025,7 +5127,9 @@
       "city": "Bull Mountain",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w440155150",
@@ -5042,7 +5146,9 @@
       "city": "Bull Mountain",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w440155164",
@@ -5059,7 +5165,9 @@
       "city": "Bull Mountain",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w440821888",
@@ -5112,7 +5220,9 @@
       "city": "Washington County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w444667823",
@@ -5146,7 +5256,9 @@
       "city": "Cedar Mill",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w450033768",
@@ -5322,7 +5434,9 @@
       "city": "Oakridge",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w471683275",
@@ -5409,7 +5523,9 @@
       "city": "King City",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w483865581",
@@ -5443,7 +5559,9 @@
       "city": "Beaverton",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w488613814",
@@ -5460,7 +5578,9 @@
       "city": "West Haven-Sylvan",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w488737883",
@@ -5494,7 +5614,9 @@
       "city": "Portland",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w488953494",
@@ -5511,7 +5633,9 @@
       "city": "West Haven-Sylvan",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w489124126",
@@ -5528,7 +5652,9 @@
       "city": "Portland",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w489966842",
@@ -5562,7 +5688,9 @@
       "city": "Bend",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w495024695",
@@ -5630,7 +5758,9 @@
       "city": "Oak Hills",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w499828805",
@@ -5666,7 +5796,9 @@
       "city": "Forest Park",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w501837923",
@@ -5700,7 +5832,9 @@
       "city": "Portland",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w502510739",
@@ -5853,7 +5987,9 @@
       "city": "Washington County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w504322555",
@@ -5870,7 +6006,9 @@
       "city": "Oak Hills",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w504877045",
@@ -5904,7 +6042,9 @@
       "city": "Portland",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w505687054",
@@ -5938,7 +6078,9 @@
       "city": "Portland",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w508609505",
@@ -6006,7 +6148,9 @@
       "city": "Douglas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w510309690",
@@ -6059,7 +6203,9 @@
       "city": "Ukiah",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w514575967",
@@ -6182,7 +6328,9 @@
       "city": "Portland",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w545385432",
@@ -6199,7 +6347,9 @@
       "city": "Bend",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w546694295",
@@ -6216,7 +6366,9 @@
       "city": "Oak Grove",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w546875163",
@@ -6233,7 +6385,9 @@
       "city": "Polk County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w552232812",
@@ -6250,7 +6404,9 @@
       "city": "Hood River County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w553436230",
@@ -6267,7 +6423,9 @@
       "city": "Malheur County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w558341718",
@@ -6320,7 +6478,9 @@
       "city": "Warrenton",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w567933251",
@@ -6388,7 +6548,9 @@
       "city": "Chenoweth",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w595740724",
@@ -6422,7 +6584,9 @@
       "city": "White City",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w610923104",
@@ -6524,7 +6688,9 @@
       "city": "North Hillsboro",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w651640694",
@@ -6541,7 +6707,9 @@
       "city": "Hillsboro",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w654851100",
@@ -6558,7 +6726,9 @@
       "city": "Forest Park",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w656490299",
@@ -6575,7 +6745,9 @@
       "city": "Portland",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w656490349",
@@ -6592,7 +6764,9 @@
       "city": "Helvetia",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w656743016",
@@ -6609,7 +6783,9 @@
       "city": "Washington County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w657006979",
@@ -6626,7 +6802,9 @@
       "city": "Washington County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w658665493",
@@ -6643,7 +6821,9 @@
       "city": "Portland",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w658669905",
@@ -6660,7 +6840,9 @@
       "city": "Portland",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w659349125",
@@ -6694,7 +6876,9 @@
       "city": "Forest Park",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w664096757",
@@ -6711,7 +6895,9 @@
       "city": "Helvetia",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w664360434",
@@ -6728,7 +6914,9 @@
       "city": "Multnomah County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w665457682",
@@ -6745,7 +6933,9 @@
       "city": "Washington County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w666433388",
@@ -6762,7 +6952,9 @@
       "city": "Washington County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w667708323",
@@ -6779,7 +6971,9 @@
       "city": "Washington County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w672522597",
@@ -6834,7 +7028,9 @@
       "city": "Junction City",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w681222132",
@@ -6902,7 +7098,9 @@
       "city": "Southwest Hills",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w712586518",
@@ -6919,7 +7117,9 @@
       "city": "Jackson County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w729213662",
@@ -6955,7 +7155,9 @@
       "city": "Salem",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w739116328",
@@ -7006,7 +7208,9 @@
       "city": "Salem",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w751419991",
@@ -7042,7 +7246,9 @@
       "city": "Umatilla County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w781474255",
@@ -7078,7 +7284,9 @@
       "city": "Bend",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w794517721",
@@ -7095,7 +7303,9 @@
       "city": "Bend",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w796248065",
@@ -7112,7 +7322,9 @@
       "city": "Washington County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w797695523",
@@ -7129,7 +7341,9 @@
       "city": "Bend",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w801037605",
@@ -7180,7 +7394,9 @@
       "city": "Hood River County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w820045292",
@@ -7269,7 +7485,9 @@
       "city": "Malheur County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w842508710",
@@ -7286,7 +7504,9 @@
       "city": "Heppner",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w842567405",
@@ -7339,7 +7559,9 @@
       "city": "Jefferson County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w842879825",
@@ -7407,7 +7629,9 @@
       "city": "Central Point",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w842884947",
@@ -7513,7 +7737,9 @@
       "city": "Bridlemile",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w871748713",
@@ -7605,7 +7831,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w878410687",
@@ -7622,7 +7850,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w884464216",
@@ -8047,7 +8277,9 @@
       "city": "Eugene",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w974101925",
@@ -8081,7 +8313,9 @@
       "city": "Portland",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1003183086",
@@ -8098,7 +8332,9 @@
       "city": "Portland",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1003190304",
@@ -8115,7 +8351,9 @@
       "city": "Portland",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1003291109",
@@ -8132,7 +8370,9 @@
       "city": "Beaverton",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1003291645",
@@ -8149,7 +8389,9 @@
       "city": "Garden Home-Whitford",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1003296354",
@@ -8166,7 +8408,9 @@
       "city": "Garden Home-Whitford",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1003421933",
@@ -8183,7 +8427,9 @@
       "city": "Lake Oswego",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1021548131",
@@ -8200,7 +8446,9 @@
       "city": "Cannon Beach",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1022736783",
@@ -8236,7 +8484,9 @@
       "city": "Happy Valley",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1029870688",
@@ -8253,7 +8503,9 @@
       "city": "Happy Valley",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1036085159",
@@ -8321,7 +8573,9 @@
       "city": "Lake Oswego",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1056359375",
@@ -8338,7 +8592,9 @@
       "city": "Portland",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1056359379",
@@ -8355,7 +8611,9 @@
       "city": "Portland",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1056814440",
@@ -8372,7 +8630,9 @@
       "city": "Lake Oswego",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1059177113",
@@ -8389,7 +8649,9 @@
       "city": "Washington County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1060199723",
@@ -8406,7 +8668,9 @@
       "city": "Washington County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1060199732",
@@ -8423,7 +8687,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1060199751",
@@ -8440,7 +8706,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1060202972",
@@ -8457,7 +8725,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1060318532",
@@ -8474,7 +8744,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1060318540",
@@ -8491,7 +8763,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1060344086",
@@ -8508,7 +8782,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1060344089",
@@ -8525,7 +8801,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1060344093",
@@ -8542,7 +8820,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1060344094",
@@ -8559,7 +8839,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1060344096",
@@ -8576,7 +8858,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1060344099",
@@ -8593,7 +8877,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1060344101",
@@ -8610,7 +8896,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1060344115",
@@ -8627,7 +8915,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1060344156",
@@ -8644,7 +8934,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1060344163",
@@ -8661,7 +8953,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1060344182",
@@ -8678,7 +8972,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1060353854",
@@ -8695,7 +8991,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1060353857",
@@ -8712,7 +9010,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1060353897",
@@ -8729,7 +9029,9 @@
       "city": "Rivergrove",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1060353910",
@@ -8746,7 +9048,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1060353917",
@@ -8763,7 +9067,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1060353922",
@@ -8780,7 +9086,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1060357393",
@@ -8797,7 +9105,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1060357397",
@@ -8814,7 +9124,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1060357403",
@@ -8831,7 +9143,9 @@
       "city": "Lake Oswego",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1060357404",
@@ -8848,7 +9162,9 @@
       "city": "Lake Oswego",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1060357413",
@@ -8865,7 +9181,9 @@
       "city": "Lake Oswego",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1060432416",
@@ -8882,7 +9200,9 @@
       "city": "Lake Oswego",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1060440361",
@@ -8899,7 +9219,9 @@
       "city": "Lake Oswego",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1060442415",
@@ -8933,7 +9255,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1061808014",
@@ -8950,7 +9274,9 @@
       "city": "Washington County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1064532214",
@@ -8967,7 +9293,9 @@
       "city": "Aurora",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1070523496",
@@ -8984,7 +9312,9 @@
       "city": "Portland",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1070523501",
@@ -9001,7 +9331,9 @@
       "city": "Portland",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1070523519",
@@ -9018,7 +9350,9 @@
       "city": "Portland",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1070523521",
@@ -9035,7 +9369,9 @@
       "city": "Portland",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1070523522",
@@ -9052,7 +9388,9 @@
       "city": "Portland",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1070771375",
@@ -9069,7 +9407,9 @@
       "city": "Molalla",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1071436161",
@@ -9205,7 +9545,9 @@
       "city": "Oregon City",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1086084330",
@@ -9241,7 +9583,9 @@
       "city": "Rosemont",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1086880303",
@@ -9258,7 +9602,9 @@
       "city": "Rosemont",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1087136250",
@@ -9275,7 +9621,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1087774081",
@@ -9292,7 +9640,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1088315045",
@@ -9328,7 +9678,9 @@
       "city": "Gresham",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1091778025",
@@ -9345,7 +9697,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1091961998",
@@ -9362,7 +9716,9 @@
       "city": "Warrenton",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1093063706",
@@ -9379,7 +9735,9 @@
       "city": "Happy Valley",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1095044412",
@@ -9413,7 +9771,9 @@
       "city": "Yamhill County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1102383374",
@@ -9430,7 +9790,9 @@
       "city": "Portland",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1106173848",
@@ -9481,7 +9843,9 @@
       "city": "Sherwood",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1117292330",
@@ -9517,7 +9881,9 @@
       "city": "Bend",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1118277144",
@@ -9534,7 +9900,9 @@
       "city": "Portland",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1120276032",
@@ -9551,7 +9919,9 @@
       "city": "Oak Grove",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1121870490",
@@ -9568,7 +9938,9 @@
       "city": "Lake Oswego",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1125566494",
@@ -9621,7 +9993,9 @@
       "city": "Tillamook County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1167614451",
@@ -9693,7 +10067,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1210690385",
@@ -9727,7 +10103,9 @@
       "city": "Spray",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1215490999",
@@ -9744,7 +10122,9 @@
       "city": "Polk County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1219831263",
@@ -9795,7 +10175,9 @@
       "city": "Sherman County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1247988931",
@@ -9812,7 +10194,9 @@
       "city": "Fargo",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1254161136",
@@ -9848,7 +10232,9 @@
       "city": "Jackson County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1267612753",
@@ -9865,7 +10251,9 @@
       "city": "Salem",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1270327210",
@@ -9882,7 +10270,9 @@
       "city": "Marion County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1270327410",
@@ -9899,7 +10289,9 @@
       "city": "Marion County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1270327414",
@@ -9916,7 +10308,9 @@
       "city": "Marion County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1272645744",
@@ -9933,7 +10327,9 @@
       "city": "Lake Oswego",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1283695038",
@@ -9950,7 +10346,9 @@
       "city": "Fossil",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1295554758",
@@ -9967,7 +10365,9 @@
       "city": "Salem",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1295554759",
@@ -10022,7 +10422,9 @@
       "city": "Salem",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1300950931",
@@ -10039,7 +10441,9 @@
       "city": "Benton County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1301232775",
@@ -10056,7 +10460,9 @@
       "city": "Salem",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1304151675",
@@ -10111,7 +10517,9 @@
       "city": "Klamath Falls",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1335836786",
@@ -10128,7 +10536,9 @@
       "city": "Jefferson County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1349647349",
@@ -10145,7 +10555,9 @@
       "city": "Harrisburg",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1354263317",
@@ -10234,7 +10646,9 @@
       "city": "Medford",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1383473751",
@@ -10251,7 +10665,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1392216537",
@@ -10302,7 +10718,9 @@
       "city": "Jackson County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1412345999",
@@ -10355,7 +10773,9 @@
       "city": "Gold Beach",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1424771678",
@@ -10389,7 +10809,9 @@
       "city": "Jackson County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1431016056",
@@ -10459,7 +10881,9 @@
       "city": "Amity",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1434157059",
@@ -10476,7 +10900,9 @@
       "city": "Coos Bay",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1434379850",
@@ -10493,7 +10919,9 @@
       "city": "Bend",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1434441519",
@@ -10546,7 +10974,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1445808183",
@@ -10563,7 +10993,9 @@
       "city": "Wheeler County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1447866597",
@@ -10580,7 +11012,9 @@
       "city": "Boardman",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1454298059",
@@ -10682,7 +11116,9 @@
       "city": "Portland",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1456773635",
@@ -10716,7 +11152,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1467389523",
@@ -10733,7 +11171,9 @@
       "city": "Gold Beach",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1467390389",
@@ -10750,7 +11190,9 @@
       "city": "Bandon",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1467657120",
@@ -10767,7 +11209,9 @@
       "city": "Ashland",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1467657550",
@@ -10837,7 +11281,9 @@
       "city": "Cave Junction",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1467727758",
@@ -10854,7 +11300,9 @@
       "city": "Josephine County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1467727904",
@@ -10888,7 +11336,9 @@
       "city": "Klamath County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1467849654",
@@ -10977,7 +11427,9 @@
       "city": "Oakland",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1467925910",
@@ -11011,7 +11463,9 @@
       "city": "Lane County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1467925995",
@@ -11155,7 +11609,9 @@
       "city": "Eugene",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1468083920",
@@ -11329,7 +11785,9 @@
       "city": "Depoe Bay",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1468099601",
@@ -11346,7 +11804,9 @@
       "city": "Lincoln Beach",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1468100475",
@@ -11363,7 +11823,9 @@
       "city": "Lincoln County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1468101103",
@@ -11503,7 +11965,9 @@
       "city": "Salem",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1468130203",
@@ -11588,7 +12052,9 @@
       "city": "Lake Oswego",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1468131233",
@@ -11622,7 +12088,9 @@
       "city": "Deschutes County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1468131654",
@@ -11673,7 +12141,9 @@
       "city": "Jefferson County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1468132007",
@@ -11743,7 +12213,9 @@
       "city": "Deschutes County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1468136379",
@@ -11868,7 +12340,9 @@
       "city": "Crook County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1468137854",
@@ -12211,7 +12685,9 @@
       "city": "Prairie City",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1468142261",
@@ -12300,7 +12776,9 @@
       "city": "Marion County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474917260",
@@ -12317,7 +12795,9 @@
       "city": "Washington County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1475367650",
@@ -12334,7 +12814,9 @@
       "city": "Marion County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1475447329",
@@ -12351,7 +12833,9 @@
       "city": "Marion County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1476326836",
@@ -12368,7 +12852,9 @@
       "city": "Gresham",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1480414746",
@@ -12385,7 +12871,9 @@
       "city": "Washington County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1481962336",
@@ -12402,7 +12890,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1489619599",
@@ -12419,7 +12909,9 @@
       "city": "Bull Mountain",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1489652013",
@@ -12436,7 +12928,9 @@
       "city": "Bull Mountain",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1499229612",
@@ -12453,7 +12947,9 @@
       "city": "Canby",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1516697523",
@@ -12682,7 +13178,9 @@
       "city": "Lakeview",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1528576860",
@@ -12733,7 +13231,9 @@
       "city": "Jackson County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1528578449",
@@ -12784,7 +13284,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1528805292",
@@ -12801,7 +13303,9 @@
       "city": "Cooper Mountain",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1528805880",
@@ -12818,7 +13322,9 @@
       "city": "Springbrook",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1528806357",
@@ -12835,7 +13341,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1528807465",
@@ -12852,7 +13360,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1528808495",
@@ -12905,7 +13415,9 @@
       "city": "Millersburg",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1528810658",
@@ -12939,7 +13451,9 @@
       "city": "Sisters",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1528891902",
@@ -12990,7 +13504,9 @@
       "city": "Gearhart",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1540885714",
@@ -13007,7 +13523,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1545392622",
@@ -13024,7 +13542,9 @@
       "city": "Lane County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1546810998",
@@ -13058,7 +13578,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1546813983",
@@ -13075,7 +13597,9 @@
       "city": "Washington County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551637269",
@@ -13092,7 +13616,9 @@
       "city": "Gresham",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551787290",
@@ -13109,7 +13635,9 @@
       "city": "Gresham",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551789828",
@@ -13126,7 +13654,9 @@
       "city": "Oatfield",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551796002",
@@ -13228,7 +13758,9 @@
       "city": "Washington County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551799217",
@@ -13245,7 +13777,9 @@
       "city": "Riverwood",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551801223",
@@ -13279,7 +13813,9 @@
       "city": "Beaverton",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551802256",
@@ -13296,7 +13832,9 @@
       "city": "Beaverton",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551802655",
@@ -13313,7 +13851,9 @@
       "city": "Raleigh Hills",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551806590",
@@ -13330,7 +13870,9 @@
       "city": "Washington County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551806722",
@@ -13364,7 +13906,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551816662",
@@ -13381,7 +13925,9 @@
       "city": "Estacada",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551876357",
@@ -13398,7 +13944,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551876358",
@@ -13415,7 +13963,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551876360",
@@ -13432,7 +13982,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551876361",
@@ -13449,7 +14001,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551876364",
@@ -13466,7 +14020,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551876365",
@@ -13483,7 +14039,9 @@
       "city": "Clackamas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552357863",
@@ -13553,7 +14111,9 @@
       "city": "Douglas County",
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-r14484187",

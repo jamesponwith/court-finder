@@ -85,7 +85,9 @@
       "city": "Anoka",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w24093484",
@@ -138,7 +140,9 @@
       "city": "Burnsville",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w31064923",
@@ -295,7 +299,9 @@
       "city": "Shakopee",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w39192433",
@@ -414,7 +420,9 @@
       "city": "Eden Prairie",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w47987954",
@@ -675,7 +683,9 @@
       "city": "Shakopee",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w62066715",
@@ -900,7 +910,9 @@
       "city": "Lauderdale",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w88153655",
@@ -1104,7 +1116,9 @@
       "city": "Eden Prairie",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w99664019",
@@ -1372,7 +1386,9 @@
       "city": "Plymouth",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w111293771",
@@ -1423,7 +1439,9 @@
       "city": "Minnetonka",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w119051459",
@@ -1680,7 +1698,9 @@
       "city": "Eden Prairie",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w127986732",
@@ -1767,7 +1787,9 @@
       "city": "Minnetonka",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w128822573",
@@ -1784,7 +1806,9 @@
       "city": "Minnetonka",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w129077625",
@@ -2584,7 +2608,9 @@
       "city": "Shoreview",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w165839416",
@@ -3108,7 +3134,9 @@
       "city": "Edina",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w192313108",
@@ -3159,7 +3187,9 @@
       "city": "Edina",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w192811524",
@@ -3193,7 +3223,9 @@
       "city": "White Bear Township",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w195838689",
@@ -3210,7 +3242,9 @@
       "city": "Cass County",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w197386421",
@@ -3244,7 +3278,9 @@
       "city": "Scandia",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w198170813",
@@ -3278,7 +3314,9 @@
       "city": "Lake City",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w199422687",
@@ -3314,7 +3352,9 @@
       "city": "Burnsville",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w199828890",
@@ -3331,7 +3371,9 @@
       "city": "Burnsville",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w199878629",
@@ -3365,7 +3407,9 @@
       "city": "Rosemount",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w200239668",
@@ -3399,7 +3443,9 @@
       "city": "Elbow Lake",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w200854988",
@@ -3452,7 +3498,9 @@
       "city": "Fairfax",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w201694963",
@@ -3469,7 +3517,9 @@
       "city": "Burnsville",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w201706343",
@@ -3520,7 +3570,9 @@
       "city": "Apple Valley",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w202764184",
@@ -3662,7 +3714,9 @@
       "city": "Prior Lake",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w209291738",
@@ -3679,7 +3733,9 @@
       "city": "New Prague",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w210612306",
@@ -3730,7 +3786,9 @@
       "city": "Saint Paul",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w215823201",
@@ -3764,7 +3822,9 @@
       "city": "Moorhead",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w217376601",
@@ -3866,7 +3926,9 @@
       "city": "Minnetonka",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w223088024",
@@ -4093,7 +4155,9 @@
       "city": "Orono",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w232398085",
@@ -4237,7 +4301,9 @@
       "city": "Owatonna Township",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w234850918",
@@ -4445,7 +4511,9 @@
       "city": "Orono",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w243819962",
@@ -4604,7 +4672,9 @@
       "city": "Plymouth",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w253859717",
@@ -4799,7 +4869,9 @@
       "city": "Fort Snelling Unorganized Territory",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w258407548",
@@ -4971,7 +5043,9 @@
       "city": "Long Prairie",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w273638788",
@@ -5024,7 +5098,9 @@
       "city": "Cottage Grove",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w277417272",
@@ -5111,7 +5187,9 @@
       "city": "Baxter",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w289968430",
@@ -5289,7 +5367,9 @@
       "city": "Greenwald",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w296377710",
@@ -5306,7 +5386,9 @@
       "city": "Stillwater",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w296961691",
@@ -5359,7 +5441,9 @@
       "city": "Tofte Township",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w303579184",
@@ -5762,7 +5846,9 @@
       "city": "Green Prairie Township",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w323735697",
@@ -5955,7 +6041,9 @@
       "city": "Willmar",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w333188851",
@@ -5972,7 +6060,9 @@
       "city": "Willmar",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w336702135",
@@ -6025,7 +6115,9 @@
       "city": "Apple Valley",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w340367680",
@@ -6095,7 +6187,9 @@
       "city": "Saint Cloud",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w342881263",
@@ -6248,7 +6342,9 @@
       "city": "La Prairie",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w347965842",
@@ -6265,7 +6361,9 @@
       "city": "Grand Rapids",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w349371476",
@@ -6543,7 +6641,9 @@
       "city": "Biwabik",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w371611507",
@@ -6844,7 +6944,9 @@
       "city": "Plymouth",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w420657682",
@@ -6897,7 +6999,9 @@
       "city": "North Oaks",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w440139439",
@@ -6950,7 +7054,9 @@
       "city": "Dawson",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w444830133",
@@ -6967,7 +7073,9 @@
       "city": "Burnsville",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w444830137",
@@ -6984,7 +7092,9 @@
       "city": "Burnsville",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w446108908",
@@ -7141,7 +7251,9 @@
       "city": "Brainerd",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w458400474",
@@ -7432,7 +7544,9 @@
       "city": "Golden Valley",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w479321794",
@@ -7568,7 +7682,9 @@
       "city": "Rock Creek",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w499075770",
@@ -7621,7 +7737,9 @@
       "city": "Maplewood",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w506583674",
@@ -7655,7 +7773,9 @@
       "city": "Chanhassen",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w507855735",
@@ -7850,7 +7970,9 @@
       "city": "Blomkest",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w531120407",
@@ -7867,7 +7989,9 @@
       "city": "Eden Prairie",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w532794007",
@@ -7884,7 +8008,9 @@
       "city": "Chanhassen",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w543734697",
@@ -8260,7 +8386,9 @@
       "city": "Eden Prairie",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w560604697",
@@ -8277,7 +8405,9 @@
       "city": "Eden Prairie",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w560804392",
@@ -8294,7 +8424,9 @@
       "city": "Saint Michael",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w561379135",
@@ -8415,7 +8547,9 @@
       "city": "Breezy Point",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w574203807",
@@ -8449,7 +8583,9 @@
       "city": "Breezy Point",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w581681072",
@@ -8466,7 +8602,9 @@
       "city": "Pelican Township",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w581681080",
@@ -8534,7 +8672,9 @@
       "city": "Nisswa",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w583737824",
@@ -8568,7 +8708,9 @@
       "city": "New London Township",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w583978777",
@@ -8691,7 +8833,9 @@
       "city": "Jeffers",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w584973804",
@@ -8744,7 +8888,9 @@
       "city": "Clear Lake",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w586351697",
@@ -8814,7 +8960,9 @@
       "city": "Appleton",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w587328491",
@@ -8969,7 +9117,9 @@
       "city": "Madison",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w590587607",
@@ -9020,7 +9170,9 @@
       "city": "Grygla",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w592832606",
@@ -9037,7 +9189,9 @@
       "city": "Glenwood",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w603092376",
@@ -9139,7 +9293,9 @@
       "city": "Eitzen",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w605973856",
@@ -9175,7 +9331,9 @@
       "city": "Bemidji",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w606473097",
@@ -9192,7 +9350,9 @@
       "city": "Bemidji",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w607481357",
@@ -9226,7 +9386,9 @@
       "city": "Edina",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w608943083",
@@ -9334,7 +9496,9 @@
       "city": "Flensburg",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w619448816",
@@ -9368,7 +9532,9 @@
       "city": "Minnetonka",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w624423007",
@@ -9978,7 +10144,9 @@
       "city": "Becker County",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w631605515",
@@ -10065,7 +10233,9 @@
       "city": "Edina",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w662144742",
@@ -10099,7 +10269,9 @@
       "city": "Harris Township",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w663638445",
@@ -10116,7 +10288,9 @@
       "city": "Harris Township",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w663710123",
@@ -10133,7 +10307,9 @@
       "city": "Plymouth",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w663710124",
@@ -10201,7 +10377,9 @@
       "city": "Lake George",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w683195563",
@@ -10235,7 +10413,9 @@
       "city": "East Grand Forks",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w688478358",
@@ -10375,7 +10555,9 @@
       "city": "Hubbard County",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w699088024",
@@ -10392,7 +10574,9 @@
       "city": "Ramsey",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w699139148",
@@ -10479,7 +10663,9 @@
       "city": "Jackson",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w703487707",
@@ -10600,7 +10786,9 @@
       "city": "Shorewood",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w722379441",
@@ -10651,7 +10839,9 @@
       "city": "Argyle",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w730022872",
@@ -10668,7 +10858,9 @@
       "city": "Lancaster",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w731983219",
@@ -10685,7 +10877,9 @@
       "city": "Tofte Township",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w733663093",
@@ -10719,7 +10913,9 @@
       "city": "Koochiching County",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w745379564",
@@ -10774,7 +10970,9 @@
       "city": "Minnetonka",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w752079406",
@@ -10865,7 +11063,9 @@
       "city": "Edina",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w759093924",
@@ -10882,7 +11082,9 @@
       "city": "Edina",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w759995514",
@@ -10899,7 +11101,9 @@
       "city": "Madison",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w760631526",
@@ -11003,7 +11207,9 @@
       "city": "Kensington",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w764244900",
@@ -11020,7 +11226,9 @@
       "city": "Eagan",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w764416743",
@@ -11141,7 +11349,9 @@
       "city": "Eden Prairie",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w767764546",
@@ -11353,7 +11563,9 @@
       "city": "Bloomington",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w777829935",
@@ -11510,7 +11722,9 @@
       "city": "Bloomington",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w782453483",
@@ -11544,7 +11758,9 @@
       "city": "Orono",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w782564611",
@@ -11614,7 +11830,9 @@
       "city": "Eden Prairie",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w793353202",
@@ -11631,7 +11849,9 @@
       "city": "Eden Prairie",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w796710178",
@@ -11665,7 +11885,9 @@
       "city": "Eden Prairie",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w798098331",
@@ -11701,7 +11923,9 @@
       "city": "Eden Prairie",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w800526051",
@@ -11769,7 +11993,9 @@
       "city": "Koochiching County",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w807275327",
@@ -11786,7 +12012,9 @@
       "city": "Eden Prairie",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w808840847",
@@ -11803,7 +12031,9 @@
       "city": "Chanhassen",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w810705748",
@@ -11888,7 +12118,9 @@
       "city": "Minneapolis",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w823978129",
@@ -11924,7 +12156,9 @@
       "city": "West Cook",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w824374355",
@@ -11941,7 +12175,9 @@
       "city": "Eden Prairie",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w824719602",
@@ -11958,7 +12194,9 @@
       "city": "Eden Prairie",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w829309092",
@@ -11975,7 +12213,9 @@
       "city": "Lutsen Township",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w835930452",
@@ -11992,7 +12232,9 @@
       "city": "Eden Prairie",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w839128579",
@@ -12009,7 +12251,9 @@
       "city": "Lake No. 1",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-r20160860",
@@ -12062,7 +12306,9 @@
       "city": "Crystal Bay Township",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w847216153",
@@ -12147,7 +12393,9 @@
       "city": "Edina",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w854135382",
@@ -12164,7 +12412,9 @@
       "city": "Edina",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w854782210",
@@ -12198,7 +12448,9 @@
       "city": "Edina",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w855226088",
@@ -12215,7 +12467,9 @@
       "city": "Edina",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w855435783",
@@ -12232,7 +12486,9 @@
       "city": "Folden Township",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w859023567",
@@ -12268,7 +12524,9 @@
       "city": "Edina",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w860890264",
@@ -12285,7 +12543,9 @@
       "city": "Prior Lake",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w863938859",
@@ -12319,7 +12579,9 @@
       "city": "Fall Lake Township",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w864851195",
@@ -12491,7 +12753,9 @@
       "city": "Edina",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w880367901",
@@ -12542,7 +12806,9 @@
       "city": "Waterville Township",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w881200836",
@@ -12610,7 +12876,9 @@
       "city": "Palisade",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w885610812",
@@ -12627,7 +12895,9 @@
       "city": "Hopkins",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w885686442",
@@ -12678,7 +12948,9 @@
       "city": "Edina",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w895742326",
@@ -12729,7 +13001,9 @@
       "city": "Edina",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w902056214",
@@ -12746,7 +13020,9 @@
       "city": "Edina",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w902434162",
@@ -12763,7 +13039,9 @@
       "city": "Edina",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w903138672",
@@ -12848,7 +13126,9 @@
       "city": "Edina",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w906712348",
@@ -12899,7 +13179,9 @@
       "city": "Edina",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w907462023",
@@ -12916,7 +13198,9 @@
       "city": "Edina",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w913676809",
@@ -13071,7 +13355,9 @@
       "city": "Otter Tail County",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w921423192",
@@ -13228,7 +13514,9 @@
       "city": "Bloomington",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w926254445",
@@ -13264,7 +13552,9 @@
       "city": "Trimont",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w931173098",
@@ -13298,7 +13588,9 @@
       "city": "Cass County",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w931477316",
@@ -13400,7 +13692,9 @@
       "city": "Sartell",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w946869940",
@@ -13434,7 +13728,9 @@
       "city": "Otter Tail County",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w948220132",
@@ -13489,7 +13785,9 @@
       "city": "Becker County",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w954466939",
@@ -13506,7 +13804,9 @@
       "city": "Silver Creek Township",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w954627238",
@@ -13542,7 +13842,9 @@
       "city": "Nevis",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w955171113",
@@ -13559,7 +13861,9 @@
       "city": "Saint Cloud",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w963017020",
@@ -13576,7 +13880,9 @@
       "city": "Beltrami County",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w965494510",
@@ -13646,7 +13952,9 @@
       "city": "Detroit Lakes",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w970451245",
@@ -13663,7 +13971,9 @@
       "city": "Detroit Lakes",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w973137787",
@@ -13697,7 +14007,9 @@
       "city": "Chokio",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w975501941",
@@ -13750,7 +14062,9 @@
       "city": "West Concord",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w985370545",
@@ -13818,7 +14132,9 @@
       "city": "Andover",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w992236804",
@@ -13854,7 +14170,9 @@
       "city": "Maple Grove",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w999248900",
@@ -13888,7 +14206,9 @@
       "city": "Polk County",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1001831067",
@@ -13905,7 +14225,9 @@
       "city": "Ramsey",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1001881906",
@@ -13922,7 +14244,9 @@
       "city": "Beltrami County",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1002140504",
@@ -13958,7 +14282,9 @@
       "city": "Plymouth",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1009985492",
@@ -14115,7 +14441,9 @@
       "city": "Hubbard County",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1024328247",
@@ -14132,7 +14460,9 @@
       "city": "Saint Cloud",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1025667718",
@@ -14183,7 +14513,9 @@
       "city": "Coon Rapids",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1047701926",
@@ -14217,7 +14549,9 @@
       "city": "Afton",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1052894492",
@@ -14234,7 +14568,9 @@
       "city": "Saint Louis Park",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1054159702",
@@ -14304,7 +14640,9 @@
       "city": "Cass County",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1083089933",
@@ -14374,7 +14712,9 @@
       "city": "Linwood Township",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084449595",
@@ -14459,7 +14799,9 @@
       "city": "Windom",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1093021864",
@@ -14544,7 +14886,9 @@
       "city": "Waverly",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1105692826",
@@ -14595,7 +14939,9 @@
       "city": "Shoreview",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1120158799",
@@ -14663,7 +15009,9 @@
       "city": "Cedar Lake Township",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1134678284",
@@ -14697,7 +15045,9 @@
       "city": "Greenwood Township",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1145013327",
@@ -14714,7 +15064,9 @@
       "city": "Golden Valley",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1147475126",
@@ -14924,7 +15276,9 @@
       "city": "Gnesen Township",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1179658804",
@@ -14960,7 +15314,9 @@
       "city": "Welcome",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1182326193",
@@ -14977,7 +15333,9 @@
       "city": "Montrose",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1185397957",
@@ -15096,7 +15454,9 @@
       "city": "Moose Lake",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1197099862",
@@ -15130,7 +15490,9 @@
       "city": "Spring Lake Township",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1198538065",
@@ -15270,7 +15632,9 @@
       "city": "Bayport",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1208312383",
@@ -15338,7 +15702,9 @@
       "city": "Nisswa",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1218052987",
@@ -15724,7 +16090,9 @@
       "city": "Medina",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1221598418",
@@ -15758,7 +16126,9 @@
       "city": "Blaine",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1221598738",
@@ -15792,7 +16162,9 @@
       "city": "Randall",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1221605439",
@@ -15879,7 +16251,9 @@
       "city": "Osakis",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1223119462",
@@ -15947,7 +16321,9 @@
       "city": "Plymouth",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1229999988",
@@ -15964,7 +16340,9 @@
       "city": "Heidelberg",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1231778606",
@@ -15981,7 +16359,9 @@
       "city": "Tower",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1231788286",
@@ -15998,7 +16378,9 @@
       "city": "Cook",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1232280234",
@@ -16085,7 +16467,9 @@
       "city": "Zumbrota",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1245898948",
@@ -16155,7 +16539,9 @@
       "city": "Bloomington",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1246711238",
@@ -16172,7 +16558,9 @@
       "city": "Bloomington",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1247962940",
@@ -16208,7 +16596,9 @@
       "city": "Bloomington",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1250113501",
@@ -16259,7 +16649,9 @@
       "city": "Bloomington",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1256978526",
@@ -16293,7 +16685,9 @@
       "city": "Wyoming",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1262660922",
@@ -16310,7 +16704,9 @@
       "city": "Chatham Township",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1263556150",
@@ -16327,7 +16723,9 @@
       "city": "Bloomington",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1263570798",
@@ -16344,7 +16742,9 @@
       "city": "Cushing Township",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1264349089",
@@ -16378,7 +16778,9 @@
       "city": "Bloomington",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1266640628",
@@ -16395,7 +16797,9 @@
       "city": "Prior Lake",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1267836884",
@@ -16412,7 +16816,9 @@
       "city": "Burnsville",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1272131062",
@@ -16516,7 +16922,9 @@
       "city": "Stanton Township",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1279741068",
@@ -16533,7 +16941,9 @@
       "city": "Prior Lake",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1279782877",
@@ -16584,7 +16994,9 @@
       "city": "Harris Township",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1285359601",
@@ -16601,7 +17013,9 @@
       "city": "Deer Lake",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1285359614",
@@ -16618,7 +17032,9 @@
       "city": "Deer Lake",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1289718862",
@@ -16654,7 +17070,9 @@
       "city": "Grey Eagle",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1290780290",
@@ -16688,7 +17106,9 @@
       "city": "Prior Lake",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1292562343",
@@ -16722,7 +17142,9 @@
       "city": "Oak Park Heights",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1293479755",
@@ -16756,7 +17178,9 @@
       "city": "Granite Falls",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1293480402",
@@ -16773,7 +17197,9 @@
       "city": "Granite Falls",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1293481096",
@@ -16807,7 +17233,9 @@
       "city": "Corinna Township",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1293482762",
@@ -16858,7 +17286,9 @@
       "city": "Otter Tail County",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1293717103",
@@ -17302,7 +17732,9 @@
       "city": "Chanhassen",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1293731761",
@@ -17438,7 +17870,9 @@
       "city": "Minnetonka",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1293733770",
@@ -17455,7 +17889,9 @@
       "city": "Minnetonka",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1293734308",
@@ -17557,7 +17993,9 @@
       "city": "New Brighton",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1293736066",
@@ -17591,7 +18029,9 @@
       "city": "Arden Hills",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1293825196",
@@ -17899,7 +18339,9 @@
       "city": "Spring Grove",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1293959619",
@@ -17933,7 +18375,9 @@
       "city": "Climax",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1293960410",
@@ -18296,7 +18740,9 @@
       "city": "Elk River",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1293985028",
@@ -18313,7 +18759,9 @@
       "city": "Saint Charles",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1293990853",
@@ -18330,7 +18778,9 @@
       "city": "Roseville",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1293992767",
@@ -18347,7 +18797,9 @@
       "city": "Granite Falls",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1295484927",
@@ -18432,7 +18884,9 @@
       "city": "Preston",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1295486553",
@@ -18466,7 +18920,9 @@
       "city": "Rollingstone",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1295486942",
@@ -18483,7 +18939,9 @@
       "city": "Dover",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1295486960",
@@ -18585,7 +19043,9 @@
       "city": "Blooming Prairie",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1295489349",
@@ -18670,7 +19130,9 @@
       "city": "Bridgewater Township",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1295490213",
@@ -18706,7 +19168,9 @@
       "city": "Waterville",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1295490938",
@@ -18808,7 +19272,9 @@
       "city": "Truman",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1295781514",
@@ -18825,7 +19291,9 @@
       "city": "Madelia",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1295783860",
@@ -18859,7 +19327,9 @@
       "city": "Mountain Lake",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1295788311",
@@ -18876,7 +19346,9 @@
       "city": "Lakefield",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1295789390",
@@ -18910,7 +19382,9 @@
       "city": "Jasper",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1295796149",
@@ -18944,7 +19418,9 @@
       "city": "Canby",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1296218635",
@@ -18995,7 +19471,9 @@
       "city": "Maynard",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1296221768",
@@ -19012,7 +19490,9 @@
       "city": "Prinsburg",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1296234393",
@@ -19046,7 +19526,9 @@
       "city": "Atwater",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1296241095",
@@ -19080,7 +19562,9 @@
       "city": "Cokato",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1296245599",
@@ -19269,7 +19753,9 @@
       "city": "East Bethel",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1296512376",
@@ -19322,7 +19808,9 @@
       "city": "Maple Lake",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1296526813",
@@ -19339,7 +19827,9 @@
       "city": "Warroad",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1296528188",
@@ -19375,7 +19865,9 @@
       "city": "Middle River",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1296529804",
@@ -19392,7 +19884,9 @@
       "city": "Newfolden",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1296661105",
@@ -19426,7 +19920,9 @@
       "city": "Northome",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1296661954",
@@ -19494,7 +19990,9 @@
       "city": "Twin Valley",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1296668194",
@@ -19545,7 +20043,9 @@
       "city": "Cass County",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1296671002",
@@ -19562,7 +20062,9 @@
       "city": "Beltrami County",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1296671315",
@@ -19613,7 +20115,9 @@
       "city": "Marble",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1296673216",
@@ -19630,7 +20134,9 @@
       "city": "Nashwauk",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1296673444",
@@ -19664,7 +20170,9 @@
       "city": "Kinney",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1296682308",
@@ -19681,7 +20189,9 @@
       "city": "Fayal Township",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1296682938",
@@ -19785,7 +20295,9 @@
       "city": "Isle Harbor Township",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1297735687",
@@ -19836,7 +20348,9 @@
       "city": "Nisswa",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1297737196",
@@ -19853,7 +20367,9 @@
       "city": "Nisswa",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1297784248",
@@ -19870,7 +20386,9 @@
       "city": "Longville",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1297784346",
@@ -19904,7 +20422,9 @@
       "city": "Backus",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1297785556",
@@ -19972,7 +20492,9 @@
       "city": "Pelican Rapids",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1297788306",
@@ -20006,7 +20528,9 @@
       "city": "Hawley",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1297789723",
@@ -20023,7 +20547,9 @@
       "city": "Herman",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1297790567",
@@ -20091,7 +20617,9 @@
       "city": "Richmond",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1298151416",
@@ -20142,7 +20670,9 @@
       "city": "Royalton",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1298153563",
@@ -20212,7 +20742,9 @@
       "city": "Saint Cloud",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1298159525",
@@ -20469,7 +21001,9 @@
       "city": "Spring Lake Park",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1298679101",
@@ -21427,7 +21961,9 @@
       "city": "Little Canada",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1299844953",
@@ -21478,7 +22014,9 @@
       "city": "Saint Paul",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1299850616",
@@ -21580,7 +22118,9 @@
       "city": "Saint Paul",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1299855549",
@@ -21682,7 +22222,9 @@
       "city": "Hopkins",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1300063936",
@@ -21699,7 +22241,9 @@
       "city": "Eden Prairie",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1300632114",
@@ -21822,7 +22366,9 @@
       "city": "Lakeville",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1300636681",
@@ -21958,7 +22504,9 @@
       "city": "Apple Valley",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1300705614",
@@ -22077,7 +22625,9 @@
       "city": "Burnsville",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1302727574",
@@ -22111,7 +22661,9 @@
       "city": "Cass County",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1308545237",
@@ -22179,7 +22731,9 @@
       "city": "Minnetonka",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1314651470",
@@ -22196,7 +22750,9 @@
       "city": "Northeast St Louis",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1315376080",
@@ -22213,7 +22769,9 @@
       "city": "Mankato",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1321714253",
@@ -22247,7 +22805,9 @@
       "city": "North Oaks",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333196416",
@@ -22264,7 +22824,9 @@
       "city": "Plymouth",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333425537",
@@ -22298,7 +22860,9 @@
       "city": "Plymouth",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1348312502",
@@ -22315,7 +22879,9 @@
       "city": "Arden Hills",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1350042270",
@@ -22368,7 +22934,9 @@
       "city": "Washington County",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356568403",
@@ -22402,7 +22970,9 @@
       "city": "White Bear Lake",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1368810020",
@@ -22419,7 +22989,9 @@
       "city": "East Gull Lake",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1370086876",
@@ -22487,7 +23059,9 @@
       "city": "Brownton",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1377085937",
@@ -22504,7 +23078,9 @@
       "city": "Edina",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1385113038",
@@ -22521,7 +23097,9 @@
       "city": "Tofte Township",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1388426277",
@@ -22555,7 +23133,9 @@
       "city": "Rockford Township",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1408471403",
@@ -22606,7 +23186,9 @@
       "city": "La Crescent",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1418458242",
@@ -22623,7 +23205,9 @@
       "city": "Cass County",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1423087774",
@@ -22742,7 +23326,9 @@
       "city": "Otter Tail Township",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446788980",
@@ -22776,7 +23362,9 @@
       "city": "Scandia",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1449709077",
@@ -22793,7 +23381,9 @@
       "city": "Scandia",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1449798346",
@@ -22810,7 +23400,9 @@
       "city": "Scandia",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1449798369",
@@ -22827,7 +23419,9 @@
       "city": "Scandia",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1449876664",
@@ -22844,7 +23438,9 @@
       "city": "Scandia",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1449876700",
@@ -22861,7 +23457,9 @@
       "city": "Scandia",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1455242645",
@@ -22878,7 +23476,9 @@
       "city": "Millerville",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1455256681",
@@ -22929,7 +23529,9 @@
       "city": "Scandia",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1456617537",
@@ -22946,7 +23548,9 @@
       "city": "Franconia Township",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1456806069",
@@ -22963,7 +23567,9 @@
       "city": "Scandia",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1462145724",
@@ -22997,7 +23603,9 @@
       "city": "Otter Tail County",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1462869344",
@@ -23048,7 +23656,9 @@
       "city": "Lake Lillian",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1465652888",
@@ -23084,7 +23694,9 @@
       "city": "Roseville",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469242668",
@@ -23101,7 +23713,9 @@
       "city": "Taconite",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469318906",
@@ -23135,7 +23749,9 @@
       "city": "Faribault",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470129549",
@@ -23169,7 +23785,9 @@
       "city": "Brooklyn Center",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471446303",
@@ -23186,7 +23804,9 @@
       "city": "Brooklyn Center",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1472056281",
@@ -23237,7 +23857,9 @@
       "city": "Coon Rapids",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474041403",
@@ -23254,7 +23876,9 @@
       "city": "Lino Lakes",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1476270070",
@@ -23271,7 +23895,9 @@
       "city": "Coon Rapids",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1479420352",
@@ -23288,7 +23914,9 @@
       "city": "Minnetonka",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1483068471",
@@ -23305,7 +23933,9 @@
       "city": "Ideal Township",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1483469834",
@@ -23322,7 +23952,9 @@
       "city": "Maple Grove",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1485569019",
@@ -23339,7 +23971,9 @@
       "city": "Howard Lake",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1487508862",
@@ -23390,7 +24024,9 @@
       "city": "Delano",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1487721230",
@@ -23407,7 +24043,9 @@
       "city": "Delano",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1487739639",
@@ -23441,7 +24079,9 @@
       "city": "Lake No. 1",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1489934422",
@@ -23458,7 +24098,9 @@
       "city": "Baytown Township",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1490884173",
@@ -23475,7 +24117,9 @@
       "city": "Le Roy",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1499467953",
@@ -23492,7 +24136,9 @@
       "city": "Amboy",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512534105",
@@ -23543,7 +24189,9 @@
       "city": "Long Beach",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1517237506",
@@ -23560,7 +24208,9 @@
       "city": "Otter Tail County",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1517240079",
@@ -23594,7 +24244,9 @@
       "city": "Gnesen Township",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1517798099",
@@ -23683,7 +24335,9 @@
       "city": "Carlton",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526879829",
@@ -23700,7 +24354,9 @@
       "city": "Wrenshall",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1529482982",
@@ -23768,7 +24424,9 @@
       "city": "Eagle Lake",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1545096497",
@@ -23802,7 +24460,9 @@
       "city": "South Harbor Township",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1545920858",
@@ -23819,7 +24479,9 @@
       "city": "Dexter",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1547058309",
@@ -23836,7 +24498,9 @@
       "city": "Becker County",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1547789563",
@@ -23887,7 +24551,9 @@
       "city": "Lilydale",
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552432595",

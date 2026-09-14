@@ -444,7 +444,9 @@
       "city": "Mount Prospect",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w31135311",
@@ -798,7 +800,9 @@
       "city": "Elk Grove Village",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w49175809",
@@ -1114,7 +1118,9 @@
       "city": "Cook County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w70108516",
@@ -1131,7 +1137,9 @@
       "city": "Cook County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w70218801",
@@ -1148,7 +1156,9 @@
       "city": "Rolling Meadows",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w70564030",
@@ -1267,7 +1277,9 @@
       "city": "Lombard",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w73025936",
@@ -1621,7 +1633,9 @@
       "city": "Elgin",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w110313091",
@@ -1691,7 +1705,9 @@
       "city": "Algonquin",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w110961142",
@@ -1829,7 +1845,9 @@
       "city": "Mount Prospect",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w115807839",
@@ -2243,7 +2261,9 @@
       "city": "Palatine",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w120479826",
@@ -2296,7 +2316,9 @@
       "city": "Schaumburg",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w120555142",
@@ -2313,7 +2335,9 @@
       "city": "Schaumburg",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w120555153",
@@ -2330,7 +2354,9 @@
       "city": "Schaumburg",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w120555621",
@@ -2504,7 +2530,9 @@
       "city": "St. Charles",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w123466514",
@@ -2589,7 +2617,9 @@
       "city": "Clinton",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w129241189",
@@ -2606,7 +2636,9 @@
       "city": "Edwardsville",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w129245881",
@@ -2640,7 +2672,9 @@
       "city": "Lisle",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w133633189",
@@ -2759,7 +2793,9 @@
       "city": "Arlington Heights",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w139959134",
@@ -2829,7 +2865,9 @@
       "city": "Arlington Heights",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w142435184",
@@ -2916,7 +2954,9 @@
       "city": "Roselle",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w143792738",
@@ -3037,7 +3077,9 @@
       "city": "West Dundee",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w146571106",
@@ -3456,7 +3498,9 @@
       "city": "White Hall",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w164113710",
@@ -3891,7 +3935,9 @@
       "city": "McHenry County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w170935355",
@@ -4269,7 +4315,9 @@
       "city": "Northbrook",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w175512453",
@@ -4439,7 +4487,9 @@
       "city": "Oakbrook Terrace",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w175838543",
@@ -4545,7 +4595,9 @@
       "city": "Rolling Meadows",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w176388668",
@@ -4613,7 +4665,9 @@
       "city": "Chicago",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w176739765",
@@ -4861,7 +4915,9 @@
       "city": "Skokie",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w177730752",
@@ -5035,7 +5091,9 @@
       "city": "Aurora",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w178597285",
@@ -5194,7 +5252,9 @@
       "city": "Bartlett",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w179687132",
@@ -5300,7 +5360,9 @@
       "city": "Carbondale",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w180067699",
@@ -5773,7 +5835,9 @@
       "city": "Elgin",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w183642075",
@@ -6087,7 +6151,9 @@
       "city": "Carrollton",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w187774748",
@@ -6138,7 +6204,9 @@
       "city": "Vandalia",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w188284875",
@@ -6573,7 +6641,9 @@
       "city": "Montgomery",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w191964024",
@@ -7254,7 +7324,9 @@
       "city": "Oswego",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w198980040",
@@ -7568,7 +7640,9 @@
       "city": "Will County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w202214775",
@@ -7638,7 +7712,9 @@
       "city": "Cook County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w202517071",
@@ -7655,7 +7731,9 @@
       "city": "Northbrook",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w203047619",
@@ -9118,7 +9196,9 @@
       "city": "Hinsdale",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w226318753",
@@ -9638,7 +9718,9 @@
       "city": "Lake Villa",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w231880404",
@@ -9706,7 +9788,9 @@
       "city": "Cook County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w232281533",
@@ -9827,7 +9911,9 @@
       "city": "Elgin",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w233323914",
@@ -10069,7 +10155,9 @@
       "city": "Moweaqua",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w235789196",
@@ -10281,7 +10369,9 @@
       "city": "Lake Zurich",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w238661641",
@@ -10402,7 +10492,9 @@
       "city": "LaSalle County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w239945799",
@@ -10419,7 +10511,9 @@
       "city": "Cook County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w240637373",
@@ -10504,7 +10598,9 @@
       "city": "Shiloh",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w243703176",
@@ -10521,7 +10617,9 @@
       "city": "Shiloh",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w244261158",
@@ -10678,7 +10776,9 @@
       "city": "Lindenhurst",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w245526893",
@@ -10784,7 +10884,9 @@
       "city": "Lake in the Hills",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w246257187",
@@ -10869,7 +10971,9 @@
       "city": "Palatine",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w246909165",
@@ -10922,7 +11026,9 @@
       "city": "Kankakee County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w247152384",
@@ -11058,7 +11164,9 @@
       "city": "Joliet",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w249576626",
@@ -11512,7 +11620,9 @@
       "city": "Mokena",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w262727373",
@@ -11597,7 +11707,9 @@
       "city": "Tinley Park",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w262884759",
@@ -11686,7 +11798,9 @@
       "city": "Lisle",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w263419417",
@@ -11756,7 +11870,9 @@
       "city": "Edwardsville",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w264527850",
@@ -11894,7 +12010,9 @@
       "city": "Hartland",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w275408667",
@@ -12022,7 +12140,9 @@
       "city": "Lake County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w280416817",
@@ -12107,7 +12227,9 @@
       "city": "Moline",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w291409350",
@@ -12334,7 +12456,9 @@
       "city": "Lockport",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w295949941",
@@ -12678,7 +12802,9 @@
       "city": "Rockford",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w297550868",
@@ -12695,7 +12821,9 @@
       "city": "Lake Barrington",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w297840365",
@@ -12765,7 +12893,9 @@
       "city": "Arlington Heights",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w299619455",
@@ -12869,7 +12999,9 @@
       "city": "Romeoville",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w306779363",
@@ -12974,7 +13106,9 @@
       "city": "Round Lake",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w317268980",
@@ -13027,7 +13161,9 @@
       "city": "Lake County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w318326010",
@@ -13220,7 +13356,9 @@
       "city": "Ottawa",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w322014383",
@@ -13271,7 +13409,9 @@
       "city": "Carol Stream",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w323930208",
@@ -13392,7 +13532,9 @@
       "city": "Wheeling",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w327820456",
@@ -13409,7 +13551,9 @@
       "city": "Wheeling",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w327829505",
@@ -13532,7 +13676,9 @@
       "city": "Wadsworth",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w333686715",
@@ -13617,7 +13763,9 @@
       "city": "Waukegan",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w334781089",
@@ -13651,7 +13799,9 @@
       "city": "Beach Park",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w334840169",
@@ -13685,7 +13835,9 @@
       "city": "Mundelein",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w336946783",
@@ -13753,7 +13905,9 @@
       "city": "Crystal Lake",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w338426059",
@@ -13897,7 +14051,9 @@
       "city": "Geneva",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w344126355",
@@ -13952,7 +14108,9 @@
       "city": "Wheeling",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w344318555",
@@ -13986,7 +14144,9 @@
       "city": "Wheeling",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w344321608",
@@ -14003,7 +14163,9 @@
       "city": "Wheeling",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w344322807",
@@ -14020,7 +14182,9 @@
       "city": "Wheeling",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w344336017",
@@ -14107,7 +14271,9 @@
       "city": "Lake County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w347427655",
@@ -14194,7 +14360,9 @@
       "city": "Zion",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w351464227",
@@ -14279,7 +14447,9 @@
       "city": "Zion",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w352655449",
@@ -14449,7 +14619,9 @@
       "city": "Cook County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w356065440",
@@ -14536,7 +14708,9 @@
       "city": "Wadsworth",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w360590782",
@@ -14587,7 +14761,9 @@
       "city": "Woodstock",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w361480705",
@@ -14604,7 +14780,9 @@
       "city": "Lake County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w362337246",
@@ -14723,7 +14901,9 @@
       "city": "Waukegan",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w369133705",
@@ -14827,7 +15007,9 @@
       "city": "Mettawa",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w373355029",
@@ -14844,7 +15026,9 @@
       "city": "Lake Forest",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w373707412",
@@ -14899,7 +15083,9 @@
       "city": "Antioch",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w373751841",
@@ -14916,7 +15102,9 @@
       "city": "Waukegan",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w374476895",
@@ -14933,7 +15121,9 @@
       "city": "Lincolnshire",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w374484723",
@@ -14950,7 +15140,9 @@
       "city": "Wadsworth",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w374783420",
@@ -15018,7 +15210,9 @@
       "city": "Long Grove",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w376586419",
@@ -15069,7 +15263,9 @@
       "city": "Bensenville",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w378638678",
@@ -15086,7 +15282,9 @@
       "city": "Will County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w384913798",
@@ -15103,7 +15301,9 @@
       "city": "Saint Clair County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w384913799",
@@ -15139,7 +15339,9 @@
       "city": "Virden",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w385046755",
@@ -15156,7 +15358,9 @@
       "city": "Virden",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w385437148",
@@ -15281,7 +15485,9 @@
       "city": "Trout Valley",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w393094159",
@@ -15582,7 +15788,9 @@
       "city": "Itasca",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w406089719",
@@ -15788,7 +15996,9 @@
       "city": "Waukegan",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w414892513",
@@ -15898,7 +16108,9 @@
       "city": "Wauconda",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w420053369",
@@ -16000,7 +16212,9 @@
       "city": "Illiopolis",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w432890584",
@@ -16017,7 +16231,9 @@
       "city": "McHenry",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w432932795",
@@ -16068,7 +16284,9 @@
       "city": "McHenry County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w432932806",
@@ -16085,7 +16303,9 @@
       "city": "Bull Valley",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w435877089",
@@ -16102,7 +16322,9 @@
       "city": "Bull Valley",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w435978700",
@@ -16136,7 +16358,9 @@
       "city": "Grayslake",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w437064635",
@@ -16380,7 +16604,9 @@
       "city": "Bloomingdale",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w443504102",
@@ -16467,7 +16693,9 @@
       "city": "Bull Valley",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w446590154",
@@ -16484,7 +16712,9 @@
       "city": "Bull Valley",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w446744402",
@@ -16501,7 +16731,9 @@
       "city": "Lake County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w448042731",
@@ -16518,7 +16750,9 @@
       "city": "Woodstock",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w448045094",
@@ -16535,7 +16769,9 @@
       "city": "Hartland",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w449729288",
@@ -16603,7 +16839,9 @@
       "city": "Rockford",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w452757173",
@@ -16673,7 +16911,9 @@
       "city": "Johnsburg",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w453042830",
@@ -16690,7 +16930,9 @@
       "city": "Johnsburg",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w453042831",
@@ -16707,7 +16949,9 @@
       "city": "Johnsburg",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w453042832",
@@ -16724,7 +16968,9 @@
       "city": "Lake County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w453042833",
@@ -16758,7 +17004,9 @@
       "city": "Round Lake Beach",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w454601690",
@@ -16811,7 +17059,9 @@
       "city": "Round Lake",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w455411667",
@@ -16828,7 +17078,9 @@
       "city": "Bull Valley",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w455411670",
@@ -16845,7 +17097,9 @@
       "city": "Bull Valley",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w456485176",
@@ -16862,7 +17116,9 @@
       "city": "Bull Valley",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w458897047",
@@ -16983,7 +17239,9 @@
       "city": "Woodstock",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w467434444",
@@ -17000,7 +17258,9 @@
       "city": "Fox Lake",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w467434446",
@@ -17102,7 +17362,9 @@
       "city": "Johnsburg",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w468688817",
@@ -17187,7 +17449,9 @@
       "city": "Orland Park",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w469277463",
@@ -17238,7 +17502,9 @@
       "city": "Carol Stream",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w470852920",
@@ -17255,7 +17521,9 @@
       "city": "Lakewood",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w470852926",
@@ -17272,7 +17540,9 @@
       "city": "Lakewood",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w471709558",
@@ -17306,7 +17576,9 @@
       "city": "Springfield",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w471990796",
@@ -17374,7 +17646,9 @@
       "city": "Bull Valley",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w472396496",
@@ -17590,7 +17864,9 @@
       "city": "Jacksonville",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w475559745",
@@ -17779,7 +18055,9 @@
       "city": "Bartlett",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w480896016",
@@ -17866,7 +18144,9 @@
       "city": "Lombard",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w485103593",
@@ -18038,7 +18318,9 @@
       "city": "Greenwood",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w493786960",
@@ -18072,7 +18354,9 @@
       "city": "Jo Daviess County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w494679350",
@@ -18106,7 +18390,9 @@
       "city": "Ipava",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w495510349",
@@ -18140,7 +18426,9 @@
       "city": "Arlington Heights",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w495644939",
@@ -18278,7 +18566,9 @@
       "city": "Rockford",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w507644484",
@@ -18399,7 +18689,9 @@
       "city": "Carbondale",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w512121307",
@@ -18486,7 +18778,9 @@
       "city": "Marion",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w512694719",
@@ -18503,7 +18797,9 @@
       "city": "Marion",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w518176478",
@@ -18520,7 +18816,9 @@
       "city": "Sycamore",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w518418204",
@@ -18537,7 +18835,9 @@
       "city": "Marion",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w518465698",
@@ -18862,7 +19162,9 @@
       "city": "Ladd",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w544425208",
@@ -19072,7 +19374,9 @@
       "city": "Fairview",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w546724145",
@@ -19314,7 +19618,9 @@
       "city": "Gibson City",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w550132613",
@@ -19560,7 +19866,9 @@
       "city": "DuPage County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w556835301",
@@ -19594,7 +19902,9 @@
       "city": "Burr Ridge",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w557861413",
@@ -19800,7 +20110,9 @@
       "city": "Woodridge",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w566826969",
@@ -19923,7 +20235,9 @@
       "city": "Hinsdale",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w573800083",
@@ -19940,7 +20254,9 @@
       "city": "Champaign County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w574632754",
@@ -19976,7 +20292,9 @@
       "city": "Cisco",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w578586359",
@@ -20201,7 +20519,9 @@
       "city": "Hopedale",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w589077145",
@@ -20322,7 +20642,9 @@
       "city": "Lindenhurst",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w598992869",
@@ -20634,7 +20956,9 @@
       "city": "Bull Valley",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w619411450",
@@ -20651,7 +20975,9 @@
       "city": "Bull Valley",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w620450072",
@@ -20999,7 +21325,9 @@
       "city": "Alden",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w632388987",
@@ -21262,7 +21590,9 @@
       "city": "Moultrie County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w654122324",
@@ -21315,7 +21645,9 @@
       "city": "Neponset",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w659160628",
@@ -21453,7 +21785,9 @@
       "city": "Adams County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w685200241",
@@ -21538,7 +21872,9 @@
       "city": "Decatur",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w686836190",
@@ -21784,7 +22120,9 @@
       "city": "Grayslake",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w697589172",
@@ -21922,7 +22260,9 @@
       "city": "McHenry County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w709790710",
@@ -22060,7 +22400,9 @@
       "city": "Aurora",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w730048481",
@@ -22130,7 +22472,9 @@
       "city": "Burr Ridge",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w734713159",
@@ -22181,7 +22525,9 @@
       "city": "Robinson",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w737773207",
@@ -22251,7 +22597,9 @@
       "city": "Mascoutah",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w744627110",
@@ -22508,7 +22856,9 @@
       "city": "Godfrey",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w773818131",
@@ -22542,7 +22892,9 @@
       "city": "Basco",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w776652890",
@@ -22559,7 +22911,9 @@
       "city": "Aurora",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w777865608",
@@ -22945,7 +23299,9 @@
       "city": "Palos Hills",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w823520443",
@@ -22979,7 +23335,9 @@
       "city": "Rockford",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w824716011",
@@ -23083,7 +23441,9 @@
       "city": "Winnebago",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w825961398",
@@ -23151,7 +23511,9 @@
       "city": "Rockford",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w827746212",
@@ -23168,7 +23530,9 @@
       "city": "Saline County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w828313981",
@@ -23236,7 +23600,9 @@
       "city": "Mercer County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w830864082",
@@ -23304,7 +23670,9 @@
       "city": "Rosiclare",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w837639711",
@@ -23444,7 +23812,9 @@
       "city": "Grayville",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w847382716",
@@ -23514,7 +23884,9 @@
       "city": "Mount Vernon",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w849313211",
@@ -23684,7 +24056,9 @@
       "city": "Shawneetown",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w875374727",
@@ -23771,7 +24145,9 @@
       "city": "East Moline",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w882131583",
@@ -23926,7 +24302,9 @@
       "city": "Mount Vernon",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w900245382",
@@ -23943,7 +24321,9 @@
       "city": "Mount Vernon",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w901537977",
@@ -24047,7 +24427,9 @@
       "city": "Homer",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w910319694",
@@ -24064,7 +24446,9 @@
       "city": "Hanaford",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w911702386",
@@ -24081,7 +24465,9 @@
       "city": "Oak Brook",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w914285645",
@@ -24135,7 +24521,9 @@
       "city": "Saline County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w917830972",
@@ -24186,7 +24574,9 @@
       "city": "Monticello",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w917838089",
@@ -24339,7 +24729,9 @@
       "city": "Huntley",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w921082268",
@@ -24407,7 +24799,9 @@
       "city": "Bartelso",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w936925971",
@@ -24581,7 +24975,9 @@
       "city": "Lee County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w943899173",
@@ -24785,7 +25181,9 @@
       "city": "Willowbrook",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w961092729",
@@ -24819,7 +25217,9 @@
       "city": "Plainfield",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w963488121",
@@ -24855,7 +25255,9 @@
       "city": "Warrenville",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w966633898",
@@ -24906,7 +25308,9 @@
       "city": "Galesburg",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w970663361",
@@ -24940,7 +25344,9 @@
       "city": "Lyndon",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w970751738",
@@ -24957,7 +25363,9 @@
       "city": "Warsaw",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w970923198",
@@ -25061,7 +25469,9 @@
       "city": "Tampico",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w972306872",
@@ -25078,7 +25488,9 @@
       "city": "Atkinson",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w972306884",
@@ -25114,7 +25526,9 @@
       "city": "Cambridge",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w972306896",
@@ -25150,7 +25564,9 @@
       "city": "Bradford",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w972705126",
@@ -25167,7 +25583,9 @@
       "city": "Varna",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w972705144",
@@ -25184,7 +25602,9 @@
       "city": "Toluca",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w972705157",
@@ -25201,7 +25621,9 @@
       "city": "Wenona",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w972705209",
@@ -25252,7 +25674,9 @@
       "city": "Wyanet",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w973102649",
@@ -25269,7 +25693,9 @@
       "city": "Ohio",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w973198179",
@@ -25371,7 +25797,9 @@
       "city": "Woodford County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w974461443",
@@ -25441,7 +25869,9 @@
       "city": "Pekin",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w974832085",
@@ -25458,7 +25888,9 @@
       "city": "Woodford County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w975103832",
@@ -25728,7 +26160,9 @@
       "city": "Naperville",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w992679992",
@@ -25762,7 +26196,9 @@
       "city": "Lake Bluff",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w996890379",
@@ -25779,7 +26215,9 @@
       "city": "Lake Forest",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w998173592",
@@ -25796,7 +26234,9 @@
       "city": "Port Byron",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1000929350",
@@ -25830,7 +26270,9 @@
       "city": "Rock Island",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1007687942",
@@ -25898,7 +26340,9 @@
       "city": "Stockton",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1014462513",
@@ -26019,7 +26463,9 @@
       "city": "East Peoria",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1017631996",
@@ -26036,7 +26482,9 @@
       "city": "East Peoria",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1017631998",
@@ -26325,7 +26773,9 @@
       "city": "Springfield",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1025959027",
@@ -26429,7 +26879,9 @@
       "city": "Bluffs",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1027070455",
@@ -26497,7 +26949,9 @@
       "city": "Cerro Gordo",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1039504690",
@@ -26673,7 +27127,9 @@
       "city": "Romeoville",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1058949219",
@@ -26826,7 +27282,9 @@
       "city": "Columbia",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1060879186",
@@ -26877,7 +27335,9 @@
       "city": "Oswego",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1064227842",
@@ -26945,7 +27405,9 @@
       "city": "Hanover Park",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1071401581",
@@ -26962,7 +27424,9 @@
       "city": "Hanover Park",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1075239984",
@@ -26979,7 +27443,9 @@
       "city": "Downers Grove",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1075423959",
@@ -26996,7 +27462,9 @@
       "city": "Bloomingdale",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1075890336",
@@ -27013,7 +27481,9 @@
       "city": "Lisle",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1077501537",
@@ -27047,7 +27517,9 @@
       "city": "West Chicago",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1078716271",
@@ -27115,7 +27587,9 @@
       "city": "Kendall County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1087762557",
@@ -27166,7 +27640,9 @@
       "city": "Naperville",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1091129130",
@@ -27183,7 +27659,9 @@
       "city": "Warrenville",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1091914639",
@@ -27234,7 +27712,9 @@
       "city": "Downers Grove",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1094895923",
@@ -27336,7 +27816,9 @@
       "city": "Carol Stream",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1103458827",
@@ -27353,7 +27835,9 @@
       "city": "Prairie City",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1106858960",
@@ -27387,7 +27871,9 @@
       "city": "Jersey County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1107546214",
@@ -27540,7 +28026,9 @@
       "city": "Vermilion County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1117016595",
@@ -27557,7 +28045,9 @@
       "city": "Highland Park",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1117279112",
@@ -27574,7 +28064,9 @@
       "city": "Highland Park",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1117279113",
@@ -27591,7 +28083,9 @@
       "city": "Highland Park",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1117608258",
@@ -27659,7 +28153,9 @@
       "city": "Romeoville",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1121040411",
@@ -27676,7 +28172,9 @@
       "city": "Romeoville",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1123165524",
@@ -27784,7 +28282,9 @@
       "city": "Elk Grove Village",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1132601762",
@@ -27818,7 +28318,9 @@
       "city": "Lisle",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1133016411",
@@ -27888,7 +28390,9 @@
       "city": "Carpentersville",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1138239071",
@@ -28456,7 +28960,9 @@
       "city": "Deerfield",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1154865410",
@@ -28473,7 +28979,9 @@
       "city": "Bannockburn",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1155323331",
@@ -28526,7 +29034,9 @@
       "city": "Chicago",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1171742406",
@@ -28543,7 +29053,9 @@
       "city": "Danville",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1171742448",
@@ -28577,7 +29089,9 @@
       "city": "Elburn",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1173076446",
@@ -28594,7 +29108,9 @@
       "city": "Danville",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1173222827",
@@ -28611,7 +29127,9 @@
       "city": "Fairview Heights",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1175205429",
@@ -28662,7 +29180,9 @@
       "city": "Williamson County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1178732421",
@@ -28679,7 +29199,9 @@
       "city": "Franklin County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1178753517",
@@ -28696,7 +29218,9 @@
       "city": "Shiloh",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1179702256",
@@ -28713,7 +29237,9 @@
       "city": "Franklin County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1180492431",
@@ -28747,7 +29273,9 @@
       "city": "Sangamon County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1185523701",
@@ -28919,7 +29447,9 @@
       "city": "Highland Park",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1206900977",
@@ -28953,7 +29483,9 @@
       "city": "DuPage County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1212109112",
@@ -29125,7 +29657,9 @@
       "city": "Elgin",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1222129833",
@@ -29178,7 +29712,9 @@
       "city": "Grayslake",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1222677356",
@@ -29195,7 +29731,9 @@
       "city": "Gurnee",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1222792485",
@@ -29229,7 +29767,9 @@
       "city": "Lake County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1222873770",
@@ -29280,7 +29820,9 @@
       "city": "Xenia",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1227619994",
@@ -29433,7 +29975,9 @@
       "city": "Peoria",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1255781995",
@@ -29450,7 +29994,9 @@
       "city": "Benton",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1263130180",
@@ -29467,7 +30013,9 @@
       "city": "Harrisburg",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1265815572",
@@ -29518,7 +30066,9 @@
       "city": "Metropolis",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1281192090",
@@ -29756,7 +30306,9 @@
       "city": "Mettawa",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1299135366",
@@ -29773,7 +30325,9 @@
       "city": "Joliet",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1300636909",
@@ -29790,7 +30344,9 @@
       "city": "Wheeling",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1300637702",
@@ -29807,7 +30363,9 @@
       "city": "Wheeling",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1300710249",
@@ -29875,7 +30433,9 @@
       "city": "Glen Carbon",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1307738879",
@@ -29892,7 +30452,9 @@
       "city": "Tamaroa",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1309095191",
@@ -29909,7 +30471,9 @@
       "city": "Louisville",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1309099649",
@@ -29926,7 +30490,9 @@
       "city": "Dieterich",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1309507298",
@@ -29962,7 +30528,9 @@
       "city": "Jackson County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1314921117",
@@ -29996,7 +30564,9 @@
       "city": "Lake Forest",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1314965568",
@@ -30013,7 +30583,9 @@
       "city": "Lake Forest",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1314965661",
@@ -30098,7 +30670,9 @@
       "city": "Northbrook",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1314967107",
@@ -30115,7 +30689,9 @@
       "city": "Northfield",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1314967112",
@@ -30132,7 +30708,9 @@
       "city": "Northfield",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1314967168",
@@ -30149,7 +30727,9 @@
       "city": "Winnetka",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1314967175",
@@ -30183,7 +30763,9 @@
       "city": "Elwood",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1317404219",
@@ -30251,7 +30833,9 @@
       "city": "Lake County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1326180948",
@@ -30319,7 +30903,9 @@
       "city": "Bloomingdale",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1331422225",
@@ -30353,7 +30939,9 @@
       "city": "Rock Island County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333197816",
@@ -30421,7 +31009,9 @@
       "city": "Kane County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333198337",
@@ -30438,7 +31028,9 @@
       "city": "Kane County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333198355",
@@ -30455,7 +31047,9 @@
       "city": "Kane County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333198365",
@@ -30472,7 +31066,9 @@
       "city": "Roselle",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333198470",
@@ -30489,7 +31085,9 @@
       "city": "Itasca",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333198522",
@@ -30506,7 +31104,9 @@
       "city": "Itasca",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333198680",
@@ -30523,7 +31123,9 @@
       "city": "Galesburg",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333223628",
@@ -30540,7 +31142,9 @@
       "city": "Mount Olive",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333223960",
@@ -30659,7 +31263,9 @@
       "city": "Pekin",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1341068291",
@@ -30710,7 +31316,9 @@
       "city": "Tovey",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1351587437",
@@ -30744,7 +31352,9 @@
       "city": "Northbrook",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1353982017",
@@ -30778,7 +31388,9 @@
       "city": "Northbrook",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1353982311",
@@ -30795,7 +31407,9 @@
       "city": "Northbrook",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1353982344",
@@ -30812,7 +31426,9 @@
       "city": "Northbrook",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1353982446",
@@ -30829,7 +31445,9 @@
       "city": "Northfield",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1353986702",
@@ -30863,7 +31481,9 @@
       "city": "Northfield",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1354013346",
@@ -30880,7 +31500,9 @@
       "city": "Northfield",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1354013548",
@@ -30914,7 +31536,9 @@
       "city": "Northfield",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1354013688",
@@ -30931,7 +31555,9 @@
       "city": "Northfield",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1354013733",
@@ -30948,7 +31574,9 @@
       "city": "Northfield",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1354013766",
@@ -30965,7 +31593,9 @@
       "city": "Northfield",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1354013857",
@@ -30982,7 +31612,9 @@
       "city": "Glenview",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1354013946",
@@ -30999,7 +31631,9 @@
       "city": "Glenview",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1354013995",
@@ -31016,7 +31650,9 @@
       "city": "Northfield",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1354014163",
@@ -31033,7 +31669,9 @@
       "city": "Northfield",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1354058209",
@@ -31050,7 +31688,9 @@
       "city": "McLean County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1354490592",
@@ -31067,7 +31707,9 @@
       "city": "Granville",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1355205255",
@@ -31154,7 +31796,9 @@
       "city": "East Brooklyn",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1360246804",
@@ -31171,7 +31815,9 @@
       "city": "Winnetka",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1360486726",
@@ -31188,7 +31834,9 @@
       "city": "Kendall County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1361610515",
@@ -31205,7 +31853,9 @@
       "city": "Wabash County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1361747101",
@@ -31222,7 +31872,9 @@
       "city": "Willowbrook",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1363661625",
@@ -31292,7 +31944,9 @@
       "city": "Winnebago County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1371346743",
@@ -31309,7 +31963,9 @@
       "city": "Shorewood",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1371368059",
@@ -31326,7 +31982,9 @@
       "city": "Channahon",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1372582484",
@@ -31430,7 +32088,9 @@
       "city": "Crest Hill",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1377943026",
@@ -31466,7 +32126,9 @@
       "city": "Romeoville",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1381554487",
@@ -31502,7 +32164,9 @@
       "city": "Shorewood",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1383089094",
@@ -31519,7 +32183,9 @@
       "city": "Elgin",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1385652082",
@@ -31570,7 +32236,9 @@
       "city": "Crystal Lake",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1387913624",
@@ -31587,7 +32255,9 @@
       "city": "North Barrington",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1388100414",
@@ -31604,7 +32274,9 @@
       "city": "LaSalle County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1389201869",
@@ -31621,7 +32293,9 @@
       "city": "Pingree Grove",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1389210005",
@@ -31655,7 +32329,9 @@
       "city": "La Grange Park",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1389410993",
@@ -31689,7 +32365,9 @@
       "city": "Campton Hills",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1395101893",
@@ -31706,7 +32384,9 @@
       "city": "North Barrington",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1408897434",
@@ -31740,7 +32420,9 @@
       "city": "Glenwood",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1412633849",
@@ -31791,7 +32473,9 @@
       "city": "Vienna",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1416741806",
@@ -31827,7 +32511,9 @@
       "city": "Thornton",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1416742064",
@@ -31895,7 +32581,9 @@
       "city": "Joliet",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1416743403",
@@ -31929,7 +32617,9 @@
       "city": "Eldorado",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1422756120",
@@ -31946,7 +32636,9 @@
       "city": "Wheeling",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1422756256",
@@ -32033,7 +32725,9 @@
       "city": "Oak Forest",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1425508029",
@@ -32067,7 +32761,9 @@
       "city": "Country Club Hills",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1425508109",
@@ -32103,7 +32799,9 @@
       "city": "Hazel Crest",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1425508423",
@@ -32120,7 +32818,9 @@
       "city": "Flossmoor",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1425508632",
@@ -32222,7 +32922,9 @@
       "city": "O'Fallon",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1431016471",
@@ -32290,7 +32992,9 @@
       "city": "Boone County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1434175104",
@@ -32462,7 +33166,9 @@
       "city": "Lake County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1441675400",
@@ -32496,7 +33202,9 @@
       "city": "Arlington Heights",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442429515",
@@ -32513,7 +33221,9 @@
       "city": "Palatine",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442429517",
@@ -32564,7 +33274,9 @@
       "city": "Inverness",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442900440",
@@ -32683,7 +33395,9 @@
       "city": "Elgin",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1445364134",
@@ -32700,7 +33414,9 @@
       "city": "Elgin",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1445364388",
@@ -32751,7 +33467,9 @@
       "city": "Gurnee",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1447189062",
@@ -32785,7 +33503,9 @@
       "city": "Waukegan",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1447189376",
@@ -32976,7 +33696,9 @@
       "city": "Palos Hills",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1462722077",
@@ -32993,7 +33715,9 @@
       "city": "Palos Hills",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1462734871",
@@ -33010,7 +33734,9 @@
       "city": "Flora",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1464444409",
@@ -33027,7 +33753,9 @@
       "city": "Guilford Township",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1465778347",
@@ -33044,7 +33772,9 @@
       "city": "Edwardsville",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1466143252",
@@ -33095,7 +33825,9 @@
       "city": "Sauk Village",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470407496",
@@ -33180,7 +33912,9 @@
       "city": "Glen Carbon",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1475110452",
@@ -33197,7 +33931,9 @@
       "city": "Madison County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1475110756",
@@ -33231,7 +33967,9 @@
       "city": "Saint Clair County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1475111038",
@@ -33420,7 +34158,9 @@
       "city": "Marshall",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1478687217",
@@ -33454,7 +34194,9 @@
       "city": "Litchfield",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1478688011",
@@ -33543,7 +34285,9 @@
       "city": "McLean",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1478707915",
@@ -33596,7 +34340,9 @@
       "city": "Macomb",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1480347939",
@@ -33749,7 +34495,9 @@
       "city": "Boone County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1481565106",
@@ -33766,7 +34514,9 @@
       "city": "Poplar Grove",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1481565495",
@@ -33783,7 +34533,9 @@
       "city": "Carroll County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1481565868",
@@ -33819,7 +34571,9 @@
       "city": "Chicago",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1482563448",
@@ -33853,7 +34607,9 @@
       "city": "Lake County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1482582630",
@@ -34057,7 +34813,9 @@
       "city": "Mount Morris",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1486099965",
@@ -34246,7 +35004,9 @@
       "city": "Serena",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1486823635",
@@ -34416,7 +35176,9 @@
       "city": "Cherry Valley",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1486827479",
@@ -34569,7 +35331,9 @@
       "city": "Schaumburg",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1486832825",
@@ -34692,7 +35456,9 @@
       "city": "Northbrook",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1488763977",
@@ -34777,7 +35543,9 @@
       "city": "Bloomingdale",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1489962087",
@@ -34811,7 +35579,9 @@
       "city": "Wilmington",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1489970456",
@@ -35367,7 +36137,9 @@
       "city": "Palatine",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1490208352",
@@ -35418,7 +36190,9 @@
       "city": "Hawthorn Woods",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1490210657",
@@ -35452,7 +36226,9 @@
       "city": "Mount Prospect",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1490211128",
@@ -35554,7 +36330,9 @@
       "city": "Cook County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1490215538",
@@ -35622,7 +36400,9 @@
       "city": "Cedar Point",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1491056759",
@@ -35639,7 +36419,9 @@
       "city": "Oak Brook",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1491056763",
@@ -35656,7 +36438,9 @@
       "city": "Oak Brook",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1493779811",
@@ -35760,7 +36544,9 @@
       "city": "Ava",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1498323952",
@@ -35796,7 +36582,9 @@
       "city": "Mundelein",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1498829157",
@@ -35847,7 +36635,9 @@
       "city": "Cook County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1498888517",
@@ -35864,7 +36654,9 @@
       "city": "Lake County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1498888545",
@@ -35881,7 +36673,9 @@
       "city": "Cook County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1498897793",
@@ -35898,7 +36692,9 @@
       "city": "Farmersville",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1498914755",
@@ -35915,7 +36711,9 @@
       "city": "Lake Barrington",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1498914762",
@@ -35932,7 +36730,9 @@
       "city": "Lake County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1498914815",
@@ -35949,7 +36749,9 @@
       "city": "McHenry County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1502806261",
@@ -35966,7 +36768,9 @@
       "city": "Mason County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1508257909",
@@ -35983,7 +36787,9 @@
       "city": "Gridley",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1509568416",
@@ -36000,7 +36806,9 @@
       "city": "Lake Forest",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1509568442",
@@ -36034,7 +36842,9 @@
       "city": "Lake Forest",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1509844293",
@@ -36051,7 +36861,9 @@
       "city": "Lake Forest",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1509844372",
@@ -36068,7 +36880,9 @@
       "city": "Lake Forest",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1510042539",
@@ -36085,7 +36899,9 @@
       "city": "Lake Forest",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1510684215",
@@ -36138,7 +36954,9 @@
       "city": "Lake County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1511781387",
@@ -36155,7 +36973,9 @@
       "city": "South Barrington",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512204828",
@@ -36223,7 +37043,9 @@
       "city": "Lake Forest",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1513146057",
@@ -36240,7 +37062,9 @@
       "city": "Lake Forest",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1513146084",
@@ -36257,7 +37081,9 @@
       "city": "Lake Forest",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1513146151",
@@ -36274,7 +37100,9 @@
       "city": "Lake Forest",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1513146171",
@@ -36291,7 +37119,9 @@
       "city": "Lake Forest",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1513146174",
@@ -36308,7 +37138,9 @@
       "city": "Lake Forest",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1513635615",
@@ -36342,7 +37174,9 @@
       "city": "Crystal Lake",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1517293643",
@@ -36376,7 +37210,9 @@
       "city": "Sycamore",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1517791895",
@@ -36393,7 +37229,9 @@
       "city": "Oak Brook",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1517792767",
@@ -36461,7 +37299,9 @@
       "city": "Cook County",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526693068",
@@ -36478,7 +37318,9 @@
       "city": "Barrington",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1527333037",
@@ -36618,7 +37460,9 @@
       "city": "Cortland",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1543052979",
@@ -36635,7 +37479,9 @@
       "city": "Buffalo Grove",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1545273920",
@@ -36705,7 +37551,9 @@
       "city": "Strasburg",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1549169673",
@@ -36773,7 +37621,9 @@
       "city": "Carbondale",
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1550693006",

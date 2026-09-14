@@ -140,7 +140,9 @@
       "city": "Conrad",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w173113268",
@@ -331,7 +333,9 @@
       "city": "Big Sky",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w234491895",
@@ -709,7 +713,9 @@
       "city": "Chester",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w352526093",
@@ -762,7 +768,9 @@
       "city": "Ravalli County",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w371444331",
@@ -919,7 +927,9 @@
       "city": "Absarokee",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w440512755",
@@ -936,7 +946,9 @@
       "city": "Kalispell",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w468416524",
@@ -970,7 +982,9 @@
       "city": "Missoula",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w499516941",
@@ -1091,7 +1105,9 @@
       "city": "Saint Ignatius",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w501029554",
@@ -1125,7 +1141,9 @@
       "city": "West Yellowstone",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w557851802",
@@ -1159,7 +1177,9 @@
       "city": "Bozeman",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w577678149",
@@ -1176,7 +1196,9 @@
       "city": "Busby",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w606114346",
@@ -1227,7 +1249,9 @@
       "city": "Polson",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w635473440",
@@ -1244,7 +1268,9 @@
       "city": "Billings",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w639884427",
@@ -1346,7 +1372,9 @@
       "city": "Carbon County",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w756103722",
@@ -1380,7 +1408,9 @@
       "city": "Carbon County",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w767399360",
@@ -1397,7 +1427,9 @@
       "city": "Billings",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w791191855",
@@ -1484,7 +1516,9 @@
       "city": "Billings",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w837404016",
@@ -1535,7 +1569,9 @@
       "city": "Billings",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w842521317",
@@ -1571,7 +1607,9 @@
       "city": "Helena West Side",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w842860904",
@@ -1622,7 +1660,9 @@
       "city": "Madison County",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w851907968",
@@ -1673,7 +1713,9 @@
       "city": "Meagher County",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w879519389",
@@ -1724,7 +1766,9 @@
       "city": "Butte",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w897485477",
@@ -1741,7 +1785,9 @@
       "city": "Alberton",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w909449329",
@@ -1775,7 +1821,9 @@
       "city": "Kalispell",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w953826516",
@@ -1792,7 +1840,9 @@
       "city": "Lake County",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w961391850",
@@ -1934,7 +1984,9 @@
       "city": "Lewis and Clark County",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1101305672",
@@ -1951,7 +2003,9 @@
       "city": "Flathead County",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1103015206",
@@ -1968,7 +2022,9 @@
       "city": "Billings",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1104538726",
@@ -2002,7 +2058,9 @@
       "city": "Ekalaka",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1125796671",
@@ -2038,7 +2096,9 @@
       "city": "Butte",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1211477415",
@@ -2125,7 +2185,9 @@
       "city": "Harrison",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1311631702",
@@ -2142,7 +2204,9 @@
       "city": "Missoula",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1313646610",
@@ -2159,7 +2223,9 @@
       "city": "Ravalli County",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1314257688",
@@ -2176,7 +2242,9 @@
       "city": "Ravalli County",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1321634307",
@@ -2193,7 +2261,9 @@
       "city": "Missoula County",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1321634893",
@@ -2210,7 +2280,9 @@
       "city": "Missoula County",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1326144710",
@@ -2227,7 +2299,9 @@
       "city": "Missoula County",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1328900270",
@@ -2261,7 +2335,9 @@
       "city": "Ravalli County",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1330772447",
@@ -2278,7 +2354,9 @@
       "city": "Ravalli County",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1331123297",
@@ -2295,7 +2373,9 @@
       "city": "Ravalli County",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1331375142",
@@ -2329,7 +2409,9 @@
       "city": "White Sulphur Springs",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1346058578",
@@ -2346,7 +2428,9 @@
       "city": "Lake County",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1348654326",
@@ -2363,7 +2447,9 @@
       "city": "Whitefish",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1349356455",
@@ -2397,7 +2483,9 @@
       "city": "Whitefish",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1358677690",
@@ -2431,7 +2519,9 @@
       "city": "Lake County",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1376032431",
@@ -2448,7 +2538,9 @@
       "city": "Bozeman",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1410943703",
@@ -2465,7 +2557,9 @@
       "city": "Missoula",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1432378177",
@@ -2482,7 +2576,9 @@
       "city": "Chinook",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1437020654",
@@ -2586,7 +2682,9 @@
       "city": "Park County",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1437034262",
@@ -2758,7 +2856,9 @@
       "city": "Forsyth",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1451819047",
@@ -2775,7 +2875,9 @@
       "city": "Boulder",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1451850941",
@@ -2828,7 +2930,9 @@
       "city": "Sheridan",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1452397125",
@@ -2862,7 +2966,9 @@
       "city": "Cascade",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1452668550",
@@ -2913,7 +3019,9 @@
       "city": "Ashland",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1452907921",
@@ -3231,7 +3339,9 @@
       "city": "Valier",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1523055256",
@@ -3248,7 +3358,9 @@
       "city": "Broadview",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1525540151",
@@ -3265,7 +3377,9 @@
       "city": "Missoula",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1528327331",
@@ -3299,7 +3413,9 @@
       "city": "Gallatin County",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1528915199",
@@ -3316,7 +3432,9 @@
       "city": "Gallatin County",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1528915250",
@@ -3333,7 +3451,9 @@
       "city": "Butte",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1528915411",
@@ -3437,7 +3557,9 @@
       "city": "Lake County",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1528917679",
@@ -3488,7 +3610,9 @@
       "city": "Missoula",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1532497141",
@@ -3522,7 +3646,9 @@
       "city": "Billings Heights",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1539785553",
@@ -3539,7 +3665,9 @@
       "city": "Hardin",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552459194",
@@ -3556,7 +3684,9 @@
       "city": "Gallatin County",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552459349",
@@ -3573,7 +3703,9 @@
       "city": "Dutton",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552459395",
@@ -3590,7 +3722,9 @@
       "city": "East Glacier Park Village",
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-r17730549",

@@ -174,7 +174,9 @@
       "city": "Bowie",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-n13873705142",
@@ -244,7 +246,9 @@
       "city": "Snow Hill",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w32426706",
@@ -295,7 +299,9 @@
       "city": "Germantown",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w42563542",
@@ -329,7 +335,9 @@
       "city": "Olney",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w45138825",
@@ -630,7 +638,9 @@
       "city": "Brookmont",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w72746959",
@@ -715,7 +725,9 @@
       "city": "Ocean City",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w79642150",
@@ -819,7 +831,9 @@
       "city": "Owings Mills",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w86092054",
@@ -906,7 +920,9 @@
       "city": "Brookmont",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w91278554",
@@ -993,7 +1009,9 @@
       "city": "Chevy Chase Section Three",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w93153484",
@@ -1167,7 +1185,9 @@
       "city": "Baltimore",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w110456909",
@@ -1426,7 +1446,9 @@
       "city": "Germantown",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w120374492",
@@ -1498,7 +1520,9 @@
       "city": "Gaithersburg",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w120378390",
@@ -1515,7 +1539,9 @@
       "city": "Germantown",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w120378391",
@@ -1636,7 +1662,9 @@
       "city": "Gaithersburg",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w120379134",
@@ -1687,7 +1715,9 @@
       "city": "Gaithersburg",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w120379147",
@@ -1721,7 +1751,9 @@
       "city": "Montgomery Village",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w120381943",
@@ -1738,7 +1770,9 @@
       "city": "Bethesda",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w120381959",
@@ -1810,7 +1844,9 @@
       "city": "North Bethesda",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w120609400",
@@ -2005,7 +2041,9 @@
       "city": "Aspen Hill",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w126171246",
@@ -2022,7 +2060,9 @@
       "city": "Baltimore",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w126376671",
@@ -2056,7 +2096,9 @@
       "city": "Sandy Spring",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w126929045",
@@ -2073,7 +2115,9 @@
       "city": "Howard County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w128147342",
@@ -2090,7 +2134,9 @@
       "city": "East Riverdale",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w128274717",
@@ -2107,7 +2153,9 @@
       "city": "Harford County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w835595950",
@@ -2408,7 +2456,9 @@
       "city": "Hyattsville",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w134184475",
@@ -2641,7 +2691,9 @@
       "city": "North Potomac",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w139197146",
@@ -2796,7 +2848,9 @@
       "city": "North Bethesda",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w144146534",
@@ -2932,7 +2986,9 @@
       "city": "Columbia",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w149320726",
@@ -3002,7 +3058,9 @@
       "city": "Columbia",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w150553517",
@@ -3104,7 +3162,9 @@
       "city": "Columbia",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1248991399",
@@ -3212,7 +3272,9 @@
       "city": "Montgomery Village",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w166533503",
@@ -3246,7 +3308,9 @@
       "city": "Greenbelt",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w166955890",
@@ -3299,7 +3363,9 @@
       "city": "Gaithersburg",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w171280594",
@@ -3371,7 +3437,9 @@
       "city": "Columbia",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w175090287",
@@ -3405,7 +3473,9 @@
       "city": "North Laurel",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w175474487",
@@ -3458,7 +3528,9 @@
       "city": "Gaithersburg",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w180386373",
@@ -3511,7 +3583,9 @@
       "city": "Gaithersburg",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w182765743",
@@ -3528,7 +3602,9 @@
       "city": "Columbia",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w182951572",
@@ -3562,7 +3638,9 @@
       "city": "Dayton",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w188203821",
@@ -3649,7 +3727,9 @@
       "city": "Caroline County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w192941553",
@@ -4025,7 +4105,9 @@
       "city": "Towson",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w212337522",
@@ -4076,7 +4158,9 @@
       "city": "Baltimore",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w219295815",
@@ -4186,7 +4270,9 @@
       "city": "Waldorf",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w221550154",
@@ -4275,7 +4361,9 @@
       "city": "Prince George's County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w224699080",
@@ -4345,7 +4433,9 @@
       "city": "North Bethesda",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w225264615",
@@ -4379,7 +4469,9 @@
       "city": "College Park",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w226919013",
@@ -4396,7 +4488,9 @@
       "city": "Seabrook",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w227792602",
@@ -4679,7 +4773,9 @@
       "city": "Chillum",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w234509559",
@@ -4696,7 +4792,9 @@
       "city": "Langley Park",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w235563786",
@@ -4713,7 +4811,9 @@
       "city": "Adelphi",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w235772041",
@@ -4832,7 +4932,9 @@
       "city": "Odenton",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w237587674",
@@ -4866,7 +4968,9 @@
       "city": "Glenn Dale",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w239223425",
@@ -4900,7 +5004,9 @@
       "city": "Ballenger Creek",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w239530589",
@@ -4917,7 +5023,9 @@
       "city": "Ballenger Creek",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w239530598",
@@ -5025,7 +5133,9 @@
       "city": "Oxon Hill",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w243693046",
@@ -5093,7 +5203,9 @@
       "city": "East Riverdale",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w246251500",
@@ -5110,7 +5222,9 @@
       "city": "Cheverly",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w246252807",
@@ -5161,7 +5275,9 @@
       "city": "Cedar Heights",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w246814340",
@@ -5269,7 +5385,9 @@
       "city": "Towson",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w256928848",
@@ -5303,7 +5421,9 @@
       "city": "Olney",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w258855531",
@@ -5320,7 +5440,9 @@
       "city": "Severna Park",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w258858120",
@@ -5354,7 +5476,9 @@
       "city": "Cape Saint Claire",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w259696570",
@@ -5371,7 +5495,9 @@
       "city": "Anne Arundel County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w259696572",
@@ -5388,7 +5514,9 @@
       "city": "Anne Arundel County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w259696579",
@@ -5405,7 +5533,9 @@
       "city": "Anne Arundel County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w259696581",
@@ -5422,7 +5552,9 @@
       "city": "Anne Arundel County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260844574",
@@ -5528,7 +5660,9 @@
       "city": "South Laurel",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w265228285",
@@ -5579,7 +5713,9 @@
       "city": "Germantown",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w265785876",
@@ -5685,7 +5821,9 @@
       "city": "Fort Washington",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w272813632",
@@ -5702,7 +5840,9 @@
       "city": "Boonsboro",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w273730032",
@@ -5753,7 +5893,9 @@
       "city": "Butler",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w277004553",
@@ -5770,7 +5912,9 @@
       "city": "Anne Arundel County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w278316400",
@@ -5838,7 +5982,9 @@
       "city": "Frederick",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w284051750",
@@ -5889,7 +6035,9 @@
       "city": "Anne Arundel County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w286338606",
@@ -5923,7 +6071,9 @@
       "city": "Anne Arundel County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w288707228",
@@ -5957,7 +6107,9 @@
       "city": "Glen Burnie",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w295174145",
@@ -5974,7 +6126,9 @@
       "city": "Annapolis Neck",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w296237907",
@@ -6025,7 +6179,9 @@
       "city": "Glenn Dale",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w298253756",
@@ -6076,7 +6232,9 @@
       "city": "Frederick County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w302343204",
@@ -6207,7 +6365,9 @@
       "city": "Severna Park",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w305314937",
@@ -6224,7 +6384,9 @@
       "city": "Severna Park",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w305985914",
@@ -6328,7 +6490,9 @@
       "city": "Gaithersburg",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w313965365",
@@ -6415,7 +6579,9 @@
       "city": "Frederick",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w319857484",
@@ -6468,7 +6634,9 @@
       "city": "Burnt Mills",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w330165378",
@@ -6504,7 +6672,9 @@
       "city": "Middle River",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w333521509",
@@ -6595,7 +6765,9 @@
       "city": "Glen Burnie",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w337086735",
@@ -6612,7 +6784,9 @@
       "city": "Baltimore",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w341069603",
@@ -6663,7 +6837,9 @@
       "city": "Anne Arundel County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w342119194",
@@ -6680,7 +6856,9 @@
       "city": "Anne Arundel County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w342745924",
@@ -6835,7 +7013,9 @@
       "city": "Queen Anne's County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w353706346",
@@ -6852,7 +7032,9 @@
       "city": "Gaithersburg",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w353720444",
@@ -6869,7 +7051,9 @@
       "city": "La Plata",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w353949804",
@@ -6903,7 +7087,9 @@
       "city": "White Plains",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w355584750",
@@ -6920,7 +7106,9 @@
       "city": "Bryans Road",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w358291288",
@@ -7007,7 +7195,9 @@
       "city": "West Laurel",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w360181384",
@@ -7024,7 +7214,9 @@
       "city": "Adelphi",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w360810928",
@@ -7041,7 +7233,9 @@
       "city": "Accokeek",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w362066990",
@@ -7111,7 +7305,9 @@
       "city": "Accident",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w367881143",
@@ -7166,7 +7362,9 @@
       "city": "Bethesda",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w372145668",
@@ -7293,7 +7491,9 @@
       "city": "College Park",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w385941397",
@@ -7327,7 +7527,9 @@
       "city": "Anne Arundel County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w390241680",
@@ -7344,7 +7546,9 @@
       "city": "Anne Arundel County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w392188136",
@@ -7469,7 +7673,9 @@
       "city": "Frederick County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w399088287",
@@ -7522,7 +7728,9 @@
       "city": "Columbia",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w412502760",
@@ -7575,7 +7783,9 @@
       "city": "Cavetown",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w423144488",
@@ -7592,7 +7802,9 @@
       "city": "Brunswick",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w427428895",
@@ -7609,7 +7821,9 @@
       "city": "Rayville",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w430236668",
@@ -7645,7 +7859,9 @@
       "city": "Mitchellville",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w431442034",
@@ -7679,7 +7895,9 @@
       "city": "Ellicott City",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w434807831",
@@ -7713,7 +7931,9 @@
       "city": "Montgomery County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w435315705",
@@ -7781,7 +8001,9 @@
       "city": "Annapolis",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w436415564",
@@ -7798,7 +8020,9 @@
       "city": "Edgewater",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w436584293",
@@ -7870,7 +8094,9 @@
       "city": "Bowie",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w450257464",
@@ -8097,7 +8323,9 @@
       "city": "Travilah",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w472312725",
@@ -8114,7 +8342,9 @@
       "city": "Travilah",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w472314893",
@@ -8131,7 +8361,9 @@
       "city": "Travilah",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w473162812",
@@ -8199,7 +8431,9 @@
       "city": "Laurel",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w478195549",
@@ -8307,7 +8541,9 @@
       "city": "Monkton",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w480482680",
@@ -8324,7 +8560,9 @@
       "city": "Towson",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w480746930",
@@ -8358,7 +8596,9 @@
       "city": "Bethesda",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w488135596",
@@ -8392,7 +8632,9 @@
       "city": "Sharpsburg",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w495768660",
@@ -8443,7 +8685,9 @@
       "city": "Towson",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w502439899",
@@ -8460,7 +8704,9 @@
       "city": "North Potomac",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w502913092",
@@ -8550,7 +8796,9 @@
       "city": "Spencerville",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w525712361",
@@ -8620,7 +8868,9 @@
       "city": "Towson",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w537300982",
@@ -8637,7 +8887,9 @@
       "city": "Frederick County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w541909322",
@@ -8705,7 +8957,9 @@
       "city": "Glen Burnie",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w545052864",
@@ -8858,7 +9112,9 @@
       "city": "Fort Meade",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w552914598",
@@ -9068,7 +9324,9 @@
       "city": "Ellicott City",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w568372956",
@@ -9119,7 +9377,9 @@
       "city": "Cumberland",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w582298653",
@@ -9403,7 +9663,9 @@
       "city": "Glenarden",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w637951403",
@@ -9420,7 +9682,9 @@
       "city": "Peppermill Village",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w638316226",
@@ -9560,7 +9824,9 @@
       "city": "Baltimore",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w654866848",
@@ -9594,7 +9860,9 @@
       "city": "Glenarden",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w660066928",
@@ -9664,7 +9932,9 @@
       "city": "Crofton",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w668322243",
@@ -9732,7 +10002,9 @@
       "city": "Butler",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w670634853",
@@ -9749,7 +10021,9 @@
       "city": "Upperco",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w670634968",
@@ -9766,7 +10040,9 @@
       "city": "Butler",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w670643415",
@@ -9783,7 +10059,9 @@
       "city": "Towson",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w671419747",
@@ -9904,7 +10182,9 @@
       "city": "Cumberland",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w676438229",
@@ -9974,7 +10254,9 @@
       "city": "Baltimore",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w685017049",
@@ -10027,7 +10309,9 @@
       "city": "Fort Washington",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w687260315",
@@ -10061,7 +10345,9 @@
       "city": "Ocean City",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w688495497",
@@ -10078,7 +10364,9 @@
       "city": "Ocean City",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w688495498",
@@ -10269,7 +10557,9 @@
       "city": "Berwyn Heights",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w695843041",
@@ -10354,7 +10644,9 @@
       "city": "Chillum",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w699104069",
@@ -10371,7 +10663,9 @@
       "city": "Baltimore",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w699262267",
@@ -10494,7 +10788,9 @@
       "city": "Redland",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w702336437",
@@ -10511,7 +10807,9 @@
       "city": "Montgomery County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w702336439",
@@ -10528,7 +10826,9 @@
       "city": "Montgomery County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w702336442",
@@ -10545,7 +10845,9 @@
       "city": "Montgomery County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w702522673",
@@ -10562,7 +10864,9 @@
       "city": "Frederick County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w704003988",
@@ -10634,7 +10938,9 @@
       "city": "Betterton",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w705238941",
@@ -10757,7 +11063,9 @@
       "city": "Caroline County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w719543817",
@@ -10774,7 +11082,9 @@
       "city": "Vienna",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w724834353",
@@ -10791,7 +11101,9 @@
       "city": "Havre de Grace",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w730420898",
@@ -10808,7 +11120,9 @@
       "city": "Camp Springs",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w731211248",
@@ -10863,7 +11177,9 @@
       "city": "Towson",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w731211253",
@@ -11028,7 +11344,9 @@
       "city": "Worcester County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w732464850",
@@ -11045,7 +11363,9 @@
       "city": "Caroline County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w733468911",
@@ -11062,7 +11382,9 @@
       "city": "Williston",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w736860896",
@@ -11096,7 +11418,9 @@
       "city": "Easton",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w737737526",
@@ -11113,7 +11437,9 @@
       "city": "Talbot County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w737742412",
@@ -11130,7 +11456,9 @@
       "city": "Talbot County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w737749759",
@@ -11164,7 +11492,9 @@
       "city": "Talbot County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w737785707",
@@ -11198,7 +11528,9 @@
       "city": "Queen Anne's County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w738697466",
@@ -11215,7 +11547,9 @@
       "city": "Queen Anne's County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w738698192",
@@ -11232,7 +11566,9 @@
       "city": "Queen Anne's County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w740100961",
@@ -11287,7 +11623,9 @@
       "city": "Baltimore",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w740550478",
@@ -11410,7 +11748,9 @@
       "city": "Talbot County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w741157863",
@@ -11427,7 +11767,9 @@
       "city": "Easton",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w741800522",
@@ -11444,7 +11786,9 @@
       "city": "Dorchester County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w742651881",
@@ -11512,7 +11856,9 @@
       "city": "Somerset County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w742759171",
@@ -11529,7 +11875,9 @@
       "city": "Salisbury",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w742774755",
@@ -11563,7 +11911,9 @@
       "city": "Dunkirk",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w743192148",
@@ -11580,7 +11930,9 @@
       "city": "Somerset County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w743199372",
@@ -11633,7 +11985,9 @@
       "city": "Cecil County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w744549978",
@@ -11650,7 +12004,9 @@
       "city": "Baltimore County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w744829300",
@@ -11684,7 +12040,9 @@
       "city": "Ocean City",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w747099734",
@@ -11754,7 +12112,9 @@
       "city": "Wicomico County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w747481462",
@@ -11771,7 +12131,9 @@
       "city": "Wicomico County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w749115740",
@@ -11788,7 +12150,9 @@
       "city": "Kent County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w749179640",
@@ -11879,7 +12243,9 @@
       "city": "Talbot County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w750593691",
@@ -11896,7 +12262,9 @@
       "city": "Talbot County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w750593693",
@@ -11913,7 +12281,9 @@
       "city": "Talbot County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w750594423",
@@ -11930,7 +12300,9 @@
       "city": "Talbot County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w750595496",
@@ -11947,7 +12319,9 @@
       "city": "Talbot County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w751412603",
@@ -12034,7 +12408,9 @@
       "city": "Talbot County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w753793364",
@@ -12070,7 +12446,9 @@
       "city": "Talbot County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w754589952",
@@ -12087,7 +12465,9 @@
       "city": "Talbot County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w755042084",
@@ -12396,7 +12776,9 @@
       "city": "Easton",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w764867125",
@@ -12413,7 +12795,9 @@
       "city": "Elkton",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w765790820",
@@ -12430,7 +12814,9 @@
       "city": "Talbot County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w766053655",
@@ -12447,7 +12833,9 @@
       "city": "Pikesville",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w766053656",
@@ -12464,7 +12852,9 @@
       "city": "Pikesville",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w766395258",
@@ -12517,7 +12907,9 @@
       "city": "Olney",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w766404722",
@@ -12585,7 +12977,9 @@
       "city": "Olney",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w766404728",
@@ -12602,7 +12996,9 @@
       "city": "Olney",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w766404729",
@@ -12704,7 +13100,9 @@
       "city": "Walker Mill",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w777118179",
@@ -12757,7 +13155,9 @@
       "city": "Caroline County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w790766932",
@@ -12861,7 +13261,9 @@
       "city": "Fort Meade",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w806451645",
@@ -12897,7 +13299,9 @@
       "city": "Suitland",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w810448247",
@@ -13240,7 +13644,9 @@
       "city": "Taneytown",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w875648747",
@@ -13274,7 +13680,9 @@
       "city": "Montgomery County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w885143905",
@@ -13433,7 +13841,9 @@
       "city": "Annapolis Neck",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w907373539",
@@ -13470,7 +13880,9 @@
       "city": "Saint Michaels",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w914263198",
@@ -13504,7 +13916,9 @@
       "city": "Aspen Hill",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w917493555",
@@ -13538,7 +13952,9 @@
       "city": "Montgomery Village",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w917554893",
@@ -13591,7 +14007,9 @@
       "city": "Columbia",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w928466211",
@@ -13625,7 +14043,9 @@
       "city": "Camp Springs",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w931760767",
@@ -13731,7 +14151,9 @@
       "city": "Ballenger Creek",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w942256019",
@@ -13748,7 +14170,9 @@
       "city": "Baltimore",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w942296969",
@@ -13765,7 +14189,9 @@
       "city": "Woodmore",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w942696209",
@@ -13818,7 +14244,9 @@
       "city": "Columbia",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w956197643",
@@ -13835,7 +14263,9 @@
       "city": "Pleasant Hills",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w956441959",
@@ -13852,7 +14282,9 @@
       "city": "Kent County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w958011708",
@@ -13903,7 +14335,9 @@
       "city": "Waldorf",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w963006378",
@@ -13937,7 +14371,9 @@
       "city": "Frederick",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w963507263",
@@ -13971,7 +14407,9 @@
       "city": "Edgewater",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w964099416",
@@ -13988,7 +14426,9 @@
       "city": "Edgewater",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w964730636",
@@ -14005,7 +14445,9 @@
       "city": "Brandywine",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w966307625",
@@ -14022,7 +14464,9 @@
       "city": "North Brentwood",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w966485319",
@@ -14039,7 +14483,9 @@
       "city": "Baltimore",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w968947126",
@@ -14143,7 +14589,9 @@
       "city": "Frederick County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w973895796",
@@ -14215,7 +14663,9 @@
       "city": "Waldorf",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w978174059",
@@ -14319,7 +14769,9 @@
       "city": "Potomac",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w987739327",
@@ -14353,7 +14805,9 @@
       "city": "Garrett County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w989266785",
@@ -14370,7 +14824,9 @@
       "city": "Talbot County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w989267053",
@@ -14387,7 +14843,9 @@
       "city": "Talbot County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w989268440",
@@ -14404,7 +14862,9 @@
       "city": "Talbot County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w993670896",
@@ -14438,7 +14898,9 @@
       "city": "Saint Mary's County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w995972704",
@@ -14455,7 +14917,9 @@
       "city": "Tall Timbers",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w996207846",
@@ -14472,7 +14936,9 @@
       "city": "Stevensville",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w998514350",
@@ -14523,7 +14989,9 @@
       "city": "Charles County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1000362997",
@@ -14540,7 +15008,9 @@
       "city": "Marbury",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1002149098",
@@ -14557,7 +15027,9 @@
       "city": "Forestville",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1003656267",
@@ -14591,7 +15063,9 @@
       "city": "Calvert County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1004063643",
@@ -14608,7 +15082,9 @@
       "city": "Calvert County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1004170266",
@@ -14642,7 +15118,9 @@
       "city": "Talbot County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1004184085",
@@ -14659,7 +15137,9 @@
       "city": "Talbot County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1004185290",
@@ -14676,7 +15156,9 @@
       "city": "Talbot County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1006291521",
@@ -14744,7 +15226,9 @@
       "city": "Bowie",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1010847044",
@@ -14799,7 +15283,9 @@
       "city": "Columbia",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1015708400",
@@ -14816,7 +15302,9 @@
       "city": "Talbot County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1015710788",
@@ -14833,7 +15321,9 @@
       "city": "Kent Narrows",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1016045111",
@@ -14850,7 +15340,9 @@
       "city": "Charles County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1016049977",
@@ -14901,7 +15393,9 @@
       "city": "Saint Mary's County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1021471328",
@@ -15005,7 +15499,9 @@
       "city": "Potomac",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1030701096",
@@ -15056,7 +15552,9 @@
       "city": "Calvert County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1053064639",
@@ -15073,7 +15571,9 @@
       "city": "White Oak",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1053183242",
@@ -15090,7 +15590,9 @@
       "city": "Forestville",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1053796408",
@@ -15107,7 +15609,9 @@
       "city": "Burtonsville",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1054311638",
@@ -15272,7 +15776,9 @@
       "city": "Saint Mary's County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1066866282",
@@ -15289,7 +15795,9 @@
       "city": "Queen Anne's County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1067143310",
@@ -15325,7 +15833,9 @@
       "city": "Kent County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1070469325",
@@ -15342,7 +15852,9 @@
       "city": "Kent County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1070469326",
@@ -15359,7 +15871,9 @@
       "city": "Kent County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1070469327",
@@ -15376,7 +15890,9 @@
       "city": "Kent County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1070469328",
@@ -15393,7 +15909,9 @@
       "city": "Kent County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1070469329",
@@ -15410,7 +15928,9 @@
       "city": "Kent County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1070469330",
@@ -15444,7 +15964,9 @@
       "city": "Talbot County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1072649152",
@@ -15461,7 +15983,9 @@
       "city": "Queen Anne's County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1072829898",
@@ -15535,7 +16059,9 @@
       "city": "Germantown",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1075417060",
@@ -15603,7 +16129,9 @@
       "city": "Dorchester County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1075623667",
@@ -15654,7 +16182,9 @@
       "city": "Rohrersville",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1082425132",
@@ -15671,7 +16201,9 @@
       "city": "Williston",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084284135",
@@ -15705,7 +16237,9 @@
       "city": "Queen Anne's County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084392884",
@@ -15722,7 +16256,9 @@
       "city": "Talbot County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084395627",
@@ -15739,7 +16275,9 @@
       "city": "Kent County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084397027",
@@ -15756,7 +16294,9 @@
       "city": "Saint Mary's County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084397152",
@@ -15790,7 +16330,9 @@
       "city": "Queen Anne's County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084398261",
@@ -15807,7 +16349,9 @@
       "city": "Queen Anne's County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084400056",
@@ -15824,7 +16368,9 @@
       "city": "Talbot County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084400391",
@@ -15841,7 +16387,9 @@
       "city": "Queen Anne's County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084406248",
@@ -15858,7 +16406,9 @@
       "city": "Talbot County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084406518",
@@ -15875,7 +16425,9 @@
       "city": "Queen Anne's County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084406688",
@@ -15892,7 +16444,9 @@
       "city": "Queen Anne's County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084408016",
@@ -15909,7 +16463,9 @@
       "city": "Kent County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084408138",
@@ -15926,7 +16482,9 @@
       "city": "Queen Anne's County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084409102",
@@ -15943,7 +16501,9 @@
       "city": "Talbot County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084409112",
@@ -15960,7 +16520,9 @@
       "city": "Talbot County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084410405",
@@ -15977,7 +16539,9 @@
       "city": "Queen Anne's County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084410699",
@@ -16011,7 +16575,9 @@
       "city": "Queen Anne's County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084425077",
@@ -16028,7 +16594,9 @@
       "city": "Talbot County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084448605",
@@ -16045,7 +16613,9 @@
       "city": "Talbot County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084449922",
@@ -16062,7 +16632,9 @@
       "city": "Talbot County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084451556",
@@ -16098,7 +16670,9 @@
       "city": "Queen Anne's County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1086285289",
@@ -16170,7 +16744,9 @@
       "city": "Charles County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1087619887",
@@ -16187,7 +16763,9 @@
       "city": "Waldorf",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1087619906",
@@ -16204,7 +16782,9 @@
       "city": "Waldorf",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1087620216",
@@ -16221,7 +16801,9 @@
       "city": "Charles County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1087632175",
@@ -16238,7 +16820,9 @@
       "city": "Towson",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1088190210",
@@ -16272,7 +16856,9 @@
       "city": "Ocean City",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1090868870",
@@ -16289,7 +16875,9 @@
       "city": "Ocean City",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1095769008",
@@ -16340,7 +16928,9 @@
       "city": "Cockeysville",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1103969631",
@@ -16357,7 +16947,9 @@
       "city": "Kettering",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1103969633",
@@ -16393,7 +16985,9 @@
       "city": "Largo",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1104207750",
@@ -16410,7 +17004,9 @@
       "city": "Fort Washington",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1105664950",
@@ -16465,7 +17061,9 @@
       "city": "Waldorf",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1105884043",
@@ -16535,7 +17133,9 @@
       "city": "Cabin John",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1107749789",
@@ -16552,7 +17152,9 @@
       "city": "Cabin John",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1107749792",
@@ -16569,7 +17171,9 @@
       "city": "Cabin John",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1107843204",
@@ -16622,7 +17226,9 @@
       "city": "Baltimore County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1110294914",
@@ -16639,7 +17245,9 @@
       "city": "Annapolis",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1110373828",
@@ -16675,7 +17283,9 @@
       "city": "Germantown",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1112825309",
@@ -16692,7 +17302,9 @@
       "city": "Jefferson",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1114733443",
@@ -16745,7 +17357,9 @@
       "city": "Saint Mary's County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1124826259",
@@ -16762,7 +17376,9 @@
       "city": "Potomac",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1125973714",
@@ -16779,7 +17395,9 @@
       "city": "Kent County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1126122512",
@@ -16813,7 +17431,9 @@
       "city": "Edgewood",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1136338404",
@@ -16830,7 +17450,9 @@
       "city": "North Bethesda",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1137627032",
@@ -16847,7 +17469,9 @@
       "city": "Redland",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1139716509",
@@ -16917,7 +17541,9 @@
       "city": "North Bethesda",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1150263994",
@@ -16968,7 +17594,9 @@
       "city": "Towson",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1154390667",
@@ -17038,7 +17666,9 @@
       "city": "North Bethesda",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1163436436",
@@ -17161,7 +17791,9 @@
       "city": "Towson",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1167422258",
@@ -17178,7 +17810,9 @@
       "city": "North Bethesda",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1173999887",
@@ -17212,7 +17846,9 @@
       "city": "Kemp Mill",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1174051817",
@@ -17246,7 +17882,9 @@
       "city": "Darnestown",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1178489844",
@@ -17263,7 +17901,9 @@
       "city": "Montgomery County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1182369181",
@@ -17280,7 +17920,9 @@
       "city": "Talbot County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1182376028",
@@ -17331,7 +17973,9 @@
       "city": "Darnestown",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1190044046",
@@ -17348,7 +17992,9 @@
       "city": "Travilah",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1192517011",
@@ -17365,7 +18011,9 @@
       "city": "Kent County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1195437780",
@@ -17382,7 +18030,9 @@
       "city": "Potomac",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1199661610",
@@ -17454,7 +18104,9 @@
       "city": "Ballenger Creek",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1218552794",
@@ -17471,7 +18123,9 @@
       "city": "Pikesville",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1219059170",
@@ -17524,7 +18178,9 @@
       "city": "Ocean City",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1228839955",
@@ -17575,7 +18231,9 @@
       "city": "Saint Mary's County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1242230599",
@@ -17592,7 +18250,9 @@
       "city": "Westminster",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1242661754",
@@ -17609,7 +18269,9 @@
       "city": "Travilah",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1242661758",
@@ -17626,7 +18288,9 @@
       "city": "Travilah",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1242661783",
@@ -17643,7 +18307,9 @@
       "city": "Travilah",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1242663879",
@@ -17660,7 +18326,9 @@
       "city": "Travilah",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1245738406",
@@ -17677,7 +18345,9 @@
       "city": "Baldwin",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1249489111",
@@ -17728,7 +18398,9 @@
       "city": "Potomac",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1261320593",
@@ -17779,7 +18451,9 @@
       "city": "Talbot County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1264367638",
@@ -17796,7 +18470,9 @@
       "city": "Queen Anne's County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1268711045",
@@ -17832,7 +18508,9 @@
       "city": "Towson",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1268712558",
@@ -17866,7 +18544,9 @@
       "city": "Carney",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1268714495",
@@ -17883,7 +18563,9 @@
       "city": "Talbot County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1271180789",
@@ -17900,7 +18582,9 @@
       "city": "Queen Anne's County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1271183553",
@@ -17917,7 +18601,9 @@
       "city": "Ocean City",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1271290698",
@@ -17934,7 +18620,9 @@
       "city": "Waldorf",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1273538600",
@@ -17951,7 +18639,9 @@
       "city": "West Ocean City",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1274094200",
@@ -18042,7 +18732,9 @@
       "city": "Prince George's County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1281856906",
@@ -18146,7 +18838,9 @@
       "city": "Towson",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1285649330",
@@ -18163,7 +18857,9 @@
       "city": "Towson",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1285649332",
@@ -18235,7 +18931,9 @@
       "city": "Wicomico County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1297696565",
@@ -18269,7 +18967,9 @@
       "city": "Harford County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1303115400",
@@ -18286,7 +18986,9 @@
       "city": "Annapolis",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1303121009",
@@ -18320,7 +19022,9 @@
       "city": "Fairland",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1307615382",
@@ -18337,7 +19041,9 @@
       "city": "White Marsh",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1312742096",
@@ -18564,7 +19270,9 @@
       "city": "Wicomico County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1321520623",
@@ -18632,7 +19340,9 @@
       "city": "Halfway",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1322430666",
@@ -18666,7 +19376,9 @@
       "city": "Columbia",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1322430792",
@@ -18702,7 +19414,9 @@
       "city": "Towson",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1323517956",
@@ -18736,7 +19450,9 @@
       "city": "Annapolis Neck",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1328682228",
@@ -18753,7 +19469,9 @@
       "city": "Lake Shore",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1328946935",
@@ -18804,7 +19522,9 @@
       "city": "Kettering",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1331114034",
@@ -18821,7 +19541,9 @@
       "city": "Lexington Park",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1331114042",
@@ -18872,7 +19594,9 @@
       "city": "Grasonville",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1331507092",
@@ -18906,7 +19630,9 @@
       "city": "Saint Mary's County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334462372",
@@ -18923,7 +19649,9 @@
       "city": "Tilghman Island",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334462382",
@@ -18940,7 +19668,9 @@
       "city": "Queen Anne's County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334919707",
@@ -18957,7 +19687,9 @@
       "city": "Talbot County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1335071368",
@@ -18974,7 +19706,9 @@
       "city": "Bethesda",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1337698611",
@@ -18991,7 +19725,9 @@
       "city": "Towson",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1340893041",
@@ -19008,7 +19744,9 @@
       "city": "Calvert County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1346881734",
@@ -19025,7 +19763,9 @@
       "city": "Montgomery County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1347075214",
@@ -19042,7 +19782,9 @@
       "city": "Odenton",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1347679610",
@@ -19110,7 +19852,9 @@
       "city": "Saint Michaels",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1353019068",
@@ -19127,7 +19871,9 @@
       "city": "Queen Anne's County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356680363",
@@ -19212,7 +19958,9 @@
       "city": "Baltimore",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1373233896",
@@ -19229,7 +19977,9 @@
       "city": "Hampton",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1373236240",
@@ -19246,7 +19996,9 @@
       "city": "Towson",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1412412955",
@@ -19280,7 +20032,9 @@
       "city": "Garrett County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1413175460",
@@ -19350,7 +20104,9 @@
       "city": "Garrett County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1416424023",
@@ -19367,7 +20123,9 @@
       "city": "Garrett County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1416533554",
@@ -19437,7 +20195,9 @@
       "city": "Suitland",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1416533867",
@@ -19454,7 +20214,9 @@
       "city": "Suitland",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1416550091",
@@ -19509,7 +20271,9 @@
       "city": "Bethesda",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1418574310",
@@ -19526,7 +20290,9 @@
       "city": "Potomac",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1418574315",
@@ -19560,7 +20326,9 @@
       "city": "Potomac",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1418574323",
@@ -19577,7 +20345,9 @@
       "city": "Potomac",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1418574324",
@@ -19594,7 +20364,9 @@
       "city": "Potomac",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1418574325",
@@ -19611,7 +20383,9 @@
       "city": "Potomac",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1418720374",
@@ -19628,7 +20402,9 @@
       "city": "Bethesda",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1418977325",
@@ -19645,7 +20421,9 @@
       "city": "Bethesda",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1421263306",
@@ -19662,7 +20440,9 @@
       "city": "Springdale",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1421455396",
@@ -19732,7 +20512,9 @@
       "city": "Fairwood",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1425311111",
@@ -19749,7 +20531,9 @@
       "city": "Fairwood",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1425334432",
@@ -19938,7 +20722,9 @@
       "city": "Laurel",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1429997048",
@@ -20006,7 +20792,9 @@
       "city": "Hagerstown",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1430918816",
@@ -20023,7 +20811,9 @@
       "city": "Chillum",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1430923648",
@@ -20040,7 +20830,9 @@
       "city": "Towson",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1431014430",
@@ -20218,7 +21010,9 @@
       "city": "Rockville",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1433472584",
@@ -20254,7 +21048,9 @@
       "city": "Ellicott City",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1434059962",
@@ -20307,7 +21103,9 @@
       "city": "Talbot County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1434176228",
@@ -20343,7 +21141,9 @@
       "city": "Harford County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1434441445",
@@ -20360,7 +21160,9 @@
       "city": "Cedar Heights",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1434455824",
@@ -20430,7 +21232,9 @@
       "city": "Bowie",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435908975",
@@ -20481,7 +21285,9 @@
       "city": "Frederick County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1436495565",
@@ -20619,7 +21425,9 @@
       "city": "Calvert County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442900030",
@@ -20689,7 +21497,9 @@
       "city": "Marlow Heights",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443262518",
@@ -20706,7 +21516,9 @@
       "city": "Hillcrest Heights",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443841776",
@@ -20723,7 +21535,9 @@
       "city": "Glenn Dale",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443841788",
@@ -20740,7 +21554,9 @@
       "city": "Bowie",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443841793",
@@ -20757,7 +21573,9 @@
       "city": "Bowie",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443902273",
@@ -20863,7 +21681,9 @@
       "city": "Potomac",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1445919178",
@@ -20880,7 +21700,9 @@
       "city": "Pomfret",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1447810429",
@@ -20935,7 +21757,9 @@
       "city": "Damascus",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1451400996",
@@ -20969,7 +21793,9 @@
       "city": "Waldorf",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1452256676",
@@ -20986,7 +21812,9 @@
       "city": "Bethesda",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1452256909",
@@ -21003,7 +21831,9 @@
       "city": "Bethesda",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1452257184",
@@ -21071,7 +21901,9 @@
       "city": "Bethesda",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1455123508",
@@ -21105,7 +21937,9 @@
       "city": "Friendship Heights Village",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1456168472",
@@ -21190,7 +22024,9 @@
       "city": "Olney",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1456773926",
@@ -21207,7 +22043,9 @@
       "city": "Riverside",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1456776644",
@@ -21224,7 +22062,9 @@
       "city": "Germantown",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1457616780",
@@ -21258,7 +22098,9 @@
       "city": "Edgewater",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1460155087",
@@ -21294,7 +22136,9 @@
       "city": "Columbia",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1460155945",
@@ -21364,7 +22208,9 @@
       "city": "Highland",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1462200396",
@@ -21398,7 +22244,9 @@
       "city": "Redland",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1464473494",
@@ -21432,7 +22280,9 @@
       "city": "Frederick County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1466657155",
@@ -21487,7 +22337,9 @@
       "city": "Garrett County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474087433",
@@ -21521,7 +22373,9 @@
       "city": "Garrett County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474129014",
@@ -21557,7 +22411,9 @@
       "city": "Friendsville",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474828842",
@@ -21625,7 +22481,9 @@
       "city": "Allegany County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1475417595",
@@ -21750,7 +22608,9 @@
       "city": "Frederick County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1484148551",
@@ -21941,7 +22801,9 @@
       "city": "Columbia",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1485438119",
@@ -22011,7 +22873,9 @@
       "city": "Oxford",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1487303417",
@@ -22045,7 +22909,9 @@
       "city": "Stevensville",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1487843201",
@@ -22134,7 +23000,9 @@
       "city": "Cheverly",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1490404624",
@@ -22238,7 +23106,9 @@
       "city": "Clinton",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492281951",
@@ -22293,7 +23163,9 @@
       "city": "Friendly",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492283454",
@@ -22327,7 +23199,9 @@
       "city": "National Harbor",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492283918",
@@ -22361,7 +23235,9 @@
       "city": "Oxon Hill",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492284465",
@@ -22412,7 +23288,9 @@
       "city": "Germantown",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1493139695",
@@ -22550,7 +23428,9 @@
       "city": "Monkton",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1494458346",
@@ -22567,7 +23447,9 @@
       "city": "Monkton",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1494624768",
@@ -22705,7 +23587,9 @@
       "city": "Gambrills",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1495134626",
@@ -22739,7 +23623,9 @@
       "city": "South Laurel",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1495320038",
@@ -22981,7 +23867,9 @@
       "city": "South Laurel",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1498678468",
@@ -22998,7 +23886,9 @@
       "city": "Paramount-Long Meadow",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1499071689",
@@ -23032,7 +23922,9 @@
       "city": "Bennsville",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1499077651",
@@ -23153,7 +24045,9 @@
       "city": "North Laurel",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1501129230",
@@ -23278,7 +24172,9 @@
       "city": "Clarksburg",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1501898219",
@@ -23454,7 +24350,9 @@
       "city": "Bethesda",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1504251916",
@@ -23488,7 +24386,9 @@
       "city": "Forestville",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1504268480",
@@ -23700,7 +24600,9 @@
       "city": "Hillandale",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1504273380",
@@ -23717,7 +24619,9 @@
       "city": "Colesville",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1504274929",
@@ -23768,7 +24672,9 @@
       "city": "Bowie",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1504466536",
@@ -23944,7 +24850,9 @@
       "city": "Maugansville",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1507502698",
@@ -23978,7 +24886,9 @@
       "city": "Severn",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1509040017",
@@ -24097,7 +25007,9 @@
       "city": "Landover",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1509528772",
@@ -24114,7 +25026,9 @@
       "city": "Summerfield",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1509528780",
@@ -24131,7 +25045,9 @@
       "city": "Summerfield",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1509528999",
@@ -24148,7 +25064,9 @@
       "city": "Summerfield",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1509577768",
@@ -24288,7 +25206,9 @@
       "city": "Wicomico County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1509900740",
@@ -24305,7 +25225,9 @@
       "city": "Glenn Dale",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1510000675",
@@ -24513,7 +25435,9 @@
       "city": "South Laurel",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1511175727",
@@ -24547,7 +25471,9 @@
       "city": "Wicomico County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1511544850",
@@ -24615,7 +25541,9 @@
       "city": "Ocean City",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1511548664",
@@ -24632,7 +25560,9 @@
       "city": "Ocean City",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1511549695",
@@ -24666,7 +25596,9 @@
       "city": "Ocean City",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1511549705",
@@ -24683,7 +25615,9 @@
       "city": "Ocean City",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1511652662",
@@ -24700,7 +25634,9 @@
       "city": "Potomac",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1511775000",
@@ -24819,7 +25755,9 @@
       "city": "Queen Anne's County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512124696",
@@ -24836,7 +25774,9 @@
       "city": "Annapolis Neck",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512124909",
@@ -24853,7 +25793,9 @@
       "city": "Annapolis",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512125825",
@@ -24887,7 +25829,9 @@
       "city": "Ridgely",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512131244",
@@ -24923,7 +25867,9 @@
       "city": "Chester",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512139847",
@@ -25027,7 +25973,9 @@
       "city": "Waldorf",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512144688",
@@ -25061,7 +26009,9 @@
       "city": "Calvert County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512148276",
@@ -25097,7 +26047,9 @@
       "city": "Solomons",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512157070",
@@ -25114,7 +26066,9 @@
       "city": "Sudlersville",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512158103",
@@ -25237,7 +26191,9 @@
       "city": "Carroll County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512304623",
@@ -25381,7 +26337,9 @@
       "city": "Bel Air North",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512306400",
@@ -25695,7 +26653,9 @@
       "city": "Hillcrest Heights",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1513565499",
@@ -25731,7 +26691,9 @@
       "city": "Suitland",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1513566456",
@@ -25748,7 +26710,9 @@
       "city": "Suitland",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1513568717",
@@ -25782,7 +26746,9 @@
       "city": "Morningside",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1513569383",
@@ -25837,7 +26803,9 @@
       "city": "Walker Mill",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1513571850",
@@ -25854,7 +26822,9 @@
       "city": "Camp Springs",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1513573954",
@@ -25871,7 +26841,9 @@
       "city": "Camp Springs",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1513723408",
@@ -25939,7 +26911,9 @@
       "city": "North Bethesda",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1514727853",
@@ -26041,7 +27015,9 @@
       "city": "Lake Arbor",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1518747244",
@@ -26077,7 +27053,9 @@
       "city": "Frederick",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1518762962",
@@ -26376,7 +27354,9 @@
       "city": "Waldorf",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524140235",
@@ -26448,7 +27428,9 @@
       "city": "Waldorf",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524143520",
@@ -26586,7 +27568,9 @@
       "city": "North Bethesda",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524351077",
@@ -26739,7 +27723,9 @@
       "city": "Olney",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524358729",
@@ -26881,7 +27867,9 @@
       "city": "Baltimore",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524364046",
@@ -27044,7 +28032,9 @@
       "city": "Towson",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524370307",
@@ -27381,7 +28371,9 @@
       "city": "Columbia",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524486573",
@@ -27432,7 +28424,9 @@
       "city": "Arnold",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524500482",
@@ -27485,7 +28479,9 @@
       "city": "Glen Burnie",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524501076",
@@ -27555,7 +28551,9 @@
       "city": "Crofton",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524576349",
@@ -27572,7 +28570,9 @@
       "city": "Crofton",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524754230",
@@ -27608,7 +28608,9 @@
       "city": "Montgomery Village",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524754852",
@@ -27625,7 +28627,9 @@
       "city": "Olney",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524781552",
@@ -27642,7 +28646,9 @@
       "city": "Croom",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524781616",
@@ -27659,7 +28665,9 @@
       "city": "Mellwood",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524781764",
@@ -27729,7 +28737,9 @@
       "city": "Odenton",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524783165",
@@ -27784,7 +28794,9 @@
       "city": "Montgomery Village",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524784828",
@@ -27835,7 +28847,9 @@
       "city": "North Potomac",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524786872",
@@ -28098,7 +29112,9 @@
       "city": "Germantown",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524820844",
@@ -28115,7 +29131,9 @@
       "city": "New Carrollton",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524820870",
@@ -28132,7 +29150,9 @@
       "city": "Montgomery Village",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524821994",
@@ -28168,7 +29188,9 @@
       "city": "Redland",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524823608",
@@ -28291,7 +29313,9 @@
       "city": "Bethesda",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524829104",
@@ -28380,7 +29404,9 @@
       "city": "Adelphi",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524888588",
@@ -28482,7 +29508,9 @@
       "city": "Beltsville",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524892762",
@@ -28550,7 +29578,9 @@
       "city": "Gaithersburg",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524894478",
@@ -28584,7 +29614,9 @@
       "city": "Gaithersburg",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524895124",
@@ -28601,7 +29633,9 @@
       "city": "North Potomac",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524895597",
@@ -28618,7 +29652,9 @@
       "city": "North Potomac",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524895877",
@@ -28652,7 +29688,9 @@
       "city": "Montgomery Village",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524897236",
@@ -28777,7 +29815,9 @@
       "city": "Cecil County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526464417",
@@ -28794,7 +29834,9 @@
       "city": "Cecil County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526472087",
@@ -28828,7 +29870,9 @@
       "city": "Suitland",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526473014",
@@ -28845,7 +29889,9 @@
       "city": "Upper Marlboro",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526474074",
@@ -28862,7 +29908,9 @@
       "city": "Fort Washington",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526474238",
@@ -28913,7 +29961,9 @@
       "city": "Camp Springs",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1529754347",
@@ -28930,7 +29980,9 @@
       "city": "Glassmanor",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1529755128",
@@ -28964,7 +30016,9 @@
       "city": "Mount Rainier",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1529756206",
@@ -29089,7 +30143,9 @@
       "city": "Columbia",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1529763653",
@@ -29178,7 +30234,9 @@
       "city": "Baltimore",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1539930145",
@@ -29231,7 +30289,9 @@
       "city": "Cecil County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1540545181",
@@ -29299,7 +30359,9 @@
       "city": "Capitol Heights",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1541094806",
@@ -29316,7 +30378,9 @@
       "city": "Capitol Heights",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1545479430",
@@ -29333,7 +30397,9 @@
       "city": "Catonsville",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1547986122",
@@ -29367,7 +30433,9 @@
       "city": "Worcester County",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-r4683394",

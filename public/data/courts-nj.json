@@ -85,7 +85,9 @@
       "city": "Galloway Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1425530773",
@@ -153,7 +155,9 @@
       "city": "Bordentown Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-n13976340959",
@@ -187,7 +191,9 @@
       "city": "Tewksbury Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-n13987407339",
@@ -204,7 +210,9 @@
       "city": "Shamong Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-n13987410112",
@@ -221,7 +229,9 @@
       "city": "Upper Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-n13991209807",
@@ -257,7 +267,9 @@
       "city": "Stillwater Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-n14018807050",
@@ -291,7 +303,9 @@
       "city": "Franklin Lakes",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-n14068507355",
@@ -308,7 +322,9 @@
       "city": "Jefferson Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-n14068507357",
@@ -325,7 +341,9 @@
       "city": "Jefferson Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-n14068507358",
@@ -342,7 +360,9 @@
       "city": "Jefferson Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-n14096716717",
@@ -359,7 +379,9 @@
       "city": "Franklin Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w26334385",
@@ -590,7 +612,9 @@
       "city": "Cherry Hill Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w32943861",
@@ -861,7 +885,9 @@
       "city": "Hamilton Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w37251223",
@@ -1020,7 +1046,9 @@
       "city": "Gloucester Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w64470965",
@@ -1088,7 +1116,9 @@
       "city": "Cherry Hill Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w76891893",
@@ -1141,7 +1171,9 @@
       "city": "Mount Arlington",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w84269423",
@@ -1226,7 +1258,9 @@
       "city": "Hardyston Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w88117779",
@@ -1277,7 +1311,9 @@
       "city": "Long Beach Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w95200265",
@@ -1379,7 +1415,9 @@
       "city": "Byram Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w146190410",
@@ -1449,7 +1487,9 @@
       "city": "Bernardsville",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w152166780",
@@ -1534,7 +1574,9 @@
       "city": "East Brunswick Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w165416457",
@@ -1636,7 +1678,9 @@
       "city": "Old Bridge Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w180806996",
@@ -1653,7 +1697,9 @@
       "city": "Tuckerton",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w181771376",
@@ -1791,7 +1837,9 @@
       "city": "Newton",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w198406132",
@@ -1825,7 +1873,9 @@
       "city": "Woodbridge Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w202500861",
@@ -1876,7 +1926,9 @@
       "city": "Millville",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w206021149",
@@ -1929,7 +1981,9 @@
       "city": "Ridgewood",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w222236672",
@@ -1963,7 +2017,9 @@
       "city": "Mount Olive",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w224248965",
@@ -2101,7 +2157,9 @@
       "city": "Allamuchy Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w240737215",
@@ -2118,7 +2176,9 @@
       "city": "Hopewell Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w241358849",
@@ -2135,7 +2195,9 @@
       "city": "Warren Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w244765653",
@@ -2169,7 +2231,9 @@
       "city": "Summit",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w246074519",
@@ -2203,7 +2267,9 @@
       "city": "West Windsor",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w247250693",
@@ -2254,7 +2320,9 @@
       "city": "Garwood",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w248700972",
@@ -2271,7 +2339,9 @@
       "city": "Scotch Plains",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w248865574",
@@ -2324,7 +2394,9 @@
       "city": "Hammonton",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w251534956",
@@ -2341,7 +2413,9 @@
       "city": "Piscataway Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w251540105",
@@ -2358,7 +2432,9 @@
       "city": "Piscataway Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w252046209",
@@ -2392,7 +2468,9 @@
       "city": "South Plainfield",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w252474866",
@@ -2409,7 +2487,9 @@
       "city": "Long Hill Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w252692136",
@@ -2426,7 +2506,9 @@
       "city": "Edison",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w252708230",
@@ -2513,7 +2595,9 @@
       "city": "Bedminster Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w254552549",
@@ -2547,7 +2631,9 @@
       "city": "Bedminster Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w255158510",
@@ -2649,7 +2735,9 @@
       "city": "Summit",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w258817223",
@@ -2666,7 +2754,9 @@
       "city": "Deptford Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w259245429",
@@ -2683,7 +2773,9 @@
       "city": "Mantua Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w259856154",
@@ -2700,7 +2792,9 @@
       "city": "Mount Olive",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w261270046",
@@ -2717,7 +2811,9 @@
       "city": "Summit",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w261270051",
@@ -2819,7 +2915,9 @@
       "city": "Montgomery Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w263998572",
@@ -2836,7 +2934,9 @@
       "city": "Rockaway Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w264025076",
@@ -2872,7 +2972,9 @@
       "city": "Rahway",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w264982768",
@@ -2906,7 +3008,9 @@
       "city": "Camden",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w265560944",
@@ -2940,7 +3044,9 @@
       "city": "West Deptford Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w266921608",
@@ -2991,7 +3097,9 @@
       "city": "Somerville",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w268711903",
@@ -3008,7 +3116,9 @@
       "city": "Frankford Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w268931955",
@@ -3025,7 +3135,9 @@
       "city": "Wenonah",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w268943695",
@@ -3042,7 +3154,9 @@
       "city": "Somerville",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w269115344",
@@ -3059,7 +3173,9 @@
       "city": "Green Brook Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w269831548",
@@ -3076,7 +3192,9 @@
       "city": "Wenonah",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w269949824",
@@ -3146,7 +3264,9 @@
       "city": "Upper Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w271579824",
@@ -3214,7 +3334,9 @@
       "city": "Franklin Lakes",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w272929417",
@@ -3318,7 +3440,9 @@
       "city": "Bloomingdale",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w276433804",
@@ -3369,7 +3493,9 @@
       "city": "Livingston",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w277922790",
@@ -3422,7 +3548,9 @@
       "city": "Plainsboro Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w281064011",
@@ -3439,7 +3567,9 @@
       "city": "Parsippany-Troy Hills",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w283437380",
@@ -3456,7 +3586,9 @@
       "city": "Chester Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w284308209",
@@ -3662,7 +3794,9 @@
       "city": "Piscataway Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w292070084",
@@ -3679,7 +3813,9 @@
       "city": "Princeton",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w292791500",
@@ -3766,7 +3902,9 @@
       "city": "Piscataway Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w299117327",
@@ -3783,7 +3921,9 @@
       "city": "Piscataway Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w299598561",
@@ -3800,7 +3940,9 @@
       "city": "Jefferson Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w299601285",
@@ -3834,7 +3976,9 @@
       "city": "Rockaway Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w300512877",
@@ -3889,7 +4033,9 @@
       "city": "Mount Olive",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w305093644",
@@ -3974,7 +4120,9 @@
       "city": "Byram Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w311432479",
@@ -3991,7 +4139,9 @@
       "city": "Sayreville",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w311483907",
@@ -4025,7 +4175,9 @@
       "city": "East Brunswick Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w314516042",
@@ -4110,7 +4262,9 @@
       "city": "Long Hill Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w316895836",
@@ -4146,7 +4300,9 @@
       "city": "Kinnelon",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w318396149",
@@ -4163,7 +4319,9 @@
       "city": "Woodbridge Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w318397381",
@@ -4180,7 +4338,9 @@
       "city": "Woodbridge Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w320463649",
@@ -4231,7 +4391,9 @@
       "city": "Piscataway Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w327524405",
@@ -4248,7 +4410,9 @@
       "city": "Piscataway Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w328884461",
@@ -4265,7 +4429,9 @@
       "city": "Woodbridge Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w328884463",
@@ -4299,7 +4465,9 @@
       "city": "Woodbridge Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w329399488",
@@ -4316,7 +4484,9 @@
       "city": "South Plainfield",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w330605794",
@@ -4367,7 +4537,9 @@
       "city": "Piscataway Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w335078333",
@@ -4384,7 +4556,9 @@
       "city": "Woodbridge Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w338547145",
@@ -4418,7 +4592,9 @@
       "city": "Plainsboro Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w339445460",
@@ -4507,7 +4683,9 @@
       "city": "Pemberton Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w345344658",
@@ -4543,7 +4721,9 @@
       "city": "Raritan",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w346019621",
@@ -4560,7 +4740,9 @@
       "city": "Belvidere",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w346611631",
@@ -4597,7 +4779,9 @@
       "city": "Edison",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w350586989",
@@ -4614,7 +4798,9 @@
       "city": "Deptford Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w351043305",
@@ -4631,7 +4817,9 @@
       "city": "Fair Lawn",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w351459107",
@@ -4767,7 +4955,9 @@
       "city": "Camden",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w365778429",
@@ -4801,7 +4991,9 @@
       "city": "Scotch Plains",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w369190781",
@@ -4835,7 +5027,9 @@
       "city": "North Bergen",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w373007288",
@@ -4869,7 +5063,9 @@
       "city": "Montague Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w378235131",
@@ -4903,7 +5099,9 @@
       "city": "East Brunswick Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w379236581",
@@ -4937,7 +5135,9 @@
       "city": "Mount Laurel Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w386388548",
@@ -4954,7 +5154,9 @@
       "city": "Alexandria Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w392016350",
@@ -5005,7 +5207,9 @@
       "city": "Boonton Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w395938849",
@@ -5041,7 +5245,9 @@
       "city": "Jersey City",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w398589207",
@@ -5077,7 +5283,9 @@
       "city": "Mendham Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w401064929",
@@ -5128,7 +5336,9 @@
       "city": "Liberty Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w409852188",
@@ -5145,7 +5355,9 @@
       "city": "Jersey City",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w410374722",
@@ -5162,7 +5374,9 @@
       "city": "Bloomingdale",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w415319551",
@@ -5179,7 +5393,9 @@
       "city": "Stillwater Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w415319556",
@@ -5196,7 +5412,9 @@
       "city": "Stillwater Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w418563844",
@@ -5213,7 +5431,9 @@
       "city": "Lawrence Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w422736230",
@@ -5266,7 +5486,9 @@
       "city": "Franklin Lakes",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w423988198",
@@ -5300,7 +5522,9 @@
       "city": "Pemberton Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w427764515",
@@ -5402,7 +5626,9 @@
       "city": "West Windsor",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w439886798",
@@ -5455,7 +5681,9 @@
       "city": "Cherry Hill Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w444853605",
@@ -5472,7 +5700,9 @@
       "city": "Evesham Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w447097258",
@@ -5506,7 +5736,9 @@
       "city": "Cherry Hill Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w449293995",
@@ -5593,7 +5825,9 @@
       "city": "Parsippany-Troy Hills",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w455235163",
@@ -5610,7 +5844,9 @@
       "city": "Hope Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w455386598",
@@ -5627,7 +5863,9 @@
       "city": "Hanover Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w456136952",
@@ -5695,7 +5933,9 @@
       "city": "Voorhees Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w467545092",
@@ -5780,7 +6020,9 @@
       "city": "Evesham Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w468578454",
@@ -5971,7 +6213,9 @@
       "city": "Passaic",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w474923296",
@@ -5988,7 +6232,9 @@
       "city": "Robbinsville Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w475208050",
@@ -6039,7 +6285,9 @@
       "city": "Weehawken",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w476268837",
@@ -6298,7 +6546,9 @@
       "city": "Ventnor City",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w482885048",
@@ -6315,7 +6565,9 @@
       "city": "Wood-Ridge",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w484817877",
@@ -6349,7 +6601,9 @@
       "city": "Middletown Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w489594838",
@@ -6419,7 +6673,9 @@
       "city": "Cherry Hill Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w494037307",
@@ -6487,7 +6743,9 @@
       "city": "Allenhurst",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w498460054",
@@ -6521,7 +6779,9 @@
       "city": "Scotch Plains",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w502158109",
@@ -6538,7 +6798,9 @@
       "city": "Evesham Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w502911359",
@@ -6657,7 +6919,9 @@
       "city": "Lawrence Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w513671513",
@@ -6759,7 +7023,9 @@
       "city": "Haddonfield",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w515068816",
@@ -6776,7 +7042,9 @@
       "city": "Haddonfield",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w515699170",
@@ -6793,7 +7061,9 @@
       "city": "Readington Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w515861865",
@@ -6863,7 +7133,9 @@
       "city": "Hamilton Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w516448598",
@@ -6918,7 +7190,9 @@
       "city": "Deptford Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w518430880",
@@ -6986,7 +7260,9 @@
       "city": "Chesterfield Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w530330733",
@@ -7003,7 +7279,9 @@
       "city": "Cherry Hill Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w531240659",
@@ -7037,7 +7315,9 @@
       "city": "Bedminster Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w535285508",
@@ -7143,7 +7423,9 @@
       "city": "Hamilton Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w540862224",
@@ -7177,7 +7459,9 @@
       "city": "Bridgewater Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w541580557",
@@ -7211,7 +7495,9 @@
       "city": "Franklin Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w542466105",
@@ -7332,7 +7618,9 @@
       "city": "Raritan Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w545748908",
@@ -7400,7 +7688,9 @@
       "city": "Summit",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w548211513",
@@ -7451,7 +7741,9 @@
       "city": "Wayne",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w550463459",
@@ -7521,7 +7813,9 @@
       "city": "Hamilton Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w555764253",
@@ -7572,7 +7866,9 @@
       "city": "Harding Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w565478768",
@@ -7589,7 +7885,9 @@
       "city": "Cherry Hill Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w565568685",
@@ -7623,7 +7921,9 @@
       "city": "Fort Lee",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w579334625",
@@ -7640,7 +7940,9 @@
       "city": "Holmdel Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w579774499",
@@ -7657,7 +7959,9 @@
       "city": "Long Branch",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w579806032",
@@ -7674,7 +7978,9 @@
       "city": "Atlantic City",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w581030857",
@@ -7797,7 +8103,9 @@
       "city": "Hillsdale",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w585161507",
@@ -7814,7 +8122,9 @@
       "city": "Pennsauken Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w585295320",
@@ -7831,7 +8141,9 @@
       "city": "Wayne",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w585477126",
@@ -7848,7 +8160,9 @@
       "city": "Vernon Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w586408480",
@@ -7899,7 +8213,9 @@
       "city": "Wayne",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w587349912",
@@ -7916,7 +8232,9 @@
       "city": "Wayne",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w587514452",
@@ -7986,7 +8304,9 @@
       "city": "Cherry Hill Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w594252105",
@@ -8003,7 +8323,9 @@
       "city": "Bellmawr",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w594712271",
@@ -8037,7 +8359,9 @@
       "city": "Cherry Hill Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w594997066",
@@ -8071,7 +8395,9 @@
       "city": "Watchung",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w596126281",
@@ -8088,7 +8414,9 @@
       "city": "Camden",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w598961096",
@@ -8105,7 +8433,9 @@
       "city": "Gloucester Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w600791630",
@@ -8156,7 +8486,9 @@
       "city": "Cherry Hill Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w603747086",
@@ -8173,7 +8505,9 @@
       "city": "Neptune Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w603762960",
@@ -8396,7 +8730,9 @@
       "city": "Audubon",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w608398167",
@@ -8430,7 +8766,9 @@
       "city": "Winslow Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w613185150",
@@ -8447,7 +8785,9 @@
       "city": "South Brunswick",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w614107627",
@@ -8464,7 +8804,9 @@
       "city": "Randolph Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w614107629",
@@ -8481,7 +8823,9 @@
       "city": "Randolph Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w614610241",
@@ -8515,7 +8859,9 @@
       "city": "Warren Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w616336417",
@@ -8623,7 +8969,9 @@
       "city": "Montville Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w618370468",
@@ -8693,7 +9041,9 @@
       "city": "Paramus",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w619535112",
@@ -8780,7 +9130,9 @@
       "city": "Milford",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w622467509",
@@ -8916,7 +9268,9 @@
       "city": "Raritan Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w625408067",
@@ -8952,7 +9306,9 @@
       "city": "Raritan Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w625662528",
@@ -9003,7 +9359,9 @@
       "city": "Readington Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w626035035",
@@ -9020,7 +9378,9 @@
       "city": "Atlantic City",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w626254931",
@@ -9037,7 +9397,9 @@
       "city": "Bridgewater Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w626262550",
@@ -9054,7 +9416,9 @@
       "city": "Hamilton Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w627425458",
@@ -9071,7 +9435,9 @@
       "city": "Cherry Hill Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w627672282",
@@ -9088,7 +9454,9 @@
       "city": "Hamilton Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w628545658",
@@ -9122,7 +9490,9 @@
       "city": "Woodcliff Lake",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w628674188",
@@ -9279,7 +9649,9 @@
       "city": "Voorhees Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w630382124",
@@ -9332,7 +9704,9 @@
       "city": "Palisades Park",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w631988686",
@@ -9349,7 +9723,9 @@
       "city": "Township of Washington",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w633941568",
@@ -9400,7 +9776,9 @@
       "city": "Princeton",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w636353126",
@@ -9434,7 +9812,9 @@
       "city": "Hackensack",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w639082321",
@@ -9451,7 +9831,9 @@
       "city": "Highlands",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w639743829",
@@ -9504,7 +9886,9 @@
       "city": "Paramus",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w650692314",
@@ -9555,7 +9939,9 @@
       "city": "Cherry Hill Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w653812376",
@@ -9572,7 +9958,9 @@
       "city": "Cherry Hill Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w659568421",
@@ -9589,7 +9977,9 @@
       "city": "Rochelle Park",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w663055405",
@@ -9606,7 +9996,9 @@
       "city": "Barrington",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w663655475",
@@ -9742,7 +10134,9 @@
       "city": "Franklin Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w681933813",
@@ -9759,7 +10153,9 @@
       "city": "Plainfield",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w683508124",
@@ -9776,7 +10172,9 @@
       "city": "Franklin Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w685292622",
@@ -9827,7 +10225,9 @@
       "city": "Middletown Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w688470058",
@@ -9844,7 +10244,9 @@
       "city": "Holmdel Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w689279318",
@@ -9878,7 +10280,9 @@
       "city": "Long Hill Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w695727579",
@@ -9895,7 +10299,9 @@
       "city": "Teaneck Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w695756702",
@@ -9912,7 +10318,9 @@
       "city": "Teaneck Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w696043324",
@@ -9946,7 +10354,9 @@
       "city": "Teaneck Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w700206437",
@@ -9997,7 +10407,9 @@
       "city": "Morris Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w701980392",
@@ -10014,7 +10426,9 @@
       "city": "Clinton",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w701982938",
@@ -10048,7 +10462,9 @@
       "city": "Hillsborough Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w702789601",
@@ -10099,7 +10515,9 @@
       "city": "Villas",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w709804835",
@@ -10184,7 +10602,9 @@
       "city": "West Deptford Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w714065870",
@@ -10201,7 +10621,9 @@
       "city": "Long Branch",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w715058887",
@@ -10252,7 +10674,9 @@
       "city": "Deptford Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w716998027",
@@ -10269,7 +10693,9 @@
       "city": "Wenonah",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w716998028",
@@ -10286,7 +10712,9 @@
       "city": "West Deptford Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w716998032",
@@ -10303,7 +10731,9 @@
       "city": "Woodbury Heights",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w719979986",
@@ -10320,7 +10750,9 @@
       "city": "Hillsborough Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w720296436",
@@ -10410,7 +10842,9 @@
       "city": "Englewood",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w733747673",
@@ -10427,7 +10861,9 @@
       "city": "Englewood",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w733747675",
@@ -10548,7 +10984,9 @@
       "city": "Sea Girt",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w735666829",
@@ -10565,7 +11003,9 @@
       "city": "Sea Girt",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w737739074",
@@ -10616,7 +11056,9 @@
       "city": "West Orange",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w741672528",
@@ -10633,7 +11075,9 @@
       "city": "Monroe Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w741673509",
@@ -10650,7 +11094,9 @@
       "city": "Gloucester Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w741673510",
@@ -10667,7 +11113,9 @@
       "city": "Pine Hill",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w741673511",
@@ -10684,7 +11132,9 @@
       "city": "Lindenwold",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w741673512",
@@ -10701,7 +11151,9 @@
       "city": "Lindenwold",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w741673513",
@@ -10718,7 +11170,9 @@
       "city": "Pine Hill",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w741683500",
@@ -10735,7 +11189,9 @@
       "city": "Gloucester Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w741683501",
@@ -10769,7 +11225,9 @@
       "city": "Gloucester Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w741683503",
@@ -10803,7 +11261,9 @@
       "city": "Gloucester Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w741743507",
@@ -10922,7 +11382,9 @@
       "city": "Branchburg Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w757715935",
@@ -10956,7 +11418,9 @@
       "city": "North Brunswick Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w758217687",
@@ -10990,7 +11454,9 @@
       "city": "Hillsborough Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w760570760",
@@ -11024,7 +11490,9 @@
       "city": "Evesham Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w766122903",
@@ -11041,7 +11509,9 @@
       "city": "Evesham Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w771714591",
@@ -11058,7 +11528,9 @@
       "city": "Warren Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w772018456",
@@ -11092,7 +11564,9 @@
       "city": "Palmyra",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w773004863",
@@ -11109,7 +11583,9 @@
       "city": "Palmyra",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w775734180",
@@ -11143,7 +11619,9 @@
       "city": "Vineland",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w777387113",
@@ -11177,7 +11655,9 @@
       "city": "Vineland",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w777388448",
@@ -11194,7 +11674,9 @@
       "city": "Vineland",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w777388449",
@@ -11211,7 +11693,9 @@
       "city": "Vineland",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w777607238",
@@ -11264,7 +11748,9 @@
       "city": "Hanover Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w778433293",
@@ -11315,7 +11801,9 @@
       "city": "Fort Lee",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w780994537",
@@ -11366,7 +11854,9 @@
       "city": "Long Beach Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w781570710",
@@ -11383,7 +11873,9 @@
       "city": "Long Beach Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w782388840",
@@ -11451,7 +11943,9 @@
       "city": "Long Beach Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w785455110",
@@ -11468,7 +11962,9 @@
       "city": "Long Beach Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w785455147",
@@ -11485,7 +11981,9 @@
       "city": "Long Beach Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w785471210",
@@ -11519,7 +12017,9 @@
       "city": "Long Beach Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w785898714",
@@ -11536,7 +12036,9 @@
       "city": "Long Beach Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w785986366",
@@ -11553,7 +12055,9 @@
       "city": "Long Beach Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-r14001706",
@@ -11623,7 +12127,9 @@
       "city": "Margate City",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w788069195",
@@ -11657,7 +12163,9 @@
       "city": "Harding Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w791109171",
@@ -11708,7 +12216,9 @@
       "city": "Colts Neck Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w791425593",
@@ -11725,7 +12235,9 @@
       "city": "Long Branch",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w791425597",
@@ -11759,7 +12271,9 @@
       "city": "Cinnaminson Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w793370036",
@@ -11776,7 +12290,9 @@
       "city": "Cinnaminson Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w793633036",
@@ -11810,7 +12326,9 @@
       "city": "Fort Lee",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w794827600",
@@ -11827,7 +12345,9 @@
       "city": "Cape May",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w796600391",
@@ -11895,7 +12415,9 @@
       "city": "Fort Lee",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w799415816",
@@ -11912,7 +12434,9 @@
       "city": "East Brunswick Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w800126793",
@@ -11946,7 +12470,9 @@
       "city": "West Cape May",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w801942173",
@@ -11963,7 +12489,9 @@
       "city": "Lower Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w804069031",
@@ -11997,7 +12525,9 @@
       "city": "North Wildwood",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w805014179",
@@ -12082,7 +12612,9 @@
       "city": "Old Bridge Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w809876944",
@@ -12135,7 +12667,9 @@
       "city": "Hamilton Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w810374174",
@@ -12186,7 +12720,9 @@
       "city": "Cliffside Park",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w819635000",
@@ -12254,7 +12790,9 @@
       "city": "Evesham Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w822889770",
@@ -12659,7 +13197,9 @@
       "city": "Montgomery Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w844355110",
@@ -12744,7 +13284,9 @@
       "city": "Montgomery Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w862849228",
@@ -12795,7 +13337,9 @@
       "city": "Little Egg Harbor Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w868429878",
@@ -12812,7 +13356,9 @@
       "city": "Burlington Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w872026618",
@@ -12829,7 +13375,9 @@
       "city": "Marlboro Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w873110680",
@@ -12846,7 +13394,9 @@
       "city": "Barnegat Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w874024816",
@@ -12863,7 +13413,9 @@
       "city": "West Windsor",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w876215364",
@@ -12880,7 +13432,9 @@
       "city": "Bernards Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w877604040",
@@ -12950,7 +13504,9 @@
       "city": "Union",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w884523282",
@@ -13001,7 +13557,9 @@
       "city": "Sea Bright",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w886756974",
@@ -13018,7 +13576,9 @@
       "city": "Sea Bright",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w886756990",
@@ -13035,7 +13595,9 @@
       "city": "Sea Bright",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w890333535",
@@ -13052,7 +13614,9 @@
       "city": "Highlands",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w890521041",
@@ -13139,7 +13703,9 @@
       "city": "Point Pleasant",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w892090802",
@@ -13175,7 +13741,9 @@
       "city": "Summit",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w893424011",
@@ -13262,7 +13830,9 @@
       "city": "Evesham Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w896358327",
@@ -13449,7 +14019,9 @@
       "city": "Howell Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w902671147",
@@ -13500,7 +14072,9 @@
       "city": "Point Pleasant",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w905667670",
@@ -13587,7 +14161,9 @@
       "city": "Mendham Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w910409628",
@@ -13604,7 +14180,9 @@
       "city": "Wayne",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w910921828",
@@ -13638,7 +14216,9 @@
       "city": "Ocean City",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w911563321",
@@ -13674,7 +14254,9 @@
       "city": "Mendham Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w912267002",
@@ -13780,7 +14362,9 @@
       "city": "Allamuchy Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w917559307",
@@ -13814,7 +14398,9 @@
       "city": "Prospect Park",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w917559523",
@@ -13882,7 +14468,9 @@
       "city": "Morristown",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w918380990",
@@ -13899,7 +14487,9 @@
       "city": "Haledon",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w918484436",
@@ -13933,7 +14523,9 @@
       "city": "West Windsor",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w921334297",
@@ -13967,7 +14559,9 @@
       "city": "Old Bridge Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w922084330",
@@ -13984,7 +14578,9 @@
       "city": "West Windsor",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w925295459",
@@ -14001,7 +14597,9 @@
       "city": "West Windsor",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w926204405",
@@ -14105,7 +14703,9 @@
       "city": "Woodbine",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w933434166",
@@ -14139,7 +14739,9 @@
       "city": "Middletown Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w935540003",
@@ -14207,7 +14809,9 @@
       "city": "Harding Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w935904026",
@@ -14224,7 +14828,9 @@
       "city": "Harding Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w936233073",
@@ -14258,7 +14864,9 @@
       "city": "Egg Harbor Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w941987799",
@@ -14294,7 +14902,9 @@
       "city": "Rocky Hill",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w944376304",
@@ -14311,7 +14921,9 @@
       "city": "North Brunswick Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w944378522",
@@ -14328,7 +14940,9 @@
       "city": "South Brunswick",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w945261646",
@@ -14396,7 +15010,9 @@
       "city": "Hamilton Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w946031948",
@@ -14413,7 +15029,9 @@
       "city": "Summit",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w946031949",
@@ -14430,7 +15048,9 @@
       "city": "Summit",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w946031950",
@@ -14447,7 +15067,9 @@
       "city": "Summit",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w946552600",
@@ -14532,7 +15154,9 @@
       "city": "Kearny",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w948841305",
@@ -14566,7 +15190,9 @@
       "city": "Wayne",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w949469578",
@@ -14583,7 +15209,9 @@
       "city": "Irvington",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w949487300",
@@ -14617,7 +15245,9 @@
       "city": "Barnegat Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w949831020",
@@ -14702,7 +15332,9 @@
       "city": "Jackson Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w951440404",
@@ -14857,7 +15489,9 @@
       "city": "Lawrence Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w953586328",
@@ -14874,7 +15508,9 @@
       "city": "Oceanport",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w953635178",
@@ -14961,7 +15597,9 @@
       "city": "Englewood",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w954690914",
@@ -14978,7 +15616,9 @@
       "city": "Mahwah",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w954840864",
@@ -15133,7 +15773,9 @@
       "city": "Montgomery Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w963380423",
@@ -15150,7 +15792,9 @@
       "city": "Montgomery Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w964353577",
@@ -15167,7 +15811,9 @@
       "city": "Howell Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w965225362",
@@ -15237,7 +15883,9 @@
       "city": "Barnegat Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w967870666",
@@ -15254,7 +15902,9 @@
       "city": "Barnegat Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w967921887",
@@ -15271,7 +15921,9 @@
       "city": "Northvale",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w968234353",
@@ -15339,7 +15991,9 @@
       "city": "Avon-by-the-Sea",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w968311226",
@@ -15356,7 +16010,9 @@
       "city": "Mantua Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w968312826",
@@ -15477,7 +16133,9 @@
       "city": "Mahwah",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w971822597",
@@ -15494,7 +16152,9 @@
       "city": "Hamilton Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w971823584",
@@ -15562,7 +16222,9 @@
       "city": "Neptune City",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w972713483",
@@ -15598,7 +16260,9 @@
       "city": "Long Beach Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w972714984",
@@ -15615,7 +16279,9 @@
       "city": "Long Beach Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w972716056",
@@ -15632,7 +16298,9 @@
       "city": "Harvey Cedars",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w972716057",
@@ -15649,7 +16317,9 @@
       "city": "Long Beach Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w972728178",
@@ -15683,7 +16353,9 @@
       "city": "Livingston",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w972908894",
@@ -15802,7 +16474,9 @@
       "city": "Cape May",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w979850922",
@@ -15838,7 +16512,9 @@
       "city": "Florham Park",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w983219109",
@@ -15910,7 +16586,9 @@
       "city": "Hopewell Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w986435615",
@@ -15997,7 +16675,9 @@
       "city": "Vineland",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w988392204",
@@ -16082,7 +16762,9 @@
       "city": "Hopewell Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w990943301",
@@ -16099,7 +16781,9 @@
       "city": "Hopewell Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w990987088",
@@ -16116,7 +16800,9 @@
       "city": "Hopewell Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w995012603",
@@ -16150,7 +16836,9 @@
       "city": "Seaside Heights",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w995023408",
@@ -16167,7 +16855,9 @@
       "city": "Pemberton Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w995024884",
@@ -16218,7 +16908,9 @@
       "city": "Manchester Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w995720296",
@@ -16269,7 +16961,9 @@
       "city": "Wantage",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w996500738",
@@ -16337,7 +17031,9 @@
       "city": "Franklin Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w998564375",
@@ -16354,7 +17050,9 @@
       "city": "Sayreville",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w999751442",
@@ -16371,7 +17069,9 @@
       "city": "Stafford Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1000635493",
@@ -16458,7 +17158,9 @@
       "city": "Sayreville",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1006783644",
@@ -16543,7 +17245,9 @@
       "city": "Secaucus",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1015104282",
@@ -16596,7 +17300,9 @@
       "city": "Mount Olive",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1017512652",
@@ -16613,7 +17319,9 @@
       "city": "East Hanover",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1017969779",
@@ -16700,7 +17408,9 @@
       "city": "Princeton",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1025611468",
@@ -16823,7 +17533,9 @@
       "city": "Medford Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1034931009",
@@ -16912,7 +17624,9 @@
       "city": "Hopewell Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1037443068",
@@ -17065,7 +17779,9 @@
       "city": "Princeton",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1039230082",
@@ -17082,7 +17798,9 @@
       "city": "Rockleigh",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1040208232",
@@ -17116,7 +17834,9 @@
       "city": "Allamuchy Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1043357868",
@@ -17186,7 +17906,9 @@
       "city": "Monroe Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1046504675",
@@ -17288,7 +18010,9 @@
       "city": "Old Bridge Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1049990765",
@@ -17390,7 +18114,9 @@
       "city": "Holmdel Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1053420987",
@@ -17407,7 +18133,9 @@
       "city": "Holmdel Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1053420994",
@@ -17458,7 +18186,9 @@
       "city": "Montgomery Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1055662249",
@@ -17475,7 +18205,9 @@
       "city": "Montgomery Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1056543019",
@@ -17596,7 +18328,9 @@
       "city": "Old Bridge Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1066518342",
@@ -17666,7 +18400,9 @@
       "city": "Upper Freehold Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1067633512",
@@ -17700,7 +18436,9 @@
       "city": "Scotch Plains",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1068622656",
@@ -17980,7 +18718,9 @@
       "city": "Avalon",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1077700265",
@@ -18031,7 +18771,9 @@
       "city": "Piscataway Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1080828673",
@@ -18082,7 +18824,9 @@
       "city": "Ocean Gate",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1082769390",
@@ -18099,7 +18843,9 @@
       "city": "Mansfield Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1082966337",
@@ -18220,7 +18966,9 @@
       "city": "Jersey City",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1086818742",
@@ -18276,7 +19024,9 @@
       "city": "Medford Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1089983020",
@@ -18431,7 +19181,9 @@
       "city": "Barnegat Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1097308174",
@@ -18465,7 +19217,9 @@
       "city": "Shamong Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1098342137",
@@ -18482,7 +19236,9 @@
       "city": "Rockaway Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1098670431",
@@ -18569,7 +19325,9 @@
       "city": "West Windsor",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1111532712",
@@ -18603,7 +19361,9 @@
       "city": "Delran Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1113472832",
@@ -18620,7 +19380,9 @@
       "city": "Little Egg Harbor Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1115336987",
@@ -18690,7 +19452,9 @@
       "city": "Lower Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1118801766",
@@ -18724,7 +19488,9 @@
       "city": "West Orange",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1122056701",
@@ -18741,7 +19507,9 @@
       "city": "West Orange",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1122062195",
@@ -18758,7 +19526,9 @@
       "city": "West Orange",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1122118069",
@@ -18794,7 +19564,9 @@
       "city": "Cedar Grove",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1123214505",
@@ -18811,7 +19583,9 @@
       "city": "Montclair",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1124492276",
@@ -18862,7 +19636,9 @@
       "city": "Little Egg Harbor Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1126095028",
@@ -18879,7 +19655,9 @@
       "city": "Montclair",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1126122321",
@@ -18913,7 +19691,9 @@
       "city": "Smithville",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1126592079",
@@ -18930,7 +19710,9 @@
       "city": "Port Republic",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1126603322",
@@ -18947,7 +19729,9 @@
       "city": "Port Republic",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1132346537",
@@ -18964,7 +19748,9 @@
       "city": "Old Bridge Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1137630046",
@@ -19102,7 +19888,9 @@
       "city": "Clifton",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1147732858",
@@ -19223,7 +20011,9 @@
       "city": "Gloucester Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1155720823",
@@ -19240,7 +20030,9 @@
       "city": "Montgomery Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1155808126",
@@ -19274,7 +20066,9 @@
       "city": "Woodstown",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1157697656",
@@ -19308,7 +20102,9 @@
       "city": "Washington Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1160954701",
@@ -19359,7 +20155,9 @@
       "city": "Princeton",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1163746048",
@@ -19376,7 +20174,9 @@
       "city": "Princeton",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1163746058",
@@ -19393,7 +20193,9 @@
       "city": "Princeton",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1163746066",
@@ -19410,7 +20212,9 @@
       "city": "Princeton",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1163746073",
@@ -19427,7 +20231,9 @@
       "city": "Princeton",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1163746075",
@@ -19444,7 +20250,9 @@
       "city": "Princeton",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1163746641",
@@ -19478,7 +20286,9 @@
       "city": "Robbinsville Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1165302434",
@@ -19495,7 +20305,9 @@
       "city": "Medford Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1166009086",
@@ -19512,7 +20324,9 @@
       "city": "Allenhurst",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1167144586",
@@ -19546,7 +20360,9 @@
       "city": "Middletown Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1169220338",
@@ -19563,7 +20379,9 @@
       "city": "Long Branch",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1169518828",
@@ -19614,7 +20432,9 @@
       "city": "Closter",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1173176603",
@@ -19752,7 +20572,9 @@
       "city": "Mahwah",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1180702238",
@@ -19769,7 +20591,9 @@
       "city": "Howell Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1182557771",
@@ -19820,7 +20644,9 @@
       "city": "Monroe Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1183842742",
@@ -19871,7 +20697,9 @@
       "city": "Harding Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1185604431",
@@ -19888,7 +20716,9 @@
       "city": "Harding Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1185604455",
@@ -19905,7 +20735,9 @@
       "city": "Harding Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1187912128",
@@ -20026,7 +20858,9 @@
       "city": "Vernon Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1201219961",
@@ -20077,7 +20911,9 @@
       "city": "North Hanover Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1203751028",
@@ -20094,7 +20930,9 @@
       "city": "Vernon Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1204302171",
@@ -20145,7 +20983,9 @@
       "city": "Lawrence Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1207034018",
@@ -20196,7 +21036,9 @@
       "city": "Weymouth Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1207555748",
@@ -20264,7 +21106,9 @@
       "city": "Florham Park",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1211918187",
@@ -20281,7 +21125,9 @@
       "city": "Medford Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1212148059",
@@ -20332,7 +21178,9 @@
       "city": "Middletown Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1220400889",
@@ -20366,7 +21214,9 @@
       "city": "Lacey Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1222884024",
@@ -20383,7 +21233,9 @@
       "city": "Manchester Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1223636124",
@@ -20400,7 +21252,9 @@
       "city": "Totowa",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1224462065",
@@ -20434,7 +21288,9 @@
       "city": "Hamilton Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1235398667",
@@ -20521,7 +21377,9 @@
       "city": "Mount Olive",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1240766460",
@@ -20608,7 +21466,9 @@
       "city": "Millville",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1245413633",
@@ -20625,7 +21485,9 @@
       "city": "Westfield",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1245416445",
@@ -20642,7 +21504,9 @@
       "city": "Westfield",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1245913457",
@@ -20801,7 +21665,9 @@
       "city": "Green Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1271077529",
@@ -20818,7 +21684,9 @@
       "city": "Stanhope",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1271183135",
@@ -20835,7 +21703,9 @@
       "city": "Plainsboro Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1271292844",
@@ -20852,7 +21722,9 @@
       "city": "South Brunswick",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1273273301",
@@ -20869,7 +21741,9 @@
       "city": "Roxbury Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1277941361",
@@ -20903,7 +21777,9 @@
       "city": "Allamuchy Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1280360285",
@@ -20971,7 +21847,9 @@
       "city": "Norwood",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1282061627",
@@ -21005,7 +21883,9 @@
       "city": "Closter",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1282061632",
@@ -21022,7 +21902,9 @@
       "city": "North Bergen",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1283375785",
@@ -21129,7 +22011,9 @@
       "city": "Alpine",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1291601270",
@@ -21146,7 +22030,9 @@
       "city": "Alpine",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1291601271",
@@ -21163,7 +22049,9 @@
       "city": "Alpine",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1291601272",
@@ -21180,7 +22068,9 @@
       "city": "Alpine",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1291601273",
@@ -21197,7 +22087,9 @@
       "city": "Alpine",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1291601276",
@@ -21214,7 +22106,9 @@
       "city": "Alpine",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1291601281",
@@ -21231,7 +22125,9 @@
       "city": "Alpine",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1291601282",
@@ -21248,7 +22144,9 @@
       "city": "Alpine",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1291601283",
@@ -21299,7 +22197,9 @@
       "city": "Alpine",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1291601289",
@@ -21316,7 +22216,9 @@
       "city": "Alpine",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1291601291",
@@ -21333,7 +22235,9 @@
       "city": "Alpine",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1291602040",
@@ -21350,7 +22254,9 @@
       "city": "Alpine",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1291602042",
@@ -21384,7 +22290,9 @@
       "city": "Norwood",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1293467112",
@@ -21435,7 +22343,9 @@
       "city": "Lincoln Park",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1302159961",
@@ -21452,7 +22362,9 @@
       "city": "Lopatcong Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1302159970",
@@ -21486,7 +22398,9 @@
       "city": "Ringwood",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1302377659",
@@ -21520,7 +22434,9 @@
       "city": "Florence Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1302540486",
@@ -21571,7 +22487,9 @@
       "city": "Edgewater",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1303211734",
@@ -21588,7 +22506,9 @@
       "city": "Montville Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1303559180",
@@ -21639,7 +22559,9 @@
       "city": "Jefferson Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1304369946",
@@ -21656,7 +22578,9 @@
       "city": "Hopatcong",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1305106712",
@@ -21741,7 +22665,9 @@
       "city": "Washington Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1309206462",
@@ -21860,7 +22786,9 @@
       "city": "Howell Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1318152679",
@@ -21966,7 +22894,9 @@
       "city": "White Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1319394421",
@@ -22036,7 +22966,9 @@
       "city": "Hamilton Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1321502664",
@@ -22053,7 +22985,9 @@
       "city": "Alexandria Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1321632239",
@@ -22070,7 +23004,9 @@
       "city": "Medford Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1322411824",
@@ -22087,7 +23023,9 @@
       "city": "Sparta Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1322411849",
@@ -22104,7 +23042,9 @@
       "city": "Andover Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1322412205",
@@ -22121,7 +23061,9 @@
       "city": "Oxford Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1322412323",
@@ -22155,7 +23097,9 @@
       "city": "Hopewell Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1322412631",
@@ -22189,7 +23133,9 @@
       "city": "Hamilton Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1322412980",
@@ -22223,7 +23169,9 @@
       "city": "Bordentown Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1322565416",
@@ -22276,7 +23224,9 @@
       "city": "Mount Olive",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1329507059",
@@ -22293,7 +23243,9 @@
       "city": "Middle Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1329507077",
@@ -22327,7 +23279,9 @@
       "city": "Stafford Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1331114062",
@@ -22344,7 +23298,9 @@
       "city": "Carneys Point Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1331114103",
@@ -22361,7 +23317,9 @@
       "city": "Greenwich Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1331114104",
@@ -22378,7 +23336,9 @@
       "city": "Shiloh",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1331114106",
@@ -22395,7 +23355,9 @@
       "city": "Buena Vista Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1331114110",
@@ -22412,7 +23374,9 @@
       "city": "Hamilton Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1332093517",
@@ -22429,7 +23393,9 @@
       "city": "Chester Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1332136305",
@@ -22482,7 +23448,9 @@
       "city": "Hamilton Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334462650",
@@ -22567,7 +23535,9 @@
       "city": "Fairfield Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1344481686",
@@ -22584,7 +23554,9 @@
       "city": "Upper Deerfield Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1348068074",
@@ -22618,7 +23590,9 @@
       "city": "Hainesport Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1348318899",
@@ -22754,7 +23728,9 @@
       "city": "Pennsauken Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356807011",
@@ -22771,7 +23747,9 @@
       "city": "Old Bridge Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356848797",
@@ -22822,7 +23800,9 @@
       "city": "Tinton Falls",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1370425123",
@@ -22839,7 +23819,9 @@
       "city": "Westampton Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1370430023",
@@ -22856,7 +23838,9 @@
       "city": "Monmouth Beach",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1377222803",
@@ -22873,7 +23857,9 @@
       "city": "Cherry Hill Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1380329790",
@@ -23011,7 +23997,9 @@
       "city": "Readington Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1388126754",
@@ -23028,7 +24016,9 @@
       "city": "Princeton",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1388389386",
@@ -23062,7 +24052,9 @@
       "city": "Princeton",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1389951822",
@@ -23079,7 +24071,9 @@
       "city": "Monroe Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1391431306",
@@ -23130,7 +24124,9 @@
       "city": "Readington Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1394561706",
@@ -23164,7 +24160,9 @@
       "city": "New Milford",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1394562847",
@@ -23181,7 +24179,9 @@
       "city": "Parsippany-Troy Hills",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1394563069",
@@ -23198,7 +24198,9 @@
       "city": "Denville",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1394563212",
@@ -23215,7 +24217,9 @@
       "city": "Rockaway Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1394564396",
@@ -23283,7 +24287,9 @@
       "city": "Washington Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1414299362",
@@ -23334,7 +24340,9 @@
       "city": "Bordentown Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1417272661",
@@ -23351,7 +24359,9 @@
       "city": "Long Branch",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1417273442",
@@ -23404,7 +24414,9 @@
       "city": "Brick Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1421451897",
@@ -23472,7 +24484,9 @@
       "city": "Piscataway Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1429272815",
@@ -23489,7 +24503,9 @@
       "city": "North Brunswick Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1430400916",
@@ -23610,7 +24626,9 @@
       "city": "Old Bridge Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1434377891",
@@ -23697,7 +24715,9 @@
       "city": "Parsippany-Troy Hills",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1434532449",
@@ -23731,7 +24751,9 @@
       "city": "Long Beach Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1434985326",
@@ -23816,7 +24838,9 @@
       "city": "Edison",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442211771",
@@ -23867,7 +24891,9 @@
       "city": "Orange",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442367953",
@@ -23920,7 +24946,9 @@
       "city": "West Orange",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443064080",
@@ -23988,7 +25016,9 @@
       "city": "Dunellen",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443563680",
@@ -24022,7 +25052,9 @@
       "city": "Summit",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443837850",
@@ -24073,7 +25105,9 @@
       "city": "Lawrence Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1444012237",
@@ -24124,7 +25158,9 @@
       "city": "Jefferson Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1445507716",
@@ -24158,7 +25194,9 @@
       "city": "Livingston",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446043833",
@@ -24243,7 +25281,9 @@
       "city": "Cinnaminson Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446120841",
@@ -24277,7 +25317,9 @@
       "city": "Delran Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446120849",
@@ -24294,7 +25336,9 @@
       "city": "Edgewater Park Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446120852",
@@ -24311,7 +25355,9 @@
       "city": "Edgewater Park Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446120854",
@@ -24345,7 +25391,9 @@
       "city": "Edgewater Park Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446120856",
@@ -24396,7 +25444,9 @@
       "city": "Watchung",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446120861",
@@ -24413,7 +25463,9 @@
       "city": "Watchung",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446120862",
@@ -24447,7 +25499,9 @@
       "city": "Summit",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446120870",
@@ -24500,7 +25554,9 @@
       "city": "Short Hills",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446120874",
@@ -24517,7 +25573,9 @@
       "city": "Short Hills",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446120875",
@@ -24534,7 +25592,9 @@
       "city": "Short Hills",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446120876",
@@ -24551,7 +25611,9 @@
       "city": "Short Hills",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446120877",
@@ -24568,7 +25630,9 @@
       "city": "Livingston",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446120879",
@@ -24585,7 +25649,9 @@
       "city": "Livingston",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446120880",
@@ -24602,7 +25668,9 @@
       "city": "Livingston",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446120881",
@@ -24636,7 +25704,9 @@
       "city": "Livingston",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446120892",
@@ -24653,7 +25723,9 @@
       "city": "Livingston",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446120893",
@@ -24670,7 +25742,9 @@
       "city": "Livingston",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446120894",
@@ -24687,7 +25761,9 @@
       "city": "Livingston",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446120895",
@@ -24704,7 +25780,9 @@
       "city": "Livingston",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446120896",
@@ -24721,7 +25799,9 @@
       "city": "West Orange",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446120898",
@@ -24738,7 +25818,9 @@
       "city": "Short Hills",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446120900",
@@ -24874,7 +25956,9 @@
       "city": "Peapack-Gladstone",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1452085468",
@@ -24891,7 +25975,9 @@
       "city": "Springfield",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1452237341",
@@ -24927,7 +26013,9 @@
       "city": "Manchester Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1455049656",
@@ -24944,7 +26032,9 @@
       "city": "North Caldwell",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1456809190",
@@ -24978,7 +26068,9 @@
       "city": "Franklin Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1459142206",
@@ -24995,7 +26087,9 @@
       "city": "Franklin Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1460364391",
@@ -25048,7 +26142,9 @@
       "city": "Cherry Hill Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1462493967",
@@ -25169,7 +26265,9 @@
       "city": "Lawrence Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1463526953",
@@ -25203,7 +26301,9 @@
       "city": "Lawrence Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1463927284",
@@ -25220,7 +26320,9 @@
       "city": "Upper Freehold Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1464071573",
@@ -25237,7 +26339,9 @@
       "city": "Mahwah",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1465784556",
@@ -25254,7 +26358,9 @@
       "city": "Morris Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1466128659",
@@ -25271,7 +26377,9 @@
       "city": "Mahwah",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1466128661",
@@ -25288,7 +26396,9 @@
       "city": "Mahwah",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1466535024",
@@ -25305,7 +26415,9 @@
       "city": "Hopewell Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1466601422",
@@ -25322,7 +26434,9 @@
       "city": "Hopewell Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1467159190",
@@ -25339,7 +26453,9 @@
       "city": "Hopewell Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1467181403",
@@ -25373,7 +26489,9 @@
       "city": "Dennis Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1467468233",
@@ -25390,7 +26508,9 @@
       "city": "Hopewell Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1467481133",
@@ -25458,7 +26578,9 @@
       "city": "Cherry Hill Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1467481811",
@@ -25492,7 +26614,9 @@
       "city": "Hopewell Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1467694140",
@@ -25509,7 +26633,9 @@
       "city": "Hopewell Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471484614",
@@ -25628,7 +26754,9 @@
       "city": "Mount Laurel Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474554109",
@@ -25664,7 +26792,9 @@
       "city": "Moorestown Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474556336",
@@ -25681,7 +26811,9 @@
       "city": "Cherry Hill Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474561909",
@@ -25698,7 +26830,9 @@
       "city": "Cherry Hill Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474568220",
@@ -25715,7 +26849,9 @@
       "city": "Cherry Hill Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474568343",
@@ -25732,7 +26868,9 @@
       "city": "Cherry Hill Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474625436",
@@ -25804,7 +26942,9 @@
       "city": "Mahwah",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474957919",
@@ -25821,7 +26961,9 @@
       "city": "Stratford",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474965928",
@@ -25925,7 +27067,9 @@
       "city": "Middletown Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1475157119",
@@ -25942,7 +27086,9 @@
       "city": "Monmouth Beach",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1475157124",
@@ -25959,7 +27105,9 @@
       "city": "Monmouth Beach",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1475157131",
@@ -26029,7 +27177,9 @@
       "city": "Deptford Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1479964343",
@@ -26080,7 +27230,9 @@
       "city": "Wyckoff",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1479964512",
@@ -26114,7 +27266,9 @@
       "city": "Mahwah",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1479964849",
@@ -26131,7 +27285,9 @@
       "city": "Mahwah",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1479964926",
@@ -26148,7 +27304,9 @@
       "city": "Mahwah",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1484205200",
@@ -26165,7 +27323,9 @@
       "city": "Bridgewater Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1485722272",
@@ -26199,7 +27359,9 @@
       "city": "Long Beach Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1485723796",
@@ -26233,7 +27395,9 @@
       "city": "Smithville",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1485727407",
@@ -26250,7 +27414,9 @@
       "city": "Smithville",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1485727733",
@@ -26267,7 +27433,9 @@
       "city": "Smithville",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1485728599",
@@ -26405,7 +27573,9 @@
       "city": "Cherry Hill Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1487685344",
@@ -26422,7 +27592,9 @@
       "city": "Raritan Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1488635912",
@@ -26456,7 +27628,9 @@
       "city": "Morris Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1489779880",
@@ -26526,7 +27700,9 @@
       "city": "Millville",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1491013588",
@@ -26543,7 +27719,9 @@
       "city": "Marlboro Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1491343190",
@@ -26577,7 +27755,9 @@
       "city": "Clark",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1491738336",
@@ -26628,7 +27808,9 @@
       "city": "Maplewood",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1491957722",
@@ -26683,7 +27865,9 @@
       "city": "Woodbridge Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492361323",
@@ -26700,7 +27884,9 @@
       "city": "Woodbridge Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492371795",
@@ -26734,7 +27920,9 @@
       "city": "Woodbridge Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492389744",
@@ -26768,7 +27956,9 @@
       "city": "Edison",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492420609",
@@ -26785,7 +27975,9 @@
       "city": "Edison",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492421419",
@@ -26870,7 +28062,9 @@
       "city": "Long Hill Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1493246740",
@@ -26906,7 +28100,9 @@
       "city": "Bernards Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1493276150",
@@ -26923,7 +28119,9 @@
       "city": "Bernards Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1493294350",
@@ -26940,7 +28138,9 @@
       "city": "Howell Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1493294552",
@@ -26974,7 +28174,9 @@
       "city": "Lower Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1493308856",
@@ -27008,7 +28210,9 @@
       "city": "Bernards Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1493562619",
@@ -27025,7 +28229,9 @@
       "city": "Bernards Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1493845937",
@@ -27059,7 +28265,9 @@
       "city": "Raritan",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1493860826",
@@ -27076,7 +28284,9 @@
       "city": "Bridgewater Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1493860967",
@@ -27093,7 +28303,9 @@
       "city": "Bridgewater Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1493914459",
@@ -27161,7 +28373,9 @@
       "city": "Upper Saddle River",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1495065019",
@@ -27178,7 +28392,9 @@
       "city": "West Deptford Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1495854664",
@@ -27212,7 +28428,9 @@
       "city": "Irvington",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1495902877",
@@ -27246,7 +28464,9 @@
       "city": "Manchester Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1497089155",
@@ -27297,7 +28517,9 @@
       "city": "Vernon Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1497945984",
@@ -27331,7 +28553,9 @@
       "city": "North Brunswick Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1498064069",
@@ -27367,7 +28591,9 @@
       "city": "Chesterfield Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1498064593",
@@ -27420,7 +28646,9 @@
       "city": "Brick Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1499065972",
@@ -27507,7 +28735,9 @@
       "city": "Upper Pittsgrove Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1499690242",
@@ -27972,7 +29202,9 @@
       "city": "Rockaway Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1504268169",
@@ -27989,7 +29221,9 @@
       "city": "Franklin Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1504270905",
@@ -28006,7 +29240,9 @@
       "city": "Mountainside",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1504271794",
@@ -28057,7 +29293,9 @@
       "city": "Franklin Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1504735410",
@@ -28074,7 +29312,9 @@
       "city": "East Brunswick Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1504736052",
@@ -28091,7 +29331,9 @@
       "city": "Maurice River Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1504737400",
@@ -28108,7 +29350,9 @@
       "city": "Mahwah",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1505064323",
@@ -28193,7 +29437,9 @@
       "city": "Plainsboro Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1507526009",
@@ -28227,7 +29473,9 @@
       "city": "North Brunswick Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1507529414",
@@ -28329,7 +29577,9 @@
       "city": "Glen Rock",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1508189713",
@@ -28346,7 +29596,9 @@
       "city": "Westwood",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1508189808",
@@ -28416,7 +29668,9 @@
       "city": "Dumont",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1508202064",
@@ -28622,7 +29876,9 @@
       "city": "Sea Isle City",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1511624978",
@@ -28673,7 +29929,9 @@
       "city": "Hopewell Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1511652568",
@@ -28690,7 +29948,9 @@
       "city": "Vineland",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1511655537",
@@ -28760,7 +30020,9 @@
       "city": "Branchville",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1513859097",
@@ -28777,7 +30039,9 @@
       "city": "Frankford Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1513859186",
@@ -28794,7 +30058,9 @@
       "city": "Hardyston Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1513862916",
@@ -28828,7 +30094,9 @@
       "city": "Washington Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1513863794",
@@ -28896,7 +30164,9 @@
       "city": "Ocean Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1514612443",
@@ -29000,7 +30270,9 @@
       "city": "Piscataway Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1516160075",
@@ -29034,7 +30306,9 @@
       "city": "Franklin Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1516162712",
@@ -29104,7 +30378,9 @@
       "city": "Allendale",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1516163416",
@@ -29261,7 +30537,9 @@
       "city": "West Orange",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1516167072",
@@ -29490,7 +30768,9 @@
       "city": "Deptford Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1521599524",
@@ -29526,7 +30806,9 @@
       "city": "Lumberton Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1521619314",
@@ -29543,7 +30825,9 @@
       "city": "Evesham Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1521620160",
@@ -29560,7 +30844,9 @@
       "city": "Evesham Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1521620732",
@@ -29577,7 +30863,9 @@
       "city": "Evesham Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1521928869",
@@ -29662,7 +30950,9 @@
       "city": "Piscataway Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1521966287",
@@ -29679,7 +30969,9 @@
       "city": "Metuchen",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1522807694",
@@ -29953,7 +31245,9 @@
       "city": "Pennsauken Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1523177004",
@@ -30042,7 +31336,9 @@
       "city": "Camden",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1523863980",
@@ -30076,7 +31372,9 @@
       "city": "Holmdel Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524007090",
@@ -30110,7 +31408,9 @@
       "city": "East Windsor Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524007120",
@@ -30195,7 +31495,9 @@
       "city": "South Brunswick",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524007847",
@@ -30314,7 +31616,9 @@
       "city": "Franklin Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524009624",
@@ -30416,7 +31720,9 @@
       "city": "Raritan Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524012345",
@@ -30433,7 +31739,9 @@
       "city": "Raritan Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524012474",
@@ -30467,7 +31775,9 @@
       "city": "Raritan Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524012612",
@@ -30484,7 +31794,9 @@
       "city": "Raritan Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524012661",
@@ -30535,7 +31847,9 @@
       "city": "West Windsor",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524018220",
@@ -30654,7 +31968,9 @@
       "city": "Bridgewater Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524815711",
@@ -30705,7 +32021,9 @@
       "city": "South Brunswick",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1525386775",
@@ -30722,7 +32040,9 @@
       "city": "Upper Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1525457267",
@@ -30756,7 +32076,9 @@
       "city": "Union",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1525649415",
@@ -30773,7 +32095,9 @@
       "city": "Middle Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526271619",
@@ -30807,7 +32131,9 @@
       "city": "Middle Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526272303",
@@ -30824,7 +32150,9 @@
       "city": "Plainsboro Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526315677",
@@ -30858,7 +32186,9 @@
       "city": "Clinton Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526323380",
@@ -30892,7 +32222,9 @@
       "city": "Cape May Court House",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526642799",
@@ -30909,7 +32241,9 @@
       "city": "North Brunswick Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526642892",
@@ -30926,7 +32260,9 @@
       "city": "Dennis Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526669684",
@@ -30943,7 +32279,9 @@
       "city": "Bedminster Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526670200",
@@ -30960,7 +32298,9 @@
       "city": "Bridgewater Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526672039",
@@ -30977,7 +32317,9 @@
       "city": "Deptford Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1529430696",
@@ -30994,7 +32336,9 @@
       "city": "Ridgefield Park",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1536187604",
@@ -31117,7 +32461,9 @@
       "city": "South Amboy",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1539793140",
@@ -31134,7 +32480,9 @@
       "city": "Old Bridge Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1539794076",
@@ -31168,7 +32516,9 @@
       "city": "Old Bridge Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1539794893",
@@ -31202,7 +32552,9 @@
       "city": "Millstone Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1539796615",
@@ -31304,7 +32656,9 @@
       "city": "Monroe Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1539804395",
@@ -31529,7 +32883,9 @@
       "city": "South Brunswick",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1540059271",
@@ -31597,7 +32953,9 @@
       "city": "Bridgewater Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1540061630",
@@ -31682,7 +33040,9 @@
       "city": "Denville",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1546836683",
@@ -31699,7 +33059,9 @@
       "city": "Florham Park",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1547346274",
@@ -31733,7 +33095,9 @@
       "city": "Denville",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551560330",
@@ -31767,7 +33131,9 @@
       "city": "Jersey City",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552142349",
@@ -31818,7 +33184,9 @@
       "city": "Teaneck Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-r12449793",

@@ -157,7 +157,9 @@
       "city": "St. Landry Parish",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w234727503",
@@ -174,7 +176,9 @@
       "city": "Baton Rouge",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w234727622",
@@ -227,7 +231,9 @@
       "city": "Arnaudville",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w291431222",
@@ -280,7 +286,9 @@
       "city": "Bossier City",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w293486349",
@@ -297,7 +305,9 @@
       "city": "Bossier City",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w300927861",
@@ -416,7 +426,9 @@
       "city": "New Orleans",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w326406041",
@@ -488,7 +500,9 @@
       "city": "New Orleans",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w358223548",
@@ -505,7 +519,9 @@
       "city": "New Orleans",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w358916248",
@@ -522,7 +538,9 @@
       "city": "New Orleans",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w364965231",
@@ -609,7 +627,9 @@
       "city": "Hammond",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w365563600",
@@ -626,7 +646,9 @@
       "city": "Tangipahoa Parish",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w366031248",
@@ -857,7 +879,9 @@
       "city": "Destrehan",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w427248707",
@@ -929,7 +953,9 @@
       "city": "Covington",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w437304144",
@@ -963,7 +989,9 @@
       "city": "Covington",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w437569609",
@@ -999,7 +1027,9 @@
       "city": "Alexandria",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w443272102",
@@ -1260,7 +1290,9 @@
       "city": "Lutcher",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w486671562",
@@ -1345,7 +1377,9 @@
       "city": "Welsh",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w489189518",
@@ -1498,7 +1532,9 @@
       "city": "Baton Rouge",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w501443332",
@@ -1515,7 +1551,9 @@
       "city": "Shreveport",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w532818753",
@@ -1532,7 +1570,9 @@
       "city": "Kenner",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w532818871",
@@ -1549,7 +1589,9 @@
       "city": "Kenner",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w537023522",
@@ -1653,7 +1695,9 @@
       "city": "Houma",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w599067424",
@@ -1704,7 +1748,9 @@
       "city": "Scott",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w608186360",
@@ -1721,7 +1767,9 @@
       "city": "West Feliciana Parish",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1175150998",
@@ -1908,7 +1956,9 @@
       "city": "St. Tammany Parish",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w673452495",
@@ -2082,7 +2132,9 @@
       "city": "New Orleans",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w803110249",
@@ -2099,7 +2151,9 @@
       "city": "Baton Rouge",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w827391230",
@@ -2150,7 +2204,9 @@
       "city": "New Orleans",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w829065983",
@@ -2167,7 +2223,9 @@
       "city": "Metairie",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w832595705",
@@ -2235,7 +2293,9 @@
       "city": "Shreveport",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w866130561",
@@ -2286,7 +2346,9 @@
       "city": "Crowley",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w900221112",
@@ -2354,7 +2416,9 @@
       "city": "Saint George",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w917646437",
@@ -2422,7 +2486,9 @@
       "city": "New Orleans",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w921448771",
@@ -2649,7 +2715,9 @@
       "city": "Shreveport",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1018413586",
@@ -2825,7 +2893,9 @@
       "city": "Dulac",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1072537973",
@@ -2859,7 +2929,9 @@
       "city": "Luling",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084387517",
@@ -2929,7 +3001,9 @@
       "city": "Tallulah",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1093935698",
@@ -3037,7 +3111,9 @@
       "city": "Mandeville",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1118356568",
@@ -3071,7 +3147,9 @@
       "city": "Shreveport",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1119878899",
@@ -3088,7 +3166,9 @@
       "city": "Shreveport",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1119884187",
@@ -3105,7 +3185,9 @@
       "city": "Shreveport",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1119949846",
@@ -3139,7 +3221,9 @@
       "city": "Mandeville",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1119979789",
@@ -3211,7 +3295,9 @@
       "city": "Schriever",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1122673144",
@@ -3228,7 +3314,9 @@
       "city": "St. Tammany Parish",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1133385176",
@@ -3245,7 +3333,9 @@
       "city": "East Carroll Parish",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1143797902",
@@ -3279,7 +3369,9 @@
       "city": "Bienville Parish",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1181068415",
@@ -3347,7 +3439,9 @@
       "city": "Theriot",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1205352645",
@@ -3436,7 +3530,9 @@
       "city": "Roanoke",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1264360147",
@@ -3453,7 +3549,9 @@
       "city": "Lafayette",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1264360872",
@@ -3557,7 +3655,9 @@
       "city": "Kenner",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1293450780",
@@ -3625,7 +3725,9 @@
       "city": "Fort Johnson South",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1293468355",
@@ -3731,7 +3833,9 @@
       "city": "Vermilion Parish",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1315286378",
@@ -3835,7 +3939,9 @@
       "city": "Amite City",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1318959852",
@@ -3869,7 +3975,9 @@
       "city": "Lafayette",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1321425033",
@@ -3956,7 +4064,9 @@
       "city": "Natalbany",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1322140863",
@@ -3973,7 +4083,9 @@
       "city": "Kentwood",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1322588936",
@@ -4024,7 +4136,9 @@
       "city": "Addis",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1322589669",
@@ -4041,7 +4155,9 @@
       "city": "Rosedale",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1322589820",
@@ -4145,7 +4261,9 @@
       "city": "Lafayette",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1322591021",
@@ -4336,7 +4454,9 @@
       "city": "Vernon Parish",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333177193",
@@ -4353,7 +4473,9 @@
       "city": "Vernon Parish",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333177210",
@@ -4370,7 +4492,9 @@
       "city": "Many",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333415840",
@@ -4387,7 +4511,9 @@
       "city": "Hosston",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333415852",
@@ -4404,7 +4530,9 @@
       "city": "Webster Parish",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333415916",
@@ -4421,7 +4549,9 @@
       "city": "Jonesboro",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333415986",
@@ -4438,7 +4568,9 @@
       "city": "Winnfield",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333416025",
@@ -4455,7 +4587,9 @@
       "city": "Dry Prong",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333416326",
@@ -4472,7 +4606,9 @@
       "city": "Rapides Parish",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333416380",
@@ -4489,7 +4625,9 @@
       "city": "Alexandria",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333416469",
@@ -4506,7 +4644,9 @@
       "city": "Alexandria",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333416519",
@@ -4523,7 +4663,9 @@
       "city": "Marksville",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333416744",
@@ -4557,7 +4699,9 @@
       "city": "Cottonport",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333416818",
@@ -4574,7 +4718,9 @@
       "city": "Cottonport",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333416874",
@@ -4644,7 +4790,9 @@
       "city": "Oakdale",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333423590",
@@ -4712,7 +4860,9 @@
       "city": "Lake Charles",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333476370",
@@ -4763,7 +4913,9 @@
       "city": "Youngsville",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333477158",
@@ -4799,7 +4951,9 @@
       "city": "St. Mary Parish",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333477471",
@@ -4816,7 +4970,9 @@
       "city": "St. Mary Parish",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333477704",
@@ -4833,7 +4989,9 @@
       "city": "Amelia",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333477753",
@@ -4850,7 +5008,9 @@
       "city": "Terrebonne Parish",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333477839",
@@ -4867,7 +5027,9 @@
       "city": "Terrebonne Parish",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333478112",
@@ -4969,7 +5131,9 @@
       "city": "Terrebonne Parish",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333478810",
@@ -4986,7 +5150,9 @@
       "city": "Thibodaux",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333480117",
@@ -5037,7 +5203,9 @@
       "city": "Ouachita Parish",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333494393",
@@ -5054,7 +5222,9 @@
       "city": "Monroe",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333494571",
@@ -5088,7 +5258,9 @@
       "city": "Monroe",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333495023",
@@ -5105,7 +5277,9 @@
       "city": "Saint George",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333495531",
@@ -5139,7 +5313,9 @@
       "city": "White Castle",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333667674",
@@ -5173,7 +5349,9 @@
       "city": "Paincourtville",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333668067",
@@ -5209,7 +5387,9 @@
       "city": "Thibodaux",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333668180",
@@ -5243,7 +5423,9 @@
       "city": "Raceland",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333668282",
@@ -5277,7 +5459,9 @@
       "city": "Lafourche Parish",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333668487",
@@ -5294,7 +5478,9 @@
       "city": "Lockport",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333668579",
@@ -5328,7 +5514,9 @@
       "city": "Belle Amie",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1339617465",
@@ -5362,7 +5550,9 @@
       "city": "Iberville Parish",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1346029077",
@@ -5396,7 +5586,9 @@
       "city": "Ruston",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1347706888",
@@ -5413,7 +5605,9 @@
       "city": "Acadia Parish",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1353195613",
@@ -5447,7 +5641,9 @@
       "city": "Minden",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1355505017",
@@ -5464,7 +5660,9 @@
       "city": "Ferriday",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1355505019",
@@ -5500,7 +5698,9 @@
       "city": "Concordia Parish",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1355507627",
@@ -5517,7 +5717,9 @@
       "city": "East Carroll Parish",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1355507631",
@@ -5534,7 +5736,9 @@
       "city": "East Carroll Parish",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356671463",
@@ -5585,7 +5789,9 @@
       "city": "Richland Parish",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356671809",
@@ -5602,7 +5808,9 @@
       "city": "Richland Parish",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1359888509",
@@ -5636,7 +5844,9 @@
       "city": "Houma",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1379396803",
@@ -5653,7 +5863,9 @@
       "city": "Belle Chasse",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1384796599",
@@ -5689,7 +5901,9 @@
       "city": "Welsh",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1412121941",
@@ -5793,7 +6007,9 @@
       "city": "Baton Rouge",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1416749309",
@@ -5810,7 +6026,9 @@
       "city": "Vidalia",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1416749655",
@@ -5827,7 +6045,9 @@
       "city": "Haynesville",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1417645358",
@@ -5844,7 +6064,9 @@
       "city": "Saint Gabriel",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1429413648",
@@ -5878,7 +6100,9 @@
       "city": "Harvey",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1430923482",
@@ -5967,7 +6191,9 @@
       "city": "Saint Gabriel",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1433495150",
@@ -6054,7 +6280,9 @@
       "city": "Oakdale",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435105341",
@@ -6173,7 +6401,9 @@
       "city": "Mandeville",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443939204",
@@ -6190,7 +6420,9 @@
       "city": "Mandeville",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443939396",
@@ -6224,7 +6456,9 @@
       "city": "Mandeville",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443939543",
@@ -6241,7 +6475,9 @@
       "city": "Mandeville",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443939793",
@@ -6294,7 +6530,9 @@
       "city": "St. Tammany Parish",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446550443",
@@ -6330,7 +6568,9 @@
       "city": "Saint George",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1462495710",
@@ -6347,7 +6587,9 @@
       "city": "St. Tammany Parish",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1462495726",
@@ -6364,7 +6606,9 @@
       "city": "St. Tammany Parish",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1464445258",
@@ -6398,7 +6642,9 @@
       "city": "East Baton Rouge Parish",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1468563878",
@@ -6453,7 +6699,9 @@
       "city": "Houma",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470411288",
@@ -6523,7 +6771,9 @@
       "city": "Lake Charles",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471833499",
@@ -6540,7 +6790,9 @@
       "city": "Beauregard Parish",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471833820",
@@ -6574,7 +6826,9 @@
       "city": "Leesville",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471837773",
@@ -6591,7 +6845,9 @@
       "city": "Mamou",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471837994",
@@ -6918,7 +7174,9 @@
       "city": "Winnsboro",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1472812002",
@@ -6952,7 +7210,9 @@
       "city": "Jonesville",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1472815892",
@@ -6969,7 +7229,9 @@
       "city": "Madison Parish",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1472816698",
@@ -7003,7 +7265,9 @@
       "city": "West Feliciana Parish",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1472816929",
@@ -7020,7 +7284,9 @@
       "city": "St. Francisville",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1472879274",
@@ -7090,7 +7356,9 @@
       "city": "New Orleans",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1472883532",
@@ -7124,7 +7392,9 @@
       "city": "New Orleans",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1472883781",
@@ -7260,7 +7530,9 @@
       "city": "Jefferson Parish",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1472884178",
@@ -7345,7 +7617,9 @@
       "city": "Kenner",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1472884293",
@@ -7517,7 +7791,9 @@
       "city": "Baton Rouge",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1472887109",
@@ -7534,7 +7810,9 @@
       "city": "Baton Rouge",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1472887167",
@@ -7638,7 +7916,9 @@
       "city": "Livingston Parish",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1472892451",
@@ -7825,7 +8105,9 @@
       "city": "Iberia Parish",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1482769121",
@@ -7999,7 +8281,9 @@
       "city": "Fort Johnson South",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1517194695",
@@ -8016,7 +8300,9 @@
       "city": "St. Tammany Parish",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1517233621",
@@ -8084,7 +8370,9 @@
       "city": "St. Tammany Parish",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1530379492",
@@ -8101,7 +8389,9 @@
       "city": "Lake Arthur",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1530380219",
@@ -8169,7 +8459,9 @@
       "city": "West Feliciana Parish",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1530384649",
@@ -8392,7 +8684,9 @@
       "city": "Covington",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1531673765",
@@ -8528,7 +8822,9 @@
       "city": "Baton Rouge",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1531682997",
@@ -8647,7 +8943,9 @@
       "city": "Eunice",
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-r12607733",

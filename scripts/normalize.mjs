@@ -32,6 +32,7 @@ import { readFileSync, writeFileSync, mkdirSync, existsSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { REGIONS } from "./regions.mjs";
+import { flagResidential } from "./residential.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const RAW = join(ROOT, "data", "raw");
@@ -644,6 +645,9 @@ for (const region of REGIONS) {
   // Fill names/addresses from cached Nominatim reverse-geocode responses
   // (runs last: containment-derived names are preferred over street names).
   applyGeocodeCache(slug, facilities, join(RAW, "geocode-cache.json"));
+
+  // Tag still-unnamed 1-2 court facilities as likely backyards (scripts/residential.mjs).
+  console.log(`[${slug}] residential: tagged ${flagResidential(facilities)} likely backyard courts`);
 
   // Strip internal working fields so the output schema stays unchanged.
   for (const f of facilities) delete f._accessExplicit;

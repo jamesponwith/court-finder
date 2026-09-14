@@ -54,7 +54,9 @@
       "city": "Nantucket",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w215964617",
@@ -107,7 +109,9 @@
       "city": "Andover",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w655022245",
@@ -141,7 +145,9 @@
       "city": "Cohasset",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-n13139972527",
@@ -177,7 +183,9 @@
       "city": "Cohasset",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-n13139972544",
@@ -194,7 +202,9 @@
       "city": "Cohasset",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-n13139972545",
@@ -211,7 +221,9 @@
       "city": "Cohasset",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-n13139972547",
@@ -228,7 +240,9 @@
       "city": "Cohasset",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-n13139972548",
@@ -245,7 +259,9 @@
       "city": "Cohasset",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-n13139972549",
@@ -279,7 +295,9 @@
       "city": "Cohasset",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-n13139979713",
@@ -330,7 +348,9 @@
       "city": "Hingham",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-n13139979721",
@@ -347,7 +367,9 @@
       "city": "Hingham",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-n13139979726",
@@ -364,7 +386,9 @@
       "city": "Cohasset",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-n13139979728",
@@ -381,7 +405,9 @@
       "city": "Cohasset",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-n13139979729",
@@ -398,7 +424,9 @@
       "city": "Cohasset",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-n13139979730",
@@ -415,7 +443,9 @@
       "city": "Cohasset",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-n13139979731",
@@ -432,7 +462,9 @@
       "city": "Cohasset",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-n13139979732",
@@ -449,7 +481,9 @@
       "city": "Cohasset",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-n13946612868",
@@ -607,7 +641,9 @@
       "city": "Brookline",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w29637344",
@@ -948,7 +984,9 @@
       "city": "Westfield",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w76796615",
@@ -1050,7 +1088,9 @@
       "city": "Gloucester",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w83331722",
@@ -1173,7 +1213,9 @@
       "city": "Worcester",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w88969986",
@@ -1328,7 +1370,9 @@
       "city": "Worcester",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w95145340",
@@ -1430,7 +1474,9 @@
       "city": "Westborough",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w101674275",
@@ -1447,7 +1493,9 @@
       "city": "Boston",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w102665671",
@@ -1670,7 +1718,9 @@
       "city": "Concord",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w131936840",
@@ -1687,7 +1737,9 @@
       "city": "Concord",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w132601564",
@@ -1723,7 +1775,9 @@
       "city": "Tyngsborough",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w133691385",
@@ -1831,7 +1885,9 @@
       "city": "Tyngsborough",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w136467303",
@@ -1990,7 +2046,9 @@
       "city": "Boston",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w143900773",
@@ -2287,7 +2345,9 @@
       "city": "Provincetown",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w165261620",
@@ -2429,7 +2489,9 @@
       "city": "Acton",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w175112477",
@@ -2556,7 +2618,9 @@
       "city": "Marion",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w195781308",
@@ -2624,7 +2688,9 @@
       "city": "Groton",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w199582265",
@@ -2692,7 +2758,9 @@
       "city": "Swampscott",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w203960349",
@@ -2760,7 +2828,9 @@
       "city": "Swampscott",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w205859631",
@@ -2777,7 +2847,9 @@
       "city": "Acton",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w205859633",
@@ -2794,7 +2866,9 @@
       "city": "Acton",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w208839410",
@@ -2828,7 +2902,9 @@
       "city": "Littleton",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w209242507",
@@ -2883,7 +2959,9 @@
       "city": "Chicopee",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w214151309",
@@ -2920,7 +2998,9 @@
       "city": "Oakham",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w214939444",
@@ -2937,7 +3017,9 @@
       "city": "Orleans",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w216905998",
@@ -3066,7 +3148,9 @@
       "city": "Grafton",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w224963982",
@@ -3083,7 +3167,9 @@
       "city": "Canton",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w226023722",
@@ -3117,7 +3203,9 @@
       "city": "Boston",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w227449434",
@@ -3134,7 +3222,9 @@
       "city": "Rockport",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w228920828",
@@ -3187,7 +3277,9 @@
       "city": "Chatham",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w234933753",
@@ -3204,7 +3296,9 @@
       "city": "Chatham",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w238006851",
@@ -3240,7 +3334,9 @@
       "city": "Oxford",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w248442423",
@@ -3399,7 +3495,9 @@
       "city": "Haverhill",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w252171952",
@@ -3520,7 +3618,9 @@
       "city": "Andover",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w253253831",
@@ -3588,7 +3688,9 @@
       "city": "Oak Bluffs",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w257116529",
@@ -3641,7 +3743,9 @@
       "city": "Pepperell",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w263303939",
@@ -3658,7 +3762,9 @@
       "city": "Tyngsborough",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w263470477",
@@ -3675,7 +3781,9 @@
       "city": "Tyngsborough",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w263470479",
@@ -3709,7 +3817,9 @@
       "city": "Tyngsborough",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w263470484",
@@ -3726,7 +3836,9 @@
       "city": "Tyngsborough",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w263470487",
@@ -3762,7 +3874,9 @@
       "city": "Tyngsborough",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w264546389",
@@ -3779,7 +3893,9 @@
       "city": "Andover",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w264546391",
@@ -3796,7 +3912,9 @@
       "city": "Andover",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w264546393",
@@ -3866,7 +3984,9 @@
       "city": "Williamstown",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w266855562",
@@ -3991,7 +4111,9 @@
       "city": "Westford",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w269776723",
@@ -4008,7 +4130,9 @@
       "city": "Leominster",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w270221075",
@@ -4025,7 +4149,9 @@
       "city": "Haverhill",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w270221078",
@@ -4042,7 +4168,9 @@
       "city": "Haverhill",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w270221081",
@@ -4059,7 +4187,9 @@
       "city": "Methuen",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w270221084",
@@ -4076,7 +4206,9 @@
       "city": "Methuen",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w270221085",
@@ -4093,7 +4225,9 @@
       "city": "Methuen",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w270520967",
@@ -4110,7 +4244,9 @@
       "city": "Harvard",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w270520969",
@@ -4127,7 +4263,9 @@
       "city": "Harvard",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w270521879",
@@ -4144,7 +4282,9 @@
       "city": "Harvard",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w270521883",
@@ -4161,7 +4301,9 @@
       "city": "Harvard",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w270521892",
@@ -4178,7 +4320,9 @@
       "city": "Harvard",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w270521896",
@@ -4195,7 +4339,9 @@
       "city": "Devens",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w270521898",
@@ -4212,7 +4358,9 @@
       "city": "Devens",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w270521900",
@@ -4229,7 +4377,9 @@
       "city": "Harvard",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w270521902",
@@ -4246,7 +4396,9 @@
       "city": "Devens",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w270521909",
@@ -4263,7 +4415,9 @@
       "city": "Harvard",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w270522764",
@@ -4558,7 +4712,9 @@
       "city": "Revere",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1124017905",
@@ -4878,7 +5034,9 @@
       "city": "Swansea",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w309915074",
@@ -6495,7 +6653,9 @@
       "city": "Hopedale",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w326314310",
@@ -6677,7 +6837,9 @@
       "city": "Orleans",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w342544643",
@@ -6694,7 +6856,9 @@
       "city": "Orleans",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w342544644",
@@ -6711,7 +6875,9 @@
       "city": "Orleans",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w342544645",
@@ -6728,7 +6894,9 @@
       "city": "Orleans",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w342544646",
@@ -6745,7 +6913,9 @@
       "city": "Orleans",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w342544648",
@@ -6815,7 +6985,9 @@
       "city": "Ipswich",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w352074700",
@@ -6866,7 +7038,9 @@
       "city": "Dennis",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w356976345",
@@ -6883,7 +7057,9 @@
       "city": "Dennis",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w359209675",
@@ -6955,7 +7131,9 @@
       "city": "Orleans",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w367223714",
@@ -7027,7 +7205,9 @@
       "city": "Chatham",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w370506450",
@@ -7044,7 +7224,9 @@
       "city": "Chatham",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w373164132",
@@ -7131,7 +7313,9 @@
       "city": "Concord",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w377851155",
@@ -7148,7 +7332,9 @@
       "city": "Concord",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w379089717",
@@ -7182,7 +7368,9 @@
       "city": "Westport",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w384394127",
@@ -7216,7 +7404,9 @@
       "city": "Andover",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w384605639",
@@ -7337,7 +7527,9 @@
       "city": "Carlisle",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w411000938",
@@ -7354,7 +7546,9 @@
       "city": "Chilmark",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w411000948",
@@ -7371,7 +7565,9 @@
       "city": "Chilmark",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w413182082",
@@ -7405,7 +7601,9 @@
       "city": "Marlborough",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w414243561",
@@ -7456,7 +7654,9 @@
       "city": "Northbridge",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w415527653",
@@ -7511,7 +7711,9 @@
       "city": "Bedford",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w416644246",
@@ -7528,7 +7730,9 @@
       "city": "Falmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w416644248",
@@ -7545,7 +7749,9 @@
       "city": "Falmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w417839427",
@@ -7596,7 +7802,9 @@
       "city": "Concord",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w418875342",
@@ -7613,7 +7821,9 @@
       "city": "Falmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w419484371",
@@ -7649,7 +7859,9 @@
       "city": "West Falmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w419531038",
@@ -7666,7 +7878,9 @@
       "city": "Falmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w419531040",
@@ -7683,7 +7897,9 @@
       "city": "Falmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w419531042",
@@ -7700,7 +7916,9 @@
       "city": "Falmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w420341637",
@@ -7717,7 +7935,9 @@
       "city": "Carlisle",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w420341639",
@@ -7734,7 +7954,9 @@
       "city": "Carlisle",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w420341641",
@@ -7751,7 +7973,9 @@
       "city": "Carlisle",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w420345359",
@@ -7768,7 +7992,9 @@
       "city": "Concord",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w420890005",
@@ -7785,7 +8011,9 @@
       "city": "Carlisle",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w422072251",
@@ -7840,7 +8068,9 @@
       "city": "Truro",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w422113382",
@@ -7874,7 +8104,9 @@
       "city": "Harwich",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w422188252",
@@ -7908,7 +8140,9 @@
       "city": "Truro",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w422471363",
@@ -8014,7 +8248,9 @@
       "city": "Mashpee",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w427204362",
@@ -8065,7 +8301,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w427545577",
@@ -8082,7 +8320,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w427545579",
@@ -8099,7 +8339,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w427545581",
@@ -8116,7 +8358,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w427545773",
@@ -8133,7 +8377,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w427546079",
@@ -8150,7 +8396,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w427550319",
@@ -8167,7 +8415,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w427550364",
@@ -8184,7 +8434,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w428107545",
@@ -8235,7 +8487,9 @@
       "city": "Orleans",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w429693277",
@@ -8252,7 +8506,9 @@
       "city": "Mashpee",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w429780629",
@@ -8339,7 +8595,9 @@
       "city": "Mashpee",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w432938317",
@@ -8356,7 +8614,9 @@
       "city": "Westborough",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w433870153",
@@ -8373,7 +8633,9 @@
       "city": "Lancaster",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w435715667",
@@ -8390,7 +8652,9 @@
       "city": "Falmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w435717067",
@@ -8407,7 +8671,9 @@
       "city": "Falmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w435719422",
@@ -8424,7 +8690,9 @@
       "city": "Falmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w435831907",
@@ -8441,7 +8709,9 @@
       "city": "Falmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w435832284",
@@ -8494,7 +8764,9 @@
       "city": "Chatham",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w436161728",
@@ -8511,7 +8783,9 @@
       "city": "Bourne",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w436575823",
@@ -8545,7 +8819,9 @@
       "city": "Lenox",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w436606045",
@@ -8581,7 +8857,9 @@
       "city": "Falmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w436935706",
@@ -8598,7 +8876,9 @@
       "city": "Mashpee",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w437356058",
@@ -8615,7 +8895,9 @@
       "city": "Falmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w437369794",
@@ -8666,7 +8948,9 @@
       "city": "Falmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w439567810",
@@ -8768,7 +9052,9 @@
       "city": "Topsfield",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w444767843",
@@ -8819,7 +9105,9 @@
       "city": "Fitchburg",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w450550316",
@@ -8853,7 +9141,9 @@
       "city": "Wayland",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w457549543",
@@ -8870,7 +9160,9 @@
       "city": "Weston",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w459635606",
@@ -8989,7 +9281,9 @@
       "city": "Worcester",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w466051703",
@@ -9006,7 +9300,9 @@
       "city": "Holden",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w469254018",
@@ -9040,7 +9336,9 @@
       "city": "Dracut",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w472368707",
@@ -9112,7 +9410,9 @@
       "city": "Monterey",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w479396649",
@@ -9199,7 +9499,9 @@
       "city": "Brockton",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w484579842",
@@ -9286,7 +9588,9 @@
       "city": "Winchester",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w487530943",
@@ -9337,7 +9641,9 @@
       "city": "Lincoln",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w493125042",
@@ -9443,7 +9749,9 @@
       "city": "Plymouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w498653207",
@@ -9460,7 +9768,9 @@
       "city": "Plymouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w498839631",
@@ -9566,7 +9876,9 @@
       "city": "Plymouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w503560130",
@@ -9583,7 +9895,9 @@
       "city": "Plymouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w504559336",
@@ -9721,7 +10035,9 @@
       "city": "Sterling",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w510018752",
@@ -9789,7 +10105,9 @@
       "city": "Carlisle",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w524138425",
@@ -9893,7 +10211,9 @@
       "city": "Westford",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w541725959",
@@ -9967,7 +10287,9 @@
       "city": "Westford",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w543380445",
@@ -10001,7 +10323,9 @@
       "city": "Weston",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w544104327",
@@ -10052,7 +10376,9 @@
       "city": "Agawam",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w545741936",
@@ -10105,7 +10431,9 @@
       "city": "North Andover",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w570122595",
@@ -10156,7 +10484,9 @@
       "city": "Rutland",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w572499925",
@@ -10283,7 +10613,9 @@
       "city": "Easton",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w573716191",
@@ -10482,7 +10814,9 @@
       "city": "Methuen",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w583795354",
@@ -10516,7 +10850,9 @@
       "city": "Princeton",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w586129979",
@@ -10533,7 +10869,9 @@
       "city": "Falmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w587611718",
@@ -10749,7 +11087,9 @@
       "city": "Billerica",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w607447014",
@@ -10783,7 +11123,9 @@
       "city": "Bedford",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w611322465",
@@ -10921,7 +11263,9 @@
       "city": "Walpole",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w616320864",
@@ -10938,7 +11282,9 @@
       "city": "Lee",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w616399908",
@@ -10955,7 +11301,9 @@
       "city": "Lenox",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w616415942",
@@ -10972,7 +11320,9 @@
       "city": "Wellfleet",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w616757644",
@@ -10989,7 +11339,9 @@
       "city": "Wellfleet",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w616826571",
@@ -11006,7 +11358,9 @@
       "city": "New Marlborough",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w616826578",
@@ -11023,7 +11377,9 @@
       "city": "New Marlborough",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w617313606",
@@ -11057,7 +11413,9 @@
       "city": "Otis",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w617828288",
@@ -11074,7 +11432,9 @@
       "city": "Wellfleet",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w618642824",
@@ -11110,7 +11470,9 @@
       "city": "Revere",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w618711843",
@@ -11127,7 +11489,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w618964222",
@@ -11161,7 +11525,9 @@
       "city": "Orleans",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w618991779",
@@ -11178,7 +11544,9 @@
       "city": "Orleans",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w618997193",
@@ -11195,7 +11563,9 @@
       "city": "Orleans",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w619134816",
@@ -11284,7 +11654,9 @@
       "city": "Chatham",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w620965808",
@@ -11301,7 +11673,9 @@
       "city": "Chatham",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w622142425",
@@ -11318,7 +11692,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w622164141",
@@ -11335,7 +11711,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w622516387",
@@ -11352,7 +11730,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w623240704",
@@ -11369,7 +11749,9 @@
       "city": "Dartmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w623240708",
@@ -11386,7 +11768,9 @@
       "city": "Dartmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w624404795",
@@ -11403,7 +11787,9 @@
       "city": "Chatham",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w627617032",
@@ -11420,7 +11806,9 @@
       "city": "West Tisbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w627617033",
@@ -11437,7 +11825,9 @@
       "city": "West Tisbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w627617042",
@@ -11454,7 +11844,9 @@
       "city": "West Tisbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w627644621",
@@ -11488,7 +11880,9 @@
       "city": "West Tisbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w628636721",
@@ -11505,7 +11899,9 @@
       "city": "West Tisbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w628657100",
@@ -11522,7 +11918,9 @@
       "city": "West Tisbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w628657101",
@@ -11539,7 +11937,9 @@
       "city": "West Tisbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w628657611",
@@ -11556,7 +11956,9 @@
       "city": "West Tisbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w628669142",
@@ -11573,7 +11975,9 @@
       "city": "West Tisbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w628690798",
@@ -11590,7 +11994,9 @@
       "city": "West Tisbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w629258320",
@@ -11607,7 +12013,9 @@
       "city": "Oak Bluffs",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w629314706",
@@ -11624,7 +12032,9 @@
       "city": "Chilmark",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w629636116",
@@ -11641,7 +12051,9 @@
       "city": "Tisbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w630309242",
@@ -11658,7 +12070,9 @@
       "city": "Beverly",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w630372546",
@@ -11675,7 +12089,9 @@
       "city": "Edgartown",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w630376433",
@@ -11692,7 +12108,9 @@
       "city": "Edgartown",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w632547726",
@@ -11709,7 +12127,9 @@
       "city": "Edgartown",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w632547729",
@@ -11726,7 +12146,9 @@
       "city": "Edgartown",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w632606115",
@@ -11743,7 +12165,9 @@
       "city": "Edgartown",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w632606125",
@@ -11760,7 +12184,9 @@
       "city": "Edgartown",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w632632464",
@@ -11794,7 +12220,9 @@
       "city": "Edgartown",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w632656551",
@@ -11811,7 +12239,9 @@
       "city": "Edgartown",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w632857507",
@@ -11828,7 +12258,9 @@
       "city": "Edgartown",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w633035497",
@@ -11845,7 +12277,9 @@
       "city": "Edgartown",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w633035498",
@@ -11862,7 +12296,9 @@
       "city": "Edgartown",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w633035499",
@@ -11879,7 +12315,9 @@
       "city": "Edgartown",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w633035540",
@@ -11896,7 +12334,9 @@
       "city": "Edgartown",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w633129062",
@@ -11913,7 +12353,9 @@
       "city": "Edgartown",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w633129080",
@@ -11930,7 +12372,9 @@
       "city": "Edgartown",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w633129086",
@@ -11947,7 +12391,9 @@
       "city": "Edgartown",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w633129091",
@@ -11964,7 +12410,9 @@
       "city": "Edgartown",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w633429214",
@@ -11981,7 +12429,9 @@
       "city": "Edgartown",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w633660250",
@@ -11998,7 +12448,9 @@
       "city": "Edgartown",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w633693337",
@@ -12032,7 +12484,9 @@
       "city": "Edgartown",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w633728807",
@@ -12049,7 +12503,9 @@
       "city": "Fairhaven",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w633742315",
@@ -12083,7 +12539,9 @@
       "city": "Edgartown",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w634009437",
@@ -12100,7 +12558,9 @@
       "city": "Edgartown",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w634009447",
@@ -12117,7 +12577,9 @@
       "city": "Edgartown",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w634009480",
@@ -12134,7 +12596,9 @@
       "city": "Edgartown",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w634150869",
@@ -12151,7 +12615,9 @@
       "city": "Edgartown",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w634161164",
@@ -12168,7 +12634,9 @@
       "city": "Edgartown",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w634355227",
@@ -12185,7 +12653,9 @@
       "city": "Edgartown",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w634355229",
@@ -12202,7 +12672,9 @@
       "city": "Edgartown",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w635291771",
@@ -12219,7 +12691,9 @@
       "city": "Nantucket",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w635386368",
@@ -12253,7 +12727,9 @@
       "city": "Nantucket",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w635446644",
@@ -12270,7 +12746,9 @@
       "city": "Nantucket",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w635446649",
@@ -12287,7 +12765,9 @@
       "city": "Nantucket",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w635446650",
@@ -12304,7 +12784,9 @@
       "city": "Nantucket",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w635446656",
@@ -12355,7 +12837,9 @@
       "city": "Nantucket",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w635452424",
@@ -12372,7 +12856,9 @@
       "city": "Nantucket",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w635452435",
@@ -12406,7 +12892,9 @@
       "city": "Nantucket",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w635452444",
@@ -12423,7 +12911,9 @@
       "city": "Nantucket",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w635452445",
@@ -12440,7 +12930,9 @@
       "city": "Nantucket",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w635452446",
@@ -12457,7 +12949,9 @@
       "city": "Nantucket",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w635452453",
@@ -12474,7 +12968,9 @@
       "city": "Nantucket",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w635452454",
@@ -12491,7 +12987,9 @@
       "city": "Nantucket",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w635454732",
@@ -12508,7 +13006,9 @@
       "city": "Nantucket",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w635458866",
@@ -12525,7 +13025,9 @@
       "city": "Nantucket",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w635589358",
@@ -12542,7 +13044,9 @@
       "city": "Nantucket",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w635809840",
@@ -12559,7 +13063,9 @@
       "city": "Nantucket",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w635809841",
@@ -12576,7 +13082,9 @@
       "city": "Nantucket",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w636043716",
@@ -12593,7 +13101,9 @@
       "city": "Nantucket",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w636043722",
@@ -12610,7 +13120,9 @@
       "city": "Nantucket",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w636067227",
@@ -12627,7 +13139,9 @@
       "city": "Nantucket",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w636083827",
@@ -12644,7 +13158,9 @@
       "city": "Nantucket",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w636083833",
@@ -12661,7 +13177,9 @@
       "city": "Nantucket",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w637572693",
@@ -12748,7 +13266,9 @@
       "city": "Edgartown",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w643206151",
@@ -12833,7 +13353,9 @@
       "city": "West Tisbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w645750786",
@@ -12850,7 +13372,9 @@
       "city": "West Tisbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w647846464",
@@ -12867,7 +13391,9 @@
       "city": "Orleans",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w647846476",
@@ -12884,7 +13410,9 @@
       "city": "Orleans",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w647896125",
@@ -12901,7 +13429,9 @@
       "city": "Orleans",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w648289217",
@@ -12918,7 +13448,9 @@
       "city": "Orleans",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w648299082",
@@ -12935,7 +13467,9 @@
       "city": "Orleans",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w648299095",
@@ -12952,7 +13486,9 @@
       "city": "Orleans",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w648299097",
@@ -12969,7 +13505,9 @@
       "city": "Orleans",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w648299106",
@@ -12986,7 +13524,9 @@
       "city": "Orleans",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w648299110",
@@ -13003,7 +13543,9 @@
       "city": "Orleans",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w648301307",
@@ -13020,7 +13562,9 @@
       "city": "Orleans",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w648561205",
@@ -13037,7 +13581,9 @@
       "city": "Orleans",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w648561208",
@@ -13054,7 +13600,9 @@
       "city": "Orleans",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w648561209",
@@ -13071,7 +13619,9 @@
       "city": "Orleans",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w648766320",
@@ -13088,7 +13638,9 @@
       "city": "Orleans",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w649544155",
@@ -13105,7 +13657,9 @@
       "city": "Orleans",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w649544158",
@@ -13122,7 +13676,9 @@
       "city": "Orleans",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w649544159",
@@ -13139,7 +13695,9 @@
       "city": "Orleans",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w649690891",
@@ -13156,7 +13714,9 @@
       "city": "North Andover",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w652345997",
@@ -13173,7 +13733,9 @@
       "city": "Acton",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w653408138",
@@ -13478,7 +14040,9 @@
       "city": "Nantucket",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w678645357",
@@ -13495,7 +14059,9 @@
       "city": "Nantucket",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w678645369",
@@ -13512,7 +14078,9 @@
       "city": "Nantucket",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w678645370",
@@ -13529,7 +14097,9 @@
       "city": "Nantucket",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w678645373",
@@ -13546,7 +14116,9 @@
       "city": "Nantucket",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w678758942",
@@ -13563,7 +14135,9 @@
       "city": "Nantucket",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w678758943",
@@ -13580,7 +14154,9 @@
       "city": "Nantucket",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w679084357",
@@ -13597,7 +14173,9 @@
       "city": "Nantucket",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w680513076",
@@ -13631,7 +14209,9 @@
       "city": "Chilmark",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w684775564",
@@ -13648,7 +14228,9 @@
       "city": "West Tisbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w684775566",
@@ -13665,7 +14247,9 @@
       "city": "Edgartown",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w684807329",
@@ -13682,7 +14266,9 @@
       "city": "Burlington",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w684896578",
@@ -13699,7 +14285,9 @@
       "city": "Mashpee",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w684962566",
@@ -13767,7 +14355,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w685151735",
@@ -13784,7 +14374,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w685152686",
@@ -13801,7 +14393,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w687506337",
@@ -13837,7 +14431,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w687859554",
@@ -13854,7 +14450,9 @@
       "city": "Truro",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w687925487",
@@ -13871,7 +14469,9 @@
       "city": "Bourne",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w689376651",
@@ -13888,7 +14488,9 @@
       "city": "Mattapoisett",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w689794840",
@@ -13943,7 +14545,9 @@
       "city": "Mattapoisett",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w690971912",
@@ -13977,7 +14581,9 @@
       "city": "Duxbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w692350538",
@@ -14011,7 +14617,9 @@
       "city": "Topsfield",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w693109982",
@@ -14062,7 +14670,9 @@
       "city": "Manchester-by-the-Sea",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w694478980",
@@ -14079,7 +14689,9 @@
       "city": "Gloucester",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w694693236",
@@ -14096,7 +14708,9 @@
       "city": "Weston",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w694693237",
@@ -14113,7 +14727,9 @@
       "city": "Weston",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w694693251",
@@ -14166,7 +14782,9 @@
       "city": "Conway",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w695495694",
@@ -14183,7 +14801,9 @@
       "city": "Mattapoisett",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w695495700",
@@ -14200,7 +14820,9 @@
       "city": "Mattapoisett",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w695508401",
@@ -14217,7 +14839,9 @@
       "city": "Dartmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w695508402",
@@ -14234,7 +14858,9 @@
       "city": "Dartmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w695508403",
@@ -14251,7 +14877,9 @@
       "city": "Dartmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w695508408",
@@ -14268,7 +14896,9 @@
       "city": "Dartmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w695607235",
@@ -14285,7 +14915,9 @@
       "city": "Westport",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w695607244",
@@ -14302,7 +14934,9 @@
       "city": "Westport",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w696045112",
@@ -14319,7 +14953,9 @@
       "city": "Groveland",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w696125766",
@@ -14336,7 +14972,9 @@
       "city": "Lenox",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w696531033",
@@ -14353,7 +14991,9 @@
       "city": "Lowell",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w696781036",
@@ -14370,7 +15010,9 @@
       "city": "New Marlborough",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w696872259",
@@ -14387,7 +15029,9 @@
       "city": "Great Barrington",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w697035447",
@@ -14404,7 +15048,9 @@
       "city": "South Hamilton",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w697230389",
@@ -14421,7 +15067,9 @@
       "city": "Hampden County",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w697238025",
@@ -14438,7 +15086,9 @@
       "city": "Beverly",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w697383760",
@@ -14455,7 +15105,9 @@
       "city": "Hampden County",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w697383763",
@@ -14472,7 +15124,9 @@
       "city": "Berkshire County",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w697453055",
@@ -14489,7 +15143,9 @@
       "city": "West Newbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-r13459079",
@@ -14542,7 +15198,9 @@
       "city": "Hancock",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w697676299",
@@ -14593,7 +15251,9 @@
       "city": "Rehoboth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w698068841",
@@ -14610,7 +15270,9 @@
       "city": "Andover",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w698216077",
@@ -14644,7 +15306,9 @@
       "city": "Falmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w698252794",
@@ -14678,7 +15342,9 @@
       "city": "Menemsha",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w699012296",
@@ -14695,7 +15361,9 @@
       "city": "Framingham",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w699012302",
@@ -14712,7 +15380,9 @@
       "city": "Framingham",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w699144668",
@@ -14729,7 +15399,9 @@
       "city": "Beverly",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w699693780",
@@ -14784,7 +15456,9 @@
       "city": "Townsend",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w700517699",
@@ -14801,7 +15475,9 @@
       "city": "Orange",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w700533345",
@@ -14818,7 +15494,9 @@
       "city": "Phillipston",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w700745553",
@@ -14956,7 +15634,9 @@
       "city": "Sterling",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w704855143",
@@ -15009,7 +15689,9 @@
       "city": "Dennis",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w707858094",
@@ -15077,7 +15759,9 @@
       "city": "Concord",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w710575678",
@@ -15111,7 +15795,9 @@
       "city": "Norwood",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w712124283",
@@ -15285,7 +15971,9 @@
       "city": "Manchester-by-the-Sea",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w721293662",
@@ -15389,7 +16077,9 @@
       "city": "Fall River",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w728098183",
@@ -15406,7 +16096,9 @@
       "city": "Cambridge",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w728102631",
@@ -15474,7 +16166,9 @@
       "city": "Tewksbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w731157901",
@@ -15510,7 +16204,9 @@
       "city": "Barre",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w732600293",
@@ -15599,7 +16295,9 @@
       "city": "Concord",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w738362239",
@@ -15616,7 +16314,9 @@
       "city": "Concord",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w738362240",
@@ -15633,7 +16333,9 @@
       "city": "Concord",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w741762617",
@@ -15667,7 +16369,9 @@
       "city": "Berkshire County",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w743081746",
@@ -15684,7 +16388,9 @@
       "city": "Monterey",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w743086674",
@@ -15701,7 +16407,9 @@
       "city": "New Marlborough",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w744801543",
@@ -15718,7 +16426,9 @@
       "city": "Tewksbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w749200194",
@@ -15735,7 +16445,9 @@
       "city": "Westford",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w749637080",
@@ -15752,7 +16464,9 @@
       "city": "Lincoln",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w752968170",
@@ -15769,7 +16483,9 @@
       "city": "Falmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w753417491",
@@ -15803,7 +16519,9 @@
       "city": "Marion",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w754095174",
@@ -15837,7 +16555,9 @@
       "city": "Wayland",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w754456142",
@@ -15854,7 +16574,9 @@
       "city": "Wayland",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w755441193",
@@ -15871,7 +16593,9 @@
       "city": "Hampden County",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w755769833",
@@ -15888,7 +16612,9 @@
       "city": "Tewksbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w757157213",
@@ -15956,7 +16682,9 @@
       "city": "Burlington",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w760871451",
@@ -16007,7 +16735,9 @@
       "city": "Scituate",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w764417337",
@@ -16024,7 +16754,9 @@
       "city": "Lincoln",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w765264930",
@@ -16041,7 +16773,9 @@
       "city": "South Hadley",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w765545519",
@@ -16058,7 +16792,9 @@
       "city": "Lincoln",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w765545521",
@@ -16075,7 +16811,9 @@
       "city": "Lincoln",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w765545522",
@@ -16092,7 +16830,9 @@
       "city": "Lincoln",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w765545526",
@@ -16109,7 +16849,9 @@
       "city": "Lincoln",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w765710544",
@@ -16145,7 +16887,9 @@
       "city": "Weston",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w765822494",
@@ -16162,7 +16906,9 @@
       "city": "Lincoln",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w765822495",
@@ -16179,7 +16925,9 @@
       "city": "Lincoln",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w765841815",
@@ -16196,7 +16944,9 @@
       "city": "Lincoln",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w766549030",
@@ -16213,7 +16963,9 @@
       "city": "Lincoln",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w767683013",
@@ -16230,7 +16982,9 @@
       "city": "Plymouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w767784087",
@@ -16247,7 +17001,9 @@
       "city": "Cohasset",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w767949383",
@@ -16264,7 +17020,9 @@
       "city": "Lincoln",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w768845703",
@@ -16300,7 +17058,9 @@
       "city": "Lincoln",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w776294242",
@@ -16353,7 +17113,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w777880235",
@@ -16370,7 +17132,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w777880523",
@@ -16387,7 +17151,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w779314556",
@@ -16404,7 +17170,9 @@
       "city": "Cohasset",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w780646751",
@@ -16438,7 +17206,9 @@
       "city": "New Salem",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w784083610",
@@ -16455,7 +17225,9 @@
       "city": "Berkshire County",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w784083613",
@@ -16472,7 +17244,9 @@
       "city": "Salisbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w785620349",
@@ -16489,7 +17263,9 @@
       "city": "Weston",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w785741157",
@@ -16506,7 +17282,9 @@
       "city": "Weston",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w786565108",
@@ -16523,7 +17301,9 @@
       "city": "Lincoln",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w786590273",
@@ -16540,7 +17320,9 @@
       "city": "Lincoln",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w786908544",
@@ -16557,7 +17339,9 @@
       "city": "Lincoln",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w786908551",
@@ -16574,7 +17358,9 @@
       "city": "Lincoln",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w786908552",
@@ -16591,7 +17377,9 @@
       "city": "Lincoln",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w786908575",
@@ -16608,7 +17396,9 @@
       "city": "Weston",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w786908581",
@@ -16625,7 +17415,9 @@
       "city": "Weston",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w786975848",
@@ -16659,7 +17451,9 @@
       "city": "Lincoln",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w787006112",
@@ -16676,7 +17470,9 @@
       "city": "Lincoln",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w787006114",
@@ -16693,7 +17489,9 @@
       "city": "Lincoln",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w787212113",
@@ -16710,7 +17508,9 @@
       "city": "Lincoln",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w787212130",
@@ -16727,7 +17527,9 @@
       "city": "Lincoln",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w787212131",
@@ -16744,7 +17546,9 @@
       "city": "Lincoln",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w787256645",
@@ -16761,7 +17565,9 @@
       "city": "Weston",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w787260805",
@@ -16778,7 +17584,9 @@
       "city": "Lincoln",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w787363499",
@@ -16795,7 +17603,9 @@
       "city": "Lincoln",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w788028315",
@@ -16812,7 +17622,9 @@
       "city": "Weston",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w788028328",
@@ -16829,7 +17641,9 @@
       "city": "Weston",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w788549289",
@@ -16846,7 +17660,9 @@
       "city": "Lincoln",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w788549306",
@@ -16863,7 +17679,9 @@
       "city": "Lincoln",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w788564416",
@@ -16880,7 +17698,9 @@
       "city": "Lincoln",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w789048855",
@@ -16933,7 +17753,9 @@
       "city": "Wayland",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w789353723",
@@ -16950,7 +17772,9 @@
       "city": "Wayland",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w789353729",
@@ -16967,7 +17791,9 @@
       "city": "Lincoln",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w789353759",
@@ -16984,7 +17810,9 @@
       "city": "Lincoln",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w789353767",
@@ -17001,7 +17829,9 @@
       "city": "Lincoln",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w790455097",
@@ -17018,7 +17848,9 @@
       "city": "North Reading",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w790517431",
@@ -17035,7 +17867,9 @@
       "city": "Weston",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w790517469",
@@ -17052,7 +17886,9 @@
       "city": "Lincoln",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w790517471",
@@ -17069,7 +17905,9 @@
       "city": "Lincoln",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w793597362",
@@ -17139,7 +17977,9 @@
       "city": "Lowell",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w798442004",
@@ -17192,7 +18032,9 @@
       "city": "Egremont",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w803152888",
@@ -17209,7 +18051,9 @@
       "city": "Westborough",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w803413362",
@@ -17277,7 +18121,9 @@
       "city": "Carlisle",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w807611461",
@@ -17400,7 +18246,9 @@
       "city": "Belmont",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w813965227",
@@ -17557,7 +18405,9 @@
       "city": "Andover",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w816315873",
@@ -17612,7 +18462,9 @@
       "city": "Eastham",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w818397750",
@@ -17629,7 +18481,9 @@
       "city": "Westborough",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w818399644",
@@ -17735,7 +18589,9 @@
       "city": "Mansfield",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w819968659",
@@ -17788,7 +18644,9 @@
       "city": "Concord",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w820453842",
@@ -17805,7 +18663,9 @@
       "city": "Concord",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w820507250",
@@ -17822,7 +18682,9 @@
       "city": "Winchester",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w821260526",
@@ -17877,7 +18739,9 @@
       "city": "Concord",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w821848566",
@@ -17894,7 +18758,9 @@
       "city": "Concord",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w822999554",
@@ -18070,7 +18936,9 @@
       "city": "Lincoln",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w831021317",
@@ -18106,7 +18974,9 @@
       "city": "Eastham",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w837437150",
@@ -18157,7 +19027,9 @@
       "city": "Mashpee",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w837623692",
@@ -18174,7 +19046,9 @@
       "city": "Mashpee",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w838011268",
@@ -18246,7 +19120,9 @@
       "city": "Falmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w840744877",
@@ -18263,7 +19139,9 @@
       "city": "Falmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w841352571",
@@ -18280,7 +19158,9 @@
       "city": "Falmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w841524924",
@@ -18316,7 +19196,9 @@
       "city": "Falmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w844677624",
@@ -18384,7 +19266,9 @@
       "city": "Foxborough",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w850010364",
@@ -18401,7 +19285,9 @@
       "city": "Franklin",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w850579643",
@@ -18435,7 +19321,9 @@
       "city": "Princeton",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w852968717",
@@ -18471,7 +19359,9 @@
       "city": "Falmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w855220037",
@@ -18505,7 +19395,9 @@
       "city": "Wellfleet",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w857405906",
@@ -18522,7 +19414,9 @@
       "city": "Wellfleet",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w857654094",
@@ -18556,7 +19450,9 @@
       "city": "Harwich",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w858779994",
@@ -18573,7 +19469,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w859099996",
@@ -18609,7 +19507,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w862884201",
@@ -18626,7 +19526,9 @@
       "city": "Truro",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w863157105",
@@ -18643,7 +19545,9 @@
       "city": "Eastham",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w863618863",
@@ -18660,7 +19564,9 @@
       "city": "Weston",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524995225",
@@ -18694,7 +19600,9 @@
       "city": "Wayland",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w868873018",
@@ -18728,7 +19636,9 @@
       "city": "Hudson",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w873216472",
@@ -18762,7 +19672,9 @@
       "city": "Falmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w881357635",
@@ -18796,7 +19708,9 @@
       "city": "Sudbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w885342627",
@@ -18936,7 +19850,9 @@
       "city": "Quincy",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w900237831",
@@ -18972,7 +19888,9 @@
       "city": "Quincy",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w901645761",
@@ -19061,7 +19979,9 @@
       "city": "Charlton",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w906329058",
@@ -19095,7 +20015,9 @@
       "city": "Waltham",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w906579224",
@@ -19239,7 +20161,9 @@
       "city": "Brookline",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w910577378",
@@ -19256,7 +20180,9 @@
       "city": "Brookline",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w912811771",
@@ -19273,7 +20199,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w913264248",
@@ -19290,7 +20218,9 @@
       "city": "Mashpee",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w913670001",
@@ -19307,7 +20237,9 @@
       "city": "Sharon",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w914523203",
@@ -19324,7 +20256,9 @@
       "city": "Berkshire County",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w914534601",
@@ -19394,7 +20328,9 @@
       "city": "Holyoke",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w917490542",
@@ -19428,7 +20364,9 @@
       "city": "Chicopee",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w918341819",
@@ -19445,7 +20383,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w918342602",
@@ -19479,7 +20419,9 @@
       "city": "South Hadley",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w919250236",
@@ -19496,7 +20438,9 @@
       "city": "Chicopee",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w919290662",
@@ -19585,7 +20529,9 @@
       "city": "West Springfield",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w924352370",
@@ -19653,7 +20599,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w935240536",
@@ -19706,7 +20654,9 @@
       "city": "Falmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w951789849",
@@ -19740,7 +20690,9 @@
       "city": "Mattapoisett",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w955928527",
@@ -19791,7 +20743,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w959914652",
@@ -19825,7 +20779,9 @@
       "city": "Sandwich",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w969791839",
@@ -19876,7 +20832,9 @@
       "city": "Hyannis",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w971050563",
@@ -19980,7 +20938,9 @@
       "city": "Foxborough",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w974105619",
@@ -20033,7 +20993,9 @@
       "city": "Foxborough",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w977022252",
@@ -20050,7 +21012,9 @@
       "city": "Wayland",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w980171427",
@@ -20067,7 +21031,9 @@
       "city": "Hyannis",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w983369822",
@@ -20084,7 +21050,9 @@
       "city": "Chatham",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w983374556",
@@ -20101,7 +21069,9 @@
       "city": "Chatham",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w986425034",
@@ -20118,7 +21088,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w986425035",
@@ -20135,7 +21107,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w986435723",
@@ -20152,7 +21126,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w989066233",
@@ -20169,7 +21145,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w989069833",
@@ -20432,7 +21410,9 @@
       "city": "Egremont",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1007139599",
@@ -20466,7 +21446,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1007656558",
@@ -20483,7 +21465,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1007714962",
@@ -20500,7 +21484,9 @@
       "city": "Sandwich",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1010448543",
@@ -20534,7 +21520,9 @@
       "city": "Plymouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1016461147",
@@ -20589,7 +21577,9 @@
       "city": "Marlborough",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1016693342",
@@ -20767,7 +21757,9 @@
       "city": "Falmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1020896910",
@@ -20803,7 +21795,9 @@
       "city": "Falmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1025013369",
@@ -20949,7 +21943,9 @@
       "city": "Gloucester",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1034520219",
@@ -20983,7 +21979,9 @@
       "city": "Edgartown",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1039748131",
@@ -21019,7 +22017,9 @@
       "city": "Edgartown",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1040439978",
@@ -21036,7 +22036,9 @@
       "city": "Aquinnah",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1040532316",
@@ -21070,7 +22072,9 @@
       "city": "Menemsha",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1040893166",
@@ -21123,7 +22127,9 @@
       "city": "Chilmark",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1042432367",
@@ -21140,7 +22146,9 @@
       "city": "Tisbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1042440570",
@@ -21157,7 +22165,9 @@
       "city": "Tisbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1042687237",
@@ -21174,7 +22184,9 @@
       "city": "Oak Bluffs",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1043328919",
@@ -21229,7 +22241,9 @@
       "city": "Mattapoisett",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1044485109",
@@ -21246,7 +22260,9 @@
       "city": "Mattapoisett",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1045115381",
@@ -21263,7 +22279,9 @@
       "city": "Yarmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1046271640",
@@ -21280,7 +22298,9 @@
       "city": "Falmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1047694811",
@@ -21297,7 +22317,9 @@
       "city": "Falmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1049386238",
@@ -21331,7 +22353,9 @@
       "city": "Falmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1049633707",
@@ -21435,7 +22459,9 @@
       "city": "Berkshire County",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1052311872",
@@ -21452,7 +22478,9 @@
       "city": "Berkshire County",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1052312103",
@@ -21469,7 +22497,9 @@
       "city": "Berkshire County",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1052317689",
@@ -21486,7 +22516,9 @@
       "city": "Berkshire County",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1052371216",
@@ -21503,7 +22535,9 @@
       "city": "Gloucester",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1054077049",
@@ -21537,7 +22571,9 @@
       "city": "Framingham",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1054404520",
@@ -21554,7 +22590,9 @@
       "city": "Framingham",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1055070468",
@@ -21571,7 +22609,9 @@
       "city": "Methuen",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1055092165",
@@ -21675,7 +22715,9 @@
       "city": "Pittsfield",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1059703601",
@@ -21779,7 +22821,9 @@
       "city": "Haverhill",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1064098215",
@@ -21885,7 +22929,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1070041008",
@@ -21902,7 +22948,9 @@
       "city": "Gloucester",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1071128150",
@@ -22059,7 +23107,9 @@
       "city": "Billerica",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1082211251",
@@ -22076,7 +23126,9 @@
       "city": "Holden",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1082211262",
@@ -22110,7 +23162,9 @@
       "city": "Eastham",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084102688",
@@ -22144,7 +23198,9 @@
       "city": "Marlborough",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1087615949",
@@ -22371,7 +23427,9 @@
       "city": "Weymouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1091076925",
@@ -22422,7 +23480,9 @@
       "city": "Plainville",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1093700124",
@@ -22456,7 +23516,9 @@
       "city": "Swansea",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1095494702",
@@ -22583,7 +23645,9 @@
       "city": "Northborough",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1095950832",
@@ -22619,7 +23683,9 @@
       "city": "Southborough",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1096970066",
@@ -22655,7 +23721,9 @@
       "city": "North Andover",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1097137026",
@@ -22759,7 +23827,9 @@
       "city": "Stockbridge",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1100615744",
@@ -22776,7 +23846,9 @@
       "city": "Stockbridge",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1100735559",
@@ -22914,7 +23986,9 @@
       "city": "Somerset",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1106454661",
@@ -22984,7 +24058,9 @@
       "city": "Lenox",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1110918367",
@@ -23056,7 +24132,9 @@
       "city": "Wayland",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1115779572",
@@ -23073,7 +24151,9 @@
       "city": "Wayland",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1116943541",
@@ -23107,7 +24187,9 @@
       "city": "Marshfield",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1117268343",
@@ -23158,7 +24240,9 @@
       "city": "Tewksbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1117519672",
@@ -23175,7 +24259,9 @@
       "city": "Westborough",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1122471170",
@@ -23192,7 +24278,9 @@
       "city": "Mashpee",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1122523981",
@@ -23209,7 +24297,9 @@
       "city": "Wayland",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1123141700",
@@ -23262,7 +24352,9 @@
       "city": "Mashpee",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1125944685",
@@ -23368,7 +24460,9 @@
       "city": "Norwood",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1131078003",
@@ -23404,7 +24498,9 @@
       "city": "Malden",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1132933053",
@@ -23421,7 +24517,9 @@
       "city": "Falmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1132948474",
@@ -23438,7 +24536,9 @@
       "city": "Falmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1133563277",
@@ -23455,7 +24555,9 @@
       "city": "Chilmark",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1133828398",
@@ -23542,7 +24644,9 @@
       "city": "Yarmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1135317887",
@@ -23593,7 +24697,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1136541737",
@@ -23610,7 +24716,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1136739549",
@@ -23661,7 +24769,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1137112444",
@@ -23695,7 +24805,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1137418196",
@@ -23729,7 +24841,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1137639811",
@@ -23763,7 +24877,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1137878611",
@@ -23780,7 +24896,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1137966985",
@@ -23831,7 +24949,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1141580852",
@@ -23848,7 +24968,9 @@
       "city": "Weston",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1141739209",
@@ -23865,7 +24987,9 @@
       "city": "Weston",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1144114229",
@@ -23916,7 +25040,9 @@
       "city": "Boston",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1158286734",
@@ -23933,7 +25059,9 @@
       "city": "Dukes County",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1161458726",
@@ -23950,7 +25078,9 @@
       "city": "Falmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1161473067",
@@ -23967,7 +25097,9 @@
       "city": "Falmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1162268064",
@@ -24001,7 +25133,9 @@
       "city": "Hopkinton",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1163665323",
@@ -24018,7 +25152,9 @@
       "city": "Bourne",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1163667174",
@@ -24035,7 +25171,9 @@
       "city": "Bourne",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1163731571",
@@ -24052,7 +25190,9 @@
       "city": "Bourne",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1163742221",
@@ -24069,7 +25209,9 @@
       "city": "Bourne",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1164220229",
@@ -24086,7 +25228,9 @@
       "city": "Pocasset",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1164974058",
@@ -24120,7 +25264,9 @@
       "city": "Tisbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1166206446",
@@ -24137,7 +25283,9 @@
       "city": "West Tisbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1169897468",
@@ -24188,7 +25336,9 @@
       "city": "Haverhill",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1184512494",
@@ -24205,7 +25355,9 @@
       "city": "Brookline",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1184513433",
@@ -24222,7 +25374,9 @@
       "city": "Brookline",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1184514082",
@@ -24239,7 +25393,9 @@
       "city": "Brookline",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1184522246",
@@ -24428,7 +25584,9 @@
       "city": "Leverett",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1219397646",
@@ -24445,7 +25603,9 @@
       "city": "Boxborough",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1219551468",
@@ -24462,7 +25622,9 @@
       "city": "Hudson",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1221530464",
@@ -24515,7 +25677,9 @@
       "city": "Falmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1223490810",
@@ -24623,7 +25787,9 @@
       "city": "West Stockbridge",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1229803546",
@@ -24992,7 +26158,9 @@
       "city": "Gill",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1251292152",
@@ -25359,7 +26527,9 @@
       "city": "Yarmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1277839678",
@@ -25376,7 +26546,9 @@
       "city": "Sandwich",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1279918144",
@@ -25427,7 +26599,9 @@
       "city": "Everett",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1290077842",
@@ -25539,7 +26713,9 @@
       "city": "Webster",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1292125727",
@@ -25590,7 +26766,9 @@
       "city": "Marion",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1296749546",
@@ -25626,7 +26804,9 @@
       "city": "Westport",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1299454880",
@@ -25643,7 +26823,9 @@
       "city": "Yarmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1300617397",
@@ -25660,7 +26842,9 @@
       "city": "Great Barrington",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1301366251",
@@ -25677,7 +26861,9 @@
       "city": "Milton",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1303536414",
@@ -25711,7 +26897,9 @@
       "city": "Charlton",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1305652291",
@@ -25728,7 +26916,9 @@
       "city": "Edgartown",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1306390401",
@@ -25796,7 +26986,9 @@
       "city": "West Stockbridge",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1307492965",
@@ -25813,7 +27005,9 @@
       "city": "Shrewsbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1307538238",
@@ -25900,7 +27094,9 @@
       "city": "West Tisbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1308829000",
@@ -25934,7 +27130,9 @@
       "city": "Dennis",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1310636386",
@@ -26004,7 +27202,9 @@
       "city": "Attleboro",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1315087040",
@@ -26021,7 +27221,9 @@
       "city": "Oxford",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1315348645",
@@ -26038,7 +27240,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1315764037",
@@ -26144,7 +27348,9 @@
       "city": "Canton",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1322410604",
@@ -26161,7 +27367,9 @@
       "city": "Northampton",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1322410739",
@@ -26178,7 +27386,9 @@
       "city": "Berkshire County",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1324223096",
@@ -26195,7 +27405,9 @@
       "city": "Shrewsbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1324509493",
@@ -26212,7 +27424,9 @@
       "city": "Shrewsbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1325466336",
@@ -26229,7 +27443,9 @@
       "city": "Oxford",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1326164418",
@@ -26246,7 +27462,9 @@
       "city": "Canton",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1327076985",
@@ -26263,7 +27481,9 @@
       "city": "Fall River",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1327583418",
@@ -26280,7 +27500,9 @@
       "city": "Worcester",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1328845969",
@@ -26297,7 +27519,9 @@
       "city": "Auburn",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1329691199",
@@ -26350,7 +27574,9 @@
       "city": "Shrewsbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1331797522",
@@ -26367,7 +27593,9 @@
       "city": "Shrewsbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1332107018",
@@ -26401,7 +27629,9 @@
       "city": "Lincoln",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333613007",
@@ -26435,7 +27665,9 @@
       "city": "Stow",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1339169664",
@@ -26488,7 +27720,9 @@
       "city": "Shrewsbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1340203987",
@@ -26522,7 +27756,9 @@
       "city": "Nantucket",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1340414555",
@@ -26539,7 +27775,9 @@
       "city": "Shrewsbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1341022644",
@@ -26556,7 +27794,9 @@
       "city": "Shrewsbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1341069956",
@@ -26626,7 +27866,9 @@
       "city": "Shrewsbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1344548178",
@@ -26660,7 +27902,9 @@
       "city": "Sandwich",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1344903594",
@@ -26677,7 +27921,9 @@
       "city": "Shrewsbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1344912153",
@@ -26694,7 +27940,9 @@
       "city": "Shrewsbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1349064499",
@@ -26728,7 +27976,9 @@
       "city": "Acushnet",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1352110304",
@@ -26762,7 +28012,9 @@
       "city": "Barnstable",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1355296118",
@@ -26815,7 +28067,9 @@
       "city": "Shrewsbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1358169548",
@@ -26849,7 +28103,9 @@
       "city": "Worcester",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1358491983",
@@ -26866,7 +28122,9 @@
       "city": "Milton",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1364228125",
@@ -26968,7 +28226,9 @@
       "city": "Methuen",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1374761395",
@@ -26985,7 +28245,9 @@
       "city": "Andover",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1378061346",
@@ -27036,7 +28298,9 @@
       "city": "Weston",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1381997981",
@@ -27053,7 +28317,9 @@
       "city": "Southborough",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1391600353",
@@ -27140,7 +28406,9 @@
       "city": "Falmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1413162697",
@@ -27157,7 +28425,9 @@
       "city": "Lexington",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1413164171",
@@ -27174,7 +28444,9 @@
       "city": "Lexington",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1419022774",
@@ -27191,7 +28463,9 @@
       "city": "Carlisle",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1420180827",
@@ -27208,7 +28482,9 @@
       "city": "Framingham",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1422313226",
@@ -27225,7 +28501,9 @@
       "city": "Wilbraham",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1422857828",
@@ -27242,7 +28520,9 @@
       "city": "Chelsea",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1426545083",
@@ -27276,7 +28556,9 @@
       "city": "Concord",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1428805586",
@@ -27293,7 +28575,9 @@
       "city": "Oak Bluffs",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1429288327",
@@ -27571,7 +28855,9 @@
       "city": "Eastham",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1434886895",
@@ -27605,7 +28891,9 @@
       "city": "Sheffield",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435214937",
@@ -27622,7 +28910,9 @@
       "city": "Eastham",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435216882",
@@ -27639,7 +28929,9 @@
       "city": "West Stockbridge",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435216886",
@@ -27656,7 +28948,9 @@
       "city": "West Stockbridge",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435913333",
@@ -27794,7 +29088,9 @@
       "city": "Falmouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1437045188",
@@ -27864,7 +29160,9 @@
       "city": "Swansea",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442211883",
@@ -27881,7 +29179,9 @@
       "city": "Fall River",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442211884",
@@ -27898,7 +29198,9 @@
       "city": "Taunton",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442211886",
@@ -27968,7 +29270,9 @@
       "city": "Hingham",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442211896",
@@ -28021,7 +29325,9 @@
       "city": "Carlisle",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1444532569",
@@ -28038,7 +29344,9 @@
       "city": "Hingham",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1445451368",
@@ -28110,7 +29418,9 @@
       "city": "Scituate",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446372892",
@@ -28127,7 +29437,9 @@
       "city": "Eastham",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446609746",
@@ -28144,7 +29456,9 @@
       "city": "Mattapoisett",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1447494398",
@@ -28195,7 +29509,9 @@
       "city": "Sudbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1451353390",
@@ -28229,7 +29545,9 @@
       "city": "Worcester",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1456543807",
@@ -28246,7 +29564,9 @@
       "city": "Lancaster",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1456939456",
@@ -28263,7 +29583,9 @@
       "city": "Nantucket",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1459858618",
@@ -28297,7 +29619,9 @@
       "city": "Acton",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1462244198",
@@ -28331,7 +29655,9 @@
       "city": "Leominster",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1464380366",
@@ -28348,7 +29674,9 @@
       "city": "Norwell",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1466022345",
@@ -28577,7 +29905,9 @@
       "city": "Framingham",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1468765061",
@@ -28664,7 +29994,9 @@
       "city": "North Brookfield",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469015208",
@@ -28982,7 +30314,9 @@
       "city": "Granby",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470938783",
@@ -29285,7 +30619,9 @@
       "city": "Peabody",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1473991553",
@@ -29378,7 +30714,9 @@
       "city": "Hamilton",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1476352166",
@@ -29658,7 +30996,9 @@
       "city": "Tewksbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1479830133",
@@ -29781,7 +31121,9 @@
       "city": "Boxborough",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1479953867",
@@ -29836,7 +31178,9 @@
       "city": "Westford",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1479954632",
@@ -29889,7 +31233,9 @@
       "city": "Erving",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1484214642",
@@ -29923,7 +31269,9 @@
       "city": "Westfield",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1485171621",
@@ -30008,7 +31356,9 @@
       "city": "Wellfleet",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1485876077",
@@ -30182,7 +31532,9 @@
       "city": "Nantucket",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1485891921",
@@ -30233,7 +31585,9 @@
       "city": "Edgartown",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1485892629",
@@ -30250,7 +31604,9 @@
       "city": "Edgartown",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1485892757",
@@ -30284,7 +31640,9 @@
       "city": "Edgartown",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1485893466",
@@ -30301,7 +31659,9 @@
       "city": "Edgartown",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1485893545",
@@ -30335,7 +31695,9 @@
       "city": "Oak Bluffs",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1485893915",
@@ -30369,7 +31731,9 @@
       "city": "Oak Bluffs",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1485894062",
@@ -30386,7 +31750,9 @@
       "city": "West Tisbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1485894154",
@@ -30403,7 +31769,9 @@
       "city": "West Tisbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1485894179",
@@ -30420,7 +31788,9 @@
       "city": "Chilmark",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1485894398",
@@ -30507,7 +31877,9 @@
       "city": "Sandwich",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1485895832",
@@ -30541,7 +31913,9 @@
       "city": "Pocasset",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1485896033",
@@ -30770,7 +32144,9 @@
       "city": "New Marlborough",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1491858715",
@@ -30931,7 +32307,9 @@
       "city": "Longmeadow",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1495876947",
@@ -30965,7 +32343,9 @@
       "city": "Boxford",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1495962218",
@@ -30982,7 +32362,9 @@
       "city": "Lee",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1497089270",
@@ -31052,7 +32434,9 @@
       "city": "South Hadley",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1499617893",
@@ -31105,7 +32489,9 @@
       "city": "Wilkinsonville",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1501078182",
@@ -31194,7 +32580,9 @@
       "city": "Amesbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1504036515",
@@ -31211,7 +32599,9 @@
       "city": "Methuen",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1504269792",
@@ -31245,7 +32635,9 @@
       "city": "Lexington",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1504271854",
@@ -31262,7 +32654,9 @@
       "city": "Sudbury",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1504272303",
@@ -31332,7 +32726,9 @@
       "city": "Halifax",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1504426825",
@@ -31529,7 +32925,9 @@
       "city": "Springfield",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1505422486",
@@ -31597,7 +32995,9 @@
       "city": "Hinsdale",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1507761035",
@@ -31631,7 +33031,9 @@
       "city": "Dalton",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1507761841",
@@ -31648,7 +33050,9 @@
       "city": "Lenox",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1507761981",
@@ -31682,7 +33086,9 @@
       "city": "Lee",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1507762128",
@@ -31769,7 +33175,9 @@
       "city": "Ludlow",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1510266224",
@@ -31786,7 +33194,9 @@
       "city": "Harwich",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1510511028",
@@ -31822,7 +33232,9 @@
       "city": "Milford",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1511777605",
@@ -31875,7 +33287,9 @@
       "city": "Nantucket",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1518597165",
@@ -31909,7 +33323,9 @@
       "city": "West Springfield",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526884893",
@@ -31962,7 +33378,9 @@
       "city": "Concord",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1533106653",
@@ -31979,7 +33397,9 @@
       "city": "Newton",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1533390438",
@@ -31996,7 +33416,9 @@
       "city": "Norwell",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1534948883",
@@ -32013,7 +33435,9 @@
       "city": "Boston",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1535176002",
@@ -32066,7 +33490,9 @@
       "city": "Lexington",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1537003769",
@@ -32083,7 +33509,9 @@
       "city": "Lexington",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1537003789",
@@ -32100,7 +33528,9 @@
       "city": "Woburn",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1537215103",
@@ -32134,7 +33564,9 @@
       "city": "Lexington",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1537306675",
@@ -32168,7 +33600,9 @@
       "city": "Woburn",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1538933970",
@@ -32185,7 +33619,9 @@
       "city": "Lexington",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1538939950",
@@ -32202,7 +33638,9 @@
       "city": "Lexington",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1539134926",
@@ -32219,7 +33657,9 @@
       "city": "Lexington",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1541319790",
@@ -32236,7 +33676,9 @@
       "city": "Dedham",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1541319808",
@@ -32253,7 +33695,9 @@
       "city": "Dedham",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1544861755",
@@ -32270,7 +33714,9 @@
       "city": "Plymouth",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1544861759",
@@ -32372,7 +33818,9 @@
       "city": "Harwich",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1546529693",
@@ -32408,7 +33856,9 @@
       "city": "Nantucket",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1546772941",
@@ -32425,7 +33875,9 @@
       "city": "Medford",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1546854219",
@@ -32459,7 +33911,9 @@
       "city": "Winchester",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1547013706",
@@ -32582,7 +34036,9 @@
       "city": "Truro",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552716417",
@@ -32599,7 +34055,9 @@
       "city": "Wellfleet",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552717160",
@@ -32616,7 +34074,9 @@
       "city": "Wellfleet",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552717972",
@@ -32633,7 +34093,9 @@
       "city": "Eastham",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552935511",
@@ -32667,7 +34129,9 @@
       "city": "Chatham",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1553431224",
@@ -32684,7 +34148,9 @@
       "city": "East Freetown",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-r4494039",
@@ -32718,7 +34184,9 @@
       "city": "Princeton",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-r11587248",

@@ -68,7 +68,9 @@
       "city": "Rocky Mount",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w31308121",
@@ -85,7 +87,9 @@
       "city": "Winston-Salem",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w32202486",
@@ -223,7 +227,9 @@
       "city": "Cary",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w64618159",
@@ -376,7 +382,9 @@
       "city": "Durham",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w105672419",
@@ -410,7 +418,9 @@
       "city": "Durham County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w105801513",
@@ -427,7 +437,9 @@
       "city": "Cary",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w105860947",
@@ -699,7 +711,9 @@
       "city": "Swain County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w120522556",
@@ -935,7 +949,9 @@
       "city": "Chapel Hill",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w145028825",
@@ -1107,7 +1123,9 @@
       "city": "Raleigh",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w150835159",
@@ -1141,7 +1159,9 @@
       "city": "Raleigh",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w152286045",
@@ -1366,7 +1386,9 @@
       "city": "Jackson County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w170965121",
@@ -1419,7 +1441,9 @@
       "city": "Vance County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w171256392",
@@ -1667,7 +1691,9 @@
       "city": "Cornelius",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w215042317",
@@ -1684,7 +1710,9 @@
       "city": "Cornelius",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w215622835",
@@ -1824,7 +1852,9 @@
       "city": "Burlington",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w225301081",
@@ -1841,7 +1871,9 @@
       "city": "Carteret County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w225821793",
@@ -1858,7 +1890,9 @@
       "city": "Nash County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w226898159",
@@ -1875,7 +1909,9 @@
       "city": "Rocky Mount",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w228021622",
@@ -1943,7 +1979,9 @@
       "city": "Rocky Mount",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w233178771",
@@ -1977,7 +2015,9 @@
       "city": "Raleigh",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w234845083",
@@ -2096,7 +2136,9 @@
       "city": "Raleigh",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w235912604",
@@ -2268,7 +2310,9 @@
       "city": "Corolla",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w237059763",
@@ -2285,7 +2329,9 @@
       "city": "Corolla",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w237101561",
@@ -2302,7 +2348,9 @@
       "city": "Clayton",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w237390207",
@@ -2336,7 +2384,9 @@
       "city": "Corolla",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w237390223",
@@ -2353,7 +2403,9 @@
       "city": "Corolla",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w237548081",
@@ -2387,7 +2439,9 @@
       "city": "Siler City",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w238388868",
@@ -2404,7 +2458,9 @@
       "city": "Buncombe County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w240272486",
@@ -2472,7 +2528,9 @@
       "city": "Brunswick County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w246188996",
@@ -2489,7 +2547,9 @@
       "city": "Asheville",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w246711204",
@@ -2771,7 +2831,9 @@
       "city": "Benson",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w262139914",
@@ -2805,7 +2867,9 @@
       "city": "Spring Lake",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w262258855",
@@ -2822,7 +2886,9 @@
       "city": "Cumberland County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w262796391",
@@ -2980,7 +3046,9 @@
       "city": "Onslow County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w273400873",
@@ -3120,7 +3188,9 @@
       "city": "Sunset Beach",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w280252205",
@@ -3137,7 +3207,9 @@
       "city": "Sunset Beach",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w280256063",
@@ -3258,7 +3330,9 @@
       "city": "North Topsail Beach",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w282063529",
@@ -3312,7 +3386,9 @@
       "city": "Davidson County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w282156015",
@@ -3363,7 +3439,9 @@
       "city": "Thomasville",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w283878057",
@@ -3414,7 +3492,9 @@
       "city": "Henderson County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w286669570",
@@ -3499,7 +3579,9 @@
       "city": "Indian Beach",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w297182255",
@@ -3586,7 +3668,9 @@
       "city": "Nags Head",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w298984996",
@@ -3603,7 +3687,9 @@
       "city": "Nags Head",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w299191360",
@@ -3620,7 +3706,9 @@
       "city": "Nags Head",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w304002023",
@@ -3654,7 +3742,9 @@
       "city": "Corolla",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w304526029",
@@ -3707,7 +3797,9 @@
       "city": "Minnesott Beach",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w307241965",
@@ -3949,7 +4041,9 @@
       "city": "Burke County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w324869014",
@@ -3983,7 +4077,9 @@
       "city": "Charlotte",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w324882522",
@@ -4000,7 +4096,9 @@
       "city": "Charlotte",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w324882524",
@@ -4017,7 +4115,9 @@
       "city": "Ballantyne",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w324889724",
@@ -4085,7 +4185,9 @@
       "city": "Flat Rock",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w326617754",
@@ -4102,7 +4204,9 @@
       "city": "Charlotte",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w328704248",
@@ -4136,7 +4240,9 @@
       "city": "High Point",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w339232223",
@@ -4172,7 +4278,9 @@
       "city": "Greensboro",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w339751828",
@@ -4206,7 +4314,9 @@
       "city": "Greensboro",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w343293647",
@@ -4257,7 +4367,9 @@
       "city": "Morganton",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w350174830",
@@ -4421,7 +4533,9 @@
       "city": "Selma",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w352179235",
@@ -4472,7 +4586,9 @@
       "city": "Colington",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w357297867",
@@ -4525,7 +4641,9 @@
       "city": "Henderson County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w364455138",
@@ -4559,7 +4677,9 @@
       "city": "Andrews",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w365159209",
@@ -4576,7 +4696,9 @@
       "city": "Lexington",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w365163443",
@@ -4644,7 +4766,9 @@
       "city": "Morganton",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w377649852",
@@ -4661,7 +4785,9 @@
       "city": "Cleveland County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w377687898",
@@ -4712,7 +4838,9 @@
       "city": "Thomasville",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w385196052",
@@ -4729,7 +4857,9 @@
       "city": "Cabarrus County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w386990275",
@@ -4746,7 +4876,9 @@
       "city": "Randolph County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w387759179",
@@ -4780,7 +4912,9 @@
       "city": "White Lake",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w388979154",
@@ -4867,7 +5001,9 @@
       "city": "Durham",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w401086683",
@@ -4973,7 +5109,9 @@
       "city": "Summerfield",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w407026724",
@@ -4990,7 +5128,9 @@
       "city": "High Point",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w407028169",
@@ -5024,7 +5164,9 @@
       "city": "Thomasville",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w407556969",
@@ -5041,7 +5183,9 @@
       "city": "High Point",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w407559168",
@@ -5126,7 +5270,9 @@
       "city": "Winston-Salem",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w414728763",
@@ -5177,7 +5323,9 @@
       "city": "Louisburg",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w419472817",
@@ -5283,7 +5431,9 @@
       "city": "Seven Lakes",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w429556552",
@@ -5300,7 +5450,9 @@
       "city": "Harnett County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w429760171",
@@ -5334,7 +5486,9 @@
       "city": "Fayetteville",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w429921632",
@@ -5385,7 +5539,9 @@
       "city": "Sanford",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w430254289",
@@ -5402,7 +5558,9 @@
       "city": "Carolina Meadows",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w430254295",
@@ -5436,7 +5594,9 @@
       "city": "Burlington",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w430895897",
@@ -5470,7 +5630,9 @@
       "city": "Gibsonville",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w430895903",
@@ -5487,7 +5649,9 @@
       "city": "Burlington",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w430895904",
@@ -5504,7 +5668,9 @@
       "city": "Alamance County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w430895906",
@@ -5521,7 +5687,9 @@
       "city": "Guilford County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w431048266",
@@ -5555,7 +5723,9 @@
       "city": "Burlington",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w431093452",
@@ -5606,7 +5776,9 @@
       "city": "Orange County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w431969874",
@@ -5712,7 +5884,9 @@
       "city": "Raleigh",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w432750467",
@@ -5797,7 +5971,9 @@
       "city": "Apex",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w434369463",
@@ -5848,7 +6024,9 @@
       "city": "Robbins",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w434688175",
@@ -5988,7 +6166,9 @@
       "city": "Harrisburg",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w435593885",
@@ -6005,7 +6185,9 @@
       "city": "Harrisburg",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w435593897",
@@ -6022,7 +6204,9 @@
       "city": "Harrisburg",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w435684479",
@@ -6298,7 +6482,9 @@
       "city": "Shelby",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w439094701",
@@ -6315,7 +6501,9 @@
       "city": "Waynesville",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w439502947",
@@ -6368,7 +6556,9 @@
       "city": "Greensboro",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w440583411",
@@ -6440,7 +6630,9 @@
       "city": "Mount Holly",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w441850486",
@@ -6493,7 +6685,9 @@
       "city": "Asheville",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w446880974",
@@ -6510,7 +6704,9 @@
       "city": "High Point",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w447706563",
@@ -6854,7 +7050,9 @@
       "city": "Burgaw",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w466690471",
@@ -6994,7 +7192,9 @@
       "city": "Williamston",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w467027269",
@@ -7045,7 +7245,9 @@
       "city": "Oxford",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w468753770",
@@ -7096,7 +7298,9 @@
       "city": "Holly Springs",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w469984724",
@@ -7147,7 +7351,9 @@
       "city": "Dare County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w473681901",
@@ -7181,7 +7387,9 @@
       "city": "Kannapolis",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w479353874",
@@ -7283,7 +7491,9 @@
       "city": "Emerald Isle",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w484628911",
@@ -7300,7 +7510,9 @@
       "city": "Peletier",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w487212724",
@@ -7572,7 +7784,9 @@
       "city": "Gaston County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w513197244",
@@ -7659,7 +7873,9 @@
       "city": "Sugar Mountain",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w529479582",
@@ -7882,7 +8098,9 @@
       "city": "Durham County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w547545483",
@@ -7967,7 +8185,9 @@
       "city": "Durham",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w549767011",
@@ -8175,7 +8395,9 @@
       "city": "Oak Ridge",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w556172142",
@@ -8209,7 +8431,9 @@
       "city": "Holden Beach",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w556341548",
@@ -8226,7 +8450,9 @@
       "city": "Holden Beach",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w556341581",
@@ -8243,7 +8469,9 @@
       "city": "Holden Beach",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w556805919",
@@ -8311,7 +8539,9 @@
       "city": "Cornelius",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w558944482",
@@ -8328,7 +8558,9 @@
       "city": "Huntersville",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w559536690",
@@ -8519,7 +8751,9 @@
       "city": "Huntersville",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w566823105",
@@ -8536,7 +8770,9 @@
       "city": "Davie County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w568302451",
@@ -8655,7 +8891,9 @@
       "city": "Charlotte",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w577375298",
@@ -8759,7 +8997,9 @@
       "city": "Pittsboro",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w582751808",
@@ -8776,7 +9016,9 @@
       "city": "Durham",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w582751813",
@@ -8793,7 +9035,9 @@
       "city": "Durham",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w582756871",
@@ -8810,7 +9054,9 @@
       "city": "Durham",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w583386884",
@@ -8844,7 +9090,9 @@
       "city": "New Hanover County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w583582204",
@@ -8914,7 +9162,9 @@
       "city": "Raleigh",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w588829581",
@@ -8967,7 +9217,9 @@
       "city": "Charlotte",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w595246283",
@@ -9018,7 +9270,9 @@
       "city": "Cary",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w597977778",
@@ -9056,7 +9310,9 @@
       "city": "Iredell County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w604030177",
@@ -9090,7 +9346,9 @@
       "city": "Greensboro",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w604046161",
@@ -9107,7 +9365,9 @@
       "city": "Greensboro",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w604100595",
@@ -9179,7 +9439,9 @@
       "city": "Mooresville",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w615396073",
@@ -9215,7 +9477,9 @@
       "city": "Yancey County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w616466460",
@@ -9283,7 +9547,9 @@
       "city": "Carrboro",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w617281559",
@@ -9436,7 +9702,9 @@
       "city": "Kure Beach",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w625548582",
@@ -9453,7 +9721,9 @@
       "city": "Brunswick County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w625676703",
@@ -9610,7 +9880,9 @@
       "city": "Reidsville",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w636681096",
@@ -9646,7 +9918,9 @@
       "city": "Transylvania County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w639859051",
@@ -9801,7 +10075,9 @@
       "city": "Avery County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w660738465",
@@ -9837,7 +10113,9 @@
       "city": "Vance County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w672958805",
@@ -9871,7 +10149,9 @@
       "city": "Manteo",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w674122830",
@@ -9905,7 +10185,9 @@
       "city": "Lexington",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w674167502",
@@ -9922,7 +10204,9 @@
       "city": "Lexington",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w675672563",
@@ -10026,7 +10310,9 @@
       "city": "Middleburg",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w678757111",
@@ -10043,7 +10329,9 @@
       "city": "Buncombe County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w681613592",
@@ -10060,7 +10348,9 @@
       "city": "Yancey County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w684271970",
@@ -10077,7 +10367,9 @@
       "city": "Lexington",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w685487882",
@@ -10128,7 +10420,9 @@
       "city": "Dare County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w688494124",
@@ -10145,7 +10439,9 @@
       "city": "Lexington",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w688525373",
@@ -10162,7 +10458,9 @@
       "city": "Lexington",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w690971662",
@@ -10196,7 +10494,9 @@
       "city": "Charlotte",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w691525351",
@@ -10213,7 +10513,9 @@
       "city": "Buncombe County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w692300788",
@@ -10264,7 +10566,9 @@
       "city": "Charlotte",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w695958297",
@@ -10281,7 +10585,9 @@
       "city": "Kure Beach",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w697856744",
@@ -10555,7 +10861,9 @@
       "city": "Rocky Mount",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w721262629",
@@ -10572,7 +10880,9 @@
       "city": "Cherokee;ᏣᎳᎩ",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w723850714",
@@ -10623,7 +10933,9 @@
       "city": "Boone",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w728193988",
@@ -10640,7 +10952,9 @@
       "city": "Raleigh",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w730019789",
@@ -10657,7 +10971,9 @@
       "city": "Pine Knoll Shores",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w730340795",
@@ -10691,7 +11007,9 @@
       "city": "Durham",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w732498845",
@@ -10850,7 +11168,9 @@
       "city": "Watauga County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w744486208",
@@ -10918,7 +11238,9 @@
       "city": "Wrightsville Beach",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w746423376",
@@ -10935,7 +11257,9 @@
       "city": "Randolph County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w746525655",
@@ -11090,7 +11414,9 @@
       "city": "Durham",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w754728545",
@@ -11158,7 +11484,9 @@
       "city": "Watauga County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w758838166",
@@ -11423,7 +11751,9 @@
       "city": "Monroe",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w797158566",
@@ -11457,7 +11787,9 @@
       "city": "Charlotte",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w800592249",
@@ -11493,7 +11825,9 @@
       "city": "Watauga County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w802069327",
@@ -11510,7 +11844,9 @@
       "city": "Raleigh",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w802208271",
@@ -11599,7 +11935,9 @@
       "city": "Apex",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w806026748",
@@ -11650,7 +11988,9 @@
       "city": "Apex",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w807394663",
@@ -11854,7 +12194,9 @@
       "city": "Durham",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w821984544",
@@ -11888,7 +12230,9 @@
       "city": "Durham",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w824008224",
@@ -11956,7 +12300,9 @@
       "city": "Biltmore Forest",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w830190955",
@@ -11973,7 +12319,9 @@
       "city": "Biltmore Forest",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w830190957",
@@ -11990,7 +12338,9 @@
       "city": "Biltmore Forest",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w830190960",
@@ -12007,7 +12357,9 @@
       "city": "Biltmore Forest",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w831355923",
@@ -12058,7 +12410,9 @@
       "city": "Kure Beach",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w833049611",
@@ -12109,7 +12463,9 @@
       "city": "Kure Beach",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w835169356",
@@ -12143,7 +12499,9 @@
       "city": "Greensboro",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w842444627",
@@ -12608,7 +12966,9 @@
       "city": "Durham",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w889972191",
@@ -12727,7 +13087,9 @@
       "city": "Leland",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w893199577",
@@ -12744,7 +13106,9 @@
       "city": "Leland",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w893199596",
@@ -12761,7 +13125,9 @@
       "city": "Leland",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w893740682",
@@ -12795,7 +13161,9 @@
       "city": "Wilmington",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w893808091",
@@ -12812,7 +13180,9 @@
       "city": "New Hanover County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w894082574",
@@ -12846,7 +13216,9 @@
       "city": "Raleigh",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w895050227",
@@ -12914,7 +13286,9 @@
       "city": "Lexington",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w909855686",
@@ -12984,7 +13358,9 @@
       "city": "Indian Beach",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w917301526",
@@ -13086,7 +13462,9 @@
       "city": "Polkville",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w918971693",
@@ -13103,7 +13481,9 @@
       "city": "Currituck",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w919275306",
@@ -13241,7 +13621,9 @@
       "city": "Cumberland County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w942927931",
@@ -13377,7 +13759,9 @@
       "city": "Brunswick County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w957188334",
@@ -13394,7 +13778,9 @@
       "city": "Old Fort",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w960117802",
@@ -13428,7 +13814,9 @@
       "city": "Clay County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w976850512",
@@ -13445,7 +13833,9 @@
       "city": "Wilmington",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w978810843",
@@ -13481,7 +13871,9 @@
       "city": "Yadkin County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w981463625",
@@ -13532,7 +13924,9 @@
       "city": "Brunswick County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w981529708",
@@ -13585,7 +13979,9 @@
       "city": "Jackson County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w988764681",
@@ -13619,7 +14015,9 @@
       "city": "Wilmington",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w989270648",
@@ -13738,7 +14136,9 @@
       "city": "Buncombe County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w992103498",
@@ -13878,7 +14278,9 @@
       "city": "Asheville",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w993851938",
@@ -13963,7 +14365,9 @@
       "city": "Dare County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w996974106",
@@ -13980,7 +14384,9 @@
       "city": "Mitchell County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w997995529",
@@ -13997,7 +14403,9 @@
       "city": "Henderson County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1007120993",
@@ -14014,7 +14422,9 @@
       "city": "Garner",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1009204073",
@@ -14150,7 +14560,9 @@
       "city": "Brunswick County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1014208965",
@@ -14184,7 +14596,9 @@
       "city": "Jackson County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1018609779",
@@ -14271,7 +14685,9 @@
       "city": "Concord",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1028563434",
@@ -14305,7 +14721,9 @@
       "city": "Transylvania County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1037380745",
@@ -14339,7 +14757,9 @@
       "city": "Cary",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1042494556",
@@ -14390,7 +14810,9 @@
       "city": "Watauga County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1058388356",
@@ -14407,7 +14829,9 @@
       "city": "Wilmington",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1058662923",
@@ -14477,7 +14901,9 @@
       "city": "Currituck County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1064372003",
@@ -14530,7 +14956,9 @@
       "city": "Durham",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1066282166",
@@ -14583,7 +15011,9 @@
       "city": "Raleigh",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1067810755",
@@ -14668,7 +15098,9 @@
       "city": "Hoke County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084300982",
@@ -14685,7 +15117,9 @@
       "city": "New Hanover County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084402045",
@@ -14719,7 +15153,9 @@
       "city": "Henderson County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1086566449",
@@ -14736,7 +15172,9 @@
       "city": "Fairfield Harbour",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1086566743",
@@ -14753,7 +15191,9 @@
       "city": "Fairfield Harbour",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1086568220",
@@ -14770,7 +15210,9 @@
       "city": "Atlantic Beach",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1087080526",
@@ -14804,7 +15246,9 @@
       "city": "Sneads Ferry",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1088052993",
@@ -14821,7 +15265,9 @@
       "city": "North Topsail Beach",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1088056166",
@@ -14838,7 +15284,9 @@
       "city": "Sneads Ferry",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1089511776",
@@ -14855,7 +15303,9 @@
       "city": "Chatham County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1089769419",
@@ -14872,7 +15322,9 @@
       "city": "Carteret County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1089880601",
@@ -14889,7 +15341,9 @@
       "city": "Nelson",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1090852281",
@@ -14991,7 +15445,9 @@
       "city": "Pender County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1092207629",
@@ -15042,7 +15498,9 @@
       "city": "Charlotte",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1097129033",
@@ -15095,7 +15553,9 @@
       "city": "Washington Park",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1098503534",
@@ -15129,7 +15589,9 @@
       "city": "Carteret County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1101506314",
@@ -15146,7 +15608,9 @@
       "city": "Morehead City",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1105413156",
@@ -15180,7 +15644,9 @@
       "city": "High Point",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1106990344",
@@ -15197,7 +15663,9 @@
       "city": "Shallotte",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1106993997",
@@ -15214,7 +15682,9 @@
       "city": "Brunswick County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1107896483",
@@ -15282,7 +15752,9 @@
       "city": "Charlotte",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1118935556",
@@ -15316,7 +15788,9 @@
       "city": "Huntersville",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1120221330",
@@ -15333,7 +15807,9 @@
       "city": "Greensboro",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1120245833",
@@ -15420,7 +15896,9 @@
       "city": "Waxhaw",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1122092058",
@@ -15490,7 +15968,9 @@
       "city": "Carolina Beach",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1144117201",
@@ -15541,7 +16021,9 @@
       "city": "Greensboro",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1464437850",
@@ -15577,7 +16059,9 @@
       "city": "Corolla",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1162054455",
@@ -15628,7 +16112,9 @@
       "city": "Corolla",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1162633957",
@@ -15645,7 +16131,9 @@
       "city": "Dare County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1163108970",
@@ -15662,7 +16150,9 @@
       "city": "Charlotte",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1175510372",
@@ -15696,7 +16186,9 @@
       "city": "Charlotte",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1181762335",
@@ -15713,7 +16205,9 @@
       "city": "Currituck",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1185804796",
@@ -15764,7 +16258,9 @@
       "city": "Greensboro",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1197559794",
@@ -15781,7 +16277,9 @@
       "city": "Greensboro",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1198467679",
@@ -15798,7 +16296,9 @@
       "city": "Rockingham County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1203508030",
@@ -15885,7 +16385,9 @@
       "city": "Emerald Isle",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1207035009",
@@ -15936,7 +16438,9 @@
       "city": "Greensboro",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1208650560",
@@ -15953,7 +16457,9 @@
       "city": "Beaufort County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1208651371",
@@ -15970,7 +16476,9 @@
       "city": "Beaufort County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1208651496",
@@ -15987,7 +16495,9 @@
       "city": "Pamlico County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1208651582",
@@ -16004,7 +16514,9 @@
       "city": "Pamlico County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1208651602",
@@ -16021,7 +16533,9 @@
       "city": "Craven County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1208651786",
@@ -16038,7 +16552,9 @@
       "city": "Craven County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1208652300",
@@ -16055,7 +16571,9 @@
       "city": "Morehead City",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1208652321",
@@ -16072,7 +16590,9 @@
       "city": "Atlantic Beach",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1208652731",
@@ -16123,7 +16643,9 @@
       "city": "Morehead City",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1208653586",
@@ -16140,7 +16662,9 @@
       "city": "Carteret County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1208653800",
@@ -16157,7 +16681,9 @@
       "city": "Carteret County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1208653864",
@@ -16174,7 +16700,9 @@
       "city": "Carteret County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1208654503",
@@ -16191,7 +16719,9 @@
       "city": "Beaufort",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1210202287",
@@ -16225,7 +16755,9 @@
       "city": "Highlands",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1218592543",
@@ -16242,7 +16774,9 @@
       "city": "Dare County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1220346253",
@@ -16293,7 +16827,9 @@
       "city": "Davidson County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1226025237",
@@ -16361,7 +16897,9 @@
       "city": "Duck",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1226025431",
@@ -16395,7 +16933,9 @@
       "city": "Duck",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1226025452",
@@ -16531,7 +17071,9 @@
       "city": "Pender County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1234604025",
@@ -16565,7 +17107,9 @@
       "city": "Cornelius",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1239021075",
@@ -16582,7 +17126,9 @@
       "city": "Cornelius",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1239021085",
@@ -16599,7 +17145,9 @@
       "city": "Cornelius",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1239422946",
@@ -16650,7 +17198,9 @@
       "city": "Ocean Isle Beach",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1240336051",
@@ -16667,7 +17217,9 @@
       "city": "Ashe County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1240728111",
@@ -16684,7 +17236,9 @@
       "city": "Sneads Ferry",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1240795569",
@@ -16701,7 +17255,9 @@
       "city": "Duck",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1242605070",
@@ -16752,7 +17308,9 @@
       "city": "Winston-Salem",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1245262007",
@@ -16769,7 +17327,9 @@
       "city": "Burke County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1248794318",
@@ -16905,7 +17465,9 @@
       "city": "Greensboro",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1258894367",
@@ -16922,7 +17484,9 @@
       "city": "Brunswick County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1263886806",
@@ -16939,7 +17503,9 @@
       "city": "Kannapolis",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1263916715",
@@ -17009,7 +17575,9 @@
       "city": "Lumberton",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1264286222",
@@ -17094,7 +17662,9 @@
       "city": "Shallotte",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1266174523",
@@ -17164,7 +17734,9 @@
       "city": "Pineville",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1268218915",
@@ -17393,7 +17965,9 @@
       "city": "Carolina Shores",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1278568325",
@@ -17499,7 +18073,9 @@
       "city": "Durham",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1284844201",
@@ -17516,7 +18092,9 @@
       "city": "Winston-Salem",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1285809150",
@@ -17550,7 +18128,9 @@
       "city": "Cedar Point",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1292442762",
@@ -17567,7 +18147,9 @@
       "city": "New Hanover County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1292477083",
@@ -17601,7 +18183,9 @@
       "city": "Corolla",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1293457581",
@@ -17618,7 +18202,9 @@
       "city": "Pender County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1293462731",
@@ -17671,7 +18257,9 @@
       "city": "Graham County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1296217419",
@@ -17724,7 +18312,9 @@
       "city": "Huntersville",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1299259564",
@@ -17792,7 +18382,9 @@
       "city": "Watauga County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1301659346",
@@ -17809,7 +18401,9 @@
       "city": "Henderson County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1304464874",
@@ -17896,7 +18490,9 @@
       "city": "St. James",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1311816090",
@@ -17913,7 +18509,9 @@
       "city": "Minnesott Beach",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1313099489",
@@ -17930,7 +18528,9 @@
       "city": "Flat Rock",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1313099687",
@@ -17947,7 +18547,9 @@
       "city": "Hendersonville",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1313099833",
@@ -17964,7 +18566,9 @@
       "city": "Henderson County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1313185220",
@@ -17998,7 +18602,9 @@
       "city": "Rutherford County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1314017873",
@@ -18015,7 +18621,9 @@
       "city": "Davidson",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1314018184",
@@ -18049,7 +18657,9 @@
       "city": "Cornelius",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1314019581",
@@ -18066,7 +18676,9 @@
       "city": "Cornelius",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1314020126",
@@ -18102,7 +18714,9 @@
       "city": "Kannapolis",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1314021133",
@@ -18136,7 +18750,9 @@
       "city": "Iredell County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1314021433",
@@ -18170,7 +18786,9 @@
       "city": "Catawba",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1314316170",
@@ -18187,7 +18805,9 @@
       "city": "Emerald Isle",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1314316387",
@@ -18223,7 +18843,9 @@
       "city": "Clyde",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1314701949",
@@ -18240,7 +18862,9 @@
       "city": "Lincoln County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1314713958",
@@ -18257,7 +18881,9 @@
       "city": "Henderson County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1314819655",
@@ -18274,7 +18900,9 @@
       "city": "Brunswick County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1314898348",
@@ -18291,7 +18919,9 @@
       "city": "Greenville",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1314957131",
@@ -18325,7 +18955,9 @@
       "city": "Clarkton",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1315054197",
@@ -18359,7 +18991,9 @@
       "city": "Minnesott Beach",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1315478347",
@@ -18444,7 +19078,9 @@
       "city": "Morven",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1319754756",
@@ -18461,7 +19097,9 @@
       "city": "Unionville",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1320909457",
@@ -18582,7 +19220,9 @@
       "city": "Harrisburg",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1321756072",
@@ -18654,7 +19294,9 @@
       "city": "Concord",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1321757319",
@@ -18762,7 +19404,9 @@
       "city": "Buncombe County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1322000958",
@@ -18851,7 +19495,9 @@
       "city": "Buncombe County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1322948892",
@@ -18921,7 +19567,9 @@
       "city": "New Hanover County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1323331111",
@@ -18938,7 +19586,9 @@
       "city": "New Hanover County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1323331330",
@@ -18955,7 +19605,9 @@
       "city": "North Topsail Beach",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1323331339",
@@ -18972,7 +19624,9 @@
       "city": "Holly Ridge",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1323331411",
@@ -18989,7 +19643,9 @@
       "city": "Marine Corps Base Camp Lejeune",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1323331470",
@@ -19006,7 +19662,9 @@
       "city": "Emerald Isle",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1323331616",
@@ -19110,7 +19768,9 @@
       "city": "Wendell",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1323332119",
@@ -19127,7 +19787,9 @@
       "city": "Guilford County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1323332176",
@@ -19144,7 +19806,9 @@
       "city": "Greensboro",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1323332180",
@@ -19161,7 +19825,9 @@
       "city": "Greensboro",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1323332191",
@@ -19178,7 +19844,9 @@
       "city": "Greensboro",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1323332331",
@@ -19233,7 +19901,9 @@
       "city": "East Spencer",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1323365207",
@@ -19267,7 +19937,9 @@
       "city": "Buncombe County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1324254526",
@@ -19320,7 +19992,9 @@
       "city": "Guilford County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1325628152",
@@ -19373,7 +20047,9 @@
       "city": "Sanford",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1328880218",
@@ -19443,7 +20119,9 @@
       "city": "Lake Lure",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1329910054",
@@ -19460,7 +20138,9 @@
       "city": "Wilmington",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1329912468",
@@ -19545,7 +20225,9 @@
       "city": "Corolla",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1331113992",
@@ -19562,7 +20244,9 @@
       "city": "Corolla",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1331113998",
@@ -19596,7 +20280,9 @@
       "city": "Buncombe County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1332873808",
@@ -19664,7 +20350,9 @@
       "city": "Orange County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334161255",
@@ -19681,7 +20369,9 @@
       "city": "Wilkes County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334161274",
@@ -19732,7 +20422,9 @@
       "city": "Catawba County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334161468",
@@ -19749,7 +20441,9 @@
       "city": "Iredell County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334515953",
@@ -19766,7 +20460,9 @@
       "city": "Brevard",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334516079",
@@ -19800,7 +20496,9 @@
       "city": "Buncombe County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334516490",
@@ -19817,7 +20515,9 @@
       "city": "Asheville",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334516513",
@@ -19834,7 +20534,9 @@
       "city": "Asheville",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334517133",
@@ -19851,7 +20553,9 @@
       "city": "Polk County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334517951",
@@ -19906,7 +20610,9 @@
       "city": "Rowan County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334953161",
@@ -19940,7 +20646,9 @@
       "city": "Shallotte",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334993692",
@@ -19974,7 +20682,9 @@
       "city": "Robeson County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334993904",
@@ -19991,7 +20701,9 @@
       "city": "Robeson County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334994008",
@@ -20025,7 +20737,9 @@
       "city": "Montgomery County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334994585",
@@ -20078,7 +20792,9 @@
       "city": "Winston-Salem",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334995041",
@@ -20112,7 +20828,9 @@
       "city": "Snowbird Community ᏚᏘᏱ",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1335145938",
@@ -20186,7 +20904,9 @@
       "city": "Buncombe County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1339145470",
@@ -20237,7 +20957,9 @@
       "city": "Ocean Isle Beach",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1341931065",
@@ -20307,7 +21029,9 @@
       "city": "Kings Mountain",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1353509874",
@@ -20519,7 +21243,9 @@
       "city": "Polk County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1355501859",
@@ -20570,7 +21296,9 @@
       "city": "Sanford",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1355502999",
@@ -20587,7 +21315,9 @@
       "city": "Johnston County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1355503210",
@@ -20623,7 +21353,9 @@
       "city": "Franklin County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1355504631",
@@ -20674,7 +21406,9 @@
       "city": "Wilmington",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356375675",
@@ -20708,7 +21442,9 @@
       "city": "Charlotte",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356375975",
@@ -20810,7 +21546,9 @@
       "city": "Rockwell",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356414099",
@@ -20861,7 +21599,9 @@
       "city": "Charlotte",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356414329",
@@ -20931,7 +21671,9 @@
       "city": "Shallotte",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356433443",
@@ -21035,7 +21777,9 @@
       "city": "Kinston",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356437085",
@@ -21103,7 +21847,9 @@
       "city": "Wake Forest",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356638405",
@@ -21120,7 +21866,9 @@
       "city": "Dunn",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356638711",
@@ -21241,7 +21989,9 @@
       "city": "Goldsboro",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356641934",
@@ -21258,7 +22008,9 @@
       "city": "Goldsboro",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356642211",
@@ -21326,7 +22078,9 @@
       "city": "Whiteville",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356643199",
@@ -21343,7 +22097,9 @@
       "city": "Lake Waccamaw",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356645869",
@@ -21360,7 +22116,9 @@
       "city": "Lake Waccamaw",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356647288",
@@ -21411,7 +22169,9 @@
       "city": "Wilmington",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356649409",
@@ -21428,7 +22188,9 @@
       "city": "Wilmington",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356649474",
@@ -21445,7 +22207,9 @@
       "city": "Wilmington",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356649488",
@@ -21479,7 +22243,9 @@
       "city": "Wilmington",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356649575",
@@ -21496,7 +22262,9 @@
       "city": "Wilmington",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356649752",
@@ -21547,7 +22315,9 @@
       "city": "Cary",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356849365",
@@ -21600,7 +22370,9 @@
       "city": "Smithfield",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356853473",
@@ -21617,7 +22389,9 @@
       "city": "Sunset Beach",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356853578",
@@ -21651,7 +22425,9 @@
       "city": "Sanford",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356855411",
@@ -21668,7 +22444,9 @@
       "city": "Lee County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356855492",
@@ -21704,7 +22482,9 @@
       "city": "Goldston",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356855609",
@@ -21810,7 +22590,9 @@
       "city": "Wilmington",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356857738",
@@ -21827,7 +22609,9 @@
       "city": "Wilmington",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356857747",
@@ -21844,7 +22628,9 @@
       "city": "Wilmington",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356857838",
@@ -21861,7 +22647,9 @@
       "city": "New Hanover County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356857927",
@@ -21895,7 +22683,9 @@
       "city": "New Hanover County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356858016",
@@ -21912,7 +22702,9 @@
       "city": "Wilmington",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356858076",
@@ -21929,7 +22721,9 @@
       "city": "Wilmington",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356858151",
@@ -21946,7 +22740,9 @@
       "city": "New Hanover County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356858229",
@@ -21963,7 +22759,9 @@
       "city": "New Hanover County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356858236",
@@ -21980,7 +22778,9 @@
       "city": "Wilmington",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356858311",
@@ -21997,7 +22797,9 @@
       "city": "Wilmington",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356858386",
@@ -22067,7 +22869,9 @@
       "city": "Brunswick County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356859702",
@@ -22152,7 +22956,9 @@
       "city": "Lenoir County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356860447",
@@ -22169,7 +22975,9 @@
       "city": "Kinston",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356860693",
@@ -22203,7 +23011,9 @@
       "city": "Brunswick County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1360212826",
@@ -22220,7 +23030,9 @@
       "city": "Brunswick County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1361597228",
@@ -22411,7 +23223,9 @@
       "city": "Lincoln County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1387136611",
@@ -22428,7 +23242,9 @@
       "city": "Concord",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1388669324",
@@ -22445,7 +23261,9 @@
       "city": "Watauga County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1389574420",
@@ -22513,7 +23331,9 @@
       "city": "Aurora",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1395540291",
@@ -22530,7 +23350,9 @@
       "city": "Pittsboro",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1396097617",
@@ -22564,7 +23386,9 @@
       "city": "Candler",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1412087436",
@@ -22649,7 +23473,9 @@
       "city": "Wayne County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1412350108",
@@ -22683,7 +23509,9 @@
       "city": "McDowell County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1412404339",
@@ -22700,7 +23528,9 @@
       "city": "Beulaville",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1412413030",
@@ -22806,7 +23636,9 @@
       "city": "Henderson County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1413620345",
@@ -22840,7 +23672,9 @@
       "city": "Henderson County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1414154034",
@@ -22891,7 +23725,9 @@
       "city": "Guilford County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1414377836",
@@ -22908,7 +23744,9 @@
       "city": "Davidson County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1414982948",
@@ -22959,7 +23797,9 @@
       "city": "Hampstead",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1416563524",
@@ -22976,7 +23816,9 @@
       "city": "Alleghany County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1416738097",
@@ -22993,7 +23835,9 @@
       "city": "Sanford",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1416738186",
@@ -23010,7 +23854,9 @@
       "city": "Kenansville",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1416738617",
@@ -23027,7 +23873,9 @@
       "city": "Catawba County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1416738677",
@@ -23129,7 +23977,9 @@
       "city": "Trent Woods",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1420545396",
@@ -23146,7 +23996,9 @@
       "city": "New Hanover County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1420878248",
@@ -23163,7 +24015,9 @@
       "city": "Rockingham County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1422349972",
@@ -23199,7 +24053,9 @@
       "city": "Holden Beach",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1424850726",
@@ -23216,7 +24072,9 @@
       "city": "Buncombe County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1425055033",
@@ -23320,7 +24178,9 @@
       "city": "Pinehurst",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1425309885",
@@ -23337,7 +24197,9 @@
       "city": "Butner",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1426386970",
@@ -23373,7 +24235,9 @@
       "city": "Transylvania County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1429403512",
@@ -23553,7 +24417,9 @@
       "city": "New Hanover County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1431335516",
@@ -23659,7 +24525,9 @@
       "city": "Henderson",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1433220866",
@@ -23727,7 +24595,9 @@
       "city": "Durham",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1434060698",
@@ -23744,7 +24614,9 @@
       "city": "Conover",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1434139836",
@@ -23812,7 +24684,9 @@
       "city": "Atlantic Beach",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1434526853",
@@ -23952,7 +24826,9 @@
       "city": "Robersonville",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442139374",
@@ -24003,7 +24879,9 @@
       "city": "Wilmington",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442450644",
@@ -24071,7 +24949,9 @@
       "city": "Wilmington",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442978538",
@@ -24105,7 +24985,9 @@
       "city": "New Hanover County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442978544",
@@ -24139,7 +25021,9 @@
       "city": "New Hanover County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442978555",
@@ -24156,7 +25040,9 @@
       "city": "New Hanover County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442978557",
@@ -24173,7 +25059,9 @@
       "city": "New Hanover County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442978558",
@@ -24190,7 +25078,9 @@
       "city": "Carolina Beach",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442978559",
@@ -24292,7 +25182,9 @@
       "city": "St. James",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442978573",
@@ -24309,7 +25201,9 @@
       "city": "St. James",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442978576",
@@ -24462,7 +25356,9 @@
       "city": "New Bern",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442978620",
@@ -24653,7 +25549,9 @@
       "city": "Waynesville",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1444273655",
@@ -24742,7 +25640,9 @@
       "city": "Moore County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1445294224",
@@ -24829,7 +25729,9 @@
       "city": "Linville",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446042503",
@@ -24914,7 +25816,9 @@
       "city": "Durham",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446518275",
@@ -24965,7 +25869,9 @@
       "city": "Chapel Hill",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1447766218",
@@ -25173,7 +26079,9 @@
       "city": "Johnston County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1448340047",
@@ -25241,7 +26149,9 @@
       "city": "Surry County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1451400702",
@@ -25311,7 +26221,9 @@
       "city": "Greenville",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1452860966",
@@ -25379,7 +26291,9 @@
       "city": "Grandy",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1456031295",
@@ -25413,7 +26327,9 @@
       "city": "Tarboro",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1456709720",
@@ -25500,7 +26416,9 @@
       "city": "Brunswick County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1456940114",
@@ -25534,7 +26452,9 @@
       "city": "Buncombe County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1457136423",
@@ -25551,7 +26471,9 @@
       "city": "Buncombe County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1457191734",
@@ -25621,7 +26543,9 @@
       "city": "Beech Mountain",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1460780057",
@@ -25708,7 +26632,9 @@
       "city": "Chatham County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1464445922",
@@ -25725,7 +26651,9 @@
       "city": "Mount Holly",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1465117641",
@@ -25850,7 +26778,9 @@
       "city": "Nags Head",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1468123832",
@@ -25867,7 +26797,9 @@
       "city": "Wanchese",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1468124065",
@@ -25988,7 +26920,9 @@
       "city": "Kitty Hawk",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1472155439",
@@ -26075,7 +27009,9 @@
       "city": "Winston-Salem",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1473241183",
@@ -26143,7 +27079,9 @@
       "city": "Winston-Salem",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1473243721",
@@ -26330,7 +27268,9 @@
       "city": "Winston-Salem",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1473250659",
@@ -26559,7 +27499,9 @@
       "city": "Dare County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1473253297",
@@ -26576,7 +27518,9 @@
       "city": "Avon",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1473253354",
@@ -26593,7 +27537,9 @@
       "city": "Beaufort County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1473253407",
@@ -26678,7 +27624,9 @@
       "city": "Avery County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474235962",
@@ -26763,7 +27711,9 @@
       "city": "Kinston",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474894764",
@@ -26920,7 +27870,9 @@
       "city": "Enfield",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1476653744",
@@ -26937,7 +27889,9 @@
       "city": "Enfield",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1476654619",
@@ -27024,7 +27978,9 @@
       "city": "Person County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1476668355",
@@ -27077,7 +28033,9 @@
       "city": "Durham",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1476670383",
@@ -27217,7 +28175,9 @@
       "city": "Carolina Meadows",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1476688067",
@@ -27391,7 +28351,9 @@
       "city": "Martin County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1481250716",
@@ -27616,7 +28578,9 @@
       "city": "Atlantic Beach",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1481255764",
@@ -27650,7 +28614,9 @@
       "city": "Morehead City",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1481257199",
@@ -27701,7 +28667,9 @@
       "city": "Emerald Isle",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1481258134",
@@ -27771,7 +28739,9 @@
       "city": "Havelock",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1481259786",
@@ -27822,7 +28792,9 @@
       "city": "Holly Springs",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1481260587",
@@ -27907,7 +28879,9 @@
       "city": "Craven County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1481408066",
@@ -28028,7 +29002,9 @@
       "city": "Sneads Ferry",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1481424287",
@@ -28045,7 +29021,9 @@
       "city": "North Topsail Beach",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1481424795",
@@ -28079,7 +29057,9 @@
       "city": "Richlands",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1481425858",
@@ -28132,7 +29112,9 @@
       "city": "Johnston County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1481451819",
@@ -28217,7 +29199,9 @@
       "city": "Tarboro",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1482601949",
@@ -28268,7 +29252,9 @@
       "city": "Rocky Mount",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1482604208",
@@ -28302,7 +29288,9 @@
       "city": "Momeyer",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1482605717",
@@ -28374,7 +29362,9 @@
       "city": "Creedmoor",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1482607551",
@@ -28497,7 +29487,9 @@
       "city": "Surf City",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1482613964",
@@ -28531,7 +29523,9 @@
       "city": "Calabash",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1482691218",
@@ -28854,7 +29848,9 @@
       "city": "Elizabethtown",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1482935856",
@@ -28924,7 +29920,9 @@
       "city": "Apex",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1482958172",
@@ -29236,7 +30234,9 @@
       "city": "Chatham County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1483455289",
@@ -29510,7 +30510,9 @@
       "city": "Gibsonville",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1484176397",
@@ -29561,7 +30563,9 @@
       "city": "Whitsett",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1484177816",
@@ -29663,7 +30667,9 @@
       "city": "Winston-Salem",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1484218285",
@@ -29699,7 +30705,9 @@
       "city": "Summerfield",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1484394050",
@@ -29716,7 +30724,9 @@
       "city": "Summerfield",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1484394197",
@@ -29786,7 +30796,9 @@
       "city": "Davidson County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1484411865",
@@ -29928,7 +30940,9 @@
       "city": "Greensboro",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1484633057",
@@ -29945,7 +30959,9 @@
       "city": "Greensboro",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1484633706",
@@ -29962,7 +30978,9 @@
       "city": "Greensboro",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1484634619",
@@ -29979,7 +30997,9 @@
       "city": "High Point",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1484635138",
@@ -29996,7 +31016,9 @@
       "city": "Greensboro",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1484636216",
@@ -30064,7 +31086,9 @@
       "city": "Greensboro",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1484640557",
@@ -30302,7 +31326,9 @@
       "city": "Charlotte",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1486121789",
@@ -30438,7 +31464,9 @@
       "city": "Charlotte",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1486123486",
@@ -30455,7 +31483,9 @@
       "city": "Charlotte",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1486123648",
@@ -30489,7 +31519,9 @@
       "city": "Charlotte",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1486404725",
@@ -30661,7 +31693,9 @@
       "city": "Henderson County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1489947135",
@@ -30695,7 +31729,9 @@
       "city": "Huntersville",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1491018763",
@@ -30729,7 +31765,9 @@
       "city": "Ashe County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1491121672",
@@ -30763,7 +31801,9 @@
       "city": "Watauga County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1491121985",
@@ -30780,7 +31820,9 @@
       "city": "Seven Devils",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1491122083",
@@ -30814,7 +31856,9 @@
       "city": "Davidson County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1491254673",
@@ -30869,7 +31913,9 @@
       "city": "Yadkin County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1491355188",
@@ -31164,7 +32210,9 @@
       "city": "Wilkesboro",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1491478349",
@@ -31181,7 +32229,9 @@
       "city": "Wilkesboro",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1491480778",
@@ -31323,7 +32373,9 @@
       "city": "Graham County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1491511931",
@@ -31357,7 +32409,9 @@
       "city": "Asheville",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1491513481",
@@ -31391,7 +32445,9 @@
       "city": "Asheville",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1491515898",
@@ -31459,7 +32515,9 @@
       "city": "Henderson County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1491521177",
@@ -31527,7 +32585,9 @@
       "city": "Hendersonville",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1491522683",
@@ -31561,7 +32621,9 @@
       "city": "Flat Rock",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492033996",
@@ -31684,7 +32746,9 @@
       "city": "Randolph County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492444272",
@@ -32032,7 +33096,9 @@
       "city": "Davidson",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1493308430",
@@ -32119,7 +33185,9 @@
       "city": "Haywood County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1494098082",
@@ -32308,7 +33376,9 @@
       "city": "Rutherford County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1494102368",
@@ -32342,7 +33412,9 @@
       "city": "Lattimore",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1494102605",
@@ -32463,7 +33535,9 @@
       "city": "Hendersonville",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1494472628",
@@ -32635,7 +33709,9 @@
       "city": "Davidson County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1495487523",
@@ -32807,7 +33883,9 @@
       "city": "Rowan County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1495660001",
@@ -32824,7 +33902,9 @@
       "city": "Salisbury",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1495663595",
@@ -32913,7 +33993,9 @@
       "city": "Mooresville",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1495672037",
@@ -32930,7 +34012,9 @@
       "city": "Huntersville",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1495692232",
@@ -32981,7 +34065,9 @@
       "city": "Trinity",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1495696277",
@@ -32998,7 +34084,9 @@
       "city": "Lexington",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1495696415",
@@ -33185,7 +34273,9 @@
       "city": "Seven Lakes",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1495706218",
@@ -33202,7 +34292,9 @@
       "city": "Moore County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1495706450",
@@ -33270,7 +34362,9 @@
       "city": "Burke County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1495742763",
@@ -33410,7 +34504,9 @@
       "city": "Cornelius",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1495752195",
@@ -33444,7 +34540,9 @@
       "city": "Stanley",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1495752448",
@@ -33686,7 +34784,9 @@
       "city": "Haywood County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1501782763",
@@ -33703,7 +34803,9 @@
       "city": "Transylvania County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1504276704",
@@ -33807,7 +34909,9 @@
       "city": "Cleveland County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512783788",
@@ -33824,7 +34928,9 @@
       "city": "Iredell County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512783806",
@@ -33841,7 +34947,9 @@
       "city": "Winston-Salem",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512783828",
@@ -33858,7 +34966,9 @@
       "city": "Winston-Salem",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512783904",
@@ -33875,7 +34985,9 @@
       "city": "Winston-Salem",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1517864001",
@@ -33926,7 +35038,9 @@
       "city": "Avery County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1518299932",
@@ -33960,7 +35074,9 @@
       "city": "Lasker",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1523037233",
@@ -34102,7 +35218,9 @@
       "city": "Greenville",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1525677879",
@@ -34119,7 +35237,9 @@
       "city": "High Point",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1525678964",
@@ -34136,7 +35256,9 @@
       "city": "Greensboro",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1525681853",
@@ -34153,7 +35275,9 @@
       "city": "Kinston",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1525682529",
@@ -34223,7 +35347,9 @@
       "city": "Grifton",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1530459568",
@@ -34327,7 +35453,9 @@
       "city": "Haywood County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1546134291",
@@ -34344,7 +35472,9 @@
       "city": "Haywood County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1546549478",
@@ -34380,7 +35510,9 @@
       "city": "Southern Pines",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552395629",
@@ -34433,7 +35565,9 @@
       "city": "Henderson County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1553209613",
@@ -34537,7 +35671,9 @@
       "city": "Transylvania County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-r17871909",

@@ -138,7 +138,9 @@
       "city": "Washington",
       "state": "DC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w71282841",
@@ -155,7 +157,9 @@
       "city": "Washington",
       "state": "DC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1028703073",
@@ -518,7 +522,9 @@
       "city": "Washington",
       "state": "DC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w267914466",
@@ -535,7 +541,9 @@
       "city": "Washington",
       "state": "DC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w291701261",
@@ -569,7 +577,9 @@
       "city": "Washington",
       "state": "DC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w297306424",
@@ -711,7 +721,9 @@
       "city": "Washington",
       "state": "DC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w786571257",
@@ -902,7 +914,9 @@
       "city": "Washington",
       "state": "DC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1134277419",
@@ -936,7 +950,9 @@
       "city": "Washington",
       "state": "DC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1176304433",
@@ -1178,7 +1194,9 @@
       "city": "Washington",
       "state": "DC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1416534019",
@@ -1331,7 +1349,9 @@
       "city": "Washington",
       "state": "DC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1504736453",

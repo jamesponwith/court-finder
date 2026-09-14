@@ -999,7 +999,9 @@
       "city": "Arvada",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w46418330",
@@ -1033,7 +1035,9 @@
       "city": "Arvada",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w46705476",
@@ -1139,7 +1143,9 @@
       "city": "Northglenn",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w47235574",
@@ -1298,7 +1304,9 @@
       "city": "Arvada",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w48161764",
@@ -1419,7 +1427,9 @@
       "city": "Boulder County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w48700953",
@@ -1436,7 +1446,9 @@
       "city": "Fort Collins",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w48730344",
@@ -1523,7 +1535,9 @@
       "city": "Fort Collins",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w48842185",
@@ -1540,7 +1554,9 @@
       "city": "Fort Collins",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w48947913",
@@ -1593,7 +1609,9 @@
       "city": "Larimer County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w50049697",
@@ -1610,7 +1628,9 @@
       "city": "Larimer County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w50050227",
@@ -1644,7 +1664,9 @@
       "city": "Fort Collins",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w50196565",
@@ -1773,7 +1795,9 @@
       "city": "Colorado Springs",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w50484928",
@@ -2051,7 +2075,9 @@
       "city": "Centennial",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w51955186",
@@ -2136,7 +2162,9 @@
       "city": "Aurora",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w51968540",
@@ -2238,7 +2266,9 @@
       "city": "Boulder",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w52429074",
@@ -2255,7 +2285,9 @@
       "city": "Boulder",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w52429082",
@@ -2272,7 +2304,9 @@
       "city": "Boulder",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w54881692",
@@ -2342,7 +2376,9 @@
       "city": "Manitou Springs",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w72842630",
@@ -2359,7 +2395,9 @@
       "city": "Black Forest",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w81298237",
@@ -2393,7 +2431,9 @@
       "city": "Security",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w84963536",
@@ -2410,7 +2450,9 @@
       "city": "Colorado Springs",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w85775749",
@@ -2516,7 +2558,9 @@
       "city": "Bailey",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w88630422",
@@ -2620,7 +2664,9 @@
       "city": "Cripple Creek",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w102509592",
@@ -2828,7 +2874,9 @@
       "city": "Steamboat Springs",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w123896137",
@@ -3036,7 +3084,9 @@
       "city": "Littleton",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w149464419",
@@ -3265,7 +3315,9 @@
       "city": "Larimer County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w172241054",
@@ -3282,7 +3334,9 @@
       "city": "Ridgway",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w172367256",
@@ -3299,7 +3353,9 @@
       "city": "Evergreen",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w177246388",
@@ -3316,7 +3372,9 @@
       "city": "Julesburg",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w181133109",
@@ -3333,7 +3391,9 @@
       "city": "Steamboat Springs",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w186581742",
@@ -3350,7 +3410,9 @@
       "city": "Fort Collins",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w186939925",
@@ -3435,7 +3497,9 @@
       "city": "Boulder County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w191532177",
@@ -3753,7 +3817,9 @@
       "city": "Boulder",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w200692370",
@@ -3770,7 +3836,9 @@
       "city": "Boulder County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w200995288",
@@ -3855,7 +3923,9 @@
       "city": "Kremmling",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w203088887",
@@ -3872,7 +3942,9 @@
       "city": "Eagle",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w203229799",
@@ -3940,7 +4012,9 @@
       "city": "Cherry Hills Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w207637640",
@@ -4010,7 +4084,9 @@
       "city": "Cherry Hills Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w207637660",
@@ -4027,7 +4103,9 @@
       "city": "Cherry Hills Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w207637668",
@@ -4114,7 +4192,9 @@
       "city": "Cherry Hills Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w207637694",
@@ -4131,7 +4211,9 @@
       "city": "Cherry Hills Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w207770438",
@@ -4199,7 +4281,9 @@
       "city": "Boulder",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w217608341",
@@ -4216,7 +4300,9 @@
       "city": "Routt County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w217609289",
@@ -4267,7 +4353,9 @@
       "city": "Aurora",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w217705075",
@@ -4437,7 +4525,9 @@
       "city": "Vail",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w224258665",
@@ -4471,7 +4561,9 @@
       "city": "Vail",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w224267524",
@@ -4488,7 +4580,9 @@
       "city": "Vail",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w224286039",
@@ -4505,7 +4599,9 @@
       "city": "Vail",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w224319221",
@@ -4522,7 +4618,9 @@
       "city": "Jefferson County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w224376532",
@@ -4573,7 +4671,9 @@
       "city": "Vail",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w224421038",
@@ -4590,7 +4690,9 @@
       "city": "Vail",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w224523111",
@@ -4644,7 +4746,9 @@
       "city": "Vail",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w224655531",
@@ -4661,7 +4765,9 @@
       "city": "Vail",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w224689086",
@@ -4695,7 +4801,9 @@
       "city": "Vail",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w225059217",
@@ -4712,7 +4820,9 @@
       "city": "Blue River",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w225298588",
@@ -4729,7 +4839,9 @@
       "city": "Breckenridge",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w225330526",
@@ -4763,7 +4875,9 @@
       "city": "Breckenridge",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w225593991",
@@ -4797,7 +4911,9 @@
       "city": "Breckenridge",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w225695579",
@@ -4814,7 +4930,9 @@
       "city": "Summit County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w225747067",
@@ -4831,7 +4949,9 @@
       "city": "Black Forest",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w226091141",
@@ -4848,7 +4968,9 @@
       "city": "Summit County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w226316065",
@@ -4865,7 +4987,9 @@
       "city": "Frisco",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w226353816",
@@ -4882,7 +5006,9 @@
       "city": "Douglas County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w226396402",
@@ -4899,7 +5025,9 @@
       "city": "Frisco",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w226575368",
@@ -4916,7 +5044,9 @@
       "city": "Frisco",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w226575372",
@@ -4952,7 +5082,9 @@
       "city": "Frisco",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w226743448",
@@ -4969,7 +5101,9 @@
       "city": "Frisco",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w226874105",
@@ -4986,7 +5120,9 @@
       "city": "Summit County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w227146843",
@@ -5003,7 +5139,9 @@
       "city": "Summit County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w227351016",
@@ -5054,7 +5192,9 @@
       "city": "Keystone",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w227582984",
@@ -5071,7 +5211,9 @@
       "city": "Summit County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w227677816",
@@ -5088,7 +5230,9 @@
       "city": "Pitkin County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w227706537",
@@ -5105,7 +5249,9 @@
       "city": "Pitkin County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w227729962",
@@ -5156,7 +5302,9 @@
       "city": "Larimer County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w228007416",
@@ -5190,7 +5338,9 @@
       "city": "Aspen",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w228725809",
@@ -5207,7 +5357,9 @@
       "city": "Black Forest",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w228726086",
@@ -5224,7 +5376,9 @@
       "city": "Aspen",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w228760079",
@@ -5275,7 +5429,9 @@
       "city": "Aspen",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w229234463",
@@ -5309,7 +5465,9 @@
       "city": "Pitkin County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w229475363",
@@ -5326,7 +5484,9 @@
       "city": "Pitkin County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w229475365",
@@ -5343,7 +5503,9 @@
       "city": "Pitkin County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w229484815",
@@ -5360,7 +5522,9 @@
       "city": "Pitkin County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w229484817",
@@ -5377,7 +5541,9 @@
       "city": "Pitkin County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w229484818",
@@ -5394,7 +5560,9 @@
       "city": "Pitkin County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w229789779",
@@ -5428,7 +5596,9 @@
       "city": "Aspen",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w230048542",
@@ -5445,7 +5615,9 @@
       "city": "Pitkin County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w230253316",
@@ -5479,7 +5651,9 @@
       "city": "San Miguel County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w230486876",
@@ -5496,7 +5670,9 @@
       "city": "San Miguel County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w230486878",
@@ -5513,7 +5689,9 @@
       "city": "San Miguel County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w230513184",
@@ -5530,7 +5708,9 @@
       "city": "San Miguel County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w230858955",
@@ -5547,7 +5727,9 @@
       "city": "Mountain Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w230858958",
@@ -5564,7 +5746,9 @@
       "city": "Mountain Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w230878176",
@@ -5581,7 +5765,9 @@
       "city": "Mountain Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w230895469",
@@ -5598,7 +5784,9 @@
       "city": "San Miguel County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w231107987",
@@ -5632,7 +5820,9 @@
       "city": "San Miguel County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w231385834",
@@ -5649,7 +5839,9 @@
       "city": "Winter Park",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w231385836",
@@ -5666,7 +5858,9 @@
       "city": "Winter Park",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w231457433",
@@ -5683,7 +5877,9 @@
       "city": "Winter Park",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w231457436",
@@ -5751,7 +5947,9 @@
       "city": "Grand County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w231512934",
@@ -5785,7 +5983,9 @@
       "city": "Grand County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w231609695",
@@ -5836,7 +6036,9 @@
       "city": "Larimer County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w231740676",
@@ -5904,7 +6106,9 @@
       "city": "Snowmass Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w232961292",
@@ -5938,7 +6142,9 @@
       "city": "Snowmass Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w233045650",
@@ -5955,7 +6161,9 @@
       "city": "Snowmass Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w233437967",
@@ -5972,7 +6180,9 @@
       "city": "Mount Crested Butte",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w233437970",
@@ -5989,7 +6199,9 @@
       "city": "Mount Crested Butte",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w233444652",
@@ -6006,7 +6218,9 @@
       "city": "Mount Crested Butte",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w233545896",
@@ -6023,7 +6237,9 @@
       "city": "Mount Crested Butte",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w233629871",
@@ -6040,7 +6256,9 @@
       "city": "Gunnison County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w233668047",
@@ -6108,7 +6326,9 @@
       "city": "Steamboat Springs",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w234283427",
@@ -6125,7 +6345,9 @@
       "city": "Steamboat Springs",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w234386269",
@@ -6142,7 +6364,9 @@
       "city": "Evergreen",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w234491383",
@@ -6176,7 +6400,9 @@
       "city": "Steamboat Springs",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w236803062",
@@ -6261,7 +6487,9 @@
       "city": "El Paso County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w237539258",
@@ -6278,7 +6506,9 @@
       "city": "Steamboat Springs",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w237600687",
@@ -6295,7 +6525,9 @@
       "city": "Steamboat Springs",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w237747921",
@@ -6312,7 +6544,9 @@
       "city": "Steamboat Springs",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w237749753",
@@ -6329,7 +6563,9 @@
       "city": "Castle Rock",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w237832665",
@@ -6346,7 +6582,9 @@
       "city": "Steamboat Springs",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w238331191",
@@ -6363,7 +6601,9 @@
       "city": "Steamboat Springs",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w238473017",
@@ -6380,7 +6620,9 @@
       "city": "Castle Rock",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w238573058",
@@ -6397,7 +6639,9 @@
       "city": "Eagle County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w238609105",
@@ -6431,7 +6675,9 @@
       "city": "Beaver Creek",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w238752120",
@@ -6550,7 +6796,9 @@
       "city": "Eagle County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w249566873",
@@ -6567,7 +6815,9 @@
       "city": "Denver",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w256670818",
@@ -6635,7 +6885,9 @@
       "city": "Denver",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w259358438",
@@ -6652,7 +6904,9 @@
       "city": "Summit County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w259972276",
@@ -6739,7 +6993,9 @@
       "city": "Denver",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w276426286",
@@ -6790,7 +7046,9 @@
       "city": "Denver",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w277950715",
@@ -6841,7 +7099,9 @@
       "city": "Aurora",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w279674556",
@@ -6858,7 +7118,9 @@
       "city": "Aurora",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w282850196",
@@ -6909,7 +7171,9 @@
       "city": "Mesa County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w286788084",
@@ -6960,7 +7224,9 @@
       "city": "Aurora",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w293548237",
@@ -6977,7 +7243,9 @@
       "city": "Mesa County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w294121385",
@@ -7028,7 +7296,9 @@
       "city": "Clear Creek County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w297125839",
@@ -7113,7 +7383,9 @@
       "city": "Denver",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w310694651",
@@ -7130,7 +7402,9 @@
       "city": "Grand County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w313636567",
@@ -7164,7 +7438,9 @@
       "city": "Centennial",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w317464023",
@@ -7249,7 +7525,9 @@
       "city": "Wheat Ridge",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w326664968",
@@ -7266,7 +7544,9 @@
       "city": "Greeley",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w327146287",
@@ -7357,7 +7637,9 @@
       "city": "Broomfield",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w335529484",
@@ -7391,7 +7673,9 @@
       "city": "Arapahoe County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w336765208",
@@ -7459,7 +7743,9 @@
       "city": "Denver",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w338497675",
@@ -7546,7 +7832,9 @@
       "city": "Wray",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w343952213",
@@ -7563,7 +7851,9 @@
       "city": "Hot Sulphur Springs",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w346760481",
@@ -7671,7 +7961,9 @@
       "city": "Boulder",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w358700221",
@@ -7866,7 +8158,9 @@
       "city": "Lakewood",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w366142309",
@@ -7883,7 +8177,9 @@
       "city": "Arvada",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w366226083",
@@ -7936,7 +8232,9 @@
       "city": "West Pleasant View",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w367105990",
@@ -7989,7 +8287,9 @@
       "city": "Wheat Ridge",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w368339807",
@@ -8040,7 +8340,9 @@
       "city": "Jefferson County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w371298206",
@@ -8176,7 +8478,9 @@
       "city": "Gunnison County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w384560953",
@@ -8193,7 +8497,9 @@
       "city": "Nucla",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w386431421",
@@ -8382,7 +8688,9 @@
       "city": "Boulder County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w431593897",
@@ -8399,7 +8707,9 @@
       "city": "Fort Collins",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w433163317",
@@ -8484,7 +8794,9 @@
       "city": "Westminster",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w436617585",
@@ -8552,7 +8864,9 @@
       "city": "Westminster",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w444638423",
@@ -8569,7 +8883,9 @@
       "city": "Jefferson County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w444645253",
@@ -8586,7 +8902,9 @@
       "city": "Fort Collins",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w445465398",
@@ -8637,7 +8955,9 @@
       "city": "Walsenburg",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w452171799",
@@ -8654,7 +8974,9 @@
       "city": "Longmont",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w453281847",
@@ -8688,7 +9010,9 @@
       "city": "Jefferson County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w456782020",
@@ -8739,7 +9063,9 @@
       "city": "Fort Collins",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w465400890",
@@ -8756,7 +9082,9 @@
       "city": "Larimer County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w465795356",
@@ -8773,7 +9101,9 @@
       "city": "Larimer County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w466403746",
@@ -8790,7 +9120,9 @@
       "city": "Boulder County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w468014297",
@@ -8807,7 +9139,9 @@
       "city": "Fort Collins",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w468236754",
@@ -8858,7 +9192,9 @@
       "city": "Centennial",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w469220048",
@@ -8909,7 +9245,9 @@
       "city": "Leadville",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w469563837",
@@ -8998,7 +9336,9 @@
       "city": "Lamar",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w472096646",
@@ -9015,7 +9355,9 @@
       "city": "Boulder County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w472096659",
@@ -9032,7 +9374,9 @@
       "city": "Boulder County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w473174547",
@@ -9170,7 +9514,9 @@
       "city": "Larimer County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w488061226",
@@ -9204,7 +9550,9 @@
       "city": "Boulder County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w490931310",
@@ -9221,7 +9569,9 @@
       "city": "Grand Junction",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w492856886",
@@ -9306,7 +9656,9 @@
       "city": "Erie",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w511870235",
@@ -9448,7 +9800,9 @@
       "city": "Greenwood Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w532114595",
@@ -9482,7 +9836,9 @@
       "city": "Aurora",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w532845127",
@@ -9499,7 +9855,9 @@
       "city": "Aurora",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w533272210",
@@ -9516,7 +9874,9 @@
       "city": "Boulder County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w533272211",
@@ -9703,7 +10063,9 @@
       "city": "Gunbarrel",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w543473890",
@@ -9788,7 +10150,9 @@
       "city": "Cherry Hills Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w544294311",
@@ -9805,7 +10169,9 @@
       "city": "Cherry Hills Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w544294333",
@@ -9822,7 +10188,9 @@
       "city": "Cherry Hills Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w544297025",
@@ -9856,7 +10224,9 @@
       "city": "Cherry Hills Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w544301102",
@@ -9873,7 +10243,9 @@
       "city": "Greenwood Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w544301108",
@@ -9890,7 +10262,9 @@
       "city": "Greenwood Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w544301114",
@@ -9907,7 +10281,9 @@
       "city": "Greenwood Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w544301127",
@@ -9924,7 +10300,9 @@
       "city": "Greenwood Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w544301137",
@@ -9941,7 +10319,9 @@
       "city": "Greenwood Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w544301142",
@@ -9958,7 +10338,9 @@
       "city": "Centennial",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w544322821",
@@ -10200,7 +10582,9 @@
       "city": "Greeley",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w549436509",
@@ -10217,7 +10601,9 @@
       "city": "Greeley",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w551099302",
@@ -10307,7 +10693,9 @@
       "city": "Greenwood Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w565172242",
@@ -10341,7 +10729,9 @@
       "city": "Boulder County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w566476591",
@@ -10358,7 +10748,9 @@
       "city": "Boulder County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w566476601",
@@ -10392,7 +10784,9 @@
       "city": "Boulder",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w571006532",
@@ -10409,7 +10803,9 @@
       "city": "Lone Tree",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w571008365",
@@ -10426,7 +10822,9 @@
       "city": "Lone Tree",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w571860664",
@@ -10683,7 +11081,9 @@
       "city": "Mead",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w603495136",
@@ -10700,7 +11100,9 @@
       "city": "Arvada",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w608824529",
@@ -10804,7 +11206,9 @@
       "city": "Niwot",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w617123959",
@@ -10821,7 +11225,9 @@
       "city": "El Paso County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w618082291",
@@ -10855,7 +11261,9 @@
       "city": "Colorado Springs",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w620758652",
@@ -10906,7 +11314,9 @@
       "city": "Teller County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w631379850",
@@ -10923,7 +11333,9 @@
       "city": "Colorado Springs",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w634520614",
@@ -10940,7 +11352,9 @@
       "city": "Arapahoe County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w636701009",
@@ -10976,7 +11390,9 @@
       "city": "Denver",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w639679110",
@@ -11027,7 +11443,9 @@
       "city": "Mead",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w664047447",
@@ -11114,7 +11532,9 @@
       "city": "Laporte",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w671870561",
@@ -11131,7 +11551,9 @@
       "city": "Castle Rock",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w675055722",
@@ -11184,7 +11606,9 @@
       "city": "San Juan County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w680649769",
@@ -11201,7 +11625,9 @@
       "city": "Rangely",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w681409721",
@@ -11218,7 +11644,9 @@
       "city": "Fort Collins",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w681533729",
@@ -11273,7 +11701,9 @@
       "city": "Boulder County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w682279067",
@@ -11290,7 +11720,9 @@
       "city": "Boulder",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w683474785",
@@ -11341,7 +11773,9 @@
       "city": "Cherry Hills Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w686160953",
@@ -11358,7 +11792,9 @@
       "city": "Cherry Hills Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w686160960",
@@ -11375,7 +11811,9 @@
       "city": "Cherry Hills Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w686374257",
@@ -11443,7 +11881,9 @@
       "city": "Cherry Hills Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w697652690",
@@ -11460,7 +11900,9 @@
       "city": "Cherry Hills Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w697653240",
@@ -11477,7 +11919,9 @@
       "city": "Cherry Hills Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w697653250",
@@ -11494,7 +11938,9 @@
       "city": "Cherry Hills Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w697653260",
@@ -11511,7 +11957,9 @@
       "city": "Cherry Hills Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w697653814",
@@ -11528,7 +11976,9 @@
       "city": "Cherry Hills Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w699134655",
@@ -11545,7 +11995,9 @@
       "city": "La Plata County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w711669179",
@@ -11683,7 +12135,9 @@
       "city": "Colorado City",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w764016434",
@@ -11768,7 +12222,9 @@
       "city": "Lakewood",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w766550651",
@@ -11838,7 +12294,9 @@
       "city": "Fort Collins",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w769800535",
@@ -11957,7 +12415,9 @@
       "city": "El Paso County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w792319746",
@@ -12029,7 +12489,9 @@
       "city": "La Salle",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w794616704",
@@ -12046,7 +12508,9 @@
       "city": "Arvada",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w797759692",
@@ -12080,7 +12544,9 @@
       "city": "Lakewood",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w800653089",
@@ -12133,7 +12599,9 @@
       "city": "Denver",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w814006476",
@@ -12326,7 +12794,9 @@
       "city": "Fort Collins",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w835350860",
@@ -12360,7 +12830,9 @@
       "city": "Colorado Springs",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w842406468",
@@ -12377,7 +12849,9 @@
       "city": "Milliken",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w842486393",
@@ -12445,7 +12919,9 @@
       "city": "Cherry Hills Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w842488319",
@@ -12462,7 +12938,9 @@
       "city": "Cherry Hills Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w842488320",
@@ -12479,7 +12957,9 @@
       "city": "Cherry Hills Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w842488322",
@@ -12513,7 +12993,9 @@
       "city": "Lakewood",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w846257676",
@@ -12530,7 +13012,9 @@
       "city": "Larimer County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w864177718",
@@ -12547,7 +13031,9 @@
       "city": "Boulder County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w864522070",
@@ -12583,7 +13069,9 @@
       "city": "Boulder County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w866738916",
@@ -12617,7 +13105,9 @@
       "city": "Boulder",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w879038800",
@@ -12634,7 +13124,9 @@
       "city": "Pueblo County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w883978547",
@@ -12651,7 +13143,9 @@
       "city": "Lake City",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w883988786",
@@ -12668,7 +13162,9 @@
       "city": "Ignacio",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w884129949",
@@ -12702,7 +13198,9 @@
       "city": "Boulder",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w909172162",
@@ -12770,7 +13268,9 @@
       "city": "Arapahoe County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w940894331",
@@ -12859,7 +13359,9 @@
       "city": "Englewood",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w961081508",
@@ -12982,7 +13484,9 @@
       "city": "Highlands Ranch",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w987030578",
@@ -12999,7 +13503,9 @@
       "city": "Lakewood",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w990083983",
@@ -13016,7 +13522,9 @@
       "city": "Denver",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w992085145",
@@ -13033,7 +13541,9 @@
       "city": "Lakewood",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w994078429",
@@ -13103,7 +13613,9 @@
       "city": "Greenwood Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1001844572",
@@ -13120,7 +13632,9 @@
       "city": "Carbondale",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1001844575",
@@ -13137,7 +13651,9 @@
       "city": "Carbondale",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1001899687",
@@ -13154,7 +13670,9 @@
       "city": "Pitkin County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1003307582",
@@ -13207,7 +13725,9 @@
       "city": "Northglenn",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1010338647",
@@ -13224,7 +13744,9 @@
       "city": "Glendale",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1010397006",
@@ -13241,7 +13763,9 @@
       "city": "Boulder County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1011048221",
@@ -13275,7 +13799,9 @@
       "city": "Greeley",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1011290386",
@@ -13309,7 +13835,9 @@
       "city": "Thornton",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1012894905",
@@ -13428,7 +13956,9 @@
       "city": "Aurora",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1017485473",
@@ -13547,7 +14077,9 @@
       "city": "Larimer County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1018947704",
@@ -13581,7 +14113,9 @@
       "city": "Denver",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1020391313",
@@ -13598,7 +14132,9 @@
       "city": "Rio Grande County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1021472004",
@@ -13649,7 +14185,9 @@
       "city": "Denver",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1022080051",
@@ -13736,7 +14274,9 @@
       "city": "Arvada",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1022735651",
@@ -13753,7 +14293,9 @@
       "city": "Westminster",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1022867431",
@@ -13944,7 +14486,9 @@
       "city": "Lakewood",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1026580838",
@@ -13995,7 +14539,9 @@
       "city": "Lakewood",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1027234594",
@@ -14046,7 +14592,9 @@
       "city": "Boulder",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1031531073",
@@ -14082,7 +14630,9 @@
       "city": "Greenwood Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1031684191",
@@ -14099,7 +14649,9 @@
       "city": "Greenwood Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1031684202",
@@ -14167,7 +14719,9 @@
       "city": "Greenwood Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1032024708",
@@ -14339,7 +14893,9 @@
       "city": "Berthoud",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1046073799",
@@ -14409,7 +14965,9 @@
       "city": "Aurora",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1053489047",
@@ -14606,7 +15164,9 @@
       "city": "Thornton",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1064959673",
@@ -14623,7 +15183,9 @@
       "city": "Mesa County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1065554264",
@@ -14659,7 +15221,9 @@
       "city": "Chaffee County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1067411407",
@@ -14729,7 +15293,9 @@
       "city": "Pueblo County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1078674446",
@@ -14763,7 +15329,9 @@
       "city": "Aurora",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084960554",
@@ -14780,7 +15348,9 @@
       "city": "Custer County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1085616772",
@@ -14814,7 +15384,9 @@
       "city": "Fort Collins",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1087974526",
@@ -14831,7 +15403,9 @@
       "city": "Fort Collins",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1090370990",
@@ -14848,7 +15422,9 @@
       "city": "Custer County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1090599787",
@@ -14865,7 +15441,9 @@
       "city": "Larimer County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1093501614",
@@ -14882,7 +15460,9 @@
       "city": "Weld County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1096170453",
@@ -14916,7 +15496,9 @@
       "city": "Aurora",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1104444305",
@@ -14933,7 +15515,9 @@
       "city": "Longmont",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1104771345",
@@ -15001,7 +15585,9 @@
       "city": "Green Mountain Falls",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1125125016",
@@ -15037,7 +15623,9 @@
       "city": "Basalt",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1135823409",
@@ -15147,7 +15735,9 @@
       "city": "Pueblo",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1136590214",
@@ -15183,7 +15773,9 @@
       "city": "Pueblo",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1148534977",
@@ -15399,7 +15991,9 @@
       "city": "Aurora",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1177324285",
@@ -15433,7 +16027,9 @@
       "city": "Gilpin County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1192371956",
@@ -15535,7 +16131,9 @@
       "city": "Boulder County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1203840660",
@@ -15552,7 +16150,9 @@
       "city": "Aurora",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1212978221",
@@ -15660,7 +16260,9 @@
       "city": "Greenwood Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1256013743",
@@ -15728,7 +16330,9 @@
       "city": "Douglas County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1258038463",
@@ -15745,7 +16349,9 @@
       "city": "Colorado Springs",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1258941390",
@@ -15762,7 +16368,9 @@
       "city": "Douglas County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1259738142",
@@ -15796,7 +16404,9 @@
       "city": "Greenwood Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1260460901",
@@ -15813,7 +16423,9 @@
       "city": "Greenwood Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1260465962",
@@ -15830,7 +16442,9 @@
       "city": "Greenwood Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1260465986",
@@ -15847,7 +16461,9 @@
       "city": "Greenwood Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1260466026",
@@ -15881,7 +16497,9 @@
       "city": "Cherry Hills Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1260473176",
@@ -15915,7 +16533,9 @@
       "city": "Douglas County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1262070005",
@@ -15932,7 +16552,9 @@
       "city": "Douglas County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1262070112",
@@ -15949,7 +16571,9 @@
       "city": "Douglas County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1262371246",
@@ -15966,7 +16590,9 @@
       "city": "Douglas County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1262375060",
@@ -16000,7 +16626,9 @@
       "city": "Douglas County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1262725076",
@@ -16017,7 +16645,9 @@
       "city": "Douglas County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1262725250",
@@ -16102,7 +16732,9 @@
       "city": "Aurora",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1264299247",
@@ -16119,7 +16751,9 @@
       "city": "Aurora",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1264299248",
@@ -16136,7 +16770,9 @@
       "city": "Aurora",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1264299344",
@@ -16153,7 +16789,9 @@
       "city": "Aurora",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1264428387",
@@ -16244,7 +16882,9 @@
       "city": "Colorado Springs",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1283012263",
@@ -16297,7 +16937,9 @@
       "city": "Douglas County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1283416875",
@@ -16314,7 +16956,9 @@
       "city": "Castle Rock",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1283520179",
@@ -16350,7 +16994,9 @@
       "city": "Granby",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1289786379",
@@ -16367,7 +17013,9 @@
       "city": "Granby",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1311126131",
@@ -16401,7 +17049,9 @@
       "city": "Elbert County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1315828260",
@@ -16435,7 +17085,9 @@
       "city": "Denver",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1316579111",
@@ -16541,7 +17193,9 @@
       "city": "Fort Collins",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1319754932",
@@ -16577,7 +17231,9 @@
       "city": "Grand Junction",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1321635061",
@@ -16594,7 +17250,9 @@
       "city": "Grand Junction",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1321635300",
@@ -16628,7 +17286,9 @@
       "city": "Grand Junction",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1321635856",
@@ -16662,7 +17322,9 @@
       "city": "Jefferson County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1327400455",
@@ -16696,7 +17358,9 @@
       "city": "Rio Blanco County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1328309087",
@@ -16713,7 +17377,9 @@
       "city": "Rio Blanco County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1329389794",
@@ -16872,7 +17538,9 @@
       "city": "Arvada",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1347419190",
@@ -16942,7 +17610,9 @@
       "city": "Jefferson County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1354507736",
@@ -16959,7 +17629,9 @@
       "city": "Parachute",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1354508704",
@@ -16976,7 +17648,9 @@
       "city": "Parachute",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1354509227",
@@ -16993,7 +17667,9 @@
       "city": "Rifle",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1357924966",
@@ -17010,7 +17686,9 @@
       "city": "Aurora",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1360173120",
@@ -17082,7 +17760,9 @@
       "city": "Colorado Springs",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1392292096",
@@ -17099,7 +17779,9 @@
       "city": "Gunnison County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1394454103",
@@ -17116,7 +17798,9 @@
       "city": "Larimer County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1394937611",
@@ -17133,7 +17817,9 @@
       "city": "Gunnison County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1412124571",
@@ -17184,7 +17870,9 @@
       "city": "Fremont County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1413528294",
@@ -17201,7 +17889,9 @@
       "city": "Denver",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1414715512",
@@ -17218,7 +17908,9 @@
       "city": "Granby",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1414783604",
@@ -17235,7 +17927,9 @@
       "city": "Boulder",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1414783682",
@@ -17252,7 +17946,9 @@
       "city": "Boulder",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1414783819",
@@ -17375,7 +18071,9 @@
       "city": "Lafayette",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1432061561",
@@ -17409,7 +18107,9 @@
       "city": "Cortez",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1432328601",
@@ -17494,7 +18194,9 @@
       "city": "Larimer County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1434533215",
@@ -17581,7 +18283,9 @@
       "city": "Boulder County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1436696345",
@@ -17893,7 +18597,9 @@
       "city": "Gunnison County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1450689764",
@@ -18031,7 +18737,9 @@
       "city": "Greenwood Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1456778129",
@@ -18133,7 +18841,9 @@
       "city": "Larimer County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1462201208",
@@ -18184,7 +18894,9 @@
       "city": "Denver",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1467144302",
@@ -18201,7 +18913,9 @@
       "city": "Huerfano County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1467144595",
@@ -18218,7 +18932,9 @@
       "city": "Colorado City",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1468880789",
@@ -18235,7 +18951,9 @@
       "city": "Routt County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1468899566",
@@ -18320,7 +19038,9 @@
       "city": "Cedaredge",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469332487",
@@ -18356,7 +19076,9 @@
       "city": "La Plata County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469332829",
@@ -18373,7 +19095,9 @@
       "city": "La Plata County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469333061",
@@ -18407,7 +19131,9 @@
       "city": "Durango",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469662336",
@@ -18458,7 +19184,9 @@
       "city": "Garfield County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469662480",
@@ -18596,7 +19324,9 @@
       "city": "Hayden",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469926418",
@@ -18613,7 +19343,9 @@
       "city": "Jackson County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469926764",
@@ -18664,7 +19396,9 @@
       "city": "Granby",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469928431",
@@ -18681,7 +19415,9 @@
       "city": "Summit County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469929575",
@@ -18698,7 +19434,9 @@
       "city": "Monte Vista",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469929769",
@@ -18732,7 +19470,9 @@
       "city": "Fremont County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469930275",
@@ -18800,7 +19540,9 @@
       "city": "Larimer County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470161563",
@@ -18963,7 +19705,9 @@
       "city": "Colorado Springs",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470266058",
@@ -19194,7 +19938,9 @@
       "city": "Larimer County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470277508",
@@ -19211,7 +19957,9 @@
       "city": "Loveland",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470277537",
@@ -19262,7 +20010,9 @@
       "city": "Fort Collins",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470278392",
@@ -19279,7 +20029,9 @@
       "city": "Fort Collins",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470278518",
@@ -19296,7 +20048,9 @@
       "city": "Fort Collins",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470279437",
@@ -19330,7 +20084,9 @@
       "city": "Fort Collins",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470279984",
@@ -19574,7 +20330,9 @@
       "city": "Castle Pines",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470376111",
@@ -19591,7 +20349,9 @@
       "city": "Castle Pines",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470376483",
@@ -19852,7 +20612,9 @@
       "city": "Westminster",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470387632",
@@ -19920,7 +20682,9 @@
       "city": "Centennial",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470420525",
@@ -19937,7 +20701,9 @@
       "city": "Centennial",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470421865",
@@ -20109,7 +20875,9 @@
       "city": "Roxborough Park",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470425393",
@@ -20281,7 +21049,9 @@
       "city": "Boulder",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470426193",
@@ -20349,7 +21119,9 @@
       "city": "Boulder",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470426582",
@@ -20417,7 +21189,9 @@
       "city": "Aspen Park",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470427167",
@@ -20451,7 +21225,9 @@
       "city": "Jefferson County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470427400",
@@ -20468,7 +21244,9 @@
       "city": "Jefferson County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470427428",
@@ -20519,7 +21297,9 @@
       "city": "Arvada",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470428847",
@@ -20536,7 +21316,9 @@
       "city": "Arvada",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470428909",
@@ -20589,7 +21371,9 @@
       "city": "Westminster",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470429102",
@@ -20657,7 +21441,9 @@
       "city": "Lakewood",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470429357",
@@ -20918,7 +21704,9 @@
       "city": "Aurora",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471457202",
@@ -20988,7 +21776,9 @@
       "city": "Aurora",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471463029",
@@ -21005,7 +21795,9 @@
       "city": "Aurora",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471463140",
@@ -21022,7 +21814,9 @@
       "city": "Aurora",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471463575",
@@ -21109,7 +21903,9 @@
       "city": "Aurora",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471466158",
@@ -21228,7 +22024,9 @@
       "city": "Westminster",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471468766",
@@ -21315,7 +22113,9 @@
       "city": "Denver",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471470726",
@@ -21366,7 +22166,9 @@
       "city": "Denver",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471473149",
@@ -21402,7 +22204,9 @@
       "city": "Centennial",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471474145",
@@ -21487,7 +22291,9 @@
       "city": "Greenwood Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471476920",
@@ -21610,7 +22416,9 @@
       "city": "Lakewood",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471478984",
@@ -21712,7 +22520,9 @@
       "city": "Pitkin County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1476319192",
@@ -21729,7 +22539,9 @@
       "city": "Pitkin County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1476319196",
@@ -21746,7 +22558,9 @@
       "city": "Pitkin County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1477314455",
@@ -21763,7 +22577,9 @@
       "city": "Woody Creek",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1477314460",
@@ -21780,7 +22596,9 @@
       "city": "Woody Creek",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1477371449",
@@ -21797,7 +22615,9 @@
       "city": "Woody Creek",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1477766708",
@@ -21814,7 +22634,9 @@
       "city": "Pitkin County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1480687410",
@@ -21831,7 +22653,9 @@
       "city": "Woody Creek",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1480992124",
@@ -22160,7 +22984,9 @@
       "city": "Pueblo",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1497456728",
@@ -22247,7 +23073,9 @@
       "city": "Jefferson County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1523132838",
@@ -22264,7 +23092,9 @@
       "city": "Greeley",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1523802437",
@@ -22281,7 +23111,9 @@
       "city": "Falcon",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524551166",
@@ -22298,7 +23130,9 @@
       "city": "Fremont County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1528559283",
@@ -22315,7 +23149,9 @@
       "city": "Denver",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1528573151",
@@ -22332,7 +23168,9 @@
       "city": "Denver",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1529031129",
@@ -22349,7 +23187,9 @@
       "city": "Gleneagle",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1529753750",
@@ -22434,7 +23274,9 @@
       "city": "Durango",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1536312199",
@@ -22451,7 +23293,9 @@
       "city": "Saguache County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1536312323",
@@ -22504,7 +23348,9 @@
       "city": "Garfield County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1548993417",
@@ -22572,7 +23418,9 @@
       "city": "Glenwood Springs",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1549217344",
@@ -22589,7 +23437,9 @@
       "city": "Garfield County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1549516610",
@@ -22659,7 +23509,9 @@
       "city": "Garfield County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1549788329",
@@ -22710,7 +23562,9 @@
       "city": "Cattle Creek",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1549990587",
@@ -22727,7 +23581,9 @@
       "city": "Garfield County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1549992632",
@@ -22744,7 +23600,9 @@
       "city": "Garfield County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1549997155",
@@ -22865,7 +23723,9 @@
       "city": "Garfield County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1550246549",
@@ -22882,7 +23742,9 @@
       "city": "El Jebel",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1550247442",
@@ -22899,7 +23761,9 @@
       "city": "Basalt",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1550247456",
@@ -22916,7 +23780,9 @@
       "city": "Basalt",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1550248075",
@@ -22933,7 +23799,9 @@
       "city": "Basalt",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1550251177",
@@ -22950,7 +23818,9 @@
       "city": "Pitkin County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1550253191",
@@ -22967,7 +23837,9 @@
       "city": "Pitkin County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1550446940",
@@ -22984,7 +23856,9 @@
       "city": "Denver",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1550446942",
@@ -23001,7 +23875,9 @@
       "city": "Denver",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1550711706",
@@ -23018,7 +23894,9 @@
       "city": "Cattle Creek",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1550718657",
@@ -23035,7 +23913,9 @@
       "city": "Woody Creek",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1550718671",
@@ -23052,7 +23932,9 @@
       "city": "Woody Creek",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1550806679",
@@ -23086,7 +23968,9 @@
       "city": "Greenwood Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1550921958",
@@ -23103,7 +23987,9 @@
       "city": "Garfield County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1550921966",
@@ -23120,7 +24006,9 @@
       "city": "Garfield County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1550925603",
@@ -23137,7 +24025,9 @@
       "city": "Basalt",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1550932783",
@@ -23154,7 +24044,9 @@
       "city": "Pitkin County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551108413",
@@ -23171,7 +24063,9 @@
       "city": "Glenwood Springs",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551132772",
@@ -23188,7 +24082,9 @@
       "city": "Snowmass Village",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551768693",
@@ -23222,7 +24118,9 @@
       "city": "Pitkin County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551816213",
@@ -23239,7 +24137,9 @@
       "city": "Pitkin County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552150991",
@@ -23256,7 +24156,9 @@
       "city": "Garfield County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552159665",
@@ -23273,7 +24175,9 @@
       "city": "Routt County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552159670",
@@ -23290,7 +24194,9 @@
       "city": "Routt County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552364530",
@@ -23307,7 +24213,9 @@
       "city": "Meeker",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552472634",
@@ -23324,7 +24232,9 @@
       "city": "El Paso County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552713411",
@@ -23341,7 +24251,9 @@
       "city": "Garfield County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552715564",
@@ -23358,7 +24270,9 @@
       "city": "Eagle County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552747637",
@@ -23375,7 +24289,9 @@
       "city": "Edwards",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552747719",
@@ -23392,7 +24308,9 @@
       "city": "Edwards",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552989695",
@@ -23428,7 +24346,9 @@
       "city": "Pitkin County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1553226360",
@@ -23445,7 +24365,9 @@
       "city": "Pitkin County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1553331688",
@@ -23462,7 +24384,9 @@
       "city": "Pitkin County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-r4717013",

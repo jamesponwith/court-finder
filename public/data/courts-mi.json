@@ -467,7 +467,9 @@
       "city": "Superior Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w94838223",
@@ -484,7 +486,9 @@
       "city": "Superior Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w97511261",
@@ -643,7 +647,9 @@
       "city": "Garfield Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w129611340",
@@ -1516,7 +1522,9 @@
       "city": "Covert Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w175933426",
@@ -1603,7 +1611,9 @@
       "city": "Grand Rapids",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w186978396",
@@ -2286,7 +2296,9 @@
       "city": "Kasson Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w227181862",
@@ -2426,7 +2438,9 @@
       "city": "Garden Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w230969776",
@@ -2530,7 +2544,9 @@
       "city": "Blaine Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w231267912",
@@ -2547,7 +2563,9 @@
       "city": "Wyoming",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w231390727",
@@ -2687,7 +2705,9 @@
       "city": "Garfield Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w233389697",
@@ -2723,7 +2743,9 @@
       "city": "Waverly",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w234197517",
@@ -2829,7 +2851,9 @@
       "city": "Detroit",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w238513028",
@@ -2865,7 +2889,9 @@
       "city": "Saint Joseph Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w238661645",
@@ -3111,7 +3137,9 @@
       "city": "Whiteford Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w242698212",
@@ -3145,7 +3173,9 @@
       "city": "Byron Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w244640833",
@@ -3251,7 +3281,9 @@
       "city": "Mastodon Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w252224306",
@@ -3444,7 +3476,9 @@
       "city": "Worth Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w258418921",
@@ -3552,7 +3586,9 @@
       "city": "Sanilac Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w258592549",
@@ -3569,7 +3605,9 @@
       "city": "Forester Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w258636040",
@@ -3603,7 +3641,9 @@
       "city": "Grosse Ile Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w258682044",
@@ -3656,7 +3696,9 @@
       "city": "Portage",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w258713950",
@@ -3728,7 +3770,9 @@
       "city": "Portage",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w258778805",
@@ -3904,7 +3948,9 @@
       "city": "Oshtemo Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w259119797",
@@ -3921,7 +3967,9 @@
       "city": "Portage",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w259247388",
@@ -3974,7 +4022,9 @@
       "city": "Oscoda Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w259415288",
@@ -3991,7 +4041,9 @@
       "city": "Alcona Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w259490898",
@@ -4008,7 +4060,9 @@
       "city": "Portage",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w259612765",
@@ -4226,7 +4280,9 @@
       "city": "Beaugrand Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w259860748",
@@ -4349,7 +4405,9 @@
       "city": "West Traverse Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260215522",
@@ -4366,7 +4424,9 @@
       "city": "Little Traverse Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260215523",
@@ -4383,7 +4443,9 @@
       "city": "Little Traverse Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260215525",
@@ -4434,7 +4496,9 @@
       "city": "Hayes Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260224714",
@@ -4468,7 +4532,9 @@
       "city": "Banks Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260230277",
@@ -4485,7 +4551,9 @@
       "city": "Banks Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260230278",
@@ -4502,7 +4570,9 @@
       "city": "Banks Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260303386",
@@ -4629,7 +4699,9 @@
       "city": "Salem Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260500935",
@@ -4646,7 +4718,9 @@
       "city": "Torch Lake Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260500936",
@@ -4663,7 +4737,9 @@
       "city": "Helena Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260500938",
@@ -4680,7 +4756,9 @@
       "city": "Forest Home Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260500939",
@@ -4697,7 +4775,9 @@
       "city": "Helena Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260500940",
@@ -4714,7 +4794,9 @@
       "city": "Forest Home Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260500943",
@@ -4731,7 +4813,9 @@
       "city": "Milton Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260500946",
@@ -4748,7 +4832,9 @@
       "city": "Forest Home Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260500949",
@@ -4765,7 +4851,9 @@
       "city": "Helena Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260500950",
@@ -4782,7 +4870,9 @@
       "city": "Torch Lake Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260500952",
@@ -4799,7 +4889,9 @@
       "city": "Torch Lake Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260500953",
@@ -4816,7 +4908,9 @@
       "city": "Torch Lake Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260500954",
@@ -4867,7 +4961,9 @@
       "city": "Milton Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260551673",
@@ -4918,7 +5014,9 @@
       "city": "Milton Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260560653",
@@ -4935,7 +5033,9 @@
       "city": "Milton Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260560655",
@@ -4952,7 +5052,9 @@
       "city": "Milton Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260560657",
@@ -4969,7 +5071,9 @@
       "city": "Milton Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260560658",
@@ -4986,7 +5090,9 @@
       "city": "Elk Rapids Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260560659",
@@ -5003,7 +5109,9 @@
       "city": "Elk Rapids Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260560661",
@@ -5054,7 +5162,9 @@
       "city": "Peninsula Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260639074",
@@ -5088,7 +5198,9 @@
       "city": "Peninsula Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260647809",
@@ -5139,7 +5251,9 @@
       "city": "Leelanau Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260704551",
@@ -5173,7 +5287,9 @@
       "city": "Leelanau Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260704553",
@@ -5190,7 +5306,9 @@
       "city": "Leelanau Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260704554",
@@ -5207,7 +5325,9 @@
       "city": "Leelanau Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260704556",
@@ -5224,7 +5344,9 @@
       "city": "Leelanau Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260851917",
@@ -5275,7 +5397,9 @@
       "city": "Leland Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260859591",
@@ -5292,7 +5416,9 @@
       "city": "Leland Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260865717",
@@ -5309,7 +5435,9 @@
       "city": "Glen Arbor Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260865721",
@@ -5362,7 +5490,9 @@
       "city": "Glen Arbor Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260983771",
@@ -5379,7 +5509,9 @@
       "city": "Glen Arbor Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260983772",
@@ -5396,7 +5528,9 @@
       "city": "Glen Arbor Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260983773",
@@ -5413,7 +5547,9 @@
       "city": "Glen Arbor Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w261019702",
@@ -5430,7 +5566,9 @@
       "city": "Empire Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w261039447",
@@ -5481,7 +5619,9 @@
       "city": "Crystal Lake Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w261106578",
@@ -5498,7 +5638,9 @@
       "city": "Crystal Lake Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w261106580",
@@ -5532,7 +5674,9 @@
       "city": "Crystal Lake Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w261174393",
@@ -5583,7 +5727,9 @@
       "city": "Pere Marquette Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w261178047",
@@ -5670,7 +5816,9 @@
       "city": "Park Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w261478965",
@@ -5704,7 +5852,9 @@
       "city": "Park Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w261549270",
@@ -5931,7 +6081,9 @@
       "city": "New Buffalo",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w261774858",
@@ -6436,7 +6588,9 @@
       "city": "Plainfield Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w263233718",
@@ -6470,7 +6624,9 @@
       "city": "Golden Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w263269964",
@@ -6714,7 +6870,9 @@
       "city": "Greenwood Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w263443030",
@@ -7022,7 +7180,9 @@
       "city": "Spring Lake Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w263676754",
@@ -7128,7 +7288,9 @@
       "city": "Cascade Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w263801435",
@@ -7637,7 +7799,9 @@
       "city": "Watersmeet Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w264815574",
@@ -8088,7 +8252,9 @@
       "city": "Texas Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w269011792",
@@ -8105,7 +8271,9 @@
       "city": "South Monroe",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w270167404",
@@ -8245,7 +8413,9 @@
       "city": "Southfield",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w276251563",
@@ -8453,7 +8623,9 @@
       "city": "Port Huron",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w282232543",
@@ -8525,7 +8697,9 @@
       "city": "Ann Arbor",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w283283162",
@@ -8703,7 +8877,9 @@
       "city": "Ann Arbor",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w285803492",
@@ -8754,7 +8930,9 @@
       "city": "Breitung Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w287132698",
@@ -8822,7 +9000,9 @@
       "city": "Portage Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w288353619",
@@ -8856,7 +9036,9 @@
       "city": "Colfax Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w288404393",
@@ -8892,7 +9074,9 @@
       "city": "Saint James Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w288534156",
@@ -8926,7 +9110,9 @@
       "city": "Plymouth Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w288985761",
@@ -8962,7 +9148,9 @@
       "city": "Acme Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w288985767",
@@ -8979,7 +9167,9 @@
       "city": "Arcadia Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w289314075",
@@ -9032,7 +9222,9 @@
       "city": "Butman Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w289800551",
@@ -9187,7 +9379,9 @@
       "city": "Georgetown Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w290206703",
@@ -9312,7 +9506,9 @@
       "city": "Sturgis",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w290556269",
@@ -9573,7 +9769,9 @@
       "city": "Little Traverse Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w292981249",
@@ -10097,7 +10295,9 @@
       "city": "Kinderhook Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w295089141",
@@ -10184,7 +10384,9 @@
       "city": "Ross Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w303682796",
@@ -10201,7 +10403,9 @@
       "city": "Ann Arbor",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w303682800",
@@ -10377,7 +10581,9 @@
       "city": "Suttons Bay Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w309492669",
@@ -10432,7 +10638,9 @@
       "city": "Oscoda Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w310703214",
@@ -10746,7 +10954,9 @@
       "city": "Dearborn",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w315658798",
@@ -11049,7 +11259,9 @@
       "city": "Mecosta Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w322001153",
@@ -11136,7 +11348,9 @@
       "city": "Wolf Lake",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w322247541",
@@ -11265,7 +11479,9 @@
       "city": "York Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w322799639",
@@ -11320,7 +11536,9 @@
       "city": "Green Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w323271974",
@@ -11392,7 +11610,9 @@
       "city": "Clinton County",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w323909772",
@@ -11997,7 +12217,9 @@
       "city": "Ann Arbor Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w352332487",
@@ -12241,7 +12463,9 @@
       "city": "Grandville",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w362334910",
@@ -12413,7 +12637,9 @@
       "city": "Chippewa Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w374817000",
@@ -12466,7 +12692,9 @@
       "city": "Pleasant Plains Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w377544913",
@@ -12483,7 +12711,9 @@
       "city": "Interlochen",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w377545186",
@@ -12636,7 +12866,9 @@
       "city": "Leoni Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w378966864",
@@ -12793,7 +13025,9 @@
       "city": "Leroy Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w384325437",
@@ -13470,7 +13704,9 @@
       "city": "Ossineke Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w403278180",
@@ -13521,7 +13757,9 @@
       "city": "Pittsfield Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w404235872",
@@ -13733,7 +13971,9 @@
       "city": "New Buffalo Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w407526144",
@@ -13750,7 +13990,9 @@
       "city": "East Jordan",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w407541860",
@@ -14138,7 +14380,9 @@
       "city": "Kalamazoo",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w420133903",
@@ -14242,7 +14486,9 @@
       "city": "L'Anse Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w422425011",
@@ -14378,7 +14624,9 @@
       "city": "Pleasanton Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w430273012",
@@ -14467,7 +14715,9 @@
       "city": "Van Buren Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w438259319",
@@ -14671,7 +14921,9 @@
       "city": "Suttons Bay Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w449700094",
@@ -14688,7 +14940,9 @@
       "city": "Suttons Bay Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w449854122",
@@ -14756,7 +15010,9 @@
       "city": "Resort Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w460917595",
@@ -14932,7 +15188,9 @@
       "city": "Kalamazoo",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w469373983",
@@ -14983,7 +15241,9 @@
       "city": "Madison Heights",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w470762417",
@@ -15000,7 +15260,9 @@
       "city": "Central Lake Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w471107772",
@@ -15036,7 +15298,9 @@
       "city": "Saginaw Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w472039772",
@@ -15242,7 +15506,9 @@
       "city": "Rockford",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w482586482",
@@ -15380,7 +15646,9 @@
       "city": "Detroit",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w494105625",
@@ -15465,7 +15733,9 @@
       "city": "Marquette",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w498677062",
@@ -15499,7 +15769,9 @@
       "city": "Belmont",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w504641314",
@@ -15554,7 +15826,9 @@
       "city": "Northview",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w505707301",
@@ -15656,7 +15930,9 @@
       "city": "Marquette Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w513021837",
@@ -15673,7 +15949,9 @@
       "city": "Marquette Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w519400660",
@@ -15809,7 +16087,9 @@
       "city": "Ironwood",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w527993089",
@@ -15845,7 +16125,9 @@
       "city": "Scio Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w528142086",
@@ -15862,7 +16144,9 @@
       "city": "Ypsilanti Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w528149166",
@@ -15966,7 +16250,9 @@
       "city": "East Grand Rapids",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w533667745",
@@ -15983,7 +16269,9 @@
       "city": "East Grand Rapids",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w534330864",
@@ -16017,7 +16305,9 @@
       "city": "Livonia",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w539423369",
@@ -16225,7 +16515,9 @@
       "city": "Grand Rapids",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w553067085",
@@ -16293,7 +16585,9 @@
       "city": "Waverly",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w556535065",
@@ -16327,7 +16621,9 @@
       "city": "Waverly",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w556846056",
@@ -16361,7 +16657,9 @@
       "city": "Bear Creek Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w558402279",
@@ -16465,7 +16763,9 @@
       "city": "Petoskey",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w565912220",
@@ -16499,7 +16799,9 @@
       "city": "Algoma Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w574915983",
@@ -16533,7 +16835,9 @@
       "city": "Livingston County",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w582427022",
@@ -16601,7 +16905,9 @@
       "city": "Onekama Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w585762267",
@@ -16652,7 +16958,9 @@
       "city": "Adams Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w590287674",
@@ -17406,7 +17714,9 @@
       "city": "Algoma Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w617767868",
@@ -17552,7 +17862,9 @@
       "city": "Okemos",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w629272721",
@@ -17603,7 +17915,9 @@
       "city": "Independence Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w635013604",
@@ -17760,7 +18074,9 @@
       "city": "Buchanan",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w640126241",
@@ -17851,7 +18167,9 @@
       "city": "Webster Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w640742909",
@@ -17959,7 +18277,9 @@
       "city": "Ada Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w650741446",
@@ -18120,7 +18440,9 @@
       "city": "Osceola Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w669778396",
@@ -18245,7 +18567,9 @@
       "city": "Bloomer Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w675058360",
@@ -18262,7 +18586,9 @@
       "city": "Bethany Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w675064483",
@@ -18279,7 +18605,9 @@
       "city": "Muskegon",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w675747386",
@@ -18349,7 +18677,9 @@
       "city": "Sylvan Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w678810694",
@@ -18436,7 +18766,9 @@
       "city": "Burton",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w684958446",
@@ -18521,7 +18853,9 @@
       "city": "Sherman Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w686974907",
@@ -18642,7 +18976,9 @@
       "city": "Lake Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w696792467",
@@ -18695,7 +19031,9 @@
       "city": "Frankenmuth Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w697865338",
@@ -18712,7 +19050,9 @@
       "city": "Fife Lake Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w700166322",
@@ -18746,7 +19086,9 @@
       "city": "Springvale Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w701144332",
@@ -18780,7 +19122,9 @@
       "city": "Hudson Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w701425683",
@@ -18850,7 +19194,9 @@
       "city": "West Traverse Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w703199946",
@@ -18939,7 +19285,9 @@
       "city": "Fruitport Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w704410760",
@@ -19007,7 +19355,9 @@
       "city": "Lansing",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w704943528",
@@ -19024,7 +19374,9 @@
       "city": "Lansing",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w706111945",
@@ -19092,7 +19444,9 @@
       "city": "Tuscarora Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w711501700",
@@ -19128,7 +19482,9 @@
       "city": "Casco Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w713671430",
@@ -19257,7 +19613,9 @@
       "city": "Bois Blanc Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w722236572",
@@ -19308,7 +19666,9 @@
       "city": "Grand Rapids",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w722509408",
@@ -19325,7 +19685,9 @@
       "city": "Banks Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w722955211",
@@ -19342,7 +19704,9 @@
       "city": "Drummond Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w722979886",
@@ -19376,7 +19740,9 @@
       "city": "Friendship Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w723851951",
@@ -19448,7 +19814,9 @@
       "city": "Kentwood",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w726016013",
@@ -19552,7 +19920,9 @@
       "city": "Kentwood",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w737026837",
@@ -19569,7 +19939,9 @@
       "city": "Corwith Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w737176924",
@@ -19637,7 +20009,9 @@
       "city": "Leoni Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w747087004",
@@ -19688,7 +20062,9 @@
       "city": "Boyne Valley Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w753233425",
@@ -19724,7 +20100,9 @@
       "city": "Grand Rapids",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w756220574",
@@ -19809,7 +20187,9 @@
       "city": "Lambertville",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w762331146",
@@ -20242,7 +20622,9 @@
       "city": "Littlefield Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w813992314",
@@ -20259,7 +20641,9 @@
       "city": "Lodi Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w814036267",
@@ -20276,7 +20660,9 @@
       "city": "Freedom Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w814668718",
@@ -20310,7 +20696,9 @@
       "city": "Mason",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w815790296",
@@ -20380,7 +20768,9 @@
       "city": "Osceola Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w832848257",
@@ -20431,7 +20821,9 @@
       "city": "McMillan Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w834050538",
@@ -20465,7 +20857,9 @@
       "city": "Wyoming",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w834242509",
@@ -20518,7 +20912,9 @@
       "city": "Suttons Bay Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w835847707",
@@ -20603,7 +20999,9 @@
       "city": "Corwith Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w844321284",
@@ -20637,7 +21035,9 @@
       "city": "Menominee Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w846816432",
@@ -20756,7 +21156,9 @@
       "city": "Detroit",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w857697440",
@@ -20862,7 +21264,9 @@
       "city": "Clay Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w866019599",
@@ -21019,7 +21423,9 @@
       "city": "Dalton Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w881472209",
@@ -21036,7 +21442,9 @@
       "city": "Lake City",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w881670224",
@@ -21106,7 +21514,9 @@
       "city": "Empire Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w887638285",
@@ -21123,7 +21533,9 @@
       "city": "Interlochen",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w887638290",
@@ -21140,7 +21552,9 @@
       "city": "Interlochen",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w890753817",
@@ -21157,7 +21571,9 @@
       "city": "Glen Arbor Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w890799451",
@@ -21174,7 +21590,9 @@
       "city": "Arcadia Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w890799457",
@@ -21208,7 +21626,9 @@
       "city": "Benzonia Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w892024208",
@@ -21276,7 +21696,9 @@
       "city": "Bingham Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w892809497",
@@ -21293,7 +21715,9 @@
       "city": "Elmwood Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w893349026",
@@ -21344,7 +21768,9 @@
       "city": "Cross Village Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1216644210",
@@ -21429,7 +21855,9 @@
       "city": "Lake Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w893965755",
@@ -21446,7 +21874,9 @@
       "city": "Lake Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w894072861",
@@ -21497,7 +21927,9 @@
       "city": "Hanover Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w894958414",
@@ -21514,7 +21946,9 @@
       "city": "Manistee",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w895737829",
@@ -21686,7 +22120,9 @@
       "city": "Long Lake Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w902518047",
@@ -21722,7 +22158,9 @@
       "city": "Norton Shores",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w903440488",
@@ -21739,7 +22177,9 @@
       "city": "Glen Arbor Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w903610574",
@@ -21756,7 +22196,9 @@
       "city": "Benzonia Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w904248335",
@@ -21773,7 +22215,9 @@
       "city": "Lake Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w904586836",
@@ -21807,7 +22251,9 @@
       "city": "Elmwood Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w905707116",
@@ -21824,7 +22270,9 @@
       "city": "Nelson Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w905835906",
@@ -21841,7 +22289,9 @@
       "city": "Lake Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w905835924",
@@ -21858,7 +22308,9 @@
       "city": "Benzonia Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w905846457",
@@ -21875,7 +22327,9 @@
       "city": "Benzonia Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w905862426",
@@ -21892,7 +22346,9 @@
       "city": "Crystal Lake Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w905870196",
@@ -21909,7 +22365,9 @@
       "city": "Crystal Lake Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w905870198",
@@ -21926,7 +22384,9 @@
       "city": "Crystal Lake Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w905937952",
@@ -21943,7 +22403,9 @@
       "city": "Lake Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w906227431",
@@ -21960,7 +22422,9 @@
       "city": "Scio Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w906860578",
@@ -21977,7 +22441,9 @@
       "city": "Petersburg",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w907574726",
@@ -21994,7 +22460,9 @@
       "city": "Okemos",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w907574728",
@@ -22045,7 +22513,9 @@
       "city": "Traverse City",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w908538980",
@@ -22062,7 +22532,9 @@
       "city": "Glen Arbor Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w908538989",
@@ -22079,7 +22551,9 @@
       "city": "Glen Arbor Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w908538994",
@@ -22096,7 +22570,9 @@
       "city": "Glen Arbor Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w908730140",
@@ -22202,7 +22678,9 @@
       "city": "Scio Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w914920149",
@@ -22253,7 +22731,9 @@
       "city": "Grand Rapids Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w915067378",
@@ -22287,7 +22767,9 @@
       "city": "Glen Arbor Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w918215967",
@@ -22338,7 +22820,9 @@
       "city": "Garfield Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w921408450",
@@ -22355,7 +22839,9 @@
       "city": "Royal Oak",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w921438675",
@@ -22406,7 +22892,9 @@
       "city": "Battle Creek",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w921848481",
@@ -22461,7 +22949,9 @@
       "city": "Old Mission",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w923000299",
@@ -22478,7 +22968,9 @@
       "city": "Onekama Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w924981737",
@@ -22582,7 +23074,9 @@
       "city": "Okemos",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w934338236",
@@ -22616,7 +23110,9 @@
       "city": "Dundee",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w935561556",
@@ -22684,7 +23180,9 @@
       "city": "Haring Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w937482186",
@@ -22701,7 +23199,9 @@
       "city": "Hamlin Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w937482191",
@@ -22718,7 +23218,9 @@
       "city": "Hamlin Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w938530299",
@@ -22735,7 +23237,9 @@
       "city": "Garfield Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w939067620",
@@ -22771,7 +23275,9 @@
       "city": "Cherry Grove Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w940215656",
@@ -22824,7 +23330,9 @@
       "city": "Okemos",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w941961591",
@@ -22858,7 +23366,9 @@
       "city": "Okemos",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w942729070",
@@ -22892,7 +23402,9 @@
       "city": "Springdale Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w944714908",
@@ -22977,7 +23489,9 @@
       "city": "Meridian Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w946696755",
@@ -22994,7 +23508,9 @@
       "city": "Williamstown Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w949862441",
@@ -23011,7 +23527,9 @@
       "city": "Okemos",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w949862447",
@@ -23028,7 +23546,9 @@
       "city": "Okemos",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w952482239",
@@ -23062,7 +23582,9 @@
       "city": "Whitewater Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w955189773",
@@ -23096,7 +23618,9 @@
       "city": "Blaine Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w955859187",
@@ -23164,7 +23688,9 @@
       "city": "Charlevoix Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w957877247",
@@ -23198,7 +23724,9 @@
       "city": "Wilson Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w958465256",
@@ -23249,7 +23777,9 @@
       "city": "Wilson Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w958677211",
@@ -23266,7 +23796,9 @@
       "city": "Eveline Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w958722031",
@@ -23283,7 +23815,9 @@
       "city": "Eveline Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w958722033",
@@ -23300,7 +23834,9 @@
       "city": "Marion Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w958722045",
@@ -23317,7 +23853,9 @@
       "city": "Charlevoix Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w958847676",
@@ -23334,7 +23872,9 @@
       "city": "Bear Creek Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w958941079",
@@ -23351,7 +23891,9 @@
       "city": "Evangeline Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w959126101",
@@ -23368,7 +23910,9 @@
       "city": "Custer Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w959839848",
@@ -23385,7 +23929,9 @@
       "city": "Whitewater Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w960850776",
@@ -23436,7 +23982,9 @@
       "city": "Norwich Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1496825531",
@@ -23576,7 +24124,9 @@
       "city": "Detroit",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w968265868",
@@ -23646,7 +24196,9 @@
       "city": "Otsego Lake Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w970725548",
@@ -23680,7 +24232,9 @@
       "city": "Gaylord",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w971693773",
@@ -23697,7 +24251,9 @@
       "city": "Delhi Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w972402661",
@@ -23714,7 +24270,9 @@
       "city": "Portage",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w974075672",
@@ -23731,7 +24289,9 @@
       "city": "Littlefield Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w974762056",
@@ -23748,7 +24308,9 @@
       "city": "Leland Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w976376020",
@@ -23799,7 +24361,9 @@
       "city": "Onekama Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w978740801",
@@ -23816,7 +24380,9 @@
       "city": "Port Austin Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w979670538",
@@ -23852,7 +24418,9 @@
       "city": "Greilickville",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w981822425",
@@ -23888,7 +24456,9 @@
       "city": "East Bay Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w982367226",
@@ -23922,7 +24492,9 @@
       "city": "Glen Arbor Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w984100171",
@@ -23990,7 +24562,9 @@
       "city": "Onekama Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w986363057",
@@ -24024,7 +24598,9 @@
       "city": "Oshtemo Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w986426738",
@@ -24077,7 +24653,9 @@
       "city": "Thomas Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w988922378",
@@ -24094,7 +24672,9 @@
       "city": "Park Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w989385084",
@@ -24111,7 +24691,9 @@
       "city": "Manistee Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w989685317",
@@ -24128,7 +24710,9 @@
       "city": "Hamlin Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w991280307",
@@ -24145,7 +24729,9 @@
       "city": "Centerville Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w993100839",
@@ -24179,7 +24765,9 @@
       "city": "Charlton Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w996097385",
@@ -24196,7 +24784,9 @@
       "city": "Burt Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w996097386",
@@ -24213,7 +24803,9 @@
       "city": "Burt Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w996109720",
@@ -24230,7 +24822,9 @@
       "city": "Hayes Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w996920499",
@@ -24247,7 +24841,9 @@
       "city": "Resort Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w997183320",
@@ -24264,7 +24860,9 @@
       "city": "Hayes Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w997218697",
@@ -24317,7 +24915,9 @@
       "city": "Milton Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w998510063",
@@ -24334,7 +24934,9 @@
       "city": "Charlevoix",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w999948010",
@@ -24402,7 +25004,9 @@
       "city": "Carp Lake Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1002846287",
@@ -24419,7 +25023,9 @@
       "city": "Chikaming Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1004931454",
@@ -24453,7 +25059,9 @@
       "city": "Hayes Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1005714264",
@@ -24470,7 +25078,9 @@
       "city": "Hayes Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1005860815",
@@ -24487,7 +25097,9 @@
       "city": "Hayes Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1005860816",
@@ -24504,7 +25116,9 @@
       "city": "Hayes Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1005877295",
@@ -24521,7 +25135,9 @@
       "city": "Hayes Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1008631403",
@@ -24538,7 +25154,9 @@
       "city": "Cadillac",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1008951769",
@@ -24555,7 +25173,9 @@
       "city": "Sauble Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1013065861",
@@ -24572,7 +25192,9 @@
       "city": "Peninsula Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1013065866",
@@ -24589,7 +25211,9 @@
       "city": "Old Mission",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1015420632",
@@ -24691,7 +25315,9 @@
       "city": "Detroit",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1018527321",
@@ -25043,7 +25669,9 @@
       "city": "Hamlin Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1038125859",
@@ -25164,7 +25792,9 @@
       "city": "Battle Creek",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1044558285",
@@ -25302,7 +25932,9 @@
       "city": "Kingsford",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1054519419",
@@ -25338,7 +25970,9 @@
       "city": "Battle Creek",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1056777799",
@@ -25355,7 +25989,9 @@
       "city": "Battle Creek",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1057028120",
@@ -25389,7 +26025,9 @@
       "city": "Lansing",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1063441091",
@@ -25406,7 +26044,9 @@
       "city": "Ross Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1065887264",
@@ -25423,7 +26063,9 @@
       "city": "Ross Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1070807784",
@@ -25440,7 +26082,9 @@
       "city": "Monterey Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1075141680",
@@ -25508,7 +26152,9 @@
       "city": "Royal Oak",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1078174335",
@@ -25525,7 +26171,9 @@
       "city": "Clinton County",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1080404196",
@@ -25576,7 +26224,9 @@
       "city": "Ann Arbor",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084392852",
@@ -25610,7 +26260,9 @@
       "city": "Somerset Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1085420268",
@@ -25627,7 +26279,9 @@
       "city": "South Arm Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1085640838",
@@ -25695,7 +26349,9 @@
       "city": "Ferrysburg",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1090612148",
@@ -25729,7 +26385,9 @@
       "city": "Courtland Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1101576343",
@@ -25746,7 +26404,9 @@
       "city": "Friendship Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1101576346",
@@ -25763,7 +26423,9 @@
       "city": "Friendship Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1103007115",
@@ -25833,7 +26495,9 @@
       "city": "West Traverse Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1104177987",
@@ -25903,7 +26567,9 @@
       "city": "White River Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1112112365",
@@ -25920,7 +26586,9 @@
       "city": "Ann Arbor Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1115721331",
@@ -25937,7 +26605,9 @@
       "city": "Spring Lake Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1121045386",
@@ -25973,7 +26643,9 @@
       "city": "Ishpeming Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1131625730",
@@ -26109,7 +26781,9 @@
       "city": "Ludington",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1144339916",
@@ -26126,7 +26800,9 @@
       "city": "Spring Lake Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1147135834",
@@ -26406,7 +27082,9 @@
       "city": "Brighton Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1154525816",
@@ -26423,7 +27101,9 @@
       "city": "Detroit",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1155616838",
@@ -26476,7 +27156,9 @@
       "city": "Beaver Creek Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1163103384",
@@ -26527,7 +27209,9 @@
       "city": "Comstock Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1174288527",
@@ -26561,7 +27245,9 @@
       "city": "Croton Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1176508385",
@@ -26595,7 +27281,9 @@
       "city": "Croton Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-r15968063",
@@ -26631,7 +27319,9 @@
       "city": "Dallas Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1182323343",
@@ -26699,7 +27389,9 @@
       "city": "Ovid Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1186206382",
@@ -26750,7 +27442,9 @@
       "city": "Mackinac Island",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1187651366",
@@ -26767,7 +27461,9 @@
       "city": "Mackinac Island",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1189155505",
@@ -26801,7 +27497,9 @@
       "city": "Presque Isle Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1189414696",
@@ -26818,7 +27516,9 @@
       "city": "Presque Isle Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1191291649",
@@ -26903,7 +27603,9 @@
       "city": "Texas Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1195359298",
@@ -26937,7 +27639,9 @@
       "city": "Presque Isle Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1198423581",
@@ -26954,7 +27658,9 @@
       "city": "Branch Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1201686107",
@@ -26988,7 +27694,9 @@
       "city": "Traverse City",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1203147493",
@@ -27311,7 +28019,9 @@
       "city": "Waverly Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1212233779",
@@ -27483,7 +28193,9 @@
       "city": "Montmorency Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1223815578",
@@ -27517,7 +28229,9 @@
       "city": "Mills Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1225655147",
@@ -27587,7 +28301,9 @@
       "city": "Sault Ste. Marie",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1229511697",
@@ -27638,7 +28354,9 @@
       "city": "Belvidere Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1231234282",
@@ -27655,7 +28373,9 @@
       "city": "Yates Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1232804525",
@@ -27706,7 +28426,9 @@
       "city": "Bessemer Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1241958128",
@@ -27795,7 +28517,9 @@
       "city": "Hampton Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1253268839",
@@ -27901,7 +28625,9 @@
       "city": "Powell Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1266811123",
@@ -28209,7 +28935,9 @@
       "city": "Emmett Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1282439560",
@@ -28311,7 +29039,9 @@
       "city": "Peninsula Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1300750261",
@@ -28417,7 +29147,9 @@
       "city": "Cascade Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1305323580",
@@ -28434,7 +29166,9 @@
       "city": "Cascade Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1305480658",
@@ -28451,7 +29185,9 @@
       "city": "Cascade Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1306255819",
@@ -28468,7 +29204,9 @@
       "city": "Tyrone Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1306255820",
@@ -28485,7 +29223,9 @@
       "city": "Fenton",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1306466895",
@@ -28502,7 +29242,9 @@
       "city": "Fenton",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1307788849",
@@ -28553,7 +29295,9 @@
       "city": "Tyrone Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1312040106",
@@ -28621,7 +29365,9 @@
       "city": "Sylvan Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1314962916",
@@ -28638,7 +29384,9 @@
       "city": "Lincoln Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1315210220",
@@ -28672,7 +29420,9 @@
       "city": "Whiteford Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1317182656",
@@ -28706,7 +29456,9 @@
       "city": "Sunfield Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1320149925",
@@ -28723,7 +29475,9 @@
       "city": "Pittsfield Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1323365818",
@@ -28759,7 +29513,9 @@
       "city": "Peninsula Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1328164019",
@@ -28776,7 +29532,9 @@
       "city": "Peninsula Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1331699236",
@@ -28793,7 +29551,9 @@
       "city": "West Bloomfield Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334160081",
@@ -28827,7 +29587,9 @@
       "city": "Wyoming",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1336426184",
@@ -28844,7 +29606,9 @@
       "city": "Byron Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1336903038",
@@ -28878,7 +29642,9 @@
       "city": "Peninsula Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1339907222",
@@ -28895,7 +29661,9 @@
       "city": "Harrisville",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1341977057",
@@ -28929,7 +29697,9 @@
       "city": "Genesee County",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1345260341",
@@ -28946,7 +29716,9 @@
       "city": "Peaine Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1346410791",
@@ -28963,7 +29735,9 @@
       "city": "Drummond Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1346670095",
@@ -28980,7 +29754,9 @@
       "city": "Sherman Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1347392159",
@@ -28997,7 +29773,9 @@
       "city": "Fabius Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1352484425",
@@ -29067,7 +29845,9 @@
       "city": "Watervliet Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1354491661",
@@ -29101,7 +29881,9 @@
       "city": "Blackman Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1354700933",
@@ -29118,7 +29900,9 @@
       "city": "Blackman Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1355235774",
@@ -29135,7 +29919,9 @@
       "city": "Scio Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1355800217",
@@ -29152,7 +29938,9 @@
       "city": "Ann Arbor Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1357625696",
@@ -29169,7 +29957,9 @@
       "city": "Ann Arbor",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1361773723",
@@ -29186,7 +29976,9 @@
       "city": "Ypsilanti Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1362899512",
@@ -29203,7 +29995,9 @@
       "city": "Saugatuck",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1372498928",
@@ -29220,7 +30014,9 @@
       "city": "Ely Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1373159517",
@@ -29254,7 +30050,9 @@
       "city": "Clark Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1374892035",
@@ -29360,7 +30158,9 @@
       "city": "Saugatuck Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1385392464",
@@ -29377,7 +30177,9 @@
       "city": "Centerville Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1385399248",
@@ -29394,7 +30196,9 @@
       "city": "West Bloomfield Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1385400478",
@@ -29445,7 +30249,9 @@
       "city": "Roscommon Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1390526673",
@@ -29583,7 +30389,9 @@
       "city": "Denton Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1413180768",
@@ -29619,7 +30427,9 @@
       "city": "Texas Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1415046523",
@@ -29636,7 +30446,9 @@
       "city": "Kentwood",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1415206079",
@@ -29653,7 +30465,9 @@
       "city": "Grand Rapids",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1415534625",
@@ -29723,7 +30537,9 @@
       "city": "Grand Rapids",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1422756061",
@@ -29774,7 +30590,9 @@
       "city": "Harbor Springs",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1422758794",
@@ -29946,7 +30764,9 @@
       "city": "Saugatuck Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1432551145",
@@ -29963,7 +30783,9 @@
       "city": "Gaylord",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1432587842",
@@ -30050,7 +30872,9 @@
       "city": "Blue Lake Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1434935232",
@@ -30139,7 +30963,9 @@
       "city": "Southfield",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442429493",
@@ -30173,7 +30999,9 @@
       "city": "Southfield",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442429498",
@@ -30228,7 +31056,9 @@
       "city": "Greilickville",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442743765",
@@ -30245,7 +31075,9 @@
       "city": "Greilickville",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442923216",
@@ -30296,7 +31128,9 @@
       "city": "Golden Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1444099080",
@@ -30330,7 +31164,9 @@
       "city": "Pleasant Plains Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1445364535",
@@ -30347,7 +31183,9 @@
       "city": "Salem Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446413045",
@@ -30789,7 +31627,9 @@
       "city": "Farmington Hills",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1448054639",
@@ -30806,7 +31646,9 @@
       "city": "Tilden Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1448235174",
@@ -30823,7 +31665,9 @@
       "city": "East Bay Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1448239882",
@@ -31333,7 +32177,9 @@
       "city": "Saint Clair County",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1453007736",
@@ -31486,7 +32332,9 @@
       "city": "Everett Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1454973181",
@@ -31573,7 +32421,9 @@
       "city": "Kentwood",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1454977159",
@@ -31711,7 +32561,9 @@
       "city": "Ross Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1455198113",
@@ -31728,7 +32580,9 @@
       "city": "Battle Creek",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1455205174",
@@ -31798,7 +32652,9 @@
       "city": "Oshtemo Charter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1455207204",
@@ -31902,7 +32758,9 @@
       "city": "Okemos",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1455237164",
@@ -32006,7 +32864,9 @@
       "city": "Porter Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1455548354",
@@ -32023,7 +32883,9 @@
       "city": "Decatur Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1455549829",
@@ -32057,7 +32919,9 @@
       "city": "Hamilton Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1455835194",
@@ -32074,7 +32938,9 @@
       "city": "Kinderhook Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1455835686",
@@ -32091,7 +32957,9 @@
       "city": "New Buffalo Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1455836572",
@@ -32108,7 +32976,9 @@
       "city": "Covert Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1456266049",
@@ -32161,7 +33031,9 @@
       "city": "Park Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1456338820",
@@ -32212,7 +33084,9 @@
       "city": "Branch Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1457159761",
@@ -32382,7 +33256,9 @@
       "city": "Forest Home Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1462009675",
@@ -32571,7 +33447,9 @@
       "city": "Bear Creek Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1462011809",
@@ -32896,7 +33774,9 @@
       "city": "Detroit",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469241407",
@@ -33034,7 +33914,9 @@
       "city": "Bergland Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470140992",
@@ -33051,7 +33933,9 @@
       "city": "Munising",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470141047",
@@ -33068,7 +33952,9 @@
       "city": "Munising Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470141111",
@@ -33085,7 +33971,9 @@
       "city": "Sands Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470141396",
@@ -33102,7 +33990,9 @@
       "city": "Sands Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470141444",
@@ -33172,7 +34062,9 @@
       "city": "Michigamme",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470141960",
@@ -33189,7 +34081,9 @@
       "city": "Michigamme Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470142138",
@@ -33223,7 +34117,9 @@
       "city": "Crystal Falls Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470142230",
@@ -33257,7 +34153,9 @@
       "city": "Iron Mountain",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470143154",
@@ -33291,7 +34189,9 @@
       "city": "Stephenson Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470143519",
@@ -33378,7 +34278,9 @@
       "city": "Wells Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471829091",
@@ -33446,7 +34348,9 @@
       "city": "Boyne City",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471829942",
@@ -33480,7 +34384,9 @@
       "city": "Hayes Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471830430",
@@ -33514,7 +34420,9 @@
       "city": "Elk Rapids",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471831106",
@@ -33531,7 +34439,9 @@
       "city": "Milton Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471831472",
@@ -33845,7 +34755,9 @@
       "city": "Saint Clair County",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1484652857",
@@ -33915,7 +34827,9 @@
       "city": "Clinton County",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1504764132",
@@ -33968,7 +34882,9 @@
       "city": "Saugatuck",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1517674862",
@@ -34053,7 +34969,9 @@
       "city": "Grand Haven",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1523805096",
@@ -34070,7 +34988,9 @@
       "city": "Salem Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524069568",
@@ -34087,7 +35007,9 @@
       "city": "East Grand Rapids",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524485300",
@@ -34155,7 +35077,9 @@
       "city": "Three Rivers",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1531217377",
@@ -34206,7 +35130,9 @@
       "city": "Ironwood Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1533927446",
@@ -34276,7 +35202,9 @@
       "city": "Ganges Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1553152293",
@@ -34293,7 +35221,9 @@
       "city": "Wyoming",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-r17895187",

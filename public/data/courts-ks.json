@@ -34,7 +34,9 @@
       "city": "Dodge City",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w39157963",
@@ -471,7 +473,9 @@
       "city": "Wichita",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w94473028",
@@ -732,7 +736,9 @@
       "city": "Lindsborg",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w124161827",
@@ -768,7 +774,9 @@
       "city": "Claflin",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w127845031",
@@ -785,7 +793,9 @@
       "city": "Olathe",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w128365058",
@@ -836,7 +846,9 @@
       "city": "Wichita",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w133244474",
@@ -853,7 +865,9 @@
       "city": "Tonganoxie",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w133265013",
@@ -870,7 +884,9 @@
       "city": "Oswego",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w133533620",
@@ -1029,7 +1045,9 @@
       "city": "Overland Park",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w158400177",
@@ -1203,7 +1221,9 @@
       "city": "Winona",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w171147578",
@@ -1273,7 +1293,9 @@
       "city": "Mission",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w184369564",
@@ -1290,7 +1312,9 @@
       "city": "Mission",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w184369565",
@@ -1307,7 +1331,9 @@
       "city": "Mission",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w184372977",
@@ -1324,7 +1350,9 @@
       "city": "Mission",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w194711377",
@@ -1559,7 +1587,9 @@
       "city": "Peabody",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w200944941",
@@ -1729,7 +1759,9 @@
       "city": "Topeka",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w205716557",
@@ -2015,7 +2047,9 @@
       "city": "Shawnee",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w272975886",
@@ -2227,7 +2261,9 @@
       "city": "Overland Park",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w320357097",
@@ -2382,7 +2418,9 @@
       "city": "Leavenworth",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w371541460",
@@ -2473,7 +2511,9 @@
       "city": "Mount Hope",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w401416231",
@@ -2598,7 +2638,9 @@
       "city": "Kanopolis",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w445076694",
@@ -2632,7 +2674,9 @@
       "city": "Garden City",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w450023229",
@@ -2770,7 +2814,9 @@
       "city": "Junction City",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w465686600",
@@ -3148,7 +3194,9 @@
       "city": "Ellis",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w485045623",
@@ -3165,7 +3213,9 @@
       "city": "Deerfield",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w487824601",
@@ -3199,7 +3249,9 @@
       "city": "Shawnee",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w490646667",
@@ -3216,7 +3268,9 @@
       "city": "Leavenworth",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w491197949",
@@ -3674,7 +3728,9 @@
       "city": "Saint John",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w539392260",
@@ -3725,7 +3781,9 @@
       "city": "Lakin",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w542529692",
@@ -3759,7 +3817,9 @@
       "city": "Scott City",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w543160143",
@@ -3844,7 +3904,9 @@
       "city": "Mission",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w547364558",
@@ -3878,7 +3940,9 @@
       "city": "WaKeeney",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w547465299",
@@ -4031,7 +4095,9 @@
       "city": "McPherson County",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w566529855",
@@ -4048,7 +4114,9 @@
       "city": "Logan",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w567566105",
@@ -4211,7 +4279,9 @@
       "city": "Victoria",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w578453457",
@@ -4228,7 +4298,9 @@
       "city": "Goddard",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w581917567",
@@ -4332,7 +4404,9 @@
       "city": "Junction City",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w585033176",
@@ -4404,7 +4478,9 @@
       "city": "Seneca",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w597946566",
@@ -4542,7 +4618,9 @@
       "city": "Wabaunsee County",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w615401644",
@@ -4610,7 +4688,9 @@
       "city": "Shawnee",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w618288977",
@@ -4663,7 +4743,9 @@
       "city": "Shawnee",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w620715025",
@@ -4697,7 +4779,9 @@
       "city": "Shawnee",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w622820183",
@@ -4714,7 +4798,9 @@
       "city": "Lenexa",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w623122449",
@@ -4731,7 +4817,9 @@
       "city": "Macksville",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w623275361",
@@ -4782,7 +4870,9 @@
       "city": "Lenexa",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w623582600",
@@ -4799,7 +4889,9 @@
       "city": "Lenexa",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w625115297",
@@ -4816,7 +4908,9 @@
       "city": "Merriam",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w629252873",
@@ -4833,7 +4927,9 @@
       "city": "Hays",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w629639772",
@@ -4867,7 +4963,9 @@
       "city": "Shawnee",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w631319334",
@@ -4901,7 +4999,9 @@
       "city": "Pratt",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w636094325",
@@ -4935,7 +5035,9 @@
       "city": "Sedgwick County",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w637503802",
@@ -4952,7 +5054,9 @@
       "city": "Sedgwick County",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w637503810",
@@ -5109,7 +5213,9 @@
       "city": "Inman",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w641060629",
@@ -5160,7 +5266,9 @@
       "city": "Riley County",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w651733385",
@@ -5249,7 +5357,9 @@
       "city": "McPherson County",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w652727184",
@@ -5266,7 +5376,9 @@
       "city": "Shawnee",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w653811831",
@@ -5283,7 +5395,9 @@
       "city": "Dickinson County",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w654652854",
@@ -5368,7 +5482,9 @@
       "city": "Sedgwick County",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w655456941",
@@ -5419,7 +5535,9 @@
       "city": "Valley Center",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w656786829",
@@ -5453,7 +5571,9 @@
       "city": "Hutchinson",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w657638469",
@@ -5470,7 +5590,9 @@
       "city": "Hesston",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w657969990",
@@ -5487,7 +5609,9 @@
       "city": "McPherson",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w659064934",
@@ -5504,7 +5628,9 @@
       "city": "McPherson",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w660099864",
@@ -5521,7 +5647,9 @@
       "city": "Leavenworth County",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w662161395",
@@ -5538,7 +5666,9 @@
       "city": "Elkhart",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w662279440",
@@ -5591,7 +5721,9 @@
       "city": "Kismet",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w664888534",
@@ -5714,7 +5846,9 @@
       "city": "Wichita",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w667302162",
@@ -5748,7 +5882,9 @@
       "city": "Butler County",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w667312616",
@@ -5782,7 +5918,9 @@
       "city": "Wichita",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w667824843",
@@ -5799,7 +5937,9 @@
       "city": "Wichita",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w667914456",
@@ -5850,7 +5990,9 @@
       "city": "Wichita",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w667933721",
@@ -5867,7 +6009,9 @@
       "city": "Wichita",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w668440771",
@@ -5988,7 +6132,9 @@
       "city": "Wichita",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w669400590",
@@ -6058,7 +6204,9 @@
       "city": "Altamont",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w676638413",
@@ -6160,7 +6308,9 @@
       "city": "Perry",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w687659086",
@@ -6228,7 +6378,9 @@
       "city": "Great Bend",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w689353028",
@@ -6383,7 +6535,9 @@
       "city": "Overland Park",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w694067155",
@@ -6417,7 +6571,9 @@
       "city": "Overland Park",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w694100167",
@@ -6640,7 +6796,9 @@
       "city": "Topeka",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w793368356",
@@ -6761,7 +6919,9 @@
       "city": "Lawrence",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w818050707",
@@ -6846,7 +7006,9 @@
       "city": "Salina",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w847224935",
@@ -6880,7 +7042,9 @@
       "city": "Horton",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w850315526",
@@ -6914,7 +7078,9 @@
       "city": "Wichita",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w852561543",
@@ -6999,7 +7165,9 @@
       "city": "Overland Park",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w882188298",
@@ -7035,7 +7203,9 @@
       "city": "Spring Hill",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w887068505",
@@ -7052,7 +7222,9 @@
       "city": "Overland Park",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w889159155",
@@ -7262,7 +7434,9 @@
       "city": "Montezuma",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w967296813",
@@ -7557,7 +7731,9 @@
       "city": "Lincoln Center",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1076463446",
@@ -7729,7 +7905,9 @@
       "city": "Selden",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1114733621",
@@ -7818,7 +7996,9 @@
       "city": "Olathe",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1145016962",
@@ -7971,7 +8151,9 @@
       "city": "Protection",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1156837906",
@@ -7988,7 +8170,9 @@
       "city": "Coldwater",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1158566079",
@@ -8075,7 +8259,9 @@
       "city": "Paola",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1173852678",
@@ -8179,7 +8365,9 @@
       "city": "Herndon",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1194246294",
@@ -8264,7 +8452,9 @@
       "city": "Maple Hill",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1206695708",
@@ -8281,7 +8471,9 @@
       "city": "Bel Aire",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1206695819",
@@ -8349,7 +8541,9 @@
       "city": "Manhattan",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1216211824",
@@ -8477,7 +8671,9 @@
       "city": "Burlington",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1247962020",
@@ -8494,7 +8690,9 @@
       "city": "Lebo",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1247963104",
@@ -8549,7 +8747,9 @@
       "city": "Erie",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1278867661",
@@ -8583,7 +8783,9 @@
       "city": "Lenexa",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1287472950",
@@ -8672,7 +8874,9 @@
       "city": "Baldwin City",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1294581108",
@@ -8689,7 +8893,9 @@
       "city": "Mayfield",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1301159851",
@@ -8723,7 +8929,9 @@
       "city": "Jackson County",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1311065235",
@@ -8829,7 +9037,9 @@
       "city": "Wichita",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1321454585",
@@ -8880,7 +9090,9 @@
       "city": "Overland Park",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1323411352",
@@ -8965,7 +9177,9 @@
       "city": "Chase",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1331378062",
@@ -8982,7 +9196,9 @@
       "city": "Lyons",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1331378478",
@@ -8999,7 +9215,9 @@
       "city": "Haven",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1331378765",
@@ -9016,7 +9234,9 @@
       "city": "Wichita",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1331378853",
@@ -9052,7 +9272,9 @@
       "city": "Kiowa",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333196750",
@@ -9120,7 +9342,9 @@
       "city": "Hill City",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1353479541",
@@ -9173,7 +9397,9 @@
       "city": "Olathe",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1378730923",
@@ -9207,7 +9433,9 @@
       "city": "Bartlett",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1389202073",
@@ -9294,7 +9522,9 @@
       "city": "Overland Park",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1422757101",
@@ -9311,7 +9541,9 @@
       "city": "Sedgwick County",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1425251448",
@@ -9328,7 +9560,9 @@
       "city": "Halstead",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1425252075",
@@ -9532,7 +9766,9 @@
       "city": "Wichita",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1462979712",
@@ -9566,7 +9802,9 @@
       "city": "Hugoton",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1467185241",
@@ -9583,7 +9821,9 @@
       "city": "Liberal",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1467190899",
@@ -9634,7 +9874,9 @@
       "city": "Wichita County",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469947148",
@@ -9668,7 +9910,9 @@
       "city": "Healy",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469947275",
@@ -9702,7 +9946,9 @@
       "city": "Holcomb",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469947629",
@@ -9753,7 +9999,9 @@
       "city": "Greensburg",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469947709",
@@ -9789,7 +10037,9 @@
       "city": "Cheney",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469947964",
@@ -9806,7 +10056,9 @@
       "city": "Garden Plain",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469948068",
@@ -9842,7 +10094,9 @@
       "city": "Stockton",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469948266",
@@ -9859,7 +10113,9 @@
       "city": "Osborne",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469948295",
@@ -9910,7 +10166,9 @@
       "city": "Brown County",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470097686",
@@ -9927,7 +10185,9 @@
       "city": "Effingham",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470097695",
@@ -9944,7 +10204,9 @@
       "city": "Perry",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470097725",
@@ -9978,7 +10240,9 @@
       "city": "Alma",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470097982",
@@ -10031,7 +10295,9 @@
       "city": "Ellsworth County",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471483992",
@@ -10048,7 +10314,9 @@
       "city": "Marquette",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471484051",
@@ -10065,7 +10333,9 @@
       "city": "McPherson",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471484396",
@@ -10099,7 +10369,9 @@
       "city": "Reno County",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471484569",
@@ -10184,7 +10456,9 @@
       "city": "Herington",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471486848",
@@ -10271,7 +10545,9 @@
       "city": "Parsons",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471489747",
@@ -10288,7 +10564,9 @@
       "city": "Elbing",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471490759",
@@ -10322,7 +10600,9 @@
       "city": "Sedgwick County",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471492549",
@@ -10339,7 +10619,9 @@
       "city": "Clearwater",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471492689",
@@ -10390,7 +10672,9 @@
       "city": "Wichita",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471495228",
@@ -10407,7 +10691,9 @@
       "city": "Caldwell",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471498622",
@@ -10545,7 +10831,9 @@
       "city": "Overland Park",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471503496",
@@ -10579,7 +10867,9 @@
       "city": "Overland Park",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471503835",
@@ -10596,7 +10886,9 @@
       "city": "Overland Park",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471503967",
@@ -10613,7 +10905,9 @@
       "city": "Overland Park",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471504265",
@@ -10715,7 +11009,9 @@
       "city": "Copeland",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1479278018",
@@ -10766,7 +11062,9 @@
       "city": "Olathe",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1484214009",
@@ -10802,7 +11100,9 @@
       "city": "Sedgwick County",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1490361977",
@@ -10836,7 +11136,9 @@
       "city": "Saint Paul",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1503074423",
@@ -10872,7 +11174,9 @@
       "city": "Lewis",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1505417685",
@@ -10974,7 +11278,9 @@
       "city": "Wichita",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512577090",
@@ -10991,7 +11297,9 @@
       "city": "Wichita",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512577212",
@@ -11059,7 +11367,9 @@
       "city": "Atwood",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1549188264",
@@ -11076,7 +11386,9 @@
       "city": "New Strawn",
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-r12482402",

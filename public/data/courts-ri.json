@@ -36,7 +36,9 @@
       "city": "Lincoln",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w56435853",
@@ -108,7 +110,9 @@
       "city": "Little Compton",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w141542990",
@@ -250,7 +254,9 @@
       "city": "East Providence",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w163655899",
@@ -286,7 +292,9 @@
       "city": "Warwick",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w184978318",
@@ -320,7 +328,9 @@
       "city": "Narragansett",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w196811611",
@@ -390,7 +400,9 @@
       "city": "East Providence",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w220479677",
@@ -458,7 +470,9 @@
       "city": "New Shoreham",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w241334885",
@@ -492,7 +506,9 @@
       "city": "Warwick",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w288107043",
@@ -706,7 +722,9 @@
       "city": "Warwick",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w325258797",
@@ -759,7 +777,9 @@
       "city": "Lincoln",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w332722131",
@@ -827,7 +847,9 @@
       "city": "Cumberland",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w377543048",
@@ -897,7 +919,9 @@
       "city": "Lincoln",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w418597433",
@@ -950,7 +974,9 @@
       "city": "Newport",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w428606783",
@@ -967,7 +993,9 @@
       "city": "West Warwick",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w431777991",
@@ -984,7 +1012,9 @@
       "city": "Cranston",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w435593763",
@@ -1018,7 +1048,9 @@
       "city": "Warwick",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w441543885",
@@ -1160,7 +1192,9 @@
       "city": "South Kingstown",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w442694074",
@@ -1177,7 +1211,9 @@
       "city": "Newport",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w442700463",
@@ -1194,7 +1230,9 @@
       "city": "Warwick",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w445938746",
@@ -1351,7 +1389,9 @@
       "city": "Glocester",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w531366735",
@@ -1368,7 +1408,9 @@
       "city": "Glocester",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w537487722",
@@ -1493,7 +1535,9 @@
       "city": "Narragansett",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w555753001",
@@ -1510,7 +1554,9 @@
       "city": "Narragansett",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w559483015",
@@ -1599,7 +1645,9 @@
       "city": "Westerly",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w605911328",
@@ -1667,7 +1715,9 @@
       "city": "Tiverton",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w705005526",
@@ -1701,7 +1751,9 @@
       "city": "Johnston",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w757318478",
@@ -1718,7 +1770,9 @@
       "city": "Jamestown",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w759728447",
@@ -1735,7 +1789,9 @@
       "city": "Newport",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w759929333",
@@ -1769,7 +1825,9 @@
       "city": "North Providence",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w761068899",
@@ -1786,7 +1844,9 @@
       "city": "North Providence",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w767687569",
@@ -1875,7 +1935,9 @@
       "city": "Narragansett",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w891738771",
@@ -1911,7 +1973,9 @@
       "city": "Middletown",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w893692165",
@@ -1981,7 +2045,9 @@
       "city": "Newport",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w903242278",
@@ -2034,7 +2100,9 @@
       "city": "Newport",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w906490902",
@@ -2051,7 +2119,9 @@
       "city": "Bristol",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w906490922",
@@ -2068,7 +2138,9 @@
       "city": "Bristol",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w906616704",
@@ -2102,7 +2174,9 @@
       "city": "Bristol",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w906925458",
@@ -2138,7 +2212,9 @@
       "city": "Bristol",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w907510792",
@@ -2155,7 +2231,9 @@
       "city": "Warren",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w908209902",
@@ -2172,7 +2250,9 @@
       "city": "Newport",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w908209906",
@@ -2223,7 +2303,9 @@
       "city": "Newport",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w936706233",
@@ -2278,7 +2360,9 @@
       "city": "Charlestown",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w960839999",
@@ -2295,7 +2379,9 @@
       "city": "Jamestown",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w960840018",
@@ -2329,7 +2415,9 @@
       "city": "Jamestown",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w963201007",
@@ -2346,7 +2434,9 @@
       "city": "Middletown",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w963201030",
@@ -2363,7 +2453,9 @@
       "city": "Middletown",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w963234606",
@@ -2380,7 +2472,9 @@
       "city": "Middletown",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w963234621",
@@ -2397,7 +2491,9 @@
       "city": "Middletown",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w963247166",
@@ -2431,7 +2527,9 @@
       "city": "Newport",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w969264106",
@@ -2484,7 +2582,9 @@
       "city": "Charlestown",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w979899457",
@@ -2677,7 +2777,9 @@
       "city": "Cranston",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1024225704",
@@ -2747,7 +2849,9 @@
       "city": "Bristol",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1069653813",
@@ -2764,7 +2868,9 @@
       "city": "Bristol",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1071720341",
@@ -2798,7 +2904,9 @@
       "city": "Barrington",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1194996943",
@@ -2815,7 +2923,9 @@
       "city": "Newport",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1213963640",
@@ -2832,7 +2942,9 @@
       "city": "Newport",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1217629469",
@@ -2934,7 +3046,9 @@
       "city": "Portsmouth",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1282075160",
@@ -2951,7 +3065,9 @@
       "city": "Lincoln",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1306912342",
@@ -2985,7 +3101,9 @@
       "city": "Johnston",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1341335286",
@@ -3021,7 +3139,9 @@
       "city": "Bristol",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1364142555",
@@ -3038,7 +3158,9 @@
       "city": "Westerly",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1365081560",
@@ -3055,7 +3177,9 @@
       "city": "Westerly",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1365435032",
@@ -3072,7 +3196,9 @@
       "city": "Westerly",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1365856633",
@@ -3089,7 +3215,9 @@
       "city": "Westerly",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1366076883",
@@ -3106,7 +3234,9 @@
       "city": "Westerly",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1366278338",
@@ -3123,7 +3253,9 @@
       "city": "Westerly",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1366335020",
@@ -3191,7 +3323,9 @@
       "city": "Westerly",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1375008215",
@@ -3208,7 +3342,9 @@
       "city": "Hopkinton",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1381848614",
@@ -3225,7 +3361,9 @@
       "city": "Charlestown",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1382133484",
@@ -3242,7 +3380,9 @@
       "city": "Charlestown",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1382633570",
@@ -3276,7 +3416,9 @@
       "city": "Charlestown",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1383081135",
@@ -3293,7 +3435,9 @@
       "city": "Charlestown",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1388009720",
@@ -3310,7 +3454,9 @@
       "city": "South Kingstown",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1388664210",
@@ -3327,7 +3473,9 @@
       "city": "South Kingstown",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1389959102",
@@ -3378,7 +3526,9 @@
       "city": "South Kingstown",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1414151522",
@@ -3395,7 +3545,9 @@
       "city": "Cranston",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1416658080",
@@ -3412,7 +3564,9 @@
       "city": "Burrillville",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1423422098",
@@ -3429,7 +3583,9 @@
       "city": "Little Compton",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1425539120",
@@ -3465,7 +3621,9 @@
       "city": "Narragansett",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1430924670",
@@ -3569,7 +3727,9 @@
       "city": "Narragansett",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1434154646",
@@ -3586,7 +3746,9 @@
       "city": "New Shoreham",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442211847",
@@ -3622,7 +3784,9 @@
       "city": "Coventry",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442211853",
@@ -3690,7 +3854,9 @@
       "city": "West Warwick",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442211864",
@@ -3815,7 +3981,9 @@
       "city": "Warwick",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446609282",
@@ -3832,7 +4000,9 @@
       "city": "Warwick",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446609547",
@@ -3866,7 +4036,9 @@
       "city": "Newport",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1449448952",
@@ -3883,7 +4055,9 @@
       "city": "Richmond",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1451369157",
@@ -3917,7 +4091,9 @@
       "city": "North Kingstown",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1473927690",
@@ -3934,7 +4110,9 @@
       "city": "North Kingstown",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1473927695",
@@ -3951,7 +4129,9 @@
       "city": "North Kingstown",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474275545",
@@ -4019,7 +4199,9 @@
       "city": "Central Falls",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1489780056",
@@ -4246,7 +4428,9 @@
       "city": "Warwick",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1548370454",
@@ -4263,7 +4447,9 @@
       "city": "Westerly",
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     }
   ]
 }

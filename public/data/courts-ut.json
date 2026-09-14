@@ -51,7 +51,9 @@
       "city": "Clearfield",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w28347939",
@@ -121,7 +123,9 @@
       "city": "Sunset",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w31559910",
@@ -172,7 +176,9 @@
       "city": "Uintah",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w36189472",
@@ -189,7 +195,9 @@
       "city": "Roy",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w36189500",
@@ -206,7 +214,9 @@
       "city": "Roy",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w36779702",
@@ -365,7 +375,9 @@
       "city": "Ogden",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w39783564",
@@ -382,7 +394,9 @@
       "city": "Ogden",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w40666653",
@@ -469,7 +483,9 @@
       "city": "West Haven",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w42696995",
@@ -486,7 +502,9 @@
       "city": "Riverdale",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w43957194",
@@ -537,7 +555,9 @@
       "city": "West Haven",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w45573130",
@@ -609,7 +629,9 @@
       "city": "Willard",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w49621001",
@@ -696,7 +718,9 @@
       "city": "Clearfield",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w52326162",
@@ -751,7 +775,9 @@
       "city": "Clearfield",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w55007478",
@@ -768,7 +794,9 @@
       "city": "Layton",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w55452100",
@@ -804,7 +832,9 @@
       "city": "Clearfield",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w55691667",
@@ -978,7 +1008,9 @@
       "city": "Farmington",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w88957499",
@@ -1012,7 +1044,9 @@
       "city": "Millcreek",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w89486332",
@@ -1046,7 +1080,9 @@
       "city": "Monroe",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w91972657",
@@ -1097,7 +1133,9 @@
       "city": "Orem",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w94792272",
@@ -1184,7 +1222,9 @@
       "city": "Springville",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w99270690",
@@ -1328,7 +1368,9 @@
       "city": "Cedar Hills",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w100081308",
@@ -1432,7 +1474,9 @@
       "city": "Provo",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w115596421",
@@ -1536,7 +1580,9 @@
       "city": "Holladay",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w152251474",
@@ -1553,7 +1599,9 @@
       "city": "Salt Lake County",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w155351945",
@@ -1655,7 +1703,9 @@
       "city": "Duchesne",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w196826696",
@@ -1689,7 +1739,9 @@
       "city": "Draper",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w224260157",
@@ -1812,7 +1864,9 @@
       "city": "Snyderville",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w237879646",
@@ -1948,7 +2002,9 @@
       "city": "Park City",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w242516857",
@@ -2016,7 +2072,9 @@
       "city": "Midway",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w251098924",
@@ -2050,7 +2108,9 @@
       "city": "Park City",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w256077861",
@@ -2101,7 +2161,9 @@
       "city": "Park City",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w256870052",
@@ -2118,7 +2180,9 @@
       "city": "Park City",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w261399601",
@@ -2186,7 +2250,9 @@
       "city": "Kaysville",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w285599488",
@@ -2203,7 +2269,9 @@
       "city": "Farmington",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w300654224",
@@ -2254,7 +2322,9 @@
       "city": "Midway",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w311853125",
@@ -2324,7 +2394,9 @@
       "city": "Washington Terrace",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w342620192",
@@ -2341,7 +2413,9 @@
       "city": "Alpine",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w342620193",
@@ -2358,7 +2432,9 @@
       "city": "Alpine",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w342620195",
@@ -2375,7 +2451,9 @@
       "city": "Alpine",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w342620196",
@@ -2392,7 +2470,9 @@
       "city": "Alpine",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w342620197",
@@ -2443,7 +2523,9 @@
       "city": "Alpine",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w342620201",
@@ -2477,7 +2559,9 @@
       "city": "Alpine",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w342620203",
@@ -2494,7 +2578,9 @@
       "city": "Alpine",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w342620204",
@@ -2511,7 +2597,9 @@
       "city": "Alpine",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w342620205",
@@ -2528,7 +2616,9 @@
       "city": "Alpine",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w342620206",
@@ -2545,7 +2635,9 @@
       "city": "Alpine",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w342620207",
@@ -2647,7 +2739,9 @@
       "city": "Alpine",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w342620213",
@@ -2664,7 +2758,9 @@
       "city": "Alpine",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w342620238",
@@ -2681,7 +2777,9 @@
       "city": "Alpine",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w342620239",
@@ -2698,7 +2796,9 @@
       "city": "Alpine",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w342620257",
@@ -2715,7 +2815,9 @@
       "city": "Alpine",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w344164033",
@@ -2732,7 +2834,9 @@
       "city": "Alpine",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w344164034",
@@ -2749,7 +2853,9 @@
       "city": "Alpine",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w344164035",
@@ -2766,7 +2872,9 @@
       "city": "Alpine",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w344164036",
@@ -2783,7 +2891,9 @@
       "city": "Alpine",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w344285954",
@@ -2838,7 +2948,9 @@
       "city": "Alpine",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w345064826",
@@ -2959,7 +3071,9 @@
       "city": "Midvale",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w370545226",
@@ -2976,7 +3090,9 @@
       "city": "Draper",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w370545231",
@@ -3010,7 +3126,9 @@
       "city": "Draper",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w370819559",
@@ -3027,7 +3145,9 @@
       "city": "North Ogden",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w375335130",
@@ -3078,7 +3198,9 @@
       "city": "Draper",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w403955993",
@@ -3095,7 +3217,9 @@
       "city": "West Valley City",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w404288384",
@@ -3146,7 +3270,9 @@
       "city": "St. George",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w412453619",
@@ -3163,7 +3289,9 @@
       "city": "West Valley City",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w415607574",
@@ -3373,7 +3501,9 @@
       "city": "Paradise",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w449257775",
@@ -3477,7 +3607,9 @@
       "city": "Providence",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w453817094",
@@ -3511,7 +3643,9 @@
       "city": "Providence",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w454932747",
@@ -3787,7 +3921,9 @@
       "city": "Elk Ridge",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w467851919",
@@ -3804,7 +3940,9 @@
       "city": "St. George",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w468441673",
@@ -3840,7 +3978,9 @@
       "city": "Portage",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w469103860",
@@ -3910,7 +4050,9 @@
       "city": "Layton",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w473819221",
@@ -4050,7 +4192,9 @@
       "city": "Layton",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w491164746",
@@ -4067,7 +4211,9 @@
       "city": "North Ogden",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w492926300",
@@ -4152,7 +4298,9 @@
       "city": "Brigham City",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w504817433",
@@ -4169,7 +4317,9 @@
       "city": "Perry",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w509850936",
@@ -4205,7 +4355,9 @@
       "city": "Utah County",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w510198385",
@@ -4222,7 +4374,9 @@
       "city": "Utah County",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w510204444",
@@ -4256,7 +4410,9 @@
       "city": "Holladay",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w510660157",
@@ -4273,7 +4429,9 @@
       "city": "Draper",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w510660174",
@@ -4341,7 +4499,9 @@
       "city": "Layton",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w519436769",
@@ -4358,7 +4518,9 @@
       "city": "Layton",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w519444658",
@@ -4375,7 +4537,9 @@
       "city": "Layton",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w519827310",
@@ -4392,7 +4556,9 @@
       "city": "Millcreek",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w532766332",
@@ -4481,7 +4647,9 @@
       "city": "Salt Lake City",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w537515578",
@@ -4604,7 +4772,9 @@
       "city": "Wasatch County",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w547827133",
@@ -4621,7 +4791,9 @@
       "city": "Riverton",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w548235157",
@@ -4638,7 +4810,9 @@
       "city": "Eagle Mountain",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w551553686",
@@ -4655,7 +4829,9 @@
       "city": "Salem",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w553157218",
@@ -4706,7 +4882,9 @@
       "city": "St. George",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w565185359",
@@ -4774,7 +4952,9 @@
       "city": "Cottonwood Heights",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w573625482",
@@ -4791,7 +4971,9 @@
       "city": "Millcreek",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w575092839",
@@ -4912,7 +5094,9 @@
       "city": "Grand County",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w606161495",
@@ -4963,7 +5147,9 @@
       "city": "Riverton",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w609061422",
@@ -5084,7 +5270,9 @@
       "city": "Mapleton",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w677564197",
@@ -5101,7 +5289,9 @@
       "city": "Alpine",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w677564198",
@@ -5118,7 +5308,9 @@
       "city": "Alpine",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w677653020",
@@ -5152,7 +5344,9 @@
       "city": "Alpine",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w677767793",
@@ -5169,7 +5363,9 @@
       "city": "Alpine",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w683035853",
@@ -5186,7 +5382,9 @@
       "city": "Box Elder County",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w685342689",
@@ -5273,7 +5471,9 @@
       "city": "Spanish Fork",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w733392829",
@@ -5290,7 +5490,9 @@
       "city": "Orem",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w739624812",
@@ -5428,7 +5630,9 @@
       "city": "St. George",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w802080758",
@@ -5479,7 +5683,9 @@
       "city": "Providence",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w814932586",
@@ -5566,7 +5772,9 @@
       "city": "Eagle Mountain",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w865499036",
@@ -5651,7 +5859,9 @@
       "city": "Sandy",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w888775411",
@@ -5668,7 +5878,9 @@
       "city": "Elk Ridge",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w907942958",
@@ -5685,7 +5897,9 @@
       "city": "Meadow",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w930833709",
@@ -5738,7 +5952,9 @@
       "city": "Taylorsville",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w951541870",
@@ -5772,7 +5988,9 @@
       "city": "Taylorsville",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w951909215",
@@ -5806,7 +6024,9 @@
       "city": "Rich County",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w953528221",
@@ -5840,7 +6060,9 @@
       "city": "Holladay",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w954765652",
@@ -5857,7 +6079,9 @@
       "city": "Holladay",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w954765653",
@@ -5874,7 +6098,9 @@
       "city": "Holladay",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w954765654",
@@ -5891,7 +6117,9 @@
       "city": "Holladay",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w954765655",
@@ -5908,7 +6136,9 @@
       "city": "Holladay",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w954765656",
@@ -5925,7 +6155,9 @@
       "city": "Holladay",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w954765657",
@@ -5942,7 +6174,9 @@
       "city": "Holladay",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w954765658",
@@ -5959,7 +6193,9 @@
       "city": "Holladay",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w954765660",
@@ -5976,7 +6212,9 @@
       "city": "Holladay",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w954765661",
@@ -6010,7 +6248,9 @@
       "city": "Sandy",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w967124168",
@@ -6027,7 +6267,9 @@
       "city": "Brighton",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w971780946",
@@ -6061,7 +6303,9 @@
       "city": "Grand County",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w975804860",
@@ -6078,7 +6322,9 @@
       "city": "Utah County",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-r13136692",
@@ -6129,7 +6375,9 @@
       "city": "Kane County",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w986897425",
@@ -6216,7 +6464,9 @@
       "city": "Cache County",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1016542875",
@@ -6267,7 +6517,9 @@
       "city": "Logan",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1018362586",
@@ -6320,7 +6572,9 @@
       "city": "Fillmore",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1034650358",
@@ -6409,7 +6663,9 @@
       "city": "South Jordan",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1043471460",
@@ -6426,7 +6682,9 @@
       "city": "North Logan",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1062267824",
@@ -6511,7 +6769,9 @@
       "city": "Lewiston",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1071307161",
@@ -6528,7 +6788,9 @@
       "city": "Alpine",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1071307177",
@@ -6545,7 +6807,9 @@
       "city": "Alpine",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1078840387",
@@ -6562,7 +6826,9 @@
       "city": "Pleasant Grove",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1082766954",
@@ -6651,7 +6917,9 @@
       "city": "South Salt Lake",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1096320653",
@@ -6685,7 +6953,9 @@
       "city": "Murray",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1097403625",
@@ -6823,7 +7093,9 @@
       "city": "Murray",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1119456083",
@@ -6840,7 +7112,9 @@
       "city": "Layton",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1120988237",
@@ -6857,7 +7131,9 @@
       "city": "Murray",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1122026057",
@@ -6874,7 +7150,9 @@
       "city": "Midvale",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1123159888",
@@ -6891,7 +7169,9 @@
       "city": "Salt Lake County",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1125081564",
@@ -6908,7 +7188,9 @@
       "city": "Tremonton",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1126402133",
@@ -6925,7 +7207,9 @@
       "city": "Oakley",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1126590341",
@@ -6961,7 +7245,9 @@
       "city": "Salt Lake City",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1128107649",
@@ -6978,7 +7264,9 @@
       "city": "Orem",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1132504771",
@@ -7048,7 +7336,9 @@
       "city": "Millcreek",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1133884602",
@@ -7065,7 +7355,9 @@
       "city": "Holladay",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1133900184",
@@ -7082,7 +7374,9 @@
       "city": "Holladay",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1134386647",
@@ -7099,7 +7393,9 @@
       "city": "Sandy",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1150790084",
@@ -7203,7 +7499,9 @@
       "city": "South Weber",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1200949215",
@@ -7220,7 +7518,9 @@
       "city": "Duchesne County",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1205362017",
@@ -7273,7 +7573,9 @@
       "city": "Hurricane",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1213207685",
@@ -7396,7 +7698,9 @@
       "city": "Mapleton",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1240351976",
@@ -7430,7 +7734,9 @@
       "city": "Holladay",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1245115736",
@@ -7483,7 +7789,9 @@
       "city": "Layton",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1255724078",
@@ -7553,7 +7861,9 @@
       "city": "Lindon",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1263886854",
@@ -7570,7 +7880,9 @@
       "city": "Lindon",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1264291800",
@@ -7621,7 +7933,9 @@
       "city": "Provo",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1264296756",
@@ -7676,7 +7990,9 @@
       "city": "Orem",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1264630210",
@@ -7693,7 +8009,9 @@
       "city": "Orem",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1265155450",
@@ -7727,7 +8045,9 @@
       "city": "Millard County",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1267950651",
@@ -7744,7 +8064,9 @@
       "city": "Orem",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1277780677",
@@ -7797,7 +8119,9 @@
       "city": "Utah County",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1281859572",
@@ -7814,7 +8138,9 @@
       "city": "Holladay",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1282063642",
@@ -7831,7 +8157,9 @@
       "city": "Orem",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1282719893",
@@ -7848,7 +8176,9 @@
       "city": "Sunset",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1284515286",
@@ -7882,7 +8212,9 @@
       "city": "Sandy",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1288158294",
@@ -7899,7 +8231,9 @@
       "city": "Cottonwood Heights",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1301835769",
@@ -7933,7 +8267,9 @@
       "city": "Cottonwood Heights",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1302058944",
@@ -7950,7 +8286,9 @@
       "city": "Cottonwood Heights",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1303395958",
@@ -8024,7 +8362,9 @@
       "city": "Cedar City",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1313389547",
@@ -8094,7 +8434,9 @@
       "city": "Perry",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1316559871",
@@ -8183,7 +8525,9 @@
       "city": "Holladay",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1326180640",
@@ -8219,7 +8563,9 @@
       "city": "Summit County",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1329120116",
@@ -8255,7 +8601,9 @@
       "city": "Fruit Heights",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1337004508",
@@ -8272,7 +8620,9 @@
       "city": "Mapleton",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1337004511",
@@ -8289,7 +8639,9 @@
       "city": "Mapleton",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1337004512",
@@ -8306,7 +8658,9 @@
       "city": "Mapleton",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1337004515",
@@ -8323,7 +8677,9 @@
       "city": "Mapleton",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1337004518",
@@ -8340,7 +8696,9 @@
       "city": "Mapleton",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1337309683",
@@ -8376,7 +8734,9 @@
       "city": "Washington",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1354782493",
@@ -8463,7 +8823,9 @@
       "city": "Mapleton",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1360035855",
@@ -8480,7 +8842,9 @@
       "city": "American Fork",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1364138622",
@@ -8552,7 +8916,9 @@
       "city": "Spanish Fork",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1372601816",
@@ -8569,7 +8935,9 @@
       "city": "Spanish Fork",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1372608136",
@@ -8586,7 +8954,9 @@
       "city": "Spanish Fork",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1380295795",
@@ -8622,7 +8992,9 @@
       "city": "Eagle Mountain",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1381678365",
@@ -8709,7 +9081,9 @@
       "city": "Springville",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1387762665",
@@ -8726,7 +9100,9 @@
       "city": "Springville",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1389684657",
@@ -8760,7 +9136,9 @@
       "city": "Mantua",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1393347112",
@@ -8777,7 +9155,9 @@
       "city": "Ogden Valley",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1394845261",
@@ -8794,7 +9174,9 @@
       "city": "Kane County",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1395336579",
@@ -8828,7 +9210,9 @@
       "city": "Salt Lake County",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1411995185",
@@ -8845,7 +9229,9 @@
       "city": "Wayne County",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1412121784",
@@ -8862,7 +9248,9 @@
       "city": "Roosevelt",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1413181707",
@@ -8932,7 +9320,9 @@
       "city": "Alpine",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1422783246",
@@ -8949,7 +9339,9 @@
       "city": "Roy",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1422873902",
@@ -8966,7 +9358,9 @@
       "city": "Hyde Park",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1425248984",
@@ -8983,7 +9377,9 @@
       "city": "Draper",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1425249258",
@@ -9017,7 +9413,9 @@
       "city": "Sandy",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1425250756",
@@ -9034,7 +9432,9 @@
       "city": "Draper",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1425250973",
@@ -9051,7 +9451,9 @@
       "city": "Draper",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1425257481",
@@ -9068,7 +9470,9 @@
       "city": "Sandy",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1425277698",
@@ -9085,7 +9489,9 @@
       "city": "Millcreek",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1425278039",
@@ -9119,7 +9525,9 @@
       "city": "Holladay",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1425278754",
@@ -9136,7 +9544,9 @@
       "city": "Holladay",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1425279810",
@@ -9153,7 +9563,9 @@
       "city": "Sandy",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1425281402",
@@ -9221,7 +9633,9 @@
       "city": "Centerville",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1428329212",
@@ -9255,7 +9669,9 @@
       "city": "Draper",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1430363291",
@@ -9289,7 +9705,9 @@
       "city": "Eagle Mountain",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1430809223",
@@ -9325,7 +9743,9 @@
       "city": "Grand County",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1432072016",
@@ -9433,7 +9853,9 @@
       "city": "Farr West",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1436944850",
@@ -9537,7 +9959,9 @@
       "city": "Davis County",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446799368",
@@ -9554,7 +9978,9 @@
       "city": "Salt Lake County",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1447550256",
@@ -9571,7 +9997,9 @@
       "city": "Bluffdale",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1447553782",
@@ -9588,7 +10016,9 @@
       "city": "Pleasant Grove",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1447760385",
@@ -9624,7 +10054,9 @@
       "city": "Kanab",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1451398181",
@@ -9696,7 +10128,9 @@
       "city": "St. George",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1451741151",
@@ -9798,7 +10232,9 @@
       "city": "Clearfield",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1462741763",
@@ -9815,7 +10251,9 @@
       "city": "Salem",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1463231686",
@@ -9832,7 +10270,9 @@
       "city": "Provo",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1463235784",
@@ -9849,7 +10289,9 @@
       "city": "Provo",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1463235828",
@@ -9883,7 +10325,9 @@
       "city": "Castle Dale",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1466925437",
@@ -9936,7 +10380,9 @@
       "city": "Enterprise",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1467891044",
@@ -9972,7 +10418,9 @@
       "city": "Garden City",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1468995195",
@@ -10025,7 +10473,9 @@
       "city": "Delta",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1468995679",
@@ -10095,7 +10545,9 @@
       "city": "Sanpete County",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1468996983",
@@ -10288,7 +10740,9 @@
       "city": "Murray",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469005474",
@@ -10305,7 +10759,9 @@
       "city": "Murray",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469006065",
@@ -10356,7 +10812,9 @@
       "city": "Clarkston",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469006674",
@@ -10373,7 +10831,9 @@
       "city": "Newton",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469006771",
@@ -10897,7 +11357,9 @@
       "city": "Salt Lake City",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469213211",
@@ -10931,7 +11393,9 @@
       "city": "Salt Lake City",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469215098",
@@ -11109,7 +11573,9 @@
       "city": "Henefer",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469223274",
@@ -11143,7 +11609,9 @@
       "city": "Snyderville",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469223955",
@@ -11211,7 +11679,9 @@
       "city": "Utah County",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469226572",
@@ -11444,7 +11914,9 @@
       "city": "Murray",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474600808",
@@ -11461,7 +11933,9 @@
       "city": "Washington County",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1475998408",
@@ -11478,7 +11952,9 @@
       "city": "Provo",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1475998415",
@@ -11495,7 +11971,9 @@
       "city": "Orem",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1475998425",
@@ -11512,7 +11990,9 @@
       "city": "Orem",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1475998431",
@@ -11546,7 +12026,9 @@
       "city": "Provo",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1475998441",
@@ -11563,7 +12045,9 @@
       "city": "Provo",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1475998443",
@@ -11580,7 +12064,9 @@
       "city": "Provo",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1484210915",
@@ -11684,7 +12170,9 @@
       "city": "Holladay",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1493279541",
@@ -11701,7 +12189,9 @@
       "city": "Millcreek",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1495922035",
@@ -11735,7 +12225,9 @@
       "city": "Ogden",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1498055197",
@@ -11752,7 +12244,9 @@
       "city": "Ogden",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1507973696",
@@ -11769,7 +12263,9 @@
       "city": "Midway",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1507973700",
@@ -11820,7 +12316,9 @@
       "city": "Heber",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1517121523",
@@ -11837,7 +12335,9 @@
       "city": "Salt Lake City",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1517195921",
@@ -11907,7 +12407,9 @@
       "city": "Washington County",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1525325147",
@@ -12172,7 +12674,9 @@
       "city": "Mapleton",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1542864359",
@@ -12189,7 +12693,9 @@
       "city": "Summit County",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1543033262",
@@ -12206,7 +12712,9 @@
       "city": "Mapleton",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1543318585",
@@ -12223,7 +12731,9 @@
       "city": "Carbon County",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1544682415",
@@ -12240,7 +12750,9 @@
       "city": "Oakley",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1547063036",
@@ -12257,7 +12769,9 @@
       "city": "Weber County",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1547930017",
@@ -12291,7 +12805,9 @@
       "city": "Cottonwood Heights",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1548926721",
@@ -12308,7 +12824,9 @@
       "city": "Cottonwood Heights",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1548928046",
@@ -12325,7 +12843,9 @@
       "city": "Sandy",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1550113526",
@@ -12342,7 +12862,9 @@
       "city": "Millcreek",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1550226651",
@@ -12359,7 +12881,9 @@
       "city": "Provo",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1550718546",
@@ -12376,7 +12900,9 @@
       "city": "Mount Pleasant",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1550834325",
@@ -12393,7 +12919,9 @@
       "city": "Mount Pleasant",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552472660",
@@ -12463,7 +12991,9 @@
       "city": "Highland",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552730122",
@@ -12480,7 +13010,9 @@
       "city": "Highland",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552992293",
@@ -12497,7 +13029,9 @@
       "city": "Rich County",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1553343881",
@@ -12514,7 +13048,9 @@
       "city": "Highland",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1553343882",
@@ -12531,7 +13067,9 @@
       "city": "Highland",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-r16645041",

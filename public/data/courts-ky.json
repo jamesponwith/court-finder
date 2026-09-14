@@ -153,7 +153,9 @@
       "city": "Boone County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w42000787",
@@ -206,7 +208,9 @@
       "city": "Villa Hills",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w55676186",
@@ -240,7 +244,9 @@
       "city": "Louisville",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w60255828",
@@ -257,7 +263,9 @@
       "city": "Fort Mitchell",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w60255829",
@@ -274,7 +282,9 @@
       "city": "Fort Mitchell",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w60356497",
@@ -395,7 +405,9 @@
       "city": "Hurstbourne",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w61423660",
@@ -446,7 +458,9 @@
       "city": "Louisville",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w62414106",
@@ -550,7 +564,9 @@
       "city": "Burlington",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w68306164",
@@ -601,7 +617,9 @@
       "city": "Boone County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w80215036",
@@ -618,7 +636,9 @@
       "city": "Independence",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w80309503",
@@ -635,7 +655,9 @@
       "city": "Southgate",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w80313688",
@@ -671,7 +693,9 @@
       "city": "Walton",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w80397604",
@@ -707,7 +731,9 @@
       "city": "Florence",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w80399111",
@@ -758,7 +784,9 @@
       "city": "Union",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w80433716",
@@ -794,7 +822,9 @@
       "city": "Campbell County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w108064270",
@@ -828,7 +858,9 @@
       "city": "Edgewood",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w108069370",
@@ -845,7 +877,9 @@
       "city": "Elsmere",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w114649252",
@@ -879,7 +913,9 @@
       "city": "Lakeside Park",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w116802574",
@@ -915,7 +951,9 @@
       "city": "Boone County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w138394888",
@@ -932,7 +970,9 @@
       "city": "Burlington",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w141726306",
@@ -949,7 +989,9 @@
       "city": "Fort Wright",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w141726365",
@@ -1019,7 +1061,9 @@
       "city": "Fort Thomas",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w148941927",
@@ -1036,7 +1080,9 @@
       "city": "Fort Thomas",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w152644004",
@@ -1087,7 +1133,9 @@
       "city": "Kenton County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w159137804",
@@ -1123,7 +1171,9 @@
       "city": "Erlanger",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w160712156",
@@ -1159,7 +1209,9 @@
       "city": "Edgewood",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w176607496",
@@ -1176,7 +1228,9 @@
       "city": "Covington",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w176608676",
@@ -1193,7 +1247,9 @@
       "city": "Covington",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w178755679",
@@ -1210,7 +1266,9 @@
       "city": "Georgetown",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w179080197",
@@ -1227,7 +1285,9 @@
       "city": "Fort Thomas",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w184689263",
@@ -1244,7 +1304,9 @@
       "city": "Lexington",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w189682190",
@@ -1297,7 +1359,9 @@
       "city": "Wilder",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w197489030",
@@ -1314,7 +1378,9 @@
       "city": "Fort Wright",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w208828458",
@@ -1331,7 +1397,9 @@
       "city": "Hardin County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w215535281",
@@ -1365,7 +1433,9 @@
       "city": "Boone County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w217933407",
@@ -1382,7 +1452,9 @@
       "city": "Boone County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w220689436",
@@ -1399,7 +1471,9 @@
       "city": "Greenup County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w224172924",
@@ -1450,7 +1524,9 @@
       "city": "Boone County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w224461965",
@@ -1622,7 +1698,9 @@
       "city": "Crestview Hills",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w257177672",
@@ -1639,7 +1717,9 @@
       "city": "Crestwood",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w257411830",
@@ -1656,7 +1736,9 @@
       "city": "Corbin",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w257414327",
@@ -1709,7 +1791,9 @@
       "city": "Lexington",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w258555460",
@@ -1743,7 +1827,9 @@
       "city": "Louisville",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w258798458",
@@ -1868,7 +1954,9 @@
       "city": "Lexington",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w284456890",
@@ -1902,7 +1990,9 @@
       "city": "Lexington",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w285495220",
@@ -1919,7 +2009,9 @@
       "city": "Lexington",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w285925594",
@@ -1936,7 +2028,9 @@
       "city": "Louisville",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w285925600",
@@ -1970,7 +2064,9 @@
       "city": "Henderson",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w297234915",
@@ -2057,7 +2153,9 @@
       "city": "Jeffersontown",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w301974156",
@@ -2091,7 +2189,9 @@
       "city": "Forest Hills",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w303814068",
@@ -2108,7 +2208,9 @@
       "city": "Jeffersontown",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w305142283",
@@ -2125,7 +2227,9 @@
       "city": "Edgewood",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w306533011",
@@ -2142,7 +2246,9 @@
       "city": "Lakeside Park",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w306937577",
@@ -2176,7 +2282,9 @@
       "city": "Boyd County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w315665964",
@@ -2193,7 +2301,9 @@
       "city": "Henderson",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w316023426",
@@ -2210,7 +2320,9 @@
       "city": "Woodford County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w316166066",
@@ -2265,7 +2377,9 @@
       "city": "Lexington",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w316624312",
@@ -2301,7 +2415,9 @@
       "city": "Lexington",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w316748779",
@@ -2318,7 +2434,9 @@
       "city": "Berea",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w318762672",
@@ -2458,7 +2576,9 @@
       "city": "Anchorage",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w337129194",
@@ -2577,7 +2697,9 @@
       "city": "Louisville",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w337512609",
@@ -2649,7 +2771,9 @@
       "city": "Jeffersontown",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w337697205",
@@ -2683,7 +2807,9 @@
       "city": "Jeffersontown",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w337713194",
@@ -2734,7 +2860,9 @@
       "city": "Louisville",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w337832097",
@@ -2751,7 +2879,9 @@
       "city": "Louisville",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w337832100",
@@ -2768,7 +2898,9 @@
       "city": "Louisville",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w337833526",
@@ -2785,7 +2917,9 @@
       "city": "Louisville",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w337835493",
@@ -2802,7 +2936,9 @@
       "city": "Louisville",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w337842706",
@@ -2927,7 +3063,9 @@
       "city": "Louisville",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w339667216",
@@ -2961,7 +3099,9 @@
       "city": "Shively",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w339751911",
@@ -3014,7 +3154,9 @@
       "city": "Louisville",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w339755901",
@@ -3031,7 +3173,9 @@
       "city": "Louisville",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w339766377",
@@ -3171,7 +3315,9 @@
       "city": "Owingsville",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w386416092",
@@ -3188,7 +3334,9 @@
       "city": "Lexington",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w386563884",
@@ -3205,7 +3353,9 @@
       "city": "Lexington",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w386565834",
@@ -3273,7 +3423,9 @@
       "city": "Louisville",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w402066606",
@@ -3375,7 +3527,9 @@
       "city": "Lexington",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w405585003",
@@ -3392,7 +3546,9 @@
       "city": "Lexington",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w405585013",
@@ -3409,7 +3565,9 @@
       "city": "Lexington",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w405588032",
@@ -3426,7 +3584,9 @@
       "city": "Lexington",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w405595761",
@@ -3513,7 +3673,9 @@
       "city": "Louisville",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w450364943",
@@ -3583,7 +3745,9 @@
       "city": "Eminence",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w461403536",
@@ -3634,7 +3798,9 @@
       "city": "Campbell County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w462391438",
@@ -3651,7 +3817,9 @@
       "city": "Manchester",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w462437002",
@@ -3668,7 +3836,9 @@
       "city": "West Liberty",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w463298497",
@@ -3685,7 +3855,9 @@
       "city": "Indian Hills",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w463353326",
@@ -3702,7 +3874,9 @@
       "city": "Louisville",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w463889236",
@@ -3772,7 +3946,9 @@
       "city": "Grand Rivers",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w469801865",
@@ -3823,7 +3999,9 @@
       "city": "Trenton",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w504843156",
@@ -3893,7 +4071,9 @@
       "city": "Russell County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w548012945",
@@ -4029,7 +4209,9 @@
       "city": "West Buechel",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w583846053",
@@ -4131,7 +4313,9 @@
       "city": "Louisville",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w593116232",
@@ -4148,7 +4332,9 @@
       "city": "Nicholasville",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w604365724",
@@ -4269,7 +4455,9 @@
       "city": "Louisville",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w682757732",
@@ -4305,7 +4493,9 @@
       "city": "Paris",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w692910511",
@@ -4339,7 +4529,9 @@
       "city": "Harrodsburg",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w699106038",
@@ -4426,7 +4618,9 @@
       "city": "Boone County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w733072697",
@@ -4532,7 +4726,9 @@
       "city": "Whitesburg",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w744468945",
@@ -4549,7 +4745,9 @@
       "city": "Crestwood",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w746546212",
@@ -4566,7 +4764,9 @@
       "city": "Rochester",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w751076798",
@@ -4653,7 +4853,9 @@
       "city": "Whitley County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w820330260",
@@ -5012,7 +5214,9 @@
       "city": "Radcliff",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w909808534",
@@ -5029,7 +5233,9 @@
       "city": "Whitesville",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w914390484",
@@ -5046,7 +5252,9 @@
       "city": "Nortonville",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w917823465",
@@ -5165,7 +5373,9 @@
       "city": "Oldham County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w970612900",
@@ -5220,7 +5430,9 @@
       "city": "Inez",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1009587296",
@@ -5415,7 +5627,9 @@
       "city": "Tompkinsville",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1014586941",
@@ -5432,7 +5646,9 @@
       "city": "Tompkinsville",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1016417046",
@@ -5500,7 +5716,9 @@
       "city": "Campbell County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1018289758",
@@ -5642,7 +5860,9 @@
       "city": "Lexington",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1035119823",
@@ -5727,7 +5947,9 @@
       "city": "Reidland",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1062796263",
@@ -5744,7 +5966,9 @@
       "city": "Marshall County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1066988369",
@@ -5778,7 +6002,9 @@
       "city": "Columbia",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084402182",
@@ -5867,7 +6093,9 @@
       "city": "Warren County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1100890010",
@@ -5884,7 +6112,9 @@
       "city": "Middletown",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1114737817",
@@ -5939,7 +6169,9 @@
       "city": "Scott County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1131804528",
@@ -6064,7 +6296,9 @@
       "city": "Meade County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1150171158",
@@ -6098,7 +6332,9 @@
       "city": "Lexington",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1154619815",
@@ -6115,7 +6351,9 @@
       "city": "Flatwoods",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1182666235",
@@ -6308,7 +6546,9 @@
       "city": "McCreary County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1210976053",
@@ -6325,7 +6565,9 @@
       "city": "Louisville",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1211123743",
@@ -6635,7 +6877,9 @@
       "city": "Corbin",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1277918220",
@@ -6652,7 +6896,9 @@
       "city": "East Bernstadt",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1277942016",
@@ -6669,7 +6915,9 @@
       "city": "Greenville",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1279117631",
@@ -6703,7 +6951,9 @@
       "city": "Kuttawa",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1299114771",
@@ -6756,7 +7006,9 @@
       "city": "Calvert City",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1318194015",
@@ -6843,7 +7095,9 @@
       "city": "Winchester",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1328418650",
@@ -6860,7 +7114,9 @@
       "city": "Lexington",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1328418860",
@@ -6911,7 +7167,9 @@
       "city": "Hickman",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333669719",
@@ -6945,7 +7203,9 @@
       "city": "Hopkinsville",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333669879",
@@ -7013,7 +7273,9 @@
       "city": "Logan County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333670476",
@@ -7047,7 +7309,9 @@
       "city": "Radcliff",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334497252",
@@ -7081,7 +7345,9 @@
       "city": "Bowling Green",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334857656",
@@ -7098,7 +7364,9 @@
       "city": "Glenview",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334860256",
@@ -7149,7 +7417,9 @@
       "city": "Louisville",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334861687",
@@ -7219,7 +7489,9 @@
       "city": "Warren County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334984257",
@@ -7236,7 +7508,9 @@
       "city": "Bowling Green",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334984337",
@@ -7270,7 +7544,9 @@
       "city": "Edmonson County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334984494",
@@ -7304,7 +7580,9 @@
       "city": "Indian Hills",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334985097",
@@ -7338,7 +7616,9 @@
       "city": "Glenview",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334985352",
@@ -7355,7 +7635,9 @@
       "city": "Glenview",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334985379",
@@ -7372,7 +7654,9 @@
       "city": "Glenview",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334985421",
@@ -7389,7 +7673,9 @@
       "city": "Glenview",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334985439",
@@ -7508,7 +7794,9 @@
       "city": "Russell County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334996176",
@@ -7542,7 +7830,9 @@
       "city": "Fort Mitchell",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1343632592",
@@ -7595,7 +7885,9 @@
       "city": "Perry County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1354041320",
@@ -7612,7 +7904,9 @@
       "city": "Louisville",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356672478",
@@ -7648,7 +7942,9 @@
       "city": "Murray",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356673311",
@@ -7665,7 +7961,9 @@
       "city": "Calloway County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356673534",
@@ -7716,7 +8014,9 @@
       "city": "Graves County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356679120",
@@ -7733,7 +8033,9 @@
       "city": "Graves County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1365994711",
@@ -7750,7 +8052,9 @@
       "city": "Franklin",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1368411870",
@@ -7854,7 +8158,9 @@
       "city": "Pulaski County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1390750042",
@@ -7941,7 +8247,9 @@
       "city": "Marshall County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1412346451",
@@ -7958,7 +8266,9 @@
       "city": "Wayne County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1412351651",
@@ -7975,7 +8285,9 @@
       "city": "Allen County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1412353460",
@@ -8062,7 +8374,9 @@
       "city": "Hancock County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1413180980",
@@ -8079,7 +8393,9 @@
       "city": "Cloverport",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1413181333",
@@ -8096,7 +8412,9 @@
       "city": "Hardinsburg",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1413442079",
@@ -8113,7 +8431,9 @@
       "city": "Russell",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1413618840",
@@ -8147,7 +8467,9 @@
       "city": "Louisville",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1413618931",
@@ -8164,7 +8486,9 @@
       "city": "Nelson County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1413619327",
@@ -8181,7 +8505,9 @@
       "city": "Pulaski County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1413619413",
@@ -8198,7 +8524,9 @@
       "city": "Pulaski County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1413619586",
@@ -8249,7 +8577,9 @@
       "city": "Glasgow",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1419574608",
@@ -8319,7 +8649,9 @@
       "city": "Louisville",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1425508996",
@@ -8336,7 +8668,9 @@
       "city": "Louisville",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1426384079",
@@ -8595,7 +8929,9 @@
       "city": "Elizabethtown",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1456773861",
@@ -8716,7 +9052,9 @@
       "city": "McCracken County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1472819801",
@@ -8733,7 +9071,9 @@
       "city": "Fulton",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474822150",
@@ -8784,7 +9124,9 @@
       "city": "Carter County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474823756",
@@ -8818,7 +9160,9 @@
       "city": "Lewis County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474824717",
@@ -8852,7 +9196,9 @@
       "city": "Inez",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474825451",
@@ -8886,7 +9232,9 @@
       "city": "Hazard",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474825998",
@@ -8988,7 +9336,9 @@
       "city": "Marshall County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1475119882",
@@ -9005,7 +9355,9 @@
       "city": "Eddyville",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1475120234",
@@ -9177,7 +9529,9 @@
       "city": "Russell County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1476318901",
@@ -9264,7 +9618,9 @@
       "city": "Washington County",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1476324312",
@@ -9281,7 +9637,9 @@
       "city": "Bardstown",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1476326690",
@@ -9351,7 +9709,9 @@
       "city": "Villa Hills",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1478608514",
@@ -9421,7 +9781,9 @@
       "city": "Lexington",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1478627093",
@@ -9438,7 +9800,9 @@
       "city": "Lexington",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1478627585",
@@ -9455,7 +9819,9 @@
       "city": "Lexington",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1478627950",
@@ -9559,7 +9925,9 @@
       "city": "Louisville",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1478709511",
@@ -9663,7 +10031,9 @@
       "city": "Hillview",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1478878434",
@@ -9735,7 +10105,9 @@
       "city": "Sycamore",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1479251328",
@@ -9930,7 +10302,9 @@
       "city": "Mount Olivet",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1481001959",
@@ -9983,7 +10357,9 @@
       "city": "St. Matthews",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1485052767",
@@ -10000,7 +10376,9 @@
       "city": "Glenview",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1487035747",
@@ -10401,7 +10779,9 @@
       "city": "Jeffersontown",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1536378463",
@@ -10435,7 +10815,9 @@
       "city": "Wilder",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1553152613",
@@ -10469,7 +10851,9 @@
       "city": "Russell",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-r4034688",
@@ -10520,7 +10904,9 @@
       "city": "Barlow",
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     }
   ]
 }

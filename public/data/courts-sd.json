@@ -140,7 +140,9 @@
       "city": "Custer",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w238704191",
@@ -280,7 +282,9 @@
       "city": "Sisseton",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w253413424",
@@ -314,7 +318,9 @@
       "city": "Pennington County",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w279261420",
@@ -331,7 +337,9 @@
       "city": "Sturgis",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w292120514",
@@ -365,7 +373,9 @@
       "city": "Deadwood",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w296971311",
@@ -473,7 +483,9 @@
       "city": "Sioux Falls",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w305185089",
@@ -560,7 +572,9 @@
       "city": "Tyndall",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w403562562",
@@ -594,7 +608,9 @@
       "city": "Sioux Falls",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w403929037",
@@ -611,7 +627,9 @@
       "city": "Sioux Falls",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w415157429",
@@ -628,7 +646,9 @@
       "city": "Keystone",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w427914210",
@@ -645,7 +665,9 @@
       "city": "Custer",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w428675964",
@@ -662,7 +684,9 @@
       "city": "Chamberlain",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w431024373",
@@ -713,7 +737,9 @@
       "city": "Sioux Falls",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w433211170",
@@ -747,7 +773,9 @@
       "city": "Meade County",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w481306097",
@@ -868,7 +896,9 @@
       "city": "Madison",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w578262186",
@@ -955,7 +985,9 @@
       "city": "Armour",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w596097718",
@@ -989,7 +1021,9 @@
       "city": "Lemmon",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w743428072",
@@ -1025,7 +1059,9 @@
       "city": "Rapid City",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w758802069",
@@ -1042,7 +1078,9 @@
       "city": "Sioux Falls",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w758931445",
@@ -1059,7 +1097,9 @@
       "city": "Rapid City",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w819288716",
@@ -1093,7 +1133,9 @@
       "city": "Cresbard",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w883139690",
@@ -1182,7 +1224,9 @@
       "city": "Gettysburg",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084401011",
@@ -1199,7 +1243,9 @@
       "city": "Onida",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1124294743",
@@ -1216,7 +1262,9 @@
       "city": "Selby",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1195043446",
@@ -1284,7 +1332,9 @@
       "city": "Canistota",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1223119511",
@@ -1318,7 +1368,9 @@
       "city": "Blunt",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1263570873",
@@ -1335,7 +1387,9 @@
       "city": "Britton",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1268541386",
@@ -1386,7 +1440,9 @@
       "city": "Gregory",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1292536976",
@@ -1456,7 +1512,9 @@
       "city": "Rapid City",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1299162524",
@@ -1490,7 +1548,9 @@
       "city": "Pennington County",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1303215036",
@@ -1630,7 +1690,9 @@
       "city": "Sioux Falls",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1350765944",
@@ -1647,7 +1709,9 @@
       "city": "Sioux Falls",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356680454",
@@ -1664,7 +1728,9 @@
       "city": "Lennox",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1358694275",
@@ -1681,7 +1747,9 @@
       "city": "Bryant",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1419229399",
@@ -1698,7 +1766,9 @@
       "city": "Hand County",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1422758748",
@@ -1749,7 +1819,9 @@
       "city": "Presho",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1434926994",
@@ -1868,7 +1940,9 @@
       "city": "Tripp",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1468889368",
@@ -1919,7 +1993,9 @@
       "city": "Murdo",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1468900522",
@@ -1936,7 +2012,9 @@
       "city": "Pierre",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1468930929",
@@ -2006,7 +2084,9 @@
       "city": "Webster",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1468953767",
@@ -2023,7 +2103,9 @@
       "city": "Sioux Falls",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1468954081",
@@ -2074,7 +2156,9 @@
       "city": "Eureka",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1486735206",
@@ -2091,7 +2175,9 @@
       "city": "Herreid",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492398331",
@@ -2108,7 +2194,9 @@
       "city": "Faith",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1497540871",
@@ -2125,7 +2213,9 @@
       "city": "Centerville",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1497549743",
@@ -2142,7 +2232,9 @@
       "city": "Beresford",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1510843172",
@@ -2195,7 +2287,9 @@
       "city": "Spearfish",
       "state": "SD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-r19684066",

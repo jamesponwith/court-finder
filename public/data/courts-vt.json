@@ -56,7 +56,9 @@
       "city": "Arlington",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-n13954892068",
@@ -126,7 +128,9 @@
       "city": "Chittenden County",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w24953792",
@@ -179,7 +183,9 @@
       "city": "Fair Haven",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w152163194",
@@ -196,7 +202,9 @@
       "city": "Taft Corners",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w165557319",
@@ -213,7 +221,9 @@
       "city": "Shrewsbury",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w168813408",
@@ -249,7 +259,9 @@
       "city": "Brattleboro",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w173071690",
@@ -319,7 +331,9 @@
       "city": "Waterbury",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w207890735",
@@ -355,7 +369,9 @@
       "city": "Essex Junction",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w230913092",
@@ -372,7 +388,9 @@
       "city": "Westmore",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w230913677",
@@ -389,7 +407,9 @@
       "city": "Westmore",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w231062842",
@@ -406,7 +426,9 @@
       "city": "Westmore",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w231106201",
@@ -423,7 +445,9 @@
       "city": "Westmore",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w232904164",
@@ -440,7 +464,9 @@
       "city": "Stowe",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w232923622",
@@ -457,7 +483,9 @@
       "city": "Stowe",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w232923623",
@@ -474,7 +502,9 @@
       "city": "Stowe",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w232924439",
@@ -508,7 +538,9 @@
       "city": "Stowe",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w232931795",
@@ -593,7 +625,9 @@
       "city": "Windham County",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w234029220",
@@ -678,7 +712,9 @@
       "city": "Ludlow",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w257962104",
@@ -695,7 +731,9 @@
       "city": "Ludlow",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w264036538",
@@ -784,7 +822,9 @@
       "city": "Londonderry",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w294778419",
@@ -801,7 +841,9 @@
       "city": "Isle La Motte",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w298174860",
@@ -818,7 +860,9 @@
       "city": "Weston",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w300627407",
@@ -869,7 +913,9 @@
       "city": "Waitsfield",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w324899268",
@@ -886,7 +932,9 @@
       "city": "Waitsfield",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w325329167",
@@ -903,7 +951,9 @@
       "city": "Waitsfield",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w325329372",
@@ -920,7 +970,9 @@
       "city": "Waitsfield",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w336745343",
@@ -971,7 +1023,9 @@
       "city": "Brattleboro",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w347981121",
@@ -988,7 +1042,9 @@
       "city": "Newfane",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w354206598",
@@ -1005,7 +1061,9 @@
       "city": "Starksboro",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w367066031",
@@ -1039,7 +1097,9 @@
       "city": "Sandgate",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w422854373",
@@ -1107,7 +1167,9 @@
       "city": "Lincoln",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w434838076",
@@ -1158,7 +1220,9 @@
       "city": "Stratton",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w436281464",
@@ -1175,7 +1239,9 @@
       "city": "Stratton",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w436459525",
@@ -1209,7 +1275,9 @@
       "city": "Manchester",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w442932770",
@@ -1226,7 +1294,9 @@
       "city": "Windham County",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w442969799",
@@ -1336,7 +1406,9 @@
       "city": "Shelburne",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w458067590",
@@ -1353,7 +1425,9 @@
       "city": "Stowe",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w458230903",
@@ -1423,7 +1497,9 @@
       "city": "North Troy",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w482321621",
@@ -1440,7 +1516,9 @@
       "city": "Londonderry",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w483649582",
@@ -1457,7 +1535,9 @@
       "city": "South Burlington",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w483649586",
@@ -1474,7 +1554,9 @@
       "city": "South Burlington",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w490105169",
@@ -1508,7 +1590,9 @@
       "city": "Montgomery",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w507406948",
@@ -1559,7 +1643,9 @@
       "city": "South Burlington",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w548060743",
@@ -1648,7 +1734,9 @@
       "city": "Stowe",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w559178651",
@@ -1733,7 +1821,9 @@
       "city": "Washington County",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w559877448",
@@ -1784,7 +1874,9 @@
       "city": "Shelburne",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w561908675",
@@ -1801,7 +1893,9 @@
       "city": "South Burlington",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w569933551",
@@ -1905,7 +1999,9 @@
       "city": "Stowe",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w601775210",
@@ -1922,7 +2018,9 @@
       "city": "Rutland City",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w603089431",
@@ -1939,7 +2037,9 @@
       "city": "Norwich",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w603089432",
@@ -1956,7 +2056,9 @@
       "city": "Norwich",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w603089437",
@@ -1973,7 +2075,9 @@
       "city": "Norwich",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w604990321",
@@ -1990,7 +2094,9 @@
       "city": "Norwich",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w608729925",
@@ -2007,7 +2113,9 @@
       "city": "Bristol",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w614084529",
@@ -2024,7 +2132,9 @@
       "city": "Brighton",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w614087894",
@@ -2060,7 +2170,9 @@
       "city": "Hartland",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w620614493",
@@ -2077,7 +2189,9 @@
       "city": "Warren",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w620966649",
@@ -2094,7 +2208,9 @@
       "city": "Shelburne",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w629955526",
@@ -2181,7 +2297,9 @@
       "city": "Westfield",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w702798377",
@@ -2274,7 +2392,9 @@
       "city": "Malletts Bay",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w844341550",
@@ -2308,7 +2428,9 @@
       "city": "South Burlington",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w884989693",
@@ -2342,7 +2464,9 @@
       "city": "South Burlington",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w901757432",
@@ -2376,7 +2500,9 @@
       "city": "Underhill",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w907392517",
@@ -2393,7 +2519,9 @@
       "city": "Bennington County",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w909298321",
@@ -2410,7 +2538,9 @@
       "city": "Chester",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w922953585",
@@ -2444,7 +2574,9 @@
       "city": "West Fairlee",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w934682484",
@@ -2478,7 +2610,9 @@
       "city": "West Fairlee",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w940206036",
@@ -2495,7 +2629,9 @@
       "city": "West Fairlee",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w940206041",
@@ -2512,7 +2648,9 @@
       "city": "West Fairlee",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w940993958",
@@ -2529,7 +2667,9 @@
       "city": "Grafton",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w946668209",
@@ -2546,7 +2686,9 @@
       "city": "Shelburne",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w947934624",
@@ -2637,7 +2779,9 @@
       "city": "Fairlee",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w966567440",
@@ -2671,7 +2815,9 @@
       "city": "Orange County",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w972621315",
@@ -2688,7 +2834,9 @@
       "city": "Averill",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w972663442",
@@ -2722,7 +2870,9 @@
       "city": "Rutland City",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w983662192",
@@ -2739,7 +2889,9 @@
       "city": "Wilmington",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-r20367100",
@@ -2756,7 +2908,9 @@
       "city": "Essex Junction",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w987129042",
@@ -2773,7 +2927,9 @@
       "city": "Orange County",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w997291136",
@@ -2809,7 +2965,9 @@
       "city": "Washington County",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w999209382",
@@ -2826,7 +2984,9 @@
       "city": "Washington County",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w999209386",
@@ -2843,7 +3003,9 @@
       "city": "Washington County",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1000594368",
@@ -2860,7 +3022,9 @@
       "city": "Fairlee",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1000812415",
@@ -2877,7 +3041,9 @@
       "city": "Winhall",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1000812416",
@@ -2894,7 +3060,9 @@
       "city": "Winhall",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1000812425",
@@ -2911,7 +3079,9 @@
       "city": "Bennington County",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1000835614",
@@ -2928,7 +3098,9 @@
       "city": "Wells",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1000835625",
@@ -2945,7 +3117,9 @@
       "city": "Poultney",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1001134650",
@@ -2962,7 +3136,9 @@
       "city": "Chester",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1001292593",
@@ -2979,7 +3155,9 @@
       "city": "Franklin County",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1005650898",
@@ -2996,7 +3174,9 @@
       "city": "South Burlington",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1006766804",
@@ -3013,7 +3193,9 @@
       "city": "Barnard",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1009033453",
@@ -3030,7 +3212,9 @@
       "city": "Wilmington",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1011576369",
@@ -3064,7 +3248,9 @@
       "city": "South Hero",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1012882175",
@@ -3081,7 +3267,9 @@
       "city": "Montpelier",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1012882193",
@@ -3098,7 +3286,9 @@
       "city": "Montpelier",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1017194575",
@@ -3115,7 +3305,9 @@
       "city": "Windsor",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1018538905",
@@ -3132,7 +3324,9 @@
       "city": "Washington County",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1018800246",
@@ -3149,7 +3343,9 @@
       "city": "Randolph",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1018838861",
@@ -3166,7 +3362,9 @@
       "city": "Windham County",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1019326112",
@@ -3183,7 +3381,9 @@
       "city": "Cornwall",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1019725933",
@@ -3200,7 +3400,9 @@
       "city": "Windham County",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1019725935",
@@ -3217,7 +3419,9 @@
       "city": "Windham County",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1020013270",
@@ -3268,7 +3472,9 @@
       "city": "South Hero",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1020444444",
@@ -3285,7 +3491,9 @@
       "city": "Killington",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1020444446",
@@ -3302,7 +3510,9 @@
       "city": "Killington",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1020925935",
@@ -3319,7 +3529,9 @@
       "city": "Windsor County",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1021021614",
@@ -3336,7 +3548,9 @@
       "city": "Warren",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1021021653",
@@ -3353,7 +3567,9 @@
       "city": "Waitsfield",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1027192736",
@@ -3370,7 +3586,9 @@
       "city": "Washington County",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1027192740",
@@ -3387,7 +3605,9 @@
       "city": "Warren",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1027428411",
@@ -3423,7 +3643,9 @@
       "city": "Bennington County",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1029012073",
@@ -3440,7 +3662,9 @@
       "city": "Ludlow",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1029012075",
@@ -3457,7 +3681,9 @@
       "city": "Ludlow",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1029051828",
@@ -3474,7 +3700,9 @@
       "city": "Windham County",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1029051831",
@@ -3525,7 +3753,9 @@
       "city": "Orange County",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1030578868",
@@ -3542,7 +3772,9 @@
       "city": "Strafford",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1034528077",
@@ -3559,7 +3791,9 @@
       "city": "Windsor County",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1034528090",
@@ -3576,7 +3810,9 @@
       "city": "Hartland",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1034528101",
@@ -3610,7 +3846,9 @@
       "city": "Woodstock",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1034866016",
@@ -3627,7 +3865,9 @@
       "city": "Stowe",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1036309054",
@@ -3644,7 +3884,9 @@
       "city": "Whitingham",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1038808340",
@@ -3661,7 +3903,9 @@
       "city": "Brattleboro",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1039100555",
@@ -3678,7 +3922,9 @@
       "city": "Westminster",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1039100558",
@@ -3695,7 +3941,9 @@
       "city": "Putney",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1039182219",
@@ -3731,7 +3979,9 @@
       "city": "Saint Johnsbury",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1039358631",
@@ -3748,7 +3998,9 @@
       "city": "Bellows Falls",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1039444050",
@@ -3782,7 +4034,9 @@
       "city": "Isle La Motte",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1040319354",
@@ -3799,7 +4053,9 @@
       "city": "Isle La Motte",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1040319375",
@@ -3816,7 +4072,9 @@
       "city": "Alburgh",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1040414169",
@@ -3833,7 +4091,9 @@
       "city": "Cavendish",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1040648696",
@@ -3850,7 +4110,9 @@
       "city": "Middletown Springs",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1040991535",
@@ -3867,7 +4129,9 @@
       "city": "Wallingford",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1042633159",
@@ -3901,7 +4165,9 @@
       "city": "Plainfield",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1043591201",
@@ -3918,7 +4184,9 @@
       "city": "Colchester",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1044778541",
@@ -3935,7 +4203,9 @@
       "city": "Montgomery",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1044778545",
@@ -3969,7 +4239,9 @@
       "city": "Bennington",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1046258396",
@@ -3986,7 +4258,9 @@
       "city": "Bennington County",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1046868128",
@@ -4003,7 +4277,9 @@
       "city": "Arlington",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1046944567",
@@ -4020,7 +4296,9 @@
       "city": "North Hero",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1046944623",
@@ -4037,7 +4315,9 @@
       "city": "South Hero",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1047005043",
@@ -4054,7 +4334,9 @@
       "city": "Dorset",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1049377957",
@@ -4088,7 +4370,9 @@
       "city": "Chittenden County",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1049377978",
@@ -4105,7 +4389,9 @@
       "city": "Chittenden County",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1052704231",
@@ -4158,7 +4444,9 @@
       "city": "Norwich",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1053043591",
@@ -4175,7 +4463,9 @@
       "city": "Norwich",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1054316142",
@@ -4192,7 +4482,9 @@
       "city": "Taft Corners",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1055247367",
@@ -4209,7 +4501,9 @@
       "city": "South Burlington",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1060176269",
@@ -4226,7 +4520,9 @@
       "city": "South Burlington",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1060653239",
@@ -4243,7 +4539,9 @@
       "city": "Rutland City",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1060653292",
@@ -4260,7 +4558,9 @@
       "city": "Rutland County",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1060653297",
@@ -4294,7 +4594,9 @@
       "city": "Fairlee",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1060909368",
@@ -4311,7 +4613,9 @@
       "city": "Fairlee",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1064067968",
@@ -4328,7 +4632,9 @@
       "city": "Highgate",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1064068408",
@@ -4362,7 +4668,9 @@
       "city": "Danville",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1064989396",
@@ -4379,7 +4687,9 @@
       "city": "Shelburne",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1064989414",
@@ -4396,7 +4706,9 @@
       "city": "Shelburne",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1072476315",
@@ -4413,7 +4725,9 @@
       "city": "Shelburne",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1073200251",
@@ -4430,7 +4744,9 @@
       "city": "Shelburne",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1075599860",
@@ -4447,7 +4763,9 @@
       "city": "Shelburne",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1075938080",
@@ -4464,7 +4782,9 @@
       "city": "Shelburne",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1076200177",
@@ -4481,7 +4801,9 @@
       "city": "Shelburne",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1076200178",
@@ -4498,7 +4820,9 @@
       "city": "Shelburne",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1076462256",
@@ -4515,7 +4839,9 @@
       "city": "Shelburne",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1078528462",
@@ -4532,7 +4858,9 @@
       "city": "Manchester",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1078528468",
@@ -4549,7 +4877,9 @@
       "city": "Manchester",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1088238978",
@@ -4583,7 +4913,9 @@
       "city": "Windham County",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1088238981",
@@ -4600,7 +4932,9 @@
       "city": "Windham County",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1090255676",
@@ -4617,7 +4951,9 @@
       "city": "Wilmington",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1090528470",
@@ -4634,7 +4970,9 @@
       "city": "Hartford",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1092160691",
@@ -4651,7 +4989,9 @@
       "city": "Saint Johnsbury",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1097399557",
@@ -4668,7 +5008,9 @@
       "city": "Weston",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1102475641",
@@ -4685,7 +5027,9 @@
       "city": "Wilmington",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1112145832",
@@ -4702,7 +5046,9 @@
       "city": "Windsor County",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1116142888",
@@ -4755,7 +5101,9 @@
       "city": "Newbury",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1154085084",
@@ -4791,7 +5139,9 @@
       "city": "Greensboro",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1172710773",
@@ -4808,7 +5158,9 @@
       "city": "Sheldon",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1173692348",
@@ -4914,7 +5266,9 @@
       "city": "Milton",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1214480778",
@@ -4948,7 +5302,9 @@
       "city": "Stowe",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1224452604",
@@ -5190,7 +5546,9 @@
       "city": "South Hero",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1269001617",
@@ -5207,7 +5565,9 @@
       "city": "South Hero",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1278570558",
@@ -5224,7 +5584,9 @@
       "city": "Brattleboro",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1278810286",
@@ -5241,7 +5603,9 @@
       "city": "South Burlington",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1287714346",
@@ -5258,7 +5622,9 @@
       "city": "Caledonia County",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1295061033",
@@ -5309,7 +5675,9 @@
       "city": "Stowe",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1302780374",
@@ -5326,7 +5694,9 @@
       "city": "Stowe",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1310962459",
@@ -5377,7 +5747,9 @@
       "city": "Manchester",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1331519538",
@@ -5430,7 +5802,9 @@
       "city": "Shelburne",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356746088",
@@ -5447,7 +5821,9 @@
       "city": "Wilmington",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1360977324",
@@ -5464,7 +5840,9 @@
       "city": "North Hero",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1392366649",
@@ -5481,7 +5859,9 @@
       "city": "Dummerston",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1396496478",
@@ -5532,7 +5912,9 @@
       "city": "Ludlow",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1432485667",
@@ -5549,7 +5931,9 @@
       "city": "South Burlington",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1433372474",
@@ -5619,7 +6003,9 @@
       "city": "Fairlee",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446294641",
@@ -5636,7 +6022,9 @@
       "city": "Fairlee",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1450077419",
@@ -5653,7 +6041,9 @@
       "city": "Burlington",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1450078030",
@@ -5687,7 +6077,9 @@
       "city": "Chittenden County",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1453974041",
@@ -5723,7 +6115,9 @@
       "city": "Hubbardton",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1462200159",
@@ -5740,7 +6134,9 @@
       "city": "Taft Corners",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469814186",
@@ -5808,7 +6204,9 @@
       "city": "Essex Junction",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1485004043",
@@ -5825,7 +6223,9 @@
       "city": "Essex Junction",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1486074926",
@@ -5861,7 +6261,9 @@
       "city": "Highgate",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1486075476",
@@ -5878,7 +6280,9 @@
       "city": "Highgate",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1486075592",
@@ -5895,7 +6299,9 @@
       "city": "North Hero",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1486076846",
@@ -5982,7 +6388,9 @@
       "city": "Essex Junction",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1486092297",
@@ -5999,7 +6407,9 @@
       "city": "Essex",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1486094570",
@@ -6016,7 +6426,9 @@
       "city": "Taft Corners",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1486095062",
@@ -6071,7 +6483,9 @@
       "city": "Stowe",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1486095629",
@@ -6088,7 +6502,9 @@
       "city": "Stowe",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1486095821",
@@ -6243,7 +6659,9 @@
       "city": "Essex",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492349733",
@@ -6330,7 +6748,9 @@
       "city": "Essex",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1499776848",
@@ -6347,7 +6767,9 @@
       "city": "Manchester",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1499777962",
@@ -6432,7 +6854,9 @@
       "city": "Plainfield",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1504275678",
@@ -6449,7 +6873,9 @@
       "city": "Vernon",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1504735799",
@@ -6466,7 +6892,9 @@
       "city": "Montpelier",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1505708204",
@@ -6538,7 +6966,9 @@
       "city": "Moretown",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1505709134",
@@ -6555,7 +6985,9 @@
       "city": "Washington County",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1505709550",
@@ -6661,7 +7093,9 @@
       "city": "Proctor",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1505712521",
@@ -6695,7 +7129,9 @@
       "city": "Killington",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1505712975",
@@ -6782,7 +7218,9 @@
       "city": "Chester",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1505727594",
@@ -6799,7 +7237,9 @@
       "city": "Winhall",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1506371906",
@@ -6867,7 +7307,9 @@
       "city": "Essex Junction",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1517813867",
@@ -6884,7 +7326,9 @@
       "city": "Rochester",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526899407",
@@ -6935,7 +7379,9 @@
       "city": "Charlotte",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1534464915",
@@ -7009,7 +7455,9 @@
       "city": "Danville",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1549428487",
@@ -7045,7 +7493,9 @@
       "city": "Plainfield",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552421842",
@@ -7062,7 +7512,9 @@
       "city": "Cabot",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552422405",
@@ -7098,7 +7550,9 @@
       "city": "Essex County",
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552534367",

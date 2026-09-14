@@ -96,7 +96,11 @@ function parseCourtsFile(region: Region, raw: unknown): CourtsFile {
   if (!Array.isArray(file.facilities)) {
     throw new DataLoadError(region, 'Court data has no facilities array');
   }
-  const facilities = file.facilities.filter(isFacility).map(normalizeFacility);
+  const facilities = file.facilities
+    .filter(isFacility)
+    .map(normalizeFacility)
+    // Likely backyard courts (scripts/residential.mjs): never list private property.
+    .filter((f) => f.tags.context !== 'residential');
   return {
     region,
     attribution:

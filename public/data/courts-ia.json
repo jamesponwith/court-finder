@@ -348,7 +348,9 @@
       "city": "Boyden",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w74265053",
@@ -592,7 +594,9 @@
       "city": "Grimes",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w136796632",
@@ -785,7 +789,9 @@
       "city": "Ireton",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w165784376",
@@ -1175,7 +1181,9 @@
       "city": "Council Bluffs",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w195373991",
@@ -1368,7 +1376,9 @@
       "city": "Lake Park",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w223180883",
@@ -1629,7 +1639,9 @@
       "city": "Guttenberg",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w237158591",
@@ -1748,7 +1760,9 @@
       "city": "Tripoli",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w243012853",
@@ -1765,7 +1779,9 @@
       "city": "Garner",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w243360484",
@@ -1998,7 +2014,9 @@
       "city": "Newhall",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260395866",
@@ -2032,7 +2050,9 @@
       "city": "Hubbard",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w262424520",
@@ -2153,7 +2173,9 @@
       "city": "Dunkerton",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w271000476",
@@ -2272,7 +2294,9 @@
       "city": "Dysart",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w293383901",
@@ -2486,7 +2510,9 @@
       "city": "Corydon",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w297296942",
@@ -2796,7 +2822,9 @@
       "city": "Britt",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w307593517",
@@ -2830,7 +2858,9 @@
       "city": "Keota",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w310894336",
@@ -3337,7 +3367,9 @@
       "city": "Washington",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w381016805",
@@ -3354,7 +3386,9 @@
       "city": "Kingsley",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w384039989",
@@ -3371,7 +3405,9 @@
       "city": "Toledo",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w385942713",
@@ -3727,7 +3763,9 @@
       "city": "Anamosa",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w446197839",
@@ -3761,7 +3799,9 @@
       "city": "Cedar Rapids",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w447103827",
@@ -3829,7 +3869,9 @@
       "city": "Cedar Rapids",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w463741078",
@@ -3899,7 +3941,9 @@
       "city": "Wahpeton",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w469317833",
@@ -4202,7 +4246,9 @@
       "city": "Marengo",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w477401591",
@@ -4501,7 +4547,9 @@
       "city": "Woodbine",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w478975293",
@@ -4749,7 +4797,9 @@
       "city": "Winterset",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w480884591",
@@ -4804,7 +4854,9 @@
       "city": "Woodward",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w481142718",
@@ -4872,7 +4924,9 @@
       "city": "Wall Lake",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w481725653",
@@ -4889,7 +4943,9 @@
       "city": "Odebolt",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w481726232",
@@ -4906,7 +4962,9 @@
       "city": "Schleswig",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w486328913",
@@ -5407,7 +5465,9 @@
       "city": "Roland",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w655072389",
@@ -6019,7 +6079,9 @@
       "city": "Cascade",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w769446869",
@@ -6367,7 +6429,9 @@
       "city": "Davenport",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w803883443",
@@ -6488,7 +6552,9 @@
       "city": "Iowa City",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w817945236",
@@ -6556,7 +6622,9 @@
       "city": "Davenport",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w832914041",
@@ -6802,7 +6870,9 @@
       "city": "Waterloo",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w850163081",
@@ -6870,7 +6940,9 @@
       "city": "Johnson County",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w851811887",
@@ -6904,7 +6976,9 @@
       "city": "Pomeroy",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w851818067",
@@ -6921,7 +6995,9 @@
       "city": "Rockwell City",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w851818074",
@@ -6938,7 +7014,9 @@
       "city": "Lohrville",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w851900490",
@@ -7010,7 +7088,9 @@
       "city": "Clarksville",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w851902615",
@@ -7027,7 +7107,9 @@
       "city": "Murray",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w851908144",
@@ -7061,7 +7143,9 @@
       "city": "Wahpeton",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w851910234",
@@ -7148,7 +7232,9 @@
       "city": "Manilla",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w852476315",
@@ -7165,7 +7251,9 @@
       "city": "Charter Oak",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w852482645",
@@ -7447,7 +7535,9 @@
       "city": "Crescent",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w854240648",
@@ -7519,7 +7609,9 @@
       "city": "Earling",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w854277236",
@@ -7718,7 +7810,9 @@
       "city": "Laurel",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w855458486",
@@ -7735,7 +7829,9 @@
       "city": "Albion",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w855463506",
@@ -7894,7 +7990,9 @@
       "city": "Quasqueton",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w856466201",
@@ -7928,7 +8026,9 @@
       "city": "Ridgeway",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w856466216",
@@ -7981,7 +8081,9 @@
       "city": "Sully",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w856513602",
@@ -7998,7 +8100,9 @@
       "city": "Prairie City",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w856513608",
@@ -8015,7 +8119,9 @@
       "city": "Colfax",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w856799828",
@@ -8051,7 +8157,9 @@
       "city": "Mount Pleasant",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w856854028",
@@ -8231,7 +8339,9 @@
       "city": "Fort Madison",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w857539352",
@@ -8248,7 +8358,9 @@
       "city": "Keokuk",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w857630608",
@@ -8356,7 +8468,9 @@
       "city": "Mitchellville",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w857643385",
@@ -8462,7 +8576,9 @@
       "city": "Richland",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w858211428",
@@ -8547,7 +8663,9 @@
       "city": "Breda",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w858541568",
@@ -8564,7 +8682,9 @@
       "city": "Manning",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w858541574",
@@ -8581,7 +8701,9 @@
       "city": "Templeton",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w858541582",
@@ -8598,7 +8720,9 @@
       "city": "Dedham",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w858603803",
@@ -8632,7 +8756,9 @@
       "city": "Oxford Junction",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w858649318",
@@ -8649,7 +8775,9 @@
       "city": "Whittemore",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w859307897",
@@ -8666,7 +8794,9 @@
       "city": "University Park",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w859307904",
@@ -8719,7 +8849,9 @@
       "city": "Fayette County",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w859329386",
@@ -8736,7 +8868,9 @@
       "city": "Elgin",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w859894107",
@@ -8753,7 +8887,9 @@
       "city": "Johnson County",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w860087091",
@@ -8855,7 +8991,9 @@
       "city": "Melcher-Dallas",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w860699407",
@@ -9035,7 +9173,9 @@
       "city": "Davenport",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w874235145",
@@ -9122,7 +9262,9 @@
       "city": "Ames",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w886367510",
@@ -9156,7 +9298,9 @@
       "city": "Polk County",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w888999820",
@@ -9190,7 +9334,9 @@
       "city": "Saylorville",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w890845070",
@@ -9277,7 +9423,9 @@
       "city": "Johnson County",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w900157003",
@@ -9723,7 +9871,9 @@
       "city": "Davenport",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w941464227",
@@ -9740,7 +9890,9 @@
       "city": "Camanche",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w942238737",
@@ -9757,7 +9909,9 @@
       "city": "Okoboji",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w942238739",
@@ -9774,7 +9928,9 @@
       "city": "Okoboji",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w946068363",
@@ -10014,7 +10170,9 @@
       "city": "Colo",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w965006224",
@@ -10050,7 +10208,9 @@
       "city": "Clear Lake",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w969608155",
@@ -10188,7 +10348,9 @@
       "city": "Dubuque County",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w995424083",
@@ -10239,7 +10401,9 @@
       "city": "Cedar Rapids",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w995886757",
@@ -10256,7 +10420,9 @@
       "city": "Linn County",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w995888732",
@@ -10290,7 +10456,9 @@
       "city": "Cedar Rapids",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w997737952",
@@ -10324,7 +10492,9 @@
       "city": "Cedar Rapids",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w998591324",
@@ -10341,7 +10511,9 @@
       "city": "Davenport",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1006875519",
@@ -10409,7 +10581,9 @@
       "city": "Davenport",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1035834711",
@@ -10477,7 +10651,9 @@
       "city": "Sioux Rapids",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1036865286",
@@ -10494,7 +10670,9 @@
       "city": "Okoboji",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1036865288",
@@ -10511,7 +10689,9 @@
       "city": "Okoboji",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1036865290",
@@ -10528,7 +10708,9 @@
       "city": "Dickinson County",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1037811254",
@@ -10613,7 +10795,9 @@
       "city": "Ventura",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1068028435",
@@ -10736,7 +10920,9 @@
       "city": "Aurora",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1189778012",
@@ -10753,7 +10939,9 @@
       "city": "Winthrop",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1199360514",
@@ -10770,7 +10958,9 @@
       "city": "Houghton",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1205667874",
@@ -10804,7 +10994,9 @@
       "city": "Waterloo",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1213889969",
@@ -10963,7 +11155,9 @@
       "city": "Linn County",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1300624473",
@@ -10980,7 +11174,9 @@
       "city": "Cedar Rapids",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1301017899",
@@ -10997,7 +11193,9 @@
       "city": "Farnhamville",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1302542038",
@@ -11014,7 +11212,9 @@
       "city": "Dubuque",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1313691856",
@@ -11031,7 +11231,9 @@
       "city": "Red Oak",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1321580517",
@@ -11099,7 +11301,9 @@
       "city": "Marion",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1348563941",
@@ -11116,7 +11320,9 @@
       "city": "Lehigh",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1352634777",
@@ -11171,7 +11377,9 @@
       "city": "State Center",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1354038792",
@@ -11275,7 +11483,9 @@
       "city": "Lime Springs",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1395890145",
@@ -11309,7 +11519,9 @@
       "city": "Cedar Rapids",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1420466618",
@@ -11326,7 +11538,9 @@
       "city": "Ute",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1422757328",
@@ -11379,7 +11593,9 @@
       "city": "Otho",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1465117790",
@@ -11396,7 +11612,9 @@
       "city": "Sioux City",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1467475877",
@@ -11432,7 +11650,9 @@
       "city": "Logan",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1468967672",
@@ -11449,7 +11669,9 @@
       "city": "Larchwood",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469319311",
@@ -11585,7 +11807,9 @@
       "city": "Grundy Center",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470101961",
@@ -11727,7 +11951,9 @@
       "city": "Mason City",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512534563",
@@ -11744,7 +11970,9 @@
       "city": "Harlan",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1513108836",
@@ -11795,7 +12023,9 @@
       "city": "Mapleton",
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     }
   ]
 }

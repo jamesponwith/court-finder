@@ -34,7 +34,9 @@
       "city": "Poʻipū",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w112648140",
@@ -172,7 +174,9 @@
       "city": "Kaanapali",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w147997646",
@@ -206,7 +210,9 @@
       "city": "Poʻipū",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w155843519",
@@ -223,7 +229,9 @@
       "city": "Kaanapali",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w155850844",
@@ -291,7 +299,9 @@
       "city": "Maui County",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w156572784",
@@ -378,7 +388,9 @@
       "city": "Kaanapali",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w173211278",
@@ -395,7 +407,9 @@
       "city": "Kaanapali",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w173538772",
@@ -412,7 +426,9 @@
       "city": "Kapalua",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w173540436",
@@ -446,7 +462,9 @@
       "city": "Kaanapali",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w192369928",
@@ -482,7 +500,9 @@
       "city": "Honolulu County",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w192466740",
@@ -688,7 +708,9 @@
       "city": "Hanamāʻulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w230065129",
@@ -739,7 +761,9 @@
       "city": "Honokaʻa",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w231776923",
@@ -858,7 +882,9 @@
       "city": "Hawaiʻi County",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w239025451",
@@ -1047,7 +1073,9 @@
       "city": "Mililani Town",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260059462",
@@ -1064,7 +1092,9 @@
       "city": "Hanapepe",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260535382",
@@ -1081,7 +1111,9 @@
       "city": "Hawaiʻi County",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w262314584",
@@ -1204,7 +1236,9 @@
       "city": "Aiea",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w289676684",
@@ -1342,7 +1376,9 @@
       "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w303721385",
@@ -1359,7 +1395,9 @@
       "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w303724343",
@@ -1410,7 +1448,9 @@
       "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w304744682",
@@ -1427,7 +1467,9 @@
       "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w304745980",
@@ -1620,7 +1662,9 @@
       "city": "Maui County",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w316869373",
@@ -1656,7 +1700,9 @@
       "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w320320508",
@@ -1673,7 +1719,9 @@
       "city": "Maui County",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w325061862",
@@ -1745,7 +1793,9 @@
       "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w327010008",
@@ -1779,7 +1829,9 @@
       "city": "Wailua",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w327011250",
@@ -1796,7 +1848,9 @@
       "city": "Kapaa",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w327492412",
@@ -1830,7 +1884,9 @@
       "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w327493890",
@@ -1847,7 +1903,9 @@
       "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w327493892",
@@ -1864,7 +1922,9 @@
       "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w333207639",
@@ -1915,7 +1975,9 @@
       "city": "Wailea",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w336932920",
@@ -1949,7 +2011,9 @@
       "city": "Wailea",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w336933102",
@@ -1966,7 +2030,9 @@
       "city": "Kihei",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w336933280",
@@ -2000,7 +2066,9 @@
       "city": "Wailea",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w340007128",
@@ -2034,7 +2102,9 @@
       "city": "Maui County",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w347012750",
@@ -2068,7 +2138,9 @@
       "city": "Wailea",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w359990751",
@@ -2102,7 +2174,9 @@
       "city": "Puʻuanahulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w367338276",
@@ -2189,7 +2263,9 @@
       "city": "Wailua Homesteads",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w388142712",
@@ -2223,7 +2299,9 @@
       "city": "Wailua",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w389324473",
@@ -2312,7 +2390,9 @@
       "city": "Kāʻanapali",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w437249621",
@@ -2524,7 +2604,9 @@
       "city": "Kihei",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w447859960",
@@ -2541,7 +2623,9 @@
       "city": "Kihei",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w447859961",
@@ -2558,7 +2642,9 @@
       "city": "Kihei",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w447933468",
@@ -2626,7 +2712,9 @@
       "city": "Kihei",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w450613973",
@@ -2643,7 +2731,9 @@
       "city": "Kihei",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w508364214",
@@ -2817,7 +2907,9 @@
       "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w468569126",
@@ -2834,7 +2926,9 @@
       "city": "Pearl City",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w471551247",
@@ -2851,7 +2945,9 @@
       "city": "Kāʻanapali",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w471551904",
@@ -2868,7 +2964,9 @@
       "city": "Napili",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w477287589",
@@ -2953,7 +3051,9 @@
       "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w480330703",
@@ -2970,7 +3070,9 @@
       "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w481856050",
@@ -2987,7 +3089,9 @@
       "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w482373011",
@@ -3004,7 +3108,9 @@
       "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w482373017",
@@ -3021,7 +3127,9 @@
       "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w483552477",
@@ -3055,7 +3163,9 @@
       "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w487515007",
@@ -3089,7 +3199,9 @@
       "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w489982383",
@@ -3106,7 +3218,9 @@
       "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w494303003",
@@ -3142,7 +3256,9 @@
       "city": "Maui County",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w503156351",
@@ -3176,7 +3292,9 @@
       "city": "Kauaʻi County",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w504586515",
@@ -3212,7 +3330,9 @@
       "city": "Kahaluʻu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w512384703",
@@ -3441,7 +3561,9 @@
       "city": "Napili",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w589300049",
@@ -3458,7 +3580,9 @@
       "city": "Keaau",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w589759124",
@@ -3562,7 +3686,9 @@
       "city": "Kaanapali",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w646805119",
@@ -3579,7 +3705,9 @@
       "city": "Kailua",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w646822978",
@@ -3668,7 +3796,9 @@
       "city": "Hilo",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w662831217",
@@ -3755,7 +3885,9 @@
       "city": "Lahaina",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w676136126",
@@ -3789,7 +3921,9 @@
       "city": "Ewa Beach",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w678265264",
@@ -3840,7 +3974,9 @@
       "city": "Makaha",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w700928601",
@@ -4035,7 +4171,9 @@
       "city": "Kapolei",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w802198984",
@@ -4156,7 +4294,9 @@
       "city": "Hilo",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w827550024",
@@ -4538,7 +4678,9 @@
       "city": "Lahaina",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w878625091",
@@ -4572,7 +4714,9 @@
       "city": "Lahaina",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w879471194",
@@ -4589,7 +4733,9 @@
       "city": "Maui County",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w886491763",
@@ -4606,7 +4752,9 @@
       "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w886573965",
@@ -4623,7 +4771,9 @@
       "city": "Kapolei",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w887411400",
@@ -4674,7 +4824,9 @@
       "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w926034377",
@@ -4708,7 +4860,9 @@
       "city": "Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w931560511",
@@ -4797,7 +4951,9 @@
       "city": "Kaneohe",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w950125098",
@@ -4814,7 +4970,9 @@
       "city": "Poʻipū",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w951535986",
@@ -4831,7 +4989,9 @@
       "city": "Poʻipū",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w952767465",
@@ -4865,7 +5025,9 @@
       "city": "Ewa Beach",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-r16277506",
@@ -4916,7 +5078,9 @@
       "city": "Koloa",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1005746716",
@@ -5060,7 +5224,9 @@
       "city": "Kaanapali",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1052934495",
@@ -5077,7 +5243,9 @@
       "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1061887011",
@@ -5094,7 +5262,9 @@
       "city": "Kauaʻi County",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1074415921",
@@ -5111,7 +5281,9 @@
       "city": "Kaneohe",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1087391214",
@@ -5183,7 +5355,9 @@
       "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1116113496",
@@ -5234,7 +5408,9 @@
       "city": "Aiea",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1170984404",
@@ -5304,7 +5480,9 @@
       "city": "Wailea",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1212158269",
@@ -5321,7 +5499,9 @@
       "city": "Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1216621418",
@@ -5338,7 +5518,9 @@
       "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1217182849",
@@ -5372,7 +5554,9 @@
       "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1218842172",
@@ -5389,7 +5573,9 @@
       "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1222106135",
@@ -5406,7 +5592,9 @@
       "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1222377462",
@@ -5423,7 +5611,9 @@
       "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1225136073",
@@ -5440,7 +5630,9 @@
       "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1226026370",
@@ -5457,7 +5649,9 @@
       "city": "Napili",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1226026488",
@@ -5491,7 +5685,9 @@
       "city": "Napili",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1226026491",
@@ -5508,7 +5704,9 @@
       "city": "Napili",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1226895630",
@@ -5525,7 +5723,9 @@
       "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1228987528",
@@ -5559,7 +5759,9 @@
       "city": "Aiea",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1243814257",
@@ -5576,7 +5778,9 @@
       "city": "Kaunakakai",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1254374480",
@@ -5610,7 +5814,9 @@
       "city": "Waipahu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1263628452",
@@ -5678,7 +5884,9 @@
       "city": "Kailua",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1330349215",
@@ -5695,7 +5903,9 @@
       "city": "Kailua",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1330765186",
@@ -5782,7 +5992,9 @@
       "city": "Haliimaile",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1372609851",
@@ -5869,7 +6081,9 @@
       "city": "Kaanapali",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442140836",
@@ -5903,7 +6117,9 @@
       "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442141502",
@@ -5920,7 +6136,9 @@
       "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442141514",
@@ -5937,7 +6155,9 @@
       "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442141564",
@@ -5954,7 +6174,9 @@
       "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442141680",
@@ -5971,7 +6193,9 @@
       "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442141848",
@@ -5988,7 +6212,9 @@
       "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442142097",
@@ -6005,7 +6231,9 @@
       "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443446676",
@@ -6039,7 +6267,9 @@
       "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1452462792",
@@ -6073,7 +6303,9 @@
       "city": "Wahiawā",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1462943413",
@@ -6107,7 +6339,9 @@
       "city": "Anahola",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471434964",
@@ -6124,7 +6358,9 @@
       "city": "Kilauea",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1484753386",
@@ -6175,7 +6411,9 @@
       "city": "Palani Junction",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1504284855",
@@ -6211,7 +6449,9 @@
       "city": "Palani Junction",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1504290108",
@@ -6228,7 +6468,9 @@
       "city": "Palani Junction",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1504337553",
@@ -6245,7 +6487,9 @@
       "city": "Palani Junction",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1510451833",
@@ -6279,7 +6523,9 @@
       "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512245415",
@@ -6296,7 +6542,9 @@
       "city": "Kauaʻi County",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1530510667",
@@ -6313,7 +6561,9 @@
       "city": "Waipahu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1534385682",
@@ -6349,7 +6599,9 @@
       "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1539708196",

@@ -36,7 +36,9 @@
       "city": "Goose Creek",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w28772189",
@@ -121,7 +123,9 @@
       "city": "Lexington County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w38723348",
@@ -471,7 +475,9 @@
       "city": "Five Forks",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w114715069",
@@ -607,7 +613,9 @@
       "city": "Judson",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w151764630",
@@ -692,7 +700,9 @@
       "city": "Florence County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w163515292",
@@ -1010,7 +1020,9 @@
       "city": "Folly Beach",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w217439458",
@@ -1027,7 +1039,9 @@
       "city": "Folly Beach",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w217439459",
@@ -1044,7 +1058,9 @@
       "city": "Folly Beach",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w217501713",
@@ -1180,7 +1196,9 @@
       "city": "Mount Pleasant",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w229116272",
@@ -1197,7 +1215,9 @@
       "city": "Mount Pleasant",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w229116281",
@@ -1335,7 +1355,9 @@
       "city": "Charleston",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w259984581",
@@ -1456,7 +1478,9 @@
       "city": "Lexington County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w283531121",
@@ -1562,7 +1586,9 @@
       "city": "McCormick County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w298866199",
@@ -1613,7 +1639,9 @@
       "city": "Charleston",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w300965791",
@@ -1630,7 +1658,9 @@
       "city": "Charleston",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w300967066",
@@ -1647,7 +1677,9 @@
       "city": "Charleston",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w300969540",
@@ -1664,7 +1696,9 @@
       "city": "Charleston",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w301810447",
@@ -1912,7 +1946,9 @@
       "city": "Orangeburg",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w314652085",
@@ -1946,7 +1982,9 @@
       "city": "Greenville County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w314806508",
@@ -1963,7 +2001,9 @@
       "city": "Greenville County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w318070705",
@@ -2014,7 +2054,9 @@
       "city": "Lexington County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w325726777",
@@ -2031,7 +2073,9 @@
       "city": "Lexington County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w325773853",
@@ -2084,7 +2128,9 @@
       "city": "Oconee County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w330225653",
@@ -2120,7 +2166,9 @@
       "city": "Greenville County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w333301481",
@@ -2190,7 +2238,9 @@
       "city": "Denmark",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w334596848",
@@ -2207,7 +2257,9 @@
       "city": "Denmark",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w334601960",
@@ -2241,7 +2293,9 @@
       "city": "St. Matthews",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w334608267",
@@ -2258,7 +2312,9 @@
       "city": "St. Matthews",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w334940760",
@@ -2275,7 +2331,9 @@
       "city": "Pickens County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w336111049",
@@ -2350,7 +2408,9 @@
       "city": "Charleston",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w346679461",
@@ -2418,7 +2478,9 @@
       "city": "Richland County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w347333876",
@@ -2488,7 +2550,9 @@
       "city": "Liberty",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w349616378",
@@ -2522,7 +2586,9 @@
       "city": "North Myrtle Beach",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w360195077",
@@ -2662,7 +2728,9 @@
       "city": "Greenville County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w388702334",
@@ -3185,7 +3253,9 @@
       "city": "Edisto Beach",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w408081536",
@@ -3767,7 +3837,9 @@
       "city": "Beech Island",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w433067107",
@@ -3835,7 +3907,9 @@
       "city": "Columbia",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w437614031",
@@ -3888,7 +3962,9 @@
       "city": "Charleston",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w440595631",
@@ -3994,7 +4070,9 @@
       "city": "Varnville",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w467278577",
@@ -4098,7 +4176,9 @@
       "city": "Greenwood",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w467780281",
@@ -4185,7 +4265,9 @@
       "city": "Moncks Corner",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w467794482",
@@ -4202,7 +4284,9 @@
       "city": "Moncks Corner",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w467807478",
@@ -4236,7 +4320,9 @@
       "city": "Kingstree",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w467807494",
@@ -4253,7 +4339,9 @@
       "city": "Kingstree",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w467861945",
@@ -4270,7 +4358,9 @@
       "city": "Little River",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w467861977",
@@ -4287,7 +4377,9 @@
       "city": "Little River",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w467874827",
@@ -4408,7 +4500,9 @@
       "city": "Georgetown",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w474271217",
@@ -4425,7 +4519,9 @@
       "city": "St. Stephen",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w480489451",
@@ -4663,7 +4759,9 @@
       "city": "Smyrna",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w503867286",
@@ -4699,7 +4797,9 @@
       "city": "Santee",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w507592572",
@@ -4733,7 +4833,9 @@
       "city": "Richland County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w509339782",
@@ -4750,7 +4852,9 @@
       "city": "Richland County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1313350569",
@@ -4784,7 +4888,9 @@
       "city": "Columbia",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w513122200",
@@ -4924,7 +5030,9 @@
       "city": "Orangeburg County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w520885409",
@@ -4958,7 +5066,9 @@
       "city": "Columbia",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w542517176",
@@ -5045,7 +5155,9 @@
       "city": "Horry County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w544109849",
@@ -5062,7 +5174,9 @@
       "city": "Lexington",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w544221228",
@@ -5113,7 +5227,9 @@
       "city": "Lexington County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w544693019",
@@ -5130,7 +5246,9 @@
       "city": "Baxter Village",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w544694150",
@@ -5270,7 +5388,9 @@
       "city": "Lexington County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w545572625",
@@ -5304,7 +5424,9 @@
       "city": "Columbia",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w545804904",
@@ -5321,7 +5443,9 @@
       "city": "Columbia",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w545893779",
@@ -5338,7 +5462,9 @@
       "city": "Lexington County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1136583253",
@@ -5389,7 +5515,9 @@
       "city": "Lexington County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w546867230",
@@ -5423,7 +5551,9 @@
       "city": "Lexington County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w547123931",
@@ -5593,7 +5723,9 @@
       "city": "Richland County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w549550890",
@@ -5661,7 +5793,9 @@
       "city": "Lexington County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w549751799",
@@ -5731,7 +5865,9 @@
       "city": "Richland County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w550227094",
@@ -5748,7 +5884,9 @@
       "city": "Lexington County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w550233685",
@@ -5765,7 +5903,9 @@
       "city": "Lexington County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w550233693",
@@ -5835,7 +5975,9 @@
       "city": "Richland County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w550253626",
@@ -5937,7 +6079,9 @@
       "city": "Columbia",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w550263944",
@@ -5971,7 +6115,9 @@
       "city": "Lexington County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w550425029",
@@ -5988,7 +6134,9 @@
       "city": "West Columbia",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w550515921",
@@ -6005,7 +6153,9 @@
       "city": "Richland County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w550515949",
@@ -6096,7 +6246,9 @@
       "city": "Columbia",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w550720721",
@@ -6113,7 +6265,9 @@
       "city": "Columbia",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w550725100",
@@ -6147,7 +6301,9 @@
       "city": "Columbia",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w550955414",
@@ -6164,7 +6320,9 @@
       "city": "Columbia",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w550958415",
@@ -6232,7 +6390,9 @@
       "city": "Richland County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w551603420",
@@ -6300,7 +6460,9 @@
       "city": "Batesburg-Leesville",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w551714486",
@@ -6389,7 +6551,9 @@
       "city": "Richland County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w552237989",
@@ -6442,7 +6606,9 @@
       "city": "Lexington County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w552801113",
@@ -6580,7 +6746,9 @@
       "city": "Richland County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w554639838",
@@ -6633,7 +6801,9 @@
       "city": "Columbia",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w554650073",
@@ -6737,7 +6907,9 @@
       "city": "Columbia",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w554985543",
@@ -6805,7 +6977,9 @@
       "city": "Calhoun County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w556302653",
@@ -6822,7 +6996,9 @@
       "city": "Prosperity",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w556499728",
@@ -6839,7 +7015,9 @@
       "city": "Red Bank",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w556544991",
@@ -6979,7 +7157,9 @@
       "city": "Columbia",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w563315507",
@@ -7030,7 +7210,9 @@
       "city": "St. Matthews",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w564462392",
@@ -7081,7 +7263,9 @@
       "city": "Lexington County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w568427339",
@@ -7098,7 +7282,9 @@
       "city": "Kershaw County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w569047289",
@@ -7132,7 +7318,9 @@
       "city": "Richland County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w578213888",
@@ -7166,7 +7354,9 @@
       "city": "Columbia",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w580682660",
@@ -7183,7 +7373,9 @@
       "city": "Lee County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w585683473",
@@ -7200,7 +7392,9 @@
       "city": "Calhoun County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w589110307",
@@ -7217,7 +7411,9 @@
       "city": "Springdale",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w590857513",
@@ -7285,7 +7481,9 @@
       "city": "Orangeburg County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w652975807",
@@ -7336,7 +7534,9 @@
       "city": "Charleston",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w655446956",
@@ -7353,7 +7553,9 @@
       "city": "Charleston",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w656100184",
@@ -7370,7 +7572,9 @@
       "city": "Charleston",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w656553439",
@@ -7387,7 +7591,9 @@
       "city": "Charleston County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w658656569",
@@ -7404,7 +7610,9 @@
       "city": "Orangeburg County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w662432857",
@@ -7438,7 +7646,9 @@
       "city": "Springdale",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w664499954",
@@ -7491,7 +7701,9 @@
       "city": "Columbia",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w669249653",
@@ -7525,7 +7737,9 @@
       "city": "Orangeburg County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w688127698",
@@ -7542,7 +7756,9 @@
       "city": "Williamsburg County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w701404806",
@@ -7559,7 +7775,9 @@
       "city": "Isle of Palms",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w703795850",
@@ -7610,7 +7828,9 @@
       "city": "Forest Acres",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w754154792",
@@ -7627,7 +7847,9 @@
       "city": "Colleton County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w759502360",
@@ -7661,7 +7883,9 @@
       "city": "Mount Pleasant",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w762757154",
@@ -7712,7 +7936,9 @@
       "city": "Winnsboro",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w770551807",
@@ -7765,7 +7991,9 @@
       "city": "Oconee County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w776855582",
@@ -7871,7 +8099,9 @@
       "city": "Hilton Head Island",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w793541911",
@@ -7922,7 +8152,9 @@
       "city": "Horry County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w809887406",
@@ -7973,7 +8205,9 @@
       "city": "Florence County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w845475155",
@@ -8007,7 +8241,9 @@
       "city": "Lexington",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w860432371",
@@ -8094,7 +8330,9 @@
       "city": "Horry County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w902274109",
@@ -8130,7 +8368,9 @@
       "city": "Fantasy Harbour",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w904813415",
@@ -8147,7 +8387,9 @@
       "city": "Fantasy Harbour",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w904813428",
@@ -8164,7 +8406,9 @@
       "city": "Fantasy Harbour",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w907331772",
@@ -8249,7 +8493,9 @@
       "city": "Mount Pleasant",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w911435065",
@@ -8317,7 +8563,9 @@
       "city": "Horry County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w918297100",
@@ -8402,7 +8650,9 @@
       "city": "Lancaster County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w926999137",
@@ -8623,7 +8873,9 @@
       "city": "Spartanburg",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w987358400",
@@ -8640,7 +8892,9 @@
       "city": "Five Forks",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w988666098",
@@ -8727,7 +8981,9 @@
       "city": "Greenville County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w992771396",
@@ -8778,7 +9034,9 @@
       "city": "Greenville",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1003183721",
@@ -8795,7 +9053,9 @@
       "city": "Greenville County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1004197856",
@@ -8812,7 +9072,9 @@
       "city": "Greer",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1013237487",
@@ -8846,7 +9108,9 @@
       "city": "Estill",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1020504548",
@@ -8897,7 +9161,9 @@
       "city": "Charleston",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1034339591",
@@ -8988,7 +9254,9 @@
       "city": "Colleton County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1063740596",
@@ -9073,7 +9341,9 @@
       "city": "Greenville County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1209622528",
@@ -9141,7 +9411,9 @@
       "city": "Greenville County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1070110756",
@@ -9311,7 +9583,9 @@
       "city": "York County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084394460",
@@ -9328,7 +9602,9 @@
       "city": "Liberty",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084400183",
@@ -9345,7 +9621,9 @@
       "city": "Mount Pleasant",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084448991",
@@ -9362,7 +9640,9 @@
       "city": "Greenville County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1087141403",
@@ -9379,7 +9659,9 @@
       "city": "Mount Pleasant",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1087142807",
@@ -9447,7 +9729,9 @@
       "city": "Florence County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1087625793",
@@ -9498,7 +9782,9 @@
       "city": "Mount Pleasant",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1087626276",
@@ -9515,7 +9801,9 @@
       "city": "Charleston",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1087626342",
@@ -9532,7 +9820,9 @@
       "city": "Kiawah Island",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1087626464",
@@ -9602,7 +9892,9 @@
       "city": "North Charleston",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1102746458",
@@ -9687,7 +9979,9 @@
       "city": "Mount Pleasant",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1106186155",
@@ -9721,7 +10015,9 @@
       "city": "Taylors",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1106480167",
@@ -9738,7 +10034,9 @@
       "city": "Greenville County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1107598698",
@@ -9791,7 +10089,9 @@
       "city": "Hilton Head Island",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1108632849",
@@ -9808,7 +10108,9 @@
       "city": "Hilton Head Island",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1113489462",
@@ -9893,7 +10195,9 @@
       "city": "Georgetown",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1124495258",
@@ -9910,7 +10214,9 @@
       "city": "Georgetown County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1124580966",
@@ -9946,7 +10252,9 @@
       "city": "Aiken",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1125270336",
@@ -10048,7 +10356,9 @@
       "city": "North Litchfield Beach",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1130745167",
@@ -10065,7 +10375,9 @@
       "city": "Georgetown County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1133031309",
@@ -10082,7 +10394,9 @@
       "city": "Greenville County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1133354951",
@@ -10099,7 +10413,9 @@
       "city": "Greenville County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1147492455",
@@ -10184,7 +10500,9 @@
       "city": "Five Forks",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1159067935",
@@ -10218,7 +10536,9 @@
       "city": "Andrews",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1160807638",
@@ -10235,7 +10555,9 @@
       "city": "Greeleyville",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1169512975",
@@ -10252,7 +10574,9 @@
       "city": "Sullivan's Island",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1169513099",
@@ -10356,7 +10680,9 @@
       "city": "Sumter",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1173742618",
@@ -10373,7 +10699,9 @@
       "city": "Clemson",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1177180228",
@@ -10441,7 +10769,9 @@
       "city": "Charleston",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1180572335",
@@ -10475,7 +10805,9 @@
       "city": "Livingston",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1180905916",
@@ -10611,7 +10943,9 @@
       "city": "Myrtle Beach",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1206696346",
@@ -10696,7 +11030,9 @@
       "city": "Greenville County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1213640018",
@@ -10766,7 +11102,9 @@
       "city": "Central Pacolet",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1218268629",
@@ -10783,7 +11121,9 @@
       "city": "Easley",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1226561367",
@@ -10855,7 +11195,9 @@
       "city": "Lake City",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1226620561",
@@ -10906,7 +11248,9 @@
       "city": "North Charleston",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1229741096",
@@ -10991,7 +11335,9 @@
       "city": "Hilton Head Island",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1230747760",
@@ -11093,7 +11439,9 @@
       "city": "North Charleston",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1240795160",
@@ -11161,7 +11509,9 @@
       "city": "Bluffton",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1258745275",
@@ -11246,7 +11596,9 @@
       "city": "Horry County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1263513168",
@@ -11263,7 +11615,9 @@
       "city": "North Charleston",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1264116106",
@@ -11365,7 +11719,9 @@
       "city": "Charleston",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1264369610",
@@ -11473,7 +11829,9 @@
       "city": "Mount Pleasant",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1278783397",
@@ -11490,7 +11848,9 @@
       "city": "Mount Pleasant",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1278882355",
@@ -11507,7 +11867,9 @@
       "city": "Mount Pleasant",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1279113135",
@@ -11524,7 +11886,9 @@
       "city": "Little River",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1279385194",
@@ -11575,7 +11939,9 @@
       "city": "Sans Souci",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1280748334",
@@ -11609,7 +11975,9 @@
       "city": "Myrtle Beach",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1281854437",
@@ -11660,7 +12028,9 @@
       "city": "Myrtle Beach",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1284289152",
@@ -11677,7 +12047,9 @@
       "city": "Myrtle Beach",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1284524378",
@@ -11694,7 +12066,9 @@
       "city": "Beaufort County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1286136744",
@@ -11762,7 +12136,9 @@
       "city": "Five Forks",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1286416874",
@@ -11830,7 +12206,9 @@
       "city": "Five Forks",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1287206839",
@@ -11881,7 +12259,9 @@
       "city": "Horry County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1290801808",
@@ -11898,7 +12278,9 @@
       "city": "Berkeley County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1292165977",
@@ -11932,7 +12314,9 @@
       "city": "Lincolnville",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1293458901",
@@ -11949,7 +12333,9 @@
       "city": "Charleston County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1293460977",
@@ -12051,7 +12437,9 @@
       "city": "Five Forks",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1295057931",
@@ -12155,7 +12543,9 @@
       "city": "Cope",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1304820478",
@@ -12206,7 +12596,9 @@
       "city": "North Charleston",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1307131948",
@@ -12223,7 +12615,9 @@
       "city": "Mount Pleasant",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1307318181",
@@ -12276,7 +12670,9 @@
       "city": "Taylors",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1313099332",
@@ -12293,7 +12689,9 @@
       "city": "Greenville County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1313099423",
@@ -12310,7 +12708,9 @@
       "city": "Spartanburg County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1313099456",
@@ -12448,7 +12848,9 @@
       "city": "Hilton Head Island",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1320914906",
@@ -12482,7 +12884,9 @@
       "city": "Union County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1322334944",
@@ -12499,7 +12903,9 @@
       "city": "James Island",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1322702578",
@@ -12516,7 +12922,9 @@
       "city": "Clarendon County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1322985162",
@@ -12550,7 +12958,9 @@
       "city": "Berkeley County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1325626473",
@@ -12567,7 +12977,9 @@
       "city": "Beaufort County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1325630052",
@@ -12601,7 +13013,9 @@
       "city": "Mount Pleasant",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1329467764",
@@ -12618,7 +13032,9 @@
       "city": "Mount Pleasant",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1329467991",
@@ -12635,7 +13051,9 @@
       "city": "Charleston",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1329889354",
@@ -12690,7 +13108,9 @@
       "city": "Oconee County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334515542",
@@ -12707,7 +13127,9 @@
       "city": "Seneca",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334515673",
@@ -12741,7 +13163,9 @@
       "city": "Pickens County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334515858",
@@ -12811,7 +13235,9 @@
       "city": "Hilton Head Island",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334986792",
@@ -12862,7 +13288,9 @@
       "city": "Barnwell County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334987455",
@@ -12879,7 +13307,9 @@
       "city": "Clarendon County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334987497",
@@ -12896,7 +13326,9 @@
       "city": "Clarendon County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334987709",
@@ -12913,7 +13345,9 @@
       "city": "Kingstree",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334987858",
@@ -12947,7 +13381,9 @@
       "city": "Pamplico",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334988021",
@@ -12981,7 +13417,9 @@
       "city": "Quinby",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334988172",
@@ -13015,7 +13453,9 @@
       "city": "Kiawah Island",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334992179",
@@ -13068,7 +13508,9 @@
       "city": "Summerville",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334992594",
@@ -13085,7 +13527,9 @@
       "city": "Georgetown County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334992764",
@@ -13102,7 +13546,9 @@
       "city": "Georgetown County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334992835",
@@ -13119,7 +13565,9 @@
       "city": "Little River",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334995199",
@@ -13153,7 +13601,9 @@
       "city": "Union County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1339382379",
@@ -13189,7 +13639,9 @@
       "city": "Salem",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1339396610",
@@ -13223,7 +13675,9 @@
       "city": "Brittons Neck",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1341140093",
@@ -13257,7 +13711,9 @@
       "city": "Berkeley County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1350748790",
@@ -13274,7 +13730,9 @@
       "city": "Mount Pleasant",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1353953573",
@@ -13463,7 +13921,9 @@
       "city": "North Myrtle Beach",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356852952",
@@ -13533,7 +13993,9 @@
       "city": "Florence County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356859392",
@@ -13567,7 +14029,9 @@
       "city": "Kershaw County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1364105550",
@@ -13656,7 +14120,9 @@
       "city": "North Myrtle Beach",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1377830243",
@@ -13673,7 +14139,9 @@
       "city": "Horry County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1378650888",
@@ -13690,7 +14158,9 @@
       "city": "Little River",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1379496430",
@@ -13760,7 +14230,9 @@
       "city": "Horry County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1385798905",
@@ -13828,7 +14300,9 @@
       "city": "Greenville County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1390609991",
@@ -13845,7 +14319,9 @@
       "city": "Greenwood County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1390611745",
@@ -13898,7 +14374,9 @@
       "city": "North Myrtle Beach",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1412346445",
@@ -13915,7 +14393,9 @@
       "city": "Horry County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1414879652",
@@ -13987,7 +14467,9 @@
       "city": "Dorchester County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1415687070",
@@ -14004,7 +14486,9 @@
       "city": "Mount Pleasant",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1416527019",
@@ -14021,7 +14505,9 @@
       "city": "Ravenel",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1416527228",
@@ -14038,7 +14524,9 @@
       "city": "Charleston",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1416527370",
@@ -14263,7 +14751,9 @@
       "city": "Elloree",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1430734620",
@@ -14547,7 +15037,9 @@
       "city": "Florence County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1436487212",
@@ -14719,7 +15211,9 @@
       "city": "Charleston",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1445980510",
@@ -14857,7 +15351,9 @@
       "city": "Sullivan's Island",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1456175910",
@@ -14874,7 +15370,9 @@
       "city": "York County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1457038119",
@@ -14891,7 +15389,9 @@
       "city": "Sullivan's Island",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1463026726",
@@ -14908,7 +15408,9 @@
       "city": "North Augusta",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1464032691",
@@ -15065,7 +15567,9 @@
       "city": "Fairfax",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1466865418",
@@ -15101,7 +15605,9 @@
       "city": "Denmark",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1466866466",
@@ -15118,7 +15624,9 @@
       "city": "Norway",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1466866796",
@@ -15220,7 +15728,9 @@
       "city": "Myrtle Beach",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1479954254",
@@ -15237,7 +15747,9 @@
       "city": "Horry County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1482936575",
@@ -15441,7 +15953,9 @@
       "city": "Spartanburg",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1484132896",
@@ -15458,7 +15972,9 @@
       "city": "Hilton Head Island",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1484213278",
@@ -15509,7 +16025,9 @@
       "city": "Richland County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1484979074",
@@ -15598,7 +16116,9 @@
       "city": "Richland County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1484982994",
@@ -15634,7 +16154,9 @@
       "city": "Richland County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1484985861",
@@ -15670,7 +16192,9 @@
       "city": "Richland County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1485873453",
@@ -15687,7 +16211,9 @@
       "city": "Horry County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1485873881",
@@ -15823,7 +16349,9 @@
       "city": "Lancaster County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1486118380",
@@ -15908,7 +16436,9 @@
       "city": "Beaufort County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1487170072",
@@ -15925,7 +16455,9 @@
       "city": "Beaufort County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1487170505",
@@ -16010,7 +16542,9 @@
       "city": "Clarendon County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1487253913",
@@ -16061,7 +16595,9 @@
       "city": "Cameron",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1487350653",
@@ -16078,7 +16614,9 @@
       "city": "Orangeburg County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1487350891",
@@ -16095,7 +16633,9 @@
       "city": "Bowman",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1487352025",
@@ -16112,7 +16652,9 @@
       "city": "Orangeburg County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1487352653",
@@ -16269,7 +16811,9 @@
       "city": "Hanahan",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1487725831",
@@ -16337,7 +16881,9 @@
       "city": "Charleston",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1487727993",
@@ -16354,7 +16900,9 @@
       "city": "Charleston",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1487727995",
@@ -16371,7 +16919,9 @@
       "city": "Charleston",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1487728221",
@@ -16422,7 +16972,9 @@
       "city": "Charleston",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1487728758",
@@ -16439,7 +16991,9 @@
       "city": "Charleston",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1487729290",
@@ -16698,7 +17252,9 @@
       "city": "Mauldin",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1491362418",
@@ -16732,7 +17288,9 @@
       "city": "Fairfield County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1491865166",
@@ -16785,7 +17343,9 @@
       "city": "Scranton",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492725376",
@@ -16802,7 +17362,9 @@
       "city": "Florence",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492725750",
@@ -16853,7 +17415,9 @@
       "city": "Quinby",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492734603",
@@ -16904,7 +17468,9 @@
       "city": "Turbeville",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492975014",
@@ -17059,7 +17625,9 @@
       "city": "Greenwood County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1494127888",
@@ -17093,7 +17661,9 @@
       "city": "Greenville County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1494474303",
@@ -17110,7 +17680,9 @@
       "city": "Greenville County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1494474425",
@@ -17233,7 +17805,9 @@
       "city": "McColl",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1494639199",
@@ -17335,7 +17909,9 @@
       "city": "Camden",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1494641280",
@@ -17441,7 +18017,9 @@
       "city": "Richland County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1494926507",
@@ -17511,7 +18089,9 @@
       "city": "Lexington County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1495232516",
@@ -17562,7 +18142,9 @@
       "city": "Springdale",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1495242695",
@@ -18058,7 +18640,9 @@
       "city": "Oconee County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1495308079",
@@ -18308,7 +18892,9 @@
       "city": "Heath Springs",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1495745018",
@@ -18427,7 +19013,9 @@
       "city": "Rock Hill",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512783465",
@@ -18444,7 +19032,9 @@
       "city": "Rock Hill",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1517813874",
@@ -18546,7 +19136,9 @@
       "city": "Lexington County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526852552",
@@ -18563,7 +19155,9 @@
       "city": "Richland County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1531125253",
@@ -18580,7 +19174,9 @@
       "city": "Horry County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1531501890",
@@ -18631,7 +19227,9 @@
       "city": "Summerville",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1535864736",

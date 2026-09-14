@@ -54,7 +54,9 @@
       "city": "Federal Way",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w5098080",
@@ -561,7 +563,9 @@
       "city": "Everett",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w37819704",
@@ -578,7 +582,9 @@
       "city": "Snohomish County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w38170303",
@@ -871,7 +877,9 @@
       "city": "Island County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w58674673",
@@ -1244,7 +1252,9 @@
       "city": "Bellevue",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w142042727",
@@ -1278,7 +1288,9 @@
       "city": "Mercer Island",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w145393562",
@@ -1295,7 +1307,9 @@
       "city": "Mercer Island",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w146204041",
@@ -1312,7 +1326,9 @@
       "city": "Mercer Island",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w146204059",
@@ -1346,7 +1362,9 @@
       "city": "Mercer Island",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w146237856",
@@ -1363,7 +1381,9 @@
       "city": "Mercer Island",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w146237858",
@@ -1380,7 +1400,9 @@
       "city": "Mercer Island",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w146237878",
@@ -1397,7 +1419,9 @@
       "city": "Mercer Island",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w147016444",
@@ -1431,7 +1455,9 @@
       "city": "Mercer Island",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w150274203",
@@ -1448,7 +1474,9 @@
       "city": "Mercer Island",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w150274207",
@@ -1465,7 +1493,9 @@
       "city": "Mercer Island",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w150274218",
@@ -1482,7 +1512,9 @@
       "city": "Mercer Island",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w151555369",
@@ -1516,7 +1548,9 @@
       "city": "Mercer Island",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w152280734",
@@ -1533,7 +1567,9 @@
       "city": "Mercer Island",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w154646346",
@@ -1584,7 +1620,9 @@
       "city": "Mercer Island",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w159117856",
@@ -1773,7 +1811,9 @@
       "city": "Federal Way",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w166280731",
@@ -1913,7 +1953,9 @@
       "city": "San Juan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w186982049",
@@ -1949,7 +1991,9 @@
       "city": "Mercer Island",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w192530866",
@@ -1966,7 +2010,9 @@
       "city": "Mercer Island",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w192553412",
@@ -2216,7 +2262,9 @@
       "city": "Bellevue",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w220677702",
@@ -2233,7 +2281,9 @@
       "city": "Bellevue",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w220799637",
@@ -2358,7 +2408,9 @@
       "city": "Sammamish",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w230052608",
@@ -2710,7 +2762,9 @@
       "city": "Seattle",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w247137303",
@@ -2795,7 +2849,9 @@
       "city": "Sammamish",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260343172",
@@ -2918,7 +2974,9 @@
       "city": "Des Moines",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w271954385",
@@ -2935,7 +2993,9 @@
       "city": "Des Moines",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w271954387",
@@ -2952,7 +3012,9 @@
       "city": "Des Moines",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w271970010",
@@ -2986,7 +3048,9 @@
       "city": "Des Moines",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w283270979",
@@ -3003,7 +3067,9 @@
       "city": "Vashon",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w284555411",
@@ -3332,7 +3398,9 @@
       "city": "Kirkland",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w330745992",
@@ -3506,7 +3574,9 @@
       "city": "Kent",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w356358141",
@@ -3803,7 +3873,9 @@
       "city": "Brush Prairie",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w363262899",
@@ -3871,7 +3943,9 @@
       "city": "Mount Vista",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w368316834",
@@ -4340,7 +4414,9 @@
       "city": "Salmon Creek",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w403754592",
@@ -4431,7 +4507,9 @@
       "city": "North Bonneville",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w409343781",
@@ -4486,7 +4564,9 @@
       "city": "Kent",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w412286753",
@@ -4571,7 +4651,9 @@
       "city": "Leavenworth",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w415977344",
@@ -4673,7 +4755,9 @@
       "city": "Cowlitz County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w422125890",
@@ -4690,7 +4774,9 @@
       "city": "Felida",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w422786808",
@@ -4724,7 +4810,9 @@
       "city": "Shoreline",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w422902420",
@@ -4741,7 +4829,9 @@
       "city": "Shoreline",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w424355402",
@@ -4847,7 +4937,9 @@
       "city": "Packwood",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w430467401",
@@ -4974,7 +5066,9 @@
       "city": "Seattle",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w433795718",
@@ -4991,7 +5085,9 @@
       "city": "Silver Firs",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w433807010",
@@ -5046,7 +5142,9 @@
       "city": "Silver Firs",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w435115576",
@@ -5167,7 +5265,9 @@
       "city": "Fairwood",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w442319389",
@@ -5184,7 +5284,9 @@
       "city": "Fairwood",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w442363793",
@@ -5271,7 +5373,9 @@
       "city": "Rosalia",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w448073333",
@@ -5377,7 +5481,9 @@
       "city": "Kitsap County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w459052857",
@@ -5502,7 +5608,9 @@
       "city": "Spokane County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w467718268",
@@ -5555,7 +5663,9 @@
       "city": "SeaTac",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w470472630",
@@ -5623,7 +5733,9 @@
       "city": "Thurston County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w472880263",
@@ -5710,7 +5822,9 @@
       "city": "Thurston County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w478060215",
@@ -5885,7 +5999,8 @@
       "state": "WA",
       "source": "osm",
       "tags": {
-        "hours": "dawn-dusk"
+        "hours": "dawn-dusk",
+        "context": "residential"
       }
     },
     {
@@ -6011,7 +6126,9 @@
       "city": "Leavenworth",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w511530082",
@@ -6331,7 +6448,9 @@
       "city": "Sammamish",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w550527396",
@@ -6399,7 +6518,9 @@
       "city": "Edmonds",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w559072482",
@@ -6493,7 +6614,9 @@
       "city": "Jefferson County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w563505214",
@@ -6510,7 +6633,9 @@
       "city": "Jefferson County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w564481102",
@@ -6565,7 +6690,9 @@
       "city": "Whatcom County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w568569358",
@@ -6656,7 +6783,9 @@
       "city": "Snohomish County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w582484275",
@@ -6673,7 +6802,9 @@
       "city": "La Conner",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w585997031",
@@ -6847,7 +6978,9 @@
       "city": "Olympia",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w617884771",
@@ -6938,7 +7071,9 @@
       "city": "Thurston County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w622954981",
@@ -6972,7 +7107,9 @@
       "city": "Thurston County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w625701177",
@@ -7023,7 +7160,9 @@
       "city": "Thurston County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w628203096",
@@ -7074,7 +7213,9 @@
       "city": "Spokane",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w632649547",
@@ -7091,7 +7232,9 @@
       "city": "Snohomish County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-r8808888",
@@ -7197,7 +7340,9 @@
       "city": "Kirkland",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w648809254",
@@ -7231,7 +7376,9 @@
       "city": "Bothell",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w653691690",
@@ -7284,7 +7431,9 @@
       "city": "Yakima",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w666740307",
@@ -7439,7 +7588,9 @@
       "city": "Mercer Island",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w687280693",
@@ -7473,7 +7624,9 @@
       "city": "King County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w687999653",
@@ -7543,7 +7696,9 @@
       "city": "Fort Lewis",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w692325138",
@@ -7611,7 +7766,9 @@
       "city": "Redmond",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w700682061",
@@ -7628,7 +7785,9 @@
       "city": "Silver Firs",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w706220581",
@@ -7681,7 +7840,9 @@
       "city": "Richland",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w720362375",
@@ -7805,7 +7966,9 @@
       "city": "Woodway",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w738997697",
@@ -7822,7 +7985,9 @@
       "city": "Woodway",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w738997699",
@@ -7839,7 +8004,9 @@
       "city": "Woodway",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w738997733",
@@ -7856,7 +8023,9 @@
       "city": "Shoreline",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w738998661",
@@ -7873,7 +8042,9 @@
       "city": "Shoreline",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w738998672",
@@ -7890,7 +8061,9 @@
       "city": "Shoreline",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w740108375",
@@ -7945,7 +8118,9 @@
       "city": "King County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w761400963",
@@ -7998,7 +8173,9 @@
       "city": "King County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w765881747",
@@ -8015,7 +8192,9 @@
       "city": "Skagit County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w779169724",
@@ -8066,7 +8245,9 @@
       "city": "Trout Lake",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w782736635",
@@ -8083,7 +8264,9 @@
       "city": "Hazel Dell",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w783208405",
@@ -8185,7 +8368,9 @@
       "city": "Kitsap County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w804788553",
@@ -8221,7 +8406,9 @@
       "city": "Kenmore",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w825518996",
@@ -8255,7 +8442,9 @@
       "city": "Redmond",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w835402876",
@@ -8306,7 +8495,9 @@
       "city": "Port Townsend",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w842880799",
@@ -8342,7 +8533,9 @@
       "city": "Seattle",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w852727961",
@@ -8359,7 +8552,9 @@
       "city": "Kirkland",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w863351250",
@@ -8412,7 +8607,9 @@
       "city": "Selah",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w868191643",
@@ -8584,7 +8781,9 @@
       "city": "Douglas County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w895922913",
@@ -8601,7 +8800,9 @@
       "city": "Grant County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w895922919",
@@ -8618,7 +8819,9 @@
       "city": "Grant County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w899264752",
@@ -8703,7 +8906,9 @@
       "city": "Burien",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w914300522",
@@ -8720,7 +8925,9 @@
       "city": "Cottage Lake",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w916570089",
@@ -8775,7 +8982,9 @@
       "city": "Yarrow Point",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w936562995",
@@ -8811,7 +9020,9 @@
       "city": "Bothell",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w940434122",
@@ -8881,7 +9092,9 @@
       "city": "Skamania County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w958239266",
@@ -8970,7 +9183,9 @@
       "city": "Chehalis",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w999297187",
@@ -8987,7 +9202,9 @@
       "city": "Olympia",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1004610081",
@@ -9040,7 +9257,9 @@
       "city": "Lopez Village",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1011279156",
@@ -9074,7 +9293,9 @@
       "city": "San Juan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1027495520",
@@ -9108,7 +9329,9 @@
       "city": "Whatcom County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1028285570",
@@ -9125,7 +9348,9 @@
       "city": "San Juan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1029070948",
@@ -9159,7 +9384,9 @@
       "city": "San Juan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1029905428",
@@ -9176,7 +9403,9 @@
       "city": "San Juan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1029967307",
@@ -9193,7 +9422,9 @@
       "city": "Snohomish County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1030019482",
@@ -9210,7 +9441,9 @@
       "city": "Silver Firs",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1031036694",
@@ -9246,7 +9479,9 @@
       "city": "Snohomish County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1045881011",
@@ -9263,7 +9498,9 @@
       "city": "Silver Firs",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1049173740",
@@ -9299,7 +9536,9 @@
       "city": "Kennewick",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1058257237",
@@ -9369,7 +9608,9 @@
       "city": "Waller",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1062625117",
@@ -9403,7 +9644,9 @@
       "city": "Island County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1075412465",
@@ -9543,7 +9786,9 @@
       "city": "Island County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-r3762431",
@@ -9577,7 +9822,9 @@
       "city": "Lake Forest Park",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084916023",
@@ -9611,7 +9858,9 @@
       "city": "Issaquah",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1085720183",
@@ -9628,7 +9877,9 @@
       "city": "Lake Forest Park",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1088077054",
@@ -9681,7 +9932,9 @@
       "city": "Des Moines",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1101372086",
@@ -9698,7 +9951,9 @@
       "city": "Yakima",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1109153574",
@@ -9732,7 +9987,9 @@
       "city": "Clark County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1110967600",
@@ -9768,7 +10025,9 @@
       "city": "Greater Brush Prairie",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1112329527",
@@ -9785,7 +10044,9 @@
       "city": "Vancouver",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1113269554",
@@ -9802,7 +10063,9 @@
       "city": "Vancouver",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1115334792",
@@ -9942,7 +10205,9 @@
       "city": "Mill Creek",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1132385007",
@@ -9959,7 +10224,9 @@
       "city": "Snohomish County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1132695910",
@@ -9976,7 +10243,9 @@
       "city": "Everett",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1135787920",
@@ -10010,7 +10279,9 @@
       "city": "San Juan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1147518797",
@@ -10027,7 +10298,9 @@
       "city": "Tacoma",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1149256053",
@@ -10044,7 +10317,9 @@
       "city": "Grant County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1150105913",
@@ -10080,7 +10355,9 @@
       "city": "Chelan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1151370841",
@@ -10133,7 +10410,9 @@
       "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1159770121",
@@ -10150,7 +10429,9 @@
       "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1160157155",
@@ -10167,7 +10448,9 @@
       "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1160805282",
@@ -10184,7 +10467,9 @@
       "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1162302865",
@@ -10201,7 +10486,9 @@
       "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1162655771",
@@ -10218,7 +10505,9 @@
       "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1162950561",
@@ -10235,7 +10524,9 @@
       "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1163127814",
@@ -10269,7 +10560,9 @@
       "city": "Tulalip Bay",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1165569802",
@@ -10286,7 +10579,9 @@
       "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1169032568",
@@ -10320,7 +10615,9 @@
       "city": "Redmond",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1170420496",
@@ -10371,7 +10668,9 @@
       "city": "Walla Walla",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1182328458",
@@ -10388,7 +10687,9 @@
       "city": "Port Madison Indian Reservation",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1184757601",
@@ -10439,7 +10740,9 @@
       "city": "Port Madison Indian Reservation",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1193481237",
@@ -10456,7 +10759,9 @@
       "city": "Clyde Hill",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1193695528",
@@ -10490,7 +10795,9 @@
       "city": "Lewis County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1199722793",
@@ -10560,7 +10867,9 @@
       "city": "Redmond",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1207305461",
@@ -10613,7 +10922,9 @@
       "city": "Milton",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1210509077",
@@ -10664,7 +10975,9 @@
       "city": "Everett",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1210906091",
@@ -10681,7 +10994,9 @@
       "city": "Everett",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1211135979",
@@ -10698,7 +11013,9 @@
       "city": "Bellevue",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1211136592",
@@ -10715,7 +11032,9 @@
       "city": "Bellevue",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1211142166",
@@ -10768,7 +11087,9 @@
       "city": "Clark County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1216669748",
@@ -10821,7 +11142,9 @@
       "city": "Edgewood",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1221725542",
@@ -10838,7 +11161,9 @@
       "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1221725543",
@@ -10855,7 +11180,9 @@
       "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1221725544",
@@ -10872,7 +11199,9 @@
       "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1221725564",
@@ -10889,7 +11218,9 @@
       "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1222391703",
@@ -10906,7 +11237,9 @@
       "city": "Ocean Park",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1223229502",
@@ -10957,7 +11290,9 @@
       "city": "Renton",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1227945217",
@@ -10991,7 +11326,9 @@
       "city": "Mill Plain",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1235643523",
@@ -11008,7 +11345,9 @@
       "city": "Clark County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1235649806",
@@ -11025,7 +11364,9 @@
       "city": "Washougal River",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1235680197",
@@ -11042,7 +11383,9 @@
       "city": "Clark County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1236192179",
@@ -11095,7 +11438,9 @@
       "city": "Bellevue",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1242206968",
@@ -11129,7 +11474,9 @@
       "city": "San Juan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1243076980",
@@ -11163,7 +11510,9 @@
       "city": "Redmond",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1245155319",
@@ -11180,7 +11529,9 @@
       "city": "San Juan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1245734372",
@@ -11197,7 +11548,9 @@
       "city": "San Juan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1246231306",
@@ -11214,7 +11567,9 @@
       "city": "Thurston County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1250657055",
@@ -11267,7 +11622,9 @@
       "city": "King County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1253720355",
@@ -11284,7 +11641,9 @@
       "city": "Terrace Heights",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1256736399",
@@ -11301,7 +11660,9 @@
       "city": "Chelan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1257059678",
@@ -11318,7 +11679,9 @@
       "city": "San Juan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1258372959",
@@ -11449,7 +11812,9 @@
       "city": "San Juan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1259781922",
@@ -11502,7 +11867,9 @@
       "city": "Chelan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1262389009",
@@ -11519,7 +11886,9 @@
       "city": "Chelan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1265327879",
@@ -11555,7 +11924,9 @@
       "city": "Chelan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1270257211",
@@ -11699,7 +12070,9 @@
       "city": "Kent",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1278341280",
@@ -11733,7 +12106,9 @@
       "city": "Fall City",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1278933216",
@@ -11767,7 +12142,9 @@
       "city": "Kitsap County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1284251637",
@@ -11890,7 +12267,9 @@
       "city": "Spokane",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1292871207",
@@ -11907,7 +12286,9 @@
       "city": "Kirkland",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1298713722",
@@ -12079,7 +12460,9 @@
       "city": "Wilson Creek",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1311679976",
@@ -12096,7 +12479,9 @@
       "city": "South Hill",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1311810135",
@@ -12149,7 +12534,9 @@
       "city": "Clark County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1312371442",
@@ -12166,7 +12553,9 @@
       "city": "Duvall",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1314597827",
@@ -12183,7 +12572,9 @@
       "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1315458531",
@@ -12272,7 +12663,9 @@
       "city": "Kirkland",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1330763896",
@@ -12289,7 +12682,9 @@
       "city": "Kirkland",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1331729762",
@@ -12340,7 +12735,9 @@
       "city": "Parkwood",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333665769",
@@ -12391,7 +12788,9 @@
       "city": "Alderwood Manor",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334567265",
@@ -12442,7 +12841,9 @@
       "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1337094332",
@@ -12459,7 +12860,9 @@
       "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1340911406",
@@ -12493,7 +12896,9 @@
       "city": "Sunland Estates",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1343296146",
@@ -12527,7 +12932,9 @@
       "city": "Brier",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1347513471",
@@ -12544,7 +12951,9 @@
       "city": "Brier",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1350832167",
@@ -12578,7 +12987,9 @@
       "city": "Lakewood",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1352794080",
@@ -12612,7 +13023,9 @@
       "city": "San Juan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1353996959",
@@ -12629,7 +13042,9 @@
       "city": "Vancouver",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1353997893",
@@ -12646,7 +13061,9 @@
       "city": "Vancouver",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1354000302",
@@ -12714,7 +13131,9 @@
       "city": "Kitsap County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1357935334",
@@ -12731,7 +13150,9 @@
       "city": "Kitsap County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1358141283",
@@ -12782,7 +13203,9 @@
       "city": "Ferndale",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1360242346",
@@ -12799,7 +13222,9 @@
       "city": "Bellevue",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1360818553",
@@ -12816,7 +13241,9 @@
       "city": "Kitsap County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1361558211",
@@ -12850,7 +13277,9 @@
       "city": "Kitsap County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1365097223",
@@ -12867,7 +13296,9 @@
       "city": "Kitsap County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1365255416",
@@ -12884,7 +13315,9 @@
       "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1365412604",
@@ -12958,7 +13391,9 @@
       "city": "Port Townsend",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1368207571",
@@ -12994,7 +13429,9 @@
       "city": "Whatcom County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1377787704",
@@ -13030,7 +13467,9 @@
       "city": "Kirkland",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1378842850",
@@ -13140,7 +13579,9 @@
       "city": "Grant County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1382051437",
@@ -13157,7 +13598,9 @@
       "city": "Bremerton",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1383302709",
@@ -13174,7 +13617,9 @@
       "city": "Longview",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1383303119",
@@ -13191,7 +13636,9 @@
       "city": "Longview",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1384911340",
@@ -13208,7 +13655,9 @@
       "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1385670721",
@@ -13242,7 +13691,9 @@
       "city": "Yakima",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1390826344",
@@ -13276,7 +13727,9 @@
       "city": "Yakima",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1392332322",
@@ -13293,7 +13746,9 @@
       "city": "Davis Terrace",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1410836063",
@@ -13327,7 +13782,9 @@
       "city": "Chelan",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1416743685",
@@ -13344,7 +13801,9 @@
       "city": "Steilacoom",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1416743898",
@@ -13416,7 +13875,9 @@
       "city": "Chelan",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1418393546",
@@ -13433,7 +13894,9 @@
       "city": "Silverdale",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1419724939",
@@ -13484,7 +13947,9 @@
       "city": "Poulsbo",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1421309879",
@@ -13501,7 +13966,9 @@
       "city": "Port Madison Indian Reservation",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1423965499",
@@ -13518,7 +13985,9 @@
       "city": "Snohomish County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1424469555",
@@ -13552,7 +14021,9 @@
       "city": "Union Hill-Novelty Hill",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1429280302",
@@ -13777,7 +14248,9 @@
       "city": "Bellingham",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1431434199",
@@ -13794,7 +14267,9 @@
       "city": "Grant County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1431434216",
@@ -13828,7 +14303,9 @@
       "city": "Douglas County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1432093434",
@@ -14040,7 +14517,9 @@
       "city": "Island County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1434658861",
@@ -14091,7 +14570,9 @@
       "city": "Bremerton",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435983335",
@@ -14216,7 +14697,9 @@
       "city": "Kitsap County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442152594",
@@ -14233,7 +14716,9 @@
       "city": "Federal Way",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442152701",
@@ -14267,7 +14752,9 @@
       "city": "Spokane County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442305190",
@@ -14352,7 +14839,9 @@
       "city": "Spokane",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442305689",
@@ -14403,7 +14892,9 @@
       "city": "Silver Firs",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442952031",
@@ -14437,7 +14928,9 @@
       "city": "Kitsap County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1444671554",
@@ -14844,7 +15337,9 @@
       "city": "Tracyton",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446321321",
@@ -15001,7 +15496,9 @@
       "city": "Sammamish",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446330343",
@@ -15382,7 +15879,9 @@
       "city": "Fox Island",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446402591",
@@ -15558,7 +16057,9 @@
       "city": "Pierce County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446549554",
@@ -15575,7 +16076,9 @@
       "city": "Pierce County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446551333",
@@ -15592,7 +16095,9 @@
       "city": "Redmond",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446584774",
@@ -15768,7 +16273,9 @@
       "city": "Douglas County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446825823",
@@ -15785,7 +16292,9 @@
       "city": "Douglas County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446827351",
@@ -15838,7 +16347,9 @@
       "city": "Yakima",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1447059270",
@@ -15872,7 +16383,9 @@
       "city": "Yakima",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1447059853",
@@ -15991,7 +16504,9 @@
       "city": "Pierce County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1447236349",
@@ -16008,7 +16523,9 @@
       "city": "Mercer Island",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1447237036",
@@ -16042,7 +16559,9 @@
       "city": "Clallam County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1447455237",
@@ -16059,7 +16578,9 @@
       "city": "Seattle",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1447461312",
@@ -16076,7 +16597,9 @@
       "city": "King County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1448287289",
@@ -16093,7 +16616,9 @@
       "city": "Neah Bay",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1448287913",
@@ -16178,7 +16703,9 @@
       "city": "Port Ludlow",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1450711801",
@@ -16231,7 +16758,9 @@
       "city": "Kitsap County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1453022301",
@@ -16407,7 +16936,9 @@
       "city": "Lynnwood",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1453677209",
@@ -16479,7 +17010,9 @@
       "city": "Kitsap County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1453680002",
@@ -16672,7 +17205,9 @@
       "city": "Lewis County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1453797497",
@@ -16708,7 +17243,9 @@
       "city": "San Juan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1453797596",
@@ -16761,7 +17298,9 @@
       "city": "Skagit County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1453798442",
@@ -16778,7 +17317,9 @@
       "city": "Oak Harbor",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1453798560",
@@ -16848,7 +17389,9 @@
       "city": "Sedro-Woolley",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1453799377",
@@ -17170,7 +17713,9 @@
       "city": "Okanogan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1454030002",
@@ -17204,7 +17749,9 @@
       "city": "Plain",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1454059422",
@@ -17221,7 +17768,9 @@
       "city": "Plain",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1454059581",
@@ -17312,7 +17861,9 @@
       "city": "Chelan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1454062951",
@@ -17365,7 +17916,9 @@
       "city": "Douglas County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1454068060",
@@ -17382,7 +17935,9 @@
       "city": "Chelan",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1454068239",
@@ -17471,7 +18026,9 @@
       "city": "Soap Lake",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1454070498",
@@ -17810,7 +18367,9 @@
       "city": "Spokane County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1454074311",
@@ -17880,7 +18439,9 @@
       "city": "Northport",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1454298055",
@@ -18287,7 +18848,9 @@
       "city": "Spokane",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1454576252",
@@ -18592,7 +19155,9 @@
       "city": "Washtucna",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1454581442",
@@ -18880,7 +19445,9 @@
       "city": "Alderwood Manor",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1458899971",
@@ -18916,7 +19483,9 @@
       "city": "San Juan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1459468220",
@@ -18933,7 +19502,9 @@
       "city": "Federal Way",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1459469088",
@@ -18967,7 +19538,9 @@
       "city": "Whatcom County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1462689175",
@@ -19001,7 +19574,9 @@
       "city": "Kitsap County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471846446",
@@ -19018,7 +19593,9 @@
       "city": "Port Madison Indian Reservation",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1472186611",
@@ -19035,7 +19612,9 @@
       "city": "Clallam County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1473746216",
@@ -19069,7 +19648,9 @@
       "city": "San Juan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1485613213",
@@ -19086,7 +19667,9 @@
       "city": "Kingston",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1486695063",
@@ -19120,7 +19703,9 @@
       "city": "San Juan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1495669548",
@@ -19137,7 +19722,9 @@
       "city": "Pierce County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1502961838",
@@ -19154,7 +19741,9 @@
       "city": "San Juan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1502961842",
@@ -19171,7 +19760,9 @@
       "city": "San Juan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1502968113",
@@ -19224,7 +19815,9 @@
       "city": "Skagit County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1502972826",
@@ -19258,7 +19851,9 @@
       "city": "San Juan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1502973469",
@@ -19328,7 +19923,9 @@
       "city": "Indian Island",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1502982062",
@@ -19434,7 +20031,9 @@
       "city": "Kitsap County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1502987096",
@@ -19468,7 +20067,9 @@
       "city": "Silverdale",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1502990178",
@@ -20090,7 +20691,9 @@
       "city": "Okanogan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526213751",
@@ -20484,7 +21087,9 @@
       "city": "Spokane County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1527905776",
@@ -20660,7 +21265,9 @@
       "city": "Vancouver",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1528327638",
@@ -20713,7 +21320,9 @@
       "city": "Wenatchee",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1528328197",
@@ -20730,7 +21339,9 @@
       "city": "Chelan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1528328198",
@@ -20747,7 +21358,9 @@
       "city": "Chelan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1528328200",
@@ -20764,7 +21377,9 @@
       "city": "Chelan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1528541713",
@@ -20781,7 +21396,9 @@
       "city": "San Juan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1528542236",
@@ -20798,7 +21415,9 @@
       "city": "King County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1528542646",
@@ -20849,7 +21468,9 @@
       "city": "Thurston County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1528546437",
@@ -20866,7 +21487,9 @@
       "city": "Holman",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1528546550",
@@ -20883,7 +21506,9 @@
       "city": "Summitview",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1528547060",
@@ -20900,7 +21525,9 @@
       "city": "Chelan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1528547225",
@@ -20951,7 +21578,9 @@
       "city": "Winthrop",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1528551197",
@@ -20985,7 +21614,9 @@
       "city": "Clallam County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1529316534",
@@ -21002,7 +21633,9 @@
       "city": "Bellingham",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1533328016",
@@ -21104,7 +21737,9 @@
       "city": "Skagit County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1537745229",
@@ -21121,7 +21756,9 @@
       "city": "Mount Vernon",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1537745480",
@@ -21155,7 +21792,9 @@
       "city": "Whatcom County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1537746080",
@@ -21172,7 +21811,9 @@
       "city": "Whatcom County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1537746336",
@@ -21223,7 +21864,9 @@
       "city": "Blaine",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1539238484",
@@ -21257,7 +21900,9 @@
       "city": "San Juan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1539312863",
@@ -21274,7 +21919,9 @@
       "city": "San Juan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1539313113",
@@ -21308,7 +21955,9 @@
       "city": "San Juan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1539313548",
@@ -21325,7 +21974,9 @@
       "city": "San Juan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1539313847",
@@ -21342,7 +21993,9 @@
       "city": "San Juan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1539314337",
@@ -21359,7 +22012,9 @@
       "city": "San Juan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1539314816",
@@ -21376,7 +22031,9 @@
       "city": "San Juan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1539315514",
@@ -21410,7 +22067,9 @@
       "city": "San Juan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1539316719",
@@ -21427,7 +22086,9 @@
       "city": "San Juan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1539317046",
@@ -21444,7 +22105,9 @@
       "city": "San Juan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1539317175",
@@ -21461,7 +22124,9 @@
       "city": "San Juan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1539317406",
@@ -21478,7 +22143,9 @@
       "city": "San Juan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1539317523",
@@ -21495,7 +22162,9 @@
       "city": "San Juan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1539317664",
@@ -21512,7 +22181,9 @@
       "city": "San Juan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1539317766",
@@ -21529,7 +22200,9 @@
       "city": "San Juan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1539318143",
@@ -21546,7 +22219,9 @@
       "city": "San Juan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1539318226",
@@ -21563,7 +22238,9 @@
       "city": "San Juan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1539318515",
@@ -21580,7 +22257,9 @@
       "city": "San Juan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1539319223",
@@ -21614,7 +22293,9 @@
       "city": "King County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1546892333",
@@ -21631,7 +22312,9 @@
       "city": "Spokane County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1546892342",
@@ -21665,7 +22348,9 @@
       "city": "San Juan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1550942811",
@@ -21699,7 +22384,9 @@
       "city": "Island County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1550943113",
@@ -21716,7 +22403,9 @@
       "city": "Skagit County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1550943201",
@@ -21733,7 +22422,9 @@
       "city": "Whatcom County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1550943444",
@@ -21750,7 +22441,9 @@
       "city": "Okanogan County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1550943460",
@@ -21784,7 +22477,9 @@
       "city": "Kittitas County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1550943722",
@@ -21818,7 +22513,9 @@
       "city": "Mercer Island",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1550944478",
@@ -21869,7 +22566,9 @@
       "city": "Island County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551195211",
@@ -21886,7 +22585,9 @@
       "city": "Jefferson County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551375065",
@@ -21903,7 +22604,9 @@
       "city": "Woods Creek",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551375287",
@@ -21937,7 +22640,9 @@
       "city": "Silver Firs",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551379001",
@@ -21954,7 +22659,9 @@
       "city": "Silver Firs",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551379940",
@@ -22005,7 +22712,9 @@
       "city": "Snohomish County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551385615",
@@ -22107,7 +22816,9 @@
       "city": "Union Hill-Novelty Hill",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551387850",
@@ -22141,7 +22852,9 @@
       "city": "King County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551388867",
@@ -22158,7 +22871,9 @@
       "city": "King County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551389183",
@@ -22209,7 +22924,9 @@
       "city": "Kitsap County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551392473",
@@ -22226,7 +22943,9 @@
       "city": "Bremerton",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551392764",
@@ -22243,7 +22962,9 @@
       "city": "Lynnwood",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551393076",
@@ -22260,7 +22981,9 @@
       "city": "Edmonds",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551393371",
@@ -22328,7 +23051,9 @@
       "city": "Fox Island",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551395718",
@@ -22362,7 +23087,9 @@
       "city": "Thurston County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551396142",
@@ -22379,7 +23106,9 @@
       "city": "Thurston County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551396323",
@@ -22396,7 +23125,9 @@
       "city": "Lacey",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551396647",
@@ -22536,7 +23267,9 @@
       "city": "Seattle",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551430303",
@@ -22570,7 +23303,9 @@
       "city": "Kirkland",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551432191",
@@ -22587,7 +23322,9 @@
       "city": "Shelton",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551432338",
@@ -22604,7 +23341,9 @@
       "city": "Thurston County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551432352",
@@ -22621,7 +23360,9 @@
       "city": "Thurston County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551627769",
@@ -22689,7 +23430,9 @@
       "city": "Camas",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551644709",
@@ -22706,7 +23449,9 @@
       "city": "Mukilteo",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551739107",
@@ -22723,7 +23468,9 @@
       "city": "Fairgrounds",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551743296",
@@ -22740,7 +23487,9 @@
       "city": "Mount Vista",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551743473",
@@ -22757,7 +23506,9 @@
       "city": "Hockinson",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551743729",
@@ -22791,7 +23542,9 @@
       "city": "Felida",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551744669",
@@ -22808,7 +23561,9 @@
       "city": "Felida",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551744992",
@@ -22825,7 +23580,9 @@
       "city": "Saint John",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551745127",
@@ -22842,7 +23599,9 @@
       "city": "Vancouver",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551745862",
@@ -22876,7 +23635,9 @@
       "city": "Vancouver",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551746510",
@@ -22893,7 +23654,9 @@
       "city": "Vancouver",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551747128",
@@ -22927,7 +23690,9 @@
       "city": "Vancouver",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551772033",
@@ -22944,7 +23709,9 @@
       "city": "Vancouver",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551773983",
@@ -22961,7 +23728,9 @@
       "city": "Vancouver",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551775220",
@@ -22978,7 +23747,9 @@
       "city": "Vancouver",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551775710",
@@ -23012,7 +23783,9 @@
       "city": "Vancouver",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551784653",
@@ -23029,7 +23802,9 @@
       "city": "Camas",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551785463",
@@ -23046,7 +23821,9 @@
       "city": "Camas",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551785668",
@@ -23063,7 +23840,9 @@
       "city": "Camas",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1553323348",
@@ -23150,7 +23929,9 @@
       "city": "Benton County",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-r18608465",

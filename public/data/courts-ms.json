@@ -214,7 +214,9 @@
       "city": "Columbus",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w647917459",
@@ -338,7 +340,9 @@
       "city": "Walnut",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w261299892",
@@ -408,7 +412,9 @@
       "city": "Biloxi",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w271014464",
@@ -461,7 +467,9 @@
       "city": "Picayune",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w284317019",
@@ -478,7 +486,9 @@
       "city": "Brandon",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w300114514",
@@ -529,7 +539,9 @@
       "city": "Cleveland",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w306460188",
@@ -565,7 +577,9 @@
       "city": "Picayune",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w309460919",
@@ -618,7 +632,9 @@
       "city": "Forrest County",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w345567969",
@@ -949,7 +965,9 @@
       "city": "Mendenhall",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w485902393",
@@ -1068,7 +1086,9 @@
       "city": "Union",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w486272540",
@@ -1085,7 +1105,9 @@
       "city": "Philadelphia",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w486275385",
@@ -1274,7 +1296,9 @@
       "city": "Okolona",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w486676740",
@@ -1325,7 +1349,9 @@
       "city": "Tunica County",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w486893545",
@@ -1359,7 +1385,9 @@
       "city": "Sardis",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w486997808",
@@ -1788,7 +1816,9 @@
       "city": "Waveland",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w589720970",
@@ -1822,7 +1852,9 @@
       "city": "Ripley",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w627736610",
@@ -1907,7 +1939,9 @@
       "city": "Ridgeland",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w641452896",
@@ -1941,7 +1975,9 @@
       "city": "Holly Springs",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w648400369",
@@ -2045,7 +2081,9 @@
       "city": "Pass Christian",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w666228346",
@@ -2062,7 +2100,9 @@
       "city": "Gulfport",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w666393088",
@@ -2113,7 +2153,9 @@
       "city": "Grenada",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w700932726",
@@ -2164,7 +2206,9 @@
       "city": "Southaven",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w720754022",
@@ -2181,7 +2225,9 @@
       "city": "Southaven",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w772064380",
@@ -2215,7 +2261,9 @@
       "city": "Lafayette County",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w787665518",
@@ -2232,7 +2280,9 @@
       "city": "Richton",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w810340069",
@@ -2306,7 +2356,9 @@
       "city": "Gulfport",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w869782403",
@@ -2323,7 +2375,9 @@
       "city": "DeSoto County",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w876170494",
@@ -2340,7 +2394,9 @@
       "city": "Tishomingo County",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w919748253",
@@ -2374,7 +2430,9 @@
       "city": "Canton",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w927746016",
@@ -2408,7 +2466,9 @@
       "city": "Madison County",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w942744275",
@@ -2582,7 +2642,9 @@
       "city": "Meridian",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1064691006",
@@ -2599,7 +2661,9 @@
       "city": "Meridian",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1064957709",
@@ -2616,7 +2680,9 @@
       "city": "Meridian",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1066879655",
@@ -2633,7 +2699,9 @@
       "city": "Lauderdale County",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1068354527",
@@ -2650,7 +2718,9 @@
       "city": "Lauderdale County",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1073202737",
@@ -2667,7 +2737,9 @@
       "city": "Tupelo",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1079135216",
@@ -2684,7 +2756,9 @@
       "city": "Jasper County",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1079851903",
@@ -2735,7 +2809,9 @@
       "city": "Rolling Fork",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084089590",
@@ -2752,7 +2828,9 @@
       "city": "Humphreys County",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084402374",
@@ -2769,7 +2847,9 @@
       "city": "Corinth",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084408998",
@@ -2786,7 +2866,9 @@
       "city": "Tupelo",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084449853",
@@ -2803,7 +2885,9 @@
       "city": "Yalobusha County",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1091759833",
@@ -2871,7 +2955,9 @@
       "city": "Tunica County",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1110558867",
@@ -2888,7 +2974,9 @@
       "city": "Indianola",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1110802952",
@@ -2941,7 +3029,9 @@
       "city": "Tunica County",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1126697924",
@@ -2958,7 +3048,9 @@
       "city": "Tunica County",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1159907504",
@@ -2992,7 +3084,9 @@
       "city": "Hinds County",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1162429693",
@@ -3045,7 +3139,9 @@
       "city": "Jackson",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1166000308",
@@ -3115,7 +3211,9 @@
       "city": "Tunica County",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1173344370",
@@ -3149,7 +3247,9 @@
       "city": "Tchula",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1185851579",
@@ -3268,7 +3368,9 @@
       "city": "Senatobia",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1227041666",
@@ -3340,7 +3442,9 @@
       "city": "Slate Springs",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1233850766",
@@ -3429,7 +3533,9 @@
       "city": "Horn Lake",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1250666560",
@@ -3446,7 +3552,9 @@
       "city": "Tunica",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1263576094",
@@ -3463,7 +3571,9 @@
       "city": "Tupelo",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1263576284",
@@ -3497,7 +3607,9 @@
       "city": "DeSoto County",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1278629887",
@@ -3548,7 +3660,9 @@
       "city": "Pascagoula",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1293288908",
@@ -3616,7 +3730,9 @@
       "city": "Liberty",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1307071308",
@@ -3705,7 +3821,9 @@
       "city": "Woodville",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1318432115",
@@ -3775,7 +3893,9 @@
       "city": "Gautier",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1321994835",
@@ -3843,7 +3963,9 @@
       "city": "Wilkinson County",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1322588794",
@@ -3860,7 +3982,9 @@
       "city": "Centreville",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1322736300",
@@ -3911,7 +4035,9 @@
       "city": "Neshoba County",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1322736515",
@@ -3983,7 +4109,9 @@
       "city": "Jackson",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1329889313",
@@ -4017,7 +4145,9 @@
       "city": "West Point",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1329889404",
@@ -4051,7 +4181,9 @@
       "city": "Madison",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1331259623",
@@ -4085,7 +4217,9 @@
       "city": "Natchez",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333417163",
@@ -4102,7 +4236,9 @@
       "city": "Claiborne County",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333417207",
@@ -4119,7 +4255,9 @@
       "city": "Port Gibson",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333417461",
@@ -4153,7 +4291,9 @@
       "city": "Lawrence County",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333417579",
@@ -4170,7 +4310,9 @@
       "city": "Silver Creek",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333417605",
@@ -4187,7 +4329,9 @@
       "city": "Prentiss",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333417789",
@@ -4221,7 +4365,9 @@
       "city": "Laurel",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333417934",
@@ -4255,7 +4401,9 @@
       "city": "Laurel",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333418046",
@@ -4272,7 +4420,9 @@
       "city": "Puckett",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333418163",
@@ -4325,7 +4475,9 @@
       "city": "Ridgeland",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333418934",
@@ -4359,7 +4511,9 @@
       "city": "Jackson",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333419228",
@@ -4393,7 +4547,9 @@
       "city": "Clinton",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333419369",
@@ -4512,7 +4668,9 @@
       "city": "Verona",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333668780",
@@ -4529,7 +4687,9 @@
       "city": "Waveland",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333668796",
@@ -4546,7 +4706,9 @@
       "city": "Columbus",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333668834",
@@ -4563,7 +4725,9 @@
       "city": "Columbus",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333668893",
@@ -4597,7 +4761,9 @@
       "city": "Oxford",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1335583129",
@@ -4614,7 +4780,9 @@
       "city": "Forrest County",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1335602422",
@@ -4684,7 +4852,9 @@
       "city": "Raleigh",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1355435333",
@@ -4718,7 +4888,9 @@
       "city": "Hazlehurst",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1355505216",
@@ -4735,7 +4907,9 @@
       "city": "Crystal Springs",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1355507093",
@@ -4752,7 +4926,9 @@
       "city": "Jackson",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1355509100",
@@ -4769,7 +4945,9 @@
       "city": "Raleigh",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356671879",
@@ -4786,7 +4964,9 @@
       "city": "Sharkey County",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1358116401",
@@ -4820,7 +5000,9 @@
       "city": "Lamar County",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1361022585",
@@ -4871,7 +5053,9 @@
       "city": "Louisville",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1412124168",
@@ -4975,7 +5159,9 @@
       "city": "Jackson",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1416748588",
@@ -4992,7 +5178,9 @@
       "city": "Rankin County",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1416748835",
@@ -5009,7 +5197,9 @@
       "city": "Pike County",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1416972699",
@@ -5026,7 +5216,9 @@
       "city": "Calhoun City",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1416973431",
@@ -5094,7 +5286,9 @@
       "city": "Jonestown",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1425507629",
@@ -5111,7 +5305,9 @@
       "city": "Webb",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1425653371",
@@ -5145,7 +5341,9 @@
       "city": "Corinth",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1426379787",
@@ -5162,7 +5360,9 @@
       "city": "Booneville",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1426685794",
@@ -5196,7 +5396,9 @@
       "city": "Crystal Springs",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1429889673",
@@ -5300,7 +5502,9 @@
       "city": "Pass Christian",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442429561",
@@ -5317,7 +5521,9 @@
       "city": "Corinth",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443127599",
@@ -5442,7 +5648,9 @@
       "city": "Waveland",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1444266986",
@@ -5459,7 +5667,9 @@
       "city": "Harrison County",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1444267065",
@@ -5476,7 +5686,9 @@
       "city": "Pass Christian",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1444267282",
@@ -5510,7 +5722,9 @@
       "city": "Pass Christian",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1444267290",
@@ -5527,7 +5741,9 @@
       "city": "Pass Christian",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1444267292",
@@ -5544,7 +5760,9 @@
       "city": "Pass Christian",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1444267711",
@@ -5561,7 +5779,9 @@
       "city": "Pass Christian",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1444267713",
@@ -5578,7 +5798,9 @@
       "city": "Pass Christian",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1444268078",
@@ -5595,7 +5817,9 @@
       "city": "Long Beach",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1444268107",
@@ -5612,7 +5836,9 @@
       "city": "Long Beach",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1444268387",
@@ -5629,7 +5855,9 @@
       "city": "Long Beach",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1444268533",
@@ -5646,7 +5874,9 @@
       "city": "Long Beach",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1444268618",
@@ -5682,7 +5912,9 @@
       "city": "Gulfport",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1444269123",
@@ -5699,7 +5931,9 @@
       "city": "Biloxi",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1444269246",
@@ -5733,7 +5967,9 @@
       "city": "Harrison County",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1444269517",
@@ -5767,7 +6003,9 @@
       "city": "Pearl River County",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1444270494",
@@ -5784,7 +6022,9 @@
       "city": "Collins",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1444270963",
@@ -5801,7 +6041,9 @@
       "city": "Collins",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1449265671",
@@ -5835,7 +6077,9 @@
       "city": "Tishomingo",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1457629825",
@@ -5905,7 +6149,9 @@
       "city": "Leland",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1462245304",
@@ -5941,7 +6187,9 @@
       "city": "Itta Bena",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1462245369",
@@ -6077,7 +6325,9 @@
       "city": "Southaven",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1462495810",
@@ -6094,7 +6344,9 @@
       "city": "Lamar County",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1462495902",
@@ -6130,7 +6382,9 @@
       "city": "Moss Point",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1462963170",
@@ -6200,7 +6454,9 @@
       "city": "McComb",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1472898227",
@@ -6253,7 +6509,9 @@
       "city": "Jackson",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1472898320",
@@ -6408,7 +6666,9 @@
       "city": "Flowood",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1472899961",
@@ -6493,7 +6753,9 @@
       "city": "Sebastopol",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1473443195",
@@ -6546,7 +6808,9 @@
       "city": "Diamondhead",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1473926751",
@@ -6580,7 +6844,9 @@
       "city": "Biloxi",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1473927416",
@@ -6803,7 +7069,9 @@
       "city": "Greenville",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1487439606",
@@ -6820,7 +7088,9 @@
       "city": "Greenville",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1487439611",
@@ -6837,7 +7107,9 @@
       "city": "Greenville",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1487439612",
@@ -6854,7 +7126,9 @@
       "city": "Greenville",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1500822525",
@@ -6888,7 +7162,9 @@
       "city": "Gulfport",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1510506774",
@@ -6905,7 +7181,9 @@
       "city": "Ruleville",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1510506797",
@@ -6922,7 +7200,9 @@
       "city": "Como",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1513512800",
@@ -6939,7 +7219,9 @@
       "city": "Lee County",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1518633771",
@@ -6956,7 +7238,9 @@
       "city": "Pearl River County",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1518634096",
@@ -6990,7 +7274,9 @@
       "city": "Snow Lake Shores",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1530381669",
@@ -7007,7 +7293,9 @@
       "city": "Vicksburg",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1530383137",
@@ -7058,7 +7346,9 @@
       "city": "Taylorsville",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1530486760",
@@ -7198,7 +7488,9 @@
       "city": "Oktibbeha County",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1530736147",
@@ -7232,7 +7524,9 @@
       "city": "Laurel",
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1531538252",

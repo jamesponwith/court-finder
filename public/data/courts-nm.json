@@ -195,7 +195,9 @@
       "city": "Socorro County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w120024583",
@@ -284,7 +286,9 @@
       "city": "Ruidoso",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w127122752",
@@ -369,7 +373,9 @@
       "city": "Williamsburg",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w155757964",
@@ -386,7 +392,9 @@
       "city": "Sierra County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w158368006",
@@ -949,7 +957,9 @@
       "city": "Lamy",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w240368742",
@@ -1070,7 +1080,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w475162932",
@@ -1174,7 +1186,9 @@
       "city": "Santa Fe County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w327007557",
@@ -1191,7 +1205,9 @@
       "city": "Las Campanas",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w327010059",
@@ -1208,7 +1224,9 @@
       "city": "Santa Fe",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w327010060",
@@ -1225,7 +1243,9 @@
       "city": "Santa Fe",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w327132547",
@@ -1416,7 +1436,9 @@
       "city": "Bernalillo County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w379030655",
@@ -1433,7 +1455,9 @@
       "city": "International District",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w386431562",
@@ -1469,7 +1493,9 @@
       "city": "Bernalillo County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w387941421",
@@ -1486,7 +1512,9 @@
       "city": "Bernalillo County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w398284099",
@@ -1503,7 +1531,9 @@
       "city": "Red River",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w399096907",
@@ -1556,7 +1586,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w429076067",
@@ -1645,7 +1677,9 @@
       "city": "Santa Rosa",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w458694440",
@@ -1696,7 +1730,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w469216874",
@@ -1713,7 +1749,9 @@
       "city": "Gallup",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w469216876",
@@ -1730,7 +1768,9 @@
       "city": "Gallup",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w471985850",
@@ -1764,7 +1804,9 @@
       "city": "Santa Fe",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w474202036",
@@ -1817,7 +1859,9 @@
       "city": "Santa Fe",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w474513270",
@@ -1834,7 +1878,9 @@
       "city": "Santa Fe",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w476157561",
@@ -1902,7 +1948,9 @@
       "city": "Santa Fe",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w481853094",
@@ -1989,7 +2037,9 @@
       "city": "Santa Fe",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w521977381",
@@ -2040,7 +2090,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w533648222",
@@ -2057,7 +2109,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w533659224",
@@ -2108,7 +2162,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w534079570",
@@ -2125,7 +2181,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w534717305",
@@ -2176,7 +2234,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w537460748",
@@ -2193,7 +2253,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w539246213",
@@ -2227,7 +2289,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w542479624",
@@ -2244,7 +2308,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w549440465",
@@ -2295,7 +2361,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w554362763",
@@ -2331,7 +2399,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w555474874",
@@ -2348,7 +2418,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w555474890",
@@ -2365,7 +2437,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w555577321",
@@ -2416,7 +2490,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w560399786",
@@ -2433,7 +2509,9 @@
       "city": "Valencia County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w586713127",
@@ -2467,7 +2545,9 @@
       "city": "Los Ranchos de Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w586998195",
@@ -2484,7 +2564,9 @@
       "city": "Los Ranchos de Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w586998199",
@@ -2501,7 +2583,9 @@
       "city": "Los Ranchos de Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w586998208",
@@ -2518,7 +2602,9 @@
       "city": "Los Ranchos de Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w586998265",
@@ -2535,7 +2621,9 @@
       "city": "Los Ranchos de Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w587039531",
@@ -2552,7 +2640,9 @@
       "city": "Los Ranchos de Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w587039533",
@@ -2569,7 +2659,9 @@
       "city": "Los Ranchos de Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w587039555",
@@ -2586,7 +2678,9 @@
       "city": "Los Ranchos de Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w587276704",
@@ -2603,7 +2697,9 @@
       "city": "Los Ranchos de Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w587276752",
@@ -2620,7 +2716,9 @@
       "city": "Los Ranchos de Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w588219352",
@@ -2637,7 +2735,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w589327065",
@@ -2654,7 +2754,9 @@
       "city": "Bernalillo County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w593923701",
@@ -2722,7 +2824,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w597093434",
@@ -2739,7 +2843,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w597093435",
@@ -2756,7 +2862,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w597093437",
@@ -2807,7 +2915,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w598950729",
@@ -2841,7 +2951,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w598986304",
@@ -2858,7 +2970,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w598986315",
@@ -2875,7 +2989,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w598991475",
@@ -2892,7 +3008,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w598991485",
@@ -2979,7 +3097,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w603896043",
@@ -2996,7 +3116,9 @@
       "city": "Farmington",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w609955500",
@@ -3049,7 +3171,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w617695322",
@@ -3119,7 +3243,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w628602600",
@@ -3136,7 +3262,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w637620956",
@@ -3172,7 +3300,9 @@
       "city": "Santa Fe County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w645366125",
@@ -3206,7 +3336,9 @@
       "city": "Angel Fire",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w661328273",
@@ -3242,7 +3374,9 @@
       "city": "Corrales",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w693964026",
@@ -3293,7 +3427,9 @@
       "city": "Santa Fe",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w696049497",
@@ -3327,7 +3463,9 @@
       "city": "Pojoaque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w696061057",
@@ -3344,7 +3482,9 @@
       "city": "San Miguel County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w696062427",
@@ -3361,7 +3501,9 @@
       "city": "Pojoaque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w696200469",
@@ -3378,7 +3520,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w696200473",
@@ -3446,7 +3590,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w696783628",
@@ -3516,7 +3662,9 @@
       "city": "Santa Fe",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w698436686",
@@ -3588,7 +3736,9 @@
       "city": "Santa Fe County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w704399385",
@@ -3605,7 +3755,9 @@
       "city": "Santa Fe County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w704421742",
@@ -3656,7 +3808,9 @@
       "city": "Santa Fe County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w704433260",
@@ -3673,7 +3827,9 @@
       "city": "Santa Fe",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w704433262",
@@ -3690,7 +3846,9 @@
       "city": "Santa Fe",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w704433265",
@@ -3707,7 +3865,9 @@
       "city": "Santa Fe",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w705297296",
@@ -3724,7 +3884,9 @@
       "city": "Santa Fe County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w705297329",
@@ -3775,7 +3937,9 @@
       "city": "Taos",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w705368683",
@@ -3809,7 +3973,9 @@
       "city": "Taos County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w705578842",
@@ -3862,7 +4028,9 @@
       "city": "Cedar Crest",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w706237360",
@@ -3898,7 +4066,9 @@
       "city": "Bernalillo County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w706240928",
@@ -3966,7 +4136,9 @@
       "city": "Rio Arriba County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w709087568",
@@ -3983,7 +4155,9 @@
       "city": "Santa Fe",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w709813038",
@@ -4019,7 +4193,9 @@
       "city": "Bernalillo County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w710397396",
@@ -4036,7 +4212,9 @@
       "city": "Sandoval County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w713542713",
@@ -4087,7 +4265,9 @@
       "city": "Taos",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w717480216",
@@ -4104,7 +4284,9 @@
       "city": "Santa Fe",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w717493709",
@@ -4155,7 +4337,9 @@
       "city": "Santa Fe County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w717792256",
@@ -4172,7 +4356,9 @@
       "city": "Santa Fe County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w717798355",
@@ -4257,7 +4443,9 @@
       "city": "Santa Fe County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w718278032",
@@ -4274,7 +4462,9 @@
       "city": "Santa Fe County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w720390530",
@@ -4291,7 +4481,9 @@
       "city": "Santa Fe",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w720390532",
@@ -4308,7 +4500,9 @@
       "city": "Santa Fe",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w721121686",
@@ -4393,7 +4587,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w728946535",
@@ -4410,7 +4606,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w734031060",
@@ -4463,7 +4661,9 @@
       "city": "Los Ranchos de Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w737159579",
@@ -4548,7 +4748,9 @@
       "city": "Paradise Hills",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w739465852",
@@ -4565,7 +4767,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w743765000",
@@ -4582,7 +4786,9 @@
       "city": "Santa Fe County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w746573837",
@@ -4637,7 +4843,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w753191692",
@@ -4690,7 +4898,9 @@
       "city": "Los Lunas",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w758569872",
@@ -4707,7 +4917,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w758811886",
@@ -4724,7 +4936,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w759014501",
@@ -4758,7 +4972,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w759715250",
@@ -4775,7 +4991,9 @@
       "city": "Los Ranchos de Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w759731637",
@@ -4811,7 +5029,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w759873586",
@@ -4847,7 +5067,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w760595988",
@@ -4864,7 +5086,9 @@
       "city": "Valencia County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w761845032",
@@ -4881,7 +5105,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w761910272",
@@ -4898,7 +5124,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w762075104",
@@ -4915,7 +5143,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w763512399",
@@ -4932,7 +5162,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w766533840",
@@ -4949,7 +5181,9 @@
       "city": "Los Ranchos de Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w769800530",
@@ -5000,7 +5234,9 @@
       "city": "South Valley",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w776658433",
@@ -5051,7 +5287,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w776919549",
@@ -5068,7 +5306,9 @@
       "city": "Santa Fe County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w777420955",
@@ -5085,7 +5325,9 @@
       "city": "Sandoval County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w777424646",
@@ -5102,7 +5344,9 @@
       "city": "Sandoval County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w777689154",
@@ -5119,7 +5363,9 @@
       "city": "Sandoval County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w790977751",
@@ -5170,7 +5416,9 @@
       "city": "Santa Fe County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w795470373",
@@ -5187,7 +5435,9 @@
       "city": "Fort Selden",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w796747743",
@@ -5221,7 +5471,9 @@
       "city": "Grant County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w802991643",
@@ -5238,7 +5490,9 @@
       "city": "Jemez Springs",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w806410082",
@@ -5274,7 +5528,9 @@
       "city": "Taos County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w807925242",
@@ -5291,7 +5547,9 @@
       "city": "Taos County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w814452236",
@@ -5342,7 +5600,9 @@
       "city": "Bernalillo County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w820022601",
@@ -5376,7 +5636,9 @@
       "city": "Santa Fe County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w831731546",
@@ -5461,7 +5723,9 @@
       "city": "Tijeras",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w848968207",
@@ -5495,7 +5759,9 @@
       "city": "Corrales",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w852557488",
@@ -5512,7 +5778,9 @@
       "city": "Corrales",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w853014720",
@@ -5529,7 +5797,9 @@
       "city": "Corrales",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w853014722",
@@ -5546,7 +5816,9 @@
       "city": "Corrales",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w853341167",
@@ -5563,7 +5835,9 @@
       "city": "Corrales",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w861235009",
@@ -5580,7 +5854,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w862126719",
@@ -5597,7 +5873,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w862130059",
@@ -5614,7 +5892,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w862837345",
@@ -5631,7 +5911,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w863045947",
@@ -5665,7 +5947,9 @@
       "city": "White Rock",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w863278430",
@@ -5752,7 +6036,9 @@
       "city": "Rio Rancho",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w871571939",
@@ -5803,7 +6089,9 @@
       "city": "Rio Rancho",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w896708410",
@@ -5839,7 +6127,9 @@
       "city": "Grants",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w902882664",
@@ -5890,7 +6180,9 @@
       "city": "McKinley County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w914893809",
@@ -5907,7 +6199,9 @@
       "city": "McKinley County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w922584605",
@@ -5924,7 +6218,9 @@
       "city": "Corrales",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w922776311",
@@ -6028,7 +6324,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w996500894",
@@ -6064,7 +6362,9 @@
       "city": "Edgewood",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w998405451",
@@ -6098,7 +6398,9 @@
       "city": "Tularosa",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1015276418",
@@ -6149,7 +6451,9 @@
       "city": "San Miguel County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1067454183",
@@ -6166,7 +6470,9 @@
       "city": "Hidalgo County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1098234464",
@@ -6217,7 +6523,9 @@
       "city": "Paradise Hills",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1123382966",
@@ -6234,7 +6542,9 @@
       "city": "San Miguel County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1124750410",
@@ -6251,7 +6561,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1148797676",
@@ -6268,7 +6580,9 @@
       "city": "Crownpoint",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1149648049",
@@ -6285,7 +6599,9 @@
       "city": "Valencia County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1149648058",
@@ -6302,7 +6618,9 @@
       "city": "Valencia County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1150327482",
@@ -6319,7 +6637,9 @@
       "city": "Angel Fire",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1150602450",
@@ -6336,7 +6656,9 @@
       "city": "Taos County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1150602472",
@@ -6353,7 +6675,9 @@
       "city": "Taos County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1172324787",
@@ -6387,7 +6711,9 @@
       "city": "Sandoval County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1178216232",
@@ -6404,7 +6730,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1182617276",
@@ -6438,7 +6766,9 @@
       "city": "Santa Fe County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-r16442394",
@@ -6472,7 +6802,9 @@
       "city": "Sandoval County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1226629979",
@@ -6635,7 +6967,9 @@
       "city": "Lincoln County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1315444866",
@@ -6652,7 +6986,9 @@
       "city": "Grants",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1318605601",
@@ -6739,7 +7075,9 @@
       "city": "Pojoaque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1354238433",
@@ -6756,7 +7094,9 @@
       "city": "Sandoval County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356674200",
@@ -6773,7 +7113,9 @@
       "city": "Hatch",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1363555413",
@@ -6790,7 +7132,9 @@
       "city": "Santa Teresa",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1363616657",
@@ -6826,7 +7170,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1389968479",
@@ -6843,7 +7189,9 @@
       "city": "Grants",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1396832889",
@@ -6877,7 +7225,9 @@
       "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1421892531",
@@ -6894,7 +7244,9 @@
       "city": "Santa Fe County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1424316355",
@@ -6928,7 +7280,9 @@
       "city": "Rio Rancho",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1427740286",
@@ -6945,7 +7299,9 @@
       "city": "Bernalillo County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1429422951",
@@ -6979,7 +7335,9 @@
       "city": "Ruidoso",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1431883180",
@@ -7047,7 +7405,9 @@
       "city": "Bosque Farms",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443065755",
@@ -7257,7 +7617,9 @@
       "city": "Nambe Pueblo",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1466935400",
@@ -7732,7 +8094,9 @@
       "city": "Loving",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1467150463",
@@ -7787,7 +8151,9 @@
       "city": "Curry County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1467151894",
@@ -7821,7 +8187,9 @@
       "city": "Las Vegas",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1503649504",
@@ -7838,7 +8206,9 @@
       "city": "Santa Fe County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1503649579",
@@ -7872,7 +8242,9 @@
       "city": "Bernalillo County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512387480",
@@ -7889,7 +8261,9 @@
       "city": "Hurley",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1514689771",
@@ -7906,7 +8280,9 @@
       "city": "Quay County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1516732829",
@@ -7940,7 +8316,9 @@
       "city": "Taos County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526119377",
@@ -7974,7 +8352,9 @@
       "city": "Santa Fe County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526546859",
@@ -7991,7 +8371,9 @@
       "city": "Grant County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1527949480",
@@ -8008,7 +8390,9 @@
       "city": "Farmington",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1528327055",
@@ -8044,7 +8428,9 @@
       "city": "Animas",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1529932558",
@@ -8078,7 +8464,9 @@
       "city": "Rio Rancho",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1536312688",

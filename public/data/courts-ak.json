@@ -51,7 +51,9 @@
       "city": "Fairbanks",
       "state": "AK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w303593600",
@@ -225,7 +227,9 @@
       "city": "Soldotna",
       "state": "AK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w294465155",
@@ -429,7 +433,9 @@
       "city": "Juneau",
       "state": "AK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w339008138",
@@ -446,7 +452,9 @@
       "city": "Juneau",
       "state": "AK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w351056327",
@@ -480,7 +488,9 @@
       "city": "Kodiak",
       "state": "AK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w389326009",
@@ -675,7 +685,9 @@
       "city": "Anchorage",
       "state": "AK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w658560307",
@@ -728,7 +740,9 @@
       "city": "Soldotna",
       "state": "AK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w770719019",
@@ -864,7 +878,9 @@
       "city": "Anchorage",
       "state": "AK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w834284457",
@@ -917,7 +933,9 @@
       "city": "Fairbanks North Star Borough",
       "state": "AK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w926237026",
@@ -985,7 +1003,9 @@
       "city": "Anchorage",
       "state": "AK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1028810943",
@@ -1002,7 +1022,9 @@
       "city": "Wasilla",
       "state": "AK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1056327906",
@@ -1036,7 +1058,9 @@
       "city": "Seldovia",
       "state": "AK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1227350469",

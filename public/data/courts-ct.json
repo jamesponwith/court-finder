@@ -108,7 +108,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-n13910897068",
@@ -125,7 +127,9 @@
       "city": "Simsbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-n13910920104",
@@ -159,7 +163,9 @@
       "city": "Middlebury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-n13954893428",
@@ -176,7 +182,9 @@
       "city": "Middlebury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w28825087",
@@ -229,7 +237,9 @@
       "city": "New Haven",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w42958105",
@@ -338,7 +348,9 @@
       "city": "New Canaan",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w49996836",
@@ -408,7 +420,9 @@
       "city": "Manchester",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w95559439",
@@ -444,7 +458,9 @@
       "city": "Enfield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w97984031",
@@ -461,7 +477,9 @@
       "city": "Hartford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w98005520",
@@ -531,7 +549,9 @@
       "city": "Ledyard",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w134999247",
@@ -548,7 +568,9 @@
       "city": "Vernon",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w138950291",
@@ -565,7 +587,9 @@
       "city": "Simsbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w138958181",
@@ -658,7 +682,9 @@
       "city": "Simsbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w140964594",
@@ -675,7 +701,9 @@
       "city": "Simsbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w141108998",
@@ -709,7 +737,9 @@
       "city": "Simsbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w143975921",
@@ -726,7 +756,9 @@
       "city": "Simsbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w144133338",
@@ -743,7 +775,9 @@
       "city": "Simsbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w144133347",
@@ -760,7 +794,9 @@
       "city": "Simsbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w144133369",
@@ -777,7 +813,9 @@
       "city": "Simsbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w144319245",
@@ -794,7 +832,9 @@
       "city": "Simsbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w150547123",
@@ -934,7 +974,9 @@
       "city": "Bloomfield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w167281590",
@@ -951,7 +993,9 @@
       "city": "Bethel",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w167281591",
@@ -1004,7 +1048,9 @@
       "city": "Danbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w168053027",
@@ -1038,7 +1084,9 @@
       "city": "Old Saybrook",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w170140791",
@@ -1072,7 +1120,9 @@
       "city": "Old Saybrook",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w170156761",
@@ -1626,7 +1676,9 @@
       "city": "Groton",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w221558859",
@@ -1679,7 +1731,9 @@
       "city": "Old Lyme",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w222652100",
@@ -1696,7 +1750,9 @@
       "city": "East Lyme",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w222790370",
@@ -1713,7 +1769,9 @@
       "city": "Old Lyme",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w222968548",
@@ -1747,7 +1805,9 @@
       "city": "Old Saybrook",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w223056341",
@@ -1764,7 +1824,9 @@
       "city": "Westbrook",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w223149275",
@@ -1819,7 +1881,9 @@
       "city": "Mansfield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w230067890",
@@ -1836,7 +1900,9 @@
       "city": "Mansfield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w230068617",
@@ -1853,7 +1919,9 @@
       "city": "Mansfield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w232270604",
@@ -1889,7 +1957,9 @@
       "city": "East Hampton",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w233919011",
@@ -1980,7 +2050,9 @@
       "city": "Guilford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w238840443",
@@ -2016,7 +2088,9 @@
       "city": "South Windsor",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w242663061",
@@ -2033,7 +2107,9 @@
       "city": "Southbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w258237292",
@@ -2050,7 +2126,9 @@
       "city": "New Hartford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w258362539",
@@ -2067,7 +2145,9 @@
       "city": "Ridgefield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w258362540",
@@ -2084,7 +2164,9 @@
       "city": "New Fairfield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w258362543",
@@ -2101,7 +2183,9 @@
       "city": "Ridgefield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w258362544",
@@ -2118,7 +2202,9 @@
       "city": "Ridgefield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w258362545",
@@ -2135,7 +2221,9 @@
       "city": "New Fairfield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w269831599",
@@ -2152,7 +2240,9 @@
       "city": "Washington",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w276625409",
@@ -2260,7 +2350,9 @@
       "city": "Meriden",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w289318202",
@@ -2311,7 +2403,9 @@
       "city": "Farmington",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w291220234",
@@ -2328,7 +2422,9 @@
       "city": "Simsbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w291220235",
@@ -2345,7 +2441,9 @@
       "city": "Simsbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w293474890",
@@ -2362,7 +2460,9 @@
       "city": "Middlebury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w306471570",
@@ -2500,7 +2600,9 @@
       "city": "Beacon Falls",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w306784235",
@@ -2534,7 +2636,9 @@
       "city": "Ansonia",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w306788947",
@@ -2933,7 +3037,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w310813381",
@@ -2950,7 +3056,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w310814163",
@@ -2967,7 +3075,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w310816399",
@@ -2984,7 +3094,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w310909512",
@@ -3001,7 +3113,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w310912426",
@@ -3018,7 +3132,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w310950252",
@@ -3035,7 +3151,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w311094078",
@@ -3069,7 +3187,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w311113888",
@@ -3086,7 +3206,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w311175951",
@@ -3103,7 +3225,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w311176770",
@@ -3120,7 +3244,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w311178103",
@@ -3137,7 +3263,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w313773979",
@@ -3260,7 +3388,9 @@
       "city": "Hamden",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w342212012",
@@ -3277,7 +3407,9 @@
       "city": "Madison",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w346011496",
@@ -3328,7 +3460,9 @@
       "city": "Weston",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w358275915",
@@ -3345,7 +3479,9 @@
       "city": "New Haven",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w358670434",
@@ -3362,7 +3498,9 @@
       "city": "Rocky Hill",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w360420101",
@@ -3472,7 +3610,9 @@
       "city": "Stamford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w380319069",
@@ -3559,7 +3699,9 @@
       "city": "Norwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w382365861",
@@ -3665,7 +3807,9 @@
       "city": "Willington",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w386070194",
@@ -3682,7 +3826,9 @@
       "city": "Warrenville",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w386397958",
@@ -3699,7 +3845,9 @@
       "city": "Shelton",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w390546566",
@@ -3733,7 +3881,9 @@
       "city": "Westbrook",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w397176553",
@@ -3750,7 +3900,9 @@
       "city": "Westport",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w402258605",
@@ -3835,7 +3987,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w432756310",
@@ -3886,7 +4040,9 @@
       "city": "Monroe",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w439589226",
@@ -3956,7 +4112,9 @@
       "city": "Middletown",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w442138933",
@@ -4066,7 +4224,9 @@
       "city": "Newington",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w448755616",
@@ -4175,7 +4335,9 @@
       "city": "Mystic",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w468512055",
@@ -4192,7 +4354,9 @@
       "city": "Groton",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w469283014",
@@ -4226,7 +4390,9 @@
       "city": "Milford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w475406590",
@@ -4243,7 +4409,9 @@
       "city": "Wallingford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w478279287",
@@ -4330,7 +4498,9 @@
       "city": "Madison",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w488954466",
@@ -4347,7 +4517,9 @@
       "city": "Madison",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w488954467",
@@ -4364,7 +4536,9 @@
       "city": "Madison",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w492646492",
@@ -4398,7 +4572,9 @@
       "city": "New Milford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w514602431",
@@ -4451,7 +4627,9 @@
       "city": "Kent",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w521109343",
@@ -4468,7 +4646,9 @@
       "city": "Kent",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w522284118",
@@ -4538,7 +4718,9 @@
       "city": "Kent",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w525046334",
@@ -4555,7 +4737,9 @@
       "city": "Cornwall",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w525360001",
@@ -4572,7 +4756,9 @@
       "city": "Kent",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w532020687",
@@ -4608,7 +4794,9 @@
       "city": "Goshen",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w532698078",
@@ -4659,7 +4847,9 @@
       "city": "Salisbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w535373958",
@@ -4729,7 +4919,9 @@
       "city": "Guilford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w541175622",
@@ -4746,7 +4938,9 @@
       "city": "Guilford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w541175624",
@@ -4780,7 +4974,9 @@
       "city": "Guilford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w546585200",
@@ -4797,7 +4993,9 @@
       "city": "Stamford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w546616978",
@@ -4814,7 +5012,9 @@
       "city": "Stamford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w546620086",
@@ -4850,7 +5050,9 @@
       "city": "Stamford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w546728676",
@@ -4884,7 +5086,9 @@
       "city": "Branford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w548208755",
@@ -4901,7 +5105,9 @@
       "city": "Branford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w555260510",
@@ -4954,7 +5160,9 @@
       "city": "Meriden",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w565636648",
@@ -4971,7 +5179,9 @@
       "city": "Farmington",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w569792191",
@@ -5007,7 +5217,9 @@
       "city": "Branford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w574629557",
@@ -5024,7 +5236,9 @@
       "city": "Hartford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w587260458",
@@ -5077,7 +5291,9 @@
       "city": "Southbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w607979465",
@@ -5251,7 +5467,9 @@
       "city": "Mansfield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w658602039",
@@ -5285,7 +5503,9 @@
       "city": "Westport",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w660437373",
@@ -5372,7 +5592,9 @@
       "city": "Westport",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w664164402",
@@ -5457,7 +5679,9 @@
       "city": "Westport",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w670148265",
@@ -5563,7 +5787,9 @@
       "city": "Naugatuck",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w677576957",
@@ -5597,7 +5823,9 @@
       "city": "Shelton",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w677786480",
@@ -5614,7 +5842,9 @@
       "city": "Waterford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w677786947",
@@ -5631,7 +5861,9 @@
       "city": "Waterford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w678311998",
@@ -5648,7 +5880,9 @@
       "city": "Bethany",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w682034391",
@@ -5682,7 +5916,9 @@
       "city": "Salisbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w683468624",
@@ -5699,7 +5935,9 @@
       "city": "Salisbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w683468633",
@@ -5735,7 +5973,9 @@
       "city": "Salisbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w692126440",
@@ -5752,7 +5992,9 @@
       "city": "Burlington",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w693120856",
@@ -5820,7 +6062,9 @@
       "city": "Salisbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w693613264",
@@ -5837,7 +6081,9 @@
       "city": "Salisbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w695981176",
@@ -5854,7 +6100,9 @@
       "city": "Farmington",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w695981178",
@@ -5871,7 +6119,9 @@
       "city": "Avon",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w695981188",
@@ -5888,7 +6138,9 @@
       "city": "Avon",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w695981189",
@@ -5905,7 +6157,9 @@
       "city": "Avon",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w695981190",
@@ -5922,7 +6176,9 @@
       "city": "Avon",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w695981191",
@@ -5939,7 +6195,9 @@
       "city": "Avon",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w695983491",
@@ -6185,7 +6443,9 @@
       "city": "North Haven",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w725712733",
@@ -6202,7 +6462,9 @@
       "city": "East Haven",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w727083437",
@@ -6236,7 +6498,9 @@
       "city": "Harwinton",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w732488806",
@@ -6321,7 +6585,9 @@
       "city": "Norwalk",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w738368324",
@@ -6338,7 +6604,9 @@
       "city": "Salisbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w738477833",
@@ -6355,7 +6623,9 @@
       "city": "Washington",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w739909143",
@@ -6372,7 +6642,9 @@
       "city": "Washington",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w743461841",
@@ -6389,7 +6661,9 @@
       "city": "Mansfield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w744153935",
@@ -6406,7 +6680,9 @@
       "city": "Hebron",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w744448598",
@@ -6457,7 +6733,9 @@
       "city": "Roxbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w751202385",
@@ -6474,7 +6752,9 @@
       "city": "Sharon",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w753132380",
@@ -6491,7 +6771,9 @@
       "city": "Stonington",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w753168168",
@@ -6508,7 +6790,9 @@
       "city": "Mystic",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w753603108",
@@ -6525,7 +6809,9 @@
       "city": "Madison",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w753603117",
@@ -6542,7 +6828,9 @@
       "city": "Guilford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w761114884",
@@ -6559,7 +6847,9 @@
       "city": "Cornwall",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w763260980",
@@ -6593,7 +6883,9 @@
       "city": "Woodbridge",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w768700199",
@@ -6610,7 +6902,9 @@
       "city": "East Haddam",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w768825979",
@@ -6627,7 +6921,9 @@
       "city": "Willington",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w774892890",
@@ -6644,7 +6940,9 @@
       "city": "Mansfield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w774892891",
@@ -6661,7 +6959,9 @@
       "city": "Willington",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w775328593",
@@ -6697,7 +6997,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w784362286",
@@ -6714,7 +7016,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w784647867",
@@ -6839,7 +7143,9 @@
       "city": "Salisbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w815884382",
@@ -6856,7 +7162,9 @@
       "city": "Middlebury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w818873625",
@@ -6873,7 +7181,9 @@
       "city": "Salisbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w818873631",
@@ -6890,7 +7200,9 @@
       "city": "Salisbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w829757052",
@@ -6907,7 +7219,9 @@
       "city": "Watertown",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w838027162",
@@ -6960,7 +7274,9 @@
       "city": "Farmington",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w840987934",
@@ -7086,7 +7402,9 @@
       "city": "Cheshire",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w845221544",
@@ -7103,7 +7421,9 @@
       "city": "New Milford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w845419274",
@@ -7120,7 +7440,9 @@
       "city": "Woodstock",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w846425099",
@@ -7137,7 +7459,9 @@
       "city": "Redding",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w853758120",
@@ -7190,7 +7514,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w862945425",
@@ -7207,7 +7533,9 @@
       "city": "Easton",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w863110966",
@@ -7241,7 +7569,9 @@
       "city": "Newtown",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w863729627",
@@ -7258,7 +7588,9 @@
       "city": "New Canaan",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w863729629",
@@ -7275,7 +7607,9 @@
       "city": "Norwalk",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w863729630",
@@ -7292,7 +7626,9 @@
       "city": "New Canaan",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w863729631",
@@ -7309,7 +7645,9 @@
       "city": "New Canaan",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w863729632",
@@ -7326,7 +7664,9 @@
       "city": "Norwalk",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w863729651",
@@ -7343,7 +7683,9 @@
       "city": "Weston",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w863729652",
@@ -7360,7 +7702,9 @@
       "city": "Weston",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w864942062",
@@ -7377,7 +7721,9 @@
       "city": "New Canaan",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w865255682",
@@ -7394,7 +7740,9 @@
       "city": "Bethel",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w866093160",
@@ -7428,7 +7776,9 @@
       "city": "Stamford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w868567968",
@@ -7445,7 +7795,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w868567975",
@@ -7462,7 +7814,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w868567978",
@@ -7479,7 +7833,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w868567980",
@@ -7496,7 +7852,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w871515456",
@@ -7513,7 +7871,9 @@
       "city": "Washington",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w883102714",
@@ -7585,7 +7945,9 @@
       "city": "Washington",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w887054379",
@@ -7621,7 +7983,9 @@
       "city": "Washington Depot",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w887054407",
@@ -7638,7 +8002,9 @@
       "city": "Warren",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w888305433",
@@ -7727,7 +8093,9 @@
       "city": "Granby",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w891057301",
@@ -7763,7 +8131,9 @@
       "city": "Bridgewater",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w893134327",
@@ -7797,7 +8167,9 @@
       "city": "Fairfield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w897885862",
@@ -7831,7 +8203,9 @@
       "city": "Stamford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w898346784",
@@ -7848,7 +8222,9 @@
       "city": "New Canaan",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w898346789",
@@ -7865,7 +8241,9 @@
       "city": "New Canaan",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w898346790",
@@ -7882,7 +8260,9 @@
       "city": "New Canaan",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w904270160",
@@ -7933,7 +8313,9 @@
       "city": "Westport",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w908216059",
@@ -7950,7 +8332,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w908315967",
@@ -7967,7 +8351,9 @@
       "city": "Easton",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w908315974",
@@ -7984,7 +8370,9 @@
       "city": "Easton",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w908315975",
@@ -8001,7 +8389,9 @@
       "city": "Easton",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w908315978",
@@ -8018,7 +8408,9 @@
       "city": "Easton",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w908315979",
@@ -8035,7 +8427,9 @@
       "city": "Easton",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w908315981",
@@ -8052,7 +8446,9 @@
       "city": "Easton",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w908315988",
@@ -8069,7 +8465,9 @@
       "city": "Easton",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w908316003",
@@ -8086,7 +8484,9 @@
       "city": "Easton",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w908524044",
@@ -8103,7 +8503,9 @@
       "city": "New Canaan",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w919361223",
@@ -8120,7 +8522,9 @@
       "city": "Norwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w919361224",
@@ -8188,7 +8592,9 @@
       "city": "Fairfield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w932206929",
@@ -8222,7 +8628,9 @@
       "city": "Lisbon",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w934886670",
@@ -8313,7 +8721,9 @@
       "city": "Bloomfield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w938210033",
@@ -8330,7 +8740,9 @@
       "city": "Bloomfield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w942774367",
@@ -8381,7 +8793,9 @@
       "city": "Sharon",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w944098626",
@@ -8398,7 +8812,9 @@
       "city": "Kent",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w944725451",
@@ -8432,7 +8848,9 @@
       "city": "Lyme",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w945790840",
@@ -8449,7 +8867,9 @@
       "city": "Lyme",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w946658999",
@@ -8500,7 +8920,9 @@
       "city": "Avon",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w947540696",
@@ -8517,7 +8939,9 @@
       "city": "Washington",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w949557186",
@@ -8568,7 +8992,9 @@
       "city": "Willimantic",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w963305719",
@@ -8602,7 +9028,9 @@
       "city": "Avon",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w972682957",
@@ -8638,7 +9066,9 @@
       "city": "Chester",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w993121391",
@@ -8693,7 +9123,9 @@
       "city": "Bethel",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1004519140",
@@ -8748,7 +9180,9 @@
       "city": "Norwalk",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1012121049",
@@ -8765,7 +9199,9 @@
       "city": "Shelton",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1013753857",
@@ -8782,7 +9218,9 @@
       "city": "Fairfield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1013851419",
@@ -8799,7 +9237,9 @@
       "city": "Fairfield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1014170786",
@@ -8869,7 +9309,9 @@
       "city": "Cornwall",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1047703884",
@@ -8956,7 +9398,9 @@
       "city": "Farmington",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1054932345",
@@ -8973,7 +9417,9 @@
       "city": "Coventry",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1056717225",
@@ -8990,7 +9436,9 @@
       "city": "Litchfield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1056717227",
@@ -9007,7 +9455,9 @@
       "city": "Litchfield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1056717245",
@@ -9024,7 +9474,9 @@
       "city": "Washington",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1057668018",
@@ -9041,7 +9493,9 @@
       "city": "Clinton",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1057764738",
@@ -9077,7 +9531,9 @@
       "city": "Old Lyme",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1059479475",
@@ -9111,7 +9567,9 @@
       "city": "Bethany",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1065763846",
@@ -9128,7 +9586,9 @@
       "city": "West Hartford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1069448094",
@@ -9162,7 +9622,9 @@
       "city": "Salisbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1078698937",
@@ -9179,7 +9641,9 @@
       "city": "Salisbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1081851692",
@@ -9196,7 +9660,9 @@
       "city": "Deep River",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1082584064",
@@ -9213,7 +9679,9 @@
       "city": "Redding",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1082994358",
@@ -9249,7 +9717,9 @@
       "city": "Brookfield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1083666267",
@@ -9285,7 +9755,9 @@
       "city": "Brookfield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1085841752",
@@ -9302,7 +9774,9 @@
       "city": "Norfolk",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1086495126",
@@ -9353,7 +9827,9 @@
       "city": "Brookfield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1089352198",
@@ -9370,7 +9846,9 @@
       "city": "Marlborough",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1093703964",
@@ -9387,7 +9865,9 @@
       "city": "Stamford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1093705481",
@@ -9404,7 +9884,9 @@
       "city": "Stamford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1096864582",
@@ -9438,7 +9920,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1106863328",
@@ -9512,7 +9996,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1107736382",
@@ -9529,7 +10015,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1107742227",
@@ -9546,7 +10034,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1107877717",
@@ -9580,7 +10070,9 @@
       "city": "Cheshire",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1120750221",
@@ -9597,7 +10089,9 @@
       "city": "Fairfield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1120750227",
@@ -9614,7 +10108,9 @@
       "city": "Fairfield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1120750230",
@@ -9631,7 +10127,9 @@
       "city": "Fairfield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1120750246",
@@ -9648,7 +10146,9 @@
       "city": "Fairfield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1120750249",
@@ -9665,7 +10165,9 @@
       "city": "Fairfield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1120750256",
@@ -9682,7 +10184,9 @@
       "city": "Westport",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1123721503",
@@ -9699,7 +10203,9 @@
       "city": "Winchester",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1123766384",
@@ -9716,7 +10222,9 @@
       "city": "Harwinton",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1128205737",
@@ -9733,7 +10241,9 @@
       "city": "Tolland",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1133019133",
@@ -9767,7 +10277,9 @@
       "city": "Bridgewater",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1134418512",
@@ -9784,7 +10296,9 @@
       "city": "Bridgewater",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1134596080",
@@ -9801,7 +10315,9 @@
       "city": "Brookfield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1137127292",
@@ -9818,7 +10334,9 @@
       "city": "Bloomfield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1151428729",
@@ -9835,7 +10353,9 @@
       "city": "Durham",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1151615490",
@@ -9852,7 +10372,9 @@
       "city": "New Fairfield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1151615496",
@@ -9869,7 +10391,9 @@
       "city": "New Fairfield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1154635667",
@@ -9905,7 +10429,9 @@
       "city": "Branford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1178223139",
@@ -9977,7 +10503,9 @@
       "city": "Roxbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1202019924",
@@ -10440,7 +10968,9 @@
       "city": "Fitchville",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1211579942",
@@ -10457,7 +10987,9 @@
       "city": "Stafford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1211579944",
@@ -10474,7 +11006,9 @@
       "city": "Stafford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1211661979",
@@ -10491,7 +11025,9 @@
       "city": "Old Lyme",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1211740640",
@@ -10920,7 +11456,9 @@
       "city": "Windsor",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1221436940",
@@ -10956,7 +11494,9 @@
       "city": "Madison",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1230969846",
@@ -10973,7 +11513,9 @@
       "city": "Ellington",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1231240588",
@@ -10990,7 +11532,9 @@
       "city": "East Windsor",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1231597932",
@@ -11168,7 +11712,9 @@
       "city": "Branford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1245413497",
@@ -11257,7 +11803,9 @@
       "city": "South Windsor",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1263353953",
@@ -11274,7 +11822,9 @@
       "city": "Prospect",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1264081107",
@@ -11363,7 +11913,9 @@
       "city": "Sherman",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1291598942",
@@ -11380,7 +11932,9 @@
       "city": "Stamford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1293472101",
@@ -11433,7 +11987,9 @@
       "city": "Enfield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1322410229",
@@ -11552,7 +12108,9 @@
       "city": "Union",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1340909707",
@@ -11569,7 +12127,9 @@
       "city": "Hartland",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1341028691",
@@ -11586,7 +12146,9 @@
       "city": "Glastonbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1354040247",
@@ -11620,7 +12182,9 @@
       "city": "Vernon",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1377920876",
@@ -11654,7 +12218,9 @@
       "city": "Westport",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1379397068",
@@ -11671,7 +12237,9 @@
       "city": "Wilton",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1380433598",
@@ -11688,7 +12256,9 @@
       "city": "Suffield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1381997938",
@@ -11705,7 +12275,9 @@
       "city": "West Hartford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1382105344",
@@ -11722,7 +12294,9 @@
       "city": "Cheshire",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1382375640",
@@ -11758,7 +12332,9 @@
       "city": "Fairfield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1382821711",
@@ -11775,7 +12351,9 @@
       "city": "Weston",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1383278283",
@@ -11792,7 +12370,9 @@
       "city": "South Windsor",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1383843204",
@@ -11809,7 +12389,9 @@
       "city": "Weston",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1383846147",
@@ -11826,7 +12408,9 @@
       "city": "Weston",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1390766327",
@@ -11843,7 +12427,9 @@
       "city": "Killingworth",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1393270366",
@@ -11860,7 +12446,9 @@
       "city": "Sherman",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1394560554",
@@ -11877,7 +12465,9 @@
       "city": "Enfield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1394560658",
@@ -11949,7 +12539,9 @@
       "city": "Meriden",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1410106555",
@@ -11966,7 +12558,9 @@
       "city": "Scotland",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1411626812",
@@ -11983,7 +12577,9 @@
       "city": "New Canaan",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1411636604",
@@ -12000,7 +12596,9 @@
       "city": "Washington Depot",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1411636605",
@@ -12017,7 +12615,9 @@
       "city": "Washington",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1411916084",
@@ -12034,7 +12634,9 @@
       "city": "Stamford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1411919429",
@@ -12051,7 +12653,9 @@
       "city": "Woodbridge",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1411936835",
@@ -12068,7 +12672,9 @@
       "city": "Litchfield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1411938936",
@@ -12085,7 +12691,9 @@
       "city": "Orange",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1411942754",
@@ -12153,7 +12761,9 @@
       "city": "New Canaan",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1421480042",
@@ -12187,7 +12797,9 @@
       "city": "Roxbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1425534069",
@@ -12431,7 +13043,9 @@
       "city": "Farmington",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1434631626",
@@ -12482,7 +13096,9 @@
       "city": "Salisbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1434987908",
@@ -12499,7 +13115,9 @@
       "city": "Salisbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435118717",
@@ -12535,7 +13153,9 @@
       "city": "Salisbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435163131",
@@ -12571,7 +13191,9 @@
       "city": "Kent",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435163185",
@@ -12588,7 +13210,9 @@
       "city": "Sharon",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435163207",
@@ -12605,7 +13229,9 @@
       "city": "Sharon",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435163211",
@@ -12622,7 +13248,9 @@
       "city": "Sharon",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435180859",
@@ -12639,7 +13267,9 @@
       "city": "Salisbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435180892",
@@ -12656,7 +13286,9 @@
       "city": "Norfolk",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435180925",
@@ -12673,7 +13305,9 @@
       "city": "Salisbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435180927",
@@ -12690,7 +13324,9 @@
       "city": "Salisbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435180929",
@@ -12707,7 +13343,9 @@
       "city": "Salisbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435180951",
@@ -12724,7 +13362,9 @@
       "city": "Sherman",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435180959",
@@ -12741,7 +13381,9 @@
       "city": "Sherman",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435180963",
@@ -12758,7 +13400,9 @@
       "city": "Sherman",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435180970",
@@ -12775,7 +13419,9 @@
       "city": "New Milford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435918746",
@@ -12811,7 +13457,9 @@
       "city": "Madison",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1436252677",
@@ -12828,7 +13476,9 @@
       "city": "Madison",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1436586596",
@@ -12972,7 +13622,9 @@
       "city": "Groton",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443529921",
@@ -13006,7 +13658,9 @@
       "city": "Morris",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443836475",
@@ -13080,7 +13734,9 @@
       "city": "Bolton",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1445294579",
@@ -13150,7 +13806,9 @@
       "city": "Litchfield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1445697414",
@@ -13167,7 +13825,9 @@
       "city": "Litchfield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1445697544",
@@ -13239,7 +13899,9 @@
       "city": "Salisbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1460215174",
@@ -13309,7 +13971,9 @@
       "city": "Ashford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469015400",
@@ -13362,7 +14026,9 @@
       "city": "Hampton",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1475417090",
@@ -13379,7 +14045,9 @@
       "city": "West Haven",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1476729462",
@@ -13447,7 +14115,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1484792893",
@@ -13640,7 +14310,9 @@
       "city": "Oxford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1487791418",
@@ -13693,7 +14365,9 @@
       "city": "Old Lyme",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1487843325",
@@ -13886,7 +14560,9 @@
       "city": "Stamford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1494317804",
@@ -13903,7 +14579,9 @@
       "city": "Stamford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1494692645",
@@ -14026,7 +14704,9 @@
       "city": "East Windsor",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1495319504",
@@ -14060,7 +14740,9 @@
       "city": "Bristol",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1495708999",
@@ -14170,7 +14852,9 @@
       "city": "Roxbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1497947543",
@@ -14187,7 +14871,9 @@
       "city": "Westbrook",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1498113478",
@@ -14329,7 +15015,9 @@
       "city": "Canton",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1499577516",
@@ -14418,7 +15106,9 @@
       "city": "Groton",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1500054437",
@@ -14490,7 +15180,9 @@
       "city": "East Lyme",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1500058491",
@@ -14507,7 +15199,9 @@
       "city": "East Lyme",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1500058894",
@@ -14577,7 +15271,9 @@
       "city": "Westbrook",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1500066361",
@@ -14594,7 +15290,9 @@
       "city": "Bozrah",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1500258160",
@@ -14876,7 +15574,9 @@
       "city": "Ridgefield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1504262237",
@@ -14893,7 +15593,9 @@
       "city": "Sterling",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1504268611",
@@ -14929,7 +15631,9 @@
       "city": "Enfield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1504270518",
@@ -14946,7 +15650,9 @@
       "city": "Stamford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1504270525",
@@ -14963,7 +15669,9 @@
       "city": "Stamford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1504271118",
@@ -15071,7 +15779,9 @@
       "city": "Barkhamsted",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1504751608",
@@ -15139,7 +15849,9 @@
       "city": "Marlborough",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1504761607",
@@ -15207,7 +15919,9 @@
       "city": "Manchester",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1504762363",
@@ -15512,7 +16226,9 @@
       "city": "New Hartford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1505408373",
@@ -15546,7 +16262,9 @@
       "city": "Farmington",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1505408487",
@@ -15563,7 +16281,9 @@
       "city": "Farmington",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1505408967",
@@ -15684,7 +16404,9 @@
       "city": "West Hartford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1505410144",
@@ -15701,7 +16423,9 @@
       "city": "Bloomfield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1505410359",
@@ -15737,7 +16461,9 @@
       "city": "Rocky Hill",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1505410592",
@@ -15936,7 +16662,9 @@
       "city": "Cornwall",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1507764944",
@@ -16040,7 +16768,9 @@
       "city": "Farmington",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1508132770",
@@ -16093,7 +16823,9 @@
       "city": "Southington",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1508136182",
@@ -16110,7 +16842,9 @@
       "city": "Southington",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1508136351",
@@ -16163,7 +16897,9 @@
       "city": "Brookfield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1508139381",
@@ -16341,7 +17077,9 @@
       "city": "Shelton",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1508631246",
@@ -16394,7 +17132,9 @@
       "city": "Milford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1508637753",
@@ -16464,7 +17204,9 @@
       "city": "Darien",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1508638651",
@@ -16553,7 +17295,9 @@
       "city": "New Milford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1508852275",
@@ -16587,7 +17331,9 @@
       "city": "Sherman",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1508852738",
@@ -16712,7 +17458,9 @@
       "city": "Groton",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512412508",
@@ -16729,7 +17477,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512412578",
@@ -16746,7 +17496,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512412729",
@@ -16763,7 +17515,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512412732",
@@ -16780,7 +17534,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512412947",
@@ -16797,7 +17553,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512412949",
@@ -16814,7 +17572,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512413083",
@@ -16831,7 +17591,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512413149",
@@ -16848,7 +17610,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512413263",
@@ -16865,7 +17629,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512413440",
@@ -16882,7 +17648,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512417131",
@@ -16899,7 +17667,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1514091837",
@@ -16986,7 +17756,9 @@
       "city": "Salisbury",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1518639323",
@@ -17037,7 +17809,9 @@
       "city": "Stamford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1525650331",
@@ -17071,7 +17845,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526270227",
@@ -17141,7 +17917,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526338774",
@@ -17158,7 +17936,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526624300",
@@ -17175,7 +17955,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526628566",
@@ -17192,7 +17974,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526635093",
@@ -17209,7 +17993,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526642456",
@@ -17226,7 +18012,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526642526",
@@ -17243,7 +18031,9 @@
       "city": "Banksville",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526655934",
@@ -17260,7 +18050,9 @@
       "city": "Stamford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526656342",
@@ -17277,7 +18069,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526656805",
@@ -17294,7 +18088,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526668996",
@@ -17311,7 +18107,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526669082",
@@ -17328,7 +18126,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526669712",
@@ -17345,7 +18145,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526670113",
@@ -17362,7 +18164,9 @@
       "city": "Wolcott",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526670208",
@@ -17379,7 +18183,9 @@
       "city": "Madison",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526670266",
@@ -17396,7 +18202,9 @@
       "city": "Stamford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526670626",
@@ -17413,7 +18221,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526694633",
@@ -17430,7 +18240,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1527531923",
@@ -17447,7 +18259,9 @@
       "city": "Greenwich",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1530456855",
@@ -17481,7 +18295,9 @@
       "city": "Stamford",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1531994016",
@@ -17532,7 +18348,9 @@
       "city": "East Granby",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552053086",

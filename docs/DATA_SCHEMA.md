@@ -158,7 +158,7 @@ stays valid across normalize runs; it is only consulted, never required.
 | `city`       | string \| null                              | From OSM `addr:city`; for NYC Parks records the borough is derived from the `Prop_ID` prefix (M/B/Q/X/R); else from the geocode cache (`city`/`town`/`village`/`suburb`, else `county`). |
 | `state`      | 2-letter USPS code                          | The region's configured state code (see the region table). |
 | `source`     | `"osm" \| "nycparks" \| "merged"`           | `merged` = OSM cluster enriched with a matching NYC Parks record. |
-| `tags`       | object                                      | Optional extras: `permitRequired` (true for outdoor public NYC Parks courts), `hours` (OSM `opening_hours`), `website`, `phone`, `accessible` (NYC Parks `Accessible=Y`), `context: "school"` (facility sits inside a named school/college/university — may not be truly public; UI can badge it). |
+| `tags`       | object                                      | Optional extras: `permitRequired` (true for outdoor public NYC Parks courts), `hours` (OSM `opening_hours`), `website`, `phone`, `accessible` (NYC Parks `Accessible=Y`), `context: "school"` (facility sits inside a named school/college/university — may not be truly public; UI can badge it), `context: "residential"` (unnamed 1–2 court facility, most likely a backyard court; set by `scripts/residential.mjs`, and both apps drop these at load). |
 
 ## Pipeline stages
 

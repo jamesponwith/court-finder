@@ -365,7 +365,9 @@
       "city": "Kansas City",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w71447485",
@@ -505,7 +507,9 @@
       "city": "Camden County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w118061238",
@@ -556,7 +560,9 @@
       "city": "Lebanon",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w134105814",
@@ -573,7 +579,9 @@
       "city": "Mansfield",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w134106522",
@@ -1078,7 +1086,9 @@
       "city": "Saint Charles",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w233683924",
@@ -1199,7 +1209,9 @@
       "city": "Saint Louis",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w238794006",
@@ -1269,7 +1281,9 @@
       "city": "Jefferson County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w245729333",
@@ -1337,7 +1351,9 @@
       "city": "Saint Louis County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w246749667",
@@ -1630,7 +1646,9 @@
       "city": "Branson",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w264074733",
@@ -1768,7 +1786,9 @@
       "city": "Greene County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w265529720",
@@ -1819,7 +1839,9 @@
       "city": "Republic",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w267427768",
@@ -1870,7 +1892,9 @@
       "city": "Springfield",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w270722381",
@@ -1938,7 +1962,9 @@
       "city": "Kansas City",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w282407759",
@@ -2006,7 +2032,9 @@
       "city": "Kansas City",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w284132741",
@@ -2076,7 +2104,9 @@
       "city": "Jasper County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w310750498",
@@ -2369,7 +2399,9 @@
       "city": "O’Fallon",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w326840703",
@@ -2420,7 +2452,9 @@
       "city": "Hazelwood",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w330575831",
@@ -2539,7 +2573,9 @@
       "city": "Chesterfield",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w332166976",
@@ -2904,7 +2940,9 @@
       "city": "Kansas City",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w358462436",
@@ -2989,7 +3027,9 @@
       "city": "Barry County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w364229003",
@@ -3006,7 +3046,9 @@
       "city": "Barry County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w364606061",
@@ -3023,7 +3065,9 @@
       "city": "Joplin",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w364606105",
@@ -3091,7 +3135,9 @@
       "city": "Bernie",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w364834078",
@@ -3125,7 +3171,9 @@
       "city": "Sikeston",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w364937180",
@@ -3229,7 +3277,9 @@
       "city": "Kansas City",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w372271280",
@@ -3630,7 +3680,9 @@
       "city": "Kansas City",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w375969731",
@@ -3664,7 +3716,9 @@
       "city": "Vernon County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w376989761",
@@ -3681,7 +3735,9 @@
       "city": "Lamar",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w377406714",
@@ -3957,7 +4013,9 @@
       "city": "Pattonsburg",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w385626163",
@@ -4059,7 +4117,9 @@
       "city": "Pike County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w386886302",
@@ -4163,7 +4223,9 @@
       "city": "Callaway County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w387558269",
@@ -4180,7 +4242,9 @@
       "city": "Warren County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w387967330",
@@ -4303,7 +4367,9 @@
       "city": "Saline County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w389612192",
@@ -4337,7 +4403,9 @@
       "city": "Wildwood",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w389993487",
@@ -4524,7 +4592,9 @@
       "city": "Johnson County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w394978151",
@@ -4541,7 +4611,9 @@
       "city": "Gallatin",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w395155486",
@@ -4592,7 +4664,9 @@
       "city": "Viburnum",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w398272040",
@@ -4677,7 +4751,9 @@
       "city": "Willow Springs",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w398994577",
@@ -4694,7 +4770,9 @@
       "city": "Advance",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w399099642",
@@ -4711,7 +4789,9 @@
       "city": "Sikeston",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w399440372",
@@ -4847,7 +4927,9 @@
       "city": "Boone County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w428354907",
@@ -4985,7 +5067,9 @@
       "city": "Kansas City",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w436690711",
@@ -5002,7 +5086,9 @@
       "city": "Rolla",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w446415817",
@@ -5019,7 +5105,9 @@
       "city": "Saint Louis",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w446421016",
@@ -5104,7 +5192,9 @@
       "city": "Branson",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w452818135",
@@ -5316,7 +5406,9 @@
       "city": "Ferrelview",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w479336861",
@@ -5333,7 +5425,9 @@
       "city": "Maryland Heights",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w479415054",
@@ -5418,7 +5512,9 @@
       "city": "Lake Lotawana",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w493630401",
@@ -5594,7 +5690,9 @@
       "city": "Grain Valley",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w500314276",
@@ -5679,7 +5777,9 @@
       "city": "Kansas City",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w505429847",
@@ -5834,7 +5934,9 @@
       "city": "Platte County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w513804796",
@@ -5970,7 +6072,9 @@
       "city": "Kirkwood",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w531113951",
@@ -6089,7 +6193,9 @@
       "city": "West Plains",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w547493939",
@@ -6157,7 +6263,9 @@
       "city": "Twin Oaks",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w551764334",
@@ -6280,7 +6388,9 @@
       "city": "New Madrid",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w556617613",
@@ -6403,7 +6513,9 @@
       "city": "Piedmont",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w583048223",
@@ -6473,7 +6585,9 @@
       "city": "Columbia",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w586030764",
@@ -6594,7 +6708,9 @@
       "city": "Grundy County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w608198352",
@@ -6944,7 +7060,9 @@
       "city": "Saint Louis",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w621876249",
@@ -7048,7 +7166,9 @@
       "city": "Saint Louis",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w633823986",
@@ -7099,7 +7219,9 @@
       "city": "Concord",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w634420844",
@@ -7116,7 +7238,9 @@
       "city": "Concord",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w636646204",
@@ -7188,7 +7312,9 @@
       "city": "Maplewood",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w656351553",
@@ -7523,7 +7649,9 @@
       "city": "Independence",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w678946898",
@@ -7540,7 +7668,9 @@
       "city": "Owensville",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w679269994",
@@ -7608,7 +7738,9 @@
       "city": "Wildwood",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w720061966",
@@ -7642,7 +7774,9 @@
       "city": "Montgomery City",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w737799126",
@@ -7761,7 +7895,9 @@
       "city": "Spanish Lake",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w764129224",
@@ -7778,7 +7914,9 @@
       "city": "Stockton",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w768853860",
@@ -7814,7 +7952,9 @@
       "city": "Wildwood",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w802015119",
@@ -7865,7 +8005,9 @@
       "city": "Lake Waukomis",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w815753922",
@@ -7956,7 +8098,9 @@
       "city": "Springfield",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w839124820",
@@ -7973,7 +8117,9 @@
       "city": "Springfield",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w839124821",
@@ -8041,7 +8187,9 @@
       "city": "Kansas City",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w844066931",
@@ -8092,7 +8240,9 @@
       "city": "Kansas City",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w845504399",
@@ -8109,7 +8259,9 @@
       "city": "Kansas City",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w847268490",
@@ -8143,7 +8295,9 @@
       "city": "Parkville",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w862992360",
@@ -8264,7 +8418,9 @@
       "city": "Kansas City",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w904890905",
@@ -8383,7 +8539,9 @@
       "city": "Columbia",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w923099962",
@@ -8400,7 +8558,9 @@
       "city": "Camden County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w939025475",
@@ -8434,7 +8594,9 @@
       "city": "Washington County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w961018249",
@@ -8451,7 +8613,9 @@
       "city": "Creve Coeur",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w978856839",
@@ -8629,7 +8793,9 @@
       "city": "Bel-Ridge",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w997608788",
@@ -8646,7 +8812,9 @@
       "city": "Saint Louis",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1003261243",
@@ -8818,7 +8986,9 @@
       "city": "Christian County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1059054766",
@@ -8869,7 +9039,9 @@
       "city": "Greene County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1059057326",
@@ -8971,7 +9143,9 @@
       "city": "Chesterfield",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1071157962",
@@ -9007,7 +9181,9 @@
       "city": "Mountain Grove",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1076422596",
@@ -9111,7 +9287,9 @@
       "city": "Cape Girardeau",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1085948293",
@@ -9600,7 +9778,9 @@
       "city": "Kansas City",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1190490804",
@@ -9757,7 +9937,9 @@
       "city": "Kansas City",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1194909914",
@@ -9810,7 +9992,9 @@
       "city": "Kansas City",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1194960914",
@@ -9880,7 +10064,9 @@
       "city": "Creve Coeur",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1203013268",
@@ -9967,7 +10153,9 @@
       "city": "Maryland Heights",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1207835244",
@@ -9984,7 +10172,9 @@
       "city": "Jefferson County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1208101900",
@@ -10177,7 +10367,9 @@
       "city": "Dexter",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1215908574",
@@ -10228,7 +10420,9 @@
       "city": "Franklin County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1219649672",
@@ -10296,7 +10490,9 @@
       "city": "Jefferson County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1224652157",
@@ -10332,7 +10528,9 @@
       "city": "Ozark County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1231376564",
@@ -10349,7 +10547,9 @@
       "city": "Caruthersville",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1233886636",
@@ -10417,7 +10617,9 @@
       "city": "Wayne County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1264386112",
@@ -10485,7 +10687,9 @@
       "city": "Gainesville",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1274126887",
@@ -10555,7 +10759,9 @@
       "city": "Alton",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1289390437",
@@ -10572,7 +10778,9 @@
       "city": "Stoddard County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1289815750",
@@ -10661,7 +10869,9 @@
       "city": "Gerald",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1297402207",
@@ -10695,7 +10905,9 @@
       "city": "Adair County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1312564698",
@@ -10803,7 +11015,9 @@
       "city": "Cape Girardeau County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1326227961",
@@ -10905,7 +11119,9 @@
       "city": "Concord",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333224690",
@@ -10939,7 +11155,9 @@
       "city": "Chesterfield",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333224809",
@@ -10990,7 +11208,9 @@
       "city": "Saint Charles",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333225019",
@@ -11007,7 +11227,9 @@
       "city": "Saint Charles",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333225447",
@@ -11164,7 +11386,9 @@
       "city": "Jefferson City",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333415682",
@@ -11215,7 +11439,9 @@
       "city": "Springfield",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1351638391",
@@ -11285,7 +11511,9 @@
       "city": "Joplin",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1355697974",
@@ -11302,7 +11530,9 @@
       "city": "Reynolds County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1359902081",
@@ -11319,7 +11549,9 @@
       "city": "Boone County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1364417015",
@@ -11372,7 +11604,9 @@
       "city": "Purdin",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1364575720",
@@ -11508,7 +11742,9 @@
       "city": "Wildwood",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1377898374",
@@ -11597,7 +11833,9 @@
       "city": "Springfield",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1389917951",
@@ -11614,7 +11852,9 @@
       "city": "Cardwell",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1391435952",
@@ -11631,7 +11871,9 @@
       "city": "Sainte Genevieve",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1391726715",
@@ -11686,7 +11928,9 @@
       "city": "Nixa",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1418399500",
@@ -11754,7 +11998,9 @@
       "city": "Manchester",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1420457931",
@@ -11805,7 +12051,9 @@
       "city": "Eureka",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1422758357",
@@ -11894,7 +12142,9 @@
       "city": "Town and Country",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1425507769",
@@ -11962,7 +12212,9 @@
       "city": "Boone County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1429854313",
@@ -11979,7 +12231,9 @@
       "city": "Taney County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1432334431",
@@ -11996,7 +12250,9 @@
       "city": "Clay County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1432347905",
@@ -12064,7 +12320,9 @@
       "city": "Saint Louis County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1434798209",
@@ -12098,7 +12356,9 @@
       "city": "Grantwood Village",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442425347",
@@ -12185,7 +12445,9 @@
       "city": "Nevada",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443897990",
@@ -12202,7 +12464,9 @@
       "city": "Walker",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443898148",
@@ -12219,7 +12483,9 @@
       "city": "Cedar County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443898209",
@@ -12236,7 +12502,9 @@
       "city": "Miller",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443965764",
@@ -12321,7 +12589,9 @@
       "city": "Independence",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446373142",
@@ -12374,7 +12644,9 @@
       "city": "Maryland Heights",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1448320137",
@@ -12408,7 +12680,9 @@
       "city": "Maryland Heights",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1448459701",
@@ -12476,7 +12750,9 @@
       "city": "Appleton City",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1455509264",
@@ -12595,7 +12871,9 @@
       "city": "Cedar County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1462199252",
@@ -12629,7 +12907,9 @@
       "city": "Macon",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1462199552",
@@ -12663,7 +12943,9 @@
       "city": "Milan",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1462199742",
@@ -12699,7 +12981,9 @@
       "city": "Putnam County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1462199842",
@@ -12750,7 +13034,9 @@
       "city": "Greenville",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1465421777",
@@ -12839,7 +13125,9 @@
       "city": "Chesterfield",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1468075257",
@@ -12856,7 +13144,9 @@
       "city": "Chesterfield",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1468075432",
@@ -12873,7 +13163,9 @@
       "city": "Independence",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1468517704",
@@ -12890,7 +13182,9 @@
       "city": "Saint Francois County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469968116",
@@ -12958,7 +13252,9 @@
       "city": "Jasper",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471500128",
@@ -13064,7 +13360,9 @@
       "city": "Kansas City",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471508171",
@@ -13219,7 +13517,9 @@
       "city": "Liberty",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471510633",
@@ -13236,7 +13536,9 @@
       "city": "Kansas City",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471510779",
@@ -13323,7 +13625,9 @@
       "city": "Branson",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1472113575",
@@ -13408,7 +13712,9 @@
       "city": "Taney County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1472817853",
@@ -13425,7 +13731,9 @@
       "city": "Thayer",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1472817948",
@@ -13442,7 +13750,9 @@
       "city": "Mountain View",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1472819057",
@@ -13459,7 +13769,9 @@
       "city": "Hayti",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1473985490",
@@ -13493,7 +13805,9 @@
       "city": "Hamilton",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1473989002",
@@ -13544,7 +13858,9 @@
       "city": "Marshall",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474474557",
@@ -13648,7 +13964,9 @@
       "city": "Warsaw",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474482646",
@@ -13665,7 +13983,9 @@
       "city": "Iberia",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474482923",
@@ -13682,7 +14002,9 @@
       "city": "Richland",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474483192",
@@ -13716,7 +14038,9 @@
       "city": "Camden County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474483618",
@@ -13801,7 +14125,9 @@
       "city": "Crawford County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474852512",
@@ -13818,7 +14144,9 @@
       "city": "Licking",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474853652",
@@ -13854,7 +14182,9 @@
       "city": "Cabool",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474854632",
@@ -14011,7 +14341,9 @@
       "city": "Wildwood",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474901567",
@@ -14045,7 +14377,9 @@
       "city": "Chesterfield",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474902755",
@@ -14266,7 +14600,9 @@
       "city": "Theodosia",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1475098637",
@@ -14472,7 +14808,9 @@
       "city": "Hazelwood",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1475107485",
@@ -14593,7 +14931,9 @@
       "city": "Oakville",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1482605223",
@@ -14610,7 +14950,9 @@
       "city": "Barry County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1484416273",
@@ -14627,7 +14969,9 @@
       "city": "Meadville",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1487848362",
@@ -14661,7 +15005,9 @@
       "city": "King City",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1489231252",
@@ -14748,7 +15094,9 @@
       "city": "Webster County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1510505004",
@@ -14765,7 +15113,9 @@
       "city": "Springfield",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1510505928",
@@ -14782,7 +15132,9 @@
       "city": "Branson",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1510505995",
@@ -14799,7 +15151,9 @@
       "city": "Branson",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1510506015",
@@ -14816,7 +15170,9 @@
       "city": "Branson",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512535636",
@@ -14833,7 +15189,9 @@
       "city": "Kansas City",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512535913",
@@ -14850,7 +15208,9 @@
       "city": "Cole Camp",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512536002",
@@ -14867,7 +15227,9 @@
       "city": "Crystal City",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1517239264",
@@ -14903,7 +15265,9 @@
       "city": "Clay County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524940794",
@@ -15022,7 +15386,9 @@
       "city": "Branson",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526658518",
@@ -15039,7 +15405,9 @@
       "city": "Camden County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526782522",
@@ -15056,7 +15424,9 @@
       "city": "Camden County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1527269771",
@@ -15141,7 +15511,9 @@
       "city": "Camden County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1536223505",
@@ -15158,7 +15530,9 @@
       "city": "Village of Four Seasons",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1536223509",
@@ -15175,7 +15549,9 @@
       "city": "Lake Ozark",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1536260298",
@@ -15192,7 +15568,9 @@
       "city": "Osage Beach",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1536332528",
@@ -15209,7 +15587,9 @@
       "city": "Osage Beach",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1536351444",
@@ -15226,7 +15606,9 @@
       "city": "Osage Beach",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1536619896",
@@ -15243,7 +15625,9 @@
       "city": "Osage Beach",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1536631120",
@@ -15260,7 +15644,9 @@
       "city": "Osage Beach",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1536631133",
@@ -15277,7 +15663,9 @@
       "city": "Osage Beach",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1536631176",
@@ -15294,7 +15682,9 @@
       "city": "Osage Beach",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1537269833",
@@ -15311,7 +15701,9 @@
       "city": "Camden County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1537278025",
@@ -15328,7 +15720,9 @@
       "city": "Camden County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1537278027",
@@ -15345,7 +15739,9 @@
       "city": "Camden County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1538476393",
@@ -15362,7 +15758,9 @@
       "city": "Camden County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1539533466",
@@ -15379,7 +15777,9 @@
       "city": "Camden County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1540115696",
@@ -15396,7 +15796,9 @@
       "city": "Camden County",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1541128947",
@@ -15447,7 +15849,9 @@
       "city": "Fenton",
       "state": "MO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1548995217",

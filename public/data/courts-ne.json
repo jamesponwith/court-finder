@@ -17,7 +17,9 @@
       "city": "Sarpy County",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-n7688416637",
@@ -51,7 +53,9 @@
       "city": "Beatrice",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w42010682",
@@ -359,7 +363,9 @@
       "city": "Omaha",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w170398349",
@@ -410,7 +416,9 @@
       "city": "Grand Island",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w175944253",
@@ -635,7 +643,9 @@
       "city": "Douglas County",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w183091404",
@@ -754,7 +764,9 @@
       "city": "Omaha",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w186245221",
@@ -943,7 +955,9 @@
       "city": "Sarpy County",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w195249230",
@@ -1062,7 +1076,9 @@
       "city": "Lincoln",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w199576879",
@@ -1113,7 +1129,9 @@
       "city": "Eagle",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w220413412",
@@ -1130,7 +1148,9 @@
       "city": "Ceresco",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w225681795",
@@ -1164,7 +1184,9 @@
       "city": "Giltner",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w260556735",
@@ -1270,7 +1292,9 @@
       "city": "Cortland",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w307084556",
@@ -1304,7 +1328,9 @@
       "city": "Omaha",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w317873272",
@@ -1357,7 +1383,9 @@
       "city": "Bellevue",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w336607620",
@@ -1391,7 +1419,9 @@
       "city": "Saunders County",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w364847328",
@@ -1425,7 +1455,9 @@
       "city": "Plymouth",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w376345736",
@@ -1476,7 +1508,9 @@
       "city": "Gothenburg",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w397544530",
@@ -1612,7 +1646,9 @@
       "city": "Omaha",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w409629720",
@@ -1646,7 +1682,9 @@
       "city": "Omaha",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w426697095",
@@ -1767,7 +1805,9 @@
       "city": "Campbell",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w446013127",
@@ -1784,7 +1824,9 @@
       "city": "Bertrand",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w446114067",
@@ -1818,7 +1860,9 @@
       "city": "North Loup",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w446987435",
@@ -1852,7 +1896,9 @@
       "city": "Silver Creek",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w447729145",
@@ -1869,7 +1915,9 @@
       "city": "Dakota City",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w447744992",
@@ -1903,7 +1951,9 @@
       "city": "Clarkson",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w456074986",
@@ -1920,7 +1970,9 @@
       "city": "Lincoln",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w469346910",
@@ -1937,7 +1989,9 @@
       "city": "Bridgeport",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w473097445",
@@ -1954,7 +2008,9 @@
       "city": "Cass County",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w480276383",
@@ -1988,7 +2044,9 @@
       "city": "Omaha",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w487899258",
@@ -2022,7 +2080,9 @@
       "city": "Omaha",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w491343852",
@@ -2056,7 +2116,9 @@
       "city": "Kearney",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w510587076",
@@ -2107,7 +2169,9 @@
       "city": "Cambridge",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w553841012",
@@ -2124,7 +2188,9 @@
       "city": "York",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w560716333",
@@ -2308,7 +2374,9 @@
       "city": "Curtis",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w600366601",
@@ -2571,7 +2639,9 @@
       "city": "Douglas County",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w697067628",
@@ -2622,7 +2692,9 @@
       "city": "O'Neill",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w728932353",
@@ -2673,7 +2745,9 @@
       "city": "Fremont",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w733390429",
@@ -2707,7 +2781,9 @@
       "city": "Omaha",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w824104273",
@@ -2777,7 +2853,9 @@
       "city": "Omaha",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w930034843",
@@ -2794,7 +2872,9 @@
       "city": "Yutan",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w935638831",
@@ -2811,7 +2891,9 @@
       "city": "Oshkosh",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w951685597",
@@ -2828,7 +2910,9 @@
       "city": "Hay Springs",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w997077438",
@@ -2845,7 +2929,9 @@
       "city": "Adams",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1025308563",
@@ -2949,7 +3035,9 @@
       "city": "Douglas County",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1047442824",
@@ -2966,7 +3054,9 @@
       "city": "Douglas County",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1059352488",
@@ -3017,7 +3107,9 @@
       "city": "Washington County",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1086141704",
@@ -3121,7 +3213,9 @@
       "city": "Omaha",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1170957410",
@@ -3276,7 +3370,9 @@
       "city": "Columbus",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1263570988",
@@ -3344,7 +3440,9 @@
       "city": "Nelson",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1270460853",
@@ -3416,7 +3514,9 @@
       "city": "Greeley Center",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1282011521",
@@ -3433,7 +3533,9 @@
       "city": "Scottsbluff",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1293468849",
@@ -3575,7 +3677,9 @@
       "city": "Omaha",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333196654",
@@ -3866,7 +3970,9 @@
       "city": "Lancaster County",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1355582268",
@@ -3934,7 +4040,9 @@
       "city": "Gurley",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1362459350",
@@ -4036,7 +4144,9 @@
       "city": "Omaha",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1364654349",
@@ -4053,7 +4163,9 @@
       "city": "Omaha",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1364654351",
@@ -4070,7 +4182,9 @@
       "city": "Omaha",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1364654355",
@@ -4087,7 +4201,9 @@
       "city": "Omaha",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1364810177",
@@ -4189,7 +4305,9 @@
       "city": "Omaha",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1371908616",
@@ -4206,7 +4324,9 @@
       "city": "Omaha",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1372153860",
@@ -4223,7 +4343,9 @@
       "city": "Omaha",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1373495647",
@@ -4342,7 +4464,9 @@
       "city": "Omaha",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1393418429",
@@ -4376,7 +4500,9 @@
       "city": "Wisner",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1430316502",
@@ -4427,7 +4553,9 @@
       "city": "Saint Paul",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1432608473",
@@ -4497,7 +4625,9 @@
       "city": "Omaha",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1436180602",
@@ -4669,7 +4799,9 @@
       "city": "Superior",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1447751849",
@@ -4737,7 +4869,9 @@
       "city": "Cass County",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1462659594",
@@ -4873,7 +5007,9 @@
       "city": "Omaha",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1462659617",
@@ -4958,7 +5094,9 @@
       "city": "Dawes County",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1468890629",
@@ -5202,7 +5340,9 @@
       "city": "Niobrara",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1468971230",
@@ -5236,7 +5376,9 @@
       "city": "Homer",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1468971711",
@@ -5408,7 +5550,9 @@
       "city": "Arnold",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469941664",
@@ -5442,7 +5586,9 @@
       "city": "Elm Creek",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469943258",
@@ -5476,7 +5622,9 @@
       "city": "Wilcox",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469944722",
@@ -5527,7 +5675,9 @@
       "city": "Webster County",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469945745",
@@ -5544,7 +5694,9 @@
       "city": "Doniphan",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469945852",
@@ -5561,7 +5713,9 @@
       "city": "Grand Island",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469945859",
@@ -5646,7 +5800,9 @@
       "city": "Edgar",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469967253",
@@ -5733,7 +5889,9 @@
       "city": "Norfolk",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469967848",
@@ -5750,7 +5908,9 @@
       "city": "Stanton",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469967966",
@@ -5818,7 +5978,9 @@
       "city": "Weeping Water",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469968395",
@@ -5886,7 +6048,9 @@
       "city": "Wood River",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469968528",
@@ -5903,7 +6067,9 @@
       "city": "Hall County",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469968612",
@@ -5971,7 +6137,9 @@
       "city": "Friend",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470081574",
@@ -6005,7 +6173,9 @@
       "city": "Boone County",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470081972",
@@ -6215,7 +6385,9 @@
       "city": "York",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470085398",
@@ -6425,7 +6597,9 @@
       "city": "Lincoln",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470091330",
@@ -6544,7 +6718,9 @@
       "city": "Fremont",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470095262",
@@ -6580,7 +6756,9 @@
       "city": "Omaha",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470095401",
@@ -6722,7 +6900,9 @@
       "city": "Omaha",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470097270",
@@ -6809,7 +6989,9 @@
       "city": "Lincoln",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1482930255",
@@ -6826,7 +7008,9 @@
       "city": "Omaha",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1484422074",
@@ -7049,7 +7233,9 @@
       "city": "Dodge County",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526465596",
@@ -7185,7 +7371,9 @@
       "city": "Buffalo County",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1535689604",
@@ -7202,7 +7390,9 @@
       "city": "Papillion",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1540853410",
@@ -7219,7 +7409,9 @@
       "city": "Alexandria",
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-r7642003",

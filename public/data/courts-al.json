@@ -316,7 +316,9 @@
       "city": "Tuscaloosa",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w133168887",
@@ -352,7 +354,9 @@
       "city": "Lanett",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w164559278",
@@ -445,7 +449,9 @@
       "city": "Dauphin Island",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w198964022",
@@ -496,7 +502,9 @@
       "city": "Trussville",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w207559887",
@@ -746,7 +754,9 @@
       "city": "Auburn",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w278440333",
@@ -952,7 +962,9 @@
       "city": "Madison County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w300475351",
@@ -1071,7 +1083,9 @@
       "city": "Jefferson County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w326955715",
@@ -1211,7 +1225,9 @@
       "city": "Bay Minette",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w346051131",
@@ -1228,7 +1244,9 @@
       "city": "Mobile",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w351534394",
@@ -1262,7 +1280,9 @@
       "city": "Auburn",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w351536113",
@@ -1279,7 +1299,9 @@
       "city": "Auburn",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w352857695",
@@ -1330,7 +1352,9 @@
       "city": "Orange Beach",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w355519638",
@@ -1364,7 +1388,9 @@
       "city": "Mobile",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w355799869",
@@ -1449,7 +1475,9 @@
       "city": "Childersburg",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w357257087",
@@ -1674,7 +1702,9 @@
       "city": "Tuscaloosa",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w367493247",
@@ -1810,7 +1840,9 @@
       "city": "Madison",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w385767268",
@@ -1844,7 +1876,9 @@
       "city": "Madison County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w388522559",
@@ -1861,7 +1895,9 @@
       "city": "Huntsville",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w390649613",
@@ -1878,7 +1914,9 @@
       "city": "Pelham",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w391144461",
@@ -1912,7 +1950,9 @@
       "city": "Lanett",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w400897665",
@@ -1982,7 +2022,9 @@
       "city": "Huntsville",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w407991073",
@@ -1999,7 +2041,9 @@
       "city": "Huntsville",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w411829978",
@@ -2069,7 +2113,9 @@
       "city": "Calhoun County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w436569025",
@@ -2086,7 +2132,9 @@
       "city": "Huntsville",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w444652658",
@@ -2154,7 +2202,9 @@
       "city": "Decatur",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w446879978",
@@ -2222,7 +2272,9 @@
       "city": "Limestone County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w450360796",
@@ -2362,7 +2414,9 @@
       "city": "Hodges",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w452102034",
@@ -2415,7 +2469,9 @@
       "city": "Limestone County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w456860601",
@@ -2449,7 +2505,9 @@
       "city": "Selma",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w461649479",
@@ -2517,7 +2575,9 @@
       "city": "Millbrook",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w469437115",
@@ -2636,7 +2696,9 @@
       "city": "Decatur",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w473058565",
@@ -2653,7 +2715,9 @@
       "city": "Decatur",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w474089434",
@@ -2776,7 +2840,9 @@
       "city": "Pell City",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w477960907",
@@ -2793,7 +2859,9 @@
       "city": "Huntsville",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w478178400",
@@ -2861,7 +2929,9 @@
       "city": "Mobile",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w480718071",
@@ -2965,7 +3035,9 @@
       "city": "Huntsville",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w481923327",
@@ -2982,7 +3054,9 @@
       "city": "Huntsville",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w482497085",
@@ -3033,7 +3107,9 @@
       "city": "Madison County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w483125980",
@@ -3084,7 +3160,9 @@
       "city": "Huntsville",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w483873573",
@@ -3101,7 +3179,9 @@
       "city": "Decatur",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w484005423",
@@ -3152,7 +3232,9 @@
       "city": "Calera",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w485355910",
@@ -3220,7 +3302,9 @@
       "city": "Huntsville",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w491527702",
@@ -3271,7 +3355,9 @@
       "city": "Baldwin County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w508173548",
@@ -3288,7 +3374,9 @@
       "city": "Linden",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w508437416",
@@ -3477,7 +3565,9 @@
       "city": "Foley",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w512142637",
@@ -3494,7 +3584,9 @@
       "city": "Foley",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w512152948",
@@ -3562,7 +3654,9 @@
       "city": "Thomasville",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w513748966",
@@ -3736,7 +3830,9 @@
       "city": "Glencoe",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w515274348",
@@ -3808,7 +3904,9 @@
       "city": "Autaugaville",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w531752646",
@@ -3842,7 +3940,9 @@
       "city": "Dothan",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w535369214",
@@ -3859,7 +3959,9 @@
       "city": "Huntsville",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w562566663",
@@ -3910,7 +4012,9 @@
       "city": "Gulf Shores",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w565158711",
@@ -3927,7 +4031,9 @@
       "city": "Gulf Shores",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w566827227",
@@ -3944,7 +4050,9 @@
       "city": "Gulf Shores",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w567077970",
@@ -3961,7 +4069,9 @@
       "city": "Gulf Shores",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w567109066",
@@ -3978,7 +4088,9 @@
       "city": "Gulf Shores",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w567142150",
@@ -3995,7 +4107,9 @@
       "city": "Gulf Shores",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w570317688",
@@ -4012,7 +4126,9 @@
       "city": "Autauga County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w570346438",
@@ -4029,7 +4145,9 @@
       "city": "Autauga County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w571841813",
@@ -4148,7 +4266,9 @@
       "city": "Auburn",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w583724519",
@@ -4303,7 +4423,9 @@
       "city": "Tuscaloosa",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w609855818",
@@ -4337,7 +4459,9 @@
       "city": "Tuscaloosa",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w613215522",
@@ -4371,7 +4495,9 @@
       "city": "Northport",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w617278077",
@@ -4388,7 +4514,9 @@
       "city": "Northport",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w617318635",
@@ -4422,7 +4550,9 @@
       "city": "Tuscaloosa",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w619028351",
@@ -4456,7 +4586,9 @@
       "city": "Orange Beach",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w619389248",
@@ -4473,7 +4605,9 @@
       "city": "Orange Beach",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w619393717",
@@ -4490,7 +4624,9 @@
       "city": "Orange Beach",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w619600940",
@@ -4524,7 +4660,9 @@
       "city": "Shelby County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w620754184",
@@ -4560,7 +4698,9 @@
       "city": "Orange Beach",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w622917996",
@@ -4577,7 +4717,9 @@
       "city": "Tuscaloosa",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w622925521",
@@ -4594,7 +4736,9 @@
       "city": "Tuscaloosa",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w625891501",
@@ -4611,7 +4755,9 @@
       "city": "Orange Beach",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w629146978",
@@ -4628,7 +4774,9 @@
       "city": "Orange Beach",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w635869601",
@@ -4645,7 +4793,9 @@
       "city": "Orange Beach",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w635874246",
@@ -4662,7 +4812,9 @@
       "city": "Orange Beach",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w636182640",
@@ -4696,7 +4848,9 @@
       "city": "Orange Beach",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w637402243",
@@ -4730,7 +4884,9 @@
       "city": "Orange Beach",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w637456948",
@@ -4747,7 +4903,9 @@
       "city": "Orange Beach",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w637674988",
@@ -4764,7 +4922,9 @@
       "city": "Orange Beach",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w637743732",
@@ -4870,7 +5030,9 @@
       "city": "Orange Beach",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w660444871",
@@ -4887,7 +5049,9 @@
       "city": "Orange Beach",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w665671065",
@@ -4938,7 +5102,9 @@
       "city": "Baldwin County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w672719424",
@@ -4955,7 +5121,9 @@
       "city": "Gulf Shores",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w681255362",
@@ -5006,7 +5174,9 @@
       "city": "Montgomery",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w700944836",
@@ -5023,7 +5193,9 @@
       "city": "DeKalb County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w701132240",
@@ -5125,7 +5297,9 @@
       "city": "Montgomery",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w754696871",
@@ -5197,7 +5371,9 @@
       "city": "Montgomery",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w756044078",
@@ -5233,7 +5409,9 @@
       "city": "Montgomery",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w761226656",
@@ -5250,7 +5428,9 @@
       "city": "Montgomery",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w762573561",
@@ -5267,7 +5447,9 @@
       "city": "Reform",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w764431280",
@@ -5284,7 +5466,9 @@
       "city": "Clay",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w764665764",
@@ -5424,7 +5608,9 @@
       "city": "Hoover",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w803452959",
@@ -5441,7 +5627,9 @@
       "city": "Vestavia Hills",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w804480717",
@@ -5477,7 +5665,9 @@
       "city": "Tuscaloosa",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w813483112",
@@ -5494,7 +5684,9 @@
       "city": "Northport",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w814142183",
@@ -5562,7 +5754,9 @@
       "city": "Hoover",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w818607585",
@@ -5632,7 +5826,9 @@
       "city": "Hoover",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w823573441",
@@ -5649,7 +5845,9 @@
       "city": "Shelby County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w824275577",
@@ -5685,7 +5883,9 @@
       "city": "Hoover",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w825055272",
@@ -5702,7 +5902,9 @@
       "city": "Tuscaloosa",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w825083965",
@@ -5719,7 +5921,9 @@
       "city": "Hoover",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w825196381",
@@ -5736,7 +5940,9 @@
       "city": "Hoover",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w825236069",
@@ -5753,7 +5959,9 @@
       "city": "Hoover",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w825236130",
@@ -5787,7 +5995,9 @@
       "city": "Hoover",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w825309527",
@@ -5804,7 +6014,9 @@
       "city": "Hoover",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w825345581",
@@ -5838,7 +6050,9 @@
       "city": "Hoover",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w825928102",
@@ -5855,7 +6069,9 @@
       "city": "Tuscaloosa",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w827568868",
@@ -5889,7 +6105,9 @@
       "city": "Orange Beach",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w827568881",
@@ -6025,7 +6243,9 @@
       "city": "Orange Beach",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w829009768",
@@ -6093,7 +6313,9 @@
       "city": "Lake Purdy",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w834853025",
@@ -6110,7 +6332,9 @@
       "city": "Hoover",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w839773555",
@@ -6127,7 +6351,9 @@
       "city": "Abbeville",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w839820501",
@@ -6246,7 +6472,9 @@
       "city": "Montgomery",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w855685302",
@@ -6263,7 +6491,9 @@
       "city": "Montgomery",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w857925903",
@@ -6333,7 +6563,9 @@
       "city": "Boaz",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-r11763041",
@@ -6367,7 +6599,9 @@
       "city": "Birmingham",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w863861757",
@@ -6384,7 +6618,9 @@
       "city": "Birmingham",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w865004508",
@@ -6401,7 +6637,9 @@
       "city": "Vestavia Hills",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w865842515",
@@ -6418,7 +6656,9 @@
       "city": "Hoover",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w865842552",
@@ -6435,7 +6675,9 @@
       "city": "Hoover",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w866000899",
@@ -6452,7 +6694,9 @@
       "city": "Hoover",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w867303212",
@@ -6469,7 +6713,9 @@
       "city": "Hoover",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w867303238",
@@ -6537,7 +6783,9 @@
       "city": "Pelham",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w873023167",
@@ -6554,7 +6802,9 @@
       "city": "Pelham",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w883918149",
@@ -6588,7 +6838,9 @@
       "city": "Fultondale",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w886339958",
@@ -6605,7 +6857,9 @@
       "city": "Huntsville",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w891425343",
@@ -6622,7 +6876,9 @@
       "city": "Hoover",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w895367495",
@@ -6639,7 +6895,9 @@
       "city": "Jefferson County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w902519878",
@@ -6656,7 +6914,9 @@
       "city": "Eufaula",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w903163683",
@@ -6728,7 +6988,9 @@
       "city": "Eagle Point",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w923586877",
@@ -6836,7 +7098,9 @@
       "city": "Calera",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w956693486",
@@ -6853,7 +7117,9 @@
       "city": "Huntsville",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w956960811",
@@ -6887,7 +7153,9 @@
       "city": "Huntsville",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w958896673",
@@ -6955,7 +7223,9 @@
       "city": "Foley",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w966212060",
@@ -6972,7 +7242,9 @@
       "city": "Baldwin County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w966744768",
@@ -6989,7 +7261,9 @@
       "city": "Baldwin County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w966789587",
@@ -7006,7 +7280,9 @@
       "city": "Baldwin County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w970344972",
@@ -7040,7 +7316,9 @@
       "city": "Baldwin County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w970350308",
@@ -7108,7 +7386,9 @@
       "city": "Baldwin County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w979692308",
@@ -7125,7 +7405,9 @@
       "city": "Dothan",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w983706355",
@@ -7159,7 +7441,9 @@
       "city": "Birmingham",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w986376570",
@@ -7322,7 +7606,9 @@
       "city": "Phenix City",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w992266426",
@@ -7468,7 +7754,9 @@
       "city": "Birmingham",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1009396403",
@@ -7485,7 +7773,9 @@
       "city": "Vestavia Hills",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1009609546",
@@ -7502,7 +7792,9 @@
       "city": "Vestavia Hills",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1013549153",
@@ -7519,7 +7811,9 @@
       "city": "Auburn",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1014945298",
@@ -7536,7 +7830,9 @@
       "city": "Huntsville",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1015360737",
@@ -7570,7 +7866,9 @@
       "city": "Elmore County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1026639370",
@@ -7587,7 +7885,9 @@
       "city": "Eutaw",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1028919320",
@@ -7604,7 +7904,9 @@
       "city": "Roanoke",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1034363010",
@@ -7638,7 +7940,9 @@
       "city": "Houston County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1037325471",
@@ -7655,7 +7959,9 @@
       "city": "LaFayette",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1040044984",
@@ -7672,7 +7978,9 @@
       "city": "Talladega",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1056141629",
@@ -7742,7 +8050,9 @@
       "city": "Lee County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1070833272",
@@ -7759,7 +8069,9 @@
       "city": "Colbert County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1074372425",
@@ -7776,7 +8088,9 @@
       "city": "Vestavia Hills",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1077514216",
@@ -7829,7 +8143,9 @@
       "city": "Lincoln",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1080420827",
@@ -7863,7 +8179,9 @@
       "city": "Reece City",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1080613166",
@@ -7914,7 +8232,9 @@
       "city": "Uniontown",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084083123",
@@ -7931,7 +8251,9 @@
       "city": "Birmingham",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084392771",
@@ -7965,7 +8287,9 @@
       "city": "Huntsville",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084408177",
@@ -7999,7 +8323,9 @@
       "city": "Madison County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084410081",
@@ -8069,7 +8395,9 @@
       "city": "Mountain Brook",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1086523844",
@@ -8086,7 +8414,9 @@
       "city": "Vestavia Hills",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1086523847",
@@ -8120,7 +8450,9 @@
       "city": "Meadowbrook",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1086737881",
@@ -8137,7 +8469,9 @@
       "city": "Lake Purdy",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1086737884",
@@ -8154,7 +8488,9 @@
       "city": "Lake Purdy",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1086808171",
@@ -8205,7 +8541,9 @@
       "city": "Meadowbrook",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1088581949",
@@ -8222,7 +8560,9 @@
       "city": "Phenix City",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1089514081",
@@ -8343,7 +8683,9 @@
       "city": "Hoover",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1099925636",
@@ -8360,7 +8702,9 @@
       "city": "Lake Purdy",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1099925659",
@@ -8377,7 +8721,9 @@
       "city": "Meadowbrook",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1099925662",
@@ -8394,7 +8740,9 @@
       "city": "Meadowbrook",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1102261611",
@@ -8411,7 +8759,9 @@
       "city": "Birmingham",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1102261617",
@@ -8428,7 +8778,9 @@
       "city": "Birmingham",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1105406259",
@@ -8445,7 +8797,9 @@
       "city": "Gulf Shores",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1106093887",
@@ -8462,7 +8816,9 @@
       "city": "Mountain Brook",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1106093892",
@@ -8479,7 +8835,9 @@
       "city": "Mountain Brook",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1106093901",
@@ -8496,7 +8854,9 @@
       "city": "Mountain Brook",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1106093923",
@@ -8513,7 +8873,9 @@
       "city": "Mountain Brook",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1111860479",
@@ -8530,7 +8892,9 @@
       "city": "Huntsville",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1114704420",
@@ -8615,7 +8979,9 @@
       "city": "Fultondale",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1160389864",
@@ -8666,7 +9032,9 @@
       "city": "Montgomery",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1168416192",
@@ -8683,7 +9051,9 @@
       "city": "Montgomery",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1175948005",
@@ -8717,7 +9087,9 @@
       "city": "Anniston",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1187669555",
@@ -8753,7 +9125,9 @@
       "city": "Phenix City",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1191839386",
@@ -8806,7 +9180,9 @@
       "city": "Pinson",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1235156391",
@@ -8874,7 +9250,9 @@
       "city": "Lincoln",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1264365198",
@@ -8908,7 +9286,9 @@
       "city": "Auburn",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1267821784",
@@ -8925,7 +9305,9 @@
       "city": "Mentone",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1273235165",
@@ -8959,7 +9341,9 @@
       "city": "Hayden",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1280412801",
@@ -8995,7 +9379,9 @@
       "city": "Pike Road",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1284526449",
@@ -9086,7 +9472,9 @@
       "city": "Madison County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1313100083",
@@ -9103,7 +9491,9 @@
       "city": "Harvest",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1313100096",
@@ -9275,7 +9665,9 @@
       "city": "Escambia County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1321488194",
@@ -9292,7 +9684,9 @@
       "city": "Montgomery County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1321488244",
@@ -9326,7 +9720,9 @@
       "city": "Elmore County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1321488851",
@@ -9343,7 +9739,9 @@
       "city": "Elmore County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1321489179",
@@ -9379,7 +9777,9 @@
       "city": "Bessemer",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1321489740",
@@ -9396,7 +9796,9 @@
       "city": "Birmingham",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1321489917",
@@ -9432,7 +9834,9 @@
       "city": "Hoover",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1329845284",
@@ -9500,7 +9904,9 @@
       "city": "Phenix City",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334861106",
@@ -9589,7 +9995,9 @@
       "city": "Greenville",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334977494",
@@ -9625,7 +10033,9 @@
       "city": "Montgomery",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334977610",
@@ -9642,7 +10052,9 @@
       "city": "Montgomery",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334978199",
@@ -9678,7 +10090,9 @@
       "city": "Montgomery",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334978756",
@@ -9695,7 +10109,9 @@
       "city": "Montgomery",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334978848",
@@ -9729,7 +10145,9 @@
       "city": "Elmore County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334979432",
@@ -9746,7 +10164,9 @@
       "city": "Birmingham",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334979479",
@@ -9848,7 +10268,9 @@
       "city": "Huntsville",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334997872",
@@ -9918,7 +10340,9 @@
       "city": "Huntsville",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334998919",
@@ -9988,7 +10412,9 @@
       "city": "Choctaw County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1349647089",
@@ -10090,7 +10516,9 @@
       "city": "Meadowbrook",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356356296",
@@ -10107,7 +10535,9 @@
       "city": "Madison County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356356761",
@@ -10124,7 +10554,9 @@
       "city": "Limestone County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1370238164",
@@ -10158,7 +10590,9 @@
       "city": "Mountain Brook",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1377788254",
@@ -10192,7 +10626,9 @@
       "city": "Mountain Brook",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1377791254",
@@ -10296,7 +10732,9 @@
       "city": "Foley",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1382382443",
@@ -10313,7 +10751,9 @@
       "city": "Red Level",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1383332165",
@@ -10349,7 +10789,9 @@
       "city": "Madison County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1415594704",
@@ -10366,7 +10808,9 @@
       "city": "Good Hope",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1415594727",
@@ -10383,7 +10827,9 @@
       "city": "Anniston",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1416972272",
@@ -10470,7 +10916,9 @@
       "city": "Chandler Mountain",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1425308390",
@@ -10487,7 +10935,9 @@
       "city": "Mobile County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1425308917",
@@ -10504,7 +10954,9 @@
       "city": "Jefferson County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1428396616",
@@ -10521,7 +10973,9 @@
       "city": "Baldwin County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1430053421",
@@ -10631,7 +11085,9 @@
       "city": "Huntsville",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1434526071",
@@ -10665,7 +11121,9 @@
       "city": "Rainbow City",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1437025013",
@@ -10682,7 +11140,9 @@
       "city": "Helena",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1437025530",
@@ -10699,7 +11159,9 @@
       "city": "Hoover",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1437025682",
@@ -10716,7 +11178,9 @@
       "city": "Hoover",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1437025772",
@@ -10733,7 +11197,9 @@
       "city": "Hoover",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1437026216",
@@ -10784,7 +11250,9 @@
       "city": "Hoover",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1437026616",
@@ -10801,7 +11269,9 @@
       "city": "Hoover",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1437026632",
@@ -10818,7 +11288,9 @@
       "city": "Hoover",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1437026926",
@@ -10835,7 +11307,9 @@
       "city": "Birmingham",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1437027095",
@@ -11162,7 +11636,9 @@
       "city": "Covington County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1455015226",
@@ -11196,7 +11672,9 @@
       "city": "Holly Pond",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1456777426",
@@ -11317,7 +11795,9 @@
       "city": "Calera",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1468120573",
@@ -11351,7 +11831,9 @@
       "city": "Loxley",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1473932198",
@@ -11875,7 +12357,9 @@
       "city": "Thomaston",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474037547",
@@ -11892,7 +12376,9 @@
       "city": "Uniontown",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474037576",
@@ -11909,7 +12395,9 @@
       "city": "Eutaw",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474037662",
@@ -11926,7 +12414,9 @@
       "city": "Eutaw",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474037730",
@@ -11943,7 +12433,9 @@
       "city": "Tuscaloosa County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474037816",
@@ -11979,7 +12471,9 @@
       "city": "Tuscaloosa",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474038016",
@@ -12185,7 +12679,9 @@
       "city": "Evergreen",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474271582",
@@ -12323,7 +12819,9 @@
       "city": "Enterprise",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474282690",
@@ -12357,7 +12855,9 @@
       "city": "Dale County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474283748",
@@ -12459,7 +12959,9 @@
       "city": "Montgomery",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474374895",
@@ -12493,7 +12995,9 @@
       "city": "Lauderdale County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1478731202",
@@ -12510,7 +13014,9 @@
       "city": "Baldwin County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1480337908",
@@ -12527,7 +13033,9 @@
       "city": "Bridgeport",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1484148839",
@@ -12629,7 +13137,9 @@
       "city": "Lawrence County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492745039",
@@ -12750,7 +13260,9 @@
       "city": "Lawrence County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492749404",
@@ -12784,7 +13296,9 @@
       "city": "Centreville",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492768141",
@@ -12854,7 +13368,9 @@
       "city": "Decatur",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492781439",
@@ -12871,7 +13387,9 @@
       "city": "Northport",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492785317",
@@ -12960,7 +13478,9 @@
       "city": "Tuscaloosa",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492882889",
@@ -12994,7 +13514,9 @@
       "city": "Shelby County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492889106",
@@ -13045,7 +13567,9 @@
       "city": "Piedmont",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492894171",
@@ -13062,7 +13586,9 @@
       "city": "Hokes Bluff",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492896907",
@@ -13096,7 +13622,9 @@
       "city": "Rainbow City",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492901464",
@@ -13147,7 +13675,9 @@
       "city": "Gadsden",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492911282",
@@ -13215,7 +13745,9 @@
       "city": "Huntsville",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492914534",
@@ -13406,7 +13938,9 @@
       "city": "Decatur",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492932082",
@@ -13459,7 +13993,9 @@
       "city": "Huntsville",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492937935",
@@ -13510,7 +14046,9 @@
       "city": "Fort Payne",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1506157279",
@@ -13544,7 +14082,9 @@
       "city": "Baldwin County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1508386645",
@@ -13561,7 +14101,9 @@
       "city": "Huntsville",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1508538073",
@@ -13614,7 +14156,9 @@
       "city": "Dothan",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1512559550",
@@ -13631,7 +14175,9 @@
       "city": "Eufaula",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1517142488",
@@ -13648,7 +14194,9 @@
       "city": "Belle Fontaine",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1517224661",
@@ -13682,7 +14230,9 @@
       "city": "Belle Fontaine",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1518634499",
@@ -13699,7 +14249,9 @@
       "city": "Ashland",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1518634574",
@@ -13852,7 +14404,9 @@
       "city": "Irondale",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1523243150",
@@ -13869,7 +14423,9 @@
       "city": "Birmingham",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1523548533",
@@ -13903,7 +14459,9 @@
       "city": "Bay Minette",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1527379066",
@@ -13920,7 +14478,9 @@
       "city": "Montevallo",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1529506796",
@@ -13990,7 +14550,9 @@
       "city": "Autaugaville",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1530737559",
@@ -14026,7 +14588,9 @@
       "city": "Seminole",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1531540710",
@@ -14060,7 +14624,9 @@
       "city": "Orange Beach",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1534409076",
@@ -14213,7 +14779,9 @@
       "city": "Gulf Shores",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1547801470",
@@ -14230,7 +14798,9 @@
       "city": "Lauderdale County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1547810256",
@@ -14266,7 +14836,9 @@
       "city": "Gulf Shores",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1548479287",
@@ -14283,7 +14855,9 @@
       "city": "Gulf Shores",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1549154016",
@@ -14300,7 +14874,9 @@
       "city": "Forkland",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551896173",
@@ -14385,7 +14961,9 @@
       "city": "Cullman County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1553153576",
@@ -14402,7 +14980,9 @@
       "city": "Valley Head",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1553183467",
@@ -14419,7 +14999,9 @@
       "city": "Camp Hill",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1553183590",
@@ -14436,7 +15018,9 @@
       "city": "Beatrice",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1553183682",
@@ -14453,7 +15037,9 @@
       "city": "Thomasville",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1553183728",
@@ -14470,7 +15056,9 @@
       "city": "Washington County",
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1553184831",

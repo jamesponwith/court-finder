@@ -34,7 +34,9 @@
       "city": "Enterprise",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1507507667",
@@ -119,7 +121,9 @@
       "city": "Las Vegas",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w27514508",
@@ -240,7 +244,9 @@
       "city": "Clark County",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w34000157",
@@ -257,7 +263,9 @@
       "city": "Las Vegas",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w58756348",
@@ -378,7 +386,9 @@
       "city": "Las Vegas",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w134677418",
@@ -429,7 +439,9 @@
       "city": "Spring Valley",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w135371725",
@@ -754,7 +766,9 @@
       "city": "Boulder City",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w158249756",
@@ -859,7 +873,9 @@
       "city": "Kingsbury",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w186155568",
@@ -876,7 +892,9 @@
       "city": "Kingsbury",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w189321182",
@@ -1069,7 +1087,9 @@
       "city": "Las Vegas",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w216283647",
@@ -1086,7 +1106,9 @@
       "city": "North Las Vegas",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w216717856",
@@ -1120,7 +1142,9 @@
       "city": "Spring Valley",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w217308078",
@@ -1137,7 +1161,9 @@
       "city": "Spring Valley",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w217507225",
@@ -1173,7 +1199,9 @@
       "city": "Spring Valley",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w217534808",
@@ -1374,7 +1402,9 @@
       "city": "Las Vegas",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w261250943",
@@ -1495,7 +1525,9 @@
       "city": "Henderson",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w503177023",
@@ -1529,7 +1561,9 @@
       "city": "Gerlach",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w293552450",
@@ -1650,7 +1684,9 @@
       "city": "Winchester",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w331347658",
@@ -1667,7 +1703,9 @@
       "city": "Winchester",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w332370879",
@@ -1703,7 +1741,9 @@
       "city": "Reno",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w337226749",
@@ -1913,7 +1953,9 @@
       "city": "Enterprise",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w443235506",
@@ -1930,7 +1972,9 @@
       "city": "West Wendover",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w456222523",
@@ -2303,7 +2347,9 @@
       "city": "Las Vegas",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w485224711",
@@ -2405,7 +2451,9 @@
       "city": "Paradise",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w532500317",
@@ -2439,7 +2487,9 @@
       "city": "Flamingo Heights",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w532691621",
@@ -2456,7 +2506,9 @@
       "city": "Flamingo Heights",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w533247243",
@@ -2473,7 +2525,9 @@
       "city": "Sunrise Manor",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w533265525",
@@ -2490,7 +2544,9 @@
       "city": "Las Vegas",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w533265540",
@@ -2560,7 +2616,9 @@
       "city": "Spring Valley",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w544259464",
@@ -2577,7 +2635,9 @@
       "city": "Reno",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w545767162",
@@ -2696,7 +2756,9 @@
       "city": "Clark County",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w965793018",
@@ -2902,7 +2964,9 @@
       "city": "Pahrump",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w608755519",
@@ -2936,7 +3000,9 @@
       "city": "Spring Valley",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w608755524",
@@ -2970,7 +3036,9 @@
       "city": "Spring Valley",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w609035487",
@@ -2987,7 +3055,9 @@
       "city": "Spring Valley",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w609035488",
@@ -3004,7 +3074,9 @@
       "city": "Spring Valley",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w634667358",
@@ -3021,7 +3093,9 @@
       "city": "Boulder City",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w672185240",
@@ -3038,7 +3112,9 @@
       "city": "Las Vegas",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w680791567",
@@ -3072,7 +3148,9 @@
       "city": "Paradise",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w697171654",
@@ -3089,7 +3167,9 @@
       "city": "Paradise",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w718177821",
@@ -3212,7 +3292,9 @@
       "city": "Sunrise Manor",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w745999543",
@@ -3282,7 +3364,9 @@
       "city": "Reno",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w795736690",
@@ -3299,7 +3383,9 @@
       "city": "Reno",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w798633639",
@@ -3316,7 +3402,9 @@
       "city": "Flamingo Heights",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w799788206",
@@ -3333,7 +3421,9 @@
       "city": "Paradise",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w828537170",
@@ -3384,7 +3474,9 @@
       "city": "Kingsbury",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w842520415",
@@ -3437,7 +3529,9 @@
       "city": "Henderson",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w849462638",
@@ -3558,7 +3652,9 @@
       "city": "Lockwood",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w889381566",
@@ -3575,7 +3671,9 @@
       "city": "Enterprise",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w890851246",
@@ -3847,7 +3945,9 @@
       "city": "Reno",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w986788206",
@@ -4021,7 +4121,9 @@
       "city": "Douglas County",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1056210702",
@@ -4038,7 +4140,9 @@
       "city": "Winchester",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1056210719",
@@ -4089,7 +4193,9 @@
       "city": "Las Vegas",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1062676668",
@@ -4106,7 +4212,9 @@
       "city": "Las Vegas",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1062676670",
@@ -4123,7 +4231,9 @@
       "city": "Las Vegas",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1062676674",
@@ -4140,7 +4250,9 @@
       "city": "Las Vegas",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1062676675",
@@ -4157,7 +4269,9 @@
       "city": "Las Vegas",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1062820398",
@@ -4174,7 +4288,9 @@
       "city": "Spring Valley",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1062820400",
@@ -4191,7 +4307,9 @@
       "city": "Spring Valley",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1062820416",
@@ -4208,7 +4326,9 @@
       "city": "Las Vegas",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1062820418",
@@ -4225,7 +4345,9 @@
       "city": "Las Vegas",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1062820427",
@@ -4259,7 +4381,9 @@
       "city": "Las Vegas",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1064918830",
@@ -4295,7 +4419,9 @@
       "city": "Reno",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1071380725",
@@ -4363,7 +4489,9 @@
       "city": "Hawthorne",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1081564376",
@@ -4399,7 +4527,9 @@
       "city": "Sparks",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1085877725",
@@ -4433,7 +4563,9 @@
       "city": "Winchester",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1087966191",
@@ -4450,7 +4582,9 @@
       "city": "Paradise",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1107837081",
@@ -4484,7 +4618,9 @@
       "city": "Enterprise",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1108097103",
@@ -4501,7 +4637,9 @@
       "city": "Enterprise",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1108097158",
@@ -4625,7 +4763,9 @@
       "city": "Clark County",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1146094231",
@@ -4642,7 +4782,9 @@
       "city": "Clark County",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1146103430",
@@ -4797,7 +4939,9 @@
       "city": "Reno",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1208955615",
@@ -4814,7 +4958,9 @@
       "city": "Washoe County",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1210180524",
@@ -4848,7 +4994,9 @@
       "city": "Reno",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1210195928",
@@ -4916,7 +5064,9 @@
       "city": "Sparks",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1216492240",
@@ -4933,7 +5083,9 @@
       "city": "Whitney",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1216492241",
@@ -4950,7 +5102,9 @@
       "city": "Whitney",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1236635650",
@@ -5088,7 +5242,9 @@
       "city": "Silverado Ranch",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1284742418",
@@ -5105,7 +5261,9 @@
       "city": "Enterprise",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1286325011",
@@ -5122,7 +5280,9 @@
       "city": "Stateline",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1288998203",
@@ -5175,7 +5335,9 @@
       "city": "Carson City",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1307551080",
@@ -5226,7 +5388,9 @@
       "city": "Summerlin South",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1314959486",
@@ -5243,7 +5407,9 @@
       "city": "Douglas County",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1314959489",
@@ -5260,7 +5426,9 @@
       "city": "Douglas County",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1341375028",
@@ -5277,7 +5445,9 @@
       "city": "Incline Village",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1344766187",
@@ -5313,7 +5483,9 @@
       "city": "North Las Vegas",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1360910716",
@@ -5402,7 +5574,9 @@
       "city": "Winchester",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1364767656",
@@ -5419,7 +5593,9 @@
       "city": "Enterprise",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1371922108",
@@ -5510,7 +5686,9 @@
       "city": "Douglas County",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1390723798",
@@ -5597,7 +5775,9 @@
       "city": "Las Vegas",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1432061735",
@@ -5720,7 +5900,9 @@
       "city": "Spring Valley",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1432657115",
@@ -5824,7 +6006,9 @@
       "city": "Winchester",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1434958492",
@@ -5841,7 +6025,9 @@
       "city": "Winchester",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1434958921",
@@ -6004,7 +6190,9 @@
       "city": "Las Vegas",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435093635",
@@ -6254,7 +6442,9 @@
       "city": "Paradise",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442808556",
@@ -6271,7 +6461,9 @@
       "city": "Paradise",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442809075",
@@ -6288,7 +6480,9 @@
       "city": "Paradise",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442809135",
@@ -6322,7 +6516,9 @@
       "city": "Clark County",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443262610",
@@ -6339,7 +6535,9 @@
       "city": "Winchester",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443262612",
@@ -6356,7 +6554,9 @@
       "city": "Paradise",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443262614",
@@ -6373,7 +6573,9 @@
       "city": "Paradise",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443262615",
@@ -6390,7 +6592,9 @@
       "city": "Paradise",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443262616",
@@ -6424,7 +6628,9 @@
       "city": "Clark County",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443262618",
@@ -6441,7 +6647,9 @@
       "city": "Henderson",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443262619",
@@ -6458,7 +6666,9 @@
       "city": "Henderson",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443262620",
@@ -6475,7 +6685,9 @@
       "city": "Clark County",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443262623",
@@ -6492,7 +6704,9 @@
       "city": "Henderson",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443438631",
@@ -6509,7 +6723,9 @@
       "city": "Henderson",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443438635",
@@ -6545,7 +6761,9 @@
       "city": "Clark County",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443438637",
@@ -6579,7 +6797,9 @@
       "city": "Clark County",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443438639",
@@ -6647,7 +6867,9 @@
       "city": "Summerlin South",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446635268",
@@ -6944,7 +7166,9 @@
       "city": "Jackpot",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1449293010",
@@ -6995,7 +7219,9 @@
       "city": "Washoe County",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1449293455",
@@ -7012,7 +7238,9 @@
       "city": "Washoe County",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1449442081",
@@ -7131,7 +7359,9 @@
       "city": "Sparks",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1449671386",
@@ -7165,7 +7395,9 @@
       "city": "Reno",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1449717110",
@@ -7237,7 +7469,9 @@
       "city": "Reno",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1449938558",
@@ -7271,7 +7505,9 @@
       "city": "Reno",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1450084898",
@@ -7322,7 +7558,9 @@
       "city": "Enterprise",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1452618178",
@@ -7470,7 +7708,9 @@
       "city": "Las Vegas",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1516697691",
@@ -7487,7 +7727,9 @@
       "city": "Smith Valley",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524787163",
@@ -7504,7 +7746,9 @@
       "city": "Eureka",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1536405349",
@@ -7538,7 +7782,9 @@
       "city": "Clark County",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1538495362",
@@ -7589,7 +7835,9 @@
       "city": "Yerington",
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1546149148",

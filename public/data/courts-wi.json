@@ -104,7 +104,9 @@
       "city": "Town of Farmington",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w25939988",
@@ -579,7 +581,9 @@
       "city": "Polk County",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w85863516",
@@ -632,7 +636,9 @@
       "city": "Rib Lake",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w86579196",
@@ -942,7 +948,9 @@
       "city": "Egg Harbor",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w121506480",
@@ -959,7 +967,9 @@
       "city": "Egg Harbor",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w121506492",
@@ -976,7 +986,9 @@
       "city": "Town of Gibraltar",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w121506499",
@@ -993,7 +1005,9 @@
       "city": "Egg Harbor",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w121506507",
@@ -1010,7 +1024,9 @@
       "city": "Town of Gibraltar",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w121507541",
@@ -1061,7 +1077,9 @@
       "city": "Town of Gibraltar",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w121507569",
@@ -1131,7 +1149,9 @@
       "city": "Ephraim",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w121534304",
@@ -1148,7 +1168,9 @@
       "city": "Ephraim",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w121534305",
@@ -1165,7 +1187,9 @@
       "city": "Sister Bay",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w121534310",
@@ -1182,7 +1206,9 @@
       "city": "Sister Bay",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w121534314",
@@ -1199,7 +1225,9 @@
       "city": "Sister Bay",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w121534319",
@@ -1216,7 +1244,9 @@
       "city": "Sister Bay",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w121642617",
@@ -1252,7 +1282,9 @@
       "city": "Town of Washington",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w125434744",
@@ -1666,7 +1698,9 @@
       "city": "Town of La Pointe",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w167146785",
@@ -1736,7 +1770,9 @@
       "city": "Town of La Pointe",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-r2241867",
@@ -1789,7 +1825,9 @@
       "city": "North Lake",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w168667289",
@@ -1876,7 +1914,9 @@
       "city": "Delafield",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w174196798",
@@ -2086,7 +2126,9 @@
       "city": "Kenosha",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w180863243",
@@ -2207,7 +2249,9 @@
       "city": "Menasha",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w202300578",
@@ -2328,7 +2372,9 @@
       "city": "Green Bay",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w205854621",
@@ -2432,7 +2478,9 @@
       "city": "Egg Harbor",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w207641966",
@@ -2449,7 +2497,9 @@
       "city": "Town of Egg Harbor",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w208833520",
@@ -2591,7 +2641,9 @@
       "city": "Town of Boulder Junction",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w231267910",
@@ -2608,7 +2660,9 @@
       "city": "Crandon",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w231278337",
@@ -2625,7 +2679,9 @@
       "city": "Town of Manitowish Waters",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w231384658",
@@ -2659,7 +2715,9 @@
       "city": "Town of Merrimac",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w232263841",
@@ -2693,7 +2751,9 @@
       "city": "Racine",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w233787865",
@@ -2967,7 +3027,9 @@
       "city": "Village of Baldwin",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w240893015",
@@ -3035,7 +3097,9 @@
       "city": "Hudson",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w243438786",
@@ -3122,7 +3186,9 @@
       "city": "River Hills",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w244042856",
@@ -3404,7 +3470,9 @@
       "city": "Brookfield",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w244499767",
@@ -3421,7 +3489,9 @@
       "city": "Menomonee Falls",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w244499768",
@@ -3472,7 +3542,9 @@
       "city": "South Milwaukee",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w244707162",
@@ -3523,7 +3595,9 @@
       "city": "Woodville",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w245305715",
@@ -3593,7 +3667,9 @@
       "city": "Racine",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w245861295",
@@ -3678,7 +3754,9 @@
       "city": "Town of Wyalusing",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w246897272",
@@ -3695,7 +3773,9 @@
       "city": "Forestville",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w247490981",
@@ -3816,7 +3896,9 @@
       "city": "Town of Grand Chute",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w251869452",
@@ -3833,7 +3915,9 @@
       "city": "Dane County",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w255628005",
@@ -3935,7 +4019,9 @@
       "city": "Town of Oak Grove",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w262895614",
@@ -3952,7 +4038,9 @@
       "city": "Town of Linn",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w262920183",
@@ -4005,7 +4093,9 @@
       "city": "La Crosse",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w265351726",
@@ -4039,7 +4129,9 @@
       "city": "Town of Crescent",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w267321005",
@@ -4198,7 +4290,9 @@
       "city": "River Hills",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w289075826",
@@ -4215,7 +4309,9 @@
       "city": "River Hills",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w289075838",
@@ -4249,7 +4345,9 @@
       "city": "River Hills",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w289075849",
@@ -4266,7 +4364,9 @@
       "city": "River Hills",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w289075860",
@@ -4283,7 +4383,9 @@
       "city": "River Hills",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w289075874",
@@ -4300,7 +4402,9 @@
       "city": "River Hills",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w289075875",
@@ -4317,7 +4421,9 @@
       "city": "River Hills",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w289075878",
@@ -4334,7 +4440,9 @@
       "city": "River Hills",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w289077083",
@@ -4351,7 +4459,9 @@
       "city": "River Hills",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w289077086",
@@ -4368,7 +4478,9 @@
       "city": "River Hills",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w289077088",
@@ -4385,7 +4497,9 @@
       "city": "River Hills",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w289077089",
@@ -4402,7 +4516,9 @@
       "city": "River Hills",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w289077090",
@@ -4419,7 +4535,9 @@
       "city": "River Hills",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w289077091",
@@ -4436,7 +4554,9 @@
       "city": "River Hills",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w289077092",
@@ -4453,7 +4573,9 @@
       "city": "River Hills",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w289077093",
@@ -4470,7 +4592,9 @@
       "city": "River Hills",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w289077094",
@@ -4487,7 +4611,9 @@
       "city": "River Hills",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w289077095",
@@ -4504,7 +4630,9 @@
       "city": "River Hills",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w289078377",
@@ -4521,7 +4649,9 @@
       "city": "River Hills",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w289078378",
@@ -4538,7 +4668,9 @@
       "city": "River Hills",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w289078389",
@@ -4572,7 +4704,9 @@
       "city": "River Hills",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w289079706",
@@ -4589,7 +4723,9 @@
       "city": "River Hills",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w289079707",
@@ -4606,7 +4742,9 @@
       "city": "River Hills",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w289079710",
@@ -4623,7 +4761,9 @@
       "city": "River Hills",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w289079717",
@@ -4659,7 +4799,9 @@
       "city": "River Hills",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w289079724",
@@ -4676,7 +4818,9 @@
       "city": "River Hills",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w289081038",
@@ -4693,7 +4837,9 @@
       "city": "River Hills",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w289081967",
@@ -4710,7 +4856,9 @@
       "city": "River Hills",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w289081969",
@@ -4727,7 +4875,9 @@
       "city": "Mequon",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w289081972",
@@ -4744,7 +4894,9 @@
       "city": "Mequon",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w289081973",
@@ -4761,7 +4913,9 @@
       "city": "Mequon",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w289082000",
@@ -4795,7 +4949,9 @@
       "city": "Mequon",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w291263064",
@@ -4812,7 +4968,9 @@
       "city": "Town of Egg Harbor",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w291486132",
@@ -4829,7 +4987,9 @@
       "city": "Hurley",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w291710266",
@@ -4846,7 +5006,9 @@
       "city": "Dane County",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w292010211",
@@ -4880,7 +5042,9 @@
       "city": "Green Bay",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w292024376",
@@ -5003,7 +5167,9 @@
       "city": "Town of Egg Harbor",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w292256152",
@@ -5054,7 +5220,9 @@
       "city": "Town of Marion",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w292388811",
@@ -5211,7 +5379,9 @@
       "city": "Williams Bay",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w292466677",
@@ -5313,7 +5483,9 @@
       "city": "Town of Mosel",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w292744989",
@@ -5364,7 +5536,9 @@
       "city": "River Hills",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w292798446",
@@ -5867,7 +6041,9 @@
       "city": "Town of Brighton",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w360191611",
@@ -6005,7 +6181,9 @@
       "city": "Ashwaubenon",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w361493225",
@@ -6198,7 +6376,9 @@
       "city": "Dodgeville",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w362158943",
@@ -6215,7 +6395,9 @@
       "city": "Oconomowoc Lake",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w362631317",
@@ -6232,7 +6414,9 @@
       "city": "Evansville",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w362763102",
@@ -6527,7 +6711,9 @@
       "city": "Two Rivers",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w368640941",
@@ -6705,7 +6891,9 @@
       "city": "Oshkosh",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w370265828",
@@ -7288,7 +7476,9 @@
       "city": "Allouez",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w371233276",
@@ -7458,7 +7648,9 @@
       "city": "Hudson",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w371960513",
@@ -7877,7 +8069,9 @@
       "city": "Kenosha",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w376135540",
@@ -8178,7 +8372,9 @@
       "city": "Town of Jefferson",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w397093297",
@@ -8354,7 +8550,9 @@
       "city": "Madison",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w406680558",
@@ -8439,7 +8637,9 @@
       "city": "Town of Greenfield",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w407613529",
@@ -8528,7 +8728,9 @@
       "city": "Mattoon",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w408895621",
@@ -8761,7 +8963,9 @@
       "city": "Coloma",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w413216731",
@@ -8888,7 +9092,9 @@
       "city": "Galesville",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w415081178",
@@ -8905,7 +9111,9 @@
       "city": "Roberts",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w417391252",
@@ -8922,7 +9130,9 @@
       "city": "Pleasant Prairie",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w417982533",
@@ -8956,7 +9166,9 @@
       "city": "Town of Westport",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w422331601",
@@ -9734,7 +9946,9 @@
       "city": "Town of Cedar Lake",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w436635596",
@@ -9857,7 +10071,9 @@
       "city": "Muskego",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w438357119",
@@ -9891,7 +10107,9 @@
       "city": "Muskego",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w439473342",
@@ -9925,7 +10143,9 @@
       "city": "Shell Lake",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w440337527",
@@ -9978,7 +10198,9 @@
       "city": "Town of Minong",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w441858351",
@@ -9995,7 +10217,9 @@
       "city": "Birchwood",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w441894694",
@@ -10012,7 +10236,9 @@
       "city": "Sun Prairie",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w445296177",
@@ -10046,7 +10272,9 @@
       "city": "Town of Wabeno",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w445815768",
@@ -10152,7 +10380,9 @@
       "city": "Fontana-on-Geneva Lake",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w448879014",
@@ -10169,7 +10399,9 @@
       "city": "Fontana-on-Geneva Lake",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w448879015",
@@ -10186,7 +10418,9 @@
       "city": "Fontana-on-Geneva Lake",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w448879017",
@@ -10203,7 +10437,9 @@
       "city": "Town of Linn",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w448879018",
@@ -10220,7 +10456,9 @@
       "city": "Town of Linn",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w448879022",
@@ -10237,7 +10475,9 @@
       "city": "Town of Linn",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w448879023",
@@ -10254,7 +10494,9 @@
       "city": "Town of Linn",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w448879024",
@@ -10271,7 +10513,9 @@
       "city": "Town of Linn",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w448879026",
@@ -10288,7 +10532,9 @@
       "city": "Town of Linn",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w448884604",
@@ -10322,7 +10568,9 @@
       "city": "Town of Linn",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w448884606",
@@ -10339,7 +10587,9 @@
       "city": "Town of Linn",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w448884607",
@@ -10356,7 +10606,9 @@
       "city": "Town of Linn",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w448884608",
@@ -10390,7 +10642,9 @@
       "city": "Town of Linn",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w448884610",
@@ -10407,7 +10661,9 @@
       "city": "Town of Linn",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w448884611",
@@ -10424,7 +10680,9 @@
       "city": "Town of Linn",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w448884612",
@@ -10441,7 +10699,9 @@
       "city": "Town of Linn",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w448884613",
@@ -10458,7 +10718,9 @@
       "city": "Town of Linn",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w448884614",
@@ -10475,7 +10737,9 @@
       "city": "Williams Bay",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w448884615",
@@ -10492,7 +10756,9 @@
       "city": "Williams Bay",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w448884617",
@@ -10509,7 +10775,9 @@
       "city": "Fontana-on-Geneva Lake",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w448884619",
@@ -10526,7 +10794,9 @@
       "city": "Fontana-on-Geneva Lake",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w448884620",
@@ -10543,7 +10813,9 @@
       "city": "Fontana-on-Geneva Lake",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w448884621",
@@ -10560,7 +10832,9 @@
       "city": "Fontana-on-Geneva Lake",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w448884622",
@@ -10577,7 +10851,9 @@
       "city": "Fontana-on-Geneva Lake",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w448888971",
@@ -10594,7 +10870,9 @@
       "city": "Town of Walworth",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w448888972",
@@ -10666,7 +10944,9 @@
       "city": "Hawkins",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w451718408",
@@ -10736,7 +11016,9 @@
       "city": "Town of Brule",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w458720212",
@@ -10770,7 +11052,9 @@
       "city": "Wind Point",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w460660978",
@@ -10874,7 +11158,9 @@
       "city": "Town of Monroe",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w462831577",
@@ -10891,7 +11177,9 @@
       "city": "Williams Bay",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w463294559",
@@ -10959,7 +11247,9 @@
       "city": "Marinette",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w467459020",
@@ -10993,7 +11283,9 @@
       "city": "Oconomowoc",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w468553772",
@@ -11148,7 +11440,9 @@
       "city": "Beloit",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w473403054",
@@ -11201,7 +11495,9 @@
       "city": "Town of Koshkonong",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w473678955",
@@ -11371,7 +11667,9 @@
       "city": "Village of Blue Mounds",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w475540442",
@@ -11388,7 +11686,9 @@
       "city": "Allouez",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w477870685",
@@ -11424,7 +11724,9 @@
       "city": "Menasha",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w478523298",
@@ -11551,7 +11853,9 @@
       "city": "Town of Garfield",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w481949622",
@@ -11604,7 +11908,9 @@
       "city": "Lake Delton",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w482487049",
@@ -11621,7 +11927,9 @@
       "city": "Town of Dellona",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w482502134",
@@ -11742,7 +12050,9 @@
       "city": "Saint Croix Falls",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w486843161",
@@ -11863,7 +12173,9 @@
       "city": "Town of Dover",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w488475349",
@@ -11897,7 +12209,9 @@
       "city": "Biron",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w488739673",
@@ -11914,7 +12228,9 @@
       "city": "Rudolph",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w489594964",
@@ -12001,7 +12317,9 @@
       "city": "Grantsburg",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w495229759",
@@ -12137,7 +12455,9 @@
       "city": "Waterford",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w508305375",
@@ -12341,7 +12661,9 @@
       "city": "Town of Liberty Grove",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w547164053",
@@ -12358,7 +12680,9 @@
       "city": "Brown Deer",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w547397315",
@@ -12496,7 +12820,9 @@
       "city": "Town of Dover",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w555033424",
@@ -12513,7 +12839,9 @@
       "city": "De Pere",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w555606622",
@@ -12530,7 +12858,9 @@
       "city": "Neenah",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w556799418",
@@ -12547,7 +12877,9 @@
       "city": "Oshkosh",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w556832851",
@@ -12564,7 +12896,9 @@
       "city": "Oshkosh",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w559282156",
@@ -12704,7 +13038,9 @@
       "city": "Village of Harrison",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w571488517",
@@ -12952,7 +13288,9 @@
       "city": "Webster",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w591071598",
@@ -13075,7 +13413,9 @@
       "city": "Wisconsin Dells",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w609326242",
@@ -13092,7 +13432,9 @@
       "city": "Stevens Point",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w609803651",
@@ -13109,7 +13451,9 @@
       "city": "Pleasant Prairie",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w611794292",
@@ -13183,7 +13527,9 @@
       "city": "Montreal",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w615605680",
@@ -13431,7 +13777,9 @@
       "city": "Greenfield",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w648810921",
@@ -13465,7 +13813,9 @@
       "city": "Town of Onalaska",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w654819345",
@@ -13554,7 +13904,9 @@
       "city": "Town of Medary",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w660626606",
@@ -13588,7 +13940,9 @@
       "city": "Town of Shelby",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w663702960",
@@ -13622,7 +13976,9 @@
       "city": "La Crosse",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w664842986",
@@ -13726,7 +14082,9 @@
       "city": "Bayside",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w675572161",
@@ -13743,7 +14101,9 @@
       "city": "Salem Lakes",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w677112081",
@@ -13968,7 +14328,9 @@
       "city": "Darlington",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w697337472",
@@ -13985,7 +14347,9 @@
       "city": "Town of Neenah",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w699075637",
@@ -14002,7 +14366,9 @@
       "city": "Town of Vinland",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w701884811",
@@ -14019,7 +14385,9 @@
       "city": "Town of Harmony",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w704053844",
@@ -14036,7 +14404,9 @@
       "city": "Town of Clayton",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w706191857",
@@ -14053,7 +14423,9 @@
       "city": "Town of Vinland",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w708028792",
@@ -14123,7 +14495,9 @@
       "city": "French Island",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w719990137",
@@ -14140,7 +14514,9 @@
       "city": "Town of Ashippun",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w724723536",
@@ -14248,7 +14624,9 @@
       "city": "Town of Breed",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w734298143",
@@ -14265,7 +14643,9 @@
       "city": "Town of Lakewood",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w734480387",
@@ -14282,7 +14662,9 @@
       "city": "Weyerhaeuser",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w734700850",
@@ -14391,7 +14773,9 @@
       "city": "Town of Algoma",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w749656987",
@@ -14408,7 +14792,9 @@
       "city": "Town of Liberty Grove",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w750876086",
@@ -14686,7 +15072,9 @@
       "city": "Town of Namakagon",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w829771034",
@@ -14739,7 +15127,9 @@
       "city": "Lake Camelot",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w844899168",
@@ -14756,7 +15146,9 @@
       "city": "Town of Washington",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w846250652",
@@ -14824,7 +15216,9 @@
       "city": "Town of Saint Germain",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w866468230",
@@ -14841,7 +15235,9 @@
       "city": "Town of Lac du Flambeau",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w874928382",
@@ -14858,7 +15254,9 @@
       "city": "Town of Belvidere",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w878049556",
@@ -15017,7 +15415,9 @@
       "city": "Village of Plover",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w902461592",
@@ -15034,7 +15434,9 @@
       "city": "Waukesha",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w905101419",
@@ -15089,7 +15491,9 @@
       "city": "Town of Laona",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w914407581",
@@ -15106,7 +15510,9 @@
       "city": "Williams Bay",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w915210798",
@@ -15123,7 +15529,9 @@
       "city": "Town of East Troy",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w916900666",
@@ -15193,7 +15601,9 @@
       "city": "Town of Highland",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w921083257",
@@ -15314,7 +15724,9 @@
       "city": "Blair",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w921502160",
@@ -15382,7 +15794,9 @@
       "city": "Town of Geneva",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w947454560",
@@ -15399,7 +15813,9 @@
       "city": "Rosholt",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w948691705",
@@ -15541,7 +15957,9 @@
       "city": "Town of Grandview",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w973864692",
@@ -15592,7 +16010,9 @@
       "city": "DeForest",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w980934316",
@@ -15643,7 +16063,9 @@
       "city": "Delafield",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w992069316",
@@ -15660,7 +16082,9 @@
       "city": "Delafield",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w995434147",
@@ -15677,7 +16101,9 @@
       "city": "Town of Troy",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w996892191",
@@ -15745,7 +16171,9 @@
       "city": "Town of Angelo",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1005449773",
@@ -15762,7 +16190,9 @@
       "city": "Saint Cloud",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1005759407",
@@ -15902,7 +16332,9 @@
       "city": "Brookfield",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1017678000",
@@ -15919,7 +16351,9 @@
       "city": "Town of Schoepke",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1027703227",
@@ -15953,7 +16387,9 @@
       "city": "Waukesha",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1039757824",
@@ -15990,7 +16426,9 @@
       "city": "Lake Delton",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1044593833",
@@ -16183,7 +16621,9 @@
       "city": "Milwaukee",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1075346123",
@@ -16238,7 +16678,9 @@
       "city": "Town of Washington",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1080639186",
@@ -16255,7 +16697,9 @@
       "city": "Village of Plover",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1082712301",
@@ -16323,7 +16767,9 @@
       "city": "Town of Linn",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1087627472",
@@ -16340,7 +16786,9 @@
       "city": "Town of Linn",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1087627523",
@@ -16357,7 +16805,9 @@
       "city": "Town of Linn",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1087627524",
@@ -16374,7 +16824,9 @@
       "city": "Town of Linn",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1087627539",
@@ -16391,7 +16843,9 @@
       "city": "Town of Linn",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1087741873",
@@ -16408,7 +16862,9 @@
       "city": "Town of Parkland",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1090257581",
@@ -16425,7 +16881,9 @@
       "city": "Random Lake",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1098017712",
@@ -16546,7 +17004,9 @@
       "city": "Lake Geneva",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1126709485",
@@ -16563,7 +17023,9 @@
       "city": "Lake Geneva",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1126709489",
@@ -16580,7 +17042,9 @@
       "city": "Lake Geneva",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1134935670",
@@ -16913,7 +17377,9 @@
       "city": "Oshkosh",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1148591833",
@@ -17036,7 +17502,9 @@
       "city": "Menomonee Falls",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1168087799",
@@ -17070,7 +17538,9 @@
       "city": "Town of Namakagon",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1172314963",
@@ -17087,7 +17557,9 @@
       "city": "Town of Namakagon",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1172473644",
@@ -17104,7 +17576,9 @@
       "city": "Town of Namakagon",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1172579840",
@@ -17121,7 +17595,9 @@
       "city": "Town of Namakagon",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1173811742",
@@ -17138,7 +17614,9 @@
       "city": "Town of Cable",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1174588325",
@@ -17155,7 +17633,9 @@
       "city": "Town of Cable",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1174852569",
@@ -17172,7 +17652,9 @@
       "city": "Town of Cable",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1179788201",
@@ -17189,7 +17671,9 @@
       "city": "Oneida County",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1179788202",
@@ -17257,7 +17741,9 @@
       "city": "Elkhart Lake",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1188271409",
@@ -17274,7 +17760,9 @@
       "city": "Town of Barnes",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1188482441",
@@ -17344,7 +17832,9 @@
       "city": "Town of Turtle",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1191241598",
@@ -17361,7 +17851,9 @@
       "city": "Mequon",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1210826151",
@@ -17378,7 +17870,9 @@
       "city": "Mequon",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1214308646",
@@ -17412,7 +17906,9 @@
       "city": "Fontana-on-Geneva Lake",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1215203125",
@@ -17429,7 +17925,9 @@
       "city": "Mequon",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1216518813",
@@ -17446,7 +17944,9 @@
       "city": "Town of Lodi",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1219101680",
@@ -17480,7 +17980,9 @@
       "city": "Town of Delton",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1221598150",
@@ -17514,7 +18016,9 @@
       "city": "Town of Delton",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1223831743",
@@ -17531,7 +18035,9 @@
       "city": "Mequon",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1224543187",
@@ -17616,7 +18122,9 @@
       "city": "Town of Grand Chute",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1233854149",
@@ -17633,7 +18141,9 @@
       "city": "Brookfield",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1237658341",
@@ -17667,7 +18177,9 @@
       "city": "Town of Green Bay",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1247954616",
@@ -17684,7 +18196,9 @@
       "city": "Amery",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1247961914",
@@ -17790,7 +18304,9 @@
       "city": "Hobart",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1274419416",
@@ -17826,7 +18342,9 @@
       "city": "Town of Farmington",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1274419675",
@@ -17860,7 +18378,9 @@
       "city": "Town of Wolf River",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1290694867",
@@ -17877,7 +18397,9 @@
       "city": "Town of Saint Joseph",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1290733731",
@@ -17911,7 +18433,9 @@
       "city": "Lauderdale",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1299820664",
@@ -17945,7 +18469,9 @@
       "city": "Town of Montello",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1300582616",
@@ -17962,7 +18488,9 @@
       "city": "Osceola",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1301022965",
@@ -18030,7 +18558,9 @@
       "city": "Belgium",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1305151438",
@@ -18081,7 +18611,9 @@
       "city": "Town of Linn",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1305856067",
@@ -18134,7 +18666,9 @@
       "city": "Town of Linn",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1307490549",
@@ -18151,7 +18685,9 @@
       "city": "Lake Geneva",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1308521280",
@@ -18202,7 +18738,9 @@
       "city": "Linden",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1313122879",
@@ -18253,7 +18791,9 @@
       "city": "Town of Linn",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1318076001",
@@ -18270,7 +18810,9 @@
       "city": "Town of Fulton",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1327088659",
@@ -18323,7 +18865,9 @@
       "city": "Town of East Troy",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333197370",
@@ -18340,7 +18884,9 @@
       "city": "Town of Linn",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333197725",
@@ -18357,7 +18903,9 @@
       "city": "Fontana-on-Geneva Lake",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334848078",
@@ -18408,7 +18956,9 @@
       "city": "Osseo",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1339405425",
@@ -18425,7 +18975,9 @@
       "city": "Town of Brockway",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1347117067",
@@ -18459,7 +19011,9 @@
       "city": "Village of Vernon",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1351443495",
@@ -18476,7 +19030,9 @@
       "city": "Muskego",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1352031628",
@@ -18493,7 +19049,9 @@
       "city": "Town of Geneva",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1352713548",
@@ -18529,7 +19087,9 @@
       "city": "Town of Linn",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1353949632",
@@ -18546,7 +19106,9 @@
       "city": "Lake Geneva",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1354698906",
@@ -18597,7 +19159,9 @@
       "city": "Cazenovia",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1358682910",
@@ -18614,7 +19178,9 @@
       "city": "Town of Linn",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1360565299",
@@ -18631,7 +19197,9 @@
       "city": "Lake Geneva",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1360844404",
@@ -18648,7 +19216,9 @@
       "city": "Town of Geneva",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1361122382",
@@ -18701,7 +19271,9 @@
       "city": "Town of Bloomfield",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1365098713",
@@ -18771,7 +19343,9 @@
       "city": "Town of Wilson",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1385693743",
@@ -18805,7 +19379,9 @@
       "city": "Village of Maine",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1394081170",
@@ -18822,7 +19398,9 @@
       "city": "Menomonee Falls",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1396634689",
@@ -18913,7 +19491,9 @@
       "city": "Mequon",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1413180735",
@@ -18930,7 +19510,9 @@
       "city": "River Hills",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1414555931",
@@ -19000,7 +19582,9 @@
       "city": "Town of Lafayette",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1421411455",
@@ -19017,7 +19601,9 @@
       "city": "Town of Lafayette",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1422754310",
@@ -19223,7 +19809,9 @@
       "city": "Town of Winchester",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1436271200",
@@ -19429,7 +20017,9 @@
       "city": "Menasha",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1447860042",
@@ -19446,7 +20036,9 @@
       "city": "Madison",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1448288310",
@@ -19463,7 +20055,9 @@
       "city": "Town of Seymour",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1452564348",
@@ -19497,7 +20091,9 @@
       "city": "Town of Lake Holcombe",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1456783944",
@@ -19603,7 +20199,9 @@
       "city": "Town of Rib Lake",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1459907602",
@@ -19637,7 +20235,9 @@
       "city": "Oneida County",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1463244871",
@@ -19654,7 +20254,9 @@
       "city": "Village of Vernon",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1466069723",
@@ -19690,7 +20292,9 @@
       "city": "Kenosha",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1467178819",
@@ -19741,7 +20345,9 @@
       "city": "Cassville",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470102664",
@@ -19775,7 +20381,9 @@
       "city": "Coon Valley",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470129926",
@@ -19792,7 +20400,9 @@
       "city": "Hudson",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470130040",
@@ -19809,7 +20419,9 @@
       "city": "Hudson",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470130739",
@@ -19843,7 +20455,9 @@
       "city": "Kennan",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470130895",
@@ -19860,7 +20474,9 @@
       "city": "Pepin",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470130969",
@@ -19877,7 +20493,9 @@
       "city": "Mondovi",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470132116",
@@ -19945,7 +20563,9 @@
       "city": "Town of Cable",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470133506",
@@ -19962,7 +20582,9 @@
       "city": "Town of Drummond",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470133668",
@@ -19979,7 +20601,9 @@
       "city": "Town of Cable",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470133832",
@@ -20013,7 +20637,9 @@
       "city": "Mellen",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470137174",
@@ -20030,7 +20656,9 @@
       "city": "Town of Bell",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470138220",
@@ -20047,7 +20675,9 @@
       "city": "Ladysmith",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470138273",
@@ -20115,7 +20745,9 @@
       "city": "Town of Land O' Lakes",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470140086",
@@ -20149,7 +20781,9 @@
       "city": "Niagara",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470142682",
@@ -20234,7 +20868,9 @@
       "city": "Hillsboro",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1470146062",
@@ -20268,7 +20904,9 @@
       "city": "Town of Gibraltar",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471823697",
@@ -20353,7 +20991,9 @@
       "city": "Mequon",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471826052",
@@ -20370,7 +21010,9 @@
       "city": "Mequon",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471826188",
@@ -20404,7 +21046,9 @@
       "city": "Muskego",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1475488708",
@@ -20421,7 +21065,9 @@
       "city": "Milwaukee",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1476194240",
@@ -20438,7 +21084,9 @@
       "city": "Town of Saint Germain",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1476194241",
@@ -20455,7 +21103,9 @@
       "city": "Town of Saint Germain",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1478696334",
@@ -20472,7 +21122,9 @@
       "city": "Waukesha",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1478696470",
@@ -20489,7 +21141,9 @@
       "city": "Weyauwega",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1478696515",
@@ -20506,7 +21160,9 @@
       "city": "Town of Plover",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1479897864",
@@ -20574,7 +21230,9 @@
       "city": "Clintonville",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1480378147",
@@ -20591,7 +21249,9 @@
       "city": "West Middleton",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1481449841",
@@ -20642,7 +21302,9 @@
       "city": "Town of Grand Chute",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1481450900",
@@ -20727,7 +21389,9 @@
       "city": "Oshkosh",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1481465175",
@@ -20795,7 +21459,9 @@
       "city": "Oakfield",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1481485354",
@@ -21156,7 +21822,9 @@
       "city": "Mineral Point",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1481560529",
@@ -21243,7 +21911,9 @@
       "city": "Lauderdale",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1481564209",
@@ -21313,7 +21983,9 @@
       "city": "Town of Linn",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1489464120",
@@ -21330,7 +22002,9 @@
       "city": "Adams County",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1496241725",
@@ -21400,7 +22074,9 @@
       "city": "Marion",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1506924231",
@@ -21472,7 +22148,9 @@
       "city": "Village of Somers",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1513219267",
@@ -21523,7 +22201,9 @@
       "city": "North Hudson",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1521093596",
@@ -21557,7 +22237,9 @@
       "city": "Town of Lyndon",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1521967503",
@@ -21591,7 +22273,9 @@
       "city": "Ephraim",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526897902",
@@ -21731,7 +22415,9 @@
       "city": "New Berlin",
       "state": "WI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     }
   ]
 }

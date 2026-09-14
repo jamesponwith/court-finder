@@ -395,7 +395,9 @@
       "city": "Amberley Village",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w33119967",
@@ -480,7 +482,9 @@
       "city": "Cincinnati",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w33678005",
@@ -754,7 +758,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w33871240",
@@ -771,7 +777,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w33971767",
@@ -805,7 +813,9 @@
       "city": "Cincinnati",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w33973117",
@@ -858,7 +868,9 @@
       "city": "Lebanon",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w34048054",
@@ -875,7 +887,9 @@
       "city": "Cincinnati",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w34048260",
@@ -1017,7 +1031,9 @@
       "city": "Mason",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w34403038",
@@ -1191,7 +1207,9 @@
       "city": "Butler County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w36833343",
@@ -1225,7 +1243,9 @@
       "city": "Fairfield",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w36951792",
@@ -1242,7 +1262,9 @@
       "city": "Forest Park",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w36951837",
@@ -1259,7 +1281,9 @@
       "city": "Forest Park",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w36951880",
@@ -1310,7 +1334,9 @@
       "city": "Warren County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w37299752",
@@ -1327,7 +1353,9 @@
       "city": "Clermont County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w37511179",
@@ -1433,7 +1461,9 @@
       "city": "Dayton",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w38347959",
@@ -1541,7 +1571,9 @@
       "city": "Kenwood",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w39791601",
@@ -1558,7 +1590,9 @@
       "city": "West Carrollton",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w39861469",
@@ -1575,7 +1609,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w40838332",
@@ -1645,7 +1681,9 @@
       "city": "Warren County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w41938144",
@@ -1679,7 +1717,9 @@
       "city": "Hamilton County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w42484273",
@@ -1751,7 +1791,9 @@
       "city": "Golf Manor",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w45098583",
@@ -1768,7 +1810,9 @@
       "city": "Cincinnati",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w45098738",
@@ -1785,7 +1829,9 @@
       "city": "Cincinnati",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w45474702",
@@ -1819,7 +1865,9 @@
       "city": "Cincinnati",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w45761697",
@@ -1853,7 +1901,9 @@
       "city": "Cincinnati",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w48844096",
@@ -1887,7 +1937,9 @@
       "city": "Hamilton County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w49801058",
@@ -1904,7 +1956,9 @@
       "city": "Clermont County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w50981233",
@@ -1941,7 +1995,9 @@
       "city": "Harrison",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w52096529",
@@ -1958,7 +2014,9 @@
       "city": "Glendale",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w52097584",
@@ -1975,7 +2033,9 @@
       "city": "Forest Park",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w52097693",
@@ -2009,7 +2069,9 @@
       "city": "Springdale",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w52303015",
@@ -2079,7 +2141,9 @@
       "city": "Hamilton County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w56235508",
@@ -2181,7 +2245,9 @@
       "city": "Cincinnati",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w56394863",
@@ -2338,7 +2404,9 @@
       "city": "Hamilton County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w61014893",
@@ -2374,7 +2442,9 @@
       "city": "Miamisburg",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w61259212",
@@ -2391,7 +2461,9 @@
       "city": "Huber Heights",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w61435341",
@@ -2408,7 +2480,9 @@
       "city": "Montgomery County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w61435659",
@@ -2444,7 +2518,9 @@
       "city": "Cincinnati",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w64606100",
@@ -2533,7 +2609,9 @@
       "city": "Sharonville",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w68521935",
@@ -2654,7 +2732,9 @@
       "city": "Montgomery County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w74476397",
@@ -2690,7 +2770,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w75144729",
@@ -2707,7 +2789,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w75145634",
@@ -2724,7 +2808,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w75146181",
@@ -2741,7 +2827,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w75146294",
@@ -2758,7 +2846,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w75146872",
@@ -2775,7 +2865,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w75146942",
@@ -2792,7 +2884,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w75147028",
@@ -2809,7 +2903,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w75148520",
@@ -2826,7 +2922,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w75148640",
@@ -2843,7 +2941,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w75160056",
@@ -2860,7 +2960,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w75160257",
@@ -2877,7 +2979,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w75160487",
@@ -2894,7 +2998,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w75160689",
@@ -2911,7 +3017,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w75161382",
@@ -2947,7 +3055,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w75162966",
@@ -2964,7 +3074,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w75164748",
@@ -3121,7 +3233,9 @@
       "city": "Centerville",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w75504384",
@@ -3138,7 +3252,9 @@
       "city": "Centerville",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w75564047",
@@ -3225,7 +3341,9 @@
       "city": "Fairborn",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w76436544",
@@ -3242,7 +3360,9 @@
       "city": "Fairborn",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w76816082",
@@ -3344,7 +3464,9 @@
       "city": "Beavercreek",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w77986852",
@@ -3361,7 +3483,9 @@
       "city": "Beavercreek",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w77989206",
@@ -3378,7 +3502,9 @@
       "city": "Beavercreek",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w78389880",
@@ -3431,7 +3557,9 @@
       "city": "Cincinnati",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w79450957",
@@ -3448,7 +3576,9 @@
       "city": "Cincinnati",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w79450961",
@@ -3465,7 +3595,9 @@
       "city": "Cincinnati",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w79451022",
@@ -3482,7 +3614,9 @@
       "city": "Hamilton County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w79451391",
@@ -3499,7 +3633,9 @@
       "city": "Cincinnati",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w79455106",
@@ -3516,7 +3652,9 @@
       "city": "Hamilton County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w79456729",
@@ -3533,7 +3671,9 @@
       "city": "Hamilton County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w79466667",
@@ -3586,7 +3726,9 @@
       "city": "Hamilton County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w79474814",
@@ -3603,7 +3745,9 @@
       "city": "Hamilton County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w79587368",
@@ -3620,7 +3764,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w79587377",
@@ -3637,7 +3783,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w79587381",
@@ -3654,7 +3802,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w79587385",
@@ -3671,7 +3821,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w79587388",
@@ -3688,7 +3840,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w79587389",
@@ -3705,7 +3859,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w79587392",
@@ -3722,7 +3878,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w79587393",
@@ -3739,7 +3897,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w79587394",
@@ -3756,7 +3916,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w79587513",
@@ -3773,7 +3935,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w79587514",
@@ -3790,7 +3954,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w79587516",
@@ -3807,7 +3973,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w79587522",
@@ -3824,7 +3992,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w79587527",
@@ -3841,7 +4011,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w79587530",
@@ -3858,7 +4030,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w79587544",
@@ -3875,7 +4049,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w79587565",
@@ -3892,7 +4068,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w79587635",
@@ -3909,7 +4087,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w80208015",
@@ -3943,7 +4123,9 @@
       "city": "Cincinnati",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w80217721",
@@ -3977,7 +4159,9 @@
       "city": "Hamilton County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w80220978",
@@ -4011,7 +4195,9 @@
       "city": "Cincinnati",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w80319625",
@@ -4045,7 +4231,9 @@
       "city": "Amberley Village",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w80321902",
@@ -4098,7 +4286,9 @@
       "city": "Hamilton County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w81176599",
@@ -4183,7 +4373,9 @@
       "city": "Butler County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w81817193",
@@ -4236,7 +4428,9 @@
       "city": "Yellow Springs",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w83700937",
@@ -4272,7 +4466,9 @@
       "city": "Fairfield",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w889078447",
@@ -4309,7 +4505,9 @@
       "city": "Butler County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w84271136",
@@ -4360,7 +4558,9 @@
       "city": "Akron",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w86483994",
@@ -4506,7 +4706,9 @@
       "city": "Summit County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w86972820",
@@ -4574,7 +4776,9 @@
       "city": "Richfield",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w86974787",
@@ -4591,7 +4795,9 @@
       "city": "Summit County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w86991315",
@@ -4782,7 +4988,9 @@
       "city": "Middletown",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w89003195",
@@ -4799,7 +5007,9 @@
       "city": "Hamilton County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w89385626",
@@ -4869,7 +5079,9 @@
       "city": "Cincinnati",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w91644042",
@@ -4922,7 +5134,9 @@
       "city": "Clermont County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w94876938",
@@ -4939,7 +5153,9 @@
       "city": "Hamilton County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w95467849",
@@ -4956,7 +5172,9 @@
       "city": "Warren County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w95492566",
@@ -4973,7 +5191,9 @@
       "city": "Hamilton County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w96020550",
@@ -5075,7 +5295,9 @@
       "city": "Dayton",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w97511390",
@@ -5177,7 +5399,9 @@
       "city": "Warren County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w98411524",
@@ -5194,7 +5418,9 @@
       "city": "Warren County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w98411660",
@@ -5211,7 +5437,9 @@
       "city": "Mason",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w98416345",
@@ -5262,7 +5490,9 @@
       "city": "Middletown",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w100119746",
@@ -5332,7 +5562,9 @@
       "city": "Centerville",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w100549064",
@@ -5349,7 +5581,9 @@
       "city": "Montgomery County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w100549084",
@@ -5366,7 +5600,9 @@
       "city": "Centerville",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w100557189",
@@ -5400,7 +5636,9 @@
       "city": "Greene County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w100557249",
@@ -5417,7 +5655,9 @@
       "city": "Beavercreek",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w100764414",
@@ -5434,7 +5674,9 @@
       "city": "Hamilton County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w100953092",
@@ -5538,7 +5780,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w104996253",
@@ -5663,7 +5907,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w108052471",
@@ -5680,7 +5926,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w108281353",
@@ -5803,7 +6051,9 @@
       "city": "Butler County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w114495076",
@@ -6096,7 +6346,9 @@
       "city": "Oxford",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w129019677",
@@ -6113,7 +6365,9 @@
       "city": "Clark County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w129021255",
@@ -6306,7 +6560,9 @@
       "city": "Centerville",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w132751109",
@@ -6323,7 +6579,9 @@
       "city": "Centerville",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w132784385",
@@ -6340,7 +6598,9 @@
       "city": "Clayton",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w132910059",
@@ -6357,7 +6617,9 @@
       "city": "Englewood",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w133020829",
@@ -6497,7 +6759,9 @@
       "city": "Miami County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w133764206",
@@ -6548,7 +6812,9 @@
       "city": "Piqua",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w134366540",
@@ -6565,7 +6831,9 @@
       "city": "Piqua",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w134466546",
@@ -6582,7 +6850,9 @@
       "city": "Miami County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w134876479",
@@ -6599,7 +6869,9 @@
       "city": "Troy",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w134876504",
@@ -6616,7 +6888,9 @@
       "city": "Troy",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w135370237",
@@ -6633,7 +6907,9 @@
       "city": "Clinton County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w135370263",
@@ -6650,7 +6926,9 @@
       "city": "Clinton County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w135627379",
@@ -6667,7 +6945,9 @@
       "city": "Montgomery County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w135627401",
@@ -6684,7 +6964,9 @@
       "city": "Montgomery County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w136161308",
@@ -6718,7 +7000,9 @@
       "city": "Batavia",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w137507631",
@@ -6735,7 +7019,9 @@
       "city": "Montgomery County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w137507647",
@@ -6752,7 +7038,9 @@
       "city": "Montgomery County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w137507655",
@@ -6769,7 +7057,9 @@
       "city": "Montgomery County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w137507659",
@@ -6786,7 +7076,9 @@
       "city": "Montgomery County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w137508578",
@@ -6803,7 +7095,9 @@
       "city": "Montgomery County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w137508581",
@@ -6820,7 +7114,9 @@
       "city": "Montgomery County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w137508584",
@@ -6837,7 +7133,9 @@
       "city": "Montgomery County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w137508595",
@@ -6854,7 +7152,9 @@
       "city": "Moraine",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w137508602",
@@ -6871,7 +7171,9 @@
       "city": "Montgomery County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w137508608",
@@ -6888,7 +7190,9 @@
       "city": "Montgomery County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w138654930",
@@ -6956,7 +7260,9 @@
       "city": "Montgomery County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w142759554",
@@ -6990,7 +7296,9 @@
       "city": "Beavercreek",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w143018013",
@@ -7007,7 +7315,9 @@
       "city": "Montgomery County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w143018019",
@@ -7024,7 +7334,9 @@
       "city": "Montgomery County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w143021176",
@@ -7041,7 +7353,9 @@
       "city": "Montgomery County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w145009120",
@@ -7092,7 +7406,9 @@
       "city": "Montgomery County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w148029879",
@@ -7109,7 +7425,9 @@
       "city": "Montgomery County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w153197155",
@@ -7160,7 +7478,9 @@
       "city": "Butler County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w154456192",
@@ -7177,7 +7497,9 @@
       "city": "Harrison",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w155054275",
@@ -7245,7 +7567,9 @@
       "city": "Brookville",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w156265143",
@@ -7366,7 +7690,9 @@
       "city": "Centerville",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w161026327",
@@ -7383,7 +7709,9 @@
       "city": "Centerville",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w161080303",
@@ -7521,7 +7849,9 @@
       "city": "Navarre",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w164420206",
@@ -7538,7 +7868,9 @@
       "city": "Bolivar",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w165490825",
@@ -7623,7 +7955,9 @@
       "city": "Amberley Village",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w168959572",
@@ -7640,7 +7974,9 @@
       "city": "Mason",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w169314258",
@@ -7691,7 +8027,9 @@
       "city": "Kenwood",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w170960881",
@@ -7831,7 +8169,9 @@
       "city": "Cincinnati",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w181225412",
@@ -7848,7 +8188,9 @@
       "city": "Liberty Center",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w181230527",
@@ -7882,7 +8224,9 @@
       "city": "Beavercreek",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w384221925",
@@ -8143,7 +8487,9 @@
       "city": "Warren County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w187990389",
@@ -8196,7 +8542,9 @@
       "city": "Delaware County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w188008242",
@@ -8213,7 +8561,9 @@
       "city": "Licking County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w188009405",
@@ -8300,7 +8650,9 @@
       "city": "Clark County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w189150964",
@@ -8404,7 +8756,9 @@
       "city": "Butler County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w190603487",
@@ -8489,7 +8843,9 @@
       "city": "Huber Heights",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w191708339",
@@ -8523,7 +8879,9 @@
       "city": "Hamilton County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w195522743",
@@ -8608,7 +8966,9 @@
       "city": "Clermont County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w197928095",
@@ -8712,7 +9072,9 @@
       "city": "Tipp City",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w201071829",
@@ -8729,7 +9091,9 @@
       "city": "Hamilton County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w201880928",
@@ -8746,7 +9110,9 @@
       "city": "Hamilton County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w202271181",
@@ -8763,7 +9129,9 @@
       "city": "Cincinnati",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w203341271",
@@ -8780,7 +9148,9 @@
       "city": "Centerville",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w203341308",
@@ -8797,7 +9167,9 @@
       "city": "Centerville",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w204365046",
@@ -8814,7 +9186,9 @@
       "city": "Hamilton",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w204365727",
@@ -8831,7 +9205,9 @@
       "city": "Hamilton",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w205492277",
@@ -8867,7 +9243,9 @@
       "city": "Butler County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w205868562",
@@ -8884,7 +9262,9 @@
       "city": "Butler County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w205877914",
@@ -8901,7 +9281,9 @@
       "city": "Springboro",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w208168568",
@@ -9003,7 +9385,9 @@
       "city": "Doylestown",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w213567410",
@@ -9037,7 +9421,9 @@
       "city": "Montgomery County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w216274880",
@@ -9054,7 +9440,9 @@
       "city": "New Richmond",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w217214652",
@@ -9105,7 +9493,9 @@
       "city": "Montgomery County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w224925223",
@@ -9122,7 +9512,9 @@
       "city": "Warren County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w227764662",
@@ -9158,7 +9550,9 @@
       "city": "Ballville",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w229129974",
@@ -9175,7 +9569,9 @@
       "city": "Vandalia",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w229432165",
@@ -9332,7 +9728,9 @@
       "city": "Maumee",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w231965570",
@@ -9419,7 +9817,9 @@
       "city": "Columbus",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w233645027",
@@ -9538,7 +9938,9 @@
       "city": "Hamilton County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w236145986",
@@ -9555,7 +9957,9 @@
       "city": "Logan County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w237586856",
@@ -9816,7 +10220,9 @@
       "city": "West Alexandria",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w239267075",
@@ -9886,7 +10292,9 @@
       "city": "Bluffton",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w239860425",
@@ -9903,7 +10311,9 @@
       "city": "Clermont County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w239951213",
@@ -10028,7 +10438,9 @@
       "city": "McComb",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w241879736",
@@ -10168,7 +10580,9 @@
       "city": "Union County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w244030813",
@@ -10219,7 +10633,9 @@
       "city": "Warren County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w244765795",
@@ -10380,7 +10796,9 @@
       "city": "Dublin",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w246571935",
@@ -10450,7 +10868,9 @@
       "city": "Huber Heights",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w252921158",
@@ -10698,7 +11118,9 @@
       "city": "Bellevue",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w264061348",
@@ -10872,7 +11294,9 @@
       "city": "Hamilton County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w272841609",
@@ -10957,7 +11381,9 @@
       "city": "Continental",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w279483061",
@@ -11008,7 +11434,9 @@
       "city": "Cygnet",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w284387362",
@@ -11078,7 +11506,9 @@
       "city": "Vanlue",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w286836200",
@@ -11112,7 +11542,9 @@
       "city": "Conneaut",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w287681217",
@@ -11129,7 +11561,9 @@
       "city": "Eastlake",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w287681237",
@@ -11341,7 +11775,9 @@
       "city": "Sidney",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w295376516",
@@ -11375,7 +11811,9 @@
       "city": "Lorain County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w297458187",
@@ -11392,7 +11830,9 @@
       "city": "Apple Creek",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w297458250",
@@ -11499,7 +11939,9 @@
       "city": "Forest",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w304308936",
@@ -11516,7 +11958,9 @@
       "city": "Deshler",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w305653521",
@@ -11618,7 +12062,9 @@
       "city": "Beavercreek",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w309367151",
@@ -11635,7 +12081,9 @@
       "city": "Fairborn",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w310186111",
@@ -11688,7 +12136,9 @@
       "city": "Dublin",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w310869872",
@@ -11756,7 +12206,9 @@
       "city": "Bellbrook",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w312821709",
@@ -11966,7 +12418,9 @@
       "city": "Montgomery County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w320175186",
@@ -12089,7 +12543,9 @@
       "city": "Green Springs",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w327214969",
@@ -12405,7 +12861,9 @@
       "city": "Blue Ash",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w337276380",
@@ -12545,7 +13003,9 @@
       "city": "Dayton",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w341931302",
@@ -12562,7 +13022,9 @@
       "city": "Guernsey County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w342209175",
@@ -12787,7 +13249,9 @@
       "city": "Metamora",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w355407650",
@@ -12804,7 +13268,9 @@
       "city": "Ney",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w355418765",
@@ -12963,7 +13429,9 @@
       "city": "Orrville",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w363746837",
@@ -12997,7 +13465,9 @@
       "city": "Maumee",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w365614869",
@@ -13031,7 +13501,9 @@
       "city": "Leipsic",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w366028414",
@@ -13065,7 +13537,9 @@
       "city": "Sherwood",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w372481513",
@@ -13171,7 +13645,9 @@
       "city": "Fostoria",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w378948242",
@@ -13275,7 +13751,9 @@
       "city": "Clay Center",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w382105937",
@@ -13292,7 +13770,9 @@
       "city": "Licking County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w384222714",
@@ -13500,7 +13980,9 @@
       "city": "Columbus",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w389326536",
@@ -13517,7 +13999,9 @@
       "city": "Rawson",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w391006321",
@@ -13657,7 +14141,9 @@
       "city": "Willowick",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w402515184",
@@ -13674,7 +14160,9 @@
       "city": "Wood County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w402523783",
@@ -13708,7 +14196,9 @@
       "city": "Devola",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w405678050",
@@ -13742,7 +14232,9 @@
       "city": "Stark County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w413038657",
@@ -13759,7 +14251,9 @@
       "city": "Allen County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w413038658",
@@ -13776,7 +14270,9 @@
       "city": "Allen County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w413492613",
@@ -13810,7 +14306,9 @@
       "city": "Kent",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w421664641",
@@ -13863,7 +14361,9 @@
       "city": "Mineral City",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w424602456",
@@ -13880,7 +14380,9 @@
       "city": "Huron",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w424602936",
@@ -13897,7 +14399,9 @@
       "city": "Huron",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w424676085",
@@ -13969,7 +14473,9 @@
       "city": "Wellington",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w426338796",
@@ -13986,7 +14492,9 @@
       "city": "Lorain County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w426479972",
@@ -14037,7 +14545,9 @@
       "city": "Columbus",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w429219857",
@@ -14156,7 +14666,9 @@
       "city": "Middlefield Village",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w449474731",
@@ -14173,7 +14685,9 @@
       "city": "Columbus",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w449474732",
@@ -14190,7 +14704,9 @@
       "city": "Columbus",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w449620285",
@@ -14258,7 +14774,9 @@
       "city": "Ballville",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w458778822",
@@ -14859,7 +15377,9 @@
       "city": "Cleveland",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w477791135",
@@ -15014,7 +15534,9 @@
       "city": "McConnelsville",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w487428342",
@@ -15082,7 +15604,9 @@
       "city": "Columbus",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w493515670",
@@ -15099,7 +15623,9 @@
       "city": "Woodville",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w496769117",
@@ -15345,7 +15871,9 @@
       "city": "Hamilton County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w531207797",
@@ -15362,7 +15890,9 @@
       "city": "Sharonville",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w535300452",
@@ -15379,7 +15909,9 @@
       "city": "Roseville",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w537306910",
@@ -15572,7 +16104,9 @@
       "city": "Columbus",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w545954671",
@@ -15640,7 +16174,9 @@
       "city": "Columbus",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w547194499",
@@ -15657,7 +16193,9 @@
       "city": "Columbus",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w547978363",
@@ -15727,7 +16265,9 @@
       "city": "Munroe Falls",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w549455042",
@@ -15882,7 +16422,9 @@
       "city": "Columbus",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w551387584",
@@ -15899,7 +16441,9 @@
       "city": "Columbus",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w551388136",
@@ -15967,7 +16511,9 @@
       "city": "Westerville",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w552272485",
@@ -16035,7 +16581,9 @@
       "city": "Columbus",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w553689532",
@@ -16052,7 +16600,9 @@
       "city": "Columbus",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w553689951",
@@ -16120,7 +16670,9 @@
       "city": "Delaware",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w554444573",
@@ -16171,7 +16723,9 @@
       "city": "Delaware County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w554638916",
@@ -16188,7 +16742,9 @@
       "city": "Franklin County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w554642582",
@@ -16222,7 +16778,9 @@
       "city": "Franklin County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w555391780",
@@ -16345,7 +16903,9 @@
       "city": "Wyoming",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w560622014",
@@ -16419,7 +16979,9 @@
       "city": "Franklin County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w561682696",
@@ -16436,7 +16998,9 @@
       "city": "Columbus",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w563526702",
@@ -16472,7 +17036,9 @@
       "city": "Columbus",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w563702980",
@@ -16489,7 +17055,9 @@
       "city": "Akron",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w564014312",
@@ -16580,7 +17148,9 @@
       "city": "Union County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w574964752",
@@ -16597,7 +17167,9 @@
       "city": "Brown County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w574975554",
@@ -16614,7 +17186,9 @@
       "city": "Georgetown",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w575388822",
@@ -16703,7 +17277,9 @@
       "city": "Upper Arlington",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w584074364",
@@ -16792,7 +17368,9 @@
       "city": "Orwell",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w587520499",
@@ -16826,7 +17404,9 @@
       "city": "Magnolia",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w587778250",
@@ -16928,7 +17508,9 @@
       "city": "Lorain County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w590003236",
@@ -16945,7 +17527,9 @@
       "city": "Vermilion",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w590841219",
@@ -16962,7 +17546,9 @@
       "city": "Vermilion",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w590841254",
@@ -16996,7 +17582,9 @@
       "city": "Vermilion",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w595244686",
@@ -17242,7 +17830,9 @@
       "city": "Stark County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w622973682",
@@ -17435,7 +18025,9 @@
       "city": "Gahanna",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w631098044",
@@ -17541,7 +18133,9 @@
       "city": "Fairfield",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w632339865",
@@ -17939,7 +18533,9 @@
       "city": "East Cleveland",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w637618421",
@@ -17990,7 +18586,9 @@
       "city": "Gahanna",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w643222424",
@@ -18043,7 +18641,9 @@
       "city": "Clinton County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w646322734",
@@ -18079,7 +18679,9 @@
       "city": "Gahanna",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w649186128",
@@ -18096,7 +18698,9 @@
       "city": "Port Clinton",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w654040404",
@@ -18113,7 +18717,9 @@
       "city": "Scioto County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w654094498",
@@ -18372,7 +18978,9 @@
       "city": "Roaming Shores",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w689359356",
@@ -18565,7 +19173,9 @@
       "city": "Eaton",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w702426629",
@@ -18599,7 +19209,9 @@
       "city": "Lafayette",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w703913650",
@@ -18616,7 +19228,9 @@
       "city": "Morrow County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w706085991",
@@ -18652,7 +19266,9 @@
       "city": "Boardman Township",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w713880084",
@@ -18754,7 +19370,9 @@
       "city": "Mount Cory",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w724462449",
@@ -18790,7 +19408,9 @@
       "city": "Beavercreek",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w725190070",
@@ -18824,7 +19444,9 @@
       "city": "Whitehall",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w728912640",
@@ -18894,7 +19516,9 @@
       "city": "Montgomery County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w728914406",
@@ -18945,7 +19569,9 @@
       "city": "Kettering",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w728914410",
@@ -18962,7 +19588,9 @@
       "city": "Centerville",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w728914414",
@@ -18979,7 +19607,9 @@
       "city": "Montgomery County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w728914427",
@@ -18996,7 +19626,9 @@
       "city": "Kettering",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w728914431",
@@ -19013,7 +19645,9 @@
       "city": "Centerville",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w728914979",
@@ -19030,7 +19664,9 @@
       "city": "Montgomery County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w728914980",
@@ -19047,7 +19683,9 @@
       "city": "Montgomery County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w728914981",
@@ -19064,7 +19702,9 @@
       "city": "Centerville",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w729433136",
@@ -19132,7 +19772,9 @@
       "city": "Montgomery County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w732698391",
@@ -19493,7 +20135,9 @@
       "city": "Toledo",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w757919269",
@@ -19546,7 +20190,9 @@
       "city": "Geauga County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w758831188",
@@ -19614,7 +20260,9 @@
       "city": "Maumee",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w768982465",
@@ -19667,7 +20315,9 @@
       "city": "Maumee",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w769785447",
@@ -19754,7 +20404,9 @@
       "city": "Franklin County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w777560212",
@@ -19771,7 +20423,9 @@
       "city": "Dayton",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w781136856",
@@ -19788,7 +20442,9 @@
       "city": "Dublin",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w781163802",
@@ -19822,7 +20478,9 @@
       "city": "Toledo",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w793958501",
@@ -19890,7 +20548,9 @@
       "city": "Darke County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w808270778",
@@ -19924,7 +20584,9 @@
       "city": "Ottawa County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w819275412",
@@ -19975,7 +20637,9 @@
       "city": "Columbus",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w829250189",
@@ -20060,7 +20724,9 @@
       "city": "Pitsburg",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w842891247",
@@ -20077,7 +20743,9 @@
       "city": "Arcanum",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w844669228",
@@ -20200,7 +20868,9 @@
       "city": "Sandusky",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w853049083",
@@ -20217,7 +20887,9 @@
       "city": "Hamilton",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w855284057",
@@ -20234,7 +20906,9 @@
       "city": "Ottawa County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w860883197",
@@ -20285,7 +20959,9 @@
       "city": "Columbus",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w867151417",
@@ -20302,7 +20978,9 @@
       "city": "Butler County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w889930367",
@@ -20319,7 +20997,9 @@
       "city": "Sheffield Lake",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w893297664",
@@ -20372,7 +21052,9 @@
       "city": "Jeromesville",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w894249019",
@@ -20440,7 +21122,9 @@
       "city": "Highland County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w903629897",
@@ -20561,7 +21245,9 @@
       "city": "Licking County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w916069479",
@@ -20595,7 +21281,9 @@
       "city": "Marietta",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w917533994",
@@ -20629,7 +21317,9 @@
       "city": "Beverly",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w917578982",
@@ -20663,7 +21353,9 @@
       "city": "Muskingum County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w917581503",
@@ -20680,7 +21372,9 @@
       "city": "Crooksville",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w917581533",
@@ -20822,7 +21516,9 @@
       "city": "Columbus",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w917585452",
@@ -20890,7 +21586,9 @@
       "city": "New Riegel",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w917585998",
@@ -20941,7 +21639,9 @@
       "city": "Toledo",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w917819791",
@@ -20958,7 +21658,9 @@
       "city": "Toledo",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w917819916",
@@ -20994,7 +21696,9 @@
       "city": "Lyons",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w917820553",
@@ -21045,7 +21749,9 @@
       "city": "Cridersville",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w917821331",
@@ -21079,7 +21785,9 @@
       "city": "Columbus",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w918759518",
@@ -21096,7 +21804,9 @@
       "city": "Newton Falls",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w918762438",
@@ -21219,7 +21929,9 @@
       "city": "Richland County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w918934879",
@@ -21291,7 +22003,9 @@
       "city": "Shelby",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w918937413",
@@ -21308,7 +22022,9 @@
       "city": "Fairfield County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w919943990",
@@ -21380,7 +22096,9 @@
       "city": "Parma",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w920902123",
@@ -21522,7 +22240,9 @@
       "city": "Greene County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w937310020",
@@ -21556,7 +22276,9 @@
       "city": "Moraine",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w939134792",
@@ -21662,7 +22384,9 @@
       "city": "Cleveland",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w955154908",
@@ -21876,7 +22600,9 @@
       "city": "Geauga County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w984992816",
@@ -21893,7 +22619,9 @@
       "city": "Hunting Valley",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w984998883",
@@ -21910,7 +22638,9 @@
       "city": "Chesterland",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w985673588",
@@ -21963,7 +22693,9 @@
       "city": "Hunting Valley",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w988887430",
@@ -22313,7 +23045,9 @@
       "city": "Put-in-Bay",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1020164827",
@@ -22383,7 +23117,9 @@
       "city": "Licking County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1025246247",
@@ -22434,7 +23170,9 @@
       "city": "Gates Mills",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1037859245",
@@ -22451,7 +23189,9 @@
       "city": "Stark County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1039598518",
@@ -22468,7 +23208,9 @@
       "city": "Stark County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1041818477",
@@ -22591,7 +23333,9 @@
       "city": "Rittman",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1049244027",
@@ -22697,7 +23441,9 @@
       "city": "Toledo",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1054294038",
@@ -22733,7 +23479,9 @@
       "city": "Smithfield",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1056930809",
@@ -22750,7 +23498,9 @@
       "city": "Union County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1057042076",
@@ -22871,7 +23621,9 @@
       "city": "Stark County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1065979531",
@@ -23041,7 +23793,9 @@
       "city": "Bazetta Township",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1072894741",
@@ -23092,7 +23846,9 @@
       "city": "Gates Mills",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1085210367",
@@ -23160,7 +23916,9 @@
       "city": "Brunswick",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1086716233",
@@ -23283,7 +24041,9 @@
       "city": "Upper Arlington",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1106674425",
@@ -23300,7 +24060,9 @@
       "city": "Upper Arlington",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1107640462",
@@ -23370,7 +24132,9 @@
       "city": "Montgomery County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1118738404",
@@ -23387,7 +24151,9 @@
       "city": "Cortland",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1119212211",
@@ -23404,7 +24170,9 @@
       "city": "Cortland",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1122171496",
@@ -23438,7 +24206,9 @@
       "city": "Cortland",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1124049398",
@@ -23472,7 +24242,9 @@
       "city": "Jerome",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1125086950",
@@ -23506,7 +24278,9 @@
       "city": "Hilliard",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1125525070",
@@ -23593,7 +24367,9 @@
       "city": "Medina County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1126131508",
@@ -23712,7 +24488,9 @@
       "city": "Broadview Heights",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1126350548",
@@ -23729,7 +24507,9 @@
       "city": "Seven Hills",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1126830282",
@@ -23763,7 +24543,9 @@
       "city": "Vienna Center",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1128109634",
@@ -23954,7 +24736,9 @@
       "city": "Salineville",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1162665717",
@@ -24115,7 +24899,9 @@
       "city": "Ashland County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1153850567",
@@ -24151,7 +24937,9 @@
       "city": "Cleveland Heights",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1154153254",
@@ -24206,7 +24994,9 @@
       "city": "Creston",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1154619827",
@@ -24276,7 +25066,9 @@
       "city": "Ashtabula County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1155674727",
@@ -24293,7 +25085,9 @@
       "city": "Waterford",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1155918567",
@@ -24310,7 +25104,9 @@
       "city": "Windham",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1155937585",
@@ -24558,7 +25354,9 @@
       "city": "Silver Lake",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1160534145",
@@ -24575,7 +25373,9 @@
       "city": "Pandora",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1161523679",
@@ -24662,7 +25462,9 @@
       "city": "St. Henry",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1162664951",
@@ -24842,7 +25644,9 @@
       "city": "Toledo",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1167459955",
@@ -24893,7 +25697,9 @@
       "city": "Cleveland",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1168831036",
@@ -24963,7 +25769,9 @@
       "city": "Washington County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1172771976",
@@ -24980,7 +25788,9 @@
       "city": "Gates Mills",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1173114432",
@@ -25014,7 +25824,9 @@
       "city": "Gates Mills",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1173761606",
@@ -25065,7 +25877,9 @@
       "city": "Carrollton",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1176485139",
@@ -25303,7 +26117,9 @@
       "city": "Brewster",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1193581666",
@@ -25320,7 +26136,9 @@
       "city": "Kent",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1196067716",
@@ -25354,7 +26172,9 @@
       "city": "Troy",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1200634719",
@@ -25405,7 +26225,9 @@
       "city": "Adams County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1210840030",
@@ -25562,7 +26384,9 @@
       "city": "New Albany",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1227043317",
@@ -25579,7 +26403,9 @@
       "city": "New Albany",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1228038954",
@@ -25666,7 +26492,9 @@
       "city": "Cuyahoga Falls",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1235349201",
@@ -25870,7 +26698,9 @@
       "city": "North Olmsted",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1258851806",
@@ -25887,7 +26717,9 @@
       "city": "Twinsburg",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1259528609",
@@ -25904,7 +26736,9 @@
       "city": "Pickaway County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1259728718",
@@ -25955,7 +26789,9 @@
       "city": "Franklin County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1264367248",
@@ -26023,7 +26859,9 @@
       "city": "Pike County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1273234733",
@@ -26040,7 +26878,9 @@
       "city": "Middleburg Heights",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1274306740",
@@ -26057,7 +26897,9 @@
       "city": "Harrison County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1274421050",
@@ -26180,7 +27022,9 @@
       "city": "Athens County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1280015422",
@@ -26233,7 +27077,9 @@
       "city": "Hocking County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1281257803",
@@ -26286,7 +27132,9 @@
       "city": "Devola",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1285436677",
@@ -26337,7 +27185,9 @@
       "city": "Bath Township",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1290986150",
@@ -26354,7 +27204,9 @@
       "city": "Fairfield County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1293442149",
@@ -26388,7 +27240,9 @@
       "city": "Marysville",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1293469808",
@@ -26422,7 +27276,9 @@
       "city": "South Russell",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1296767839",
@@ -26456,7 +27312,9 @@
       "city": "Geauga County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1297720876",
@@ -26507,7 +27365,9 @@
       "city": "Batavia",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1302535346",
@@ -26524,7 +27384,9 @@
       "city": "Lancaster",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1302687343",
@@ -26558,7 +27420,9 @@
       "city": "Lorain",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1306059019",
@@ -26821,7 +27685,9 @@
       "city": "Forest Park",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1314963018",
@@ -26855,7 +27721,9 @@
       "city": "Sylvania",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1314963111",
@@ -26872,7 +27740,9 @@
       "city": "Lucas County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1314964814",
@@ -26925,7 +27795,9 @@
       "city": "Grove City",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1314965191",
@@ -27014,7 +27886,9 @@
       "city": "Clermont County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1321583024",
@@ -27099,7 +27973,9 @@
       "city": "Clermont County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1323994418",
@@ -27116,7 +27992,9 @@
       "city": "New Richmond",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1327528503",
@@ -27152,7 +28030,9 @@
       "city": "Clermont County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1330460327",
@@ -27169,7 +28049,9 @@
       "city": "Clermont County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1331643552",
@@ -27186,7 +28068,9 @@
       "city": "Clermont County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1332519024",
@@ -27237,7 +28121,9 @@
       "city": "Parma",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334160171",
@@ -27254,7 +28140,9 @@
       "city": "Shaker Heights",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334160194",
@@ -27271,7 +28159,9 @@
       "city": "Medina County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334160248",
@@ -27288,7 +28178,9 @@
       "city": "Calcutta",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334536764",
@@ -27324,7 +28216,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334988671",
@@ -27341,7 +28235,9 @@
       "city": "Preble County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334996388",
@@ -27375,7 +28271,9 @@
       "city": "Trotwood",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334996846",
@@ -27392,7 +28290,9 @@
       "city": "Columbus",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1337189823",
@@ -27494,7 +28394,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1337613895",
@@ -27511,7 +28413,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1338030745",
@@ -27579,7 +28483,9 @@
       "city": "Liberty Township",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1345361335",
@@ -27596,7 +28502,9 @@
       "city": "Hunting Valley",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1348522173",
@@ -27630,7 +28538,9 @@
       "city": "Belmont County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1354060012",
@@ -27766,7 +28676,9 @@
       "city": "Bath Township",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1372115213",
@@ -27783,7 +28695,9 @@
       "city": "Liberty Township",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1372206370",
@@ -27800,7 +28714,9 @@
       "city": "Sylvania",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1372209701",
@@ -27817,7 +28733,9 @@
       "city": "Sylvania",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1374701901",
@@ -27870,7 +28788,9 @@
       "city": "Geauga County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1377499066",
@@ -27887,7 +28807,9 @@
       "city": "Lucas County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1382418955",
@@ -27904,7 +28826,9 @@
       "city": "Lucas County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1382658311",
@@ -28091,7 +29015,9 @@
       "city": "Muskingum County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1412613689",
@@ -28261,7 +29187,9 @@
       "city": "Lucas County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1421813239",
@@ -28295,7 +29223,9 @@
       "city": "Hunting Valley",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1426754018",
@@ -28312,7 +29242,9 @@
       "city": "Claridon",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1429355282",
@@ -28346,7 +29278,9 @@
       "city": "Auglaize County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1432093047",
@@ -28522,7 +29456,9 @@
       "city": "West Carrollton",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1434456628",
@@ -28556,7 +29492,9 @@
       "city": "Defiance County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435164684",
@@ -28573,7 +29511,9 @@
       "city": "Columbus",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435165117",
@@ -28628,7 +29568,9 @@
       "city": "Columbus",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435166273",
@@ -28645,7 +29587,9 @@
       "city": "Columbus",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435167179",
@@ -28662,7 +29606,9 @@
       "city": "Delaware County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435167354",
@@ -28781,7 +29727,9 @@
       "city": "Sidney",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1441734902",
@@ -28798,7 +29746,9 @@
       "city": "Hillsboro",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1441924793",
@@ -28815,7 +29765,9 @@
       "city": "Hillsboro",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442143658",
@@ -28832,7 +29784,9 @@
       "city": "Warren County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442171042",
@@ -29061,7 +30015,9 @@
       "city": "Highland County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443966171",
@@ -29112,7 +30068,9 @@
       "city": "Monroeville",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1445919228",
@@ -29231,7 +30189,9 @@
       "city": "Kettering",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1448695486",
@@ -29265,7 +30225,9 @@
       "city": "Delaware County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1451400793",
@@ -29316,7 +30278,9 @@
       "city": "Delaware County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1454951842",
@@ -29367,7 +30331,9 @@
       "city": "Waverly",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1455047679",
@@ -29384,7 +30350,9 @@
       "city": "Delaware County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1456071759",
@@ -29437,7 +30405,9 @@
       "city": "Fairlawn",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1456802673",
@@ -29524,7 +30494,9 @@
       "city": "Delaware County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1457625984",
@@ -29560,7 +30532,9 @@
       "city": "Urbana",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1459882564",
@@ -29594,7 +30568,9 @@
       "city": "Delaware County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1460788683",
@@ -29611,7 +30587,9 @@
       "city": "Delaware County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1460869653",
@@ -29628,7 +30606,9 @@
       "city": "Holmes County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1462200351",
@@ -29662,7 +30642,9 @@
       "city": "Kalida",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1465117213",
@@ -29715,7 +30697,9 @@
       "city": "Mason",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1468769830",
@@ -29732,7 +30716,9 @@
       "city": "Kettering",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1468982065",
@@ -29749,7 +30735,9 @@
       "city": "Erie County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1468983026",
@@ -29889,7 +30877,9 @@
       "city": "Struthers",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1473421050",
@@ -29923,7 +30913,9 @@
       "city": "Medina County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474528915",
@@ -29974,7 +30966,9 @@
       "city": "Morgan County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474820809",
@@ -29991,7 +30985,9 @@
       "city": "Logan",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474821955",
@@ -30008,7 +31004,9 @@
       "city": "Rosemount",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474842231",
@@ -30025,7 +31023,9 @@
       "city": "Woodsfield",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474842431",
@@ -30078,7 +31078,9 @@
       "city": "Centerville",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1479870037",
@@ -30095,7 +31097,9 @@
       "city": "Montgomery County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1479870229",
@@ -30112,7 +31116,9 @@
       "city": "Montgomery County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1479870452",
@@ -30163,7 +31169,9 @@
       "city": "Bellbrook",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1479872575",
@@ -30214,7 +31222,9 @@
       "city": "Kettering",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1479873844",
@@ -30407,7 +31417,9 @@
       "city": "Riverside",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1479880058",
@@ -30492,7 +31504,9 @@
       "city": "Beavercreek",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1479883968",
@@ -30528,7 +31542,9 @@
       "city": "Fairborn",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1479889627",
@@ -30562,7 +31578,9 @@
       "city": "Riverside",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1481002431",
@@ -30778,7 +31796,9 @@
       "city": "New Vienna",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1481004419",
@@ -30833,7 +31853,9 @@
       "city": "Wilmington",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1481009029",
@@ -30869,7 +31891,9 @@
       "city": "Warren County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1481009383",
@@ -31062,7 +32086,9 @@
       "city": "Toledo",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1482586373",
@@ -31132,7 +32158,9 @@
       "city": "Castalia",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1482592730",
@@ -31149,7 +32177,9 @@
       "city": "Williams County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1482592929",
@@ -31166,7 +32196,9 @@
       "city": "Stryker",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1483122655",
@@ -31202,7 +32234,9 @@
       "city": "Columbus",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1484177579",
@@ -31442,7 +32476,9 @@
       "city": "Hamilton County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1485429351",
@@ -31493,7 +32529,9 @@
       "city": "Indian Hill",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1485465351",
@@ -31561,7 +32599,9 @@
       "city": "Westlake",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1485738741",
@@ -31684,7 +32724,9 @@
       "city": "Franklin County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1486820024",
@@ -31701,7 +32743,9 @@
       "city": "Preble County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1486820674",
@@ -31892,7 +32936,9 @@
       "city": "Mount Eaton",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1486915898",
@@ -32051,7 +33097,9 @@
       "city": "Columbus",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1487024579",
@@ -32068,7 +33116,9 @@
       "city": "Columbus",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1487024782",
@@ -32191,7 +33241,9 @@
       "city": "Columbus",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1487031288",
@@ -32388,7 +33440,9 @@
       "city": "Mansfield",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1487034751",
@@ -32532,7 +33586,9 @@
       "city": "Cincinnati",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1488989407",
@@ -32583,7 +33639,9 @@
       "city": "Hamilton County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1488990497",
@@ -32757,7 +33815,9 @@
       "city": "Austintown Township",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1489274021",
@@ -32842,7 +33902,9 @@
       "city": "Ashtabula County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1489308759",
@@ -33054,7 +34116,9 @@
       "city": "Allen County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1489838199",
@@ -33088,7 +34152,9 @@
       "city": "Jackson Center",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1489844535",
@@ -33417,7 +34483,9 @@
       "city": "Montgomery County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1489943294",
@@ -33502,7 +34570,9 @@
       "city": "Montgomery County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1489957896",
@@ -33519,7 +34589,9 @@
       "city": "Springboro",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1489958294",
@@ -33536,7 +34608,9 @@
       "city": "Springboro",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1489966004",
@@ -33625,7 +34699,9 @@
       "city": "Greene County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1489981787",
@@ -33727,7 +34803,9 @@
       "city": "Clayton",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1490219273",
@@ -33778,7 +34856,9 @@
       "city": "Clayton",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1490285864",
@@ -33865,7 +34945,9 @@
       "city": "Warren County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1490416620",
@@ -34054,7 +35136,9 @@
       "city": "Hamilton",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1490866892",
@@ -34090,7 +35174,9 @@
       "city": "Fairfield",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1490868151",
@@ -34107,7 +35193,9 @@
       "city": "Fairfield",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1490868361",
@@ -34124,7 +35212,9 @@
       "city": "Fairfield",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1490868584",
@@ -34141,7 +35231,9 @@
       "city": "Fairfield",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1490868673",
@@ -34158,7 +35250,9 @@
       "city": "Fairfield",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1490868959",
@@ -34192,7 +35286,9 @@
       "city": "Butler County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1490870114",
@@ -34243,7 +35339,9 @@
       "city": "Mason",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1490872036",
@@ -34415,7 +35513,9 @@
       "city": "Hamilton County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1490874049",
@@ -34432,7 +35532,9 @@
       "city": "Hamilton County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1490874113",
@@ -34466,7 +35568,9 @@
       "city": "Blue Ash",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1490875186",
@@ -34587,7 +35691,9 @@
       "city": "Trotwood",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1490981741",
@@ -34638,7 +35744,9 @@
       "city": "Butler County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1490983904",
@@ -34742,7 +35850,9 @@
       "city": "Muskingum County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1494597767",
@@ -34812,7 +35922,9 @@
       "city": "Ottawa County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1501586217",
@@ -34829,7 +35941,9 @@
       "city": "Pike County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1509663863",
@@ -34897,7 +36011,9 @@
       "city": "Hocking County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1515517184",
@@ -34914,7 +36030,9 @@
       "city": "Cleveland",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1517304305",
@@ -34931,7 +36049,9 @@
       "city": "Centerville",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1518300356",
@@ -34999,7 +36119,9 @@
       "city": "Trotwood",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1518524671",
@@ -35016,7 +36138,9 @@
       "city": "Phillipsburg",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1518526301",
@@ -35067,7 +36191,9 @@
       "city": "Jackson",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524408326",
@@ -35084,7 +36210,9 @@
       "city": "Ashland County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524473418",
@@ -35101,7 +36229,9 @@
       "city": "Richland County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524485355",
@@ -35135,7 +36265,9 @@
       "city": "Geauga County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524485595",
@@ -35169,7 +36301,9 @@
       "city": "Stark County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524485651",
@@ -35186,7 +36320,9 @@
       "city": "Columbiana County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1527926799",
@@ -35203,7 +36339,9 @@
       "city": "Beachwood",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1529240816",
@@ -35220,7 +36358,9 @@
       "city": "Toledo",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1529520679",
@@ -35377,7 +36517,9 @@
       "city": "Geauga County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1536564515",
@@ -35394,7 +36536,9 @@
       "city": "Geauga County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1536566642",
@@ -35445,7 +36589,9 @@
       "city": "Mahoning County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1537246539",
@@ -35462,7 +36608,9 @@
       "city": "Lake Mohawk",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1537247639",
@@ -35496,7 +36644,9 @@
       "city": "Guernsey County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1537250146",
@@ -35513,7 +36663,9 @@
       "city": "Dresden",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1537251874",
@@ -35530,7 +36682,9 @@
       "city": "Clark",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1537252951",
@@ -35583,7 +36737,9 @@
       "city": "Chippewa Lake",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1537255932",
@@ -35651,7 +36807,9 @@
       "city": "Vermilion",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1537258616",
@@ -35668,7 +36826,9 @@
       "city": "Lorain",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1537522834",
@@ -35685,7 +36845,9 @@
       "city": "Avon Lake",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1537523028",
@@ -35702,7 +36864,9 @@
       "city": "Avon Lake",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1537523199",
@@ -35719,7 +36883,9 @@
       "city": "Avon Lake",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1537523366",
@@ -35770,7 +36936,9 @@
       "city": "Avon Lake",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1537596509",
@@ -35874,7 +37042,9 @@
       "city": "Bainbridge",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1537739578",
@@ -35925,7 +37095,9 @@
       "city": "Jackson County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1548031545",
@@ -35942,7 +37114,9 @@
       "city": "Clinton County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1548971004",
@@ -35995,7 +37169,9 @@
       "city": "Hocking County",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551809653",
@@ -36082,7 +37258,9 @@
       "city": "Hopedale",
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-r12453035",

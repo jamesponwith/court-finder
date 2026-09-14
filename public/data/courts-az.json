@@ -51,7 +51,9 @@
       "city": "Lake Havasu City",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1507508134",
@@ -68,7 +70,9 @@
       "city": "Lake Havasu City",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w28784707",
@@ -176,7 +180,9 @@
       "city": "Tempe",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w29122264",
@@ -193,7 +199,9 @@
       "city": "Tempe",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w30103189",
@@ -297,7 +305,9 @@
       "city": "Sierra Vista",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w51966047",
@@ -382,7 +392,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w62262955",
@@ -418,7 +430,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w63516513",
@@ -435,7 +449,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w65583761",
@@ -452,7 +468,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w65583762",
@@ -469,7 +487,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w65583765",
@@ -486,7 +506,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w66535159",
@@ -520,7 +542,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w66604019",
@@ -554,7 +578,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w67123011",
@@ -590,7 +616,9 @@
       "city": "Paradise Valley",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w67797172",
@@ -677,7 +705,9 @@
       "city": "Maricopa County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w102312758",
@@ -728,7 +758,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w102387170",
@@ -745,7 +777,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w102388101",
@@ -781,7 +815,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w110358880",
@@ -832,7 +868,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w116622641",
@@ -934,7 +972,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w121550061",
@@ -968,7 +1008,9 @@
       "city": "Maricopa County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w122819320",
@@ -1163,7 +1205,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w128952961",
@@ -1695,7 +1739,9 @@
       "city": "Surprise",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w162795706",
@@ -1816,7 +1862,9 @@
       "city": "Navajo County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w170537761",
@@ -1943,7 +1991,9 @@
       "city": "Yuma",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w184348373",
@@ -2100,7 +2150,9 @@
       "city": "Prescott",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w187353785",
@@ -2291,7 +2343,9 @@
       "city": "Cave Creek",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w192553430",
@@ -2514,7 +2568,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w204662567",
@@ -2633,7 +2689,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w221558173",
@@ -2824,7 +2882,9 @@
       "city": "Paradise Valley",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w230611397",
@@ -2841,7 +2901,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w230613808",
@@ -2875,7 +2937,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w230613812",
@@ -2926,7 +2990,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w230621328",
@@ -2960,7 +3026,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w230623883",
@@ -2977,7 +3045,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w230741695",
@@ -2994,7 +3064,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w230741700",
@@ -3113,7 +3185,9 @@
       "city": "Maricopa",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w231046390",
@@ -3147,7 +3221,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w231047351",
@@ -3338,7 +3414,9 @@
       "city": "Peoria",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w242896622",
@@ -3372,7 +3450,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w244114195",
@@ -3423,7 +3503,9 @@
       "city": "Santa Cruz County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w248867697",
@@ -3457,7 +3539,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w250863062",
@@ -3474,7 +3558,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w250863064",
@@ -3508,7 +3594,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w250874928",
@@ -3525,7 +3613,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w250877995",
@@ -3678,7 +3768,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w251870568",
@@ -3695,7 +3787,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w251871721",
@@ -3729,7 +3823,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w251871725",
@@ -3746,7 +3842,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w251873032",
@@ -3763,7 +3861,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w252054517",
@@ -3780,7 +3880,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w252054519",
@@ -3797,7 +3899,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w252054520",
@@ -3814,7 +3918,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w252055086",
@@ -3831,7 +3937,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w252055087",
@@ -3848,7 +3956,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w252055088",
@@ -3865,7 +3975,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w252934590",
@@ -4001,7 +4113,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w253856145",
@@ -4018,7 +4132,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w253856148",
@@ -4035,7 +4151,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w254019305",
@@ -4086,7 +4204,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w254192622",
@@ -4241,7 +4361,9 @@
       "city": "Flagstaff",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w256802246",
@@ -4383,7 +4505,9 @@
       "city": "Joseph City",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w265413089",
@@ -4468,7 +4592,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w292255847",
@@ -4485,7 +4611,9 @@
       "city": "Pinal County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w298050127",
@@ -4519,7 +4647,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w303916832",
@@ -4572,7 +4702,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w304340082",
@@ -4606,7 +4738,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w308777270",
@@ -4797,7 +4931,9 @@
       "city": "San Simon",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w319254741",
@@ -4814,7 +4950,9 @@
       "city": "Mesa",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w320292229",
@@ -4848,7 +4986,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w321503429",
@@ -4975,7 +5115,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w324900141",
@@ -5096,7 +5238,9 @@
       "city": "Casas Adobes",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w329415009",
@@ -5113,7 +5257,9 @@
       "city": "Casas Adobes",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w329415010",
@@ -5130,7 +5276,9 @@
       "city": "Casas Adobes",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w329416995",
@@ -5147,7 +5295,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w330790825",
@@ -5181,7 +5331,9 @@
       "city": "Wickenburg",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w332636971",
@@ -5232,7 +5384,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w336005312",
@@ -5351,7 +5505,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w356150093",
@@ -5385,7 +5541,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w365014378",
@@ -5402,7 +5560,9 @@
       "city": "Yavapai County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w365345825",
@@ -5419,7 +5579,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w366833774",
@@ -5436,7 +5598,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w369792218",
@@ -5487,7 +5651,9 @@
       "city": "Mesa",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w374562885",
@@ -5504,7 +5670,9 @@
       "city": "Maricopa County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w374642673",
@@ -5595,7 +5763,9 @@
       "city": "Mesa",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w377674477",
@@ -5612,7 +5782,9 @@
       "city": "Pinetop-Lakeside",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w382775616",
@@ -5629,7 +5801,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w385346758",
@@ -5646,7 +5820,9 @@
       "city": "Pinetop-Lakeside",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w385586167",
@@ -5697,7 +5873,9 @@
       "city": "Cottonwood",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w387651106",
@@ -5731,7 +5909,9 @@
       "city": "Pinetop Country Club",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w388438295",
@@ -5748,7 +5928,9 @@
       "city": "Navajo County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w388958759",
@@ -5816,7 +5998,9 @@
       "city": "Cochise County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w396548779",
@@ -5850,7 +6034,9 @@
       "city": "Tucson",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w400700060",
@@ -5884,7 +6070,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w404513547",
@@ -5901,7 +6089,9 @@
       "city": "Casas Adobes",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w405916945",
@@ -5918,7 +6108,9 @@
       "city": "Tucson",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w405943484",
@@ -5935,7 +6127,9 @@
       "city": "Tucson",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w410594409",
@@ -6071,7 +6265,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w426881719",
@@ -6179,7 +6375,9 @@
       "city": "Sierra Vista",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w432294796",
@@ -6281,7 +6479,9 @@
       "city": "Peoria",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w443232222",
@@ -6387,7 +6587,9 @@
       "city": "Nogales",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w456961575",
@@ -6404,7 +6606,9 @@
       "city": "Mohave County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w462689452",
@@ -6421,7 +6625,9 @@
       "city": "Tucson",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w462836871",
@@ -6438,7 +6644,9 @@
       "city": "Benson",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w463085248",
@@ -6455,7 +6663,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w463185244",
@@ -6557,7 +6767,9 @@
       "city": "Chandler",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w477206259",
@@ -6676,7 +6888,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w497688741",
@@ -6710,7 +6924,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w498595628",
@@ -6778,7 +6994,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w498879824",
@@ -6795,7 +7013,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w499918102",
@@ -6812,7 +7032,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w504684731",
@@ -7041,7 +7263,9 @@
       "city": "Tempe",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w517175982",
@@ -7126,7 +7350,9 @@
       "city": "Chandler",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w517518506",
@@ -7251,7 +7477,9 @@
       "city": "Bowie",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w524002025",
@@ -7410,7 +7638,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-r7743050",
@@ -7427,7 +7657,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w546947584",
@@ -7531,7 +7763,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w553371525",
@@ -7548,7 +7782,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w556375732",
@@ -7565,7 +7801,9 @@
       "city": "Chandler",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w556580627",
@@ -7739,7 +7977,9 @@
       "city": "Chandler",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w591431364",
@@ -7756,7 +7996,9 @@
       "city": "Chandler",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w591965243",
@@ -7773,7 +8015,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w592393066",
@@ -7790,7 +8034,9 @@
       "city": "Carefree",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w593632336",
@@ -7881,7 +8127,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w609337997",
@@ -7898,7 +8146,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w612066177",
@@ -7966,7 +8216,9 @@
       "city": "Paradise Valley",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w612410025",
@@ -8051,7 +8303,9 @@
       "city": "Paradise Valley",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w612410033",
@@ -8068,7 +8322,9 @@
       "city": "Paradise Valley",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w612410035",
@@ -8085,7 +8341,9 @@
       "city": "Paradise Valley",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w612410036",
@@ -8170,7 +8428,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w612410052",
@@ -8187,7 +8447,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w612410058",
@@ -8221,7 +8483,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w612410061",
@@ -8238,7 +8502,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w612410064",
@@ -8306,7 +8572,9 @@
       "city": "Lake Havasu City",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w624469856",
@@ -8357,7 +8625,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w648921689",
@@ -8410,7 +8680,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w656025376",
@@ -8446,7 +8718,9 @@
       "city": "Yuma",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w660574561",
@@ -8463,7 +8737,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w662659530",
@@ -8497,7 +8773,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w666013762",
@@ -8620,7 +8898,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w693091209",
@@ -8773,7 +9053,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w707038546",
@@ -8824,7 +9106,9 @@
       "city": "Tucson",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w713140487",
@@ -8879,7 +9163,9 @@
       "city": "Oro Valley",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w717609625",
@@ -9017,7 +9303,9 @@
       "city": "Tucson",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w753039605",
@@ -9276,7 +9564,9 @@
       "city": "Tucson",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w785494427",
@@ -9344,7 +9634,9 @@
       "city": "Tucson",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w790441995",
@@ -9395,7 +9687,9 @@
       "city": "Tucson",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w793641757",
@@ -9429,7 +9723,9 @@
       "city": "Tucson",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w797225585",
@@ -9446,7 +9742,9 @@
       "city": "Tucson",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w799565296",
@@ -9463,7 +9761,9 @@
       "city": "Tucson",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w800580761",
@@ -9480,7 +9780,9 @@
       "city": "Tucson",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w803180612",
@@ -9565,7 +9867,9 @@
       "city": "Mesa",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w807928931",
@@ -9656,7 +9960,9 @@
       "city": "Tucson",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w812611650",
@@ -9707,7 +10013,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w818643179",
@@ -9777,7 +10085,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w822734354",
@@ -9794,7 +10104,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w822737451",
@@ -9811,7 +10123,9 @@
       "city": "Paradise Valley",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w822737452",
@@ -9828,7 +10142,9 @@
       "city": "Paradise Valley",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w826323227",
@@ -9862,7 +10178,9 @@
       "city": "Tucson",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w832451940",
@@ -9913,7 +10231,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w836996445",
@@ -10038,7 +10358,9 @@
       "city": "Gilbert",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w842528312",
@@ -10072,7 +10394,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w846615053",
@@ -10244,7 +10568,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w867601816",
@@ -10261,7 +10587,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w867871384",
@@ -10295,7 +10623,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w867925794",
@@ -10312,7 +10642,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w868502439",
@@ -10348,7 +10680,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w869745262",
@@ -10365,7 +10699,9 @@
       "city": "Santa Cruz County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w869787675",
@@ -10382,7 +10718,9 @@
       "city": "Sun Lakes",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w871048222",
@@ -10399,7 +10737,9 @@
       "city": "Ganado",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w871388845",
@@ -10484,7 +10824,9 @@
       "city": "Fountain Hills",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w873175288",
@@ -10535,7 +10877,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w878850868",
@@ -10605,7 +10949,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w883671986",
@@ -10639,7 +10985,9 @@
       "city": "Tucson",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w890002139",
@@ -10656,7 +11004,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w893233271",
@@ -10690,7 +11040,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w894812482",
@@ -10707,7 +11059,9 @@
       "city": "Valle",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w895079201",
@@ -10724,7 +11078,9 @@
       "city": "Pinal County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w897383617",
@@ -10794,7 +11150,9 @@
       "city": "Tucson",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w900141013",
@@ -10898,7 +11256,9 @@
       "city": "San Tan Valley",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w913002738",
@@ -10934,7 +11294,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w920582687",
@@ -10985,7 +11347,9 @@
       "city": "Peoria",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w926075258",
@@ -11072,7 +11436,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w931902789",
@@ -11140,7 +11506,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w938184031",
@@ -11157,7 +11525,9 @@
       "city": "Red Mesa / Tsé Łichííʼ Dah Azkání",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w939079383",
@@ -11208,7 +11578,9 @@
       "city": "Chandler",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w947838981",
@@ -11242,7 +11614,9 @@
       "city": "Marana",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w951790649",
@@ -11295,7 +11669,9 @@
       "city": "Ajo",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w953051570",
@@ -11380,7 +11756,9 @@
       "city": "Chandler",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w955866218",
@@ -11397,7 +11775,9 @@
       "city": "Chandler",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w955866239",
@@ -11414,7 +11794,9 @@
       "city": "Chandler",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w955867029",
@@ -11465,7 +11847,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w961112190",
@@ -11516,7 +11900,9 @@
       "city": "Tempe",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w961131572",
@@ -11533,7 +11919,9 @@
       "city": "Tempe",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w963512876",
@@ -11567,7 +11955,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w964027784",
@@ -11622,7 +12012,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w967692100",
@@ -11639,7 +12031,9 @@
       "city": "Tanque Verde",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w968940256",
@@ -11656,7 +12050,9 @@
       "city": "Yavapai County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w969374101",
@@ -11673,7 +12069,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w969662811",
@@ -11707,7 +12105,9 @@
       "city": "Prescott",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w975085183",
@@ -11758,7 +12158,9 @@
       "city": "Prescott",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w977576632",
@@ -11811,7 +12213,9 @@
       "city": "Tucson",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w979841651",
@@ -11828,7 +12232,9 @@
       "city": "Tucson",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w984940760",
@@ -11845,7 +12251,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w986810121",
@@ -11862,7 +12270,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w990986290",
@@ -11879,7 +12289,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w992060408",
@@ -11896,7 +12308,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w992113754",
@@ -11913,7 +12327,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w992352266",
@@ -11964,7 +12380,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w992751770",
@@ -12000,7 +12418,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w995956052",
@@ -12208,7 +12628,9 @@
       "city": "Paradise Valley",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1008693748",
@@ -12225,7 +12647,9 @@
       "city": "Paradise Valley",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1009044111",
@@ -12242,7 +12666,9 @@
       "city": "Paradise Valley",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1010349564",
@@ -12295,7 +12721,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1018666576",
@@ -12312,7 +12740,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1019875144",
@@ -12329,7 +12759,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1021402047",
@@ -12346,7 +12778,9 @@
       "city": "Yavapai County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1026589255",
@@ -12399,7 +12833,9 @@
       "city": "Flowing Wells",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1028524598",
@@ -12416,7 +12852,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1028666169",
@@ -12469,7 +12907,9 @@
       "city": "Nogales",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1032416647",
@@ -12486,7 +12926,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1035355514",
@@ -12522,7 +12964,9 @@
       "city": "Williams",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1035358784",
@@ -12558,7 +13002,9 @@
       "city": "Camp Verde",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1035488794",
@@ -12681,7 +13127,9 @@
       "city": "Maricopa County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1052762112",
@@ -12715,7 +13163,9 @@
       "city": "Marana",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1052834182",
@@ -12732,7 +13182,9 @@
       "city": "Star Valley",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1053061859",
@@ -12749,7 +13201,9 @@
       "city": "Flowing Wells",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1053101989",
@@ -12819,7 +13273,9 @@
       "city": "Green Valley",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1053218669",
@@ -12870,7 +13326,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1053370564",
@@ -12887,7 +13345,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1053370577",
@@ -12904,7 +13364,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1053417361",
@@ -12921,7 +13383,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1053431015",
@@ -13023,7 +13487,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1053647468",
@@ -13142,7 +13608,9 @@
       "city": "Tucson",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1053968989",
@@ -13193,7 +13661,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1054547624",
@@ -13244,7 +13714,9 @@
       "city": "Casas Adobes",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1055471934",
@@ -13297,7 +13769,9 @@
       "city": "Oro Valley",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1063454700",
@@ -13314,7 +13788,9 @@
       "city": "Green Valley",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1063469217",
@@ -13331,7 +13807,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1063679114",
@@ -13365,7 +13843,9 @@
       "city": "Green Valley",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1076177726",
@@ -13399,7 +13879,9 @@
       "city": "Santa Cruz County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1077354173",
@@ -13416,7 +13898,9 @@
       "city": "Sahuarita",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1077739104",
@@ -13433,7 +13917,9 @@
       "city": "Nogales",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1090308701",
@@ -13450,7 +13936,9 @@
       "city": "Santa Cruz County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1090655504",
@@ -13467,7 +13955,9 @@
       "city": "Mohave County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1090694734",
@@ -13484,7 +13974,9 @@
       "city": "Santa Cruz County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1092941564",
@@ -13501,7 +13993,9 @@
       "city": "Kingman",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1100776202",
@@ -13518,7 +14012,9 @@
       "city": "Nogales",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1101805964",
@@ -13535,7 +14031,9 @@
       "city": "Green Valley",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1102756339",
@@ -13552,7 +14050,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1106467911",
@@ -13622,7 +14122,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1107926143",
@@ -13762,7 +14264,9 @@
       "city": "Santa Cruz County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1137259095",
@@ -13779,7 +14283,9 @@
       "city": "Cave Creek",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1137498500",
@@ -13830,7 +14336,9 @@
       "city": "Tempe",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1138845572",
@@ -13847,7 +14355,9 @@
       "city": "Cave Creek",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1139009278",
@@ -13881,7 +14391,9 @@
       "city": "Cave Creek",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1144228055",
@@ -13934,7 +14446,9 @@
       "city": "Prescott",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1148777963",
@@ -14021,7 +14535,9 @@
       "city": "Kingman",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1150020078",
@@ -14089,7 +14605,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1152682100",
@@ -14106,7 +14624,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1158466999",
@@ -14123,7 +14643,9 @@
       "city": "Cave Creek",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1158897194",
@@ -14282,7 +14804,9 @@
       "city": "Sun City West",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1164921714",
@@ -14354,7 +14878,9 @@
       "city": "Prescott",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1167658338",
@@ -14494,7 +15020,9 @@
       "city": "Gila County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1187870975",
@@ -14528,7 +15056,9 @@
       "city": "Bellemont",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1193668609",
@@ -14545,7 +15075,9 @@
       "city": "Desert Hills",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1195055184",
@@ -14579,7 +15111,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1206899955",
@@ -14772,7 +15306,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1222139924",
@@ -14789,7 +15325,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1222139925",
@@ -14806,7 +15344,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1223871285",
@@ -14823,7 +15363,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1223966039",
@@ -14840,7 +15382,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1226656909",
@@ -14857,7 +15401,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1226656954",
@@ -14874,7 +15420,9 @@
       "city": "Scottsdale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1227671172",
@@ -14891,7 +15439,9 @@
       "city": "Maricopa",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1230143353",
@@ -14908,7 +15458,9 @@
       "city": "Gold Canyon",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1237657436",
@@ -15078,7 +15630,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1255039677",
@@ -15129,7 +15683,9 @@
       "city": "Green Valley",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1255380347",
@@ -15180,7 +15736,9 @@
       "city": "Wickenburg",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1271423593",
@@ -15235,7 +15793,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1280663035",
@@ -15288,7 +15848,9 @@
       "city": "Santa Cruz County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1281352655",
@@ -15373,7 +15935,9 @@
       "city": "Nogales",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1290178186",
@@ -15390,7 +15954,9 @@
       "city": "Nogales",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1296635238",
@@ -15441,7 +16007,9 @@
       "city": "Cochise County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1300826257",
@@ -15458,7 +16026,9 @@
       "city": "Surprise",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1301855620",
@@ -15475,7 +16045,9 @@
       "city": "Graham County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1304529839",
@@ -15545,7 +16117,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1310919362",
@@ -15685,7 +16259,9 @@
       "city": "Globe",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1331374817",
@@ -15702,7 +16278,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1331374987",
@@ -15736,7 +16314,9 @@
       "city": "Mesa",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1332127564",
@@ -15825,7 +16405,9 @@
       "city": "Safford",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1339736605",
@@ -15859,7 +16441,9 @@
       "city": "Carefree",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1354509301",
@@ -16005,7 +16589,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1359180157",
@@ -16041,7 +16627,9 @@
       "city": "Meadview",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1360163953",
@@ -16162,7 +16750,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1387907121",
@@ -16196,7 +16786,9 @@
       "city": "Surprise",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1413574995",
@@ -16230,7 +16822,9 @@
       "city": "Santa Cruz County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1419876199",
@@ -16264,7 +16858,9 @@
       "city": "Sierra Vista",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1420229876",
@@ -16281,7 +16877,9 @@
       "city": "Willcox",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1425361068",
@@ -16298,7 +16896,9 @@
       "city": "Yavapai County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1425643032",
@@ -16315,7 +16915,9 @@
       "city": "Yavapai County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1428014616",
@@ -16404,7 +17006,9 @@
       "city": "Lake Havasu City",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1431215882",
@@ -16457,7 +17061,9 @@
       "city": "Lake Havasu City",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1434926765",
@@ -16544,7 +17150,9 @@
       "city": "Mesa",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435561600",
@@ -16561,7 +17169,9 @@
       "city": "Mesa",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435561601",
@@ -16578,7 +17188,9 @@
       "city": "Mesa",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435561608",
@@ -16595,7 +17207,9 @@
       "city": "Mesa",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1436096096",
@@ -16612,7 +17226,9 @@
       "city": "Bullhead City",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1436749652",
@@ -16646,7 +17262,9 @@
       "city": "Prescott Valley",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1436749666",
@@ -16714,7 +17332,9 @@
       "city": "Tucson",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1441678260",
@@ -16748,7 +17368,9 @@
       "city": "Yavapai County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442000756",
@@ -16765,7 +17387,9 @@
       "city": "Yavapai County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442139553",
@@ -16782,7 +17406,9 @@
       "city": "Mesa",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442174560",
@@ -16799,7 +17425,9 @@
       "city": "Duncan",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442174562",
@@ -16833,7 +17461,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442718514",
@@ -16850,7 +17480,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442718526",
@@ -16884,7 +17516,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442718529",
@@ -16901,7 +17535,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442718530",
@@ -16918,7 +17554,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442952370",
@@ -17024,7 +17662,9 @@
       "city": "Star Valley",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1447530199",
@@ -17236,7 +17876,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1454979956",
@@ -17541,7 +18183,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1460834304",
@@ -17558,7 +18202,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1460834927",
@@ -17575,7 +18221,9 @@
       "city": "Tucson",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1460869772",
@@ -17592,7 +18240,9 @@
       "city": "Tucson",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1460870446",
@@ -17664,7 +18314,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1460890945",
@@ -17808,7 +18460,9 @@
       "city": "Globe",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1462119022",
@@ -18162,7 +18816,9 @@
       "city": "Kayenta",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1463483208",
@@ -18213,7 +18869,9 @@
       "city": "Village of Oak Creek",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1463782594",
@@ -18406,7 +19064,9 @@
       "city": "Anthem",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1466890314",
@@ -18423,7 +19083,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1466919055",
@@ -18588,7 +19250,9 @@
       "city": "Chinle",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1466927369",
@@ -18851,7 +19515,9 @@
       "city": "Flagstaff",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1466937166",
@@ -18919,7 +19585,9 @@
       "city": "Snowflake",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1466944099",
@@ -18972,7 +19640,9 @@
       "city": "Navajo County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1466944434",
@@ -19101,7 +19771,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1466945936",
@@ -19245,7 +19917,9 @@
       "city": "Carefree",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469179996",
@@ -19262,7 +19936,9 @@
       "city": "Glendale",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469233708",
@@ -19296,7 +19972,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1476319754",
@@ -19330,7 +20008,9 @@
       "city": "Ajo",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1476989171",
@@ -19347,7 +20027,9 @@
       "city": "Paradise Valley",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1476989183",
@@ -19364,7 +20046,9 @@
       "city": "Paradise Valley",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1476989206",
@@ -19381,7 +20065,9 @@
       "city": "Paradise Valley",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1489976439",
@@ -19398,7 +20084,9 @@
       "city": "Carefree",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1490264164",
@@ -19415,7 +20103,9 @@
       "city": "Desert Hills",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1490284917",
@@ -19449,7 +20139,9 @@
       "city": "Cave Creek",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1491121761",
@@ -19638,7 +20330,9 @@
       "city": "Nogales",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526124285",
@@ -19742,7 +20436,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526132642",
@@ -19759,7 +20455,9 @@
       "city": "Pima County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526133075",
@@ -19827,7 +20525,9 @@
       "city": "Yavapai County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526137444",
@@ -19844,7 +20544,9 @@
       "city": "Yavapai County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1528003512",
@@ -19878,7 +20580,9 @@
       "city": "Parker",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1529391582",
@@ -19969,7 +20673,9 @@
       "city": "Litchfield Park",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1529398091",
@@ -20075,7 +20781,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1529401451",
@@ -20109,7 +20817,9 @@
       "city": "Yavapai County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1531559914",
@@ -20145,7 +20855,9 @@
       "city": "Sierra Vista",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1536312859",
@@ -20162,7 +20874,9 @@
       "city": "Window Rock",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1537292336",
@@ -20196,7 +20910,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1539552615",
@@ -20213,7 +20929,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1539614622",
@@ -20264,7 +20982,9 @@
       "city": "Mohave County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1545269856",
@@ -20281,7 +21001,9 @@
       "city": "Tucson",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1546374436",
@@ -20298,7 +21020,9 @@
       "city": "Yavapai County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551143521",
@@ -20332,7 +21056,9 @@
       "city": "Phoenix",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     }
   ]
 }

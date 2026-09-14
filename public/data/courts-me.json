@@ -68,7 +68,9 @@
       "city": "Falmouth",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w96027331",
@@ -85,7 +87,9 @@
       "city": "Kittery",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w174298562",
@@ -102,7 +106,9 @@
       "city": "Winter Harbor",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w220910831",
@@ -257,7 +263,9 @@
       "city": "Bremen",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w323289716",
@@ -344,7 +352,9 @@
       "city": "North Haven",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w369087972",
@@ -414,7 +424,9 @@
       "city": "Southwest Harbor",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w415271034",
@@ -431,7 +443,9 @@
       "city": "Southwest Harbor",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w415271036",
@@ -448,7 +462,9 @@
       "city": "Southwest Harbor",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w415366182",
@@ -482,7 +498,9 @@
       "city": "Mount Desert",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w425042408",
@@ -499,7 +517,9 @@
       "city": "Wiscasset",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w430594241",
@@ -620,7 +640,9 @@
       "city": "South Portland",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w467153500",
@@ -900,7 +922,9 @@
       "city": "Cranberry Isles",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w613869583",
@@ -1057,7 +1081,9 @@
       "city": "Newry",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w683617601",
@@ -1074,7 +1100,9 @@
       "city": "Ogunquit",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w690784931",
@@ -1110,7 +1138,9 @@
       "city": "Knox County",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w699901989",
@@ -1127,7 +1157,9 @@
       "city": "Vinalhaven",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w699912039",
@@ -1144,7 +1176,9 @@
       "city": "Vinalhaven",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w701027439",
@@ -1161,7 +1195,9 @@
       "city": "Vinalhaven",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w706645431",
@@ -1178,7 +1214,9 @@
       "city": "Vinalhaven",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w706645461",
@@ -1195,7 +1233,9 @@
       "city": "Vinalhaven",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w717299799",
@@ -1212,7 +1252,9 @@
       "city": "Blue Hill",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w740733231",
@@ -1301,7 +1343,9 @@
       "city": "Sanford",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w749835343",
@@ -1479,7 +1523,9 @@
       "city": "Bridgton",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w771383055",
@@ -1496,7 +1542,9 @@
       "city": "West Bath",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w772903272",
@@ -1513,7 +1561,9 @@
       "city": "Phippsburg",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w773853921",
@@ -1530,7 +1580,9 @@
       "city": "Cape Elizabeth",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w773853923",
@@ -1547,7 +1599,9 @@
       "city": "Cape Elizabeth",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w773867456",
@@ -1564,7 +1618,9 @@
       "city": "Orrs Island",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w774718042",
@@ -1581,7 +1637,9 @@
       "city": "Bailey Island",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w775251321",
@@ -1598,7 +1656,9 @@
       "city": "West Bath",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w777275947",
@@ -1649,7 +1709,9 @@
       "city": "North Haven",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w782268896",
@@ -1666,7 +1728,9 @@
       "city": "Kennebunkport",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w782268898",
@@ -1683,7 +1747,9 @@
       "city": "Kennebunkport",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w782401437",
@@ -1700,7 +1766,9 @@
       "city": "Chelsea",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w782502772",
@@ -1717,7 +1785,9 @@
       "city": "North Haven",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w782502777",
@@ -1734,7 +1804,9 @@
       "city": "North Haven",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w782516919",
@@ -1751,7 +1823,9 @@
       "city": "North Haven",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w782516921",
@@ -1768,7 +1842,9 @@
       "city": "North Haven",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w783322328",
@@ -1785,7 +1861,9 @@
       "city": "Falmouth",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w783628286",
@@ -1802,7 +1880,9 @@
       "city": "Sweden",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w784632525",
@@ -1819,7 +1899,9 @@
       "city": "Paris",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w784786964",
@@ -1836,7 +1918,9 @@
       "city": "Center Lovell",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w785848875",
@@ -1853,7 +1937,9 @@
       "city": "Belgrade",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w785871433",
@@ -1870,7 +1956,9 @@
       "city": "Sidney",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w786265683",
@@ -1887,7 +1975,9 @@
       "city": "Waterboro",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w790734870",
@@ -1904,7 +1994,9 @@
       "city": "Sorrento",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w792919947",
@@ -1921,7 +2013,9 @@
       "city": "Windham",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w792919951",
@@ -1938,7 +2032,9 @@
       "city": "Windham",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w792919957",
@@ -1972,7 +2068,9 @@
       "city": "Windham",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w792919962",
@@ -1989,7 +2087,9 @@
       "city": "Raymond",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w792919969",
@@ -2006,7 +2106,9 @@
       "city": "Raymond",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w792919970",
@@ -2023,7 +2125,9 @@
       "city": "Raymond",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w793225667",
@@ -2059,7 +2163,9 @@
       "city": "Brewer",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w801632557",
@@ -2076,7 +2182,9 @@
       "city": "Naples",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w801632558",
@@ -2093,7 +2201,9 @@
       "city": "Naples",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w806193034",
@@ -2127,7 +2237,9 @@
       "city": "Cape Elizabeth",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w809296704",
@@ -2144,7 +2256,9 @@
       "city": "Minturn",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w809727545",
@@ -2161,7 +2275,9 @@
       "city": "Stonington",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w810818303",
@@ -2178,7 +2294,9 @@
       "city": "Mount Desert",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w813676521",
@@ -2212,7 +2330,9 @@
       "city": "Cranberry Isles",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w814276548",
@@ -2229,7 +2349,9 @@
       "city": "Bar Harbor",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w814361065",
@@ -2246,7 +2368,9 @@
       "city": "Bar Harbor",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w815323162",
@@ -2263,7 +2387,9 @@
       "city": "Tremont",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w815465307",
@@ -2335,7 +2461,9 @@
       "city": "Mount Desert",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w815678684",
@@ -2369,7 +2497,9 @@
       "city": "Rangeley",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w816481514",
@@ -2403,7 +2533,9 @@
       "city": "Franklin County",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w817936553",
@@ -2420,7 +2552,9 @@
       "city": "Davis Township",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w823178914",
@@ -2437,7 +2571,9 @@
       "city": "Georgetown",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w824296515",
@@ -2454,7 +2590,9 @@
       "city": "Windham",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w829913977",
@@ -2613,7 +2751,9 @@
       "city": "Rome",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w850983219",
@@ -2666,7 +2806,9 @@
       "city": "Yarmouth",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w869091890",
@@ -2683,7 +2825,9 @@
       "city": "Steuben",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w874468228",
@@ -2719,7 +2863,9 @@
       "city": "Greenville",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w903863696",
@@ -2736,7 +2882,9 @@
       "city": "Cushing",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w915582568",
@@ -2753,7 +2901,9 @@
       "city": "Sorrento",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w916814457",
@@ -2770,7 +2920,9 @@
       "city": "Mount Desert",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w917168054",
@@ -2787,7 +2939,9 @@
       "city": "Bar Harbor",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w923133365",
@@ -2804,7 +2958,9 @@
       "city": "East Boothbay",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w924349541",
@@ -2821,7 +2977,9 @@
       "city": "Westport Island",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w930805213",
@@ -2838,7 +2996,9 @@
       "city": "Chamberlain",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w931149197",
@@ -2855,7 +3015,9 @@
       "city": "South Bristol",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w931149201",
@@ -2872,7 +3034,9 @@
       "city": "Walpole",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w953085186",
@@ -2889,7 +3053,9 @@
       "city": "Morrill",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w966544175",
@@ -2925,7 +3091,9 @@
       "city": "Kittery",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w987024647",
@@ -2942,7 +3110,9 @@
       "city": "Weld",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w995149807",
@@ -3027,7 +3197,9 @@
       "city": "South China",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1003047049",
@@ -3097,7 +3269,9 @@
       "city": "Kittery",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1011824227",
@@ -3148,7 +3322,9 @@
       "city": "Limerick",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1016638973",
@@ -3165,7 +3341,9 @@
       "city": "Limerick",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1017501399",
@@ -3182,7 +3360,9 @@
       "city": "Portland",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1018567661",
@@ -3250,7 +3430,9 @@
       "city": "Kennebunkport",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1019226918",
@@ -3267,7 +3449,9 @@
       "city": "Kennebunkport",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1019253585",
@@ -3284,7 +3468,9 @@
       "city": "Kennebunkport",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1019253587",
@@ -3301,7 +3487,9 @@
       "city": "Kennebunkport",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1019386795",
@@ -3318,7 +3506,9 @@
       "city": "Kennebunkport",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1025373609",
@@ -3460,7 +3650,9 @@
       "city": "Saco",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1035448457",
@@ -3477,7 +3669,9 @@
       "city": "Saco",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1036828788",
@@ -3564,7 +3758,9 @@
       "city": "Old Orchard Beach",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1041471015",
@@ -3581,7 +3777,9 @@
       "city": "Parsonsfield",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1043865239",
@@ -3598,7 +3796,9 @@
       "city": "Cumberland County",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1044570363",
@@ -3615,7 +3815,9 @@
       "city": "Standish",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1047192946",
@@ -3632,7 +3834,9 @@
       "city": "Standish",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1061246400",
@@ -3806,7 +4010,9 @@
       "city": "Gorham",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1091056803",
@@ -3857,7 +4063,9 @@
       "city": "Dexter",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1101185710",
@@ -3874,7 +4082,9 @@
       "city": "Waterville",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1101756008",
@@ -3908,7 +4118,9 @@
       "city": "Newry",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1106031121",
@@ -4014,7 +4226,9 @@
       "city": "Rangeley",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1163747417",
@@ -4086,7 +4300,9 @@
       "city": "Ogunquit",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1190060290",
@@ -4137,7 +4353,9 @@
       "city": "South Bristol",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1207153330",
@@ -4171,7 +4389,9 @@
       "city": "Bridgton",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1219900032",
@@ -4188,7 +4408,9 @@
       "city": "Ashland",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1222838804",
@@ -4241,7 +4463,9 @@
       "city": "Boothbay",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1237978112",
@@ -4929,7 +5153,9 @@
       "city": "Wiscasset",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1283709849",
@@ -4980,7 +5206,9 @@
       "city": "Waldoboro",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1286492720",
@@ -5031,7 +5259,9 @@
       "city": "Mount Desert",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1287729370",
@@ -5139,7 +5369,9 @@
       "city": "Boothbay Harbor",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1301595876",
@@ -5156,7 +5388,9 @@
       "city": "Embden",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1302928910",
@@ -5192,7 +5426,9 @@
       "city": "South Berwick",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1325632035",
@@ -5294,7 +5530,9 @@
       "city": "Rangeley",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1339396473",
@@ -5381,7 +5619,9 @@
       "city": "Boothbay",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1351955852",
@@ -5502,7 +5742,9 @@
       "city": "Trevett",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356680407",
@@ -5574,7 +5816,9 @@
       "city": "Portage Lake",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1373702343",
@@ -5644,7 +5888,9 @@
       "city": "Naples",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1390281884",
@@ -5714,7 +5960,9 @@
       "city": "Owls Head",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1431334803",
@@ -5767,7 +6015,9 @@
       "city": "Damariscotta",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1432710155",
@@ -5784,7 +6034,9 @@
       "city": "Naples",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435983527",
@@ -5890,7 +6142,9 @@
       "city": "Rangeley",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1465218727",
@@ -5926,7 +6180,9 @@
       "city": "Rangeley",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471513192",
@@ -5943,7 +6199,9 @@
       "city": "Fort Fairfield",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471513240",
@@ -5994,7 +6252,9 @@
       "city": "Mapleton",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471513894",
@@ -6045,7 +6305,9 @@
       "city": "Cherryfield",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471843240",
@@ -6062,7 +6324,9 @@
       "city": "Gouldsboro",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471844755",
@@ -6079,7 +6343,9 @@
       "city": "Winter Harbor",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471844757",
@@ -6096,7 +6362,9 @@
       "city": "Winter Harbor",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471844931",
@@ -6113,7 +6381,9 @@
       "city": "Mount Desert",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471845125",
@@ -6149,7 +6419,9 @@
       "city": "Ellsworth",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1471845325",
@@ -6183,7 +6455,9 @@
       "city": "Ellsworth",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1475416964",
@@ -6200,7 +6474,9 @@
       "city": "Harpswell",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1480457440",
@@ -6217,7 +6493,9 @@
       "city": "Howland",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1480457626",
@@ -6304,7 +6582,9 @@
       "city": "Abbot",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1481432010",
@@ -6321,7 +6601,9 @@
       "city": "Dexter",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1481432234",
@@ -6391,7 +6673,9 @@
       "city": "Old Town",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1481435817",
@@ -6482,7 +6766,9 @@
       "city": "Moosehead Junction Township",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1481636404",
@@ -6535,7 +6821,9 @@
       "city": "Embden",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1481636687",
@@ -6624,7 +6912,9 @@
       "city": "Rome",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1481637406",
@@ -6675,7 +6965,9 @@
       "city": "Manchester",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1481638011",
@@ -6868,7 +7160,9 @@
       "city": "South Thomaston",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1481640922",
@@ -6902,7 +7196,9 @@
       "city": "Northport",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1485902223",
@@ -6919,7 +7215,9 @@
       "city": "Lincolnville",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1485902271",
@@ -6936,7 +7234,9 @@
       "city": "Lincolnville",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1485902403",
@@ -6972,7 +7272,9 @@
       "city": "Belgrade",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1486071240",
@@ -6989,7 +7291,9 @@
       "city": "Union",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1486071853",
@@ -7006,7 +7310,9 @@
       "city": "Jefferson",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1486072754",
@@ -7040,7 +7346,9 @@
       "city": "South Bristol",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1486073515",
@@ -7057,7 +7365,9 @@
       "city": "Franklin County",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1486073616",
@@ -7195,7 +7505,9 @@
       "city": "Denmark",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1486816057",
@@ -7212,7 +7524,9 @@
       "city": "Brownfield",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1486816344",
@@ -7246,7 +7560,9 @@
       "city": "Lovell",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1490220818",
@@ -7263,7 +7579,9 @@
       "city": "Harpswell",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492232464",
@@ -7280,7 +7598,9 @@
       "city": "Georgetown",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492232753",
@@ -7297,7 +7617,9 @@
       "city": "Sebasco",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492232995",
@@ -7314,7 +7636,9 @@
       "city": "Phippsburg",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492233243",
@@ -7331,7 +7655,9 @@
       "city": "Freeport",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492233706",
@@ -7401,7 +7727,9 @@
       "city": "Yarmouth",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492235100",
@@ -7488,7 +7816,9 @@
       "city": "Boothbay",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1498114051",
@@ -7522,7 +7852,9 @@
       "city": "Auburn",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1499175966",
@@ -7643,7 +7975,9 @@
       "city": "Falmouth",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1499645816",
@@ -7694,7 +8028,9 @@
       "city": "Raymond",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1499646563",
@@ -7711,7 +8047,9 @@
       "city": "Casco",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1510510942",
@@ -7728,7 +8066,9 @@
       "city": "West Gardiner",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1511172113",
@@ -7745,7 +8085,9 @@
       "city": "Newcastle",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1514047307",
@@ -7762,7 +8104,9 @@
       "city": "Damariscotta",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1517802396",
@@ -7813,7 +8157,9 @@
       "city": "Naples",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1541037035",
@@ -7830,7 +8176,9 @@
       "city": "Taunton & Raynham Academy Grant",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1541037335",
@@ -7900,7 +8248,9 @@
       "city": "Presque Isle",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1541039594",
@@ -7917,7 +8267,9 @@
       "city": "Fort Kent",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1541040049",
@@ -7934,7 +8286,9 @@
       "city": "Fort Kent",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1541040400",
@@ -7987,7 +8341,9 @@
       "city": "Washington County",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1541054084",
@@ -8004,7 +8360,9 @@
       "city": "Whiting",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1541054337",
@@ -8021,7 +8379,9 @@
       "city": "Cutler",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1541054606",
@@ -8072,7 +8432,9 @@
       "city": "Jonesboro",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1541057585",
@@ -8089,7 +8451,9 @@
       "city": "Jonesport",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1541058161",
@@ -8106,7 +8470,9 @@
       "city": "Addison",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1541058476",
@@ -8123,7 +8489,9 @@
       "city": "Steuben",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1541182381",
@@ -8140,7 +8508,9 @@
       "city": "Tremont",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1541315948",
@@ -8157,7 +8527,9 @@
       "city": "Ellsworth",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1541316133",
@@ -8174,7 +8546,9 @@
       "city": "Surry",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1541316768",
@@ -8191,7 +8565,9 @@
       "city": "Blue Hill",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1541316978",
@@ -8208,7 +8584,9 @@
       "city": "Surry",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1541317502",
@@ -8225,7 +8603,9 @@
       "city": "Mount Desert",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1541318275",
@@ -8242,7 +8622,9 @@
       "city": "Brooklin",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1541318782",
@@ -8259,7 +8641,9 @@
       "city": "Brooklin",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1541319293",
@@ -8276,7 +8660,9 @@
       "city": "Brooklin",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1541319294",
@@ -8293,7 +8679,9 @@
       "city": "Brooklin",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1541331136",
@@ -8344,7 +8732,9 @@
       "city": "Surry",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1541332039",
@@ -8361,7 +8751,9 @@
       "city": "Steuben",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1541332311",
@@ -8378,7 +8770,9 @@
       "city": "Lamoine",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1541332573",
@@ -8395,7 +8789,9 @@
       "city": "Bar Harbor",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1541333072",
@@ -8412,7 +8808,9 @@
       "city": "Mount Desert",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1541333560",
@@ -8429,7 +8827,9 @@
       "city": "Deer Isle",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1541333944",
@@ -8446,7 +8846,9 @@
       "city": "Deer Isle",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1541334393",
@@ -8463,7 +8865,9 @@
       "city": "Mount Desert",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1541336581",
@@ -8497,7 +8901,9 @@
       "city": "Cushing",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1541337683",
@@ -8514,7 +8920,9 @@
       "city": "Fairfield",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1541338350",
@@ -8531,7 +8939,9 @@
       "city": "Boothbay",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1542057794",
@@ -8582,7 +8992,9 @@
       "city": "Denmark",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1543919975",
@@ -8599,7 +9011,9 @@
       "city": "Rome",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1544085664",
@@ -8616,7 +9030,9 @@
       "city": "Belgrade",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1544085665",
@@ -8633,7 +9049,9 @@
       "city": "Belgrade",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1544085949",
@@ -8650,7 +9068,9 @@
       "city": "Belgrade",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1544086273",
@@ -8684,7 +9104,9 @@
       "city": "Bethel",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1544087139",
@@ -8737,7 +9159,9 @@
       "city": "Orrs Island",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1544088264",
@@ -8754,7 +9178,9 @@
       "city": "Harpswell",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1544088516",
@@ -8809,7 +9235,9 @@
       "city": "Center Lovell",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1544093014",
@@ -8826,7 +9254,9 @@
       "city": "Jackman",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1544576463",
@@ -8843,7 +9273,9 @@
       "city": "Wells",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1544577001",
@@ -8860,7 +9292,9 @@
       "city": "Wells",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1544863112",
@@ -8877,7 +9311,9 @@
       "city": "Ogunquit",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552421385",
@@ -8894,7 +9330,9 @@
       "city": "Rangeley",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552421512",
@@ -8911,7 +9349,9 @@
       "city": "Rangeley",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552422990",
@@ -8928,7 +9368,9 @@
       "city": "Center Lovell",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552423206",
@@ -8945,7 +9387,9 @@
       "city": "Center Lovell",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552423229",
@@ -8962,7 +9406,9 @@
       "city": "Lovell",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552423524",
@@ -8979,7 +9425,9 @@
       "city": "Wilton",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552423540",
@@ -8996,7 +9444,9 @@
       "city": "Wilton",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552423639",
@@ -9066,7 +9516,9 @@
       "city": "Hancock",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552424493",
@@ -9100,7 +9552,9 @@
       "city": "North Haven",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552424509",
@@ -9117,7 +9571,9 @@
       "city": "Vinalhaven",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552425257",
@@ -9134,7 +9590,9 @@
       "city": "Brooksville",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552425481",
@@ -9151,7 +9609,9 @@
       "city": "Deer Isle",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552425520",
@@ -9168,7 +9628,9 @@
       "city": "Brooklin",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552425595",
@@ -9185,7 +9647,9 @@
       "city": "Brooklin",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1552426369",
@@ -9202,7 +9666,9 @@
       "city": "Minturn",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-r10813397",
@@ -9219,7 +9685,9 @@
       "city": "Portland",
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-r17826315",
