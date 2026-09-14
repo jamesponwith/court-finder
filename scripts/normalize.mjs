@@ -466,6 +466,9 @@ function enrichNamesFromPlaces(region, facilities, placeFiles) {
     }
     if (!best) best = bestResidential;
     if (best) {
+      // Named only after a residential subdivision: still likely a backyard
+      // court when small (see scripts/residential.mjs).
+      if (best.kind === "residential") f._residentialName = true;
       f.name = /tennis|racquet|racket/i.test(best.name)
         ? best.name
         : `${best.name} Tennis Courts`;
@@ -650,7 +653,7 @@ for (const region of REGIONS) {
   console.log(`[${slug}] residential: tagged ${flagResidential(facilities)} likely backyard courts`);
 
   // Strip internal working fields so the output schema stays unchanged.
-  for (const f of facilities) delete f._accessExplicit;
+  for (const f of facilities) { delete f._accessExplicit; delete f._residentialName; }
 
   sanityCheck(slug, facilities, bounds);
   writeRegion(slug, facilities);
