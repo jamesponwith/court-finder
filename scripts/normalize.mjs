@@ -34,6 +34,8 @@ import { fileURLToPath } from "node:url";
 import { REGIONS } from "./regions.mjs";
 import { flagResidential } from "./residential.mjs";
 
+const shrunk = []; // regions whose regenerated output was refused (see the write guard)
+
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const RAW = join(ROOT, "data", "raw");
 const OUT = join(ROOT, "public", "data");
@@ -592,6 +594,23 @@ function writeRegion(region, facilities) {
   mkdirSync(OUT, { recursive: true });
   const out = { region, attribution: ATTRIBUTION, facilities };
   const file = join(OUT, `courts-${region}.json`);
+  // Never let a truncated extract (a flaky mirror, a stale area index, a timed-out query)
+  // replace a good published file: a state does not lose a third of its courts for real.
+  if (existsSync(file) && !process.argv.includes("--allow-shrink")) {
+    const published = JSON.parse(readFileSync(file, "utf8")).facilities;
+    const namedShare = (fs) => fs.filter((f) => !isUnnamed(f)).length / Math.max(1, fs.length);
+    const drop = namedShare(published) - namedShare(facilities);
+    if (facilities.length < published.length * 0.7 || drop > 0.15) {
+      console.error(
+        `[${region}] REFUSING to write: ${facilities.length} facilities vs ${published.length} ` +
+          `published, named share ${Math.round(namedShare(facilities) * 100)}% vs ` +
+          `${Math.round(namedShare(published) * 100)}% (missing places extract?). ` +
+          `Refetch the raw files, or pass --allow-shrink if the change is real.`
+      );
+      shrunk.push(region);
+      return;
+    }
+  }
   writeFileSync(file, JSON.stringify(out, null, 2) + "\n");
   console.log(`[${region}] wrote ${file} (${facilities.length} facilities)`);
 }
@@ -677,4 +696,8 @@ if (missing) {
         ? " (--allow-missing: exiting clean)"
         : " (exiting non-zero; pass --allow-missing for staged runs)")
   );
+}
+if (shrunk.length) {
+  console.error(`refused (truncated extract?): ${shrunk.join(" ")} — refetch their raw files`);
+  process.exitCode = 3;
 }

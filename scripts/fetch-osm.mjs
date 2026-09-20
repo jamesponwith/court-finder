@@ -32,6 +32,9 @@ import { REGIONS } from "./regions.mjs";
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const RAW = join(ROOT, "data", "raw");
 
+// Tried in order per query. Only instances with a current area index belong here: a mirror
+// with a stale one (overpass.private.coffee, May snapshot) answered Colorado with 207 of
+// ~3000 elements — normalize.mjs's shrink guard is the backstop, not a substitute.
 const ENDPOINTS = [
   "https://overpass-api.de/api/interpreter",
   "https://overpass.kumi.systems/api/interpreter",
