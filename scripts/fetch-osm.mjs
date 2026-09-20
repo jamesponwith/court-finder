@@ -38,7 +38,10 @@ const ENDPOINTS = [
 ];
 const USER_AGENT =
   "AllAboutTennis-CourtFinder/1.0 (court data pipeline; occasional batch)";
-const PAUSE_MS = 3000; // polite pause between successive queries
+// Polite pause between successive queries. Statewide queries are heavy: overpass-api.de answers
+// a client that piles them up with a blanket 406 for hours, so default to a slow cadence and
+// let a batch run override it (OVERPASS_PAUSE_MS=3000 for a single state).
+const PAUSE_MS = Number(process.env.OVERPASS_PAUSE_MS) || 20000;
 const RETRY_PAUSE_MS = 30000; // before retrying a failed query
 
 // ------------------------------------------------------------- queries
@@ -149,21 +152,33 @@ const regions = slugs.length
   : REGIONS;
 
 mkdirSync(RAW, { recursive: true });
+// A failed state is reported and skipped, never fatal: re-running without --force resumes
+// with only the files still missing. normalize.mjs --allow-missing tolerates the gaps.
+const failed = [];
 for (const region of regions) {
   console.log(`[${region.slug}] ${region.name}`);
-  const didCourts = await fetchFile(
-    `osm-${region.slug}.json`,
-    courtsQuery(region),
-    "courts",
-    force
-  );
-  if (didCourts) await sleep(PAUSE_MS);
-  const didPlaces = await fetchFile(
-    `osm-${region.slug}-places.json`,
-    placesQuery(region),
-    "places",
-    force
-  );
-  if (didPlaces) await sleep(PAUSE_MS);
+  try {
+    const didCourts = await fetchFile(
+      `osm-${region.slug}.json`,
+      courtsQuery(region),
+      "courts",
+      force
+    );
+    if (didCourts) await sleep(PAUSE_MS);
+    const didPlaces = await fetchFile(
+      `osm-${region.slug}-places.json`,
+      placesQuery(region),
+      "places",
+      force
+    );
+    if (didPlaces) await sleep(PAUSE_MS);
+  } catch (e) {
+    console.error(`[${region.slug}] FAILED: ${e.message}`);
+    failed.push(region.slug);
+  }
+}
+if (failed.length) {
+  console.error(`failed: ${failed.join(" ")} — re-run without --force to resume`);
+  process.exit(2);
 }
 console.log("done — next: node scripts/normalize.mjs");

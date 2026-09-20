@@ -3,10 +3,34 @@
   "attribution": "© OpenStreetMap contributors (ODbL); NYC Parks Open Data",
   "facilities": [
     {
+      "id": "osm-w628404609",
+      "name": "Jonesboro Country Club Tennis Courts",
+      "lat": 35.829076,
+      "lng": -90.691883,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 4,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "AR",
+      "source": "osm",
+      "tags": {}
+    },
+    {
       "id": "osm-w1456168477",
       "name": "Public Tennis Courts",
       "lat": 35.808711,
       "lng": -90.747389,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -26,6 +50,9 @@
       "name": "Tennis Courts · Duckswater Street",
       "lat": 35.81402,
       "lng": -90.754431,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -45,6 +72,9 @@
       "name": "Westridge Apartments Tennis Courts",
       "lat": 34.735415,
       "lng": -92.37727,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -55,13 +85,18 @@
       "city": null,
       "state": "AR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w53137026",
       "name": "Tennis Courts · East Nichols Street",
       "lat": 34.543614,
       "lng": -91.953692,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -81,6 +116,9 @@
       "name": "Tilden Rogers Sports Complex Tennis Courts",
       "lat": 35.155177,
       "lng": -90.221796,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 12,
       "surface": "unknown",
       "lighted": null,
@@ -98,6 +136,9 @@
       "name": "Henson Park Tennis Courts",
       "lat": 34.82154,
       "lng": -92.219176,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "hard",
       "lighted": true,
@@ -115,6 +156,9 @@
       "name": "Tennis Courts · Joe Poch Road",
       "lat": 34.803172,
       "lng": -92.304653,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 36,
       "surface": "unknown",
       "lighted": null,
@@ -128,10 +172,33 @@
       "tags": {}
     },
     {
+      "id": "osm-w78060558",
+      "name": "Kanis Park Pickleball Courts",
+      "lat": 34.744137,
+      "lng": -92.360765,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": true,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "AR",
+      "source": "osm",
+      "tags": {}
+    },
+    {
       "id": "osm-w122871600",
       "name": "University of Arkansas At Little Rock Tennis Courts",
       "lat": 34.720569,
       "lng": -92.337318,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -151,6 +218,9 @@
       "name": "Tennis Courts · Bendelow Drive",
       "lat": 36.264985,
       "lng": -94.219748,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -170,6 +240,9 @@
       "name": "Paris Elementary School Tennis Courts",
       "lat": 35.294676,
       "lng": -93.719444,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -189,6 +262,10 @@
       "name": "David Elliott Tennis Complex",
       "lat": 35.242811,
       "lng": -91.721777,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
       "courtCount": 12,
       "surface": "unknown",
       "lighted": true,
@@ -206,6 +283,9 @@
       "name": "Tennis Courts · West Court Street",
       "lat": 36.056657,
       "lng": -90.506408,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -221,9 +301,13 @@
     {
       "id": "osm-w134127625",
       "name": "Cooper Park Tennis Courts",
-      "lat": 36.345335,
-      "lng": -92.366354,
-      "courtCount": 3,
+      "lat": 36.345332,
+      "lng": -92.366309,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -240,6 +324,9 @@
       "name": "University of the Ozarks Tennis Courts",
       "lat": 35.479067,
       "lng": -93.463995,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 10,
       "surface": "unknown",
       "lighted": null,
@@ -259,6 +346,9 @@
       "name": "Kimery Park Tennis Courts",
       "lat": 34.476219,
       "lng": -93.087827,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 7,
       "surface": "unknown",
       "lighted": null,
@@ -276,6 +366,9 @@
       "name": "Eastside Park Tennis Courts",
       "lat": 33.272646,
       "lng": -93.218984,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -293,6 +386,9 @@
       "name": "Brinkley City Park Tennis Courts",
       "lat": 34.904265,
       "lng": -91.204154,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -310,6 +406,9 @@
       "name": "Herman Dierks Park Tennis Courts",
       "lat": 34.042586,
       "lng": -94.333271,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -327,6 +426,9 @@
       "name": "Henderson State University Tennis Courts",
       "lat": 34.132112,
       "lng": -93.063593,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 10,
       "surface": "unknown",
       "lighted": null,
@@ -346,6 +448,9 @@
       "name": "Cypress Park Tennis Courts",
       "lat": 35.916511,
       "lng": -89.933719,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -363,6 +468,9 @@
       "name": "Cleo Stroger Dunnings Park Tennis Courts",
       "lat": 34.541064,
       "lng": -90.586549,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -380,6 +488,9 @@
       "name": "Tilles Park Tennis Courts",
       "lat": 35.383038,
       "lng": -94.391387,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -397,6 +508,9 @@
       "name": "Fitzhugh Park Tennis Courts",
       "lat": 35.765657,
       "lng": -91.632002,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -414,6 +528,9 @@
       "name": "Sage Meadows Country Club Tennis Courts",
       "lat": 35.883976,
       "lng": -90.639255,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -431,6 +548,9 @@
       "name": "Magnolia High School Tennis Courts",
       "lat": 33.27763,
       "lng": -93.22395,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -450,6 +570,9 @@
       "name": "Branchwood Park Tennis Courts",
       "lat": 36.490376,
       "lng": -94.344768,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -467,6 +590,9 @@
       "name": "Bella Vista Country Club Golf Course Tennis Courts",
       "lat": 36.48304,
       "lng": -94.259983,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -482,9 +608,13 @@
     {
       "id": "osm-w246561485",
       "name": "Kingsdale Pool, Tennis, and Recreation area",
-      "lat": 36.455074,
-      "lng": -94.249367,
-      "courtCount": 8,
+      "lat": 36.455101,
+      "lng": -94.249378,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 9,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -501,6 +631,9 @@
       "name": "Ouachita Baptist University Tennis Courts",
       "lat": 34.13292,
       "lng": -93.056248,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -520,6 +653,9 @@
       "name": "Van Buren High School Tennis Courts",
       "lat": 35.458923,
       "lng": -94.341011,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -539,6 +675,9 @@
       "name": "Memorial Park Tennis Courts",
       "lat": 36.377748,
       "lng": -94.189406,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 12,
       "surface": "unknown",
       "lighted": null,
@@ -556,6 +695,9 @@
       "name": "Tennis Courts · South Hale Avenue",
       "lat": 35.889081,
       "lng": -90.347477,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": null,
@@ -575,6 +717,9 @@
       "name": "Public Tennis Courts",
       "lat": 35.083366,
       "lng": -92.195345,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -592,6 +737,9 @@
       "name": "John Brown University Tennis Courts",
       "lat": 36.192786,
       "lng": -94.55973,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -611,6 +759,9 @@
       "name": "Tennis Courts · Lakeside Road",
       "lat": 34.475297,
       "lng": -92.995164,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -628,6 +779,9 @@
       "name": "Texarkana Country Club Tennis Courts",
       "lat": 33.405151,
       "lng": -94.016277,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "clay",
       "lighted": null,
@@ -645,6 +799,9 @@
       "name": "Chamberlyne Country Club Tennis Courts",
       "lat": 35.106094,
       "lng": -93.369837,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -662,6 +819,9 @@
       "name": "Conway Country Club Tennis Courts",
       "lat": 35.088219,
       "lng": -92.481477,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -679,6 +839,9 @@
       "name": "Walker Park Tennis Courts",
       "lat": 35.929936,
       "lng": -89.892654,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -696,6 +859,9 @@
       "name": "Wilson Park Tennis Courts",
       "lat": 36.07271,
       "lng": -94.162624,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": true,
@@ -711,9 +877,13 @@
     {
       "id": "osm-w318162393",
       "name": "The Country Club of Little Rock Tennis Courts",
-      "lat": 34.771096,
-      "lng": -92.32256,
-      "courtCount": 13,
+      "lat": 34.770858,
+      "lng": -92.322634,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 17,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -730,6 +900,9 @@
       "name": "Gatlin Park Tennis Courts",
       "lat": 35.101833,
       "lng": -92.461817,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": true,
@@ -747,6 +920,9 @@
       "name": "El Dorado Golf & Country Club Tennis Courts",
       "lat": 33.240409,
       "lng": -92.66309,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -764,6 +940,9 @@
       "name": "Jonesboro Country Club Tennis Courts",
       "lat": 35.829882,
       "lng": -90.690351,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -781,6 +960,9 @@
       "name": "Jonesboro Country Club Tennis Courts",
       "lat": 35.828796,
       "lng": -90.689759,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -798,6 +980,9 @@
       "name": "Joe Mack Campbell Park Tennis Courts",
       "lat": 35.847804,
       "lng": -90.757635,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -815,6 +1000,9 @@
       "name": "Allen Park Tennis Courts",
       "lat": 35.812394,
       "lng": -90.655152,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 12,
       "surface": "unknown",
       "lighted": null,
@@ -832,6 +1020,9 @@
       "name": "Yellvile Park Tennis Courts",
       "lat": 36.220278,
       "lng": -92.679339,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -849,6 +1040,9 @@
       "name": "Tennis Courts · Shields Drive",
       "lat": 36.489884,
       "lng": -93.775605,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -864,9 +1058,13 @@
     {
       "id": "osm-w622015556",
       "name": "Little Rock Racquet Club",
-      "lat": 34.778917,
-      "lng": -92.364586,
-      "courtCount": 11,
+      "lat": 34.778858,
+      "lng": -92.364415,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 15,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -886,6 +1084,9 @@
       "name": "The Country Club of Little Rock Tennis Courts",
       "lat": 34.769723,
       "lng": -92.318714,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -903,6 +1104,9 @@
       "name": "Tennis Courts · Reynard Court",
       "lat": 34.778604,
       "lng": -92.361419,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -922,6 +1126,9 @@
       "name": "Field Kindley Memorial Park Tennis Courts",
       "lat": 36.421641,
       "lng": -94.449265,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": true,
@@ -939,6 +1146,9 @@
       "name": "Des Arc High School Tennis Courts",
       "lat": 34.978643,
       "lng": -91.498407,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -958,6 +1168,9 @@
       "name": "South Annex Park Tennis Courts",
       "lat": 33.610267,
       "lng": -91.390125,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -975,6 +1188,9 @@
       "name": "Lady Dawg Yard Tennis Courts",
       "lat": 36.082004,
       "lng": -94.186116,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -992,6 +1208,9 @@
       "name": "Tennis Courts · East Knoxville Street",
       "lat": 35.222167,
       "lng": -94.251581,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "hard",
       "lighted": true,
@@ -1009,6 +1228,9 @@
       "name": "Fifth Avenue Park Tennis Courts",
       "lat": 35.087738,
       "lng": -92.422285,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1026,6 +1248,9 @@
       "name": "War Memorial Park Tennis Courts",
       "lat": 34.74844,
       "lng": -92.329973,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1043,6 +1268,9 @@
       "name": "Meriwether Park Tennis Courts",
       "lat": 34.764755,
       "lng": -92.353219,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1060,6 +1288,9 @@
       "name": "Little Rock Reservoir Park Tennis Courts",
       "lat": 34.773288,
       "lng": -92.36815,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -1077,6 +1308,9 @@
       "name": "Otter Creek Tennis Courts",
       "lat": 34.660021,
       "lng": -92.432364,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 11,
       "surface": "unknown",
       "lighted": null,
@@ -1094,6 +1328,9 @@
       "name": "Tennis Courts · Brentwood Road",
       "lat": 34.777574,
       "lng": -92.345592,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1113,6 +1350,9 @@
       "name": "Tennis Courts · Eagle Hill Drive",
       "lat": 34.674848,
       "lng": -92.429691,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1132,6 +1372,9 @@
       "name": "Bozeman Park Tennis Courts",
       "lat": 33.224557,
       "lng": -92.659445,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -1149,6 +1392,9 @@
       "name": "Earl Bell Park Tennis Courts",
       "lat": 35.831153,
       "lng": -90.703052,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -1166,6 +1412,9 @@
       "name": "Tennis Courts · Dallas Street",
       "lat": 35.353901,
       "lng": -94.347249,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1185,6 +1434,9 @@
       "name": "Tennis Courts · Heather Ridge Court",
       "lat": 35.346085,
       "lng": -94.372606,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1204,6 +1456,9 @@
       "name": "Springdale High School Tennis Courts",
       "lat": 36.182456,
       "lng": -94.141325,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -1223,6 +1478,9 @@
       "name": "Tennis Courts · South 4th Street",
       "lat": 35.288906,
       "lng": -93.726169,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1242,6 +1500,9 @@
       "name": "Tennis Courts · Cr27",
       "lat": 36.352934,
       "lng": -92.400702,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -1259,6 +1520,9 @@
       "name": "Tennis Courts · David Wyatt Boulevard",
       "lat": 35.259892,
       "lng": -93.118207,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -1276,6 +1540,9 @@
       "name": "Tennis Courts · Clyde Ross Drive",
       "lat": 33.611518,
       "lng": -91.812742,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -1293,6 +1560,9 @@
       "name": "Tennis Courts · Coley Drive",
       "lat": 36.350075,
       "lng": -92.383808,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -1310,6 +1580,9 @@
       "name": "Tennis Courts · North Knox Avenue",
       "lat": 35.876808,
       "lng": -92.123777,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -1327,6 +1600,9 @@
       "name": "Stuttgart High School Tennis Courts",
       "lat": 34.476827,
       "lng": -91.556622,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -1344,9 +1620,13 @@
     {
       "id": "osm-w451645042",
       "name": "Tennis Courts · Trace Creek Road",
-      "lat": 34.53037,
-      "lng": -92.656471,
-      "courtCount": 1,
+      "lat": 34.530371,
+      "lng": -92.656315,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 9,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -1356,15 +1636,16 @@
       "city": "Haskell",
       "state": "AR",
       "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w451650476",
       "name": "Tennis Courts · AR 5",
       "lat": 34.612363,
       "lng": -92.535382,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1384,6 +1665,9 @@
       "name": "Rogers Heritage High School Tennis Courts",
       "lat": 36.322005,
       "lng": -94.122721,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -1403,6 +1687,9 @@
       "name": "Thomas O'Marr Park Tennis Courts",
       "lat": 36.265775,
       "lng": -90.966675,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1420,6 +1707,9 @@
       "name": "Morehart Park Tennis Courts",
       "lat": 34.653576,
       "lng": -92.381532,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1437,6 +1727,9 @@
       "name": "Tennis Courts · Lakeshore Drive",
       "lat": 34.79595,
       "lng": -92.251,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -1454,6 +1747,9 @@
       "name": "MacArthur Park Tennis Courts",
       "lat": 34.737533,
       "lng": -92.263852,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1471,6 +1767,9 @@
       "name": "University Park Tennis Courts",
       "lat": 34.738631,
       "lng": -92.346901,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 19,
       "surface": "unknown",
       "lighted": null,
@@ -1488,6 +1787,9 @@
       "name": "Tennis Courts · Dexter Street",
       "lat": 34.828252,
       "lng": -92.221426,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1507,6 +1809,9 @@
       "name": "Tennis Courts · Merriwood Place",
       "lat": 34.827109,
       "lng": -92.221282,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1526,6 +1831,9 @@
       "name": "Sherwood Youth Center Tennis Courts",
       "lat": 34.814397,
       "lng": -92.227246,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1543,6 +1851,9 @@
       "name": "Hangar Hill Park Tennis Courts",
       "lat": 34.736269,
       "lng": -92.256971,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1560,6 +1871,9 @@
       "name": "Wilbur Mills Park Tennis Courts",
       "lat": 34.604129,
       "lng": -92.482222,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1577,6 +1891,9 @@
       "name": "Tennis Courts · Sienna Lake Drive",
       "lat": 34.692726,
       "lng": -92.417075,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1594,9 +1911,13 @@
     {
       "id": "osm-w501724829",
       "name": "Harrison Country Club Tennis Courts",
-      "lat": 36.263792,
-      "lng": -93.127186,
-      "courtCount": 5,
+      "lat": 36.263795,
+      "lng": -93.127425,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 7,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -1613,6 +1934,9 @@
       "name": "Fayetteville Athletic Club",
       "lat": 36.130152,
       "lng": -94.119979,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": true,
@@ -1634,6 +1958,9 @@
       "name": "Lakeside Village Golf Course Tennis Courts",
       "lat": 36.099805,
       "lng": -94.160728,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1651,6 +1978,9 @@
       "name": "Gordon Long Park Tennis Courts",
       "lat": 36.100357,
       "lng": -94.162042,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1668,6 +1998,9 @@
       "name": "Lakeside Village Golf Course Tennis Courts",
       "lat": 36.101995,
       "lng": -94.158214,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1685,6 +2018,9 @@
       "name": "Tennis Complex",
       "lat": 35.074858,
       "lng": -92.45774,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 7,
       "surface": "unknown",
       "lighted": true,
@@ -1702,6 +2038,9 @@
       "name": "Tennis Courts · East Skyline Drive",
       "lat": 36.065256,
       "lng": -94.14384,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "hard",
       "lighted": true,
@@ -1721,6 +2060,9 @@
       "name": "Public Tennis Courts",
       "lat": 34.770628,
       "lng": -92.450496,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1740,6 +2082,9 @@
       "name": "Caraway park Tennis Courts",
       "lat": 35.757182,
       "lng": -90.322232,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": true,
@@ -1757,6 +2102,9 @@
       "name": "Tennis Courts · East Center Street",
       "lat": 35.982152,
       "lng": -94.312533,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -1776,6 +2124,9 @@
       "name": "Rogers High School Tennis Courts",
       "lat": 36.29836,
       "lng": -94.151323,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -1795,6 +2146,9 @@
       "name": "Chartwell's Women's Sports Complex",
       "lat": 35.299972,
       "lng": -93.139065,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -1812,9 +2166,13 @@
     {
       "id": "osm-w548897003",
       "name": "Fort Smith Athletic Club",
-      "lat": 35.348292,
-      "lng": -94.372738,
-      "courtCount": 8,
+      "lat": 35.34827,
+      "lng": -94.372813,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 10,
       "surface": "unknown",
       "lighted": null,
       "indoor": true,
@@ -1831,6 +2189,9 @@
       "name": "Tennis Courts · West Jana Place",
       "lat": 36.099527,
       "lng": -94.248869,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1850,6 +2211,9 @@
       "name": "Tennis Courts · AR 12",
       "lat": 36.329614,
       "lng": -94.004198,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1869,6 +2233,9 @@
       "name": "Metfield Recreation Complex Tennis Courts",
       "lat": 36.454206,
       "lng": -94.196222,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1886,6 +2253,9 @@
       "name": "Dogwood Golf Course Tennis Courts",
       "lat": 36.452156,
       "lng": -94.183452,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1903,6 +2273,9 @@
       "name": "The Links at Jonesboro Golf & Athletic Club Tennis Courts",
       "lat": 35.793882,
       "lng": -90.684291,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1920,6 +2293,9 @@
       "name": "Butler Park Tennis Courts",
       "lat": 34.763137,
       "lng": -92.384673,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1937,6 +2313,9 @@
       "name": "Hendrix College Tennis Courts",
       "lat": 35.101754,
       "lng": -92.43954,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -1956,6 +2335,9 @@
       "name": "Tennis Courts · South 105th Street",
       "lat": 35.352648,
       "lng": -94.314947,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1973,9 +2355,13 @@
     {
       "id": "osm-w592387212",
       "name": "Tennis Courts · Devonshire Place",
-      "lat": 35.34784,
-      "lng": -94.318171,
-      "courtCount": 4,
+      "lat": 35.347839,
+      "lng": -94.31817,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -1992,6 +2378,9 @@
       "name": "Alma Walking Trail Tennis Courts",
       "lat": 35.49292,
       "lng": -94.224154,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -2005,10 +2394,35 @@
       "tags": {}
     },
     {
+      "id": "osm-w592512693",
+      "name": "Public Pickleball Courts",
+      "lat": 35.353637,
+      "lng": -94.349841,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "AR",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
       "id": "osm-w592552128",
       "name": "Conway Tennis Center",
       "lat": 35.091327,
       "lng": -92.457522,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": true,
@@ -2026,6 +2440,9 @@
       "name": "Russellville City Park Tennis Courts",
       "lat": 35.279443,
       "lng": -93.124032,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "hard",
       "lighted": null,
@@ -2043,6 +2460,9 @@
       "name": "Tennis Courts · North Albert Pike Avenue",
       "lat": 35.38345,
       "lng": -94.384691,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2062,6 +2482,9 @@
       "name": "Tennis Courts · Jenny Lind Road",
       "lat": 35.294326,
       "lng": -94.412224,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -2079,6 +2502,9 @@
       "name": "Menifee City Park Tennis Courts",
       "lat": 35.141687,
       "lng": -92.545457,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2096,6 +2522,9 @@
       "name": "Bradley Park Tennis Courts",
       "lat": 36.0041,
       "lng": -93.196498,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2113,6 +2542,9 @@
       "name": "Tennis Courts · State Highway 41/West Main Street",
       "lat": 33.938676,
       "lng": -94.361528,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2132,6 +2564,9 @@
       "name": "Mammoth Spring Park Tennis Courts",
       "lat": 36.496145,
       "lng": -91.544869,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2149,6 +2584,9 @@
       "name": "Earle Tennis Court Complex",
       "lat": 35.269489,
       "lng": -90.470873,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2166,6 +2604,9 @@
       "name": "Carlisle City Park Tennis Courts",
       "lat": 34.786306,
       "lng": -91.745525,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2183,6 +2624,9 @@
       "name": "Tennis Courts · City Pool Place",
       "lat": 36.380638,
       "lng": -91.8423,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2202,6 +2646,9 @@
       "name": "Prescott City Park Tennis Courts",
       "lat": 33.802205,
       "lng": -93.377401,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -2219,6 +2666,9 @@
       "name": "Rosenwald Park Tennis Courts",
       "lat": 35.711956,
       "lng": -89.97018,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2236,6 +2686,9 @@
       "name": "Viola City Park Tennis Courts",
       "lat": 36.379939,
       "lng": -91.991938,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2253,6 +2706,9 @@
       "name": "Cedars Country Club Tennis Courts",
       "lat": 35.451147,
       "lng": -94.344205,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2270,6 +2726,9 @@
       "name": "Tennis Courts · Main Street",
       "lat": 33.122937,
       "lng": -91.961741,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -2287,6 +2746,9 @@
       "name": "Barling City Park Tennis Courts",
       "lat": 35.326571,
       "lng": -94.299823,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2304,6 +2766,9 @@
       "name": "Tennis Courts · East Main Street",
       "lat": 35.297784,
       "lng": -94.029429,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2323,6 +2788,9 @@
       "name": "Fair Park Tennis Courts",
       "lat": 33.660938,
       "lng": -93.605634,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -2340,6 +2808,9 @@
       "name": "Tennis Courts · Kilgore Drive",
       "lat": 34.96715,
       "lng": -92.028784,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2359,6 +2830,9 @@
       "name": "Colony West Park Tennis Courts",
       "lat": 34.776124,
       "lng": -92.381067,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2376,6 +2850,9 @@
       "name": "Sulphur Springs City Park Tennis Courts",
       "lat": 36.482402,
       "lng": -94.456842,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2393,6 +2870,9 @@
       "name": "Harold Blalock City Park Tennis Courts",
       "lat": 34.989426,
       "lng": -93.305967,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2410,6 +2890,9 @@
       "name": "Ottenhiemer Park Tennis Courts",
       "lat": 34.673605,
       "lng": -92.356515,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2427,6 +2910,9 @@
       "name": "Arkansas High School Tennis Courts",
       "lat": 33.437372,
       "lng": -94.027221,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -2446,6 +2932,9 @@
       "name": "Stuttgart Country Club Tennis Courts",
       "lat": 34.479945,
       "lng": -91.525716,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2463,6 +2952,9 @@
       "name": "Cain Park Tennis Courts",
       "lat": 34.496922,
       "lng": -91.542428,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -2480,6 +2972,9 @@
       "name": "Tennis Courts · Coronado Circle",
       "lat": 34.814679,
       "lng": -92.248115,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2495,27 +2990,13 @@
       }
     },
     {
-      "id": "osm-w628404609",
-      "name": "Jonesboro Country Club Tennis Courts",
-      "lat": 35.828852,
-      "lng": -90.691843,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "AR",
-      "source": "osm",
-      "tags": {}
-    },
-    {
       "id": "osm-w628661561",
       "name": "Tennis Courts · West Center Street",
       "lat": 35.068022,
       "lng": -91.894602,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -2533,6 +3014,9 @@
       "name": "Humphrey Park Tennis Courts",
       "lat": 34.421625,
       "lng": -91.70563,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2550,6 +3034,9 @@
       "name": "Montrose City Park Tennis Courts",
       "lat": 33.298921,
       "lng": -91.4941,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2567,6 +3054,9 @@
       "name": "Cedar Park Tennis Courts",
       "lat": 35.671714,
       "lng": -90.524363,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -2584,6 +3074,9 @@
       "name": "Dell City Park Tennis Courts",
       "lat": 35.858202,
       "lng": -90.041742,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2601,6 +3094,9 @@
       "name": "Hickey Park Tennis Courts",
       "lat": 36.274507,
       "lng": -92.599864,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2618,6 +3114,9 @@
       "name": "C.L. \"Charlie\" & Willie George Park Tennis Courts",
       "lat": 36.151173,
       "lng": -94.082643,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -2635,6 +3134,9 @@
       "name": "Tennis Courts · Morgan Street",
       "lat": 34.976745,
       "lng": -92.007075,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -2652,6 +3154,9 @@
       "name": "The Links at Fort Smith Golf & Athetic Club Tennis Courts",
       "lat": 35.318822,
       "lng": -94.376394,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2669,6 +3174,9 @@
       "name": "Ben Geren Golf Course Tennis Courts",
       "lat": 35.321444,
       "lng": -94.354369,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -2686,6 +3194,9 @@
       "name": "Henderson Middle School Tennis Courts",
       "lat": 34.749952,
       "lng": -92.370817,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2705,6 +3216,9 @@
       "name": "Grimsley Park Tennis Courts",
       "lat": 35.163388,
       "lng": -90.197869,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2722,6 +3236,9 @@
       "name": "University of Arkansas at Pine Bluff Tennis Courts",
       "lat": 34.247242,
       "lng": -92.025168,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -2741,6 +3258,9 @@
       "name": "Altheimer City Park Tennis Courts",
       "lat": 34.321398,
       "lng": -91.83528,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2758,6 +3278,9 @@
       "name": "Centennial Park Tennis Courts",
       "lat": 34.736357,
       "lng": -92.29383,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2775,6 +3298,9 @@
       "name": "Sturbridge Green (Private) Tennis Courts",
       "lat": 34.765711,
       "lng": -92.381992,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2792,6 +3318,9 @@
       "name": "Pleasant Forest POA Park Tennis Court",
       "lat": 34.790604,
       "lng": -92.407408,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2809,6 +3338,9 @@
       "name": "Public Tennis Courts",
       "lat": 34.791218,
       "lng": -92.408854,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2828,6 +3360,9 @@
       "name": "Danville City Park Tennis Courts",
       "lat": 35.050061,
       "lng": -93.3845,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2845,6 +3380,9 @@
       "name": "Idlewild Park Tennis Courts",
       "lat": 34.786761,
       "lng": -92.256832,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2862,6 +3400,9 @@
       "name": "Tennis Courts · Johnson Meadows Place",
       "lat": 36.172604,
       "lng": -94.15757,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2881,6 +3422,9 @@
       "name": "Public Tennis Courts",
       "lat": 34.771205,
       "lng": -92.377893,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2900,6 +3444,9 @@
       "name": "Tennis Courts · Johnson Ranch Road",
       "lat": 34.802552,
       "lng": -92.463412,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2919,6 +3466,9 @@
       "name": "Chenal Country Club Tennis Courts",
       "lat": 34.781566,
       "lng": -92.474848,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -2936,6 +3486,9 @@
       "name": "Broadmoor Community Park Tennis Courts",
       "lat": 34.728097,
       "lng": -92.347647,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2951,9 +3504,13 @@
     {
       "id": "osm-w685638140",
       "name": "Pleasant Valley Country Club Tennis Courts",
-      "lat": 34.779756,
-      "lng": -92.404832,
-      "courtCount": 9,
+      "lat": 34.779803,
+      "lng": -92.404685,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 13,
       "surface": "unknown",
       "lighted": true,
       "indoor": null,
@@ -2970,6 +3527,9 @@
       "name": "East End Park Tennis Courts",
       "lat": 34.743646,
       "lng": -92.241891,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -2987,6 +3547,9 @@
       "name": "Searcy High School Tennis Courts",
       "lat": 35.253743,
       "lng": -91.761432,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -3006,6 +3569,9 @@
       "name": "Wakefield Park Tennis Courts",
       "lat": 34.682061,
       "lng": -92.338285,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3023,6 +3589,9 @@
       "name": "Tennis Courts · Maple Avenue",
       "lat": 35.93118,
       "lng": -94.187657,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3042,6 +3611,9 @@
       "name": "Riverwalk Apartments Tennis Courts",
       "lat": 34.773211,
       "lng": -92.308249,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3052,13 +3624,18 @@
       "city": null,
       "state": "AR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w745390036",
       "name": "Bunch Park Tennis Courts",
       "lat": 36.001662,
       "lng": -94.006402,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3076,6 +3653,9 @@
       "name": "Harry Sbanotto Park Tennis Courts",
       "lat": 36.174866,
       "lng": -94.233585,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3093,6 +3673,9 @@
       "name": "Randal Tyson Recreational Complex Tennis Courts",
       "lat": 36.157861,
       "lng": -94.175817,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -3106,29 +3689,13 @@
       "tags": {}
     },
     {
-      "id": "osm-w749206595",
-      "name": "Tennis Courts · Plaza Court",
-      "lat": 36.183703,
-      "lng": -94.518117,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": "Plaza Court",
-      "city": "Siloam Springs",
-      "state": "AR",
-      "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
-    },
-    {
       "id": "osm-w749286651",
       "name": "Tennis Courts · Sunset Avenue",
       "lat": 36.178174,
       "lng": -94.512967,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3148,6 +3715,29 @@
       "name": "Citizens Park Tennis Courts",
       "lat": 36.332394,
       "lng": -94.224461,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 8,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "AR",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w766135999",
+      "name": "Osage Park Pickleball Courts",
+      "lat": 36.355398,
+      "lng": -94.217257,
+      "sports": [
+        "pickleball"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -3165,6 +3755,9 @@
       "name": "Tennis Courts · Alsobrook Drive",
       "lat": 33.620439,
       "lng": -91.798037,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3184,6 +3777,9 @@
       "name": "Tennis Courts · Lincoln Loop",
       "lat": 36.387185,
       "lng": -94.213362,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -3201,6 +3797,9 @@
       "name": "Tennis Courts · West Shadow Valley Road",
       "lat": 36.287246,
       "lng": -94.220178,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -3216,9 +3815,13 @@
     {
       "id": "osm-w832909849",
       "name": "Tennis Courts · Powell Avenue",
-      "lat": 36.270843,
-      "lng": -92.535565,
-      "courtCount": 1,
+      "lat": 36.270836,
+      "lng": -92.535709,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -3228,15 +3831,16 @@
       "city": "Cotter",
       "state": "AR",
       "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w886253508",
       "name": "Coronado Tennis Center",
       "lat": 34.650598,
       "lng": -92.981366,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 13,
       "surface": "unknown",
       "lighted": null,
@@ -3254,6 +3858,9 @@
       "name": "Tennis Courts · Magness Creek Drive",
       "lat": 35.033051,
       "lng": -92.067991,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3273,6 +3880,9 @@
       "name": "Benny Craig Park Tennis Courts",
       "lat": 34.702728,
       "lng": -92.327407,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3290,6 +3900,9 @@
       "name": "Tennis Courts · West Nolan Richardson Drive",
       "lat": 36.05986,
       "lng": -94.18232,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 11,
       "surface": "unknown",
       "lighted": null,
@@ -3307,6 +3920,9 @@
       "name": "University of Arkansas at Monticello Tennis Courts",
       "lat": 33.588227,
       "lng": -91.813664,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -3326,6 +3942,9 @@
       "name": "Tennis Courts · Foxcroft Road",
       "lat": 34.785032,
       "lng": -92.367339,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3345,6 +3964,9 @@
       "name": "Tennis Courts · Riding Road",
       "lat": 34.782276,
       "lng": -92.366998,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3364,6 +3986,9 @@
       "name": "Tennis Courts · Hearthside Drive",
       "lat": 34.787341,
       "lng": -92.362906,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3383,6 +4008,9 @@
       "name": "Tennis Courts · Overlook Drive",
       "lat": 34.785762,
       "lng": -92.358813,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3402,6 +4030,9 @@
       "name": "Tennis Courts · North Hughes Street",
       "lat": 34.768644,
       "lng": -92.349282,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3421,6 +4052,9 @@
       "name": "River Mountain Park Tennis Courts",
       "lat": 34.794229,
       "lng": -92.383137,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3438,6 +4072,9 @@
       "name": "River Mountain Park Tennis Courts",
       "lat": 34.792859,
       "lng": -92.377337,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3455,6 +4092,9 @@
       "name": "Rock Creek Trail Park Tennis Courts",
       "lat": 34.758632,
       "lng": -92.41445,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3472,6 +4112,9 @@
       "name": "Public Tennis Courts",
       "lat": 34.760644,
       "lng": -92.411166,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3489,9 +4132,13 @@
     {
       "id": "osm-w943964378",
       "name": "Rock Creek Trail Park Tennis Courts",
-      "lat": 34.758618,
-      "lng": -92.418962,
-      "courtCount": 2,
+      "lat": 34.75862,
+      "lng": -92.418996,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -3508,6 +4155,9 @@
       "name": "Tennis Courts · Ridgehaven Road",
       "lat": 34.763467,
       "lng": -92.421527,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3527,6 +4177,9 @@
       "name": "Tennis Courts · West Markham Street",
       "lat": 34.752948,
       "lng": -92.421168,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3546,6 +4199,9 @@
       "name": "Cave City Park Tennis Courts",
       "lat": 35.937621,
       "lng": -91.55129,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3563,6 +4219,9 @@
       "name": "Hendrix College Tennis Courts",
       "lat": 35.101573,
       "lng": -92.435854,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3582,6 +4241,9 @@
       "name": "Malvern City Park Tennis Courts",
       "lat": 34.382378,
       "lng": -92.824949,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -3599,6 +4261,9 @@
       "name": "Paradise Valley Golf and Athletic Club Tennis Courts",
       "lat": 36.119563,
       "lng": -94.129191,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3616,6 +4281,9 @@
       "name": "Echo Valley Park Tennis Courts",
       "lat": 34.779452,
       "lng": -92.380488,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3633,6 +4301,9 @@
       "name": "Tennis Courts · Hazy Ridge Court",
       "lat": 34.783386,
       "lng": -92.379487,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3652,6 +4323,9 @@
       "name": "RidgePointe Country Club Tennis Courts",
       "lat": 35.811836,
       "lng": -90.768482,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3669,6 +4343,9 @@
       "name": "Tennis Courts · East Hearthstone Drive",
       "lat": 36.136726,
       "lng": -94.10839,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3688,6 +4365,9 @@
       "name": "Tennis Courts · Arbor Dell Drive",
       "lat": 34.182183,
       "lng": -92.011669,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -3705,6 +4385,9 @@
       "name": "Jones Elementary School Tennis Courts",
       "lat": 36.175189,
       "lng": -94.122908,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3724,6 +4407,9 @@
       "name": "Tennis Courts · Moody Road",
       "lat": 35.332995,
       "lng": -94.339897,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3743,6 +4429,9 @@
       "name": "Tennis Courts · Johnson Ranch Road",
       "lat": 34.800257,
       "lng": -92.463778,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3762,6 +4451,9 @@
       "name": "Tennis Courts · Tannenbaum Road",
       "lat": 35.543923,
       "lng": -92.056791,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3781,6 +4473,9 @@
       "name": "Tennis Courts · Jane Place",
       "lat": 36.240646,
       "lng": -94.138377,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3800,6 +4495,9 @@
       "name": "Tennis Courts · Links Drive",
       "lat": 36.258765,
       "lng": -94.144724,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3819,6 +4517,9 @@
       "name": "Tennis Courts · Spyglass Hill Lane",
       "lat": 34.835052,
       "lng": -92.389925,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3836,9 +4537,13 @@
     {
       "id": "osm-w1092392724",
       "name": "Tennis Courts · Maumelle Club Manor Drive",
-      "lat": 34.843286,
-      "lng": -92.420063,
-      "courtCount": 1,
+      "lat": 34.843204,
+      "lng": -92.420096,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -3848,15 +4553,16 @@
       "city": "Maumelle",
       "state": "AR",
       "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1092759388",
       "name": "Tennis Courts · South Beech Street",
       "lat": 34.219778,
       "lng": -92.010208,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -3874,6 +4580,9 @@
       "name": "Creekside Park Tennis Courts",
       "lat": 36.047166,
       "lng": -94.236937,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3891,6 +4600,9 @@
       "name": "Public Tennis Courts",
       "lat": 34.846063,
       "lng": -92.191937,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3910,6 +4622,9 @@
       "name": "Sylvan Hills Sports Complex Tennis Courts",
       "lat": 34.848142,
       "lng": -92.240365,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -3927,6 +4642,9 @@
       "name": "Tennis Courts · Mavis Circle",
       "lat": 34.660989,
       "lng": -92.383429,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -3944,6 +4662,9 @@
       "name": "Tennis Courts · Randolph Road",
       "lat": 34.807175,
       "lng": -92.246335,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -3961,6 +4682,9 @@
       "name": "Diamante Country Club Tennis Courts",
       "lat": 34.642488,
       "lng": -92.866494,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -3974,27 +4698,56 @@
       "tags": {}
     },
     {
-      "id": "osm-w1121933950",
-      "name": "Tennis Courts · Mt Hebron Park Trails",
-      "lat": 36.274031,
-      "lng": -94.19737,
-      "courtCount": 4,
+      "id": "osm-w1121933942",
+      "name": "Public Tennis Courts",
+      "lat": 36.274329,
+      "lng": -94.197362,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 12,
       "surface": "unknown",
       "lighted": true,
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": "Mt Hebron Park Trails",
-      "city": "Rogers",
+      "address": null,
+      "city": null,
       "state": "AR",
       "source": "osm",
       "tags": {}
+    },
+    {
+      "id": "osm-w1123368183",
+      "name": "Public Pickleball Courts",
+      "lat": 36.293557,
+      "lng": -94.189125,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "AR",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1125657390",
       "name": "Tennis Courts · Shady Lane",
       "lat": 34.137999,
       "lng": -93.079761,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4014,6 +4767,9 @@
       "name": "Brodie Creek Tennis Courts",
       "lat": 34.733446,
       "lng": -92.424774,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -4024,14 +4780,20 @@
       "city": null,
       "state": "AR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1133930997",
       "name": "Shaw Family Park Tennis Courts",
-      "lat": 36.215717,
-      "lng": -94.213187,
-      "courtCount": 4,
+      "lat": 36.215716,
+      "lng": -94.213139,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -4048,6 +4810,9 @@
       "name": "Tennis Courts · Kangaroo Drive",
       "lat": 35.720145,
       "lng": -91.443958,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -4065,6 +4830,9 @@
       "name": "Tennis Courts · Wilcoxon Street",
       "lat": 33.217157,
       "lng": -91.79102,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -4082,6 +4850,9 @@
       "name": "The Park at Wellington Tennis Courts",
       "lat": 34.767885,
       "lng": -92.43874,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4099,6 +4870,9 @@
       "name": "Tennis Courts · Quail Run Circle",
       "lat": 36.389213,
       "lng": -94.22595,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4118,6 +4892,9 @@
       "name": "Tennis Courts · Somerset Street",
       "lat": 36.389892,
       "lng": -94.22758,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4137,6 +4914,9 @@
       "name": "Turkey Mountain Golf Course Tennis Courts",
       "lat": 36.230807,
       "lng": -91.758957,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4154,6 +4934,9 @@
       "name": "Tennis Courts · Regency Court",
       "lat": 36.391178,
       "lng": -94.226289,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4173,6 +4956,9 @@
       "name": "Fordyce Park & Recreation Tennis Courts",
       "lat": 33.82788,
       "lng": -92.415488,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -4190,6 +4976,9 @@
       "name": "LRAFB Sports Complex",
       "lat": 34.898415,
       "lng": -92.148057,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4203,10 +4992,33 @@
       "tags": {}
     },
     {
+      "id": "osm-w1164982241",
+      "name": "Creekside Park Pickleball Courts",
+      "lat": 36.340119,
+      "lng": -94.237273,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 8,
+      "surface": "hard",
+      "lighted": true,
+      "indoor": null,
+      "access": "public",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "AR",
+      "source": "osm",
+      "tags": {}
+    },
+    {
       "id": "osm-w1175159487",
       "name": "Tennis Courts · Schaer Street",
       "lat": 34.79906,
       "lng": -92.275027,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4224,9 +5036,13 @@
     {
       "id": "osm-w1189696144",
       "name": "Marion High School Tennis Courts",
-      "lat": 35.197091,
-      "lng": -90.196284,
-      "courtCount": 6,
+      "lat": 35.197096,
+      "lng": -90.196483,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 10,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -4245,6 +5061,9 @@
       "name": "Tennis Courts · Breckenridge Drive",
       "lat": 34.764023,
       "lng": -92.395241,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4264,6 +5083,9 @@
       "name": "Otter Creek Tennis Courts",
       "lat": 34.669627,
       "lng": -92.42773,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4274,13 +5096,18 @@
       "city": null,
       "state": "AR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1192974734",
       "name": "Tennis Courts · Castle Valley Road",
       "lat": 34.633047,
       "lng": -92.372582,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4300,6 +5127,9 @@
       "name": "Tennis Courts · Warren Drive",
       "lat": 34.649439,
       "lng": -92.35467,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4319,6 +5149,9 @@
       "name": "Tennis Courts · School Drive",
       "lat": 34.601036,
       "lng": -92.494425,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -4336,6 +5169,9 @@
       "name": "Meadowbrook Country Club Tennis Courts",
       "lat": 35.1431,
       "lng": -90.211213,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -4353,6 +5189,9 @@
       "name": "K & R Park Tennis Courts",
       "lat": 35.213507,
       "lng": -90.195622,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4370,6 +5209,9 @@
       "name": "Tennis Courts · North Subiaco Avenue",
       "lat": 35.297913,
       "lng": -93.634065,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -4387,6 +5229,9 @@
       "name": "Tennis Courts · Peters Point",
       "lat": 34.444743,
       "lng": -93.092451,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": false,
@@ -4404,6 +5249,9 @@
       "name": "Tennis Courts · Oscar's Loop",
       "lat": 36.38083,
       "lng": -94.23359,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4423,6 +5271,9 @@
       "name": "Old Post Road Park Tennis Courts",
       "lat": 35.249689,
       "lng": -93.162409,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "hard",
       "lighted": null,
@@ -4440,6 +5291,9 @@
       "name": "Piggot Pool Park Tennis Courts",
       "lat": 36.373832,
       "lng": -90.184748,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4457,6 +5311,9 @@
       "name": "Corning Pool Park Tennis Courts",
       "lat": 36.409482,
       "lng": -90.591269,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "hard",
       "lighted": null,
@@ -4474,6 +5331,9 @@
       "name": "Tennis Courts · Sunrise Circle",
       "lat": 35.217208,
       "lng": -93.251867,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4493,6 +5353,9 @@
       "name": "Tennis Courts · Firehouse Lane",
       "lat": 36.430481,
       "lng": -94.330518,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4512,6 +5375,9 @@
       "name": "Tennis Courts · Fox Estates Trail",
       "lat": 34.574053,
       "lng": -92.994748,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -4529,6 +5395,9 @@
       "name": "Tennis Courts · Silverwood Court",
       "lat": 34.821124,
       "lng": -92.25537,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4548,6 +5417,9 @@
       "name": "Tennis Courts · Silverwood Trail",
       "lat": 34.819683,
       "lng": -92.255486,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4567,6 +5439,9 @@
       "name": "Tennis Courts · Shady Valley Drive",
       "lat": 34.819327,
       "lng": -92.258809,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4586,6 +5461,9 @@
       "name": "Tennis Courts · East Palisades Drive",
       "lat": 34.780756,
       "lng": -92.339407,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4605,6 +5483,9 @@
       "name": "Tennis Courts · Greene Rd 724",
       "lat": 36.033969,
       "lng": -90.591306,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4624,6 +5505,9 @@
       "name": "Tennis Courts · Sweet Bay Drive",
       "lat": 34.751035,
       "lng": -92.429888,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4643,6 +5527,9 @@
       "name": "Tennis Courts · Kingsbridge Way",
       "lat": 34.776275,
       "lng": -92.391308,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4662,6 +5549,9 @@
       "name": "Arkansas Valley Park Tennis Courts",
       "lat": 34.774746,
       "lng": -92.396162,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4679,6 +5569,9 @@
       "name": "Tennis Courts · Heartwood Street",
       "lat": 34.26519,
       "lng": -92.088539,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4698,6 +5591,9 @@
       "name": "Public Tennis Courts",
       "lat": 34.767831,
       "lng": -92.405383,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4717,6 +5613,9 @@
       "name": "Tennis Courts · Cambridge Place Drive",
       "lat": 34.784893,
       "lng": -92.389863,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4736,6 +5635,9 @@
       "name": "Tennis Courts · US 62;US 412",
       "lat": 36.261679,
       "lng": -91.533547,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4755,6 +5657,9 @@
       "name": "Tennis Courts · Southeast 4th Street",
       "lat": 35.237529,
       "lng": -92.927163,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": true,
@@ -4768,10 +5673,33 @@
       "tags": {}
     },
     {
+      "id": "osm-w1272644233",
+      "name": "The Courts At Berryhill",
+      "lat": 35.252291,
+      "lng": -91.716775,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 7,
+      "surface": "hard",
+      "lighted": true,
+      "indoor": null,
+      "access": "public",
+      "fee": false,
+      "address": null,
+      "city": null,
+      "state": "AR",
+      "source": "osm",
+      "tags": {}
+    },
+    {
       "id": "osm-w1278786778",
       "name": "Tennis Courts · Sulphur Springs Road",
       "lat": 34.190224,
       "lng": -92.067174,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -4789,6 +5717,9 @@
       "name": "Tennis Courts · Heritage Bay Road",
       "lat": 36.331825,
       "lng": -94.007837,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4808,6 +5739,9 @@
       "name": "Tennis Courts · Camp Eagle Road",
       "lat": 36.21041,
       "lng": -93.976228,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4827,6 +5761,9 @@
       "name": "North Arkansas College Tennis Courts",
       "lat": 36.220484,
       "lng": -93.09061,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4846,6 +5783,9 @@
       "name": "Public Tennis Courts",
       "lat": 36.162418,
       "lng": -94.20063,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4865,6 +5805,9 @@
       "name": "Tennis Courts · US 67",
       "lat": 33.915193,
       "lng": -93.16751,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -4879,10 +5822,35 @@
     },
     {
       "id": "osm-w1295429005",
-      "name": "Williams Baptist University;Williams Baptist College Tennis Courts",
+      "name": "Williams Baptist University Tennis Courts",
       "lat": 36.12811,
       "lng": -90.935601,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "AR",
+      "source": "osm",
+      "tags": {
+        "context": "school"
+      }
+    },
+    {
+      "id": "osm-w1296366479",
+      "name": "University of the Ozarks Pickleball Courts",
+      "lat": 35.477756,
+      "lng": -93.465292,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -4901,6 +5869,9 @@
       "name": "Tennis Courts · Mill Street",
       "lat": 34.560856,
       "lng": -90.914908,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4920,6 +5891,9 @@
       "name": "Lake Pointe Tennis Courts",
       "lat": 35.069473,
       "lng": -92.46719,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4930,13 +5904,18 @@
       "city": null,
       "state": "AR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1306225202",
       "name": "Marshall Community Park Tennis Courts",
       "lat": 35.914827,
       "lng": -92.657086,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4954,6 +5933,9 @@
       "name": "Greenbrier High School Tennis Courts",
       "lat": 35.222037,
       "lng": -92.405585,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -4973,6 +5955,9 @@
       "name": "Tennis Courts · Burgess Drive",
       "lat": 35.212457,
       "lng": -94.263094,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4992,6 +5977,9 @@
       "name": "Family Park Tennis Courts",
       "lat": 34.484073,
       "lng": -93.101231,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5009,6 +5997,9 @@
       "name": "Tennis Courts · Lake Pointe Cove",
       "lat": 34.446375,
       "lng": -93.083924,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -5026,6 +6017,9 @@
       "name": "Tennis Courts · Grand Isle Drive",
       "lat": 34.437557,
       "lng": -93.085932,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5045,6 +6039,9 @@
       "name": "Tennis Courts · Catalina Circle",
       "lat": 34.437382,
       "lng": -93.090334,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5064,6 +6061,9 @@
       "name": "Public Tennis Courts",
       "lat": 34.431751,
       "lng": -93.084011,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5083,6 +6083,9 @@
       "name": "Tennis Courts · Long Island Drive",
       "lat": 34.433251,
       "lng": -93.076748,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5102,6 +6105,9 @@
       "name": "Tennis Courts · Long Island Bay",
       "lat": 34.437886,
       "lng": -93.074243,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5117,29 +6123,34 @@
       }
     },
     {
-      "id": "osm-w1313596239",
-      "name": "Tennis Courts · Pine Hill Road",
-      "lat": 34.426575,
-      "lng": -93.094413,
-      "courtCount": 1,
+      "id": "osm-w1313596238",
+      "name": "Public Tennis Courts",
+      "lat": 34.426632,
+      "lng": -93.094548,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": "Pine Hill Road",
-      "city": "Garland County",
+      "address": null,
+      "city": null,
       "state": "AR",
       "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1313596274",
       "name": "Camden Country Club Tennis Courts",
       "lat": 33.5856,
       "lng": -92.868824,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -5157,6 +6168,9 @@
       "name": "White Hall City Park Tennis Courts",
       "lat": 34.277168,
       "lng": -92.099238,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5174,6 +6188,9 @@
       "name": "Helena Country Club Tennis Courts",
       "lat": 34.531077,
       "lng": -90.636132,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -5191,6 +6208,9 @@
       "name": "The Cliffs Tennis Courts",
       "lat": 36.062536,
       "lng": -94.130807,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5201,13 +6221,18 @@
       "city": null,
       "state": "AR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1324882255",
       "name": "Tennis Courts · Kaufman Road",
       "lat": 34.740046,
       "lng": -92.393014,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5227,6 +6252,9 @@
       "name": "Tennis Courts · Associate Drive",
       "lat": 36.366154,
       "lng": -94.192905,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5246,6 +6274,9 @@
       "name": "Tennis Courts · Old Wire Road East",
       "lat": 35.333588,
       "lng": -93.246182,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5265,6 +6296,9 @@
       "name": "Tennis Courts · North Division Avenue",
       "lat": 35.061432,
       "lng": -94.251189,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5284,6 +6318,9 @@
       "name": "Gladiolas Apartments Tennis Courts",
       "lat": 35.799953,
       "lng": -90.700752,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5294,13 +6331,18 @@
       "city": null,
       "state": "AR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334230264",
       "name": "The Links at Cadron Valley Tennis Courts",
       "lat": 35.109794,
       "lng": -92.483531,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5311,13 +6353,18 @@
       "city": null,
       "state": "AR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1335068502",
       "name": "Tennis Courts · South German Lane",
       "lat": 35.066301,
       "lng": -92.442369,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5337,6 +6384,9 @@
       "name": "Ermer Dansby Pondexter Sports Complex Tennis Courts",
       "lat": 33.416815,
       "lng": -94.034892,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5354,6 +6404,9 @@
       "name": "Nashville City Park Tennis Courts",
       "lat": 33.948385,
       "lng": -93.863658,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5371,6 +6424,9 @@
       "name": "Tennis Courts · Park Street",
       "lat": 34.07126,
       "lng": -93.688004,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -5386,9 +6442,13 @@
     {
       "id": "osm-w1339618000",
       "name": "Hot Springs Country Club Tennis Courts",
-      "lat": 34.478947,
-      "lng": -93.028717,
-      "courtCount": 6,
+      "lat": 34.479065,
+      "lng": -93.028584,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 10,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -5405,6 +6465,9 @@
       "name": "Tennis Courts · Brooks Loop",
       "lat": 34.625883,
       "lng": -93.010764,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5424,6 +6487,9 @@
       "name": "Tennis Courts · Hurricane Drive",
       "lat": 34.604496,
       "lng": -92.52619,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5443,6 +6509,9 @@
       "name": "Sherman Parks Tennis Courts",
       "lat": 34.758978,
       "lng": -92.251644,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5460,6 +6529,9 @@
       "name": "Tennis Courts · Pine Avenue",
       "lat": 33.728651,
       "lng": -92.621251,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5479,6 +6551,9 @@
       "name": "Tennis Courts · Brookwood Drive",
       "lat": 33.232837,
       "lng": -92.680082,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -5496,6 +6571,9 @@
       "name": "Star City Mini Park Tennis Courts",
       "lat": 33.942102,
       "lng": -91.849874,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5513,6 +6591,9 @@
       "name": "Tennis Courts · AR 367",
       "lat": 35.618143,
       "lng": -91.252767,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5532,6 +6613,9 @@
       "name": "George Kell Park Tennis Courts",
       "lat": 35.631098,
       "lng": -91.258486,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -5549,6 +6633,9 @@
       "name": "Tennis Courts · Quail Run Drive",
       "lat": 36.345365,
       "lng": -92.38425,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5568,6 +6655,9 @@
       "name": "Tennis Courts · West Lossing Street",
       "lat": 36.044847,
       "lng": -94.253326,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -5585,6 +6675,9 @@
       "name": "Decatur Park Tennis Courts",
       "lat": 36.332817,
       "lng": -94.461745,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5602,6 +6695,9 @@
       "name": "Tennis Courts · Fisher Circle",
       "lat": 36.239052,
       "lng": -94.497522,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5621,6 +6717,9 @@
       "name": "Tennis Courts · Browning Road",
       "lat": 36.279564,
       "lng": -94.480547,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5640,6 +6739,9 @@
       "name": "Tennis Courts · Cypress Point Drive",
       "lat": 36.170456,
       "lng": -94.181035,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5659,6 +6761,9 @@
       "name": "Tennis Courts · Kathleen Johnson Memorial Park Trail",
       "lat": 36.263996,
       "lng": -94.163073,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -5676,6 +6781,9 @@
       "name": "Tennis Courts · Southwest Westchester Road",
       "lat": 36.323383,
       "lng": -94.221761,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5695,6 +6803,9 @@
       "name": "Tennis Courts · Jackson Street",
       "lat": 35.34507,
       "lng": -94.399896,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5714,6 +6825,9 @@
       "name": "Tennis Courts · South 62nd Street",
       "lat": 35.346536,
       "lng": -94.365443,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5733,6 +6847,9 @@
       "name": "Tennis Courts · New Gin Town Road",
       "lat": 35.50829,
       "lng": -94.079201,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5752,6 +6869,9 @@
       "name": "Tennis Courts · Greers Ferry Road",
       "lat": 35.581653,
       "lng": -92.167842,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -5769,6 +6889,9 @@
       "name": "Fair Park Apartments Tennis Courts",
       "lat": 36.099367,
       "lng": -94.184541,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5779,13 +6902,18 @@
       "city": null,
       "state": "AR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1355448084",
       "name": "Tennis Courts · South Drive",
       "lat": 35.542161,
       "lng": -92.15606,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5805,6 +6933,9 @@
       "name": "Tennis Courts · Prim Road",
       "lat": 35.624505,
       "lng": -92.051455,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5824,6 +6955,9 @@
       "name": "Millwood Country Club Tennis Courts",
       "lat": 33.713617,
       "lng": -94.010407,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5841,6 +6975,9 @@
       "name": "Pottsville Junior High School Tennis Courts",
       "lat": 35.236732,
       "lng": -93.031258,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -5860,6 +6997,9 @@
       "name": "Tennis Courts · Manhattan Street",
       "lat": 36.252831,
       "lng": -93.137935,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5877,9 +7017,13 @@
     {
       "id": "osm-w1364341224",
       "name": "Tyndall Park Tennis Courts",
-      "lat": 34.562797,
-      "lng": -92.577943,
-      "courtCount": 4,
+      "lat": 34.562718,
+      "lng": -92.577682,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 7,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -5896,6 +7040,9 @@
       "name": "Public Tennis Courts",
       "lat": 34.252048,
       "lng": -93.144811,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5914,8 +7061,12 @@
       "id": "osm-w1369684803",
       "name": "Tennis Courts · Cross Creek Boulevard",
       "lat": 36.266752,
-      "lng": -94.186864,
-      "courtCount": 2,
+      "lng": -94.186843,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -5925,15 +7076,16 @@
       "city": "Rogers",
       "state": "AR",
       "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1376393455",
       "name": "Tennis Courts · Terrie Drive",
       "lat": 35.949567,
       "lng": -91.552515,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -5951,6 +7103,9 @@
       "name": "Tennis Courts · Bella Vista Way",
       "lat": 36.493879,
       "lng": -94.263139,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5968,9 +7123,13 @@
     {
       "id": "osm-w1396600364",
       "name": "Tennis Courts · South Fiddlesticks Trail",
-      "lat": 36.295,
-      "lng": -94.205857,
-      "courtCount": 6,
+      "lat": 36.29491,
+      "lng": -94.205854,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 7,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -5987,6 +7146,9 @@
       "name": "Public Tennis Courts",
       "lat": 36.069112,
       "lng": -94.019437,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6006,6 +7168,9 @@
       "name": "Tennis Courts · East l'Anguille Avenue",
       "lat": 35.230665,
       "lng": -90.784394,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6025,6 +7190,9 @@
       "name": "Tennis Courts · AR 354",
       "lat": 36.224757,
       "lng": -91.605548,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6044,6 +7212,9 @@
       "name": "Tennis Courts · Peterson Road",
       "lat": 35.231009,
       "lng": -90.774427,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6063,6 +7234,9 @@
       "name": "Tennis Courts · East Poplar Avenue",
       "lat": 35.227296,
       "lng": -90.774005,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6082,6 +7256,9 @@
       "name": "Tennis Courts · West Cedar Circle",
       "lat": 36.337194,
       "lng": -94.169339,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6101,6 +7278,9 @@
       "name": "Chattanooga Park Tennis Courts",
       "lat": 34.501462,
       "lng": -93.032177,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6118,6 +7298,9 @@
       "name": "Eastside Park Tennis Courts",
       "lat": 35.487352,
       "lng": -93.821351,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6135,6 +7318,9 @@
       "name": "Tennis Courts · Old Locke Road",
       "lat": 35.641647,
       "lng": -94.125717,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6152,9 +7338,13 @@
     {
       "id": "osm-w1416750865",
       "name": "Tennis Courts · East Masonic Drive",
-      "lat": 36.114405,
-      "lng": -94.139988,
-      "courtCount": 4,
+      "lat": 36.114329,
+      "lng": -94.140186,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 7,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -6171,6 +7361,9 @@
       "name": "Valley Springs School District Tennis Courts",
       "lat": 36.159766,
       "lng": -92.994698,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6190,6 +7383,9 @@
       "name": "Tennis Courts · North Division",
       "lat": 35.023763,
       "lng": -90.789105,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6209,6 +7405,9 @@
       "name": "Tennis Courts · West Pine Street",
       "lat": 35.773306,
       "lng": -91.663097,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6228,6 +7427,9 @@
       "name": "Tennis Courts · South Main",
       "lat": 36.168841,
       "lng": -91.775717,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6247,6 +7449,9 @@
       "name": "Tennis Courts · Buford Spur Road",
       "lat": 36.226547,
       "lng": -92.464591,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6266,6 +7471,9 @@
       "name": "Tennis Courts · Lyle Drive",
       "lat": 36.252336,
       "lng": -92.465912,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6281,10 +7489,57 @@
       }
     },
     {
+      "id": "osm-w1424310384",
+      "name": "Public Pickleball Courts",
+      "lat": 36.35645,
+      "lng": -94.257235,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "AR",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
+      "id": "osm-w1425385022",
+      "name": "Public Pickleball Courts",
+      "lat": 34.86491,
+      "lng": -92.130135,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "AR",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
       "id": "osm-w1426517174",
       "name": "Lost Springs Golf & Athletic Club Tennis Courts",
       "lat": 36.359316,
       "lng": -94.144361,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6302,6 +7557,9 @@
       "name": "Lost Springs Golf & Athletic Club Tennis Courts",
       "lat": 36.364017,
       "lng": -94.146627,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6319,6 +7577,9 @@
       "name": "Lost Springs Golf & Athletic Club Tennis Courts",
       "lat": 36.358082,
       "lng": -94.148551,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6332,10 +7593,35 @@
       "tags": {}
     },
     {
+      "id": "osm-w1427022020",
+      "name": "Public Pickleball Courts",
+      "lat": 36.393488,
+      "lng": -94.198012,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "AR",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
       "id": "osm-w1428395486",
       "name": "Tennis Courts · Northwest A Street",
       "lat": 36.404159,
       "lng": -94.212294,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6355,6 +7641,9 @@
       "name": "Tennis Courts · Northwest Linebarger Lane",
       "lat": 36.405825,
       "lng": -94.213994,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6374,6 +7663,9 @@
       "name": "Tennis Courts · Northwest Linebarger Lane",
       "lat": 36.400776,
       "lng": -94.214171,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6393,6 +7685,9 @@
       "name": "Tennis Courts · Laura Street",
       "lat": 35.602181,
       "lng": -91.272853,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6410,6 +7705,9 @@
       "name": "Tennis Courts · Chelsea Drive",
       "lat": 35.600589,
       "lng": -92.272126,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -6427,6 +7725,9 @@
       "name": "Tennis Courts · Pond Road",
       "lat": 35.582634,
       "lng": -92.447552,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6443,10 +7744,14 @@
     },
     {
       "id": "osm-w1429581054",
-      "name": "Conway County Fairgrounds Tennis Courts",
-      "lat": 35.153517,
-      "lng": -92.734087,
-      "courtCount": 4,
+      "name": "Morrilton City Park Tennis Courts",
+      "lat": 35.153246,
+      "lng": -92.734522,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -6463,6 +7768,9 @@
       "name": "Ira Clark Park Tennis Courts",
       "lat": 33.571301,
       "lng": -92.821597,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6480,6 +7788,9 @@
       "name": "Allsopp Park Tennis Courts",
       "lat": 34.762045,
       "lng": -92.314194,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6497,6 +7808,9 @@
       "name": "Tennis Courts · Plaza Street",
       "lat": 34.544916,
       "lng": -90.648768,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6516,6 +7830,9 @@
       "name": "Berryville City Park Tennis Courts",
       "lat": 36.363641,
       "lng": -93.562003,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6533,6 +7850,9 @@
       "name": "Anstaff Soccer Complex and Harrison Tennis Complex",
       "lat": 36.224106,
       "lng": -93.108716,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6550,6 +7870,9 @@
       "name": "Tennis Courts · Country Club Road",
       "lat": 36.392385,
       "lng": -90.198062,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6569,6 +7892,9 @@
       "name": "Tennis Courts · Lansing Street",
       "lat": 35.956298,
       "lng": -89.957439,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6586,6 +7912,9 @@
       "name": "Central Junior High School Tennis Courts",
       "lat": 36.188787,
       "lng": -94.163321,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6605,6 +7934,9 @@
       "name": "Tennis Courts · Meador Drive",
       "lat": 33.877794,
       "lng": -91.47242,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6622,6 +7954,9 @@
       "name": "The Links at Bentonville Tennis Courts",
       "lat": 36.34923,
       "lng": -94.185135,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6635,10 +7970,35 @@
       "tags": {}
     },
     {
+      "id": "osm-w1445802652",
+      "name": "Public Pickleball Courts",
+      "lat": 36.188847,
+      "lng": -94.218272,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "AR",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
       "id": "osm-w1445804126",
       "name": "Public Tennis Courts",
       "lat": 35.101408,
       "lng": -92.500074,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6658,6 +8018,9 @@
       "name": "Tennis Courts · Lake Austell Trail",
       "lat": 35.159135,
       "lng": -90.724078,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6677,6 +8040,9 @@
       "name": "Brownstone Country Club & Resort Tennis Courts",
       "lat": 35.197057,
       "lng": -90.205272,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6694,6 +8060,9 @@
       "name": "Phillips County Community College Tennis Courts",
       "lat": 34.543889,
       "lng": -90.615001,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6713,6 +8082,9 @@
       "name": "Tennis Courts · John N Scobey Drive",
       "lat": 33.626217,
       "lng": -92.068528,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6732,6 +8104,9 @@
       "name": "Tennis Courts · Bernard Street",
       "lat": 35.815793,
       "lng": -90.683824,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -6749,6 +8124,9 @@
       "name": "Tennis Courts · Cooper Lane",
       "lat": 35.82695,
       "lng": -90.690954,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6768,6 +8146,9 @@
       "name": "Tennis Courts · Coyote Cove",
       "lat": 35.774425,
       "lng": -90.739645,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -6785,6 +8166,9 @@
       "name": "Tennis Courts · Woodbury Lane",
       "lat": 35.827446,
       "lng": -90.692178,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6804,6 +8188,9 @@
       "name": "Tennis Courts · Rose Street",
       "lat": 35.819249,
       "lng": -90.703739,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6823,6 +8210,9 @@
       "name": "Tennis Courts · James Cove",
       "lat": 35.826636,
       "lng": -90.719057,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6842,6 +8232,9 @@
       "name": "Central Park Tennis Courts",
       "lat": 34.207841,
       "lng": -92.019327,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -6859,6 +8252,9 @@
       "name": "Paul Laurence Dunbar Park Tennis Courts",
       "lat": 34.734111,
       "lng": -92.284488,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6876,6 +8272,9 @@
       "name": "South Little Rock Park Tennis Courts",
       "lat": 34.721455,
       "lng": -92.273924,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6893,6 +8292,9 @@
       "name": "Access Academy Tennis Courts",
       "lat": 34.765776,
       "lng": -92.36029,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6912,6 +8314,9 @@
       "name": "Tennis Courts · Stonewall Drive",
       "lat": 34.877177,
       "lng": -92.103177,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6931,6 +8336,9 @@
       "name": "Rolling Hills Country Club Tennis Courts",
       "lat": 34.934026,
       "lng": -91.979728,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6948,6 +8356,9 @@
       "name": "Lyon College Tennis Courts",
       "lat": 35.775958,
       "lng": -91.624428,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -6967,6 +8378,9 @@
       "name": "Tennis Courts · Front Street",
       "lat": 35.405551,
       "lng": -90.995647,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6986,6 +8400,9 @@
       "name": "Cherry Valley City Park Tennis Courts",
       "lat": 35.404273,
       "lng": -90.751208,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7003,6 +8420,9 @@
       "name": "Crowley's Ridge Country Club Tennis Courts",
       "lat": 35.237738,
       "lng": -90.728472,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -7020,6 +8440,9 @@
       "name": "Forrest City Country Club Tennis Courts",
       "lat": 35.008603,
       "lng": -90.777877,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7037,6 +8460,9 @@
       "name": "Tennis Courts · Eisenhower Avenue",
       "lat": 34.99807,
       "lng": -90.791696,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7056,6 +8482,9 @@
       "name": "Tennis Courts · School Circle Drive",
       "lat": 34.876528,
       "lng": -91.197441,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7075,6 +8504,9 @@
       "name": "Tennis Courts · South Alabama Street",
       "lat": 33.986178,
       "lng": -91.556217,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7094,6 +8526,9 @@
       "name": "Tennis Courts · Friedman",
       "lat": 33.606264,
       "lng": -91.375442,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7113,6 +8548,9 @@
       "name": "Delta Country Club and Golf Course Tennis Courts",
       "lat": 33.602087,
       "lng": -91.351657,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7130,6 +8568,9 @@
       "name": "McGehee Recreational Complex Tennis Courts",
       "lat": 33.634377,
       "lng": -91.391185,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7147,6 +8588,9 @@
       "name": "Stephens Park Tennis Courts",
       "lat": 33.638551,
       "lng": -91.404582,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7164,6 +8608,9 @@
       "name": "Tennis Courts · US 65;US 82;US 278",
       "lat": 33.319956,
       "lng": -91.293816,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7183,6 +8630,9 @@
       "name": "Varsity Tennis Courts",
       "lat": 35.838415,
       "lng": -90.682445,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 7,
       "surface": "unknown",
       "lighted": null,
@@ -7200,6 +8650,9 @@
       "name": "Tennis Courts · Ridgemont Road",
       "lat": 34.548687,
       "lng": -90.609508,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7219,6 +8672,9 @@
       "name": "Tennis Courts · School Street",
       "lat": 33.364662,
       "lng": -92.730943,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -7238,6 +8694,9 @@
       "name": "Creekmore Park Tennis Courts",
       "lat": 35.370881,
       "lng": -94.396008,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -7255,7 +8714,30 @@
       "name": "Hardscrabble Country Club Tennis Courts",
       "lat": 35.352753,
       "lng": -94.374157,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "AR",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1472109503",
+      "name": "Hardscrabble Country Club Pickleball Courts",
+      "lat": 35.353848,
+      "lng": -94.37345,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -7272,6 +8754,9 @@
       "name": "Lavaca City Park Tennis Courts",
       "lat": 35.336952,
       "lng": -94.178493,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7289,6 +8774,9 @@
       "name": "Mountainburg City Park Tennis Courts",
       "lat": 35.634619,
       "lng": -94.169573,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7306,7 +8794,11 @@
       "name": "Walker Park Tennis Courts",
       "lat": 36.04871,
       "lng": -94.159086,
-      "courtCount": 2,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 4,
       "surface": "unknown",
       "lighted": true,
       "indoor": null,
@@ -7322,8 +8814,12 @@
       "id": "osm-w1472111084",
       "name": "Bob Henry Park Tennis Courts",
       "lat": 36.187572,
-      "lng": -94.547791,
-      "courtCount": 2,
+      "lng": -94.54779,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -7340,6 +8836,9 @@
       "name": "Tennis Courts · Estes Drive",
       "lat": 36.457826,
       "lng": -94.257781,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7359,6 +8858,9 @@
       "name": "Tennis Courts · Lodge Drive",
       "lat": 36.400985,
       "lng": -93.918285,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7378,6 +8880,9 @@
       "name": "Tennis Courts · Madison 8931",
       "lat": 36.162373,
       "lng": -93.735096,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -7395,6 +8900,9 @@
       "name": "Ashdown City Park Tennis Courts",
       "lat": 33.67288,
       "lng": -94.144616,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7412,6 +8920,9 @@
       "name": "Marcelle Phillips Park Tennis Courts",
       "lat": 35.146381,
       "lng": -93.917478,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -7429,6 +8940,9 @@
       "name": "Dardanelle City Park Tennis Courts",
       "lat": 35.235199,
       "lng": -93.178055,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": true,
@@ -7446,6 +8960,9 @@
       "name": "Shiloh Park Tennis Courts",
       "lat": 35.316184,
       "lng": -93.139227,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7463,6 +8980,9 @@
       "name": "Tennis Courts · Country Club Plaza",
       "lat": 35.339719,
       "lng": -93.13795,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -7482,6 +9002,9 @@
       "name": "Tennis Courts · Belvedere Drive",
       "lat": 34.546705,
       "lng": -93.01221,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -7501,6 +9024,9 @@
       "name": "Tennis Courts · Pebble Beach Drive",
       "lat": 34.620279,
       "lng": -92.527052,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -7520,6 +9046,9 @@
       "name": "Sheridan Community Center Park Tennis Courts",
       "lat": 34.293693,
       "lng": -92.419259,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -7537,6 +9066,9 @@
       "name": "Ham Moses Park Tennis Courts",
       "lat": 33.541185,
       "lng": -92.46898,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7554,6 +9086,9 @@
       "name": "East Camden City Park Tennis Courts",
       "lat": 33.610923,
       "lng": -92.740345,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7571,6 +9106,9 @@
       "name": "Carnes Park Tennis Courts",
       "lat": 33.565052,
       "lng": -92.827473,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7588,6 +9126,9 @@
       "name": "East Poinsett County High School Tennis Courts",
       "lat": 35.610366,
       "lng": -90.343555,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -7607,6 +9148,9 @@
       "name": "Florida Park Tennis Courts",
       "lat": 35.70164,
       "lng": -89.988631,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -7624,6 +9168,9 @@
       "name": "Tennis Courts · Main Street West",
       "lat": 36.313282,
       "lng": -93.016866,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7643,6 +9190,9 @@
       "name": "Big Creek Tennis Courts",
       "lat": 36.321324,
       "lng": -92.422701,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7660,6 +9210,9 @@
       "name": "Tennis Courts · Malvern Road",
       "lat": 34.224465,
       "lng": -93.000653,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7679,6 +9232,9 @@
       "name": "Centennial Park Tennis Courts",
       "lat": 34.366195,
       "lng": -92.811642,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7693,9 +9249,12 @@
     },
     {
       "id": "osm-w1478688419",
-      "name": "Tennis Courts · Airport Road",
+      "name": "Manila City Park Tennis Courts",
       "lat": 35.887544,
       "lng": -90.158984,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7706,15 +9265,36 @@
       "city": "Manila",
       "state": "AR",
       "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
+      "tags": {}
+    },
+    {
+      "id": "osm-w1481069146",
+      "name": "Riley Farm Park Pickleball Courts",
+      "lat": 35.273685,
+      "lng": -94.364486,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "AR",
+      "source": "osm",
+      "tags": {}
     },
     {
       "id": "osm-w1484137351",
       "name": "Tennis Courts · Sibert Road",
       "lat": 34.318472,
       "lng": -92.094824,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7730,10 +9310,37 @@
       }
     },
     {
+      "id": "osm-w1498910770",
+      "name": "Conway Community Center",
+      "lat": 35.08022,
+      "lng": -92.422601,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": true,
+      "address": "250 Central Landing Boulevard",
+      "city": "Conway",
+      "state": "AR",
+      "source": "osm",
+      "tags": {
+        "hours": "Mo-Fr 05:00-21:00; Sa 07:00-21:00; Su 13:00-18:00",
+        "website": "https://conwayarkansas.gov/conway-community-center/"
+      }
+    },
+    {
       "id": "osm-w1503193585",
       "name": "Tennis Courts · The Bluffs Drive",
       "lat": 36.300887,
       "lng": -92.221206,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7753,6 +9360,9 @@
       "name": "Tennis Courts · Republic Ranch Road",
       "lat": 36.160286,
       "lng": -93.610155,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7772,6 +9382,9 @@
       "name": "Tennis Courts · US 61",
       "lat": 35.582031,
       "lng": -90.037518,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7791,6 +9404,9 @@
       "name": "Public Tennis Courts",
       "lat": 35.57722,
       "lng": -90.039236,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7810,6 +9426,9 @@
       "name": "Tennis Courts · Wilburn Road",
       "lat": 35.495794,
       "lng": -91.978443,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7829,6 +9448,9 @@
       "name": "Public Tennis Courts",
       "lat": 35.705109,
       "lng": -91.632638,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7848,6 +9470,9 @@
       "name": "W.R. Orr Park Tennis Courts",
       "lat": 35.272454,
       "lng": -91.639184,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7865,6 +9490,9 @@
       "name": "Tennis Courts · South Hazel Street",
       "lat": 34.191135,
       "lng": -92.02383,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7884,6 +9512,9 @@
       "name": "Tennis Courts · Big Ben Trail",
       "lat": 35.168291,
       "lng": -90.713272,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -7901,6 +9532,9 @@
       "name": "Tennis Courts · 4th Street",
       "lat": 35.817983,
       "lng": -90.452709,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -7918,6 +9552,9 @@
       "name": "Tennis Courts · 5th Avenue",
       "lat": 35.305864,
       "lng": -94.292197,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7937,6 +9574,9 @@
       "name": "Public Tennis Courts",
       "lat": 36.193933,
       "lng": -94.514187,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": true,
@@ -7954,6 +9594,9 @@
       "name": "Arkansas Middle School Tennis Courts",
       "lat": 33.476858,
       "lng": -94.032269,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7973,6 +9616,9 @@
       "name": "Arkansas City Recreational Complex Tennis Courts",
       "lat": 33.608367,
       "lng": -91.214058,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7990,6 +9636,9 @@
       "name": "UREC Tennis Center",
       "lat": 36.055432,
       "lng": -94.178911,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 12,
       "surface": "unknown",
       "lighted": true,
@@ -8003,10 +9652,33 @@
       "tags": {}
     },
     {
+      "id": "osm-w1525889830",
+      "name": "Chaffee Pickleball Complex",
+      "lat": 35.311918,
+      "lng": -94.290167,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "hard",
+      "lighted": null,
+      "indoor": null,
+      "access": "public",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "AR",
+      "source": "osm",
+      "tags": {}
+    },
+    {
       "id": "osm-w1530734298",
       "name": "Tennis Courts · Preston Street",
       "lat": 33.42673,
       "lng": -94.013882,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": true,
@@ -8026,6 +9698,9 @@
       "name": "Gosnell School Tennis Courts",
       "lat": 35.963401,
       "lng": -89.969397,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -8045,6 +9720,9 @@
       "name": "12Hundred Place Apartments Tennis Courts",
       "lat": 35.059875,
       "lng": -92.432206,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -8055,13 +9733,18 @@
       "city": null,
       "state": "AR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1546824291",
       "name": "Tennis Courts · East Cherry Street",
       "lat": 34.447662,
       "lng": -92.576553,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8081,6 +9764,9 @@
       "name": "Wildwood Park Tennis Courts",
       "lat": 36.334776,
       "lng": -94.236567,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "hard",
       "lighted": null,
@@ -8098,6 +9784,9 @@
       "name": "Tennis Courts · Shady Rock Lane",
       "lat": 36.388075,
       "lng": -93.901455,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8117,6 +9806,9 @@
       "name": "Tennis Courts · Scott Smith Road",
       "lat": 34.659114,
       "lng": -92.544455,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8136,6 +9828,9 @@
       "name": "University of Arkansas at Monticello Tennis Courts",
       "lat": 33.5938,
       "lng": -91.807965,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -8151,10 +9846,56 @@
       }
     },
     {
+      "id": "osm-w1554000446",
+      "name": "Public Tennis Courts",
+      "lat": 34.722775,
+      "lng": -92.387927,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "AR",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
+      "id": "osm-w1557481899",
+      "name": "Public Tennis Courts",
+      "lat": 36.183703,
+      "lng": -94.51811,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 4,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "AR",
+      "source": "osm",
+      "tags": {}
+    },
+    {
       "id": "osm-r11517620",
       "name": "Live Oak Tennis Courts",
       "lat": 33.292145,
       "lng": -93.232608,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8172,6 +9913,9 @@
       "name": "Tennis Courts · North Main Street",
       "lat": 35.514753,
       "lng": -94.053279,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,

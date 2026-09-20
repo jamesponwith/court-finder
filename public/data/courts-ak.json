@@ -7,6 +7,9 @@
       "name": "Delaney Park Tennis Courts",
       "lat": 61.21313,
       "lng": -149.88852,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 9,
       "surface": "hard",
       "lighted": null,
@@ -24,6 +27,9 @@
       "name": "Goldenview Middle School Tennis Courts",
       "lat": 61.079215,
       "lng": -149.779214,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": true,
@@ -41,6 +47,9 @@
       "name": "Tennis Courts · 15th Avenue",
       "lat": 64.83516,
       "lng": -147.729647,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -60,6 +69,9 @@
       "name": "Service High School Tennis Courts",
       "lat": 61.139684,
       "lng": -149.784222,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "grass",
       "lighted": null,
@@ -77,6 +89,9 @@
       "name": "Minnesota Park Tennis Court",
       "lat": 61.190648,
       "lng": -149.913694,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": null,
@@ -94,6 +109,9 @@
       "name": "Homer High School Tennis Courts",
       "lat": 59.65254,
       "lng": -151.525115,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "hard",
       "lighted": false,
@@ -111,6 +129,10 @@
       "name": "Kachemak City Pickleball and Tennis Courts",
       "lat": 59.667439,
       "lng": -151.453009,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
       "courtCount": 2,
       "surface": "hard",
       "lighted": null,
@@ -128,6 +150,9 @@
       "name": "Sitka Fine Arts Camp Tennis Courts",
       "lat": 57.050428,
       "lng": -135.324478,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": false,
@@ -147,6 +172,9 @@
       "name": "Eagle River Park Tennis Courts",
       "lat": 61.229552,
       "lng": -149.875439,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": false,
@@ -164,6 +192,9 @@
       "name": "Kiwanis Fish Creek Park Tennis Courts",
       "lat": 61.18708,
       "lng": -149.93489,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": false,
@@ -181,6 +212,9 @@
       "name": "Chugiak High School Tennis Courts",
       "lat": 61.370842,
       "lng": -149.532278,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -200,6 +234,9 @@
       "name": "The Alaska Club East",
       "lat": 61.181537,
       "lng": -149.782464,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -210,13 +247,18 @@
       "city": null,
       "state": "AK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w265006295",
       "name": "Tennis Courts · Sohi Street",
       "lat": 60.492091,
       "lng": -151.096325,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -236,6 +278,9 @@
       "name": "Begich Middle School Tennis Courts",
       "lat": 61.209195,
       "lng": -149.742593,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": false,
@@ -253,6 +298,9 @@
       "name": "Pop Carr Park Tennis Courts",
       "lat": 61.17953,
       "lng": -149.899363,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": false,
@@ -270,6 +318,9 @@
       "name": "Diamond High School Tennis Courts",
       "lat": 61.141622,
       "lng": -149.936297,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": true,
@@ -287,6 +338,10 @@
       "name": "Taku Lake Park Tennis Courts",
       "lat": 61.146896,
       "lng": -149.884326,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": false,
@@ -304,6 +359,9 @@
       "name": "Ocean View Park Tennis Courts",
       "lat": 61.098796,
       "lng": -149.857086,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": null,
@@ -321,6 +379,9 @@
       "name": "Forsythe Park Tennis Courts",
       "lat": 61.118289,
       "lng": -149.773564,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": null,
@@ -338,6 +399,9 @@
       "name": "Creekside Park Tennis Courts",
       "lat": 61.215488,
       "lng": -149.747637,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": false,
@@ -355,6 +419,9 @@
       "name": "Nanuka Park Tennis Courts",
       "lat": 61.209135,
       "lng": -149.764102,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": false,
@@ -372,6 +439,9 @@
       "name": "Bartlett High School Tennis Courts",
       "lat": 61.233914,
       "lng": -149.735237,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": false,
@@ -389,6 +459,9 @@
       "name": "Mirror Lake School Tennis Courts",
       "lat": 61.429148,
       "lng": -149.425392,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": null,
@@ -406,6 +479,9 @@
       "name": "Inn at Tern Lake Tennis Court",
       "lat": 60.526716,
       "lng": -149.518515,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": false,
@@ -423,6 +499,9 @@
       "name": "Tennis Courts · Floyd Dryden Access Road",
       "lat": 58.388264,
       "lng": -134.569862,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -442,6 +521,9 @@
       "name": "Tennis Courts · James Boulevard",
       "lat": 58.37331,
       "lng": -134.589055,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -461,6 +543,9 @@
       "name": "Skyview Middle School Tennis Courts",
       "lat": 60.458878,
       "lng": -151.099065,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -478,6 +563,9 @@
       "name": "Tennis Courts · Chichenoff Avenue",
       "lat": 57.795867,
       "lng": -152.389773,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "hard",
       "lighted": null,
@@ -497,6 +585,9 @@
       "name": "Iditapark Tennis Courts",
       "lat": 61.584536,
       "lng": -149.458795,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -514,6 +605,9 @@
       "name": "Sophie Plaza Apartments Tennis Courts",
       "lat": 64.833028,
       "lng": -147.806974,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "hard",
       "lighted": null,
@@ -524,13 +618,18 @@
       "city": null,
       "state": "AK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w439774095",
       "name": "South Anchorage High School Tennis Courts",
       "lat": 61.098892,
       "lng": -149.809947,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "hard",
       "lighted": null,
@@ -550,6 +649,9 @@
       "name": "Ketchikan High School Tennis Courts",
       "lat": 55.354661,
       "lng": -131.678439,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -569,6 +671,9 @@
       "name": "Forsythe Park Tennis Courts",
       "lat": 61.11925,
       "lng": -149.767687,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -586,6 +691,9 @@
       "name": "Shrerwood Heights Tennis Courts",
       "lat": 61.077697,
       "lng": -149.768547,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -596,13 +704,18 @@
       "city": null,
       "state": "AK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w519735990",
       "name": "Bayshore Park Tennis Courts",
       "lat": 61.123834,
       "lng": -149.943959,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -620,6 +733,9 @@
       "name": "Jane Mears Middle School Tennis Courts",
       "lat": 61.127317,
       "lng": -149.932061,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "hard",
       "lighted": true,
@@ -639,6 +755,9 @@
       "name": "Tennis Courts · Education Drive",
       "lat": 60.735181,
       "lng": -151.292565,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "hard",
       "lighted": null,
@@ -656,6 +775,9 @@
       "name": "Colony Schools Tennis Courts",
       "lat": 61.608325,
       "lng": -149.216007,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -675,6 +797,9 @@
       "name": "Tennis Courts · Fighter Drive",
       "lat": 61.24005,
       "lng": -149.853099,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -694,6 +819,9 @@
       "name": "Bettye Davis East Anchorage High School Tennis Courts",
       "lat": 61.200991,
       "lng": -149.801881,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -713,6 +841,9 @@
       "name": "Meyring Park North Tennis Courts",
       "lat": 61.136508,
       "lng": -146.354414,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -730,6 +861,9 @@
       "name": "Tennis Courts · Lord Baranof Street",
       "lat": 60.489497,
       "lng": -151.094947,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -749,6 +883,9 @@
       "name": "Eastchester Park Tennis Courts",
       "lat": 61.203415,
       "lng": -149.84143,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -766,6 +903,9 @@
       "name": "John's Park Tennis Courts",
       "lat": 61.107206,
       "lng": -149.889658,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -783,6 +923,9 @@
       "name": "Eastchester Park Tennis Courts",
       "lat": 61.203489,
       "lng": -149.843786,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -800,6 +943,9 @@
       "name": "Colonial Village Homeowner's Association Tennis Courts",
       "lat": 61.151203,
       "lng": -149.899211,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -810,13 +956,18 @@
       "city": null,
       "state": "AK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w800837031",
       "name": "Country Lane Estates Tennis Courts",
       "lat": 61.158396,
       "lng": -150.002953,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": false,
@@ -827,13 +978,18 @@
       "city": null,
       "state": "AK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w802650397",
       "name": "Stuckagain Heights Tennis Courts",
       "lat": 61.155111,
       "lng": -149.702359,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -844,13 +1000,18 @@
       "city": null,
       "state": "AK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w810611898",
       "name": "Eagle River Lions Club Community Park Tennis Courts",
       "lat": 61.309685,
       "lng": -149.543426,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -868,6 +1029,9 @@
       "name": "Tennis Courts · Fire House Lane",
       "lat": 61.316693,
       "lng": -149.569648,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -887,6 +1051,9 @@
       "name": "West Anchorage High School Tennis Courts",
       "lat": 61.199157,
       "lng": -149.919302,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -906,6 +1073,9 @@
       "name": "Scenic Park Tennis Courts",
       "lat": 61.187625,
       "lng": -149.746898,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -923,6 +1093,9 @@
       "name": "Tennis Courts · Chena Hot Springs Road",
       "lat": 64.888275,
       "lng": -147.348246,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -942,6 +1115,9 @@
       "name": "Birchwood Homes Tennis Courts",
       "lat": 64.840836,
       "lng": -147.656735,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -952,13 +1128,18 @@
       "city": null,
       "state": "AK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w931208990",
       "name": "Eastchester Park Tennis Courts",
       "lat": 61.202249,
       "lng": -149.842751,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -976,6 +1157,9 @@
       "name": "Schroeder Park Tennis Courts",
       "lat": 61.332886,
       "lng": -149.575504,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -993,6 +1177,9 @@
       "name": "Tennis Courts · Arnold Avenue",
       "lat": 61.241292,
       "lng": -149.872129,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1012,6 +1199,9 @@
       "name": "Tennis Courts · East Bogard Road",
       "lat": 61.586904,
       "lng": -149.421281,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1031,6 +1221,9 @@
       "name": "Meadow Lakes Park Tennis Courts",
       "lat": 61.589004,
       "lng": -149.590683,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1048,6 +1241,9 @@
       "name": "Tennis Courts · Otterbahn Trail",
       "lat": 59.442077,
       "lng": -151.714661,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1065,9 +1261,13 @@
     {
       "id": "osm-w1227350469",
       "name": "Cope Park Tennis Courts",
-      "lat": 58.304811,
-      "lng": -134.412596,
-      "courtCount": 1,
+      "lat": 58.30481,
+      "lng": -134.41244,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -1084,6 +1284,10 @@
       "name": "Alaska Club - Eagle River",
       "lat": 61.329147,
       "lng": -149.569926,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1101,10 +1305,33 @@
       }
     },
     {
+      "id": "osm-w1497798121",
+      "name": "Chester Creek Sports Complex Pickleball Courts",
+      "lat": 61.203421,
+      "lng": -149.874903,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 12,
+      "surface": "hard",
+      "lighted": null,
+      "indoor": null,
+      "access": "public",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "AK",
+      "source": "osm",
+      "tags": {}
+    },
+    {
       "id": "osm-w1499692799",
       "name": "Woodside East Tennis Courts",
       "lat": 61.197772,
       "lng": -149.843385,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1115,13 +1342,18 @@
       "city": null,
       "state": "AK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526225793",
       "name": "Girdwood Park Tennis Courts",
       "lat": 60.961295,
       "lng": -149.135441,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "hard",
       "lighted": true,
@@ -1139,6 +1371,9 @@
       "name": "Tennis Courts · NPHS Boulevard",
       "lat": 64.747412,
       "lng": -147.370419,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -1156,6 +1391,9 @@
       "name": "Didlika Park Tennis Courts",
       "lat": 61.20103,
       "lng": -149.946808,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
