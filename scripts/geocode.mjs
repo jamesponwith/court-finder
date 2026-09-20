@@ -34,7 +34,7 @@ const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const OUT = join(ROOT, "public", "data");
 const CACHE_FILE = join(ROOT, "data", "raw", "geocode-cache.json");
 
-const FALLBACK_NAME = "Public Tennis Courts";
+const FALLBACK_NAMES = new Set(["Public Tennis Courts", "Public Pickleball Courts"]);
 const ENDPOINT = "https://nominatim.openstreetmap.org/reverse";
 const USER_AGENT =
   "AllAboutTennis-CourtFinder/1.0 (court data enrichment; one-time batch)";
@@ -61,7 +61,7 @@ function loadTargets() {
     const { facilities } = JSON.parse(readFileSync(file, "utf8"));
     let n = 0;
     for (const f of facilities) {
-      if (f.name === FALLBACK_NAME) {
+      if (FALLBACK_NAMES.has(f.name)) {
         targets.push({ id: f.id, lat: f.lat, lng: f.lng });
         n++;
       }

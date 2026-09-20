@@ -7,6 +7,9 @@
       "name": "Nelson Recreation Center",
       "lat": 44.004739,
       "lng": -73.177184,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -26,6 +29,9 @@
       "name": "Middlebury Indoor Tennis",
       "lat": 43.99883,
       "lng": -73.142922,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -42,82 +48,13 @@
       }
     },
     {
-      "id": "osm-n13949933690",
-      "name": "Tennis Courts · School Street",
-      "lat": 43.072872,
-      "lng": -73.158144,
-      "courtCount": 2,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": "School Street",
-      "city": "Arlington",
-      "state": "VT",
-      "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
-    },
-    {
-      "id": "osm-n13954892068",
-      "name": "Tennis Courts · Parsons Lane",
-      "lat": 43.254971,
-      "lng": -73.101147,
-      "courtCount": 4,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": "Parsons Lane",
-      "city": "Dorset",
-      "state": "VT",
-      "source": "osm",
-      "tags": {}
-    },
-    {
-      "id": "osm-n13954892072",
-      "name": "Tennis Courts · Vermont Route 30",
-      "lat": 43.256415,
-      "lng": -73.104348,
-      "courtCount": 6,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": "Vermont Route 30",
-      "city": "Dorset",
-      "state": "VT",
-      "source": "osm",
-      "tags": {}
-    },
-    {
-      "id": "osm-n13954897083",
-      "name": "Currier Memorial School Tennis Courts",
-      "lat": 43.349101,
-      "lng": -72.995308,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "VT",
-      "source": "osm",
-      "tags": {
-        "context": "school"
-      }
-    },
-    {
       "id": "osm-w19688552",
       "name": "Tennis Courts · Coventry Road",
       "lat": 44.512597,
       "lng": -73.149888,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -137,6 +74,9 @@
       "name": "Roosevelt Park Tennis Courts",
       "lat": 44.489092,
       "lng": -73.211286,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -152,8 +92,11 @@
     {
       "id": "osm-w58102640",
       "name": "Hartford Memorial Middle School Tennis Courts",
-      "lat": 43.65665,
+      "lat": 43.656649,
       "lng": -72.319351,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -173,6 +116,9 @@
       "name": "Tennis Courts · Cottage Street",
       "lat": 43.596036,
       "lng": -73.2618,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -192,6 +138,9 @@
       "name": "Tennis Courts · Hurricane Lane",
       "lat": 44.437362,
       "lng": -73.112939,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -211,6 +160,9 @@
       "name": "Tennis Courts · Crown Point Road",
       "lat": 43.50645,
       "lng": -72.852803,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -230,6 +182,9 @@
       "name": "Windham Southeast Supervisory Union Schools Tennis Courts",
       "lat": 42.835205,
       "lng": -72.560448,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -249,6 +204,9 @@
       "name": "Tennis Courts · Anna Marsh Lane",
       "lat": 42.85947,
       "lng": -72.560212,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -268,6 +226,9 @@
       "name": "Living Memorial Park Tennis Courts",
       "lat": 42.847496,
       "lng": -72.587356,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -285,6 +246,9 @@
       "name": "Bellows Free Academy Tennis Courts",
       "lat": 44.662719,
       "lng": -73.014773,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -304,6 +268,9 @@
       "name": "Anderson Park Tennis Courts",
       "lat": 44.343124,
       "lng": -72.756635,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -321,6 +288,9 @@
       "name": "Tennis Courts · Acorn Drive",
       "lat": 44.346744,
       "lng": -72.750471,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -340,6 +310,9 @@
       "name": "Bellows Falls Union High School Tennis Courts",
       "lat": 43.118147,
       "lng": -72.440708,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -359,6 +332,9 @@
       "name": "Tennis Courts · Main Street",
       "lat": 44.500421,
       "lng": -73.096568,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -378,6 +354,9 @@
       "name": "Tennis Courts · Edgewood Park Lane",
       "lat": 44.776783,
       "lng": -72.058933,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -397,6 +376,9 @@
       "name": "Tennis Courts · Parenteau Lane",
       "lat": 44.786487,
       "lng": -72.072859,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -416,6 +398,9 @@
       "name": "Tennis Courts · Old 5A Road",
       "lat": 44.760865,
       "lng": -72.053074,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -435,6 +420,9 @@
       "name": "Tennis Courts · Blueberry Point Lane",
       "lat": 44.771894,
       "lng": -72.072172,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -454,6 +442,9 @@
       "name": "Tennis Courts · Mountain Road",
       "lat": 44.47259,
       "lng": -72.69057,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -473,6 +464,9 @@
       "name": "Tennis Courts · Luce Hill Road",
       "lat": 44.474341,
       "lng": -72.717629,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -492,6 +486,9 @@
       "name": "Tennis Courts · Village Green",
       "lat": 44.474649,
       "lng": -72.706951,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -511,6 +508,9 @@
       "name": "Stowe Country Club Tennis Courts",
       "lat": 44.475893,
       "lng": -72.710076,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -528,6 +528,9 @@
       "name": "Tennis Courts · Topnotch Drive",
       "lat": 44.495284,
       "lng": -72.739042,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -547,6 +550,9 @@
       "name": "Tennis Courts · Topnotch Drive",
       "lat": 44.494398,
       "lng": -72.74062,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -561,9 +567,12 @@
     },
     {
       "id": "osm-w232946946",
-      "name": "Killington Golf Course Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 43.627585,
       "lng": -72.792991,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -574,13 +583,18 @@
       "city": null,
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w233405680",
-      "name": "Killington Golf Course Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 43.631677,
       "lng": -72.793893,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -591,13 +605,18 @@
       "city": null,
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w233405686",
-      "name": "Killington Golf Course Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 43.6256,
       "lng": -72.786794,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -608,13 +627,18 @@
       "city": null,
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w233576133",
       "name": "Tennis Courts · Snow Drift Lane",
       "lat": 43.203108,
       "lng": -72.772339,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": null,
@@ -634,6 +658,9 @@
       "name": "Pingree Park Tennis Courts",
       "lat": 43.231638,
       "lng": -72.816062,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -651,6 +678,9 @@
       "name": "Tennis Court",
       "lat": 43.236086,
       "lng": -72.845438,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -668,6 +698,9 @@
       "name": "Calahan Park Tennis Courts",
       "lat": 44.461927,
       "lng": -73.209851,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -685,6 +718,9 @@
       "name": "Private",
       "lat": 44.296924,
       "lng": -72.568524,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": null,
@@ -702,6 +738,9 @@
       "name": "Tennis Courts · Harrison Lane",
       "lat": 43.409353,
       "lng": -72.722298,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -721,6 +760,9 @@
       "name": "Tennis Courts · Okemo Ridge Road",
       "lat": 43.406149,
       "lng": -72.716787,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -740,6 +782,9 @@
       "name": "South Burlington High School Tennis Courts",
       "lat": 44.455107,
       "lng": -73.176536,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -759,6 +804,9 @@
       "name": "Ottauquechee School Tennis Courts",
       "lat": 43.648585,
       "lng": -72.417518,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -775,9 +823,12 @@
     },
     {
       "id": "osm-w275563555",
-      "name": "Middlebury Recreation Park Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 44.013159,
       "lng": -73.162506,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -795,6 +846,9 @@
       "name": "Oakledge Park Tennis Courts",
       "lat": 44.455021,
       "lng": -73.22689,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "hard",
       "lighted": false,
@@ -812,6 +866,9 @@
       "name": "Tennis Courts · Boynton Road",
       "lat": 43.244687,
       "lng": -72.781081,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -831,6 +888,9 @@
       "name": "Tennis Courts · Fowler Lane",
       "lat": 44.846767,
       "lng": -73.332991,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -850,6 +910,9 @@
       "name": "Tennis Courts · Shaw Knoll Road",
       "lat": 43.261045,
       "lng": -72.81996,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -869,6 +932,9 @@
       "name": "Burlington Tennis Club",
       "lat": 44.470285,
       "lng": -73.189125,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 10,
       "surface": "unknown",
       "lighted": null,
@@ -886,6 +952,9 @@
       "name": "Marble Mill Park Tennis Courts",
       "lat": 44.921002,
       "lng": -73.124368,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -903,6 +972,9 @@
       "name": "Tennis Courts · Joslin Hill Road",
       "lat": 44.186807,
       "lng": -72.817191,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -922,6 +994,9 @@
       "name": "Tennis Courts · Eagles Road",
       "lat": 44.177798,
       "lng": -72.837244,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -941,6 +1016,9 @@
       "name": "Tennis Courts · Joslin Hill Road",
       "lat": 44.189015,
       "lng": -72.807593,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -960,6 +1038,9 @@
       "name": "Tennis Courts · Deer Run Lane",
       "lat": 44.174415,
       "lng": -72.810656,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -976,9 +1057,12 @@
     },
     {
       "id": "osm-w336745343",
-      "name": "West Bolton Country Club Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 44.439976,
       "lng": -72.905523,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -989,13 +1073,18 @@
       "city": null,
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w340395610",
       "name": "Leddy Park Tennis Courts",
       "lat": 44.504736,
       "lng": -73.247548,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1013,6 +1102,9 @@
       "name": "Tennis Courts · Wallace Way",
       "lat": 42.891421,
       "lng": -72.565529,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1030,8 +1122,11 @@
     {
       "id": "osm-w347981121",
       "name": "Tennis Courts · Grout Pond Road",
-      "lat": 42.995745,
+      "lat": 42.995746,
       "lng": -72.687697,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1051,6 +1146,9 @@
       "name": "Tennis Courts · Tatro Road",
       "lat": 44.215533,
       "lng": -73.064918,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1070,6 +1168,9 @@
       "name": "Lakeside Tennis Courts",
       "lat": 44.458522,
       "lng": -73.222107,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1080,13 +1181,18 @@
       "city": null,
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w414438046",
       "name": "Tennis Courts · Sandgate Road",
       "lat": 43.174214,
       "lng": -73.1664,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1106,6 +1212,9 @@
       "name": "Tennis Courts · Manchester Village Historic District",
       "lat": 43.16143,
       "lng": -73.074839,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1123,6 +1232,9 @@
       "name": "Ekwanok Country Club Tennis Courts",
       "lat": 43.156014,
       "lng": -73.069853,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1138,9 +1250,13 @@
     {
       "id": "osm-w424110122",
       "name": "The Golf Club at The Equinox Resort Tennis Courts",
-      "lat": 43.162911,
-      "lng": -73.06674,
-      "courtCount": 2,
+      "lat": 43.162721,
+      "lng": -73.066784,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -1157,6 +1273,9 @@
       "name": "Tennis Courts · Gove Hill Road",
       "lat": 44.103807,
       "lng": -72.997453,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1176,6 +1295,9 @@
       "name": "Tennis Courts · North Harbor Road",
       "lat": 44.198604,
       "lng": -73.361818,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -1190,10 +1312,14 @@
     },
     {
       "id": "osm-w436252471",
-      "name": "Tennis Courts · East Birch Road",
-      "lat": 43.113027,
-      "lng": -72.897447,
-      "courtCount": 14,
+      "name": "Sports Center Tennis Courts",
+      "lat": 43.112987,
+      "lng": -72.897468,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 21,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -1210,6 +1336,9 @@
       "name": "Tennis Courts · Pikes Falls Road",
       "lat": 43.1094,
       "lng": -72.877145,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1229,6 +1358,9 @@
       "name": "Tennis Courts · 900 Styles Brook",
       "lat": 43.110608,
       "lng": -72.891239,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1245,9 +1377,12 @@
     },
     {
       "id": "osm-w436459525",
-      "name": "Killington Golf Course Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 43.636605,
       "lng": -72.787622,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1258,13 +1393,18 @@
       "city": null,
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w442873875",
       "name": "Tennis Courts · Palmer House Motel",
       "lat": 43.179625,
       "lng": -73.050236,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1284,6 +1424,9 @@
       "name": "Tennis Courts · Handle Road",
       "lat": 42.961593,
       "lng": -72.889896,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1303,6 +1446,9 @@
       "name": "Leland and Gray Union Middle and High School Tennis Courts",
       "lat": 43.04683,
       "lng": -72.665337,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1322,6 +1468,9 @@
       "name": "Saint Michael's College Tennis Courts",
       "lat": 44.496758,
       "lng": -73.164862,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1341,6 +1490,9 @@
       "name": "Vermont Academy Tennis Courts",
       "lat": 43.144065,
       "lng": -72.507743,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -1357,9 +1509,12 @@
     },
     {
       "id": "osm-w447054694",
-      "name": "Middlebury College Bread Loaf Campus Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 43.954784,
       "lng": -72.993407,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1371,7 +1526,7 @@
       "state": "VT",
       "source": "osm",
       "tags": {
-        "context": "school"
+        "context": "residential"
       }
     },
     {
@@ -1379,6 +1534,9 @@
       "name": "Tennis Courts · Harbor Road",
       "lat": 44.382056,
       "lng": -73.237191,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -1396,6 +1554,9 @@
       "name": "Tennis Courts · Wake Robin Lane",
       "lat": 44.358083,
       "lng": -73.24738,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1415,6 +1576,9 @@
       "name": "Tennis Courts · White Gates Lane",
       "lat": 44.511371,
       "lng": -72.733086,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1434,6 +1598,9 @@
       "name": "Stowe Middle & High Schoo Tennis Courts",
       "lat": 44.464501,
       "lng": -72.725613,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1453,6 +1620,9 @@
       "name": "Landry Park Tennis Courts",
       "lat": 44.499359,
       "lng": -73.190785,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1470,6 +1640,9 @@
       "name": "Fletcher Park Tennis Courts",
       "lat": 44.995906,
       "lng": -71.54064,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1487,6 +1660,9 @@
       "name": "Tennis Courts · Sewer Plant Road",
       "lat": 44.99418,
       "lng": -72.398386,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1506,6 +1682,9 @@
       "name": "Tennis Courts · Vermont Route 100",
       "lat": 43.248032,
       "lng": -72.797195,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1525,6 +1704,9 @@
       "name": "Tennis Courts · Brand Farm Drive",
       "lat": 44.445536,
       "lng": -73.169111,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1544,6 +1726,9 @@
       "name": "Tennis Courts · Brand Farm Drive",
       "lat": 44.44681,
       "lng": -73.169488,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1561,9 +1746,13 @@
     {
       "id": "osm-w490105169",
       "name": "Monsignor Thomas Connor Memorial Park Tennis Courts",
-      "lat": 43.60438,
-      "lng": -72.987558,
-      "courtCount": 3,
+      "lat": 43.604376,
+      "lng": -72.9876,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 7,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -1580,6 +1769,9 @@
       "name": "Tennis Courts · North Main Street",
       "lat": 44.883174,
       "lng": -72.61544,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1599,6 +1791,10 @@
       "name": "Powers Park Tennis Courts",
       "lat": 44.539439,
       "lng": -72.003924,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1616,6 +1812,9 @@
       "name": "Rotary Park Tennis Courts",
       "lat": 43.619216,
       "lng": -72.975959,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -1633,6 +1832,9 @@
       "name": "Tennis Courts · Stonehedge Drive",
       "lat": 44.438546,
       "lng": -73.194757,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1652,6 +1854,9 @@
       "name": "Huntley Meadows Tennis Courts",
       "lat": 43.723461,
       "lng": -72.314925,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1669,6 +1874,9 @@
       "name": "Vergennes Union Elementary School Tennis Courts",
       "lat": 44.166643,
       "lng": -73.247162,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -1688,6 +1896,9 @@
       "name": "Tennis Courts · Toll Road",
       "lat": 44.510084,
       "lng": -72.76544,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1705,6 +1916,9 @@
       "name": "Vermont College of Fine Arts Tennis Courts",
       "lat": 44.255465,
       "lng": -72.568024,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1724,6 +1938,9 @@
       "name": "Tennis Courts · Outbound Way",
       "lat": 44.474482,
       "lng": -72.694958,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1743,6 +1960,9 @@
       "name": "Tennis Courts · Langelaut",
       "lat": 44.591506,
       "lng": -72.788947,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -1760,6 +1980,9 @@
       "name": "Tennis Courts · Upper Phase Road",
       "lat": 44.137856,
       "lng": -72.883262,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "hard",
       "lighted": null,
@@ -1777,6 +2000,9 @@
       "name": "Tennis Courts · Bridges Circle",
       "lat": 44.139587,
       "lng": -72.883455,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 7,
       "surface": "unknown",
       "lighted": null,
@@ -1794,6 +2020,9 @@
       "name": "Tennis Courts · Sports Center Drive",
       "lat": 44.138231,
       "lng": -72.890624,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -1811,6 +2040,9 @@
       "name": "Tennis Courts · Mill Brook Road",
       "lat": 44.182047,
       "lng": -72.865232,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1830,6 +2062,9 @@
       "name": "The Battleground Tennis Courts",
       "lat": 44.201247,
       "lng": -72.892658,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -1847,6 +2082,9 @@
       "name": "Sugarbush Resort Golf Club Tennis Courts",
       "lat": 44.143188,
       "lng": -72.876793,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1864,6 +2102,9 @@
       "name": "Tennis Courts · Pine Haven Shores Lane",
       "lat": 44.420879,
       "lng": -73.21666,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1883,6 +2124,9 @@
       "name": "Tennis Courts · South Beach Road",
       "lat": 44.424154,
       "lng": -73.215883,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1900,8 +2144,11 @@
     {
       "id": "osm-w569933551",
       "name": "Harold Curtiss Recreational Park Tennis Courts",
-      "lat": 43.972675,
+      "lat": 43.972674,
       "lng": -73.095021,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1919,6 +2166,9 @@
       "name": "Tennis Courts · Vermont Route 100",
       "lat": 42.941258,
       "lng": -72.858058,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -1936,6 +2186,9 @@
       "name": "Schmanska Park Tennis Courts",
       "lat": 44.484469,
       "lng": -73.185291,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "hard",
       "lighted": false,
@@ -1953,6 +2206,9 @@
       "name": "Appletree Park Tennis Courts",
       "lat": 44.506754,
       "lng": -73.269134,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "hard",
       "lighted": false,
@@ -1970,6 +2226,9 @@
       "name": "Stowe Middle & High Schoo Tennis Courts",
       "lat": 44.467605,
       "lng": -72.722856,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1989,6 +2248,9 @@
       "name": "Tennis Courts · Mountain Road",
       "lat": 44.513179,
       "lng": -72.767405,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2008,6 +2270,9 @@
       "name": "Tennis Courts · North Street",
       "lat": 43.619806,
       "lng": -72.969542,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2027,6 +2292,9 @@
       "name": "Tennis Courts · Goodrich Four Corners Road",
       "lat": 43.750354,
       "lng": -72.275473,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2046,6 +2314,9 @@
       "name": "Tennis Courts · Middle Road",
       "lat": 43.768447,
       "lng": -72.273967,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2065,6 +2336,9 @@
       "name": "Tennis Courts · Route 132",
       "lat": 43.771018,
       "lng": -72.254548,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2084,6 +2358,9 @@
       "name": "Tennis Courts · New Boston Road",
       "lat": 43.739408,
       "lng": -72.313226,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2103,6 +2380,9 @@
       "name": "Tennis Courts · West Street",
       "lat": 44.134368,
       "lng": -73.088738,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2122,6 +2402,9 @@
       "name": "Tennis Courts · Main Street",
       "lat": 44.81473,
       "lng": -71.878262,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2141,6 +2424,9 @@
       "name": "Wells Village School Tennis Courts",
       "lat": 43.418708,
       "lng": -73.206517,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2160,6 +2446,9 @@
       "name": "Tennis Courts · Vermont Route 12",
       "lat": 43.541283,
       "lng": -72.401408,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2179,6 +2468,9 @@
       "name": "Tennis Courts · Vermont Route 100",
       "lat": 44.123881,
       "lng": -72.851862,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2198,6 +2490,9 @@
       "name": "Tennis Courts · Gardenside Lane",
       "lat": 44.385614,
       "lng": -73.217009,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2217,6 +2512,9 @@
       "name": "Danville School Tennis Courts",
       "lat": 44.411041,
       "lng": -72.145331,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2236,6 +2534,9 @@
       "name": "Hemlock Ridge Tennis Courts",
       "lat": 43.696067,
       "lng": -72.323283,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2246,13 +2547,18 @@
       "city": null,
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w667278020",
       "name": "The Edge",
       "lat": 44.45155,
       "lng": -73.172225,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2270,6 +2576,9 @@
       "name": "Houghton Park Tennis Courts",
       "lat": 44.80924,
       "lng": -73.093034,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2287,6 +2596,9 @@
       "name": "Tennis Courts · School Street",
       "lat": 44.890699,
       "lng": -72.429867,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2303,9 +2615,12 @@
     },
     {
       "id": "osm-w702798377",
-      "name": "Charlotte Town Beach Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 44.333297,
       "lng": -73.279757,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -2323,6 +2638,10 @@
       "name": "Woodstock Athletic Club",
       "lat": 43.602063,
       "lng": -72.517481,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
       "courtCount": 10,
       "surface": "unknown",
       "lighted": null,
@@ -2341,9 +2660,12 @@
     },
     {
       "id": "osm-w759633911",
-      "name": "Blue Mountain Union School Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 44.1552,
       "lng": -72.084422,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2355,7 +2677,7 @@
       "state": "VT",
       "source": "osm",
       "tags": {
-        "context": "school"
+        "context": "residential"
       }
     },
     {
@@ -2363,6 +2685,9 @@
       "name": "St. Johnsbury Academy Tennis Courts",
       "lat": 44.413531,
       "lng": -72.018834,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2381,7 +2706,10 @@
       "id": "osm-w802322207",
       "name": "Tennis Courts · Broadacres Drive",
       "lat": 44.548234,
-      "lng": -73.23187,
+      "lng": -73.231869,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2401,6 +2729,9 @@
       "name": "Estabrook Park Tennis Courts",
       "lat": 43.810418,
       "lng": -73.104951,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2417,7 +2748,10 @@
       "id": "osm-w861197923",
       "name": "Tennis Courts · Chaplin Lane",
       "lat": 44.42561,
-      "lng": -73.197591,
+      "lng": -73.19759,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2433,10 +2767,35 @@
       }
     },
     {
+      "id": "osm-w880964730",
+      "name": "Public Tennis Courts",
+      "lat": 45.016283,
+      "lng": -73.04698,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "VT",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
       "id": "osm-w884989693",
       "name": "Heritage Park Tennis Courts",
       "lat": 44.546041,
       "lng": -73.152733,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2454,6 +2813,9 @@
       "name": "Tennis Courts · I-189 Recreation Path",
       "lat": 44.451236,
       "lng": -73.195939,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2473,6 +2835,9 @@
       "name": "Underhill Town Pond & Park Tennis Courts",
       "lat": 44.508786,
       "lng": -72.894322,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2490,6 +2855,9 @@
       "name": "Tennis Courts · Pleasant Valley Road",
       "lat": 44.507138,
       "lng": -72.896144,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2508,7 +2876,10 @@
       "id": "osm-w907392517",
       "name": "Tennis Courts · Route 315",
       "lat": 43.281247,
-      "lng": -73.169734,
+      "lng": -73.169733,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2528,6 +2899,9 @@
       "name": "Tennis Courts · Lovers Lane",
       "lat": 43.269553,
       "lng": -72.60887,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2547,6 +2921,10 @@
       "name": "Maxfield Outdoor Sports Complex Tennis Courts",
       "lat": 43.621041,
       "lng": -72.35014,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -2560,10 +2938,35 @@
       "tags": {}
     },
     {
+      "id": "osm-w928232317",
+      "name": "Public Tennis Courts",
+      "lat": 45.024642,
+      "lng": -72.58798,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "VT",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
       "id": "osm-w934682482",
       "name": "Tennis Courts · Vermont Route 244",
       "lat": 43.891207,
       "lng": -72.229595,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2583,6 +2986,9 @@
       "name": "Tennis Courts · Vermont Route 244",
       "lat": 43.888928,
       "lng": -72.232383,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -2600,6 +3006,9 @@
       "name": "Tennis Courts · Vermont Route 244",
       "lat": 43.896399,
       "lng": -72.216144,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2619,6 +3028,9 @@
       "name": "Tennis Courts · Vermont Route 244",
       "lat": 43.893998,
       "lng": -72.21805,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2638,6 +3050,9 @@
       "name": "Tennis Courts · Vermont Route 244",
       "lat": 43.892542,
       "lng": -72.219209,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2657,6 +3072,9 @@
       "name": "Tennis Courts · Pleasant Street",
       "lat": 43.171236,
       "lng": -72.607643,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2676,6 +3094,9 @@
       "name": "Tennis Courts · Chateguay Road",
       "lat": 44.433664,
       "lng": -73.250273,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": false,
@@ -2695,6 +3116,9 @@
       "name": "Barstow Memorial School Tennis Courts",
       "lat": 43.700587,
       "lng": -72.953064,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2714,6 +3138,9 @@
       "name": "Richford Junior / Senior High School Tennis Courts",
       "lat": 44.994547,
       "lng": -72.67047,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2733,6 +3160,9 @@
       "name": "Bayside Park Tennis Courts",
       "lat": 44.544111,
       "lng": -73.216634,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -2750,6 +3180,9 @@
       "name": "Sheldon Elementary School Tennis Courts",
       "lat": 44.901713,
       "lng": -72.969796,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2769,6 +3202,9 @@
       "name": "Tennis Courts · Quinibeck Road",
       "lat": 43.876695,
       "lng": -72.226148,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2788,6 +3224,9 @@
       "name": "Tennis Courts · Lochearn Road",
       "lat": 43.880645,
       "lng": -72.236627,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -2805,6 +3244,9 @@
       "name": "Tennis Courts · Tucker Hill Road",
       "lat": 43.823645,
       "lng": -72.280292,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2824,6 +3266,9 @@
       "name": "Tennis Courts · Forest Lake Road",
       "lat": 44.98376,
       "lng": -71.684121,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2843,6 +3288,9 @@
       "name": "Birch Landing Tennis Courts",
       "lat": 43.471402,
       "lng": -72.696568,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2853,13 +3301,18 @@
       "city": null,
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w983348438",
       "name": "Tennis Courts · Wendy Lane",
       "lat": 43.624044,
       "lng": -72.95973,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2879,6 +3332,9 @@
       "name": "Tennis Courts · Spurce Lake Estates Road",
       "lat": 42.853623,
       "lng": -72.839699,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2894,18 +3350,21 @@
       }
     },
     {
-      "id": "osm-r20367100",
-      "name": "Tennis Courts · Sweetwater Lane",
-      "lat": 44.494198,
-      "lng": -73.09196,
+      "id": "osm-w985354857",
+      "name": "Public Tennis Courts",
+      "lat": 44.494197,
+      "lng": -73.091993,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": "Sweetwater Lane",
-      "city": "Essex Junction",
+      "address": null,
+      "city": null,
       "state": "VT",
       "source": "osm",
       "tags": {
@@ -2917,6 +3376,9 @@
       "name": "Tennis Courts · Ely Road",
       "lat": 43.866596,
       "lng": -72.181216,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2936,6 +3398,9 @@
       "name": "Essex High School Tennis Courts",
       "lat": 44.498615,
       "lng": -73.108357,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -2955,6 +3420,9 @@
       "name": "Tennis Courts · Bragg Hill Road",
       "lat": 44.197786,
       "lng": -72.867441,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2972,8 +3440,11 @@
     {
       "id": "osm-w999209382",
       "name": "Tennis Courts · Farm Road",
-      "lat": 44.202881,
+      "lat": 44.202882,
       "lng": -72.872769,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2993,6 +3464,9 @@
       "name": "Tennis Courts · Farm Road",
       "lat": 44.2032,
       "lng": -72.875889,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3012,6 +3486,9 @@
       "name": "Tennis Courts · Lake Morey Road",
       "lat": 43.912099,
       "lng": -72.160063,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3031,6 +3508,9 @@
       "name": "Tennis Courts · Vermont Route 30",
       "lat": 43.184479,
       "lng": -72.935588,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3050,6 +3530,9 @@
       "name": "Tennis Courts · Vermont Route 30",
       "lat": 43.183129,
       "lng": -72.930127,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": null,
@@ -3069,6 +3552,9 @@
       "name": "Tennis Courts · Danby Mountain Road",
       "lat": 43.301354,
       "lng": -73.097016,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3088,6 +3574,9 @@
       "name": "Tennis Courts · Vermont Route 30",
       "lat": 43.417362,
       "lng": -73.211179,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3107,6 +3596,9 @@
       "name": "Tennis Courts · Vermont Route 30 South",
       "lat": 43.493966,
       "lng": -73.205325,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3126,6 +3618,9 @@
       "name": "Tennis Courts · Grafton Street",
       "lat": 43.261791,
       "lng": -72.596313,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3145,6 +3640,9 @@
       "name": "Tennis Courts · Samson Road",
       "lat": 44.829137,
       "lng": -73.186971,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3164,6 +3662,9 @@
       "name": "Tennis Courts · Quarry Hill Road",
       "lat": 44.464582,
       "lng": -73.187032,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3183,6 +3684,9 @@
       "name": "Tennis Courts · Royalton Turnpike",
       "lat": 43.725488,
       "lng": -72.59131,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3202,6 +3706,9 @@
       "name": "Tennis Courts · Landing Lane",
       "lat": 42.866152,
       "lng": -72.824654,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": null,
@@ -3218,9 +3725,12 @@
     },
     {
       "id": "osm-w1011576369",
-      "name": "Burlington Country Club Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 44.462289,
       "lng": -73.193246,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3231,13 +3741,18 @@
       "city": null,
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1012174115",
       "name": "Public Tennis Courts",
       "lat": 44.609532,
       "lng": -73.351017,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3257,6 +3772,9 @@
       "name": "Tennis Courts · Connor Road",
       "lat": 44.264588,
       "lng": -72.552802,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3276,6 +3794,9 @@
       "name": "Tennis Courts · Hackamore Road",
       "lat": 44.254909,
       "lng": -72.543644,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3295,6 +3816,9 @@
       "name": "Tennis Courts · Vermont Route 44",
       "lat": 43.470691,
       "lng": -72.404176,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3314,6 +3838,9 @@
       "name": "Tennis Courts · Airport Road",
       "lat": 44.186356,
       "lng": -72.538654,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3333,6 +3860,9 @@
       "name": "Tennis Courts · Clover Hill Road",
       "lat": 43.917549,
       "lng": -72.642842,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3352,6 +3882,9 @@
       "name": "Tennis Courts · Greenspring Road",
       "lat": 42.969586,
       "lng": -72.885874,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3371,6 +3904,9 @@
       "name": "Tennis Courts · North Bingham Street",
       "lat": 43.961898,
       "lng": -73.23516,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3390,6 +3926,9 @@
       "name": "Tennis Courts · Valley Trail",
       "lat": 42.943047,
       "lng": -72.861457,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3409,6 +3948,9 @@
       "name": "Tennis Courts · Tannery Road",
       "lat": 42.952897,
       "lng": -72.880211,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3428,6 +3970,9 @@
       "name": "Dorsey Park Tennis Courts",
       "lat": 43.393262,
       "lng": -72.706117,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3445,6 +3990,9 @@
       "name": "Tennis Courts · Billings Road",
       "lat": 43.498607,
       "lng": -72.712584,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -3462,6 +4010,9 @@
       "name": "Tennis Courts · Sunset View Road",
       "lat": 44.647745,
       "lng": -73.332798,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3481,6 +4032,9 @@
       "name": "Tennis Courts · Killington Road",
       "lat": 43.65096,
       "lng": -72.790217,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3500,6 +4054,9 @@
       "name": "Tennis Courts · Telemark Road",
       "lat": 43.671803,
       "lng": -72.804525,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3519,6 +4076,9 @@
       "name": "Tennis Courts · Vermont Route 100",
       "lat": 43.777567,
       "lng": -72.755109,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3538,6 +4098,9 @@
       "name": "Tennis Courts · Christmas Tree Road",
       "lat": 44.139737,
       "lng": -72.84748,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3553,10 +4116,35 @@
       }
     },
     {
+      "id": "osm-w1021021621",
+      "name": "Public Pickleball Courts",
+      "lat": 44.137038,
+      "lng": -72.835086,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "VT",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
       "id": "osm-w1021021653",
       "name": "Tennis Courts · North Fayston Road",
       "lat": 44.230051,
       "lng": -72.786384,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3576,6 +4164,9 @@
       "name": "Tennis Courts · Fiddlehead Road",
       "lat": 44.180389,
       "lng": -72.902172,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3595,6 +4186,9 @@
       "name": "Tennis Courts · German Flats Road",
       "lat": 44.159708,
       "lng": -72.881452,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3612,8 +4206,11 @@
     {
       "id": "osm-w1027428411",
       "name": "Vermont State University (Randolph Campus) Tennis Courts",
-      "lat": 43.938462,
+      "lat": 43.938463,
       "lng": -72.6051,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3633,6 +4230,9 @@
       "name": "Tennis Courts · Thompson Pond Road",
       "lat": 42.782103,
       "lng": -73.187649,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3652,6 +4252,9 @@
       "name": "Tennis Courts · Chamonix Road",
       "lat": 43.396843,
       "lng": -72.712782,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3671,6 +4274,9 @@
       "name": "Tennis Courts · Snow Track North",
       "lat": 43.408361,
       "lng": -72.714799,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3690,6 +4296,9 @@
       "name": "Tennis Courts · Forest Lane",
       "lat": 42.949178,
       "lng": -72.868227,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3709,6 +4318,9 @@
       "name": "Tennis Courts · Margit Ridgeway Road",
       "lat": 42.948177,
       "lng": -72.875828,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -3726,6 +4338,9 @@
       "name": "Tennis Courts · Apple Hill Lane",
       "lat": 42.974062,
       "lng": -72.892908,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -3743,6 +4358,9 @@
       "name": "Tennis Courts · Bragg Road",
       "lat": 43.88651,
       "lng": -72.218069,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3762,6 +4380,9 @@
       "name": "Tennis Courts · Route 132",
       "lat": 43.835166,
       "lng": -72.363071,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3781,6 +4402,9 @@
       "name": "Tennis Courts · Spear Cemetery Road",
       "lat": 43.497227,
       "lng": -72.534848,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3800,6 +4424,9 @@
       "name": "Tennis Courts · Bryant Road",
       "lat": 43.565444,
       "lng": -72.506742,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3817,9 +4444,13 @@
     {
       "id": "osm-w1034528101",
       "name": "Vail Field Tennis Courts",
-      "lat": 43.621281,
-      "lng": -72.517171,
-      "courtCount": 2,
+      "lat": 43.621188,
+      "lng": -72.517113,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -3836,6 +4467,9 @@
       "name": "Tennis Courts · South Road",
       "lat": 43.57469,
       "lng": -72.516965,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3855,6 +4489,9 @@
       "name": "Tennis Courts · Mountain Road",
       "lat": 44.473268,
       "lng": -72.697881,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3874,6 +4511,9 @@
       "name": "Tennis Courts · Kentfield Road",
       "lat": 42.755565,
       "lng": -72.880322,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3893,6 +4533,9 @@
       "name": "Tennis Courts · Royal Road",
       "lat": 42.843608,
       "lng": -72.554945,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3912,6 +4555,9 @@
       "name": "Tennis Courts · Taylor Road",
       "lat": 43.049173,
       "lng": -72.543513,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3931,6 +4577,9 @@
       "name": "Tennis Courts · Westminster Road",
       "lat": 43.004401,
       "lng": -72.531237,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3950,6 +4599,9 @@
       "name": "Vermont State University Lyndon Campus Tennis Courts",
       "lat": 44.533333,
       "lng": -72.027027,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -3969,6 +4621,9 @@
       "name": "Public Tennis Courts",
       "lat": 44.45752,
       "lng": -71.96769,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3988,6 +4643,9 @@
       "name": "Tennis Courts · Playground Road",
       "lat": 43.130081,
       "lng": -72.452324,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4007,6 +4665,9 @@
       "name": "Proctor Tennis Courts",
       "lat": 44.008432,
       "lng": -73.179768,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 9,
       "surface": "unknown",
       "lighted": null,
@@ -4023,7 +4684,10 @@
       "id": "osm-w1040319343",
       "name": "Tennis Courts · Cedar Ridge",
       "lat": 44.877022,
-      "lng": -73.324183,
+      "lng": -73.324184,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4043,6 +4707,9 @@
       "name": "Tennis Courts · Light House Point",
       "lat": 44.904719,
       "lng": -73.343509,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4062,6 +4729,9 @@
       "name": "Tennis Courts · McGregor Point",
       "lat": 44.965448,
       "lng": -73.238781,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4081,6 +4751,9 @@
       "name": "Tennis Courts · Castle Hill Drive",
       "lat": 43.382509,
       "lng": -72.643825,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4100,6 +4773,9 @@
       "name": "Tennis Courts · Buxton Avenue",
       "lat": 43.479504,
       "lng": -73.134129,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4119,6 +4795,9 @@
       "name": "Tennis Courts · Florence Avenue",
       "lat": 43.471243,
       "lng": -72.981029,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4136,8 +4815,11 @@
     {
       "id": "osm-w1042633159",
       "name": "Weston Recreation Area Tennis Courts",
-      "lat": 43.317004,
+      "lat": 43.317005,
       "lng": -72.790998,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4155,6 +4837,9 @@
       "name": "Tennis Courts · Recreation Field Road",
       "lat": 44.276411,
       "lng": -72.428013,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4174,6 +4859,9 @@
       "name": "Tennis Courts · Vietnam Veterans Memorial Highway",
       "lat": 44.558537,
       "lng": -73.183216,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4193,6 +4881,9 @@
       "name": "Tennis Courts · Mountain Road",
       "lat": 44.882258,
       "lng": -72.565057,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4212,6 +4903,9 @@
       "name": "Alpine Haven Tennis Courts",
       "lat": 44.890282,
       "lng": -72.534842,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4222,13 +4916,18 @@
       "city": null,
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1046258394",
       "name": "Tennis Courts · Meadow Brook Drive",
       "lat": 42.864626,
       "lng": -73.206887,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4246,9 +4945,13 @@
     {
       "id": "osm-w1046258396",
       "name": "Tennis Courts · Howard Park Road",
-      "lat": 42.949158,
-      "lng": -73.200124,
-      "courtCount": 2,
+      "lat": 42.949163,
+      "lng": -73.200078,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -4258,15 +4961,16 @@
       "city": "Bennington County",
       "state": "VT",
       "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1046868128",
       "name": "Tennis Courts · Salter Hill Road",
       "lat": 43.06911,
       "lng": -73.150447,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4286,6 +4990,9 @@
       "name": "Tennis Courts · Abnaki Road",
       "lat": 44.767493,
       "lng": -73.308187,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4305,6 +5012,9 @@
       "name": "Tennis Courts · Ministry Lane",
       "lat": 44.67827,
       "lng": -73.31033,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4324,6 +5034,9 @@
       "name": "Tennis Courts · Old Orchard Lane",
       "lat": 43.243628,
       "lng": -73.108847,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4342,7 +5055,10 @@
       "id": "osm-w1049377957",
       "name": "Tennis Courts · Camp Kiniya Road",
       "lat": 44.604665,
-      "lng": -73.22715,
+      "lng": -73.227151,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -4360,6 +5076,9 @@
       "name": "Tennis Courts · Camp Kiniya Road",
       "lat": 44.605119,
       "lng": -73.225697,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4379,6 +5098,9 @@
       "name": "Tennis Courts · Sunderland Woods Road",
       "lat": 44.520695,
       "lng": -73.181091,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4398,6 +5120,9 @@
       "name": "Bradford Golf Club Tennis Courts",
       "lat": 43.996479,
       "lng": -72.124096,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4415,6 +5140,9 @@
       "name": "Newbury Elementary School Tennis Courts",
       "lat": 44.078464,
       "lng": -72.060347,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4430,10 +5158,33 @@
       }
     },
     {
+      "id": "osm-w1052865255",
+      "name": "Converted Tennis Court. Now Pickleball Courts",
+      "lat": 44.436023,
+      "lng": -73.199371,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "VT",
+      "source": "osm",
+      "tags": {}
+    },
+    {
       "id": "osm-w1053043587",
       "name": "Tennis Courts · Turnpike Road",
       "lat": 43.758978,
       "lng": -72.328597,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4453,6 +5204,9 @@
       "name": "Tennis Courts · Pattrell Road",
       "lat": 43.763655,
       "lng": -72.278582,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4472,6 +5226,9 @@
       "name": "Tennis Courts · Sadler Lane",
       "lat": 44.457044,
       "lng": -73.094341,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": false,
@@ -4491,6 +5248,9 @@
       "name": "Tennis Courts · Overlook Drive",
       "lat": 44.431208,
       "lng": -73.197802,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4510,6 +5270,9 @@
       "name": "Tennis Courts · Spear Street",
       "lat": 44.444742,
       "lng": -73.18942,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4529,6 +5292,9 @@
       "name": "Tennis Courts · Bellevue Avenue",
       "lat": 43.621744,
       "lng": -72.971648,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4548,6 +5314,9 @@
       "name": "Tennis Courts · Best Western Place",
       "lat": 43.635139,
       "lng": -72.939053,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4567,6 +5336,9 @@
       "name": "Northwood Park Tennis Courts",
       "lat": 43.644633,
       "lng": -72.950176,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4584,6 +5356,9 @@
       "name": "Tennis Courts · Lake Morey Road",
       "lat": 43.910647,
       "lng": -72.153033,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4603,6 +5378,9 @@
       "name": "Tennis Courts · Lake Morey Road",
       "lat": 43.910471,
       "lng": -72.158257,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4622,6 +5400,9 @@
       "name": "Tennis Courts · Old Dock Road",
       "lat": 44.98031,
       "lng": -73.105369,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4641,6 +5422,9 @@
       "name": "Cedar Meadow Tennis Court",
       "lat": 44.978079,
       "lng": -73.106636,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4658,6 +5442,9 @@
       "name": "Tennis Courts · U.S. Route 2 West",
       "lat": 44.409013,
       "lng": -72.171659,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4677,6 +5464,9 @@
       "name": "Public Tennis Courts",
       "lat": 44.404775,
       "lng": -73.200431,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4696,6 +5486,9 @@
       "name": "Public Tennis Courts",
       "lat": 44.406598,
       "lng": -73.201553,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4713,8 +5506,11 @@
     {
       "id": "osm-w1072476315",
       "name": "Tennis Courts · Pierson Place",
-      "lat": 44.430327,
+      "lat": 44.430328,
       "lng": -73.25235,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": false,
@@ -4732,8 +5528,11 @@
     {
       "id": "osm-w1073200251",
       "name": "Tennis Courts · Harbor Road",
-      "lat": 44.429038,
+      "lat": 44.429039,
       "lng": -73.250284,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4753,6 +5552,9 @@
       "name": "Tennis Courts · Morgan Drive",
       "lat": 44.42204,
       "lng": -73.256321,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4772,6 +5574,9 @@
       "name": "Public Tennis Courts",
       "lat": 44.417686,
       "lng": -73.254397,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4791,6 +5596,9 @@
       "name": "Tennis Courts · Adrondack Drive",
       "lat": 44.40367,
       "lng": -73.270008,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4809,7 +5617,10 @@
       "id": "osm-w1076200178",
       "name": "Tennis Courts · North Gate Road",
       "lat": 44.402791,
-      "lng": -73.265055,
+      "lng": -73.265054,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4829,6 +5640,9 @@
       "name": "Tennis Courts · North Gate Road",
       "lat": 44.394904,
       "lng": -73.278703,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4848,6 +5662,9 @@
       "name": "Tennis Courts · Barnumville Road",
       "lat": 43.181851,
       "lng": -73.033019,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4867,6 +5684,9 @@
       "name": "Tennis Courts · Aspen Lane",
       "lat": 43.19539,
       "lng": -73.016641,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4884,8 +5704,11 @@
     {
       "id": "osm-w1088238978",
       "name": "Bears Crossing Community Tennis Courts",
-      "lat": 42.946401,
+      "lat": 42.9464,
       "lng": -72.888559,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4896,13 +5719,18 @@
       "city": null,
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1088238979",
       "name": "Tennis Courts · Suntec Loop",
       "lat": 42.947103,
       "lng": -72.883043,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4922,6 +5750,9 @@
       "name": "Tennis Courts · Forest Lane",
       "lat": 42.951891,
       "lng": -72.867813,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4941,6 +5772,9 @@
       "name": "Tennis Courts · Coldbrook Road",
       "lat": 42.917179,
       "lng": -72.879107,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4958,9 +5792,13 @@
     {
       "id": "osm-w1090528470",
       "name": "Tennis Courts · Wheelock Road",
-      "lat": 43.654904,
-      "lng": -72.443073,
-      "courtCount": 2,
+      "lat": 43.654999,
+      "lng": -72.443001,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -4970,15 +5808,16 @@
       "city": "Hartford",
       "state": "VT",
       "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1092160691",
       "name": "Tennis Courts · Concord Avenue",
       "lat": 44.417269,
       "lng": -71.996559,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4998,6 +5837,9 @@
       "name": "Tennis Courts · Lawrence Hill Road",
       "lat": 43.313751,
       "lng": -72.795121,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5017,6 +5859,9 @@
       "name": "Tennis Courts · Upper Dam Road",
       "lat": 42.893576,
       "lng": -72.910381,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5036,6 +5881,9 @@
       "name": "Tennis Courts · Wild Apple Road",
       "lat": 43.71042,
       "lng": -72.550898,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5052,9 +5900,12 @@
     },
     {
       "id": "osm-w1116142888",
-      "name": "University of Vermont Tennis Courts",
-      "lat": 44.484417,
+      "name": "Riverside Tennis Courts",
+      "lat": 44.484418,
       "lng": -73.193124,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5066,14 +5917,17 @@
       "state": "VT",
       "source": "osm",
       "tags": {
-        "context": "school"
+        "context": "residential"
       }
     },
     {
       "id": "osm-w1116333489",
-      "name": "Vermont National Country Club Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 44.442291,
       "lng": -73.182478,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5084,13 +5938,18 @@
       "city": null,
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1133596279",
       "name": "Tennis Courts · Toll House Road",
       "lat": 44.045025,
       "lng": -72.076884,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5107,9 +5966,12 @@
     },
     {
       "id": "osm-w1154085084",
-      "name": "Kurn Hattin Homes for Children Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 43.063243,
       "lng": -72.476604,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5121,7 +5983,7 @@
       "state": "VT",
       "source": "osm",
       "tags": {
-        "context": "school"
+        "context": "residential"
       }
     },
     {
@@ -5129,6 +5991,9 @@
       "name": "Tennis Courts · Blacks Point Road",
       "lat": 44.589726,
       "lng": -72.301856,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5148,6 +6013,9 @@
       "name": "Tennis Courts · Lamoille Valley Rail Trail",
       "lat": 44.881978,
       "lng": -72.942397,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5167,6 +6035,9 @@
       "name": "Pownal Elementary School Tennis Courts",
       "lat": 42.800184,
       "lng": -73.219032,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5186,6 +6057,9 @@
       "name": "Peter & Frances Mallett Municipal Recreational Area Tennis Courts",
       "lat": 44.767853,
       "lng": -73.160876,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5203,6 +6077,9 @@
       "name": "Vermont State University Castleton Campus Tennis Courts",
       "lat": 43.604151,
       "lng": -73.177187,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -5222,6 +6099,9 @@
       "name": "Tennis Courts · Miller Place",
       "lat": 43.590753,
       "lng": -72.962705,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -5237,9 +6117,13 @@
     {
       "id": "osm-w1184830511",
       "name": "Airport Park Tennis Courts",
-      "lat": 44.544646,
-      "lng": -73.277742,
-      "courtCount": 2,
+      "lat": 44.544619,
+      "lng": -73.277505,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -5256,6 +6140,9 @@
       "name": "Tennis Courts · Lake Road",
       "lat": 44.701738,
       "lng": -73.203649,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5275,6 +6162,9 @@
       "name": "Tennis Courts · Cedar Street",
       "lat": 42.857331,
       "lng": -72.569327,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -5292,6 +6182,9 @@
       "name": "Tennis Courts · Covered Bridge Road",
       "lat": 44.441475,
       "lng": -72.680875,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": false,
@@ -5311,6 +6204,9 @@
       "name": "Mt Anthony Country Club Tennis Courts",
       "lat": 42.891291,
       "lng": -73.214243,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5328,6 +6224,9 @@
       "name": "Manchester Country Club Tennis Courts",
       "lat": 43.206062,
       "lng": -73.021085,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5342,9 +6241,12 @@
     },
     {
       "id": "osm-w1224795568",
-      "name": "Haystack Golf Course Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 42.906558,
       "lng": -72.881833,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5355,13 +6257,18 @@
       "city": null,
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1225159464",
       "name": "Mount Snow Golf Club Tennis Courts",
       "lat": 42.927498,
       "lng": -72.864279,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5379,6 +6286,9 @@
       "name": "Mountain View Country Club Tennis Courts",
       "lat": 44.568658,
       "lng": -72.300048,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 7,
       "surface": "unknown",
       "lighted": null,
@@ -5396,6 +6306,9 @@
       "name": "Honey Pond Farm Golf Course Tennis Courts",
       "lat": 43.450234,
       "lng": -73.111185,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": null,
@@ -5412,7 +6325,10 @@
       "id": "osm-w1227237632",
       "name": "Randolph-Town Recreation Center Tennis Courts",
       "lat": 43.925193,
-      "lng": -72.67121,
+      "lng": -72.671209,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5430,6 +6346,9 @@
       "name": "The Golf Club at Basin Harbor Tennis Courts",
       "lat": 44.195716,
       "lng": -73.36589,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5447,6 +6366,9 @@
       "name": "Country Club of Vermont Tennis Courts",
       "lat": 44.350625,
       "lng": -72.726092,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5464,6 +6386,9 @@
       "name": "Lamoille South Unified Union Schools Tennis Courts",
       "lat": 44.562454,
       "lng": -72.588408,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5483,6 +6408,9 @@
       "name": "Williston Country Club Tennis Courts",
       "lat": 44.438619,
       "lng": -73.062841,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5497,9 +6425,12 @@
     },
     {
       "id": "osm-w1228907626",
-      "name": "Vermont National Country Club Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 44.435409,
       "lng": -73.176353,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5510,13 +6441,18 @@
       "city": null,
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1239562232",
       "name": "Stratton Mountain School Tennis Courts",
       "lat": 43.106312,
       "lng": -72.8864,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5536,6 +6472,9 @@
       "name": "Public Tennis Courts",
       "lat": 44.672772,
       "lng": -73.253581,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5555,6 +6494,9 @@
       "name": "Public Tennis Courts",
       "lat": 44.658819,
       "lng": -73.253801,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5574,6 +6516,9 @@
       "name": "Tennis Courts · Marlboro Road",
       "lat": 42.868984,
       "lng": -72.625099,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5593,6 +6538,9 @@
       "name": "Tennis Courts · Dorset Heights",
       "lat": 44.428267,
       "lng": -73.168079,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5612,6 +6560,9 @@
       "name": "Tennis Courts · Birch Tree Lane",
       "lat": 44.338598,
       "lng": -71.972365,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "clay",
       "lighted": null,
@@ -5631,6 +6582,9 @@
       "name": "Tennis Courts · Lake Morey Road",
       "lat": 43.929088,
       "lng": -72.155998,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -5648,6 +6602,9 @@
       "name": "Tennis Courts · Lake Morey Road",
       "lat": 43.934107,
       "lng": -72.142503,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "clay",
       "lighted": null,
@@ -5665,6 +6622,9 @@
       "name": "Tennis Courts · Churchill Lane",
       "lat": 44.489222,
       "lng": -72.69657,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5684,6 +6644,9 @@
       "name": "Tennis Courts · Brush Hill Road",
       "lat": 44.471015,
       "lng": -72.662436,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5700,9 +6663,12 @@
     },
     {
       "id": "osm-w1310962459",
-      "name": "Burlington Country Club Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 44.460235,
       "lng": -73.193925,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5713,13 +6679,18 @@
       "city": null,
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1322410789",
       "name": "Birchwood Recreation Center Tennis Courts",
       "lat": 42.877496,
       "lng": -72.892219,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5736,7 +6707,10 @@
       "id": "osm-w1322410847",
       "name": "Tennis Courts · Benson Road",
       "lat": 43.159461,
-      "lng": -73.031875,
+      "lng": -73.031874,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5755,7 +6729,10 @@
       "id": "osm-w1331519538",
       "name": "Rumney Memorial School Tennis Courts",
       "lat": 44.350697,
-      "lng": -72.603685,
+      "lng": -72.603686,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5775,6 +6752,9 @@
       "name": "Tennis Courts · Farrell Street",
       "lat": 44.450969,
       "lng": -73.205087,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -5792,6 +6772,9 @@
       "name": "Tennis Courts · Martindale Road",
       "lat": 44.418916,
       "lng": -73.20684,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5811,6 +6794,9 @@
       "name": "Tennis Courts · Lake Raponda Road",
       "lat": 42.867677,
       "lng": -72.819481,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5830,6 +6816,9 @@
       "name": "Public Tennis Courts",
       "lat": 44.834979,
       "lng": -73.217492,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5849,6 +6838,9 @@
       "name": "Tennis Courts · Kipling Road",
       "lat": 42.897316,
       "lng": -72.563168,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "clay",
       "lighted": null,
@@ -5865,9 +6857,12 @@
     },
     {
       "id": "osm-w1396496478",
-      "name": "Kingsland Bay State Park Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 44.236376,
       "lng": -73.296882,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5878,13 +6873,18 @@
       "city": null,
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1420002266",
       "name": "Norwich Racquet Club",
       "lat": 43.695831,
       "lng": -72.316627,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "clay",
       "lighted": null,
@@ -5902,6 +6902,9 @@
       "name": "Tennis Courts · Okemo Trailside Extension",
       "lat": 43.398326,
       "lng": -72.73275,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5921,6 +6924,9 @@
       "name": "Tennis Courts · Indian Creek",
       "lat": 44.445608,
       "lng": -73.18256,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5940,6 +6946,9 @@
       "name": "Oakledge Park Tennis Courts",
       "lat": 44.452367,
       "lng": -73.223775,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5957,6 +6966,9 @@
       "name": "The St. Johnsbury School Tennis Courts",
       "lat": 44.414667,
       "lng": -72.024699,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -5976,6 +6988,9 @@
       "name": "Tennis Courts · Lake Morey Road",
       "lat": 43.930818,
       "lng": -72.137066,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -5992,7 +7007,10 @@
       "id": "osm-w1446294635",
       "name": "Tennis Courts · Lake Morey Road",
       "lat": 43.936522,
-      "lng": -72.136062,
+      "lng": -72.136063,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6012,6 +7030,9 @@
       "name": "Tennis Courts · Lake Morey Road",
       "lat": 43.919525,
       "lng": -72.160595,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6031,6 +7052,9 @@
       "name": "Tennis Courts · Claire Point Road",
       "lat": 44.526463,
       "lng": -73.269022,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "hard",
       "lighted": false,
@@ -6050,6 +7074,9 @@
       "name": "Bayside Park Tennis Courts",
       "lat": 44.542941,
       "lng": -73.216229,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6067,6 +7094,9 @@
       "name": "Tennis Courts · Marble Island Road",
       "lat": 44.568372,
       "lng": -73.236254,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "hard",
       "lighted": null,
@@ -6086,6 +7116,9 @@
       "name": "Molly Stark Elementary School Tennis Courts",
       "lat": 42.898576,
       "lng": -73.201462,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6105,6 +7138,9 @@
       "name": "Tennis Courts · Delancey Road",
       "lat": 43.745863,
       "lng": -73.186481,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6124,6 +7160,9 @@
       "name": "Tennis Courts · Lawnwood Drive",
       "lat": 44.44632,
       "lng": -73.086882,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6143,6 +7182,9 @@
       "name": "Tennis Courts · Greenway Loop",
       "lat": 44.464798,
       "lng": -72.741552,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6157,9 +7199,12 @@
     },
     {
       "id": "osm-w1482063216",
-      "name": "Vermont National Country Club Tennis Courts",
-      "lat": 44.443143,
+      "name": "Public Tennis Courts",
+      "lat": 44.443142,
       "lng": -73.183511,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6170,13 +7215,18 @@
       "city": null,
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1483902533",
       "name": "Cascade Park Tennis Courts",
       "lat": 44.481848,
       "lng": -73.120604,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6194,6 +7244,9 @@
       "name": "Tennis Courts · Cobleigh Square",
       "lat": 44.48631,
       "lng": -73.123722,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6213,6 +7266,9 @@
       "name": "Tennis Courts · East Street",
       "lat": 44.49062,
       "lng": -73.105695,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6231,7 +7287,10 @@
       "id": "osm-w1486074926",
       "name": "Burke Mountain Academy Tennis Courts",
       "lat": 44.591351,
-      "lng": -71.906019,
+      "lng": -71.906018,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6251,6 +7310,9 @@
       "name": "Tennis Courts · Tyler Place",
       "lat": 44.9812,
       "lng": -73.100807,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6270,6 +7332,9 @@
       "name": "Tennis Courts · Tyler Place",
       "lat": 44.979921,
       "lng": -73.1035,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6289,6 +7354,9 @@
       "name": "Tennis Courts · Shore Acres Drive",
       "lat": 44.803405,
       "lng": -73.288627,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6308,6 +7376,9 @@
       "name": "Fort Ethan Allen Parade Grounds and Park Tennis Courts",
       "lat": 44.5044,
       "lng": -73.147545,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6322,9 +7393,12 @@
     },
     {
       "id": "osm-w1486078555",
-      "name": "University of Vermont Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 44.478073,
       "lng": -73.190444,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6336,15 +7410,19 @@
       "state": "VT",
       "source": "osm",
       "tags": {
-        "context": "school"
+        "context": "residential"
       }
     },
     {
       "id": "osm-w1486085809",
       "name": "Pearl Street Park Tennis Courts",
-      "lat": 44.501518,
-      "lng": -73.129183,
-      "courtCount": 1,
+      "lat": 44.501487,
+      "lng": -73.129331,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -6361,6 +7439,9 @@
       "name": "Maple Street Park Tennis Courts",
       "lat": 44.486187,
       "lng": -73.101886,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6378,6 +7459,9 @@
       "name": "Tennis Courts · Brickyard Road",
       "lat": 44.492331,
       "lng": -73.094393,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6397,6 +7481,9 @@
       "name": "Tennis Courts · River Road",
       "lat": 44.481527,
       "lng": -73.062351,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6416,6 +7503,9 @@
       "name": "Tennis Courts · North Brownell Road",
       "lat": 44.462281,
       "lng": -73.119815,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6435,6 +7525,9 @@
       "name": "Williston Central School Tennis Courts",
       "lat": 44.440289,
       "lng": -73.075348,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6454,6 +7547,9 @@
       "name": "Jericho Elementary School Tennis Courts",
       "lat": 44.505061,
       "lng": -72.990429,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6473,6 +7569,9 @@
       "name": "Tennis Courts · Brook Road",
       "lat": 44.486489,
       "lng": -72.742743,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6492,6 +7591,9 @@
       "name": "Tennis Courts · Mountainside Drive",
       "lat": 44.476946,
       "lng": -72.717759,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6511,6 +7613,9 @@
       "name": "Tennis Courts · Herion Road",
       "lat": 44.47233,
       "lng": -72.716861,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6528,6 +7633,9 @@
       "name": "Memorial Park Tennis Courts",
       "lat": 44.461794,
       "lng": -72.685609,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "hard",
       "lighted": false,
@@ -6545,6 +7653,9 @@
       "name": "Bolton Valley Resort Tennis Courts",
       "lat": 44.422528,
       "lng": -72.851343,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -6559,9 +7670,12 @@
     },
     {
       "id": "osm-w1486096443",
-      "name": "Vermont State University Johnson Campus Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 44.641683,
       "lng": -72.66884,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6572,15 +7686,16 @@
       "city": null,
       "state": "VT",
       "source": "osm",
-      "tags": {
-        "context": "school"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1486189982",
       "name": "Hosmer Point Tennis Courts",
       "lat": 44.6989,
       "lng": -72.3553,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6598,6 +7713,9 @@
       "name": "Prouty Beach & Campground Tennis Courts",
       "lat": 44.948099,
       "lng": -72.207075,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": true,
@@ -6615,6 +7733,9 @@
       "name": "Tennis Courts · U.S. Route 5",
       "lat": 44.952815,
       "lng": -72.13315,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -6631,8 +7752,12 @@
       "id": "osm-w1486191029",
       "name": "Portus Baxter Park Tennis Courts",
       "lat": 45.003177,
-      "lng": -72.105294,
-      "courtCount": 2,
+      "lng": -72.105293,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -6649,6 +7774,9 @@
       "name": "Tennis Courts · Saybrook Road",
       "lat": 44.507977,
       "lng": -73.076156,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6668,6 +7796,9 @@
       "name": "Tennis Courts · Freeman Woods",
       "lat": 44.501534,
       "lng": -73.07702,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -6685,6 +7816,9 @@
       "name": "Baker Field Tennis Courts",
       "lat": 42.866044,
       "lng": -72.871314,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6701,7 +7835,10 @@
       "id": "osm-w1498112927",
       "name": "Tennis Courts · Tennis Court Drive",
       "lat": 43.601376,
-      "lng": -72.777648,
+      "lng": -72.777647,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -6719,6 +7856,9 @@
       "name": "U-32 Middle & High School Tennis Courts",
       "lat": 44.245241,
       "lng": -72.522697,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6738,6 +7878,9 @@
       "name": "Tennis Courts · Turcotte Road",
       "lat": 44.512132,
       "lng": -73.136116,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6757,6 +7900,9 @@
       "name": "Tennis Courts · Davis Drive",
       "lat": 43.175881,
       "lng": -73.025422,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6774,9 +7920,13 @@
     {
       "id": "osm-w1499777962",
       "name": "Tennis Courts · Eagle Nest Road",
-      "lat": 43.174568,
-      "lng": -73.041963,
-      "courtCount": 3,
+      "lat": 43.174569,
+      "lng": -73.041964,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -6793,6 +7943,9 @@
       "name": "Tennis Courts · Recreation Park Road",
       "lat": 43.183637,
       "lng": -73.054451,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -6807,9 +7960,12 @@
     },
     {
       "id": "osm-w1499933502",
-      "name": "Kingsland Bay State Park Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 44.24151,
       "lng": -73.296949,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6820,13 +7976,18 @@
       "city": null,
       "state": "VT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1499933651",
       "name": "Schifilliti Park Tennis Courts",
       "lat": 44.514187,
       "lng": -73.246743,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6844,6 +8005,9 @@
       "name": "Tennis Courts · Pitkin Road",
       "lat": 44.279504,
       "lng": -72.437249,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6863,6 +8027,9 @@
       "name": "Tennis Courts · Pond Road",
       "lat": 42.747142,
       "lng": -72.510085,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6882,6 +8049,9 @@
       "name": "Tennis Courts · Murray Hill Drive",
       "lat": 44.265725,
       "lng": -72.560663,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6898,9 +8068,12 @@
     },
     {
       "id": "osm-w1505708204",
-      "name": "Elm Street Recreation Area Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 44.278024,
       "lng": -72.571951,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6918,6 +8091,9 @@
       "name": "Barre City Elementary & Middle School Tennis Courts",
       "lat": 44.183672,
       "lng": -72.502656,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6933,11 +8109,15 @@
       }
     },
     {
-      "id": "osm-w1505708846",
+      "id": "osm-w1505708840",
       "name": "Barre Town Middle & Elementary School Tennis Courts",
-      "lat": 44.167325,
-      "lng": -72.489121,
-      "courtCount": 2,
+      "lat": 44.167563,
+      "lng": -72.489027,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -6956,6 +8136,9 @@
       "name": "Tennis Courts · Doctors Brook Road",
       "lat": 44.246931,
       "lng": -72.7593,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6975,6 +8158,9 @@
       "name": "Tennis Courts · Mill Brook Road",
       "lat": 44.193549,
       "lng": -72.891736,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6994,6 +8180,9 @@
       "name": "Wainer Community Playground & Park Tennis Courts",
       "lat": 44.325118,
       "lng": -73.107482,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7011,6 +8200,9 @@
       "name": "Shoreham Elementary School Tennis Courts",
       "lat": 43.892289,
       "lng": -73.317379,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7030,6 +8222,9 @@
       "name": "Tennis Courts · Camp Road",
       "lat": 43.741245,
       "lng": -73.210114,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -7043,11 +8238,15 @@
       "tags": {}
     },
     {
-      "id": "osm-w1505711976",
+      "id": "osm-w1505711972",
       "name": "Pittsford Recreation Area Tennis Courts",
       "lat": 43.711792,
-      "lng": -73.016908,
-      "courtCount": 2,
+      "lng": -73.016907,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -7064,6 +8263,9 @@
       "name": "Proctor Junior / Senior High School Tennis Courts",
       "lat": 43.65577,
       "lng": -73.029447,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7083,6 +8285,9 @@
       "name": "Tennis Courts · Vermont Route 3",
       "lat": 43.607045,
       "lng": -73.01446,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7101,7 +8306,10 @@
       "id": "osm-w1505712521",
       "name": "Whites Memorial Park Tennis Courts",
       "lat": 43.600322,
-      "lng": -72.966908,
+      "lng": -72.966907,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -7119,6 +8327,9 @@
       "name": "Tennis Courts · High Ridge Road",
       "lat": 43.633326,
       "lng": -72.777899,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7138,6 +8349,9 @@
       "name": "Tennis Courts · River Road",
       "lat": 43.673649,
       "lng": -72.778539,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -7155,6 +8369,9 @@
       "name": "Barnard Academy Tennis Courts",
       "lat": 43.726798,
       "lng": -72.620139,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7174,6 +8391,9 @@
       "name": "Tennis Courts · Quechee Main Street",
       "lat": 43.656067,
       "lng": -72.441074,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -7189,9 +8409,13 @@
     {
       "id": "osm-w1505727170",
       "name": "Riverside Park Tennis Courts",
-      "lat": 43.306462,
-      "lng": -72.497325,
-      "courtCount": 6,
+      "lat": 43.306565,
+      "lng": -72.497371,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 12,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -7208,6 +8432,9 @@
       "name": "Tennis Courts · Common Street",
       "lat": 43.263627,
       "lng": -72.600049,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7227,6 +8454,9 @@
       "name": "Tennis Courts · Redbrook Road",
       "lat": 43.156196,
       "lng": -72.879883,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7246,6 +8476,9 @@
       "name": "Arlington Recreation Park Tennis Courts",
       "lat": 43.080853,
       "lng": -73.150533,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7263,6 +8496,9 @@
       "name": "Memorial Park Tennis Courts",
       "lat": 42.880507,
       "lng": -73.184572,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -7280,6 +8516,9 @@
       "name": "Tennis Courts · Tanglewood Lane",
       "lat": 42.971305,
       "lng": -72.887127,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -7297,6 +8536,9 @@
       "name": "Tennis Courts · Brickyard Road",
       "lat": 44.493893,
       "lng": -73.097506,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7316,6 +8558,9 @@
       "name": "Tennis Courts · Peavine Drive",
       "lat": 43.87537,
       "lng": -72.811442,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "hard",
       "lighted": null,
@@ -7334,8 +8579,12 @@
       "id": "osm-w1526899407",
       "name": "Bombardier Park East Tennis Courts",
       "lat": 44.615913,
-      "lng": -73.122252,
-      "courtCount": 3,
+      "lng": -73.122462,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 7,
       "surface": "hard",
       "lighted": false,
       "indoor": null,
@@ -7350,9 +8599,13 @@
     {
       "id": "osm-w1526899501",
       "name": "Sand Hill Park Tennis Courts",
-      "lat": 44.507357,
-      "lng": -73.057394,
-      "courtCount": 1,
+      "lat": 44.507315,
+      "lng": -73.057529,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 5,
       "surface": "unknown",
       "lighted": true,
       "indoor": null,
@@ -7369,7 +8622,11 @@
       "name": "Tennis Courts · Big Dock Court",
       "lat": 44.293993,
       "lng": -73.300129,
-      "courtCount": 2,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -7377,6 +8634,26 @@
       "fee": null,
       "address": "Big Dock Court",
       "city": "Charlotte",
+      "state": "VT",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1534449958",
+      "name": "Tennis Courts · River Road",
+      "lat": 43.814602,
+      "lng": -72.182949,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": "River Road",
+      "city": "Lyme",
       "state": "VT",
       "source": "osm",
       "tags": {
@@ -7388,6 +8665,9 @@
       "name": "Hazen Union School Tennis Courts",
       "lat": 44.508491,
       "lng": -72.362826,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7407,6 +8687,9 @@
       "name": "Poultney Elementary School Tennis Courts",
       "lat": 43.524931,
       "lng": -73.238726,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7426,6 +8709,9 @@
       "name": "Bennington College Tennis Courts",
       "lat": 42.91844,
       "lng": -73.242502,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -7444,8 +8730,12 @@
       "id": "osm-w1546041807",
       "name": "Tennis Courts · North Shore Road",
       "lat": 44.417303,
-      "lng": -72.219552,
-      "courtCount": 2,
+      "lng": -72.219551,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -7455,15 +8745,16 @@
       "city": "Danville",
       "state": "VT",
       "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1549428487",
       "name": "Woodbury Elementary School Tennis Courts",
       "lat": 44.439987,
       "lng": -72.416752,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7483,6 +8774,9 @@
       "name": "Tennis Courts · Gonyeau Road",
       "lat": 44.228314,
       "lng": -72.430797,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7502,6 +8796,9 @@
       "name": "Tennis Courts · West Shore Road",
       "lat": 44.403758,
       "lng": -72.223557,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7519,9 +8816,13 @@
     {
       "id": "osm-w1552422405",
       "name": "Lake Region Union High School Tennis Courts",
-      "lat": 44.783832,
-      "lng": -72.220181,
-      "courtCount": 3,
+      "lat": 44.783896,
+      "lng": -72.220166,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -7540,6 +8841,9 @@
       "name": "Tennis Courts · Morrissey Place",
       "lat": 44.631965,
       "lng": -71.863168,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7559,6 +8863,9 @@
       "name": "Montpelier High School Tennis Courts",
       "lat": 44.259338,
       "lng": -72.588118,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "hard",
       "lighted": null,
@@ -7578,6 +8885,9 @@
       "name": "Tennis Courts · Vermont Route 14",
       "lat": 44.093193,
       "lng": -72.549315,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -7595,7 +8905,95 @@
       "name": "Warren Elementary School Tennis Courts",
       "lat": 44.116653,
       "lng": -72.850711,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 6,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "VT",
+      "source": "osm",
+      "tags": {
+        "context": "school"
+      }
+    },
+    {
+      "id": "osm-w1553763939",
+      "name": "Public Tennis Courts",
+      "lat": 43.0729,
+      "lng": -73.158126,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "VT",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
+      "id": "osm-w1553764026",
+      "name": "Public Tennis Courts",
+      "lat": 43.254978,
+      "lng": -73.101147,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 4,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "VT",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1553764243",
+      "name": "Public Tennis Courts",
+      "lat": 43.256406,
+      "lng": -73.104267,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 7,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "VT",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1553766719",
+      "name": "Currier Memorial School Tennis Courts",
+      "lat": 43.349136,
+      "lng": -72.99528,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,

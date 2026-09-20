@@ -7,6 +7,9 @@
       "name": "Fort Marcy Sports Complex",
       "lat": 35.694616,
       "lng": -105.935806,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -20,10 +23,35 @@
       "tags": {}
     },
     {
+      "id": "osm-n14155855024",
+      "name": "Public Tennis Courts",
+      "lat": 31.910153,
+      "lng": -106.640409,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NM",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
       "id": "osm-w40117221",
       "name": "Rio Rancho High School Tennis Courts",
       "lat": 35.263231,
       "lng": -106.668872,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -43,6 +71,9 @@
       "name": "Cibola High School Tennis Courts",
       "lat": 35.20506,
       "lng": -106.665446,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -62,6 +93,9 @@
       "name": "La Cueva High School Tennis Courts",
       "lat": 35.182286,
       "lng": -106.557705,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -78,10 +112,14 @@
     },
     {
       "id": "osm-w48494722",
-      "name": "Four Hills Golf Course Tennis Courts",
-      "lat": 35.052396,
-      "lng": -106.492692,
-      "courtCount": 5,
+      "name": "Public Tennis Courts",
+      "lat": 35.052423,
+      "lng": -106.492624,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -98,6 +136,9 @@
       "name": "Jerry Cline Tennis Center",
       "lat": 35.095324,
       "lng": -106.567546,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 18,
       "surface": "unknown",
       "lighted": null,
@@ -115,6 +156,9 @@
       "name": "Tennis Center",
       "lat": 32.276307,
       "lng": -106.742706,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 12,
       "surface": "unknown",
       "lighted": null,
@@ -132,6 +176,9 @@
       "name": "Don Juan de Oñate Park Tennis Courts",
       "lat": 35.105922,
       "lng": -106.505753,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -149,6 +196,9 @@
       "name": "Eldorado High School Tennis Courts",
       "lat": 35.126877,
       "lng": -106.514587,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -168,6 +218,9 @@
       "name": "Picacho Hills Country Club Tennis Courts",
       "lat": 32.313211,
       "lng": -106.871035,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -185,6 +238,9 @@
       "name": "Tennis Courts · Martino Road",
       "lat": 34.475076,
       "lng": -106.769374,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -204,6 +260,9 @@
       "name": "Madison Middle School Tennis Courts",
       "lat": 35.123215,
       "lng": -106.54479,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -223,6 +282,9 @@
       "name": "Aztec Park Tennis Courts",
       "lat": 35.121641,
       "lng": -106.541387,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -237,9 +299,12 @@
     },
     {
       "id": "osm-w120028991",
-      "name": "Manzano High School Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 35.084668,
       "lng": -106.512731,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -250,15 +315,16 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {
-        "context": "school"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w124185914",
       "name": "White Mountain Recreation Complex Tennis Courts",
       "lat": 33.355473,
       "lng": -105.660304,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -276,6 +342,9 @@
       "name": "Tennis Courts · Hull Loop",
       "lat": 33.350074,
       "lng": -105.65887,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -295,6 +364,9 @@
       "name": "White Sands Community Tennis Courts",
       "lat": 32.88527,
       "lng": -105.955672,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -305,13 +377,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w133950131",
       "name": "Valle del Sol Park Tennis Courts",
       "lat": 33.641104,
-      "lng": -105.859031,
+      "lng": -105.85903,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -329,6 +406,9 @@
       "name": "Gene Speer Tennis Complex",
       "lat": 33.133832,
       "lng": -107.252245,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "hard",
       "lighted": true,
@@ -346,6 +426,9 @@
       "name": "Twin Warriors Golf Club Tennis Courts",
       "lat": 35.352132,
       "lng": -106.544325,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -363,6 +446,9 @@
       "name": "Tennis Courts · South Broadway Street",
       "lat": 33.114195,
       "lng": -107.2959,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -382,6 +468,9 @@
       "name": "Tennis Courts · Elenora Street",
       "lat": 32.919338,
       "lng": -107.567903,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -401,6 +490,9 @@
       "name": "Atrisco Heritage Academy High School Tennis Courts",
       "lat": 35.021953,
       "lng": -106.745723,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -417,9 +509,12 @@
     },
     {
       "id": "osm-w159745134",
-      "name": "Cleveland High School Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 35.31048,
       "lng": -106.643595,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -430,15 +525,16 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {
-        "context": "school"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w164139609",
       "name": "University of New Mexico Tennis Courts",
       "lat": 35.08403,
       "lng": -106.617524,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -458,6 +554,9 @@
       "name": "Johnson Gym",
       "lat": 35.08236,
       "lng": -106.618174,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -478,6 +577,9 @@
       "name": "Ralph Edwards Park Tennis Courts",
       "lat": 33.129332,
       "lng": -107.2476,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": true,
@@ -495,6 +597,9 @@
       "name": "Wellesley Park Tennis Courts",
       "lat": 35.077032,
       "lng": -106.607927,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "hard",
       "lighted": null,
@@ -512,6 +617,9 @@
       "name": "Sister Cities Park Tennis Courts",
       "lat": 35.151498,
       "lng": -106.579334,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -529,6 +637,9 @@
       "name": "Wilson Park Tennis Courts",
       "lat": 35.062757,
       "lng": -106.579385,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -546,6 +657,9 @@
       "name": "Alamosa Park Tennis Courts",
       "lat": 35.071728,
       "lng": -106.70749,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -563,6 +677,9 @@
       "name": "Lions Park Tennis Courts",
       "lat": 32.314438,
       "lng": -106.788817,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -580,6 +697,9 @@
       "name": "Highland High School Tennis Courts",
       "lat": 35.073471,
       "lng": -106.587468,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -599,6 +719,9 @@
       "name": "Arroyo del Oso Park (Soccer and Tennis Complex)",
       "lat": 35.139118,
       "lng": -106.551741,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 9,
       "surface": "unknown",
       "lighted": null,
@@ -616,6 +739,9 @@
       "name": "Stardust Skies Park Tennis Courts",
       "lat": 35.128426,
       "lng": -106.5614,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -633,6 +759,9 @@
       "name": "Lynnewood Park Tennis Courts",
       "lat": 35.113731,
       "lng": -106.501599,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -646,10 +775,13 @@
       "tags": {}
     },
     {
-      "id": "osm-r15480054",
-      "name": "Myrtle Street Tennis Court",
-      "lat": 35.882814,
-      "lng": -106.296586,
+      "id": "osm-w175160709",
+      "name": "Public Tennis Courts",
+      "lat": 35.882749,
+      "lng": -106.296488,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "hard",
       "lighted": false,
@@ -667,6 +799,9 @@
       "name": "Montgomery Park Tennis Courts",
       "lat": 35.126441,
       "lng": -106.581152,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -684,6 +819,9 @@
       "name": "Nageezi indoor tennis court and athletic center",
       "lat": 36.261149,
       "lng": -107.742166,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -701,6 +839,9 @@
       "name": "Western New Mexico University Tennis Courts",
       "lat": 32.777024,
       "lng": -108.28769,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -720,6 +861,9 @@
       "name": "Farmington Sports Complex Tennis Courts",
       "lat": 36.752582,
       "lng": -108.235274,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -737,6 +881,9 @@
       "name": "Altura Park Tennis Courts",
       "lat": 35.098265,
       "lng": -106.59915,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "hard",
       "lighted": false,
@@ -754,6 +901,9 @@
       "name": "Carlsbad High School Tennis Courts",
       "lat": 32.430594,
       "lng": -104.26262,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 9,
       "surface": "unknown",
       "lighted": true,
@@ -769,10 +919,33 @@
       }
     },
     {
+      "id": "osm-w192685388",
+      "name": "Fort Marcy Complex Pickleball Courts",
+      "lat": 35.696362,
+      "lng": -105.936165,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 6,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NM",
+      "source": "osm",
+      "tags": {}
+    },
+    {
       "id": "osm-w193954498",
       "name": "New Mexico Military Institute Tennis Courts",
       "lat": 33.413166,
       "lng": -104.526868,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -792,6 +965,9 @@
       "name": "Volcano Vista High School Tennis Courts",
       "lat": 35.176936,
       "lng": -106.73186,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -811,6 +987,9 @@
       "name": "Avalon Park Tennis Courts",
       "lat": 35.079498,
       "lng": -106.73691,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -824,27 +1003,13 @@
       "tags": {}
     },
     {
-      "id": "osm-w197723501",
-      "name": "Hobbs City Park Tennis Courts",
-      "lat": 32.705854,
-      "lng": -103.12526,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "NM",
-      "source": "osm",
-      "tags": {}
-    },
-    {
       "id": "osm-w198402255",
-      "name": "North Community Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 35.901751,
       "lng": -106.31783,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -855,13 +1020,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w220727887",
       "name": "Tennis Courts · East 3rd Street",
       "lat": 34.185582,
       "lng": -103.333722,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -879,6 +1049,9 @@
       "name": "Valley Tennis Courts",
       "lat": 35.126768,
       "lng": -106.660996,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -893,9 +1066,12 @@
     },
     {
       "id": "osm-w227081258",
-      "name": "Larragoite Park Tennis Courts",
+      "name": "Barrio La Canada Tennis Courts",
       "lat": 35.676942,
       "lng": -105.966582,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -906,13 +1082,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w237130818",
-      "name": "Barranca Mesa Park Tennis Courts",
+      "name": "Loma del Escolar Street Tennis Courts",
       "lat": 35.902918,
       "lng": -106.280284,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -930,6 +1111,9 @@
       "name": "Rover Park Tennis Courts",
       "lat": 35.815958,
       "lng": -106.200958,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -947,6 +1131,9 @@
       "name": "Public Tennis Courts",
       "lat": 35.470433,
       "lng": -105.879667,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": false,
@@ -966,6 +1153,9 @@
       "name": "Pershing Park Tennis Courts",
       "lat": 35.061574,
       "lng": -106.553257,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "hard",
       "lighted": null,
@@ -983,6 +1173,9 @@
       "name": "Hoffman Park Tennis Courts",
       "lat": 35.111354,
       "lng": -106.54728,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -1000,6 +1193,9 @@
       "name": "Towa Golf Club Tennis Courts",
       "lat": 35.862451,
       "lng": -105.995029,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -1017,6 +1213,9 @@
       "name": "San Jon Municipal Park Tennis Courts",
       "lat": 35.106853,
       "lng": -103.331756,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1034,6 +1233,9 @@
       "name": "Albuquerque Academy Tennis Courts",
       "lat": 35.152498,
       "lng": -106.550226,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 16,
       "surface": "unknown",
       "lighted": null,
@@ -1053,6 +1255,9 @@
       "name": "El Gancho",
       "lat": 35.625222,
       "lng": -105.917957,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 7,
       "surface": "unknown",
       "lighted": null,
@@ -1070,6 +1275,9 @@
       "name": "Tennis Courts · 8th Street Southwest",
       "lat": 35.077787,
       "lng": -106.657008,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1089,6 +1297,9 @@
       "name": "William C. Witter Fitness Education Center",
       "lat": 35.605657,
       "lng": -105.99426,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": false,
@@ -1106,6 +1317,9 @@
       "name": "Highpoint Sports & Wellness Center Tennis Courts",
       "lat": 35.12879,
       "lng": -106.49365,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 15,
       "surface": "unknown",
       "lighted": null,
@@ -1123,6 +1337,9 @@
       "name": "Herb Martinez Park Tennis Courts",
       "lat": 35.648162,
       "lng": -105.985562,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1140,6 +1357,9 @@
       "name": "University Of New Mexico South Campus Tennis Courts",
       "lat": 35.06577,
       "lng": -106.634152,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -1159,6 +1379,9 @@
       "name": "Sedillo Park Tennis Courts",
       "lat": 34.069154,
       "lng": -106.89768,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1176,6 +1399,9 @@
       "name": "Tennis Courts · La Vida Trail",
       "lat": 35.692953,
       "lng": -106.01692,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1195,6 +1421,9 @@
       "name": "Tennis Courts · Chisholm Trail",
       "lat": 35.725501,
       "lng": -106.046175,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1214,6 +1443,9 @@
       "name": "Tennis Courts · Foothills Road",
       "lat": 35.650829,
       "lng": -105.918261,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1233,6 +1465,9 @@
       "name": "Tennis Courts · Altazano Drive",
       "lat": 35.651199,
       "lng": -105.916052,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1252,6 +1487,9 @@
       "name": "Los Senderos Tennis Courts",
       "lat": 35.650538,
       "lng": -105.926156,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1262,13 +1500,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w327170575",
-      "name": "Tierra de Oro Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 35.711052,
       "lng": -105.987372,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1279,13 +1522,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w340387716",
       "name": "Towne Park Tennis Courts",
       "lat": 35.074661,
       "lng": -106.530754,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1296,13 +1544,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w341662444",
       "name": "West Mesa High School Tennis Courts",
       "lat": 35.096948,
       "lng": -106.714143,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1322,6 +1575,9 @@
       "name": "Student Activities Center",
       "lat": 35.669415,
       "lng": -105.915166,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -1339,6 +1595,9 @@
       "name": "Outdoor Pool Tennis Courts",
       "lat": 35.064666,
       "lng": -106.540009,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1356,6 +1615,9 @@
       "name": "Tennis Courts · Silver Heights Boulevard",
       "lat": 32.75834,
       "lng": -108.144557,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 9,
       "surface": "unknown",
       "lighted": null,
@@ -1370,9 +1632,12 @@
     },
     {
       "id": "osm-w362341655",
-      "name": "Bernalillo High Tennis Courts",
+      "name": "Bernalillo High School Tennis Courts",
       "lat": 35.319208,
       "lng": -106.539818,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1392,6 +1657,9 @@
       "name": "Fifth Street Park Tennis Courts",
       "lat": 33.398043,
       "lng": -104.512791,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1409,6 +1677,9 @@
       "name": "Museum Hill Tennis Courts",
       "lat": 35.668366,
       "lng": -105.928805,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1426,6 +1697,9 @@
       "name": "Tennis Courts · Nature Pointe Drive",
       "lat": 35.101501,
       "lng": -106.314856,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1445,6 +1719,9 @@
       "name": "Tennis Courts · D Avenue Southeast",
       "lat": 35.058334,
       "lng": -106.551069,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1464,6 +1741,9 @@
       "name": "Bosque School Tennis Courts",
       "lat": 35.14247,
       "lng": -106.689124,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": false,
@@ -1483,6 +1763,9 @@
       "name": "Tennis Courts · Coyote Springs Road Southeast",
       "lat": 35.024482,
       "lng": -106.459204,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1502,6 +1785,9 @@
       "name": "Tennis Courts · Coyote Springs Road Southeast",
       "lat": 35.037026,
       "lng": -106.457576,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": null,
@@ -1521,6 +1807,9 @@
       "name": "Tennis Courts · East Main Street",
       "lat": 36.698906,
       "lng": -105.393684,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1540,6 +1829,9 @@
       "name": "Menaul School Tennis Courts",
       "lat": 35.113553,
       "lng": -106.636672,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1559,6 +1851,9 @@
       "name": "Tennis Courts · Rio Grande Boulevard Northwest",
       "lat": 35.158353,
       "lng": -106.654459,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -1576,6 +1871,9 @@
       "name": "Tennis Courts · The 25 Way Northeast",
       "lat": 35.146614,
       "lng": -106.591825,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": null,
@@ -1595,6 +1893,9 @@
       "name": "Gadsden High School Tennis Courts",
       "lat": 31.995744,
       "lng": -106.659404,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -1614,6 +1915,9 @@
       "name": "Tomasita Elementary School Tennis Courts",
       "lat": 35.082652,
       "lng": -106.524532,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1633,6 +1937,9 @@
       "name": "Lobo Tennis Club",
       "lat": 35.064919,
       "lng": -106.630053,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 7,
       "surface": "unknown",
       "lighted": null,
@@ -1650,6 +1957,9 @@
       "name": "Kirtland Air Force Base Fitness Center (East) Tennis Courts",
       "lat": 35.055607,
       "lng": -106.557261,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -1667,6 +1977,9 @@
       "name": "Tennis Courts · Capitan Avenue",
       "lat": 34.939335,
       "lng": -104.684389,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1686,6 +1999,9 @@
       "name": "Ron Shirley Alto Park Tennis Courts",
       "lat": 35.685785,
       "lng": -105.963817,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "hard",
       "lighted": true,
@@ -1703,6 +2019,9 @@
       "name": "Salvador Perez",
       "lat": 35.670962,
       "lng": -105.952762,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1720,6 +2039,9 @@
       "name": "Tennis Courts · Tramway Loop Northeast",
       "lat": 35.193616,
       "lng": -106.489095,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1739,6 +2061,9 @@
       "name": "Tennis Courts · Tanner Avenue",
       "lat": 35.504675,
       "lng": -108.730305,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1758,6 +2083,9 @@
       "name": "Tennis Courts · East Wilson Avenue",
       "lat": 35.535622,
       "lng": -108.731128,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1777,6 +2105,9 @@
       "name": "Amelia White Park Tennis Courts",
       "lat": 35.672424,
       "lng": -105.930492,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1794,6 +2125,9 @@
       "name": "Tennis Courts · South Entrance",
       "lat": 35.674881,
       "lng": -105.931429,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1813,6 +2147,9 @@
       "name": "Atalaya Park Tennis Courts",
       "lat": 35.672686,
       "lng": -105.911805,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1828,9 +2165,13 @@
     {
       "id": "osm-w474211500",
       "name": "Santa Fe Tennis and Swim Club",
-      "lat": 35.660905,
-      "lng": -105.92985,
-      "courtCount": 6,
+      "lat": 35.660874,
+      "lng": -105.929784,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -1849,6 +2190,9 @@
       "name": "Tennis Courts · Harkle Road",
       "lat": 35.659938,
       "lng": -105.952254,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1868,6 +2212,9 @@
       "name": "Tennis Courts · Midtown Avenida D",
       "lat": 35.65398,
       "lng": -105.977104,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1887,6 +2234,9 @@
       "name": "Quail Run Santa Fe Tennis Courts",
       "lat": 35.642226,
       "lng": -105.928449,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1904,6 +2254,9 @@
       "name": "Rio Grande Park Tennis Courts",
       "lat": 35.086393,
       "lng": -106.672189,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1921,6 +2274,9 @@
       "name": "Los Arroyos Compound Tennis Courts",
       "lat": 35.655285,
       "lng": -105.945347,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1931,13 +2287,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w478506322",
       "name": "Tennis Courts · Malaga Road",
       "lat": 35.669733,
       "lng": -105.94431,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1957,6 +2318,9 @@
       "name": "Tennis Courts · D and S Trailer Ranch Road",
       "lat": 35.496737,
       "lng": -108.815419,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1971,9 +2335,12 @@
     },
     {
       "id": "osm-w483793047",
-      "name": "Santa Fe High School Tennis Courts",
+      "name": "Zia Vista Condominiums Tennis Courts",
       "lat": 35.645452,
       "lng": -105.972883,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1985,14 +2352,17 @@
       "state": "NM",
       "source": "osm",
       "tags": {
-        "context": "school"
+        "context": "residential"
       }
     },
     {
       "id": "osm-w483797883",
       "name": "Ragle Park Tennis Courts",
       "lat": 35.64199,
-      "lng": -105.970962,
+      "lng": -105.970961,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2010,6 +2380,9 @@
       "name": "Handball Court",
       "lat": 35.643807,
       "lng": -105.97329,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": false,
@@ -2023,29 +2396,13 @@
       "tags": {}
     },
     {
-      "id": "osm-w494041621",
-      "name": "Tennis Courts · El Caminito Street",
-      "lat": 35.677007,
-      "lng": -105.926672,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": "El Caminito Street",
-      "city": "Santa Fe",
-      "state": "NM",
-      "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
-    },
-    {
       "id": "osm-w521977381",
       "name": "Pat Hurley Park Tennis Courts",
       "lat": 35.088609,
       "lng": -106.69758,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -2063,6 +2420,9 @@
       "name": "Thomas Village Tennis Courts",
       "lat": 35.119472,
       "lng": -106.687195,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2073,13 +2433,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w529242430",
       "name": "Tennis Courts · Calle de Tierra Northeast",
       "lat": 35.134666,
       "lng": -106.490365,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "hard",
       "lighted": null,
@@ -2099,6 +2464,9 @@
       "name": "Tennis Courts · Royene Avenue Northeast",
       "lat": 35.096745,
       "lng": -106.591269,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2118,6 +2486,9 @@
       "name": "Treehouse Apartments Tennis Courts",
       "lat": 35.133209,
       "lng": -106.532608,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2128,13 +2499,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w533659229",
       "name": "Eagle Point Apartments Tennis Courts",
       "lat": 35.132685,
       "lng": -106.525443,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2145,13 +2521,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w534079554",
       "name": "Tennis Courts · Mesquite Drive Northeast",
       "lat": 35.147563,
       "lng": -106.563228,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2171,6 +2552,9 @@
       "name": "Tennis Courts · La Jara Court Northeast",
       "lat": 35.147538,
       "lng": -106.564615,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2190,6 +2574,9 @@
       "name": "Fox Memorial Park Tennis Courts",
       "lat": 35.0847,
       "lng": -106.581391,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "hard",
       "lighted": false,
@@ -2207,6 +2594,9 @@
       "name": "Tennis Courts · Indian School Road Northeast",
       "lat": 35.102754,
       "lng": -106.612439,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 14,
       "surface": "unknown",
       "lighted": null,
@@ -2223,7 +2613,10 @@
       "id": "osm-w537460738",
       "name": "Tennis Courts · Parkland Circle Southeast",
       "lat": 35.069103,
-      "lng": -106.603761,
+      "lng": -106.60376,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2243,6 +2636,9 @@
       "name": "Tennis Courts · Morningside Drive Southeast",
       "lat": 35.069649,
       "lng": -106.600019,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2262,6 +2658,9 @@
       "name": "High Desert Park Tennis Courts",
       "lat": 35.15138,
       "lng": -106.490636,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2279,6 +2678,9 @@
       "name": "Tennis Courts · Odlum Drive Southeast",
       "lat": 35.054689,
       "lng": -106.570418,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2298,6 +2700,9 @@
       "name": "Tennis Courts · Louisiana Boulevard Southeast",
       "lat": 35.055933,
       "lng": -106.569133,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2317,6 +2722,9 @@
       "name": "Tanoan Golf Course Zia 9 Tennis Courts",
       "lat": 35.157118,
       "lng": -106.519854,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 14,
       "surface": "unknown",
       "lighted": null,
@@ -2334,6 +2742,9 @@
       "name": "Quintessence Park Tennis Courts",
       "lat": 35.1626,
       "lng": -106.53319,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2351,6 +2762,9 @@
       "name": "Tennis Courts · Santa Monica Drive Northeast",
       "lat": 35.161657,
       "lng": -106.504651,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2370,6 +2784,9 @@
       "name": "Mountain View Middle School Tennis Courts",
       "lat": 35.325334,
       "lng": -106.587206,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2389,6 +2806,9 @@
       "name": "Tennis Courts · San Rafael Avenue Northeast",
       "lat": 35.163337,
       "lng": -106.51676,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2408,6 +2828,9 @@
       "name": "Tennis Courts · San Rafael Avenue Northeast",
       "lat": 35.163667,
       "lng": -106.514879,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2427,6 +2850,9 @@
       "name": "Tennis Courts · San Francisco Road Northeast",
       "lat": 35.166276,
       "lng": -106.520412,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2443,9 +2869,12 @@
     },
     {
       "id": "osm-w555577321",
-      "name": "Four Hills Village Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 35.055667,
       "lng": -106.492514,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2456,13 +2885,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w555875548",
       "name": "Jubilee Tennis Courts",
       "lat": 34.816437,
       "lng": -106.79291,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2473,13 +2907,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w557078918",
       "name": "Tennis Courts · San Francisco Road Northeast",
       "lat": 35.167465,
       "lng": -106.531976,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2499,6 +2938,9 @@
       "name": "Tennis Courts · Jemez Drive",
       "lat": 34.69298,
       "lng": -106.739483,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2518,6 +2960,9 @@
       "name": "Tennis Courts · Tierra del Rio Northwest",
       "lat": 35.138985,
       "lng": -106.654049,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -2535,6 +2980,9 @@
       "name": "Tennis Courts · Paseo del Bosque Trail",
       "lat": 35.150295,
       "lng": -106.670187,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2554,6 +3002,9 @@
       "name": "Tennis Courts · El Alhambra Circle Northwest",
       "lat": 35.157337,
       "lng": -106.652301,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2573,6 +3024,9 @@
       "name": "Tennis Courts · El Alhambra Circle Northwest",
       "lat": 35.156608,
       "lng": -106.650283,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2592,6 +3046,9 @@
       "name": "Tennis Courts · El Alhambra Circle Northwest",
       "lat": 35.157875,
       "lng": -106.649779,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2611,6 +3068,9 @@
       "name": "Tennis Courts · Salamanca Northwest",
       "lat": 35.153432,
       "lng": -106.65044,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2630,6 +3090,9 @@
       "name": "Tennis Courts · Eakes Road Northwest",
       "lat": 35.157794,
       "lng": -106.666128,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2649,6 +3112,9 @@
       "name": "Tennis Courts · Eakes Bates Road Northwest",
       "lat": 35.156585,
       "lng": -106.664435,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2668,6 +3134,9 @@
       "name": "Tennis Courts · El Prado Road Northwest",
       "lat": 35.161899,
       "lng": -106.655811,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2687,6 +3156,9 @@
       "name": "Public Tennis Courts",
       "lat": 35.169182,
       "lng": -106.651359,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2706,6 +3178,9 @@
       "name": "Tennis Courts · Pueblo Solano Road Northwest",
       "lat": 35.164166,
       "lng": -106.641525,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2725,6 +3200,9 @@
       "name": "Tennis Courts · Mateo Prado Northwest",
       "lat": 35.122574,
       "lng": -106.664199,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2744,6 +3222,9 @@
       "name": "Tennis Courts · Paseo del Bosque Northwest",
       "lat": 35.203395,
       "lng": -106.621611,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2763,6 +3244,9 @@
       "name": "Four Hills Mobile Home Park Tennis Courts",
       "lat": 35.066232,
       "lng": -106.512951,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2773,13 +3257,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w597092008",
-      "name": "Four Hills Village Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 35.045376,
       "lng": -106.485708,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2790,13 +3279,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w597092108",
-      "name": "Four Hills Village Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 35.046023,
       "lng": -106.495195,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2807,13 +3301,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w597093433",
       "name": "Tennis Courts · Lawrence Drive Northeast",
       "lat": 35.07005,
       "lng": -106.492227,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2833,6 +3332,9 @@
       "name": "Tennis Courts · Piedras Road Northeast",
       "lat": 35.072138,
       "lng": -106.487956,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2852,6 +3354,9 @@
       "name": "Tennis Courts · Hilldale Road Northeast",
       "lat": 35.074111,
       "lng": -106.48542,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2871,6 +3376,9 @@
       "name": "Lauren C. Bolles Park Tennis Courts",
       "lat": 35.074058,
       "lng": -106.50027,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -2885,9 +3393,12 @@
     },
     {
       "id": "osm-w597441310",
-      "name": "Four Hills Village Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 35.045378,
       "lng": -106.504615,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2898,13 +3409,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w598148027",
       "name": "Tennis Courts · Coronado Freeway",
       "lat": 35.093879,
       "lng": -106.561384,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2924,6 +3440,9 @@
       "name": "Four Hills Village Park Tennis Courts",
       "lat": 35.054683,
       "lng": -106.50403,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2941,6 +3460,9 @@
       "name": "Tennis Courts · Alameda Drain Trail",
       "lat": 35.117839,
       "lng": -106.658509,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2960,6 +3482,9 @@
       "name": "Tennis Courts · Camino Amparo Northwest",
       "lat": 35.121584,
       "lng": -106.662061,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2978,7 +3503,10 @@
       "id": "osm-w598986315",
       "name": "Tennis Courts · Camino Gusto Northwest",
       "lat": 35.119485,
-      "lng": -106.664159,
+      "lng": -106.66416,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2998,6 +3526,9 @@
       "name": "Tennis Courts · Candelaria Road Northwest",
       "lat": 35.125051,
       "lng": -106.671821,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3017,6 +3548,9 @@
       "name": "Thomas Village Tennis Courts",
       "lat": 35.121224,
       "lng": -106.679482,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3027,14 +3561,19 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
-      "id": "osm-r8391543",
+      "id": "osm-w598996089",
       "name": "Del Norte High School Tennis Courts",
-      "lat": 35.133101,
-      "lng": -106.585628,
-      "courtCount": 4,
+      "lat": 35.133099,
+      "lng": -106.585528,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -3053,6 +3592,9 @@
       "name": "Little Turtle Townhouses Tennis Courts",
       "lat": 35.132903,
       "lng": -106.561155,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3063,13 +3605,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w600383353",
       "name": "Four Hills Mobile Home Park Tennis Courts",
       "lat": 35.060108,
-      "lng": -106.501514,
+      "lng": -106.501513,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": null,
@@ -3080,13 +3627,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w602665986",
       "name": "Tennis Courts · South Lomas Channel",
       "lat": 35.086454,
       "lng": -106.485688,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3106,6 +3658,9 @@
       "name": "Tennis Courts · Burnham Road",
       "lat": 36.737389,
       "lng": -108.162251,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3125,6 +3680,9 @@
       "name": "Sierra Vista West Tennis Courts",
       "lat": 35.153532,
       "lng": -106.695733,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 10,
       "surface": "unknown",
       "lighted": null,
@@ -3142,6 +3700,9 @@
       "name": "Lynn Middle School Tennis Courts",
       "lat": 32.307948,
       "lng": -106.753299,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3161,6 +3722,9 @@
       "name": "Tennis Courts · Ojo Feliz Street Southwest",
       "lat": 35.056511,
       "lng": -106.714202,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3180,6 +3744,9 @@
       "name": "Carlos Rey Park Tennis Courts",
       "lat": 35.050338,
       "lng": -106.750225,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3197,6 +3764,9 @@
       "name": "Sunrise Terrace Park Tennis Courts",
       "lat": 35.059534,
       "lng": -106.745609,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3214,6 +3784,9 @@
       "name": "Southwestern Indian Polytechnical Institute Tennis Courts",
       "lat": 35.175149,
       "lng": -106.666398,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3233,6 +3806,9 @@
       "name": "Tennis Courts · Del Campo Place Northeast",
       "lat": 35.142517,
       "lng": -106.578824,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3252,6 +3828,9 @@
       "name": "Tennis Courts · Ventana Ranch",
       "lat": 35.193191,
       "lng": -106.738009,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3271,6 +3850,9 @@
       "name": "Rio Grande High School Tennis Courts",
       "lat": 35.048526,
       "lng": -106.69397,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -3290,6 +3872,9 @@
       "name": "Tennis Courts · Calle Margosa",
       "lat": 35.549736,
       "lng": -105.903229,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3309,6 +3894,9 @@
       "name": "Ventana Ranch Park Tennis Courts",
       "lat": 35.194985,
       "lng": -106.723485,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 12,
       "surface": "unknown",
       "lighted": null,
@@ -3326,6 +3914,9 @@
       "name": "Tennis Courts · US 64",
       "lat": 36.423983,
       "lng": -105.309685,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3345,6 +3936,9 @@
       "name": "Santa Rosa High School Tennis Courts",
       "lat": 34.93378,
       "lng": -104.681712,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3360,22 +3954,26 @@
       }
     },
     {
-      "id": "osm-w684884771",
-      "name": "Tennis Courts · Jones Road",
-      "lat": 35.221543,
-      "lng": -106.621512,
+      "id": "osm-w1410186704",
+      "name": "Corrales Recreation Center",
+      "lat": 35.221659,
+      "lng": -106.62185,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
-      "access": "unknown",
+      "access": "public",
       "fee": null,
-      "address": "Jones Road",
+      "address": "500 Jones Road",
       "city": "Corrales",
       "state": "NM",
       "source": "osm",
       "tags": {
-        "context": "residential"
+        "hours": "Mo-Su 12:30-17:30"
       }
     },
     {
@@ -3383,6 +3981,9 @@
       "name": "Metro Verde Tennis Courts",
       "lat": 32.389273,
       "lng": -106.751261,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3393,13 +3994,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w695904377",
       "name": "Los Caminitos Tennis Courts",
       "lat": 35.788875,
       "lng": -105.914075,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3410,13 +4016,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w695916823",
       "name": "Tennis Courts · Camino Manana",
       "lat": 35.710504,
       "lng": -105.919127,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3434,9 +4045,13 @@
     {
       "id": "osm-w696049497",
       "name": "Tennis Courts · Clubhouse Drive",
-      "lat": 35.714398,
-      "lng": -106.054948,
-      "courtCount": 7,
+      "lat": 35.714812,
+      "lng": -106.055013,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 15,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -3453,6 +4068,9 @@
       "name": "Tennis Courts · Los Alamos Highway",
       "lat": 35.889986,
       "lng": -106.025183,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3472,6 +4090,9 @@
       "name": "Tennis Courts · NM 63",
       "lat": 35.712188,
       "lng": -105.682401,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3491,6 +4112,9 @@
       "name": "Tennis Courts · Nambe Road",
       "lat": 35.896688,
       "lng": -105.990642,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3510,6 +4134,9 @@
       "name": "Tennis Courts · Edith Boulevard Northeast",
       "lat": 35.15951,
       "lng": -106.619669,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3529,6 +4156,9 @@
       "name": "The Vineyard Community Tennis Courts",
       "lat": 35.14855,
       "lng": -106.616209,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -3546,6 +4176,9 @@
       "name": "Indigo Park Apartment Homes Tennis Courts",
       "lat": 35.129434,
       "lng": -106.555558,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3556,13 +4189,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w696783623",
       "name": "North Hills Tennis Courts",
       "lat": 35.167852,
       "lng": -106.567069,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3573,13 +4211,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w696783627",
       "name": "Tennis Courts · Santa Barbara Road Northeast",
       "lat": 35.171282,
       "lng": -106.562736,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": false,
@@ -3599,6 +4242,9 @@
       "name": "North Domingo Baca Park Tennis Courts",
       "lat": 35.177498,
       "lng": -106.563732,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -3616,6 +4262,9 @@
       "name": "Rio Rancho Sports Complex Tennis Courts",
       "lat": 35.257387,
       "lng": -106.664343,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3633,6 +4282,9 @@
       "name": "United World College Montezuma;Armand Hammer World College of the American West Tennis Courts",
       "lat": 35.656564,
       "lng": -105.282066,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -3650,8 +4302,11 @@
     {
       "id": "osm-w697242902",
       "name": "Tennis Courts · Arroyo Barranca walking trail",
-      "lat": 35.710631,
+      "lat": 35.710632,
       "lng": -105.932599,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3671,6 +4326,9 @@
       "name": "Altamira Tennis Courts",
       "lat": 35.690046,
       "lng": -105.923354,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3681,13 +4339,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w698798566",
       "name": "SMU-in-Taos at Fort Burgwin Tennis Courts",
       "lat": 36.270137,
       "lng": -105.576268,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3704,9 +4367,12 @@
     },
     {
       "id": "osm-w704104557",
-      "name": "Washington Middle School Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 35.087175,
       "lng": -106.661497,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -3717,15 +4383,16 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {
-        "context": "school"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w704261955",
       "name": "Tennis Courts · Piute Road",
       "lat": 35.615599,
       "lng": -105.913419,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3745,6 +4412,9 @@
       "name": "Public Tennis Courts",
       "lat": 35.326437,
       "lng": -106.008248,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3764,6 +4434,9 @@
       "name": "Sol y Lomas Tennis Courts",
       "lat": 35.649899,
       "lng": -105.937749,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3774,13 +4447,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w704429137",
       "name": "Circle Drive Compound Tennis Courts",
       "lat": 35.733377,
       "lng": -105.918638,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3791,13 +4469,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w704433245",
       "name": "Tennis Courts · Calle Lobo",
       "lat": 35.771527,
       "lng": -105.919436,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3817,6 +4500,9 @@
       "name": "Tennis Courts · Bishops Lodge Road",
       "lat": 35.709893,
       "lng": -105.923055,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3836,6 +4522,9 @@
       "name": "Tennis Courts · Circle Drive",
       "lat": 35.721008,
       "lng": -105.918421,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3855,6 +4544,9 @@
       "name": "Tennis Courts · Governor Dempsey Drive",
       "lat": 35.703231,
       "lng": -105.929801,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3874,6 +4566,9 @@
       "name": "Tennis Courts · Via de Zorritos",
       "lat": 35.748917,
       "lng": -105.919214,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3893,6 +4588,9 @@
       "name": "Vista Redonda Tennis Courts",
       "lat": 35.807075,
       "lng": -105.921652,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3903,13 +4601,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w705297342",
       "name": "Public Tennis Courts",
       "lat": 35.810344,
       "lng": -105.902343,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -3927,6 +4630,9 @@
       "name": "Tennis Courts · Camino del Medio",
       "lat": 36.400201,
       "lng": -105.589889,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3946,6 +4652,9 @@
       "name": "Tennis Courts · Dona Ana",
       "lat": 36.367486,
       "lng": -105.595742,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -3963,6 +4672,9 @@
       "name": "Tennis Courts · Calle Mirador",
       "lat": 36.326679,
       "lng": -105.677306,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3982,6 +4694,9 @@
       "name": "Alta Vista Elementary and Intermediate Schools Tennis Courts",
       "lat": 36.72174,
       "lng": -105.600676,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4001,6 +4716,9 @@
       "name": "Glorieta Camps Tennis Courts",
       "lat": 35.595897,
       "lng": -105.76849,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4011,13 +4729,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w706237358",
       "name": "Public Tennis Courts",
       "lat": 35.107263,
       "lng": -106.37526,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4034,9 +4757,12 @@
     },
     {
       "id": "osm-w706237360",
-      "name": "Prince of Peace Lutheran School Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 35.116841,
       "lng": -106.374081,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4048,7 +4774,7 @@
       "state": "NM",
       "source": "osm",
       "tags": {
-        "context": "school"
+        "context": "residential"
       }
     },
     {
@@ -4056,6 +4782,9 @@
       "name": "Tennis Courts · Corte de Canoncito",
       "lat": 35.135846,
       "lng": -106.368023,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4075,6 +4804,9 @@
       "name": "Anasazi and Petroglyph Communities Tennis Courts",
       "lat": 35.317161,
       "lng": -106.50285,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4085,13 +4817,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w706839263",
       "name": "Santa Fe Hills Tennis Courts",
       "lat": 35.702727,
       "lng": -105.916993,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4102,13 +4839,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w707490722",
       "name": "Senator Matias L. Chacon Recreational Park Tennis Courts",
       "lat": 36.336112,
       "lng": -106.190932,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4126,6 +4868,9 @@
       "name": "Tennis Courts · 1115",
       "lat": 36.197076,
       "lng": -105.885538,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4145,6 +4890,9 @@
       "name": "Tennis Courts · Placita Don Andres",
       "lat": 35.704004,
       "lng": -105.939508,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4164,6 +4912,9 @@
       "name": "Luna Community College Tennis Courts",
       "lat": 35.61457,
       "lng": -105.251727,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4183,6 +4934,9 @@
       "name": "Tennis Courts · Paa-Ko Drive",
       "lat": 35.208204,
       "lng": -106.311901,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4202,6 +4956,9 @@
       "name": "Tennis Courts · Lomita Linda",
       "lat": 35.235116,
       "lng": -106.352936,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4221,6 +4978,9 @@
       "name": "Don Gaspar Tennis Courts",
       "lat": 35.671467,
       "lng": -105.938813,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4231,13 +4991,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w713876515",
       "name": "Zenith Park Tennis Courts",
       "lat": 32.957369,
       "lng": -105.736931,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -4255,6 +5020,9 @@
       "name": "Public Tennis Courts",
       "lat": 36.385882,
       "lng": -105.585002,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4274,6 +5042,9 @@
       "name": "Tennis Courts · Los Arboles Drive",
       "lat": 35.701626,
       "lng": -105.937688,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4293,6 +5064,9 @@
       "name": "Sierra del Norte Tennis Courts",
       "lat": 35.718264,
       "lng": -105.910906,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4303,13 +5077,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w717789389",
       "name": "La Mariposa Tennis Courts",
       "lat": 35.717742,
       "lng": -105.98932,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4320,13 +5099,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w717789399",
       "name": "Tennis Courts · Estrada Calabasas",
       "lat": 35.741578,
       "lng": -106.033386,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4346,6 +5130,9 @@
       "name": "Tennis Courts · East Sunrise Drive",
       "lat": 35.720912,
       "lng": -106.007034,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4365,6 +5152,9 @@
       "name": "Sangre de Cristo Estates Tennis Courts",
       "lat": 35.735518,
       "lng": -105.937212,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4375,13 +5165,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w717816412",
       "name": "Sun Mountain Estates Tennis Courts",
       "lat": 35.658159,
       "lng": -105.924358,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4392,13 +5187,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w718064612",
       "name": "Park Plazas Tennis Courts",
       "lat": 35.634756,
       "lng": -105.98742,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4416,6 +5216,9 @@
       "name": "Tano Tennis Courts",
       "lat": 35.737006,
       "lng": -105.971087,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4426,13 +5229,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w718277999",
       "name": "Tennis Courts · Arroyo Hondo Road",
       "lat": 35.615597,
       "lng": -105.931879,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4452,6 +5260,9 @@
       "name": "Tennis Courts · General Goodwin Road",
       "lat": 35.398735,
       "lng": -106.047118,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4471,6 +5282,9 @@
       "name": "Tennis Courts · Luisa Place",
       "lat": 35.666779,
       "lng": -105.951764,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4488,8 +5302,11 @@
     {
       "id": "osm-w720390532",
       "name": "Tennis Courts · East San Mateo Road",
-      "lat": 35.664668,
+      "lat": 35.664667,
       "lng": -105.940431,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4509,6 +5326,9 @@
       "name": "Frank Ortiz Dog Run",
       "lat": 35.697332,
       "lng": -105.963995,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4526,6 +5346,9 @@
       "name": "Oak Tree Park Apartments Tennis Courts",
       "lat": 35.142475,
       "lng": -106.584743,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4536,13 +5359,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w728946513",
       "name": "Loma Del Norte Park Tennis Courts",
       "lat": 35.16496,
       "lng": -106.563958,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4560,6 +5388,9 @@
       "name": "Altamonte Little League Tennis Courts",
       "lat": 35.179022,
       "lng": -106.525381,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -4577,6 +5408,9 @@
       "name": "Tennis Courts · Corona Avenue Northeast",
       "lat": 35.179389,
       "lng": -106.518417,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4592,10 +5426,35 @@
       }
     },
     {
+      "id": "osm-w728946534",
+      "name": "Public Pickleball Courts",
+      "lat": 35.186655,
+      "lng": -106.525854,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NM",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
       "id": "osm-w728946535",
       "name": "Tennis Courts · Modesto Avenue Northeast",
       "lat": 35.189228,
       "lng": -106.523965,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4615,6 +5474,9 @@
       "name": "Taft Middle School Tennis Courts",
       "lat": 35.156402,
       "lng": -106.639558,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4634,6 +5496,9 @@
       "name": "Desert Greens Golf Course Tennis Courts",
       "lat": 35.1945,
       "lng": -106.692598,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4651,6 +5516,9 @@
       "name": "Public Tennis Courts",
       "lat": 35.166224,
       "lng": -106.653409,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4670,6 +5538,9 @@
       "name": "Thomas Village Tennis Courts",
       "lat": 35.119982,
       "lng": -106.68455,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4680,13 +5551,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w737746190",
       "name": "Prairie Hills Apartments Tennis Courts",
       "lat": 35.088281,
       "lng": -106.499012,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4697,13 +5573,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w739448858",
       "name": "Villlella Park Tennis Courts",
       "lat": 35.121187,
       "lng": -106.588726,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "hard",
       "lighted": false,
@@ -4721,6 +5602,9 @@
       "name": "Del Rio Apartments Tennis Courts",
       "lat": 35.151887,
       "lng": -106.687739,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4731,13 +5615,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w739465847",
       "name": "Tennis Courts · El Malecon Road Northwest",
       "lat": 35.166266,
       "lng": -106.685326,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4757,6 +5646,9 @@
       "name": "Tennis Courts · Golf Course Road Northwest",
       "lat": 35.163788,
       "lng": -106.686729,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4776,6 +5668,9 @@
       "name": "Tennis Courts · Calle Josephina",
       "lat": 35.780304,
       "lng": -106.033787,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4795,6 +5690,9 @@
       "name": "College of the Southwest Tennis Courts",
       "lat": 32.773732,
       "lng": -103.188564,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4814,6 +5712,9 @@
       "name": "New Mexico Junior College Tennis Courts",
       "lat": 32.755753,
       "lng": -103.185353,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4833,6 +5734,9 @@
       "name": "Tennis Courts · Florence Avenue Northeast",
       "lat": 35.191043,
       "lng": -106.54694,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4852,6 +5756,9 @@
       "name": "Lee Acres Park Tennis Courts",
       "lat": 36.6984,
       "lng": -108.096623,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4865,10 +5772,78 @@
       "tags": {}
     },
     {
+      "id": "osm-w754323027",
+      "name": "Public Pickleball Courts",
+      "lat": 35.147994,
+      "lng": -106.561937,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NM",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
+      "id": "osm-w755774202",
+      "name": "Tennis Court",
+      "lat": 34.378959,
+      "lng": -103.035093,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NM",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w755869663",
+      "name": "CORE",
+      "lat": 32.753872,
+      "lng": -103.176044,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": true,
+      "access": "unknown",
+      "fee": null,
+      "address": "4827 North Lovington Highway",
+      "city": "Hobbs",
+      "state": "NM",
+      "source": "osm",
+      "tags": {
+        "website": "https://www.corehobbs.com//",
+        "phone": "+1-575-393-2673"
+      }
+    },
+    {
       "id": "osm-w756673661",
       "name": "Centennial High School Tennis Courts",
       "lat": 32.304395,
       "lng": -106.714648,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -4888,6 +5863,9 @@
       "name": "Tennis Courts · Sichler Road",
       "lat": 34.7973,
       "lng": -106.759029,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4907,6 +5885,9 @@
       "name": "Tennis Courts · Oakland Avenue Northeast",
       "lat": 35.186367,
       "lng": -106.502437,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4926,6 +5907,9 @@
       "name": "Tennis Courts · Solano Drive Southeast",
       "lat": 35.071215,
       "lng": -106.602254,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4945,6 +5929,9 @@
       "name": "Zuni Park Tennis Courts",
       "lat": 35.107448,
       "lng": -106.563406,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -4962,6 +5949,9 @@
       "name": "Tennis Courts · Kachina Street Northwest",
       "lat": 35.156085,
       "lng": -106.711805,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4981,6 +5971,9 @@
       "name": "Tennis Courts · La Senda Lane Northwest",
       "lat": 35.173101,
       "lng": -106.64415,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5000,6 +5993,9 @@
       "name": "Albuquerque Academy Tennis Courts",
       "lat": 35.156766,
       "lng": -106.548067,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5019,6 +6015,9 @@
       "name": "Tennis Courts · Comanche Road Northeast",
       "lat": 35.123362,
       "lng": -106.548373,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5038,6 +6037,9 @@
       "name": "Madison Middle School Tennis Courts",
       "lat": 35.121423,
       "lng": -106.544629,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5057,6 +6059,9 @@
       "name": "Tennis Courts · La Sala del Sur Northeast",
       "lat": 35.121058,
       "lng": -106.546637,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5076,6 +6081,9 @@
       "name": "Public Tennis Courts",
       "lat": 34.769552,
       "lng": -106.751606,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5095,6 +6103,9 @@
       "name": "Tennis Courts · Palomas Avenue Northeast",
       "lat": 35.172226,
       "lng": -106.518499,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5114,6 +6125,9 @@
       "name": "Tennis Courts · Paseo del Norte Boulevard Northeast",
       "lat": 35.174966,
       "lng": -106.505596,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5133,6 +6147,9 @@
       "name": "Tennis Courts · Wilshire Avenue Northeast",
       "lat": 35.181229,
       "lng": -106.537986,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5152,6 +6169,9 @@
       "name": "Tennis Courts · Academy Road Northeast",
       "lat": 35.14557,
       "lng": -106.562151,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5171,6 +6191,9 @@
       "name": "Tennis Courts · Dietz Farm Circle Northwest",
       "lat": 35.140406,
       "lng": -106.674415,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5190,6 +6213,9 @@
       "name": "Frenger Park Tennis Courts",
       "lat": 32.292555,
       "lng": -106.763134,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5207,6 +6233,9 @@
       "name": "University of New Mexico North Golf Course Tennis Courts",
       "lat": 35.092824,
       "lng": -106.621891,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5224,6 +6253,9 @@
       "name": "Tennis Courts · Del Sur Drive Southwest",
       "lat": 35.025318,
       "lng": -106.698069,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5243,6 +6275,9 @@
       "name": "Rio Bravo County Park Tennis Courts",
       "lat": 35.018487,
       "lng": -106.681632,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -5257,9 +6292,12 @@
     },
     {
       "id": "osm-w776882342",
-      "name": "Four Hills Village Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 35.046214,
       "lng": -106.489064,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5270,13 +6308,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w776882344",
       "name": "Tennis Courts · Arcadia Road Northeast",
       "lat": 35.068372,
       "lng": -106.489775,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5296,6 +6339,9 @@
       "name": "Tennis Courts · Leaping Powder Road",
       "lat": 35.601141,
       "lng": -105.940739,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5315,6 +6361,9 @@
       "name": "Tennis Courts · Sandia Lane",
       "lat": 35.304942,
       "lng": -106.472763,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5334,6 +6383,9 @@
       "name": "Tennis Courts · La Puerta Trail",
       "lat": 35.298144,
       "lng": -106.449837,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5353,6 +6405,9 @@
       "name": "Tennis Courts · Bowersville Road",
       "lat": 35.37766,
       "lng": -106.474766,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5372,6 +6427,9 @@
       "name": "Tennis Courts · Calle Ranchitos",
       "lat": 36.017318,
       "lng": -106.06205,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -5389,6 +6447,9 @@
       "name": "Tennis Courts · Greenfield Road",
       "lat": 36.005202,
       "lng": -106.039945,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "hard",
       "lighted": null,
@@ -5406,6 +6467,9 @@
       "name": "Tennis Courts · T105",
       "lat": 35.536109,
       "lng": -105.880715,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5425,6 +6489,9 @@
       "name": "Public Tennis Courts",
       "lat": 32.491965,
       "lng": -106.904322,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5444,6 +6511,9 @@
       "name": "Gila Park Tennis Courts",
       "lat": 32.961976,
       "lng": -108.576813,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5461,6 +6531,9 @@
       "name": "Tennis Courts · Calle Alegre",
       "lat": 32.796747,
       "lng": -108.149922,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5479,7 +6552,10 @@
       "id": "osm-w802991643",
       "name": "Tennis Courts · Villa Louis Martin Drive",
       "lat": 35.779796,
-      "lng": -106.689239,
+      "lng": -106.68924,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5499,6 +6575,9 @@
       "name": "Santo Domingo School Tennis Courts",
       "lat": 35.478486,
       "lng": -106.31483,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5518,6 +6597,9 @@
       "name": "Tennis Courts · Los Altos",
       "lat": 36.528003,
       "lng": -105.569911,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5537,6 +6619,9 @@
       "name": "Tennis Courts · Los Altos",
       "lat": 36.531562,
       "lng": -105.570417,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5556,6 +6641,9 @@
       "name": "Public Tennis Courts",
       "lat": 36.435247,
       "lng": -105.574639,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -5571,9 +6659,13 @@
     {
       "id": "osm-w814459232",
       "name": "Tennis Courts · Comanche Road",
-      "lat": 36.469584,
-      "lng": -105.595027,
-      "courtCount": 9,
+      "lat": 36.469842,
+      "lng": -105.594951,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 13,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -5590,6 +6682,9 @@
       "name": "Tennis Courts · Apache Trail",
       "lat": 35.026056,
       "lng": -106.952793,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5609,6 +6704,9 @@
       "name": "Pendaries Golf Course Tennis Courts",
       "lat": 35.814197,
       "lng": -105.410739,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5626,6 +6724,9 @@
       "name": "Tennis Courts · Humble Way",
       "lat": 35.543458,
       "lng": -106.144331,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5645,6 +6746,9 @@
       "name": "Mallette Park Tennis Courts",
       "lat": 36.712997,
       "lng": -105.405961,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5662,6 +6766,9 @@
       "name": "San Acacio Tennis Courts",
       "lat": 35.675438,
       "lng": -105.917566,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5672,13 +6779,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w833938172",
       "name": "Eagle Ranch Park Tennis Courts",
       "lat": 35.188778,
       "lng": -106.667437,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": false,
@@ -5696,6 +6808,9 @@
       "name": "Haynes Park Tennis Court",
       "lat": 35.22315,
       "lng": -106.661712,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5713,6 +6828,9 @@
       "name": "Tennis Courts · Old US Highway 66",
       "lat": 35.078806,
       "lng": -106.39284,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5730,9 +6848,13 @@
     {
       "id": "osm-w848968207",
       "name": "Princess Jeane Tennis Courts",
-      "lat": 35.101309,
-      "lng": -106.524552,
-      "courtCount": 1,
+      "lat": 35.101311,
+      "lng": -106.524684,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -5749,6 +6871,9 @@
       "name": "Tennis Courts · Morningstar Lane",
       "lat": 35.214527,
       "lng": -106.62813,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5768,6 +6893,9 @@
       "name": "Tennis Courts · Anya Road",
       "lat": 35.25363,
       "lng": -106.616419,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5787,6 +6915,9 @@
       "name": "Tennis Courts · Camino de Lucia",
       "lat": 35.241535,
       "lng": -106.591493,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5806,6 +6937,9 @@
       "name": "Tennis Courts · Camino de Lucia",
       "lat": 35.243162,
       "lng": -106.596082,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5825,6 +6959,9 @@
       "name": "Tennis Courts · Autumn Lane",
       "lat": 35.26224,
       "lng": -106.603503,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5844,6 +6981,9 @@
       "name": "Tennis Courts · Glendale Avenue Northeast",
       "lat": 35.189522,
       "lng": -106.512373,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5863,6 +7003,9 @@
       "name": "Tennis Courts · Holly Avenue Northeast",
       "lat": 35.175213,
       "lng": -106.499903,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5882,6 +7025,9 @@
       "name": "Tennis Courts · Tramway Lane Northeast",
       "lat": 35.168356,
       "lng": -106.483616,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5901,6 +7047,9 @@
       "name": "Tennis Courts · Tennis Court Northwest",
       "lat": 35.141274,
       "lng": -106.693912,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5920,6 +7069,9 @@
       "name": "Rinconada Point Park Tennis Courts",
       "lat": 35.118311,
       "lng": -106.724339,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5937,6 +7089,9 @@
       "name": "Tennis Courts · White Rock Canyon Rim Trail Upper Spur",
       "lat": 35.813741,
       "lng": -106.198159,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5953,60 +7108,12 @@
     },
     {
       "id": "osm-w863278430",
-      "name": "Pajarito Acres Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 35.793086,
       "lng": -106.20707,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "NM",
-      "source": "osm",
-      "tags": {}
-    },
-    {
-      "id": "osm-w863278432",
-      "name": "Pajarito Acres Tennis Courts",
-      "lat": 35.802443,
-      "lng": -106.21342,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "NM",
-      "source": "osm",
-      "tags": {}
-    },
-    {
-      "id": "osm-w863278434",
-      "name": "Pajarito Acres Tennis Courts",
-      "lat": 35.807075,
-      "lng": -106.208066,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "NM",
-      "source": "osm",
-      "tags": {}
-    },
-    {
-      "id": "osm-w863294204",
-      "name": "Piñon Elementary School Tennis Courts",
-      "lat": 35.820823,
-      "lng": -106.214274,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6018,14 +7125,103 @@
       "state": "NM",
       "source": "osm",
       "tags": {
-        "context": "school"
+        "context": "residential"
       }
+    },
+    {
+      "id": "osm-w863278432",
+      "name": "Public Tennis Courts",
+      "lat": 35.802443,
+      "lng": -106.21342,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NM",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
+      "id": "osm-w863278434",
+      "name": "Public Tennis Courts",
+      "lat": 35.807075,
+      "lng": -106.208066,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NM",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
+      "id": "osm-w863294204",
+      "name": "Grand Canyon Drive Tennis Courts",
+      "lat": 35.820823,
+      "lng": -106.214273,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NM",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
+      "id": "osm-w867918131",
+      "name": "Manzano Mesa Park Pickleball Courts",
+      "lat": 35.064458,
+      "lng": -106.525776,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 18,
+      "surface": "hard",
+      "lighted": true,
+      "indoor": false,
+      "access": "public",
+      "fee": false,
+      "address": null,
+      "city": null,
+      "state": "NM",
+      "source": "osm",
+      "tags": {}
     },
     {
       "id": "osm-w870321775",
       "name": "Tennis Courts · Lerma Road Northeast",
       "lat": 35.304162,
       "lng": -106.602881,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6045,6 +7241,9 @@
       "name": "La Mesita Ranch Estate Tennis Courts",
       "lat": 35.898533,
       "lng": -106.003027,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6062,6 +7261,9 @@
       "name": "Open Space Visitor Center Tennis Courts",
       "lat": 35.16796,
       "lng": -106.669416,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6075,29 +7277,13 @@
       "tags": {}
     },
     {
-      "id": "osm-w887604772",
-      "name": "Tennis Courts · Arapahoe Drive Northeast",
-      "lat": 35.278079,
-      "lng": -106.655731,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": "Arapahoe Drive Northeast",
-      "city": "Rio Rancho",
-      "state": "NM",
-      "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
-    },
-    {
       "id": "osm-w896708410",
       "name": "Eagle Ridge Middle School Tennis Courts",
       "lat": 35.273064,
       "lng": -106.679762,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6117,6 +7303,9 @@
       "name": "Tennis Courts · Blue Spruce Drive",
       "lat": 35.169579,
       "lng": -107.814582,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6133,9 +7322,12 @@
     },
     {
       "id": "osm-w902882664",
-      "name": "Fox Run Golf Course (Gallup) Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 35.512749,
       "lng": -108.720727,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6146,13 +7338,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w903101845",
       "name": "Canoan Village Apartments Tennis Courts",
       "lat": 35.139227,
       "lng": -106.532909,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6163,13 +7360,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w914893745",
       "name": "Public Tennis Courts",
       "lat": 35.515004,
       "lng": -108.587248,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6189,6 +7391,9 @@
       "name": "Tennis Courts · Rehoboth Drive",
       "lat": 35.528733,
       "lng": -108.654686,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6208,6 +7413,9 @@
       "name": "Tennis Courts · Loma Larga Road",
       "lat": 35.218822,
       "lng": -106.645402,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6227,6 +7435,9 @@
       "name": "Early College Opportunities (ECO) Tennis Courts",
       "lat": 35.648459,
       "lng": -105.970048,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 9,
       "surface": "unknown",
       "lighted": null,
@@ -6246,6 +7457,9 @@
       "name": "Villa Caballero Tennis Courts",
       "lat": 35.635392,
       "lng": -105.979241,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6256,13 +7470,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w963792103",
       "name": "Huning Ranch Park Tennis Courts",
       "lat": 34.813787,
       "lng": -106.771788,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -6280,6 +7499,9 @@
       "name": "Tennis Courts · East Scharbauer Street",
       "lat": 32.709435,
       "lng": -103.119184,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 13,
       "surface": "unknown",
       "lighted": null,
@@ -6297,6 +7519,9 @@
       "name": "Brother Edward de Reina Park Tennis Courts",
       "lat": 35.649759,
       "lng": -105.948161,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6314,6 +7539,9 @@
       "name": "Tennis Courts · Elfego Road Northwest",
       "lat": 35.138001,
       "lng": -106.675396,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6333,6 +7561,9 @@
       "name": "Goddard High School Tennis Courts",
       "lat": 33.424345,
       "lng": -104.512303,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -6352,6 +7583,9 @@
       "name": "Tennis Courts · East Frontage Road",
       "lat": 35.063531,
       "lng": -106.187556,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6371,6 +7605,9 @@
       "name": "Eastridge Tennis Courts",
       "lat": 32.891768,
       "lng": -105.929833,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6381,13 +7618,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1010262359",
       "name": "Tennis Courts · Central Avenue",
       "lat": 33.079047,
       "lng": -106.009882,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6404,9 +7646,12 @@
     },
     {
       "id": "osm-w1015276418",
-      "name": "Western Area Park Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 35.884697,
       "lng": -106.321989,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6424,6 +7669,9 @@
       "name": "Sacramento Peak Observatory Tennis Courts",
       "lat": 32.792217,
       "lng": -105.818044,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6434,14 +7682,20 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1059173039",
       "name": "Public Tennis Courts",
-      "lat": 35.491707,
-      "lng": -105.651188,
-      "courtCount": 1,
+      "lat": 35.491731,
+      "lng": -105.651293,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -6456,10 +7710,35 @@
       }
     },
     {
+      "id": "osm-w1059826357",
+      "name": "Public Pickleball Courts",
+      "lat": 35.709793,
+      "lng": -106.045732,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NM",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
       "id": "osm-w1067454183",
       "name": "Tennis Courts · Playas Boulevard",
       "lat": 31.915041,
-      "lng": -108.537871,
+      "lng": -108.53787,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6479,6 +7758,9 @@
       "name": "Emergency Use Tennis Courts",
       "lat": 36.555838,
       "lng": -105.089335,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6496,6 +7778,9 @@
       "name": "4WD Tennis Courts",
       "lat": 36.556362,
       "lng": -105.085804,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6509,10 +7794,35 @@
       "tags": {}
     },
     {
+      "id": "osm-w1122812986",
+      "name": "Public Pickleball Courts",
+      "lat": 35.324371,
+      "lng": -106.58151,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NM",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
       "id": "osm-w1123061738",
       "name": "Tennis Courts · Chaparral Circle Northwest",
       "lat": 35.194929,
       "lng": -106.714021,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6532,6 +7842,9 @@
       "name": "Tennis Courts · Holy Ghost Road",
       "lat": 35.759751,
       "lng": -105.693065,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6551,6 +7864,9 @@
       "name": "Tennis Courts · Bona Terra Loop Northwest",
       "lat": 35.197987,
       "lng": -106.638941,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6570,6 +7886,9 @@
       "name": "Public Tennis Courts",
       "lat": 35.701066,
       "lng": -108.137543,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6589,6 +7908,9 @@
       "name": "Public Tennis Courts",
       "lat": 34.687756,
       "lng": -106.772498,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6608,6 +7930,9 @@
       "name": "Tennis Courts · Rundles Lane",
       "lat": 34.707611,
       "lng": -106.781528,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6627,6 +7952,9 @@
       "name": "Tennis Courts · Mammoth Mountain Road",
       "lat": 36.390951,
       "lng": -105.271883,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6646,6 +7974,9 @@
       "name": "Tennis Courts · Rim Road",
       "lat": 36.529259,
       "lng": -105.57816,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6665,6 +7996,9 @@
       "name": "Tennis Courts · Camino de Obispo Road",
       "lat": 36.535609,
       "lng": -105.619195,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6680,10 +8014,13 @@
       }
     },
     {
-      "id": "osm-w1172324787",
-      "name": "Horseshoe Creek RV Park Tennis Courts",
-      "lat": 32.396722,
-      "lng": -104.230673,
+      "id": "osm-w1168175884",
+      "name": "Public Pickleball Courts",
+      "lat": 35.657462,
+      "lng": -105.932462,
+      "sports": [
+        "pickleball"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6694,13 +8031,40 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
+      "id": "osm-w1172324787",
+      "name": "Horseshoe Creek RV Park Tennis Courts",
+      "lat": 32.396722,
+      "lng": -104.230673,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NM",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1177171835",
       "name": "Public Tennis Courts",
       "lat": 35.650151,
       "lng": -106.331578,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6720,6 +8084,9 @@
       "name": "Tennis Courts · 81st Street Northwest",
       "lat": 35.148999,
       "lng": -106.727424,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6739,6 +8106,9 @@
       "name": "Angel Fire Country Club Tennis Courts",
       "lat": 36.378358,
       "lng": -105.285743,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -6756,6 +8126,9 @@
       "name": "Tennis Courts · Silver Meadow Road",
       "lat": 35.796926,
       "lng": -106.052552,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6771,10 +8144,13 @@
       }
     },
     {
-      "id": "osm-r16442394",
-      "name": "North Mesa Park Tennis Courts",
+      "id": "osm-w1213463120",
+      "name": "Public Tennis Courts",
       "lat": 35.892185,
       "lng": -106.277575,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "hard",
       "lighted": true,
@@ -6785,13 +8161,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1219516989",
       "name": "Tennis Courts · Camino de Dolores",
       "lat": 35.464866,
       "lng": -106.337881,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6808,9 +8189,12 @@
     },
     {
       "id": "osm-w1226629979",
-      "name": "Los Alamos Middle School Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 35.892872,
       "lng": -106.297968,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -6821,15 +8205,16 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {
-        "context": "school"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1242205394",
       "name": "Tennis Courts · South 9th Street",
       "lat": 32.93406,
       "lng": -103.35921,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 12,
       "surface": "unknown",
       "lighted": null,
@@ -6844,9 +8229,12 @@
     },
     {
       "id": "osm-w1256724168",
-      "name": "Eastern New Mexico University Tennis Courts",
+      "name": "Alta Terra Tennis Courts",
       "lat": 34.177418,
       "lng": -103.364551,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": false,
@@ -6858,7 +8246,7 @@
       "state": "NM",
       "source": "osm",
       "tags": {
-        "context": "school"
+        "context": "residential"
       }
     },
     {
@@ -6866,6 +8254,9 @@
       "name": "Corona Public Schools Tennis Courts",
       "lat": 34.249414,
       "lng": -105.597465,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6885,6 +8276,9 @@
       "name": "South San Jose Park Tennis Courts",
       "lat": 35.054615,
       "lng": -106.648647,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6902,6 +8296,9 @@
       "name": "Southwestern Indian Polytechnical Institute Tennis Courts",
       "lat": 35.170553,
       "lng": -106.66112,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6921,6 +8318,9 @@
       "name": "Cottonwood Apartments Tennis Courts",
       "lat": 35.19993,
       "lng": -106.662685,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6931,13 +8331,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1290567887",
       "name": "Northern New Mexico College Tennis Courts",
       "lat": 36.003333,
       "lng": -106.081309,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6953,29 +8358,33 @@
       }
     },
     {
-      "id": "osm-w1295810222",
-      "name": "Public Tennis Courts",
-      "lat": 33.346139,
-      "lng": -105.132568,
+      "id": "osm-w1304703827",
+      "name": "East Mesa pickleball courts",
+      "lat": 32.339513,
+      "lng": -106.720848,
+      "sports": [
+        "pickleball"
+      ],
       "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
+      "surface": "hard",
+      "lighted": true,
       "indoor": null,
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": "Lincoln County",
+      "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1315444866",
       "name": "Tennis Courts · Pena Drive",
       "lat": 35.161835,
       "lng": -107.8456,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6995,6 +8404,9 @@
       "name": "Clovis High School Tennis Courts",
       "lat": 34.41898,
       "lng": -103.215958,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -7014,6 +8426,9 @@
       "name": "Tennis Courts · South 2nd Street",
       "lat": 36.44266,
       "lng": -103.176938,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -7031,6 +8446,9 @@
       "name": "Romero Park Tennis Courts",
       "lat": 35.659612,
       "lng": -106.028383,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7048,6 +8466,9 @@
       "name": "Los Altos Golf Course Tennis Courts",
       "lat": 35.084019,
       "lng": -106.547485,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7065,6 +8486,9 @@
       "name": "Tennis Courts · Las Joyas Lane",
       "lat": 35.901362,
       "lng": -106.01765,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7084,6 +8508,9 @@
       "name": "Tennis Courts · La Canada Place",
       "lat": 35.236498,
       "lng": -106.314548,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7103,6 +8530,9 @@
       "name": "Public Tennis Courts",
       "lat": 32.673226,
       "lng": -107.149547,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7122,6 +8552,9 @@
       "name": "Tennis Courts · Jeweled Mesa",
       "lat": 31.855089,
       "lng": -106.637905,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7137,10 +8570,35 @@
       }
     },
     {
+      "id": "osm-w1363555426",
+      "name": "Tennis Courts · Rancho Sereno Place",
+      "lat": 31.858444,
+      "lng": -106.622534,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": "Rancho Sereno Place",
+      "city": "El Paso",
+      "state": "NM",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
       "id": "osm-w1363616657",
       "name": "Raton High School Tennis Courts",
       "lat": 36.887703,
       "lng": -104.45222,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -7160,6 +8618,9 @@
       "name": "Tennis Courts · Hidden Valley Court Northeast",
       "lat": 35.128419,
       "lng": -106.488827,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7175,10 +8636,57 @@
       }
     },
     {
+      "id": "osm-w1389424618",
+      "name": "Public Pickleball Courts",
+      "lat": 35.191241,
+      "lng": -106.513458,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NM",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
+      "id": "osm-w1389424620",
+      "name": "Public Pickleball Courts",
+      "lat": 35.180943,
+      "lng": -106.535168,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NM",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
       "id": "osm-w1389968479",
       "name": "Tennis Courts · Parsons Lane",
       "lat": 35.150289,
       "lng": -107.887482,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7194,11 +8702,147 @@
       }
     },
     {
+      "id": "osm-w1394902107",
+      "name": "Public Tennis Courts",
+      "lat": 35.1602,
+      "lng": -106.50149,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NM",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
+      "id": "osm-w1395652432",
+      "name": "Don Gaspar Pickleball Courts",
+      "lat": 35.671709,
+      "lng": -105.942187,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NM",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
       "id": "osm-w1396832889",
       "name": "Lomas Encantadas Tennis Courts",
       "lat": 35.322326,
       "lng": -106.58985,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NM",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
+      "id": "osm-w1408632893",
+      "name": "Public Pickleball Courts",
+      "lat": 35.618847,
+      "lng": -106.021164,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NM",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
+      "id": "osm-w1409623471",
+      "name": "Public Pickleball Courts",
+      "lat": 35.23069,
+      "lng": -106.602065,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NM",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
+      "id": "osm-w1409623507",
+      "name": "Public Pickleball Courts",
+      "lat": 35.228207,
+      "lng": -106.66963,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NM",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
+      "id": "osm-w1410470766",
+      "name": "Riverside Park Pickleball Courts",
+      "lat": 36.8231,
+      "lng": -108.006542,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -7211,18 +8855,21 @@
       "tags": {}
     },
     {
-      "id": "osm-w1417154504",
-      "name": "Tennis Courts · San Antonio Drive Northeast",
-      "lat": 35.160236,
-      "lng": -106.50113,
+      "id": "osm-w1419043510",
+      "name": "Meadows Mobile Home Park Pickleball Courts",
+      "lat": 35.162187,
+      "lng": -106.581732,
+      "sports": [
+        "pickleball"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": "San Antonio Drive Northeast",
-      "city": "Albuquerque",
+      "address": null,
+      "city": null,
       "state": "NM",
       "source": "osm",
       "tags": {
@@ -7234,6 +8881,9 @@
       "name": "Tennis Courts · Golden Ridge Road",
       "lat": 35.626149,
       "lng": -105.905575,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7253,6 +8903,9 @@
       "name": "Simmons Road Tennis Courts",
       "lat": 35.24188,
       "lng": -105.988282,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7272,6 +8925,9 @@
       "name": "Tennis Courts · Lilac Place Northeast",
       "lat": 35.295494,
       "lng": -106.621707,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7291,6 +8947,9 @@
       "name": "Tennis Courts · Carolino Canyon Road",
       "lat": 34.966971,
       "lng": -106.333279,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7310,6 +8969,9 @@
       "name": "Tennis Courts · North Silver Street",
       "lat": 32.79461,
       "lng": -108.268035,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -7327,6 +8989,9 @@
       "name": "Tennis Courts · Service Road",
       "lat": 33.323691,
       "lng": -105.636547,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7344,9 +9009,13 @@
     {
       "id": "osm-w1431883180",
       "name": "Jaycee Park Tennis Courts",
-      "lat": 32.825806,
-      "lng": -104.438788,
-      "courtCount": 4,
+      "lat": 32.825799,
+      "lng": -104.439179,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 9,
       "surface": "hard",
       "lighted": true,
       "indoor": null,
@@ -7363,6 +9032,9 @@
       "name": "Cahoon Park Tennis Courts",
       "lat": 33.397331,
       "lng": -104.540139,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -7376,10 +9048,35 @@
       "tags": {}
     },
     {
+      "id": "osm-w1434182259",
+      "name": "Sol y Lomas Pickleball Courts",
+      "lat": 35.64357,
+      "lng": -105.943695,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NM",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
       "id": "osm-w1434395288",
       "name": "Tennis Courts · Feather Moon Drive",
       "lat": 31.847551,
       "lng": -106.646017,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 24,
       "surface": "unknown",
       "lighted": null,
@@ -7397,6 +9094,9 @@
       "name": "Tennis Courts · West Bosque Loop",
       "lat": 34.854066,
       "lng": -106.706511,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7412,11 +9112,15 @@
       }
     },
     {
-      "id": "osm-w1443065755",
+      "id": "osm-w1443065751",
       "name": "Lake Carlsbad Tennis Complex",
-      "lat": 32.426339,
-      "lng": -104.221452,
-      "courtCount": 9,
+      "lat": 32.42618,
+      "lng": -104.221254,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 13,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -7433,6 +9137,9 @@
       "name": "West Carlsbad Recreation Area Tennis Courts",
       "lat": 32.427192,
       "lng": -104.25289,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7450,6 +9157,9 @@
       "name": "Santa Teresa High School Tennis Courts",
       "lat": 31.862809,
       "lng": -106.648882,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -7465,10 +9175,33 @@
       }
     },
     {
+      "id": "osm-w1448320755",
+      "name": "Tennis Courts · Westside Drive",
+      "lat": 31.849138,
+      "lng": -106.615993,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 14,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": "Westside Drive",
+      "city": "El Paso",
+      "state": "NM",
+      "source": "osm",
+      "tags": {}
+    },
+    {
       "id": "osm-w1457048289",
       "name": "Tennis Courts · Aberdeen Drive Southeast",
       "lat": 35.055476,
       "lng": -106.594221,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -7486,6 +9219,9 @@
       "name": "Sunport Pool Tennis Courts",
       "lat": 35.059559,
       "lng": -106.617117,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7503,6 +9239,9 @@
       "name": "San Antonio Park Tennis Courts",
       "lat": 34.827024,
       "lng": -106.725036,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7520,6 +9259,9 @@
       "name": "Belen High School Tennis Courts",
       "lat": 34.663397,
       "lng": -106.793095,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 10,
       "surface": "hard",
       "lighted": null,
@@ -7539,6 +9281,9 @@
       "name": "Tierra Del Sol Golf Club Tennis Courts",
       "lat": 34.637919,
       "lng": -106.731944,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7556,6 +9301,9 @@
       "name": "Tennis Courts · Broadway",
       "lat": 35.002414,
       "lng": -106.050508,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -7570,9 +9318,12 @@
     },
     {
       "id": "osm-w1457049449",
-      "name": "Capital High School Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 35.621365,
       "lng": -106.04269,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 10,
       "surface": "unknown",
       "lighted": null,
@@ -7583,15 +9334,16 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {
-        "context": "school"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1457049485",
       "name": "Tennis Courts · Midtown Avenida C",
       "lat": 35.655407,
       "lng": -105.977699,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 7,
       "surface": "unknown",
       "lighted": null,
@@ -7609,6 +9361,9 @@
       "name": "Tennis Courts · County Road 106",
       "lat": 35.890137,
       "lng": -105.981123,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7628,6 +9383,9 @@
       "name": "Deming High School Tennis Courts",
       "lat": 32.255323,
       "lng": -107.763818,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -7647,6 +9405,9 @@
       "name": "Zuni Middle School Tennis Courts",
       "lat": 35.07448,
       "lng": -108.837954,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7666,6 +9427,9 @@
       "name": "Tennis Courts · East Buena Vista Avenue",
       "lat": 35.522805,
       "lng": -108.726266,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -7683,6 +9447,9 @@
       "name": "Grants High School Tennis Courts",
       "lat": 35.159156,
       "lng": -107.847345,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -7702,6 +9469,9 @@
       "name": "Jemez Valley Public Schools Tennis Courts",
       "lat": 35.656804,
       "lng": -106.736499,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7721,7 +9491,30 @@
       "name": "Justis Park Tennis Courts",
       "lat": 36.744161,
       "lng": -108.188562,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NM",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1466955239",
+      "name": "Brookside Park Pickleball Courts",
+      "lat": 36.746466,
+      "lng": -108.204024,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -7737,8 +9530,32 @@
       "id": "osm-w1466955279",
       "name": "Florence Park Tennis Courts",
       "lat": 36.827464,
-      "lng": -108.004778,
-      "courtCount": 2,
+      "lng": -108.004779,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 6,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NM",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1466955514",
+      "name": "Apodaca Park Pickleball Courts",
+      "lat": 32.328958,
+      "lng": -106.777333,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -7755,6 +9572,9 @@
       "name": "Tennis Courts · Crozier Street",
       "lat": 32.384531,
       "lng": -106.481671,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -7772,6 +9592,9 @@
       "name": "Delores C Wright Memorial Park Tennis Courts",
       "lat": 32.038511,
       "lng": -106.40204,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7786,10 +9609,14 @@
     },
     {
       "id": "osm-w1467140707",
-      "name": "Piñon Elementary School Tennis Courts",
-      "lat": 35.823872,
-      "lng": -106.212477,
-      "courtCount": 3,
+      "name": "Public Tennis Courts",
+      "lat": 35.823853,
+      "lng": -106.21242,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -7799,15 +9626,16 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {
-        "context": "school"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1467141234",
       "name": "Pojoaque Valley High School Tennis Courts",
       "lat": 35.879987,
       "lng": -106.063389,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7827,6 +9655,9 @@
       "name": "NMHU Tennis Courts",
       "lat": 35.602042,
       "lng": -105.225523,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -7844,6 +9675,9 @@
       "name": "Robertson High School Tennis Courts",
       "lat": 35.602554,
       "lng": -105.218023,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": true,
@@ -7863,6 +9697,9 @@
       "name": "Robertson High School Tennis Courts",
       "lat": 35.605623,
       "lng": -105.21813,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -7882,6 +9719,9 @@
       "name": "Red Willow Park Tennis Courts",
       "lat": 36.408702,
       "lng": -105.567506,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7899,6 +9739,9 @@
       "name": "Maxwell Park Tennis Courts",
       "lat": 36.543835,
       "lng": -104.543582,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7916,6 +9759,9 @@
       "name": "Tennis Courts · West 11th Street",
       "lat": 32.833866,
       "lng": -106.090408,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": true,
@@ -7933,6 +9779,9 @@
       "name": "Tennis Courts · Oregon Avenue",
       "lat": 32.90949,
       "lng": -105.944241,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": true,
@@ -7950,6 +9799,9 @@
       "name": "Schoolhouse Park Tennis Courts",
       "lat": 33.322884,
       "lng": -105.644395,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -7967,6 +9819,9 @@
       "name": "Kokopelli Country Club Tennis Courts",
       "lat": 33.40003,
       "lng": -105.653209,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7984,6 +9839,9 @@
       "name": "Tennis Courts · South Pennsylvania Avenue",
       "lat": 33.37061,
       "lng": -104.52582,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -7998,9 +9856,12 @@
     },
     {
       "id": "osm-w1467147229",
-      "name": "Roswell Country Club Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 33.425276,
       "lng": -104.492089,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -8018,6 +9879,9 @@
       "name": "Tennis Courts · Clark Street",
       "lat": 33.199204,
       "lng": -104.369998,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -8035,6 +9899,9 @@
       "name": "Tennis Courts · North 10th Street",
       "lat": 32.855108,
       "lng": -104.409524,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 10,
       "surface": "unknown",
       "lighted": null,
@@ -8052,6 +9919,9 @@
       "name": "Tennis Courts · West Richardson Avenue",
       "lat": 32.840336,
       "lng": -104.410264,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -8069,6 +9939,9 @@
       "name": "Riverside Country Club Tennis Courts",
       "lat": 32.444022,
       "lng": -104.248964,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -8086,6 +9959,9 @@
       "name": "Public Tennis Courts",
       "lat": 32.278579,
       "lng": -104.096394,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -8105,6 +9981,9 @@
       "name": "New Mexico Junior College Tennis Courts",
       "lat": 32.756833,
       "lng": -103.186015,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -8121,9 +10000,12 @@
     },
     {
       "id": "osm-w1467151205",
-      "name": "Eastern New Mexico University Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 34.174085,
       "lng": -103.349436,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -8134,15 +10016,16 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {
-        "context": "school"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1467151548",
       "name": "Public Tennis Courts",
       "lat": 34.407917,
       "lng": -103.336429,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -8162,6 +10045,9 @@
       "name": "Chavez West Housing Park Tennis Courts",
       "lat": 34.409408,
       "lng": -103.332477,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -8179,6 +10065,9 @@
       "name": "Tennis Courts · Rose Drive",
       "lat": 35.623321,
       "lng": -105.237763,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8197,7 +10086,10 @@
       "id": "osm-w1503649504",
       "name": "Tennis Courts · Arroyo Hondo Road",
       "lat": 35.606801,
-      "lng": -105.931843,
+      "lng": -105.931842,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8217,6 +10109,9 @@
       "name": "Madera Apartments Tennis Courts",
       "lat": 35.656152,
       "lng": -106.03259,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8227,13 +10122,18 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1506511437",
       "name": "Tennis Courts · Via Sedillo Road",
       "lat": 35.075772,
       "lng": -106.289239,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8252,7 +10152,10 @@
       "id": "osm-w1512387480",
       "name": "Tennis Courts · Santa Rita Avenue",
       "lat": 32.697766,
-      "lng": -108.127213,
+      "lng": -108.127214,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8268,10 +10171,33 @@
       }
     },
     {
+      "id": "osm-w1512526979",
+      "name": "Taos Country Club Pickleball Courts",
+      "lat": 36.358374,
+      "lng": -105.648621,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NM",
+      "source": "osm",
+      "tags": {}
+    },
+    {
       "id": "osm-w1514689771",
       "name": "Tennis Courts · Pueblo Drive",
       "lat": 35.356098,
       "lng": -103.478293,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8291,6 +10217,9 @@
       "name": "Paradise Skies Park Tennis Courts",
       "lat": 35.209586,
       "lng": -106.710337,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "hard",
       "lighted": false,
@@ -8308,6 +10237,9 @@
       "name": "Public Tennis Courts",
       "lat": 36.606422,
       "lng": -105.621703,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8327,6 +10259,9 @@
       "name": "White Sands Missile Range Golf Course Tennis Courts",
       "lat": 32.376339,
       "lng": -106.497389,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -8344,6 +10279,9 @@
       "name": "Tennis Courts · NM-344",
       "lat": 35.169152,
       "lng": -106.184082,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8363,6 +10301,9 @@
       "name": "Tennis Courts · West Cold Springs Ranch Road",
       "lat": 32.810216,
       "lng": -108.283856,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8382,6 +10323,9 @@
       "name": "Tennis Courts · Sedona Court",
       "lat": 36.766812,
       "lng": -108.199019,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8401,6 +10345,9 @@
       "name": "Las Cruces High School Tennis Courts",
       "lat": 32.291681,
       "lng": -106.768305,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -8416,10 +10363,35 @@
       }
     },
     {
+      "id": "osm-w1528636019",
+      "name": "Public Pickleball Courts",
+      "lat": 32.258065,
+      "lng": -107.765337,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NM",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
       "id": "osm-w1528735567",
       "name": "Tennis Courts · Panther Boulevard",
       "lat": 31.951363,
       "lng": -108.809915,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8439,6 +10411,9 @@
       "name": "San Juan Country Club Golf Course Tennis Courts",
       "lat": 36.783899,
       "lng": -108.129861,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -8456,6 +10431,9 @@
       "name": "Tennis Courts · Holt Court Northeast",
       "lat": 35.264342,
       "lng": -106.683889,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8471,11 +10449,14 @@
       }
     },
     {
-      "id": "osm-w1536312688",
-      "name": "Salmon Park Tennis Courts",
-      "lat": 36.713449,
-      "lng": -107.985419,
-      "courtCount": 2,
+      "id": "osm-w1533360485",
+      "name": "Prisma Apartments Pickleball Courts",
+      "lat": 35.206402,
+      "lng": -106.643885,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -8485,35 +10466,24 @@
       "city": null,
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
-      "id": "osm-r15480024",
-      "name": "Canyon Road Tennis Courts",
-      "lat": 35.885766,
-      "lng": -106.302375,
-      "courtCount": 3,
+      "id": "osm-w1536312688",
+      "name": "Salmon Park Tennis Courts",
+      "lat": 36.713448,
+      "lng": -107.985419,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 6,
       "surface": "unknown",
-      "lighted": false,
+      "lighted": null,
       "indoor": null,
       "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "NM",
-      "source": "osm",
-      "tags": {}
-    },
-    {
-      "id": "osm-r15982533",
-      "name": "Urban Park Tennis Courts",
-      "lat": 35.893366,
-      "lng": -106.324503,
-      "courtCount": 4,
-      "surface": "hard",
-      "lighted": true,
-      "indoor": null,
-      "access": "public",
       "fee": null,
       "address": null,
       "city": null,

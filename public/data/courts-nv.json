@@ -7,7 +7,51 @@
       "name": "Boulder Creek Golf Course Tennis Courts",
       "lat": 35.959872,
       "lng": -114.845641,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1447535652",
+      "name": "Club Sport Las Vegas Pickleball Courts",
+      "lat": 36.073844,
+      "lng": -115.075348,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w146435155",
+      "name": "Public Tennis Courts",
+      "lat": 35.96763,
+      "lng": -115.081386,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 10,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -24,6 +68,9 @@
       "name": "Tennis Courts · East Ford Avenue",
       "lat": 36.032417,
       "lng": -115.164674,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -43,6 +90,9 @@
       "name": "W. Wayne Bunker Family Park Tennis Courts",
       "lat": 36.232197,
       "lng": -115.25307,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -60,6 +110,9 @@
       "name": "Xander 3900 Tennis Courts",
       "lat": 36.2292,
       "lng": -115.247932,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -70,13 +123,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1507507798",
       "name": "Sterling Summerland Apartments Tennis Courts",
       "lat": 36.202269,
       "lng": -115.245709,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -87,13 +145,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1484204748",
-      "name": "Tenaya II Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 36.18395,
       "lng": -115.246441,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -104,13 +167,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1507507843",
       "name": "Tennis Courts · Brookside Lane",
       "lat": 36.176446,
       "lng": -115.238952,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -126,10 +194,34 @@
       }
     },
     {
+      "id": "osm-w136121680",
+      "name": "Public Tennis Courts",
+      "lat": 36.293818,
+      "lng": -115.183219,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 10,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {}
+    },
+    {
       "id": "osm-w27514508",
-      "name": "Lakes Course Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 36.099032,
       "lng": -115.256158,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -145,11 +237,14 @@
     {
       "id": "osm-w27546127",
       "name": "Darling Tennis Center",
-      "lat": 36.179878,
-      "lng": -115.276835,
-      "courtCount": 22,
+      "lat": 36.179882,
+      "lng": -115.276827,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 23,
       "surface": "unknown",
-      "lighted": null,
+      "lighted": true,
       "indoor": null,
       "access": "unknown",
       "fee": null,
@@ -164,6 +259,9 @@
       "name": "The Arbors Tennis & Play Park",
       "lat": 36.180121,
       "lng": -115.334778,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -177,29 +275,13 @@
       "tags": {}
     },
     {
-      "id": "osm-w27574803",
-      "name": "Palo Verde High School Tennis Courts",
-      "lat": 36.172145,
-      "lng": -115.335098,
-      "courtCount": 2,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "NV",
-      "source": "osm",
-      "tags": {
-        "context": "school"
-      }
-    },
-    {
       "id": "osm-w27613836",
       "name": "The Trails Park & Pool Tennis Courts",
       "lat": 36.19602,
       "lng": -115.305086,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -211,48 +293,15 @@
       "state": "NV",
       "source": "osm",
       "tags": {}
-    },
-    {
-      "id": "osm-w27737752",
-      "name": "Sunset Park Tennis Courts",
-      "lat": 36.071001,
-      "lng": -115.116669,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "NV",
-      "source": "osm",
-      "tags": {}
-    },
-    {
-      "id": "osm-w27854584",
-      "name": "Tennis Courts · Tennis Court Street South",
-      "lat": 36.09574,
-      "lng": -115.094377,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": "Tennis Court Street South",
-      "city": "Clark County",
-      "state": "NV",
-      "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
     },
     {
       "id": "osm-w34000157",
       "name": "Tennis Courts · South Main Street",
       "lat": 36.171382,
       "lng": -115.147297,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -272,6 +321,9 @@
       "name": "Oppio Park Tennis Courts",
       "lat": 39.55251,
       "lng": -119.770725,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "hard",
       "lighted": null,
@@ -286,44 +338,13 @@
     },
     {
       "id": "osm-w115927399",
-      "name": "Canyon Gate Country Club Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 36.147677,
       "lng": -115.286057,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "NV",
-      "source": "osm",
-      "tags": {}
-    },
-    {
-      "id": "osm-w116650388",
-      "name": "Mountain Ridge Park Tennis Courts",
-      "lat": 36.290034,
-      "lng": -115.279825,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "NV",
-      "source": "osm",
-      "tags": {}
-    },
-    {
-      "id": "osm-w133899839",
-      "name": "Rodeo Park Tennis Courts",
-      "lat": 36.077126,
-      "lng": -115.01783,
-      "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -340,6 +361,9 @@
       "name": "Churchill County High School Tennis Courts",
       "lat": 39.462449,
       "lng": -118.785961,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -356,9 +380,12 @@
     },
     {
       "id": "osm-w134583939",
-      "name": "Las Vegas Country Club Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 36.133329,
       "lng": -115.147337,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -376,6 +403,9 @@
       "name": "Tennis Courts · Grand Teton Drive",
       "lat": 36.303644,
       "lng": -115.257592,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -395,6 +425,9 @@
       "name": "Turnberry Place Tennis Courts",
       "lat": 36.137532,
       "lng": -115.157095,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -412,6 +445,9 @@
       "name": "Turnberry Towers Tennis Courts",
       "lat": 36.14088,
       "lng": -115.154381,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -422,32 +458,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
-    },
-    {
-      "id": "osm-w135032812",
-      "name": "Tennis Courts · West Rochelle Avenue",
-      "lat": 36.112819,
-      "lng": -115.197374,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": "West Rochelle Avenue",
-      "city": "Spring Valley",
-      "state": "NV",
-      "source": "osm",
       "tags": {
         "context": "residential"
       }
     },
     {
       "id": "osm-w135371725",
-      "name": "The Revere Golf Club Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 35.954088,
       "lng": -115.095961,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -465,6 +487,9 @@
       "name": "Tuscany Recreation Center Tennis Courts",
       "lat": 36.073703,
       "lng": -114.96594,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -482,6 +507,9 @@
       "name": "Shadow Creek Golf Course Tennis Courts",
       "lat": 36.256616,
       "lng": -115.110344,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -496,9 +524,12 @@
     },
     {
       "id": "osm-w136121111",
-      "name": "Aliante Golf Club Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 36.295683,
       "lng": -115.190192,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -509,30 +540,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
-    },
-    {
-      "id": "osm-w136121680",
-      "name": "Aliante Golf Club Tennis Courts",
-      "lat": 36.294056,
-      "lng": -115.18334,
-      "courtCount": 2,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "NV",
-      "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w136194628",
-      "name": "Los Prados Golf & Country Club Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 36.253234,
       "lng": -115.2168,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -543,13 +562,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w136199989",
-      "name": "Painted Desert Golf Club Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 36.261259,
       "lng": -115.256232,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -567,6 +591,9 @@
       "name": "Madeira Canyon Park Tennis Courts",
       "lat": 35.928756,
       "lng": -115.090524,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 7,
       "surface": "unknown",
       "lighted": true,
@@ -584,6 +611,9 @@
       "name": "Tennis Courts · Starlight Hill Street",
       "lat": 35.941825,
       "lng": -115.096891,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -599,9 +629,13 @@
     {
       "id": "osm-w144183883",
       "name": "Tennis Courts · Shadow Canyon Drive",
-      "lat": 35.944661,
-      "lng": -115.083329,
-      "courtCount": 8,
+      "lat": 35.944642,
+      "lng": -115.083271,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 22,
       "surface": "unknown",
       "lighted": true,
       "indoor": null,
@@ -614,27 +648,13 @@
       "tags": {}
     },
     {
-      "id": "osm-w146435155",
-      "name": "Anthem Country Club Tennis Courts",
-      "lat": 35.967714,
-      "lng": -115.081596,
-      "courtCount": 6,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "NV",
-      "source": "osm",
-      "tags": {}
-    },
-    {
       "id": "osm-w146600544",
       "name": "Dick Taylor Memorial Park Tennis Courts",
       "lat": 39.542509,
-      "lng": -119.810414,
+      "lng": -119.810415,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -652,6 +672,9 @@
       "name": "All American Park Tennis Courts",
       "lat": 36.153195,
       "lng": -115.262357,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -669,6 +692,9 @@
       "name": "Del E Webb Middle School Tennis Courts",
       "lat": 35.981754,
       "lng": -115.085595,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -685,9 +711,12 @@
     },
     {
       "id": "osm-w147505751",
-      "name": "Rio Secco Golf Club Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 35.976573,
       "lng": -115.114119,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -698,13 +727,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w147508700",
-      "name": "Rio Secco Golf Club Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 35.977763,
       "lng": -115.105218,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -715,13 +749,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w154082763",
       "name": "Sonata Park Tennis Courts",
       "lat": 35.975972,
       "lng": -115.120805,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -739,6 +778,9 @@
       "name": "Puccini Park Tennis Courts",
       "lat": 35.986351,
       "lng": -115.120777,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -756,6 +798,9 @@
       "name": "Tennis Courts · Valencia Drive",
       "lat": 35.988267,
       "lng": -114.83928,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -775,6 +820,9 @@
       "name": "Hemenway Valley Park Tennis Courts",
       "lat": 35.99504,
       "lng": -114.831355,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -792,6 +840,9 @@
       "name": "Sunridge Park Tennis Courts",
       "lat": 35.993272,
       "lng": -115.091051,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -809,6 +860,9 @@
       "name": "Black Mountain Recreation Center",
       "lat": 36.013345,
       "lng": -114.975449,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -826,9 +880,12 @@
     },
     {
       "id": "osm-w172890220",
-      "name": "Desert Willow Golf Course Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 36.006702,
       "lng": -115.077391,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -846,6 +903,9 @@
       "name": "Meridian Luxury Condos Tennis Courts",
       "lat": 36.11539,
       "lng": -115.162272,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -856,13 +916,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w186155566",
       "name": "Tennis Courts · Kingsbury South/Stagecoach Access",
       "lat": 38.958683,
       "lng": -119.885206,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -882,6 +947,9 @@
       "name": "Tennis Courts · Ridge Club Drive",
       "lat": 38.961017,
       "lng": -119.884354,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -897,27 +965,13 @@
       }
     },
     {
-      "id": "osm-w189321182",
-      "name": "Siena Heights Trailhead Tennis Courts",
-      "lat": 36.012971,
-      "lng": -115.104995,
-      "courtCount": 2,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "NV",
-      "source": "osm",
-      "tags": {}
-    },
-    {
       "id": "osm-w190840667",
       "name": "Western High School Tennis Courts",
       "lat": 36.174671,
       "lng": -115.203808,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": true,
@@ -937,6 +991,9 @@
       "name": "Paseo Verde Park Tennis Courts",
       "lat": 36.021508,
       "lng": -115.06472,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -954,6 +1011,9 @@
       "name": "Dos Escuelas Park Tennis Courts",
       "lat": 36.024458,
       "lng": -115.079121,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -968,9 +1028,12 @@
     },
     {
       "id": "osm-w203558220",
-      "name": "Roma Hills Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 36.0035,
       "lng": -115.064767,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -981,13 +1044,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w203699900",
       "name": "Foothills Montessori School Tennis Courts",
       "lat": 36.013227,
       "lng": -115.048052,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -1004,9 +1072,12 @@
     },
     {
       "id": "osm-w205149221",
-      "name": "Dragon Ridge Country Club Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 36.012425,
       "lng": -115.060459,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1017,13 +1088,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w208636681",
       "name": "Robert McQueen High School Tennis Courts",
       "lat": 39.535613,
       "lng": -119.884404,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -1039,27 +1115,13 @@
       }
     },
     {
-      "id": "osm-w212362049",
-      "name": "Centennial High School Courts",
-      "lat": 36.277812,
-      "lng": -115.316942,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "NV",
-      "source": "osm",
-      "tags": {}
-    },
-    {
       "id": "osm-w212669094",
       "name": "Mission Hills Park Tennis Courts",
       "lat": 35.997131,
       "lng": -114.959304,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -1077,6 +1139,9 @@
       "name": "Tennis Courts · North Fort Apache Road",
       "lat": 36.313268,
       "lng": -115.295776,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1092,29 +1157,13 @@
       }
     },
     {
-      "id": "osm-w216283647",
-      "name": "Tennis Courts · Chateau Bella Avenue",
-      "lat": 36.266234,
-      "lng": -115.092548,
-      "courtCount": 1,
-      "surface": "hard",
-      "lighted": null,
-      "indoor": false,
-      "access": "unknown",
-      "fee": null,
-      "address": "Chateau Bella Avenue",
-      "city": "North Las Vegas",
-      "state": "NV",
-      "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
-    },
-    {
       "id": "osm-w216717856",
       "name": "River Mountain Park Tennis Courts",
       "lat": 36.008738,
       "lng": -114.93398,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1132,6 +1181,9 @@
       "name": "Tennis Courts · Spanish Mountain Drive",
       "lat": 36.098308,
       "lng": -115.284935,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1151,6 +1203,9 @@
       "name": "Tennis Courts · Agassi Court",
       "lat": 36.099119,
       "lng": -115.28597,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1166,29 +1221,13 @@
       }
     },
     {
-      "id": "osm-w217507225",
-      "name": "Durango High School Tennis Courts",
-      "lat": 36.090304,
-      "lng": -115.247785,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "NV",
-      "source": "osm",
-      "tags": {
-        "context": "school"
-      }
-    },
-    {
       "id": "osm-w217507469",
       "name": "Tennis Courts · Cielo Oro Street",
       "lat": 36.091187,
       "lng": -115.244527,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1208,6 +1247,9 @@
       "name": "Desert Oasis High School Tennis Courts",
       "lat": 35.993383,
       "lng": -115.235418,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -1227,6 +1269,9 @@
       "name": "O'Callaghan Park Tennis Courts",
       "lat": 36.011668,
       "lng": -114.980634,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "hard",
       "lighted": null,
@@ -1244,6 +1289,9 @@
       "name": "Black Mountain Recreation Center Tennis Courts",
       "lat": 36.014142,
       "lng": -114.974651,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "hard",
       "lighted": null,
@@ -1261,6 +1309,9 @@
       "name": "Veterans Tribute Career and Technical Academy Tennis Courts",
       "lat": 36.187282,
       "lng": -115.176078,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -1280,6 +1331,9 @@
       "name": "Advanced Technologies Academy Tennis Courts",
       "lat": 36.18502,
       "lng": -115.178523,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1297,9 +1351,12 @@
     {
       "id": "osm-w234909097",
       "name": "Southwest Career & Technical Academy Tennis Courts",
-      "lat": 36.037884,
-      "lng": -115.244212,
-      "courtCount": 2,
+      "lat": 36.037894,
+      "lng": -115.24421,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -1318,6 +1375,9 @@
       "name": "Spring Valley High School Tennis Courts",
       "lat": 36.119753,
       "lng": -115.258006,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -1337,6 +1397,9 @@
       "name": "Galena High School Tennis Courts",
       "lat": 39.387293,
       "lng": -119.775402,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1356,6 +1419,9 @@
       "name": "Edmundo Escobedo Sr. Middle School Tennis Courts",
       "lat": 36.282498,
       "lng": -115.302905,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1371,27 +1437,13 @@
       }
     },
     {
-      "id": "osm-w254293492",
-      "name": "Winterwood Park Tennis Courts",
-      "lat": 36.147808,
-      "lng": -115.058339,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "NV",
-      "source": "osm",
-      "tags": {}
-    },
-    {
       "id": "osm-w259600544",
       "name": "Tennis Courts · Michael Way",
       "lat": 36.205595,
       "lng": -115.241304,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1411,6 +1463,9 @@
       "name": "Marquesa Condominiums Tennis Courts",
       "lat": 36.176837,
       "lng": -115.254172,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1421,13 +1476,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w263718250",
       "name": "Hampton Court Apartments Tennis Courts",
       "lat": 36.117318,
       "lng": -115.147439,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1438,13 +1498,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w264407733",
       "name": "Cottonwood Park Tennis Courts",
       "lat": 36.905583,
       "lng": -116.757756,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1462,6 +1527,9 @@
       "name": "Police Memorial Park Tennis Courts",
       "lat": 36.222903,
       "lng": -115.31068,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1475,29 +1543,13 @@
       "tags": {}
     },
     {
-      "id": "osm-w279260886",
-      "name": "Jerome D. Mack Middle School Tennis Courts",
-      "lat": 36.140908,
-      "lng": -115.079785,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "NV",
-      "source": "osm",
-      "tags": {
-        "context": "school"
-      }
-    },
-    {
       "id": "osm-w284315760",
       "name": "Tennis Courts · Holloman Circle",
       "lat": 37.88354,
       "lng": -116.765536,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1515,6 +1567,9 @@
       "name": "Tennis Courts · Dave Wood Circle",
       "lat": 36.083636,
       "lng": -114.959004,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1530,10 +1585,13 @@
       }
     },
     {
-      "id": "osm-w503177023",
-      "name": "Faith Lutheran Baseball Field",
+      "id": "osm-w286150396",
+      "name": "Faith Lutheran Junior and Senior High School Tennis Courts",
       "lat": 36.156438,
       "lng": -115.31871,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1544,13 +1602,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w289297514",
       "name": "Tennis Courts · Cottonwood Street",
       "lat": 40.653228,
       "lng": -119.355191,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1570,6 +1633,9 @@
       "name": "Northpointe Apartments Tennis Courts",
       "lat": 36.219894,
       "lng": -115.218296,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1580,13 +1646,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w293552452",
       "name": "Sutton Place Apartments Tennis Courts",
       "lat": 36.218423,
       "lng": -115.21814,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1597,13 +1668,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w296701711",
       "name": "Tennis Courts · Granite Pointe Drive",
       "lat": 39.413402,
       "lng": -119.807644,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1621,24 +1697,10 @@
       "name": "Village Green Park Tennis Courts",
       "lat": 39.482237,
       "lng": -119.854931,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "NV",
-      "source": "osm",
-      "tags": {}
-    },
-    {
-      "id": "osm-w308289377",
-      "name": "Stallion Mountain Tennis Courts",
-      "lat": 36.121304,
-      "lng": -115.042198,
-      "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -1655,6 +1717,9 @@
       "name": "Laughlin High School/Middle School Tennis Courts",
       "lat": 35.162081,
       "lng": -114.61301,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "hard",
       "lighted": null,
@@ -1674,6 +1739,9 @@
       "name": "Tennis Courts · North Royal Crest Circle",
       "lat": 36.124076,
       "lng": -115.148916,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1691,8 +1759,11 @@
     {
       "id": "osm-w331347658",
       "name": "Tennis Courts · Paradise Road",
-      "lat": 36.13127,
+      "lat": 36.131271,
       "lng": -115.155412,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1712,6 +1783,9 @@
       "name": "Boulder City High School Tennis Courts",
       "lat": 35.972607,
       "lng": -114.83572,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1731,6 +1805,9 @@
       "name": "Tennis Courts · Skyline View Drive",
       "lat": 39.485659,
       "lng": -119.842654,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1748,8 +1825,11 @@
     {
       "id": "osm-w337226749",
       "name": "Barbara Bennett Park Tennis Courts",
-      "lat": 39.523348,
+      "lat": 39.523349,
       "lng": -119.817932,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1767,6 +1847,9 @@
       "name": "Poulakidas Park Tennis Courts",
       "lat": 39.538457,
       "lng": -119.746962,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1782,26 +1865,13 @@
     {
       "id": "osm-w370192483",
       "name": "Lone Mountain Park Tennis Courts",
-      "lat": 36.241466,
-      "lng": -115.309659,
-      "courtCount": 2,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "NV",
-      "source": "osm",
-      "tags": {}
-    },
-    {
-      "id": "osm-w370282927",
-      "name": "Winchester Park Tennis Courts",
-      "lat": 36.131862,
-      "lng": -115.108755,
-      "courtCount": 1,
+      "lat": 36.241609,
+      "lng": -115.30954,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -1818,6 +1888,9 @@
       "name": "Desert Rose Golf Course Tennis Courts",
       "lat": 36.140598,
       "lng": -115.063918,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1835,6 +1908,9 @@
       "name": "River Oaks Tennis Courts",
       "lat": 36.13066,
       "lng": -115.058458,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1845,13 +1921,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w375779107",
       "name": "Carson High School Tennis Courts",
       "lat": 39.168443,
       "lng": -119.747446,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -1871,6 +1952,9 @@
       "name": "Desert Pines High School Tennis Courts",
       "lat": 36.179111,
       "lng": -115.090075,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -1887,29 +1971,13 @@
     },
     {
       "id": "osm-w393879437",
-      "name": "North Valleys High School Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 39.605051,
       "lng": -119.826355,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "NV",
-      "source": "osm",
-      "tags": {
-        "context": "school"
-      }
-    },
-    {
-      "id": "osm-w397354075",
-      "name": "Lone Mountain Regional Park Tennis Courts",
-      "lat": 36.247151,
-      "lng": -115.3103,
-      "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -1926,6 +1994,9 @@
       "name": "Canyon Club Apartments Tennis Courts",
       "lat": 36.141792,
       "lng": -115.126741,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1936,13 +2007,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w428984774",
       "name": "Tennis Courts · Palm",
       "lat": 36.040405,
       "lng": -115.175656,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1962,6 +2038,9 @@
       "name": "Tennis Courts · Florence Way",
       "lat": 40.736791,
       "lng": -114.058198,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1978,10 +2057,14 @@
     },
     {
       "id": "osm-w456222523",
-      "name": "Siena Golf Club Tennis Courts",
-      "lat": 36.108873,
-      "lng": -115.320581,
-      "courtCount": 3,
+      "name": "Public Tennis Courts",
+      "lat": 36.108887,
+      "lng": -115.320754,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 5,
       "surface": "clay",
       "lighted": true,
       "indoor": null,
@@ -1994,63 +2077,13 @@
       "tags": {}
     },
     {
-      "id": "osm-w456548924",
-      "name": "Mesa Park Tennis Courts",
-      "lat": 36.089691,
-      "lng": -115.325778,
-      "courtCount": 1,
-      "surface": "clay",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "NV",
-      "source": "osm",
-      "tags": {}
-    },
-    {
-      "id": "osm-w457625118",
-      "name": "Bear's Best Las Vegas Tennis Courts",
-      "lat": 36.113859,
-      "lng": -115.346831,
-      "courtCount": 3,
-      "surface": "clay",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "NV",
-      "source": "osm",
-      "tags": {}
-    },
-    {
-      "id": "osm-w458800564",
-      "name": "West Career & Technical Academy Tennis Courts",
-      "lat": 36.157658,
-      "lng": -115.356854,
-      "courtCount": 1,
-      "surface": "clay",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "NV",
-      "source": "osm",
-      "tags": {
-        "context": "school"
-      }
-    },
-    {
       "id": "osm-w459100301",
       "name": "The Vistas Park Tennis Courts",
       "lat": 36.168751,
       "lng": -115.346174,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "clay",
       "lighted": null,
@@ -2068,43 +2101,10 @@
       "name": "Cheyenne Sports Complex Tennis Courts",
       "lat": 36.219066,
       "lng": -115.09966,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "NV",
-      "source": "osm",
-      "tags": {}
-    },
-    {
-      "id": "osm-w468706024",
-      "name": "Wilbur & Theresa Faiss Middle School Tennis Courts",
-      "lat": 36.062533,
-      "lng": -115.299445,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "NV",
-      "source": "osm",
-      "tags": {
-        "context": "school"
-      }
-    },
-    {
-      "id": "osm-w469277788",
-      "name": "Jaycee Park Tennis Courts",
-      "lat": 36.146228,
-      "lng": -115.116406,
-      "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -2121,6 +2121,9 @@
       "name": "Virginia Foothills Park Tennis Courts",
       "lat": 39.40074,
       "lng": -119.725925,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2138,6 +2141,9 @@
       "name": "Wilson Commons Park Tennis Courts",
       "lat": 39.266231,
       "lng": -119.835804,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2151,29 +2157,13 @@
       "tags": {}
     },
     {
-      "id": "osm-w480341058",
-      "name": "Sunrise Mountain High School Tennis Courts",
-      "lat": 36.204136,
-      "lng": -115.020865,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "NV",
-      "source": "osm",
-      "tags": {
-        "context": "school"
-      }
-    },
-    {
       "id": "osm-w483530037",
       "name": "Burgess Park Tennis Courts",
       "lat": 39.548927,
       "lng": -119.753183,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -2191,6 +2181,9 @@
       "name": "Mira Loma Park Tennis Courts",
       "lat": 39.490881,
       "lng": -119.747241,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -2205,9 +2198,12 @@
     },
     {
       "id": "osm-w483827783",
-      "name": "Hafen Park Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 36.797046,
       "lng": -114.07903,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "hard",
       "lighted": null,
@@ -2225,6 +2221,9 @@
       "name": "Tennis Court at Overton Park",
       "lat": 36.5409,
       "lng": -114.440749,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2242,6 +2241,9 @@
       "name": "Elton M. Junior High School Tennis Courts",
       "lat": 35.969398,
       "lng": -114.834032,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -2261,6 +2263,9 @@
       "name": "Elton M. Junior High School Tennis Courts",
       "lat": 35.970935,
       "lng": -114.8338,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -2278,8 +2283,11 @@
     {
       "id": "osm-w483991269",
       "name": "Green Valley High School Tennis Courts",
-      "lat": 36.058759,
-      "lng": -115.055787,
+      "lat": 36.058757,
+      "lng": -115.055781,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -2299,6 +2307,9 @@
       "name": "Grant Sawyer Middle School Tennis Courts",
       "lat": 36.088335,
       "lng": -115.238176,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -2318,6 +2329,9 @@
       "name": "Bonanza High School Tennis Courts",
       "lat": 36.153367,
       "lng": -115.23647,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -2337,6 +2351,9 @@
       "name": "Tennis Courts · Spyglass Lane",
       "lat": 36.179025,
       "lng": -115.20335,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2356,6 +2373,9 @@
       "name": "Tennis Court",
       "lat": 36.599904,
       "lng": -114.483044,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": true,
@@ -2373,24 +2393,10 @@
       "name": "McArthur Tennis Center",
       "lat": 39.547166,
       "lng": -119.80952,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "NV",
-      "source": "osm",
-      "tags": {}
-    },
-    {
-      "id": "osm-w493959448",
-      "name": "Paul Meyer Park Tennis Courts",
-      "lat": 36.106134,
-      "lng": -115.251741,
-      "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -2406,7 +2412,10 @@
       "id": "osm-w498441356",
       "name": "Pickett Park Tennis Courts",
       "lat": 39.524442,
-      "lng": -119.798079,
+      "lng": -119.798078,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2422,9 +2431,13 @@
     {
       "id": "osm-w499735435",
       "name": "Reno Municipal Tennis Center",
-      "lat": 39.499351,
-      "lng": -119.81324,
-      "courtCount": 12,
+      "lat": 39.499586,
+      "lng": -119.813258,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 26,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -2441,6 +2454,9 @@
       "name": "Tennis Courts · Dean Martin Drive",
       "lat": 36.083188,
       "lng": -115.182471,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2456,27 +2472,13 @@
       }
     },
     {
-      "id": "osm-w532500317",
-      "name": "Sienna Senior Apartments Tennis Courts",
-      "lat": 36.112357,
-      "lng": -115.210978,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "NV",
-      "source": "osm",
-      "tags": {}
-    },
-    {
       "id": "osm-w532691605",
       "name": "Tennis Courts · Wynn Road",
       "lat": 36.112239,
       "lng": -115.19385,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2496,6 +2498,9 @@
       "name": "Tennis Courts · West Rochelle Avenue",
       "lat": 36.11082,
       "lng": -115.196064,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2515,6 +2520,9 @@
       "name": "Tennis Courts · Eskam Street",
       "lat": 36.194055,
       "lng": -115.033923,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2534,6 +2542,9 @@
       "name": "Tennis Courts · North Nellis Boulevard",
       "lat": 36.189818,
       "lng": -115.062645,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2553,6 +2564,9 @@
       "name": "Dell H. Robison Middle School Tennis Courts",
       "lat": 36.178825,
       "lng": -115.069099,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -2572,6 +2586,9 @@
       "name": "Evergreen Village Condos Tennis Courts",
       "lat": 36.106446,
       "lng": -115.213341,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2582,13 +2599,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w533396987",
       "name": "Royal Ridge Mobile Home Estates Tennis Courts",
       "lat": 36.106326,
       "lng": -115.210182,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2599,13 +2621,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w535160363",
       "name": "Tennis Courts · Lindell Road",
       "lat": 36.099745,
       "lng": -115.215923,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": true,
@@ -2625,6 +2652,9 @@
       "name": "Tennis Courts · Lymbery Street",
       "lat": 39.497228,
       "lng": -119.804039,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2644,6 +2674,9 @@
       "name": "Aliante Nature Discovery Park Tennis Courts",
       "lat": 36.285535,
       "lng": -115.175524,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "hard",
       "lighted": true,
@@ -2661,6 +2694,9 @@
       "name": "Legacy Park Tennis Courts",
       "lat": 36.285968,
       "lng": -115.140322,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "hard",
       "lighted": null,
@@ -2678,45 +2714,14 @@
       "name": "Seastrand Community Park Tennis Courts",
       "lat": 36.277871,
       "lng": -115.159829,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "hard",
       "lighted": true,
       "indoor": null,
       "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "NV",
-      "source": "osm",
-      "tags": {}
-    },
-    {
-      "id": "osm-w547314049",
-      "name": "Craig Ranch Regional Park Tennis Courts",
-      "lat": 36.242165,
-      "lng": -115.152444,
-      "courtCount": 2,
-      "surface": "unknown",
-      "lighted": true,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "NV",
-      "source": "osm",
-      "tags": {}
-    },
-    {
-      "id": "osm-w548234621",
-      "name": "Trail Canyon Park Tennis Courts",
-      "lat": 36.046217,
-      "lng": -115.03728,
-      "courtCount": 1,
-      "surface": "hard",
-      "lighted": true,
-      "indoor": null,
-      "access": "public",
       "fee": null,
       "address": null,
       "city": null,
@@ -2729,6 +2734,9 @@
       "name": "Woodtrail Tennis Court",
       "lat": 39.546898,
       "lng": -119.709339,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": false,
@@ -2746,6 +2754,9 @@
       "name": "Tennis Courts · Doran Drive",
       "lat": 36.056922,
       "lng": -115.130504,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2761,13 +2772,16 @@
       }
     },
     {
-      "id": "osm-w965793018",
+      "id": "osm-w549851662",
       "name": "Frank and Vicki Fertitta Tennis Complex",
-      "lat": 36.108611,
-      "lng": -115.14746,
-      "courtCount": 13,
+      "lat": 36.108608,
+      "lng": -115.147467,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 12,
       "surface": "unknown",
-      "lighted": null,
+      "lighted": true,
       "indoor": null,
       "access": "unknown",
       "fee": null,
@@ -2782,6 +2796,9 @@
       "name": "Foothill High School Tennis Courts",
       "lat": 36.00308,
       "lng": -114.964297,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "hard",
       "lighted": null,
@@ -2801,6 +2818,9 @@
       "name": "Timberlake Apartments Tennis Courts",
       "lat": 36.030162,
       "lng": -115.028188,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2811,13 +2831,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w553394212",
       "name": "Thomas Creek Park Tennis Courts",
       "lat": 39.414876,
       "lng": -119.789526,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2835,6 +2860,9 @@
       "name": "Spotted Leaf Park Tennis Courts",
       "lat": 36.135826,
       "lng": -115.333734,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2849,9 +2877,12 @@
     },
     {
       "id": "osm-w566097514",
-      "name": "Las Vegas Country Club Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 36.134201,
       "lng": -115.151886,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -2869,6 +2900,9 @@
       "name": "Big Horn at Black Mountain Tennis Courts",
       "lat": 36.01491,
       "lng": -114.996006,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2879,30 +2913,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
-    },
-    {
-      "id": "osm-w577852881",
-      "name": "Duck Creek Park Tennis Courts",
-      "lat": 36.032758,
-      "lng": -115.144176,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "NV",
-      "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w579336647",
       "name": "Gardens Park Tennis Courts",
       "lat": 36.126632,
       "lng": -115.323649,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2920,24 +2942,10 @@
       "name": "Nevada Trails Park Tennis Courts",
       "lat": 36.053377,
       "lng": -115.247192,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "NV",
-      "source": "osm",
-      "tags": {}
-    },
-    {
-      "id": "osm-w583905219",
-      "name": "Children's Memorial Park Tennis Courts",
-      "lat": 36.224559,
-      "lng": -115.241914,
-      "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -2954,6 +2962,9 @@
       "name": "Tennis Courts · Desert Hills",
       "lat": 36.070918,
       "lng": -115.955181,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2973,6 +2984,9 @@
       "name": "Century Meadows Tennis Courts",
       "lat": 36.123837,
       "lng": -115.226756,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2983,13 +2997,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w608755521",
       "name": "Tennis Courts · Palmyra Avenue",
       "lat": 36.13378,
       "lng": -115.228401,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3009,6 +3028,9 @@
       "name": "Tennis Courts · Edna Avenue",
       "lat": 36.13576,
       "lng": -115.228341,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -3026,6 +3048,9 @@
       "name": "Tennis Courts · Tara Avenue",
       "lat": 36.137951,
       "lng": -115.222206,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "hard",
       "lighted": true,
@@ -3045,6 +3070,9 @@
       "name": "Tennis Courts · Darby Avenue",
       "lat": 36.131727,
       "lng": -115.232386,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3064,6 +3092,9 @@
       "name": "Tennis Courts · Coley Avenue",
       "lat": 36.13571,
       "lng": -115.232766,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3083,6 +3114,9 @@
       "name": "Tennis Courts · Villa Grande Way",
       "lat": 35.999112,
       "lng": -114.817526,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3102,6 +3136,9 @@
       "name": "Tennis Courts · Rosanna Street",
       "lat": 36.156974,
       "lng": -115.244861,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3121,6 +3158,9 @@
       "name": "Battle Mountain Sports Complex Tennis Courts",
       "lat": 40.640588,
       "lng": -116.953401,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3138,6 +3178,9 @@
       "name": "Tennis Courts · East Flamingo Road",
       "lat": 36.115717,
       "lng": -115.145134,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3157,6 +3200,9 @@
       "name": "Tennis Courts · University Center Drive",
       "lat": 36.117798,
       "lng": -115.145749,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3176,6 +3222,9 @@
       "name": "Bishop Gorman Catholic High School Tennis Courts",
       "lat": 36.081647,
       "lng": -115.319791,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 10,
       "surface": "unknown",
       "lighted": null,
@@ -3195,6 +3244,9 @@
       "name": "John Mankins Park Tennis Courts",
       "lat": 39.187057,
       "lng": -119.777341,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3212,6 +3264,9 @@
       "name": "Von Tobel School Park Tennis Courts",
       "lat": 36.203522,
       "lng": -115.095804,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -3229,6 +3284,9 @@
       "name": "Aventura Park Tennis Courts",
       "lat": 35.934381,
       "lng": -115.119479,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3242,10 +3300,13 @@
       "tags": {}
     },
     {
-      "id": "osm-r18457332",
+      "id": "osm-w730884593",
       "name": "Capriola Park Tennis Courts",
       "lat": 35.949349,
       "lng": -115.126055,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": true,
@@ -3263,6 +3324,9 @@
       "name": "Mario C and Joanne Monaco Middle School Tennis Courts",
       "lat": 36.194631,
       "lng": -115.06458,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -3282,6 +3346,9 @@
       "name": "Tennis Courts · North Hollywood Boulevard",
       "lat": 36.168982,
       "lng": -115.025276,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3301,6 +3368,9 @@
       "name": "Round Mountain Golf Course Tennis Courts",
       "lat": 38.694625,
       "lng": -117.157516,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3318,6 +3388,9 @@
       "name": "Liberty High School Tennis Courts",
       "lat": 35.989923,
       "lng": -115.150895,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -3337,6 +3410,9 @@
       "name": "The Estates Tennis Courts",
       "lat": 36.013366,
       "lng": -115.091549,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -3354,6 +3430,9 @@
       "name": "Tennis Courts · Gibraltar Drive",
       "lat": 39.481907,
       "lng": -119.839643,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3373,6 +3452,9 @@
       "name": "Tennis Courts · Brighton Way",
       "lat": 39.489134,
       "lng": -119.856403,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3392,6 +3474,9 @@
       "name": "Tennis Courts · West Flamingo Road",
       "lat": 36.116551,
       "lng": -115.197401,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3411,6 +3496,9 @@
       "name": "Tennis Courts · West Viking Road",
       "lat": 36.117608,
       "lng": -115.197106,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3427,9 +3515,12 @@
     },
     {
       "id": "osm-w828537170",
-      "name": "Lake Ridge Golf Course Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 39.483291,
       "lng": -119.817811,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3440,30 +3531,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
-    },
-    {
-      "id": "osm-w829064526",
-      "name": "Red Rock Country Club Tennis Courts",
-      "lat": 36.149186,
-      "lng": -115.348308,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "NV",
-      "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w840739455",
       "name": "Tennis Courts · Granite Crest Drive",
       "lat": 38.965408,
       "lng": -119.897903,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3483,6 +3562,9 @@
       "name": "Pahrump Valley High School Tennis Courts",
       "lat": 36.19018,
       "lng": -116.00318,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -3502,6 +3584,9 @@
       "name": "Petrack Park Tennis Courts",
       "lat": 36.219946,
       "lng": -115.996679,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3519,6 +3604,9 @@
       "name": "Tennis Courts · Iris Court",
       "lat": 36.044286,
       "lng": -115.112984,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3534,27 +3622,13 @@
       }
     },
     {
-      "id": "osm-w849462638",
-      "name": "Weston Hills Park Tennis Courts",
-      "lat": 36.075735,
-      "lng": -114.981342,
-      "courtCount": 2,
-      "surface": "hard",
-      "lighted": true,
-      "indoor": null,
-      "access": "public",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "NV",
-      "source": "osm",
-      "tags": {}
-    },
-    {
       "id": "osm-w849961461",
       "name": "Riverdale Tennis Courts",
       "lat": 39.528103,
       "lng": -119.990015,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3565,13 +3639,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w849961462",
       "name": "Verdi Elementary School Tennis Courts",
       "lat": 39.520639,
       "lng": -119.989436,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3591,6 +3670,9 @@
       "name": "Willowcreek Park Tennis Courts",
       "lat": 39.542686,
       "lng": -119.723006,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3605,9 +3687,12 @@
     },
     {
       "id": "osm-w858288818",
-      "name": "Saddlehorn Park Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 39.398531,
       "lng": -119.792348,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": null,
@@ -3618,13 +3703,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w858386930",
       "name": "West Heritage by Cadence Tennis Courts",
       "lat": 36.068744,
       "lng": -114.965346,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "hard",
       "lighted": null,
@@ -3642,6 +3732,9 @@
       "name": "Tennis Courts · Rue de la Orange",
       "lat": 39.510521,
       "lng": -119.643718,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3661,6 +3754,9 @@
       "name": "Tennis Courts · Raven Avenue",
       "lat": 36.025834,
       "lng": -115.18698,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3677,9 +3773,12 @@
     },
     {
       "id": "osm-w890851246",
-      "name": "The Oasis - Palmer Course Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 36.816081,
       "lng": -114.07273,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3690,13 +3789,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w899716488",
       "name": "Oak Leaf Park Tennis Courts",
       "lat": 36.073537,
       "lng": -115.317446,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3710,11 +3814,14 @@
       "tags": {}
     },
     {
-      "id": "osm-w899908168",
+      "id": "osm-w899908173",
       "name": "Bill Briare Family Park Tennis Courts",
-      "lat": 36.178968,
-      "lng": -115.248441,
-      "courtCount": 5,
+      "lat": 36.178964,
+      "lng": -115.248435,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -3731,6 +3838,9 @@
       "name": "Granite Hills Tennis Courts",
       "lat": 36.213325,
       "lng": -115.340279,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "clay",
       "lighted": null,
@@ -3748,6 +3858,9 @@
       "name": "Reverence Park Tennis Courts",
       "lat": 36.217124,
       "lng": -115.334581,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3765,6 +3878,9 @@
       "name": "Bob Baskin Park Tennis Courts",
       "lat": 36.150843,
       "lng": -115.180818,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "hard",
       "lighted": null,
@@ -3782,6 +3898,9 @@
       "name": "Whitney Ranch Recreation Center Tennis Courts",
       "lat": 36.074487,
       "lng": -115.057277,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 13,
       "surface": "unknown",
       "lighted": null,
@@ -3799,6 +3918,9 @@
       "name": "Police Memorial Park Tennis Courts",
       "lat": 36.224144,
       "lng": -115.310632,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -3813,9 +3935,12 @@
     },
     {
       "id": "osm-w915637583",
-      "name": "Lake Ridge Golf Course Tennis Courts",
-      "lat": 39.471167,
+      "name": "Public Tennis Courts",
+      "lat": 39.471166,
       "lng": -119.820722,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3826,13 +3951,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w915651978",
-      "name": "Lake Ridge Golf Course Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 39.482371,
       "lng": -119.818631,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3843,13 +3973,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w941624685",
       "name": "Cornerstone Park Tennis Courts",
       "lat": 36.038061,
       "lng": -115.056578,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3867,6 +4002,9 @@
       "name": "Main City Park Tennis Courts",
       "lat": 40.842989,
       "lng": -115.753537,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -3884,6 +4022,9 @@
       "name": "Mogul Park Tennis Courts",
       "lat": 39.515546,
       "lng": -119.939202,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3901,6 +4042,9 @@
       "name": "Charleston Heights Park Tennis Courts",
       "lat": 36.200785,
       "lng": -115.227769,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3918,6 +4062,9 @@
       "name": "Cougar Creek Park Tennis Courts",
       "lat": 36.033855,
       "lng": -115.239384,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3935,6 +4082,9 @@
       "name": "Tennis Courts · Bernborough Lane",
       "lat": 39.43558,
       "lng": -119.724244,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3952,9 +4102,13 @@
     {
       "id": "osm-w986788206",
       "name": "Cyan Park Tennis Courts",
-      "lat": 39.444881,
-      "lng": -119.728782,
-      "courtCount": 1,
+      "lat": 39.444879,
+      "lng": -119.728888,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -3971,6 +4125,9 @@
       "name": "Tennis Courts · Oakland Hills Drive",
       "lat": 35.967405,
       "lng": -115.189952,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -3988,6 +4145,9 @@
       "name": "Cashman Park Tennis Courts",
       "lat": 36.131916,
       "lng": -115.204219,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -4002,9 +4162,12 @@
     },
     {
       "id": "osm-w1008158571",
-      "name": "Rhodes Ranch Country Club Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 36.043279,
       "lng": -115.293074,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -4019,9 +4182,12 @@
     },
     {
       "id": "osm-w1008718206",
-      "name": "Lakes Course Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 36.097553,
       "lng": -115.273445,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -4039,6 +4205,9 @@
       "name": "Eldorado High School Tennis Courts",
       "lat": 36.18002,
       "lng": -115.050993,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -4058,6 +4227,9 @@
       "name": "East Career Technical Academy Tennis Courts",
       "lat": 36.136784,
       "lng": -115.023455,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -4077,6 +4249,9 @@
       "name": "Whitney Park Tennis Courts",
       "lat": 36.095283,
       "lng": -115.048992,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4091,9 +4266,12 @@
     },
     {
       "id": "osm-w1023463052",
-      "name": "Incline Village Golf Courses - Championship Course Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 39.253535,
       "lng": -119.949663,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4104,13 +4282,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1025754693",
       "name": "Tennis Courts · Flowers Avenue",
       "lat": 39.050735,
       "lng": -119.944984,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4130,6 +4313,9 @@
       "name": "Tennis Courts · Linda Avenue",
       "lat": 36.131931,
       "lng": -115.113358,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4146,9 +4332,12 @@
     },
     {
       "id": "osm-w1056210719",
-      "name": "Las Vegas Country Club Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 36.132954,
       "lng": -115.141423,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4159,13 +4348,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1056519239",
       "name": "Allora at Spring Valley Apartments Tennis Courts",
       "lat": 36.136247,
       "lng": -115.207288,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4176,13 +4370,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1057860315",
       "name": "Tennis Courts · O'Bannon Drive",
       "lat": 36.147334,
       "lng": -115.220249,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4202,6 +4401,9 @@
       "name": "Tennis Courts · Via Olivero Avenue",
       "lat": 36.146005,
       "lng": -115.25381,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4221,6 +4423,9 @@
       "name": "Tennis Courts · O'Bannon Drive",
       "lat": 36.146708,
       "lng": -115.255522,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4240,6 +4445,9 @@
       "name": "Tennis Courts · Rockwind Court",
       "lat": 36.146845,
       "lng": -115.266409,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4259,6 +4467,9 @@
       "name": "Tennis Courts · Via Olivero Avenue",
       "lat": 36.146283,
       "lng": -115.26925,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4276,8 +4487,11 @@
     {
       "id": "osm-w1062820398",
       "name": "Tennis Courts · South Buffalo Drive",
-      "lat": 36.139592,
+      "lat": 36.139591,
       "lng": -115.260668,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4297,6 +4511,9 @@
       "name": "Tennis Courts · Laredo Street",
       "lat": 36.141661,
       "lng": -115.264456,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4316,6 +4533,9 @@
       "name": "Tennis Courts · River Pines Court",
       "lat": 36.142041,
       "lng": -115.288773,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4335,6 +4555,9 @@
       "name": "Tennis Courts · Gladwell Court",
       "lat": 36.146601,
       "lng": -115.272256,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4354,6 +4577,9 @@
       "name": "Indian Hills Apartments Tennis Courts",
       "lat": 36.147239,
       "lng": -115.202076,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4364,13 +4590,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1062820435",
       "name": "Tennis Courts · Del Rey Avenue",
       "lat": 36.156147,
       "lng": -115.198542,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4390,6 +4621,9 @@
       "name": "Valley High School Tennis Courts",
       "lat": 36.139209,
       "lng": -115.119489,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 7,
       "surface": "unknown",
       "lighted": null,
@@ -4409,6 +4643,9 @@
       "name": "Tennis Courts · Fairwood Drive",
       "lat": 39.486568,
       "lng": -119.741098,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4425,9 +4662,12 @@
     },
     {
       "id": "osm-w1071380725",
-      "name": "Genoa Golf Club - Lakes Course Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 39.010864,
       "lng": -119.833058,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4438,13 +4678,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1072948783",
       "name": "Echo Trail Park Tennis Courts",
       "lat": 36.085572,
       "lng": -115.262237,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": true,
@@ -4458,18 +4703,44 @@
       "tags": {}
     },
     {
-      "id": "osm-w1080173461",
-      "name": "Tennis Courts · Village View Drive",
-      "lat": 36.022389,
-      "lng": -115.093963,
-      "courtCount": 8,
+      "id": "osm-w1076564791",
+      "name": "Public Pickleball Courts",
+      "lat": 36.809518,
+      "lng": -114.069005,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "hard",
+      "lighted": true,
+      "indoor": null,
+      "access": "public",
+      "fee": null,
+      "address": "49 West Old Mill Road",
+      "city": "Mesquite",
+      "state": "NV",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
+      "id": "osm-w1419556027",
+      "name": "1",
+      "lat": 36.022449,
+      "lng": -115.093558,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 16,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
       "access": "customers",
       "fee": null,
-      "address": "Village View Drive",
-      "city": "Henderson",
+      "address": null,
+      "city": null,
       "state": "NV",
       "source": "osm",
       "tags": {}
@@ -4479,6 +4750,9 @@
       "name": "Tennis Courts · North Armory Road",
       "lat": 38.526514,
       "lng": -118.632699,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4498,6 +4772,9 @@
       "name": "Proctor R. Hug High School Tennis Courts",
       "lat": 39.564152,
       "lng": -119.77029,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "hard",
       "lighted": null,
@@ -4517,6 +4794,9 @@
       "name": "Tennis Courts · Prado Verde Lane",
       "lat": 39.537358,
       "lng": -119.740702,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4536,6 +4816,9 @@
       "name": "Springland Village Tennis Courts",
       "lat": 39.553682,
       "lng": -119.718392,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": null,
@@ -4546,13 +4829,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1087962726",
       "name": "Tennis Courts · Algonquin Drive",
       "lat": 36.118999,
       "lng": -115.134083,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4572,6 +4860,9 @@
       "name": "Tennis Courts · McLeod Drive",
       "lat": 36.089513,
       "lng": -115.109226,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4587,10 +4878,33 @@
       }
     },
     {
+      "id": "osm-w1105630314",
+      "name": "Wilkinson Park Pickleball Courts",
+      "lat": 39.518655,
+      "lng": -119.791328,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {}
+    },
+    {
       "id": "osm-w1107837081",
       "name": "Ellen's Park Tennis Courts",
       "lat": 39.422696,
       "lng": -119.768671,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4608,6 +4922,9 @@
       "name": "Tennis Courts · Skycrest Drive",
       "lat": 36.039864,
       "lng": -115.149302,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4627,6 +4944,9 @@
       "name": "Tennis Courts · Federman Drive",
       "lat": 36.033613,
       "lng": -115.151049,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4646,6 +4966,9 @@
       "name": "John R. Beatty Elementary School Tennis Courts",
       "lat": 36.030255,
       "lng": -115.151132,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -4662,11 +4985,14 @@
       }
     },
     {
-      "id": "osm-w1125835519",
-      "name": "Shadow Ridge High School Tennis Courts",
-      "lat": 36.318889,
-      "lng": -115.20808,
-      "courtCount": 1,
+      "id": "osm-w1124710487",
+      "name": "Trilogy at Sunstone Pickleball Courts",
+      "lat": 36.331346,
+      "lng": -115.307081,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -4677,14 +5003,37 @@
       "state": "NV",
       "source": "osm",
       "tags": {
-        "context": "school"
+        "context": "residential"
       }
+    },
+    {
+      "id": "osm-w1137071477",
+      "name": "Galaxy Park Pickleball Courts",
+      "lat": 36.297557,
+      "lng": -115.201826,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {}
     },
     {
       "id": "osm-w1138164612",
       "name": "Discovery Park Tennis Courts",
       "lat": 36.016631,
       "lng": -115.073988,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4702,6 +5051,9 @@
       "name": "Mountain View Park Tennis Courts",
       "lat": 36.029821,
       "lng": -115.071355,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4717,8 +5069,11 @@
     {
       "id": "osm-w1138543359",
       "name": "Mountain View Park Tennis Courts",
-      "lat": 36.028778,
+      "lat": 36.028777,
       "lng": -115.069961,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4736,6 +5091,9 @@
       "name": "Pecos Legacy Park Tennis Courts",
       "lat": 36.038173,
       "lng": -115.099835,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4753,6 +5111,9 @@
       "name": "Tennis Courts · Little Springs Road",
       "lat": 36.151895,
       "lng": -115.422999,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4772,6 +5133,9 @@
       "name": "Tennis Courts · Sandstone Drive",
       "lat": 36.151983,
       "lng": -115.419111,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4791,6 +5155,9 @@
       "name": "Silver Springs Park Tennis Courts",
       "lat": 36.045245,
       "lng": -115.074342,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4808,7 +5175,30 @@
       "name": "Highland Park Tennis Courts",
       "lat": 38.085673,
       "lng": -117.247933,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1151992417",
+      "name": "Regency at Caramella Ranch Pickleball Courts",
+      "lat": 39.411031,
+      "lng": -119.722673,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -4825,6 +5215,9 @@
       "name": "Meadows School Tennis Courts",
       "lat": 36.195378,
       "lng": -115.285229,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -4844,6 +5237,9 @@
       "name": "The Hills Park Tennis Courts",
       "lat": 36.20003,
       "lng": -115.292693,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4861,6 +5257,9 @@
       "name": "Vesco Park Tennis Courts",
       "lat": 40.971557,
       "lng": -117.725308,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4878,6 +5277,9 @@
       "name": "Saddlebrook Park Tennis Courts",
       "lat": 36.286601,
       "lng": -115.125627,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4891,11 +5293,15 @@
       "tags": {}
     },
     {
-      "id": "osm-w1188773662",
+      "id": "osm-w1188773661",
       "name": "Durango Hills Golf Club Tennis Courts",
-      "lat": 36.225839,
-      "lng": -115.279729,
-      "courtCount": 1,
+      "lat": 36.225616,
+      "lng": -115.279666,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -4912,6 +5318,9 @@
       "name": "Mera Henderson Tennis Courts",
       "lat": 35.943405,
       "lng": -115.130481,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4922,13 +5331,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1192156398",
       "name": "Tennis Courts · Foster Drive",
       "lat": 39.516018,
       "lng": -119.841879,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4948,6 +5362,9 @@
       "name": "Tennis Courts · Majestic View Drive",
       "lat": 39.368792,
       "lng": -119.722712,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4965,8 +5382,11 @@
     {
       "id": "osm-w1210180524",
       "name": "Ridgeline at Caramella Ranch Tennis Courts",
-      "lat": 39.406203,
+      "lat": 39.406204,
       "lng": -119.724763,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4977,13 +5397,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1210194465",
       "name": "Public Tennis Courts",
       "lat": 39.468339,
       "lng": -119.797441,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5003,6 +5428,9 @@
       "name": "Donner Creek Village Tennis Courts",
       "lat": 39.473264,
       "lng": -119.74859,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -5020,6 +5448,9 @@
       "name": "Reggie Road Exercise Area Tennis Courts",
       "lat": 39.478543,
       "lng": -119.74639,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5037,6 +5468,9 @@
       "name": "Rosewood Park Apartments Tennis Courts",
       "lat": 39.484965,
       "lng": -119.744329,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5047,13 +5481,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1210343200",
       "name": "Tennis Courts · North Street",
       "lat": 39.529154,
       "lng": -119.775434,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5073,6 +5512,9 @@
       "name": "Tennis Courts · Weybridge Drive",
       "lat": 36.116025,
       "lng": -115.088329,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5092,6 +5534,9 @@
       "name": "Tennis Courts · Broadgate Lane",
       "lat": 36.116997,
       "lng": -115.086435,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5107,10 +5552,35 @@
       }
     },
     {
+      "id": "osm-w1220057512",
+      "name": "Public Pickleball Courts",
+      "lat": 36.836993,
+      "lng": -114.116507,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
       "id": "osm-w1236635650",
       "name": "Carlin Park Tennis Courts",
       "lat": 40.709778,
       "lng": -116.117862,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5124,10 +5594,35 @@
       "tags": {}
     },
     {
+      "id": "osm-w1237657272",
+      "name": "Skye Hills Park at Farm Rd Pickleball Courts",
+      "lat": 36.298904,
+      "lng": -115.333928,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": true,
+      "indoor": null,
+      "access": "public",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
       "id": "osm-w1240812597",
       "name": "Centennial Hills Park Tennis Courts",
       "lat": 36.288904,
       "lng": -115.262046,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5145,6 +5640,9 @@
       "name": "Echo Bay Condominiums Tennis Courts",
       "lat": 36.138748,
       "lng": -115.068384,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5155,13 +5653,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1254132932",
       "name": "Teglia's Paradise Park Tennis Courts",
       "lat": 39.541394,
       "lng": -119.776544,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5179,6 +5682,9 @@
       "name": "Kathleen and Tim Harney Middle School Tennis Courts",
       "lat": 36.152734,
       "lng": -115.020775,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -5198,6 +5704,9 @@
       "name": "Tennis Courts · Lake Las Vegas Parkway",
       "lat": 36.088029,
       "lng": -114.9313,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -5211,27 +5720,13 @@
       "tags": {}
     },
     {
-      "id": "osm-w1271592473",
-      "name": "Huckleberry Park Tennis Courts",
-      "lat": 36.298554,
-      "lng": -115.322636,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "NV",
-      "source": "osm",
-      "tags": {}
-    },
-    {
       "id": "osm-w1274522423",
       "name": "Tennis Courts · East Frias Avenue",
       "lat": 36.002338,
       "lng": -115.158416,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5251,6 +5746,9 @@
       "name": "Tennis Courts · East Shelbourne Avenue",
       "lat": 36.038182,
       "lng": -115.162106,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5266,10 +5764,33 @@
       }
     },
     {
+      "id": "osm-w1285631421",
+      "name": "Boulder Creek Golf Course Pickleball Courts",
+      "lat": 35.965566,
+      "lng": -114.861194,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {}
+    },
+    {
       "id": "osm-w1286325011",
       "name": "Tennis Courts · Clubhouse Avenue",
       "lat": 38.977931,
       "lng": -119.935731,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5289,6 +5810,10 @@
       "name": "Faith Lutheran Junior and Senior High School Tennis Courts",
       "lat": 36.151106,
       "lng": -115.317566,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
       "courtCount": 10,
       "surface": "unknown",
       "lighted": null,
@@ -5308,6 +5833,9 @@
       "name": "Spring Creek Marina Tennis Courts",
       "lat": 40.748864,
       "lng": -115.56652,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5325,6 +5853,9 @@
       "name": "Tennis Courts · Bulette Drive",
       "lat": 39.167597,
       "lng": -119.777661,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5341,9 +5872,12 @@
     },
     {
       "id": "osm-w1307551080",
-      "name": "TPC Summerlin Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 36.182814,
       "lng": -115.290109,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5354,13 +5888,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1308913907",
       "name": "Bert T Gandolfo Park Tennis Courts",
       "lat": 39.48883,
       "lng": -117.064754,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5378,6 +5917,9 @@
       "name": "Tennis Courts · South Town Center Drive",
       "lat": 36.128316,
       "lng": -115.325797,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5395,9 +5937,13 @@
     {
       "id": "osm-w1314959486",
       "name": "Public Tennis Courts",
-      "lat": 39.076316,
-      "lng": -119.945052,
-      "courtCount": 2,
+      "lat": 39.076259,
+      "lng": -119.945202,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -5407,15 +5953,16 @@
       "city": "Douglas County",
       "state": "NV",
       "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1314959489",
       "name": "Public Tennis Courts",
       "lat": 39.074931,
       "lng": -119.945234,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5435,6 +5982,9 @@
       "name": "Tennis Courts · Lakeshore Boulevard",
       "lat": 39.248374,
       "lng": -119.971016,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5454,6 +6004,9 @@
       "name": "Virgin Valley High School Tennis Courts",
       "lat": 36.811985,
       "lng": -114.052768,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -5469,10 +6022,33 @@
       }
     },
     {
+      "id": "osm-w1350986412",
+      "name": "Stonebridge Park Pickleball Courts",
+      "lat": 36.159135,
+      "lng": -115.368121,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {}
+    },
+    {
       "id": "osm-w1353995946",
       "name": "Tennis Courts · Fuselier Drive",
       "lat": 36.227073,
       "lng": -115.178086,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5492,6 +6068,9 @@
       "name": "The Aviator Tennis Courts",
       "lat": 35.984686,
       "lng": -115.15193,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5502,13 +6081,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1361963872",
       "name": "Moapa Valley High School Tennis Courts",
       "lat": 36.583309,
       "lng": -114.459676,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "hard",
       "lighted": null,
@@ -5528,6 +6112,9 @@
       "name": "Edward L Pine Middle School Tennis Courts",
       "lat": 39.478921,
       "lng": -119.780934,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -5547,6 +6134,9 @@
       "name": "Mack Lyon Park Tennis Courts",
       "lat": 36.542172,
       "lng": -114.45046,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "hard",
       "lighted": null,
@@ -5564,6 +6154,9 @@
       "name": "Tennis Courts · Conquista Court",
       "lat": 36.122658,
       "lng": -115.107691,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5583,6 +6176,9 @@
       "name": "Tennis Courts · Greenwich Village Avenue",
       "lat": 36.022593,
       "lng": -115.166127,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5602,6 +6198,9 @@
       "name": "Spanish Springs High School Tennis Courts",
       "lat": 39.648804,
       "lng": -119.731848,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -5617,10 +6216,33 @@
       }
     },
     {
+      "id": "osm-w1379329972",
+      "name": "Somerset HIlls Park Pickleball Courts",
+      "lat": 35.995561,
+      "lng": -115.198381,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {}
+    },
+    {
       "id": "osm-w1380102954",
       "name": "Jones Blackhurst Elementary School Tennis Courts",
       "lat": 35.986449,
       "lng": -115.259284,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -5640,6 +6262,9 @@
       "name": "Barry and June Gunderson Middle School Tennis Courts",
       "lat": 36.005092,
       "lng": -115.258768,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -5659,6 +6284,9 @@
       "name": "Lovelock City Park Tennis Courts",
       "lat": 40.173838,
       "lng": -118.475685,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5676,6 +6304,9 @@
       "name": "Tennis Courts · Lincoln Highway",
       "lat": 39.053861,
       "lng": -119.945069,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5693,11 +6324,15 @@
     {
       "id": "osm-w1390723798",
       "name": "Tennis Courts · Regency Peak Avenue",
-      "lat": 36.065837,
-      "lng": -115.313004,
-      "courtCount": 7,
+      "lat": 36.06587,
+      "lng": -115.312921,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 8,
       "surface": "unknown",
-      "lighted": null,
+      "lighted": true,
       "indoor": null,
       "access": "unknown",
       "fee": null,
@@ -5708,28 +6343,15 @@
       "tags": {}
     },
     {
-      "id": "osm-w1416168888",
-      "name": "Sunny Springs Park Tennis Courts",
-      "lat": 36.293959,
-      "lng": -115.260166,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "NV",
-      "source": "osm",
-      "tags": {}
-    },
-    {
       "id": "osm-w1416976081",
       "name": "West Heritage by Cadence Tennis Courts",
       "lat": 36.068395,
-      "lng": -114.973612,
-      "courtCount": 1,
+      "lng": -114.973747,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -5746,6 +6368,9 @@
       "name": "Jack and Terry Mannion Middle School Tennis Courts",
       "lat": 35.989634,
       "lng": -114.97787,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -5765,6 +6390,9 @@
       "name": "Tennis Courts · North Campbell Road",
       "lat": 36.232501,
       "lng": -115.293543,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5784,6 +6412,9 @@
       "name": "Ross Gold Park Tennis Courts",
       "lat": 39.126329,
       "lng": -119.767737,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5801,6 +6432,9 @@
       "name": "Angel Park Tennis Courts",
       "lat": 36.17045,
       "lng": -115.27905,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5818,6 +6452,9 @@
       "name": "Bruce Trent Park Tennis Courts",
       "lat": 36.186365,
       "lng": -115.286742,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5835,6 +6472,9 @@
       "name": "Irwin and Susan Molasky Middle School Tennis Courts",
       "lat": 36.229235,
       "lng": -115.263838,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -5854,6 +6494,9 @@
       "name": "Judge Myron E. Leavitt Middle School Tennis Courts",
       "lat": 36.24654,
       "lng": -115.263063,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -5870,9 +6513,12 @@
     },
     {
       "id": "osm-w1432655840",
-      "name": "Eagle Crest Golf Course Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 36.200231,
       "lng": -115.335485,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -5890,6 +6536,9 @@
       "name": "Tennis Courts · Canto Avenue",
       "lat": 36.101083,
       "lng": -115.266513,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5909,6 +6558,9 @@
       "name": "Charlie Frias Park Tennis Courts",
       "lat": 36.104021,
       "lng": -115.211179,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5926,6 +6578,9 @@
       "name": "Bella Vita Condominiums Tennis Courts",
       "lat": 36.10915,
       "lng": -115.210923,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -5941,8 +6596,11 @@
     {
       "id": "osm-w1432657650",
       "name": "Ed W. Clark High School Tennis Courts",
-      "lat": 36.134138,
+      "lat": 36.134137,
       "lng": -115.196588,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -5962,6 +6620,9 @@
       "name": "Tennis Courts · East Harmon Avenue",
       "lat": 36.107176,
       "lng": -115.162654,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -5975,18 +6636,22 @@
       "tags": {}
     },
     {
-      "id": "osm-w1434957496",
-      "name": "Tennis Courts · Audrie Street",
-      "lat": 36.111926,
-      "lng": -115.166749,
-      "courtCount": 4,
+      "id": "osm-w1434957486",
+      "name": "Public Tennis Courts",
+      "lat": 36.11175,
+      "lng": -115.167013,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 18,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": "Audrie Street",
-      "city": "Paradise",
+      "address": null,
+      "city": null,
       "state": "NV",
       "source": "osm",
       "tags": {}
@@ -5996,6 +6661,9 @@
       "name": "Tennis Courts · Willow Green Drive",
       "lat": 36.125145,
       "lng": -115.150692,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6015,6 +6683,9 @@
       "name": "Tennis Courts · Love Street",
       "lat": 36.128885,
       "lng": -115.115848,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6034,6 +6705,9 @@
       "name": "Paradise Park Tennis Courts",
       "lat": 36.102456,
       "lng": -115.11168,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6051,6 +6725,9 @@
       "name": "Del Sol High School Tennis Courts",
       "lat": 36.082396,
       "lng": -115.107469,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -6070,6 +6747,9 @@
       "name": "Tennis Courts · Lawrence Street",
       "lat": 36.267375,
       "lng": -115.121855,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6087,6 +6767,9 @@
       "name": "Northeast Career & Tecnical Academy Tennis Courts",
       "lat": 36.287047,
       "lng": -115.148002,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6106,6 +6789,9 @@
       "name": "Brian and Teri Cram Middle School Tennis Courts",
       "lat": 36.284493,
       "lng": -115.168267,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6125,6 +6811,9 @@
       "name": "Lorenzi Park Tennis Courts",
       "lat": 36.180565,
       "lng": -115.182325,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 10,
       "surface": "unknown",
       "lighted": null,
@@ -6142,6 +6831,9 @@
       "name": "Las Vegas Academy of the Arts Tennis Courts",
       "lat": 36.163694,
       "lng": -115.140862,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6161,6 +6853,9 @@
       "name": "Rancho High School Tennis Courts",
       "lat": 36.186509,
       "lng": -115.121386,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -6180,6 +6875,9 @@
       "name": "Tennis Courts · Park Court",
       "lat": 36.160946,
       "lng": -115.083302,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6199,6 +6897,9 @@
       "name": "Chaparral High School Tennis Courts",
       "lat": 36.120031,
       "lng": -115.084217,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -6218,6 +6919,9 @@
       "name": "Southeast Career and Technical Academy Tennis Courts",
       "lat": 36.080726,
       "lng": -115.066525,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -6237,6 +6941,9 @@
       "name": "Las Vegas High School Tennis Courts",
       "lat": 36.14653,
       "lng": -115.03014,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -6256,6 +6963,9 @@
       "name": "Lyal W Burkholder Junior High School Tennis Courts",
       "lat": 36.030647,
       "lng": -114.994603,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6275,6 +6985,9 @@
       "name": "Cinnamon Ridge Park Tennis Courts",
       "lat": 36.035227,
       "lng": -114.958287,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -6292,6 +7005,9 @@
       "name": "Lawrence and Heidi Canarelli Middle School Tennis Courts",
       "lat": 36.047625,
       "lng": -115.233953,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6311,6 +7027,9 @@
       "name": "Lampe Park Tennis Courts",
       "lat": 38.932848,
       "lng": -119.745341,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6328,6 +7047,9 @@
       "name": "Douglas High School Tennis Courts",
       "lat": 38.956983,
       "lng": -119.78126,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6347,6 +7069,9 @@
       "name": "Sunset Park Tennis Courts",
       "lat": 36.057671,
       "lng": -115.112607,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6364,6 +7089,9 @@
       "name": "Sunset Park Tennis Courts",
       "lat": 36.057221,
       "lng": -115.110988,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6381,6 +7109,9 @@
       "name": "Sunset Park Tennis Courts",
       "lat": 36.058845,
       "lng": -115.111008,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6398,6 +7129,9 @@
       "name": "Sunset Park Tennis Courts",
       "lat": 36.058083,
       "lng": -115.108228,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6415,6 +7149,9 @@
       "name": "Tennis Courts · Leigh Avenue",
       "lat": 36.092108,
       "lng": -115.11559,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6432,6 +7169,9 @@
       "name": "Tennis Courts · Santa Anita Drive",
       "lat": 36.105139,
       "lng": -115.133021,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6451,6 +7191,9 @@
       "name": "Tennis Courts · East Harmon Avenue",
       "lat": 36.106927,
       "lng": -115.127257,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6470,6 +7213,9 @@
       "name": "Tennis Courts · East Rochelle Avenue",
       "lat": 36.111964,
       "lng": -115.131447,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6489,6 +7235,9 @@
       "name": "Siegfried and Roy Park Tennis Courts",
       "lat": 36.08931,
       "lng": -115.139138,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6506,6 +7255,9 @@
       "name": "Tennis Courts · South Pecos Road",
       "lat": 36.062058,
       "lng": -115.101026,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6525,6 +7277,9 @@
       "name": "Tennis Courts · South Mojave Road",
       "lat": 36.101737,
       "lng": -115.105834,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6544,6 +7299,9 @@
       "name": "Tennis Courts · East Hacienda Avenue",
       "lat": 36.092827,
       "lng": -115.112101,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6563,6 +7321,9 @@
       "name": "Tennis Courts · Topaz Street",
       "lat": 36.089028,
       "lng": -115.115007,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6582,6 +7343,9 @@
       "name": "Tennis Courts · Sterling Circle",
       "lat": 36.094075,
       "lng": -115.115365,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6601,6 +7365,9 @@
       "name": "Wayne Newton's Casa de Shenandoah Tennis Courts",
       "lat": 36.07125,
       "lng": -115.102412,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6611,13 +7378,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1443262617",
       "name": "Tennis Courts · Five Pennies Lane",
       "lat": 36.068175,
       "lng": -115.099915,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6637,6 +7409,9 @@
       "name": "Tennis Courts · Pama Lane",
       "lat": 36.066104,
       "lng": -115.095235,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6656,6 +7431,9 @@
       "name": "Tennis Courts · Pama Lane",
       "lat": 36.066088,
       "lng": -115.093853,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6675,6 +7453,9 @@
       "name": "Tennis Courts · Caesars Circle",
       "lat": 36.067695,
       "lng": -115.093179,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6694,6 +7475,9 @@
       "name": "Tennis Courts · La Mesa Drive",
       "lat": 36.063724,
       "lng": -115.095025,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6713,6 +7497,9 @@
       "name": "Tennis Courts · Quail Estates Drive",
       "lat": 36.058873,
       "lng": -115.094665,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6728,11 +7515,15 @@
       }
     },
     {
-      "id": "osm-w1443438635",
-      "name": "Nate Mack Elementary School Tennis Courts",
-      "lat": 36.058316,
-      "lng": -115.101531,
-      "courtCount": 1,
+      "id": "osm-w1443438633",
+      "name": "Public Tennis Courts",
+      "lat": 36.058314,
+      "lng": -115.101665,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -6742,15 +7533,16 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {
-        "context": "school"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1443438636",
       "name": "Tennis Courts · Montecito Drive",
       "lat": 36.058408,
       "lng": -115.104065,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6770,6 +7562,9 @@
       "name": "Sunset Park Tennis Courts",
       "lat": 36.062729,
       "lng": -115.10648,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6787,6 +7582,9 @@
       "name": "Tennis Courts · East Maule Avenue",
       "lat": 36.063189,
       "lng": -115.101712,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6806,6 +7604,9 @@
       "name": "Sunset Park Tennis Courts",
       "lat": 36.060412,
       "lng": -115.113714,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6823,6 +7624,9 @@
       "name": "Wildhorse Golf Club Tennis Courts",
       "lat": 36.057929,
       "lng": -115.076131,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6840,6 +7644,9 @@
       "name": "Club Sport Las Vegas Tennis Courts",
       "lat": 36.073725,
       "lng": -115.076827,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6857,6 +7664,9 @@
       "name": "Tennis Courts · Golden Willow Lane",
       "lat": 36.138217,
       "lng": -115.329227,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6874,11 +7684,35 @@
     {
       "id": "osm-w1446635268",
       "name": "Rosewood Park Apartments Tennis Courts",
-      "lat": 39.483001,
-      "lng": -119.745448,
-      "courtCount": 1,
+      "lat": 39.483002,
+      "lng": -119.745318,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1447183722",
+      "name": "Sunset Park Pickleball Courts",
+      "lat": 36.069297,
+      "lng": -115.116731,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 24,
+      "surface": "unknown",
+      "lighted": true,
       "indoor": null,
       "access": "unknown",
       "fee": null,
@@ -6893,6 +7727,9 @@
       "name": "Frank F. Garside Junior High School Tennis Courts",
       "lat": 36.169774,
       "lng": -115.234808,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6908,11 +7745,37 @@
       }
     },
     {
-      "id": "osm-w1447584568",
+      "id": "osm-w1447538189",
+      "name": "Public Pickleball Courts",
+      "lat": 36.058296,
+      "lng": -114.975025,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 2,
+      "surface": "hard",
+      "lighted": true,
+      "indoor": null,
+      "access": "public",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
+      "id": "osm-w1447584562",
       "name": "Hidden Valley Country Club Tennis Courts",
-      "lat": 39.488578,
-      "lng": -119.719862,
-      "courtCount": 1,
+      "lat": 39.488606,
+      "lng": -119.720135,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 7,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -6929,6 +7792,9 @@
       "name": "Rite of Passage High School Tennis Courts",
       "lat": 39.082257,
       "lng": -119.220857,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6948,6 +7814,9 @@
       "name": "In Town Tennis Courts",
       "lat": 39.606837,
       "lng": -119.251531,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6965,6 +7834,9 @@
       "name": "Pyramid Lake High School Tennis Courts",
       "lat": 39.824657,
       "lng": -119.368038,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6984,6 +7856,9 @@
       "name": "Tennis Courts · Miners Road",
       "lat": 39.459281,
       "lng": -118.792306,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -7001,6 +7876,9 @@
       "name": "Golden Valley Park Tennis Courts",
       "lat": 39.615625,
       "lng": -119.828712,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7018,6 +7896,9 @@
       "name": "Oats Park Tennis Courts",
       "lat": 39.472274,
       "lng": -118.770362,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7033,9 +7914,13 @@
     {
       "id": "osm-w1448416712",
       "name": "Hidden Valley Regional Park Tennis Courts",
-      "lat": 39.487491,
-      "lng": -119.713885,
-      "courtCount": 1,
+      "lat": 39.48749,
+      "lng": -119.713784,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 7,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -7050,9 +7935,13 @@
     {
       "id": "osm-w1448417603",
       "name": "Huffaker Park Tennis Courts",
-      "lat": 39.455229,
-      "lng": -119.768349,
-      "courtCount": 2,
+      "lat": 39.455215,
+      "lng": -119.768299,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -7069,6 +7958,9 @@
       "name": "PineWild Tennis Courts",
       "lat": 38.996228,
       "lng": -119.952016,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7079,13 +7971,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1448451111",
       "name": "Johnson Lane Park Tennis Courts",
       "lat": 39.041547,
       "lng": -119.725513,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7103,7 +8000,30 @@
       "name": "Mitch Park Tennis Courts",
       "lat": 38.906944,
       "lng": -119.732462,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1448527950",
+      "name": "Mills Park Pickleball Courts",
+      "lat": 39.168487,
+      "lng": -119.758773,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -7120,6 +8040,9 @@
       "name": "Bishop Manogue High School Tennis Courts",
       "lat": 39.423552,
       "lng": -119.766085,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 9,
       "surface": "unknown",
       "lighted": null,
@@ -7139,6 +8062,9 @@
       "name": "Southside Park Tennis Courts",
       "lat": 40.826946,
       "lng": -115.759556,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7156,6 +8082,9 @@
       "name": "Tennis Courts · Keno Drive",
       "lat": 41.985536,
       "lng": -114.668878,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7171,11 +8100,15 @@
       }
     },
     {
-      "id": "osm-w1449293010",
-      "name": "Incline Village Golf Courses - Championship Course Tennis Courts",
-      "lat": 39.245471,
-      "lng": -119.9441,
-      "courtCount": 7,
+      "id": "osm-w1449292788",
+      "name": "Public Tennis Courts",
+      "lat": 39.246182,
+      "lng": -119.943749,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 23,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -7192,6 +8125,9 @@
       "name": "Tyrolean Village Tennis Courts",
       "lat": 39.258038,
       "lng": -119.925407,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7202,13 +8138,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1449293310",
       "name": "Tennis Courts · Crystal Drive",
       "lat": 39.226285,
       "lng": -120.005262,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7227,8 +8168,12 @@
       "id": "osm-w1449293455",
       "name": "Tennis Courts · Tahoe Boulevard",
       "lat": 39.230302,
-      "lng": -120.002843,
-      "courtCount": 2,
+      "lng": -120.002887,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -7238,15 +8183,16 @@
       "city": "Washoe County",
       "state": "NV",
       "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1449442081",
       "name": "Washoe Golf Course Tennis Courts",
       "lat": 39.493884,
       "lng": -119.820207,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -7261,10 +8207,14 @@
     },
     {
       "id": "osm-w1449490384",
-      "name": "Canyon Golf Tennis Courts",
-      "lat": 39.530765,
-      "lng": -119.914398,
-      "courtCount": 2,
+      "name": "Public Tennis Courts",
+      "lat": 39.530764,
+      "lng": -119.914468,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -7281,6 +8231,9 @@
       "name": "Shoreline Plaza Apartments Tennis Courts",
       "lat": 39.520059,
       "lng": -119.841001,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7291,13 +8244,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1449566796",
       "name": "Whitaker Park Tennis Courts",
       "lat": 39.533509,
       "lng": -119.823486,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7315,6 +8273,9 @@
       "name": "Crystal Lakes Park Tennis Courts",
       "lat": 39.455549,
       "lng": -119.789164,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7328,10 +8289,35 @@
       "tags": {}
     },
     {
+      "id": "osm-w1449650119",
+      "name": "Redfield Ridge Pickleball Courts",
+      "lat": 39.478375,
+      "lng": -119.801128,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
       "id": "osm-w1449650242",
       "name": "Manzanita Park Tennis Courts",
       "lat": 39.483371,
       "lng": -119.803037,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7349,6 +8335,9 @@
       "name": "Tennis Courts · Roundhouse Road",
       "lat": 39.539976,
       "lng": -119.774663,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7365,9 +8354,12 @@
     },
     {
       "id": "osm-w1449671386",
-      "name": "Shelly Park Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 39.555268,
       "lng": -119.734221,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7378,14 +8370,20 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1449716916",
       "name": "Tennis Courts · Marigene Court",
       "lat": 39.485214,
-      "lng": -119.799618,
-      "courtCount": 2,
+      "lng": -119.799617,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -7395,15 +8393,16 @@
       "city": "Reno",
       "state": "NV",
       "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1449717110",
       "name": "Longford Park Tennis Courts",
       "lat": 39.547567,
       "lng": -119.738293,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7421,6 +8420,9 @@
       "name": "Edward C. Reed High School Tennis Courts",
       "lat": 39.558948,
       "lng": -119.721315,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -7440,6 +8442,9 @@
       "name": "Damonte Ranch High School Tennis Courts",
       "lat": 39.422942,
       "lng": -119.710973,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -7457,9 +8462,13 @@
     {
       "id": "osm-w1449938483",
       "name": "Tennis Courts · Bucephalus Parkway",
-      "lat": 39.437694,
-      "lng": -119.713154,
-      "courtCount": 1,
+      "lat": 39.437733,
+      "lng": -119.712992,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -7469,15 +8478,16 @@
       "city": "Reno",
       "state": "NV",
       "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1449938558",
       "name": "Aimone Park Tennis Courts",
       "lat": 39.561246,
       "lng": -119.743481,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7493,9 +8503,13 @@
     {
       "id": "osm-w1450083206",
       "name": "Tennis Courts · Maximus Lane",
-      "lat": 39.433855,
-      "lng": -119.725465,
-      "courtCount": 1,
+      "lat": 39.433858,
+      "lng": -119.725155,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 9,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -7505,15 +8519,16 @@
       "city": "Reno",
       "state": "NV",
       "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1450084898",
       "name": "Pah Rah Mountain Park Tennis Courts",
       "lat": 39.564355,
       "lng": -119.709814,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7531,6 +8546,9 @@
       "name": "Centennial Park Tennis Courts",
       "lat": 39.197512,
       "lng": -119.708756,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -7548,6 +8566,9 @@
       "name": "Public Tennis Courts",
       "lat": 36.02658,
       "lng": -115.169963,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7567,6 +8588,9 @@
       "name": "Silverado High School Tennis Courts",
       "lat": 36.025309,
       "lng": -115.128216,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -7586,6 +8610,9 @@
       "name": "Jack Lund Schofield Middle School Tennis Courts",
       "lat": 36.033795,
       "lng": -115.127664,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -7605,6 +8632,9 @@
       "name": "Coronado High School Tennis Courts",
       "lat": 35.996395,
       "lng": -115.111049,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -7621,9 +8651,12 @@
     },
     {
       "id": "osm-w1452623948",
-      "name": "Anthem Country Club Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 35.961892,
       "lng": -115.080221,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7634,13 +8667,18 @@
       "city": null,
       "state": "NV",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1465406821",
       "name": "Incline High School Tennis Courts",
       "lat": 39.256359,
       "lng": -119.952004,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -7656,10 +8694,33 @@
       }
     },
     {
+      "id": "osm-w1473278963",
+      "name": "Grand Park Pickleball Courts",
+      "lat": 36.194173,
+      "lng": -115.358323,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 6,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "public",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {}
+    },
+    {
       "id": "osm-w1478591809",
       "name": "Community College of Southern Nevada A D Guy Center Tennis Courts",
       "lat": 36.180419,
       "lng": -115.160287,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -7679,6 +8740,9 @@
       "name": "Charles Silvestri Junior High School Tennis Courts",
       "lat": 36.012775,
       "lng": -115.139368,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -7698,6 +8762,9 @@
       "name": "Tennis Courts · Rock Springs Drive",
       "lat": 36.190218,
       "lng": -115.245753,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7713,11 +8780,37 @@
       }
     },
     {
+      "id": "osm-w1511117399",
+      "name": "Public Pickleball Courts",
+      "lat": 36.056791,
+      "lng": -115.446932,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
       "id": "osm-w1516697691",
       "name": "Tennis Courts · Topaz Road",
-      "lat": 38.756972,
-      "lng": -119.365995,
-      "courtCount": 1,
+      "lat": 38.756922,
+      "lng": -119.365872,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -7727,15 +8820,16 @@
       "city": "Smith Valley",
       "state": "NV",
       "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1524787163",
       "name": "Tennis Courts · Lincoln Highway",
       "lat": 39.534718,
       "lng": -115.969302,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7751,10 +8845,57 @@
       }
     },
     {
+      "id": "osm-w1526538440",
+      "name": "Public Pickleball Courts",
+      "lat": 40.975783,
+      "lng": -117.709395,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
+      "id": "osm-w1536320693",
+      "name": "Five Ridges Pickleball Courts",
+      "lat": 39.617103,
+      "lng": -119.740171,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
       "id": "osm-w1536405349",
       "name": "William Bennett Park Tennis Courts",
       "lat": 35.149373,
       "lng": -114.623393,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -7770,9 +8911,13 @@
     {
       "id": "osm-w1536405612",
       "name": "Tennis Courts · Bay Sands Drive",
-      "lat": 35.132366,
+      "lat": 35.1323,
       "lng": -114.618559,
-      "courtCount": 1,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -7782,16 +8927,18 @@
       "city": "Clark County",
       "state": "NV",
       "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
+      "tags": {}
     },
     {
-      "id": "osm-w1538495362",
+      "id": "osm-w1538495319",
       "name": "Spirit Park Tennis Courts",
-      "lat": 36.299332,
-      "lng": -115.16249,
-      "courtCount": 1,
+      "lat": 36.299387,
+      "lng": -115.162567,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -7808,6 +8955,9 @@
       "name": "Indian Springs Pool Tennis Courts",
       "lat": 36.574803,
       "lng": -115.677165,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7825,6 +8975,9 @@
       "name": "Tennis Courts · Joe Parr Way",
       "lat": 38.994291,
       "lng": -119.159706,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7844,6 +8997,9 @@
       "name": "Tennis Courts · Austin Street",
       "lat": 38.988489,
       "lng": -119.20795,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": true,
@@ -7859,8 +9015,11 @@
     {
       "id": "osm-w1546149855",
       "name": "Zephyr Cove Park Tennis Courts",
-      "lat": 39.01115,
+      "lat": 39.011151,
       "lng": -119.943748,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": true,
@@ -7878,6 +9037,9 @@
       "name": "James Lee Park Tennis Courts",
       "lat": 39.086192,
       "lng": -119.785174,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7891,10 +9053,424 @@
       "tags": {}
     },
     {
-      "id": "osm-r18608340",
-      "name": "Theron L. Swainston Middle School Tennis Courts",
-      "lat": 36.228697,
-      "lng": -115.187179,
+      "id": "osm-w1558229646",
+      "name": "Shadow Ridge High School Tennis Courts",
+      "lat": 36.318991,
+      "lng": -115.208055,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 14,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {
+        "context": "school"
+      }
+    },
+    {
+      "id": "osm-w1558231079",
+      "name": "Sunny Springs Park Tennis Courts",
+      "lat": 36.293957,
+      "lng": -115.260163,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": true,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1558231693",
+      "name": "Mountain Ridge Park Tennis Courts",
+      "lat": 36.290023,
+      "lng": -115.279833,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": true,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1558232121",
+      "name": "Huckleberry Park Tennis Courts",
+      "lat": 36.298555,
+      "lng": -115.322636,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 6,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1558232631",
+      "name": "Centennial High School Courts Tennis Courts",
+      "lat": 36.27796,
+      "lng": -115.316948,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 8,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1558321449",
+      "name": "Public Tennis Courts",
+      "lat": 36.266231,
+      "lng": -115.092617,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 6,
+      "surface": "hard",
+      "lighted": null,
+      "indoor": false,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1558323534",
+      "name": "Sunrise Mountain High School Tennis Courts",
+      "lat": 36.204121,
+      "lng": -115.020869,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 8,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {
+        "context": "school"
+      }
+    },
+    {
+      "id": "osm-w1558540162",
+      "name": "Winterwood Park Tennis Courts",
+      "lat": 36.147814,
+      "lng": -115.058333,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": true,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1559073267",
+      "name": "Children's Memorial Park Tennis Courts",
+      "lat": 36.22456,
+      "lng": -115.241916,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": true,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1559075638",
+      "name": "West Career & Technical Academy Tennis Courts",
+      "lat": 36.15766,
+      "lng": -115.356855,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 8,
+      "surface": "clay",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {
+        "context": "school"
+      }
+    },
+    {
+      "id": "osm-w1559421804",
+      "name": "Stallion Mountain Tennis Courts",
+      "lat": 36.12123,
+      "lng": -115.042249,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 6,
+      "surface": "unknown",
+      "lighted": true,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1559427333",
+      "name": "Public Tennis Courts",
+      "lat": 36.095785,
+      "lng": -115.094401,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 4,
+      "surface": "unknown",
+      "lighted": true,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1560216418",
+      "name": "Lone Mountain Regional Park Tennis Courts",
+      "lat": 36.247157,
+      "lng": -115.310304,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 6,
+      "surface": "unknown",
+      "lighted": true,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1560287550",
+      "name": "Turf Area Tennis Courts",
+      "lat": 36.075733,
+      "lng": -114.981343,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 2,
+      "surface": "hard",
+      "lighted": true,
+      "indoor": null,
+      "access": "public",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1560287968",
+      "name": "Rodeo Park Tennis Courts",
+      "lat": 36.077116,
+      "lng": -115.017824,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": true,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1560288461",
+      "name": "Trail Canyon Park Tennis Courts",
+      "lat": 36.04621,
+      "lng": -115.037274,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 2,
+      "surface": "hard",
+      "lighted": true,
+      "indoor": null,
+      "access": "public",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1560289217",
+      "name": "Siena Heights Trailhead Tennis Courts",
+      "lat": 36.013051,
+      "lng": -115.104803,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1560289248",
+      "name": "Duck Creek Park Tennis Courts",
+      "lat": 36.032757,
+      "lng": -115.144167,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1560291201",
+      "name": "Sunset Park Tennis Courts",
+      "lat": 36.071,
+      "lng": -115.116654,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 8,
+      "surface": "unknown",
+      "lighted": true,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1560296056",
+      "name": "Winchester Park Tennis Courts",
+      "lat": 36.131853,
+      "lng": -115.108754,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": true,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1560296276",
+      "name": "Jerome D. Mack Middle School Tennis Courts",
+      "lat": 36.14092,
+      "lng": -115.079789,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -7910,10 +9486,201 @@
       }
     },
     {
-      "id": "osm-r18608395",
-      "name": "Cheyenne High School Tennis Courts",
-      "lat": 36.234034,
-      "lng": -115.181021,
+      "id": "osm-w1560296807",
+      "name": "Jaycee Park Tennis Courts",
+      "lat": 36.146915,
+      "lng": -115.114968,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 6,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1560298161",
+      "name": "Public Tennis Courts",
+      "lat": 36.112805,
+      "lng": -115.197285,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 3,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1560298584",
+      "name": "Paul Meyer Park Tennis Courts",
+      "lat": 36.10613,
+      "lng": -115.251741,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1560300191",
+      "name": "Durango High School Tennis Courts",
+      "lat": 36.09031,
+      "lng": -115.247797,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 8,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {
+        "context": "school"
+      }
+    },
+    {
+      "id": "osm-w1560300423",
+      "name": "Craig Ranch Regional Park Tennis Courts",
+      "lat": 36.24216,
+      "lng": -115.152447,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 6,
+      "surface": "unknown",
+      "lighted": true,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1560301852",
+      "name": "Wilbur & Theresa Faiss Middle School Tennis Courts",
+      "lat": 36.062354,
+      "lng": -115.299454,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 14,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {
+        "context": "school"
+      }
+    },
+    {
+      "id": "osm-w1560302517",
+      "name": "Mesa Park Tennis Courts",
+      "lat": 36.089694,
+      "lng": -115.325784,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 2,
+      "surface": "clay",
+      "lighted": true,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1560303273",
+      "name": "Public Tennis Courts",
+      "lat": 36.113879,
+      "lng": -115.346948,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 8,
+      "surface": "clay",
+      "lighted": true,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1560303776",
+      "name": "Public Tennis Courts",
+      "lat": 36.149099,
+      "lng": -115.3484,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 13,
+      "surface": "unknown",
+      "lighted": true,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "NV",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1560304136",
+      "name": "Palo Verde High School Tennis Courts",
+      "lat": 36.172149,
+      "lng": -115.335108,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,

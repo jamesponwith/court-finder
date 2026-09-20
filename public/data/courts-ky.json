@@ -7,6 +7,9 @@
       "name": "Mount Washington City Park Tennis Courts",
       "lat": 38.040385,
       "lng": -85.565493,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -24,7 +27,51 @@
       "name": "Hunter Field House Tennis Courts",
       "lat": 38.145496,
       "lng": -84.674966,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "KY",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-n13461635964",
+      "name": "Public Pickleball Courts",
+      "lat": 38.265268,
+      "lng": -85.726535,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 6,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "KY",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w917825447",
+      "name": "Stonegate Park Tennis Courts",
+      "lat": 38.07032,
+      "lng": -84.720166,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -41,6 +88,9 @@
       "name": "Tennis Courts · Country Club Estates",
       "lat": 37.099418,
       "lng": -84.109586,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -58,6 +108,9 @@
       "name": "The Racquet Club",
       "lat": 37.965171,
       "lng": -84.488101,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -68,14 +121,20 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w28771765",
       "name": "Garrard City Park Tennis Courts",
-      "lat": 38.218425,
-      "lng": -84.246392,
-      "courtCount": 2,
+      "lat": 38.218424,
+      "lng": -84.246395,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -92,6 +151,9 @@
       "name": "Idle Hour Country Club Tennis Courts",
       "lat": 38.026915,
       "lng": -84.471053,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -109,6 +171,9 @@
       "name": "Merrick Place Apartments Tennis Courts",
       "lat": 37.995265,
       "lng": -84.492157,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -119,13 +184,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w34925179",
       "name": "Ecton Park Tennis Courts",
       "lat": 38.014253,
       "lng": -84.489451,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -143,6 +213,9 @@
       "name": "Tennis Courts · James Lane",
       "lat": 38.900644,
       "lng": -84.638561,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -162,6 +235,9 @@
       "name": "Walton-Verona Middle and High Schools Tennis Courts",
       "lat": 38.86581,
       "lng": -84.620493,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -181,6 +257,9 @@
       "name": "Charles Brooking Park Tennis Courts",
       "lat": 38.232891,
       "lng": -84.570997,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -198,6 +277,9 @@
       "name": "Tennis Courts · Squire Valley Drive",
       "lat": 39.062994,
       "lng": -84.576459,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -215,9 +297,13 @@
     {
       "id": "osm-w55676186",
       "name": "General Ormsby Mitchel Park Tennis Courts",
-      "lat": 39.054594,
-      "lng": -84.563912,
-      "courtCount": 3,
+      "lat": 39.054561,
+      "lng": -84.563904,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -234,6 +320,9 @@
       "name": "Tennis Courts · Brentlinger Lane",
       "lat": 38.133145,
       "lng": -85.561755,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -253,6 +342,9 @@
       "name": "Tennis Courts · Edenderry Drive",
       "lat": 39.06025,
       "lng": -84.565184,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -272,6 +364,9 @@
       "name": "Tennis Courts · Edenderry Drive",
       "lat": 39.060125,
       "lng": -84.566654,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -291,6 +386,9 @@
       "name": "Iroquois Park Tennis Courts",
       "lat": 38.163189,
       "lng": -85.780345,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -308,6 +406,9 @@
       "name": "George Rogers Clark Park Tennis Courts",
       "lat": 38.217721,
       "lng": -85.725362,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -325,6 +426,9 @@
       "name": "Bellarmine University Tennis Courts",
       "lat": 38.220799,
       "lng": -85.707267,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -344,6 +448,9 @@
       "name": "Farnsley Park Tennis Courts",
       "lat": 38.215506,
       "lng": -85.652462,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -358,9 +465,12 @@
     },
     {
       "id": "osm-w60876256",
-      "name": "Tower Park Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 39.065884,
       "lng": -84.443721,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -378,6 +488,9 @@
       "name": "Brown Park Tennis Courts",
       "lat": 38.240524,
       "lng": -85.634117,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -395,6 +508,9 @@
       "name": "Tennis Courts · Lancaster Place",
       "lat": 38.227612,
       "lng": -85.580068,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -414,6 +530,9 @@
       "name": "Hurstbourne Town Houses Tennis Courts",
       "lat": 38.237966,
       "lng": -85.578322,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -424,13 +543,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w61687992",
       "name": "Overlook at Saint Thomas Tennis Courts",
       "lat": 38.293424,
       "lng": -85.625559,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -441,13 +565,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w62226902",
       "name": "Tennis Courts · Bronner Circle",
       "lat": 38.185498,
       "lng": -85.627075,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -466,7 +595,10 @@
       "id": "osm-w62414106",
       "name": "Kentucky Country Day School Tennis Courts",
       "lat": 38.303902,
-      "lng": -85.580597,
+      "lng": -85.580598,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -486,6 +618,9 @@
       "name": "Standard Country Club Tennis Courts",
       "lat": 38.29303,
       "lng": -85.598426,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -500,9 +635,12 @@
     },
     {
       "id": "osm-w63666563",
-      "name": "Indian Springs Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 38.286752,
       "lng": -85.540026,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -513,13 +651,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w64746245",
       "name": "Tennis Courts · Mount Sterling Road",
       "lat": 38.012168,
       "lng": -84.158488,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "hard",
       "lighted": null,
@@ -537,6 +680,9 @@
       "name": "Richardson Road Park Tennis Courts",
       "lat": 38.973822,
       "lng": -84.586163,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -554,6 +700,9 @@
       "name": "Tennis Courts · Florence Pike",
       "lat": 39.022304,
       "lng": -84.694392,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -573,6 +722,9 @@
       "name": "Boone Woods County Park Tennis Courts",
       "lat": 39.02588,
       "lng": -84.708116,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -590,6 +742,9 @@
       "name": "Darlington Farm Tennis Courts",
       "lat": 39.025972,
       "lng": -84.711954,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -600,13 +755,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w68307172",
       "name": "Tennis Courts · Petersburg Road",
       "lat": 39.077995,
       "lng": -84.757001,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -626,6 +786,9 @@
       "name": "Tennis Courts · Marshall Road",
       "lat": 38.926337,
       "lng": -84.50873,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -644,7 +807,10 @@
       "id": "osm-w80309503",
       "name": "Tennis Courts · Fox Chase Drive",
       "lat": 39.060995,
-      "lng": -84.470488,
+      "lng": -84.470487,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -664,6 +830,9 @@
       "name": "Bellevue Athletic Center Tennis Courts",
       "lat": 39.097343,
       "lng": -84.4813,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -683,6 +852,9 @@
       "name": "Tennis Courts · Walton-Verona Road",
       "lat": 38.844717,
       "lng": -84.636961,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -702,6 +874,9 @@
       "name": "Ryle High School;Gray Middle School;Mann Elementary School Tennis Courts",
       "lat": 38.933301,
       "lng": -84.682687,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -721,6 +896,9 @@
       "name": "Tennis Courts · Hackney Court",
       "lat": 38.970034,
       "lng": -84.643387,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -740,6 +918,9 @@
       "name": "Pebble Creek Tennis Courts",
       "lat": 38.994053,
       "lng": -84.707416,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -750,13 +931,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w80399389",
       "name": "Hampshire Tennis Courts",
       "lat": 38.949817,
       "lng": -84.654367,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -767,13 +953,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w80433453",
       "name": "Tennis Courts · Hathaway Road",
       "lat": 38.945692,
       "lng": -84.684563,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -793,6 +984,9 @@
       "name": "Conner Educational Campus Tennis Courts",
       "lat": 39.060213,
       "lng": -84.697141,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -812,6 +1006,9 @@
       "name": "Tennis Courts · Schababerle Hill Road",
       "lat": 38.890937,
       "lng": -84.276703,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -831,6 +1028,9 @@
       "name": "Treetops Tennis Courts",
       "lat": 39.102193,
       "lng": -84.73715,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -841,13 +1041,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w108069336",
       "name": "Tennis Courts · Hudnall Lane",
       "lat": 39.013009,
       "lng": -84.583914,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -867,6 +1072,9 @@
       "name": "Tennis Courts · Old Turkeyfoot Road",
       "lat": 38.993025,
       "lng": -84.590941,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -886,6 +1094,9 @@
       "name": "Meinken Park Tennis Courts",
       "lat": 39.058436,
       "lng": -84.499226,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -902,7 +1113,10 @@
       "id": "osm-w116690432",
       "name": "Tennis Courts · Lane Drive",
       "lat": 39.033818,
-      "lng": -84.57248,
+      "lng": -84.572481,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -919,9 +1133,12 @@
     },
     {
       "id": "osm-w116802574",
-      "name": "Northern Kentucky University Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 39.029414,
       "lng": -84.467925,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -933,7 +1150,7 @@
       "state": "KY",
       "source": "osm",
       "tags": {
-        "context": "school"
+        "context": "residential"
       }
     },
     {
@@ -941,6 +1158,9 @@
       "name": "Tennis Courts · Circleport Drive",
       "lat": 39.05267,
       "lng": -84.631719,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -960,6 +1180,9 @@
       "name": "Tennis Courts · Burgundy Hill Drive",
       "lat": 39.016,
       "lng": -84.692509,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -979,6 +1202,9 @@
       "name": "Tennis Courts · Steffen Court",
       "lat": 39.068833,
       "lng": -84.544341,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -998,6 +1224,9 @@
       "name": "Villa Madonna Academy;Villa Madonna Montessori School Tennis Courts",
       "lat": 39.068003,
       "lng": -84.592983,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1017,6 +1246,9 @@
       "name": "Prospect Point & the Lofts Tennis Courts",
       "lat": 39.063725,
       "lng": -84.612469,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1027,13 +1259,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w147576831",
       "name": "Kenlake State Resort Park Tennis Courts",
       "lat": 36.7672,
       "lng": -88.131782,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1050,7 +1287,10 @@
       "id": "osm-w148941909",
       "name": "Tennis Courts · Little Round Top",
       "lat": 39.084316,
-      "lng": -84.465234,
+      "lng": -84.465235,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1070,6 +1310,9 @@
       "name": "Tennis Courts · Devil’s Den",
       "lat": 39.082375,
       "lng": -84.464835,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1087,9 +1330,13 @@
     {
       "id": "osm-w152644004",
       "name": "Tyler Park Tennis Courts",
-      "lat": 38.231159,
-      "lng": -85.71653,
-      "courtCount": 4,
+      "lat": 38.230976,
+      "lng": -85.716383,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -1106,6 +1353,9 @@
       "name": "Louisville Tennis Center",
       "lat": 38.208138,
       "lng": -85.709344,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 11,
       "surface": "unknown",
       "lighted": null,
@@ -1123,6 +1373,9 @@
       "name": "Tennis Courts · Green Road",
       "lat": 38.874594,
       "lng": -84.562679,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1138,10 +1391,35 @@
       }
     },
     {
+      "id": "osm-w158650141",
+      "name": "Public Pickleball Courts",
+      "lat": 39.089577,
+      "lng": -84.556483,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "KY",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
       "id": "osm-w159137804",
       "name": "Mason County High School;Mason County Middle School;Straub Elementary School Tennis Courts",
       "lat": 38.634489,
       "lng": -83.791128,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1161,6 +1439,9 @@
       "name": "Tennis Courts · North Talbot Drive",
       "lat": 39.031517,
       "lng": -84.604981,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1180,6 +1461,9 @@
       "name": "Dixie Heights High School Tennis Courts",
       "lat": 39.024946,
       "lng": -84.588113,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -1199,6 +1483,9 @@
       "name": "Tennis Courts · Meadowlark Drive",
       "lat": 38.995626,
       "lng": -84.571664,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1218,6 +1505,9 @@
       "name": "Tennis Courts · Forsythia Court",
       "lat": 38.984913,
       "lng": -84.507101,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1237,6 +1527,9 @@
       "name": "Tennis Courts · Sugar Camp Road",
       "lat": 38.970263,
       "lng": -84.51227,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1256,6 +1549,9 @@
       "name": "Tennis Courts · Family Circle",
       "lat": 38.245923,
       "lng": -84.539609,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1275,6 +1571,9 @@
       "name": "Tennis Courts · South Shaw Lane",
       "lat": 39.078413,
       "lng": -84.441734,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1294,6 +1593,9 @@
       "name": "Tennis Courts · Judy Lane",
       "lat": 38.079296,
       "lng": -84.455779,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -1313,6 +1615,9 @@
       "name": "Tennis Courts · Mississippi Street",
       "lat": 37.888979,
       "lng": -85.944905,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1330,6 +1635,9 @@
       "name": "Thomas More University Tennis Courts",
       "lat": 39.022283,
       "lng": -84.566103,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -1349,6 +1657,9 @@
       "name": "Tennis Courts · Moock Road",
       "lat": 39.058524,
       "lng": -84.478823,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1368,6 +1679,9 @@
       "name": "Tennis Courts · Wrights Point Drive",
       "lat": 39.052187,
       "lng": -84.529442,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1387,6 +1701,9 @@
       "name": "Tennis Courts · Brave Rifles Regiment Avenue",
       "lat": 37.91351,
       "lng": -85.957163,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1406,6 +1723,9 @@
       "name": "Lake Forest Country Club Tennis Court",
       "lat": 38.266354,
       "lng": -85.484118,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "clay",
       "lighted": null,
@@ -1423,6 +1743,9 @@
       "name": "Tennis Courts · Peel Road",
       "lat": 39.074962,
       "lng": -84.752813,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1442,6 +1765,9 @@
       "name": "Tennis Courts · Petersburg Road",
       "lat": 39.080374,
       "lng": -84.749289,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1461,6 +1787,9 @@
       "name": "Tennis Courts · Ic-8025E",
       "lat": 38.481553,
       "lng": -82.877274,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1480,6 +1809,9 @@
       "name": "Boone Valley Estates Tennis Courts",
       "lat": 38.979782,
       "lng": -84.669137,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1490,13 +1822,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w224172931",
       "name": "Boone Valley Estates Tennis Courts",
       "lat": 38.977881,
       "lng": -84.667338,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1507,13 +1844,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w224172932",
       "name": "Public Tennis Courts",
       "lat": 38.983353,
       "lng": -84.675303,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1533,6 +1875,9 @@
       "name": "Ryland Lakes Golf Course Tennis Courts",
       "lat": 38.940598,
       "lng": -84.467503,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1550,6 +1895,9 @@
       "name": "Tennis Courts · South 22nd Street",
       "lat": 37.07182,
       "lng": -88.620463,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 7,
       "surface": "unknown",
       "lighted": true,
@@ -1567,6 +1915,9 @@
       "name": "Centre College Tennis Courts",
       "lat": 37.642478,
       "lng": -84.782111,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1586,6 +1937,9 @@
       "name": "The Downs Tennis Courts",
       "lat": 38.92683,
       "lng": -84.674768,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1596,13 +1950,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w230594049",
       "name": "Woodland Park Tennis Courts",
       "lat": 38.034789,
       "lng": -84.491483,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1620,6 +1979,9 @@
       "name": "General Butler Golf course Tennis Courts",
       "lat": 38.671509,
       "lng": -85.155104,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1637,6 +1999,9 @@
       "name": "Orleans Park Tennis Courts",
       "lat": 38.971732,
       "lng": -84.693309,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1654,6 +2019,9 @@
       "name": "South Fork Park Tennis Courts",
       "lat": 38.977574,
       "lng": -84.676641,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1668,9 +2036,12 @@
     },
     {
       "id": "osm-w252389604",
-      "name": "Lake Forest Community Park Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 37.742344,
       "lng": -87.047044,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1681,13 +2052,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w253349285",
       "name": "Tennis Courts · Lookout Farm Drive",
       "lat": 39.032388,
       "lng": -84.574962,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1707,6 +2083,9 @@
       "name": "Tennis Courts · Spring Hill Trace",
       "lat": 38.336475,
       "lng": -85.494696,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1726,6 +2105,9 @@
       "name": "Tennis Courts · West 20th Street",
       "lat": 36.929676,
       "lng": -84.096139,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1745,6 +2127,9 @@
       "name": "Berea College Tennis Courts",
       "lat": 37.575254,
       "lng": -84.291313,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 10,
       "surface": "unknown",
       "lighted": null,
@@ -1764,6 +2149,9 @@
       "name": "Boone Tennis Center",
       "lat": 38.026417,
       "lng": -84.502135,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 9,
       "surface": "hard",
       "lighted": null,
@@ -1781,6 +2169,9 @@
       "name": "Tennis Courts · Tates Creek Road",
       "lat": 37.975575,
       "lng": -84.497495,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1800,6 +2191,9 @@
       "name": "Silver Creek Tennis Courts",
       "lat": 38.317374,
       "lng": -85.556975,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1810,13 +2204,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w258557309",
       "name": "Tennis Courts · Brownsboro Road",
       "lat": 38.319651,
       "lng": -85.561833,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1836,6 +2235,9 @@
       "name": "Boone Woods County Park Tennis Courts",
       "lat": 39.028226,
       "lng": -84.706364,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1853,6 +2255,9 @@
       "name": "Tennis Courts · Indiana Avenue",
       "lat": 36.6566,
       "lng": -87.463279,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -1870,6 +2275,9 @@
       "name": "Transylvania University Tennis Courts",
       "lat": 38.055134,
       "lng": -84.494449,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1885,29 +2293,13 @@
       }
     },
     {
-      "id": "osm-w273633396",
-      "name": "Spencer County High School Tennis Courts",
-      "lat": 38.03939,
-      "lng": -85.336423,
-      "courtCount": 3,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "KY",
-      "source": "osm",
-      "tags": {
-        "context": "school"
-      }
-    },
-    {
       "id": "osm-w275865583",
       "name": "Campbell County Middle School Tennis Courts",
       "lat": 38.967307,
       "lng": -84.391692,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1927,6 +2319,9 @@
       "name": "Douglass Park Tennis Courts",
       "lat": 38.071276,
       "lng": -84.500561,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1944,6 +2339,9 @@
       "name": "Public Tennis Courts",
       "lat": 38.092176,
       "lng": -84.484566,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1960,9 +2358,12 @@
     },
     {
       "id": "osm-w284456890",
-      "name": "The Farm at Taylor Mill Apartments Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 39.018378,
       "lng": -84.512607,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": null,
@@ -1973,13 +2374,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w285495219",
       "name": "Tennis Courts · Kastle Road",
       "lat": 38.019478,
       "lng": -84.498414,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": false,
@@ -1999,6 +2405,9 @@
       "name": "Tennis Courts · Kastle Road",
       "lat": 38.01983,
       "lng": -84.496836,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2018,6 +2427,9 @@
       "name": "Tennis Courts · Shawnee Park Road",
       "lat": 38.260818,
       "lng": -85.829039,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2037,6 +2449,9 @@
       "name": "Chickasaw Park Tennis Courts",
       "lat": 38.243108,
       "lng": -85.832595,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 12,
       "surface": "clay",
       "lighted": true,
@@ -2054,6 +2469,9 @@
       "name": "Tennis Courts · Wolf Hills Boulevard",
       "lat": 37.873959,
       "lng": -87.534741,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2073,6 +2491,9 @@
       "name": "Graves County High School Tennis Courts",
       "lat": 36.760123,
       "lng": -88.655916,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -2092,6 +2513,10 @@
       "name": "Juniper Hill Golf Course Tennis Courts",
       "lat": 38.188291,
       "lng": -84.886793,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
       "courtCount": 4,
       "surface": "hard",
       "lighted": null,
@@ -2106,9 +2531,12 @@
     },
     {
       "id": "osm-w297625044",
-      "name": "Keene Run Golf Course Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 37.962622,
       "lng": -84.603722,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "clay",
       "lighted": null,
@@ -2119,13 +2547,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w297625046",
       "name": "Barren River Lake State Resort Park Tennis Courts",
       "lat": 36.863364,
       "lng": -86.068962,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -2143,6 +2576,9 @@
       "name": "Tennis Courts · Pavilion Way",
       "lat": 38.190576,
       "lng": -85.56423,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2162,6 +2598,9 @@
       "name": "Carroll County Park Tennis Courts",
       "lat": 38.669998,
       "lng": -85.130259,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -2179,6 +2618,9 @@
       "name": "Tennis Courts · Merriwood Drive",
       "lat": 38.210142,
       "lng": -85.583772,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2198,6 +2640,9 @@
       "name": "Public Tennis Courts",
       "lat": 38.202692,
       "lng": -85.578642,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2217,6 +2662,9 @@
       "name": "Tennis Courts · Fair Oaks Lane",
       "lat": 39.004354,
       "lng": -84.544245,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2236,6 +2684,9 @@
       "name": "Tennis Courts · Gayle Court",
       "lat": 39.035109,
       "lng": -84.573542,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2252,9 +2703,12 @@
     },
     {
       "id": "osm-w306937577",
-      "name": "Stoney Falls Apartments Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 37.969196,
       "lng": -84.473806,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2265,13 +2719,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w314393025",
       "name": "Tennis Courts · Bramble Drive",
       "lat": 38.346714,
       "lng": -82.688153,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2291,6 +2750,9 @@
       "name": "Tennis Courts · Pebble Creek Drive",
       "lat": 37.86255,
       "lng": -87.547481,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2310,6 +2772,9 @@
       "name": "Tennis Courts · Pisgah Pike",
       "lat": 38.047051,
       "lng": -84.653126,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2329,6 +2794,9 @@
       "name": "Harrison County High School;Harrison County Middle School;Southside Elementary School;Harrison County Area Technology Center Tennis Courts",
       "lat": 38.379628,
       "lng": -84.291793,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2348,6 +2816,9 @@
       "name": "Tates Creek Schools Tennis Courts",
       "lat": 37.98741,
       "lng": -84.47897,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -2367,6 +2838,9 @@
       "name": "Tennis Courts · Harrods Hill",
       "lat": 38.015762,
       "lng": -84.564514,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2386,6 +2860,9 @@
       "name": "Lexington Christian Academy Tennis Courts",
       "lat": 37.991385,
       "lng": -84.536108,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2405,6 +2882,9 @@
       "name": "Tennis Courts · Edgemoor Drive",
       "lat": 38.012692,
       "lng": -84.51517,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2424,6 +2904,9 @@
       "name": "Public Tennis Courts",
       "lat": 37.589838,
       "lng": -84.289865,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2443,6 +2926,9 @@
       "name": "Glendover Global Studies Elementary School Tennis Courts",
       "lat": 38.006299,
       "lng": -84.503225,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -2462,6 +2948,9 @@
       "name": "Tennis Courts · Clear Creek Park Access No 1",
       "lat": 38.225906,
       "lng": -85.220195,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -2479,6 +2968,9 @@
       "name": "Mahaffey Middle School Tennis Courts",
       "lat": 36.641792,
       "lng": -87.441302,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -2498,6 +2990,9 @@
       "name": "Bass-Rudd Tennis Center",
       "lat": 38.213836,
       "lng": -85.753746,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": true,
@@ -2515,6 +3010,9 @@
       "name": "Overlook at Saint Thomas Tennis Courts",
       "lat": 38.291848,
       "lng": -85.622648,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2525,13 +3023,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w336614129",
       "name": "Louisville Indoor Racquet Club",
       "lat": 38.281531,
       "lng": -85.594763,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -2549,6 +3052,9 @@
       "name": "Springhurst Tennis Club",
       "lat": 38.305873,
       "lng": -85.570825,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2566,6 +3072,9 @@
       "name": "Tennis Courts · Bellewood Road",
       "lat": 38.259414,
       "lng": -85.546591,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2585,6 +3094,9 @@
       "name": "Old Brownsboro Hills Tennis Courts",
       "lat": 38.302016,
       "lng": -85.59517,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2595,13 +3107,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w337205526",
-      "name": "Indian Springs Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 38.29519,
       "lng": -85.552281,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2612,13 +3129,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w337273028",
       "name": "Hurstbourne Country Club Tennis Courts",
       "lat": 38.245353,
       "lng": -85.585186,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2636,6 +3158,9 @@
       "name": "Stansbury Park Tennis Courts",
       "lat": 38.215249,
       "lng": -85.762737,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -2653,6 +3178,9 @@
       "name": "Cnaterchase Apartments Tennis Courts",
       "lat": 38.264747,
       "lng": -85.590205,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2663,13 +3191,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w337500883",
       "name": "A.B. Sawyer Park Tennis Courts",
       "lat": 38.262524,
       "lng": -85.582086,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2687,6 +3220,9 @@
       "name": "Tennis Courts · South Beckley Station Road",
       "lat": 38.233478,
       "lng": -85.489426,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2706,6 +3242,9 @@
       "name": "Christian Academy Tennis Courts",
       "lat": 38.231668,
       "lng": -85.499272,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -2725,6 +3264,9 @@
       "name": "Jeffersontown High School Tennis Courts",
       "lat": 38.201743,
       "lng": -85.582054,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -2744,6 +3286,9 @@
       "name": "Plainview Tennis Courts",
       "lat": 38.243156,
       "lng": -85.574849,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2754,13 +3299,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w337694459",
       "name": "Tennis Courts · Stone Spring Way",
       "lat": 38.231353,
       "lng": -85.575773,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2780,6 +3330,9 @@
       "name": "Sycamore Apartments Tennis Courts",
       "lat": 38.232021,
       "lng": -85.567119,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -2797,6 +3350,9 @@
       "name": "Tennis Courts · Park Laureate Drive",
       "lat": 38.217062,
       "lng": -85.600614,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2816,6 +3372,9 @@
       "name": "Spring Hill Tennis Courts",
       "lat": 38.243647,
       "lng": -85.638981,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -2833,6 +3392,9 @@
       "name": "Parkside Tennis Courts",
       "lat": 38.243078,
       "lng": -85.635109,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2843,13 +3405,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w337726188",
       "name": "Tennis Courts · Fenwick Creek Place",
       "lat": 38.202775,
       "lng": -85.602115,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2869,6 +3436,9 @@
       "name": "Tennis Courts · Brookhollow Drive",
       "lat": 38.195263,
       "lng": -85.606852,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2888,6 +3458,9 @@
       "name": "Tennis Courts · Hurstbourne Ridge Boulevard",
       "lat": 38.19588,
       "lng": -85.605932,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2907,6 +3480,9 @@
       "name": "Tennis Courts · Greenhurst Drive",
       "lat": 38.190219,
       "lng": -85.607476,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2926,6 +3502,9 @@
       "name": "Tennis Courts · Ambrosse Lane",
       "lat": 38.194928,
       "lng": -85.60307,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2945,6 +3524,9 @@
       "name": "Marion C Moore School Tennis Courts",
       "lat": 38.141702,
       "lng": -85.639937,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -2963,7 +3545,10 @@
       "id": "osm-w337842707",
       "name": "Highview Park Tennis Courts",
       "lat": 38.139498,
-      "lng": -85.630871,
+      "lng": -85.63087,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -2981,6 +3566,9 @@
       "name": "Mallgate of St. Matthews Tennis Courts",
       "lat": 38.240095,
       "lng": -85.626168,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2991,13 +3579,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w339258574",
       "name": "Tennis Courts · Wells Drive",
       "lat": 38.146315,
       "lng": -85.836467,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -3015,6 +3608,9 @@
       "name": "Holy Cross High School Tennis Courts",
       "lat": 38.164488,
       "lng": -85.833534,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -3034,6 +3630,9 @@
       "name": "Doss High & Trunnell Elementary Tennis Courts",
       "lat": 38.152728,
       "lng": -85.811396,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -3053,6 +3652,9 @@
       "name": "Tennis Courts · Krause Avenue",
       "lat": 38.161436,
       "lng": -85.849339,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3072,6 +3674,9 @@
       "name": "Sun Valley Park Tennis Courts",
       "lat": 38.108162,
       "lng": -85.887348,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -3089,6 +3694,9 @@
       "name": "Tennis Courts · Leeds Road",
       "lat": 38.18167,
       "lng": -85.828225,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3108,6 +3716,9 @@
       "name": "Sacred Heart Schools Tennis Courts",
       "lat": 38.251274,
       "lng": -85.675239,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -3127,6 +3738,9 @@
       "name": "Crescent Hill Golf Course Tennis Courts",
       "lat": 38.259551,
       "lng": -85.68186,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -3144,6 +3758,9 @@
       "name": "Tennis Courts · Westminster Court",
       "lat": 38.25604,
       "lng": -85.68869,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3163,6 +3780,9 @@
       "name": "Tennis Courts · Ledgeview Court",
       "lat": 38.250161,
       "lng": -85.700757,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3182,6 +3802,9 @@
       "name": "Bate Middle School Tennis Courts",
       "lat": 37.641867,
       "lng": -84.766866,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -3201,6 +3824,9 @@
       "name": "Masonic Homes of Kentucky Tennis Courts",
       "lat": 38.259841,
       "lng": -85.668635,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3211,13 +3837,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w346639709",
       "name": "Garden Gate Apartments Tennis Courts",
       "lat": 38.232144,
       "lng": -85.540777,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3228,13 +3859,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w346670697",
       "name": "Tennis Courts · School Street",
       "lat": 37.48059,
       "lng": -86.282484,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": true,
@@ -3252,6 +3888,9 @@
       "name": "Tennis Courts · Garden Mile Road",
       "lat": 37.819602,
       "lng": -87.560025,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 12,
       "surface": "unknown",
       "lighted": true,
@@ -3269,6 +3908,9 @@
       "name": "Jaycees Park Tennis Courts",
       "lat": 37.592151,
       "lng": -84.598849,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3286,6 +3928,9 @@
       "name": "Garrard Middle School Tennis Courts",
       "lat": 37.623797,
       "lng": -84.581716,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -3305,6 +3950,9 @@
       "name": "Tennis Courts · Banker Street",
       "lat": 38.140317,
       "lng": -83.775119,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": null,
@@ -3324,6 +3972,9 @@
       "name": "Public Tennis Courts",
       "lat": 38.008828,
       "lng": -84.447153,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3343,6 +3994,9 @@
       "name": "Tennis Courts · New Circle Road",
       "lat": 37.989137,
       "lng": -84.500743,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3362,6 +4016,9 @@
       "name": "Saddlebrooke Tennis Courts",
       "lat": 37.986779,
       "lng": -84.498932,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3372,13 +4029,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w394942640",
       "name": "Sebree Springs Park Tennis Courts",
       "lat": 37.59678,
       "lng": -87.532664,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3396,6 +4058,9 @@
       "name": "Southland Park Tennis Courts",
       "lat": 38.017468,
       "lng": -84.539604,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3413,6 +4078,9 @@
       "name": "Tennis Courts · Phillips Lane",
       "lat": 38.190632,
       "lng": -85.744363,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3432,6 +4100,9 @@
       "name": "Constitution Park Tennis Courts",
       "lat": 38.06622,
       "lng": -84.464524,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3449,6 +4120,9 @@
       "name": "Castlewood Park Tennis Courts",
       "lat": 38.056646,
       "lng": -84.474177,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -3466,6 +4140,9 @@
       "name": "Marlboro Park Tennis Courts",
       "lat": 38.080508,
       "lng": -84.462515,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "hard",
       "lighted": false,
@@ -3483,6 +4160,9 @@
       "name": "Brandywine Apartments Tennis Courts",
       "lat": 37.965546,
       "lng": -84.477515,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3493,13 +4173,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w405583086",
       "name": "Meadowthorpe Park Tennis Courts",
       "lat": 38.073738,
       "lng": -84.520208,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3517,6 +4202,9 @@
       "name": "Tennis Courts · Harrodsburg Road",
       "lat": 38.004923,
       "lng": -84.566374,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3536,6 +4224,9 @@
       "name": "Tennis Courts · Fort Harrods Drive",
       "lat": 38.012648,
       "lng": -84.57062,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3555,6 +4246,9 @@
       "name": "Tennis Courts · Fort Harrods Drive",
       "lat": 38.005978,
       "lng": -84.560256,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3574,6 +4268,9 @@
       "name": "Public Tennis Courts",
       "lat": 37.982415,
       "lng": -84.571206,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3591,9 +4288,13 @@
     {
       "id": "osm-w405595761",
       "name": "Kirklevington Park Tennis Courts",
-      "lat": 37.984981,
-      "lng": -84.503898,
-      "courtCount": 2,
+      "lat": 37.98533,
+      "lng": -84.503702,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 14,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -3608,9 +4309,13 @@
     {
       "id": "osm-w406113281",
       "name": "Hartland Swim and Racquet Club",
-      "lat": 37.951261,
-      "lng": -84.476842,
-      "courtCount": 5,
+      "lat": 37.951294,
+      "lng": -84.477007,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 7,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -3627,6 +4332,9 @@
       "name": "Tennis Courts · Knights Way",
       "lat": 37.581099,
       "lng": -85.226119,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -3642,8 +4350,11 @@
     {
       "id": "osm-w440700336",
       "name": "Medora Elementary School Tennis Courts",
-      "lat": 38.089557,
+      "lat": 38.089558,
       "lng": -85.874409,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": null,
@@ -3663,6 +4374,9 @@
       "name": "Tennis Courts · Bulldog Mile",
       "lat": 38.185629,
       "lng": -85.719047,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3682,6 +4396,9 @@
       "name": "Madisonville Community College Tennis Courts",
       "lat": 37.364933,
       "lng": -87.510478,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -3701,6 +4418,9 @@
       "name": "Forest Ridge Tennis Courts",
       "lat": 39.025429,
       "lng": -84.459295,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3711,13 +4431,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w456244400",
       "name": "Olde Stone Golf Course Tennis Courts",
       "lat": 36.908049,
       "lng": -86.386039,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -3735,6 +4460,9 @@
       "name": "Tennis Courts · Hillcrest Drive",
       "lat": 38.364081,
       "lng": -85.176852,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3754,6 +4482,9 @@
       "name": "Louisville Country Club Tennis Courts",
       "lat": 38.278965,
       "lng": -85.675322,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 10,
       "surface": "clay",
       "lighted": null,
@@ -3769,9 +4500,13 @@
     {
       "id": "osm-w461873352",
       "name": "Petersburg Park Tennis Courts",
-      "lat": 38.183096,
-      "lng": -85.664599,
-      "courtCount": 8,
+      "lat": 38.182881,
+      "lng": -85.664775,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 12,
       "surface": "unknown",
       "lighted": true,
       "indoor": null,
@@ -3788,6 +4523,9 @@
       "name": "Tennis Courts · Flatwoods Road",
       "lat": 38.886031,
       "lng": -84.365357,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3807,6 +4545,9 @@
       "name": "Tennis Courts · KY 638",
       "lat": 37.161,
       "lng": -83.768183,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3826,6 +4567,9 @@
       "name": "Tennis Courts · Liberty Road",
       "lat": 37.926019,
       "lng": -83.266275,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3845,6 +4589,9 @@
       "name": "Tennis Courts · Arrowhead Road",
       "lat": 38.270418,
       "lng": -85.666026,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3864,6 +4611,9 @@
       "name": "Tennis Courts · Newburg Road",
       "lat": 38.202528,
       "lng": -85.689415,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3883,6 +4633,9 @@
       "name": "Moreland Park Tennis Courts",
       "lat": 37.762524,
       "lng": -87.123096,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 12,
       "surface": "unknown",
       "lighted": null,
@@ -3900,6 +4653,9 @@
       "name": "Pikeville High School Tennis Courts",
       "lat": 37.486875,
       "lng": -82.542979,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3919,6 +4675,9 @@
       "name": "Tennis Courts · Cs-2051",
       "lat": 37.552104,
       "lng": -87.981495,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -3936,6 +4695,9 @@
       "name": "Tennis Courts · Harbor View Drive",
       "lat": 37.008908,
       "lng": -88.226478,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3955,6 +4717,9 @@
       "name": "Wiseman Park Tennis Courts",
       "lat": 37.994276,
       "lng": -84.198128,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "clay",
       "lighted": null,
@@ -3972,6 +4737,9 @@
       "name": "Lansdowne-Merrick Park Tennis Courts",
       "lat": 38.000267,
       "lng": -84.491556,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3985,10 +4753,35 @@
       "tags": {}
     },
     {
+      "id": "osm-w481371387",
+      "name": "Tennis Courts · Lakeside Quarry Drive",
+      "lat": 38.3506,
+      "lng": -85.645215,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": "Lakeside Quarry Drive",
+      "city": "Clark County",
+      "state": "KY",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
       "id": "osm-w484719057",
       "name": "Tennis Courts · Clarksville Street",
       "lat": 36.722621,
       "lng": -87.263182,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4008,6 +4801,9 @@
       "name": "Tennis Courts · Vastwood Park Road",
       "lat": 37.905259,
       "lng": -86.791422,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -4025,6 +4821,9 @@
       "name": "The Links Resort Golf Course Tennis Courts",
       "lat": 36.967645,
       "lng": -85.043359,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4042,6 +4841,9 @@
       "name": "Thomas Nelson High School Tennis Courts",
       "lat": 37.845758,
       "lng": -85.508227,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4061,6 +4863,9 @@
       "name": "Tennis Courts · Sandy Tr",
       "lat": 36.967952,
       "lng": -85.066174,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4080,6 +4885,9 @@
       "name": "Public Tennis Courts",
       "lat": 38.336701,
       "lng": -82.939961,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -4095,9 +4903,13 @@
     {
       "id": "osm-w548060674",
       "name": "Southern Park Tennis Courts",
-      "lat": 37.743197,
-      "lng": -87.122809,
-      "courtCount": 4,
+      "lat": 37.743138,
+      "lng": -87.122786,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -4112,9 +4924,13 @@
     {
       "id": "osm-w548499174",
       "name": "Owensboro Country Club Tennis Courts",
-      "lat": 37.737875,
-      "lng": -87.105319,
-      "courtCount": 6,
+      "lat": 37.737769,
+      "lng": -87.105223,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -4131,6 +4947,9 @@
       "name": "Tennis Courts · High School Road",
       "lat": 36.911184,
       "lng": -88.333054,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -4144,10 +4963,35 @@
       "tags": {}
     },
     {
+      "id": "osm-w556027107",
+      "name": "Tennis Courts · Mill Street",
+      "lat": 36.586394,
+      "lng": -89.537791,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": "Mill Street",
+      "city": "New Madrid",
+      "state": "KY",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
       "id": "osm-w557034286",
       "name": "Freeman Lake Park Tennis Courts",
       "lat": 37.718171,
       "lng": -85.874305,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 10,
       "surface": "unknown",
       "lighted": null,
@@ -4165,6 +5009,9 @@
       "name": "Avondale Tennis Courts",
       "lat": 38.22599,
       "lng": -85.637531,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4175,18 +5022,24 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w579380611",
       "name": "East Frankfort Park Tennis Courts",
-      "lat": 38.194531,
-      "lng": -84.843797,
-      "courtCount": 4,
-      "surface": "unknown",
+      "lat": 38.194596,
+      "lng": -84.843562,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 7,
+      "surface": "hard",
       "lighted": null,
       "indoor": null,
-      "access": "unknown",
+      "access": "public",
       "fee": null,
       "address": null,
       "city": null,
@@ -4199,6 +5052,9 @@
       "name": "Tennis Courts · Fountain Drive",
       "lat": 38.195507,
       "lng": -85.666672,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4218,6 +5074,9 @@
       "name": "Kendall Perkins Park Tennis Courts",
       "lat": 37.771261,
       "lng": -87.124569,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4235,6 +5094,9 @@
       "name": "Lakeview Park Tennis Courts",
       "lat": 38.213039,
       "lng": -84.828987,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -4252,6 +5114,9 @@
       "name": "Doc Hosbach Tennis Complex",
       "lat": 37.839241,
       "lng": -87.595247,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 12,
       "surface": "hard",
       "lighted": true,
@@ -4269,6 +5134,9 @@
       "name": "Tennis Courts · Parks Street",
       "lat": 37.11982,
       "lng": -82.833749,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -4286,6 +5154,9 @@
       "name": "Fort Webb Park Tennis Courts",
       "lat": 37.013149,
       "lng": -86.435917,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -4303,6 +5174,9 @@
       "name": "Tennis Courts · Colonel Sanders Lane",
       "lat": 38.19824,
       "lng": -85.698502,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4322,6 +5196,9 @@
       "name": "Public Tennis Courts",
       "lat": 37.875293,
       "lng": -84.55379,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4341,6 +5218,9 @@
       "name": "Georgetown Oaks Tennis Courts",
       "lat": 38.228757,
       "lng": -84.544166,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4351,13 +5231,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w628636371",
       "name": "University of the Cumberlands Tennis Courts",
       "lat": 36.735017,
       "lng": -84.170701,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4375,6 +5260,9 @@
       "name": "Whitley County High School Tennis Courts",
       "lat": 36.780181,
       "lng": -84.152379,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -4394,6 +5282,9 @@
       "name": "Tennis Courts · Barnes Road",
       "lat": 37.430672,
       "lng": -86.887331,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -4411,6 +5302,9 @@
       "name": "Tennis Courts · Herndon Road",
       "lat": 36.82863,
       "lng": -86.902727,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -4428,6 +5322,9 @@
       "name": "Yung Family Tennis Complex",
       "lat": 39.06823,
       "lng": -84.53252,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -4445,6 +5342,9 @@
       "name": "Tennis Courts · Gardiner Court",
       "lat": 38.203815,
       "lng": -85.686954,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4464,6 +5364,9 @@
       "name": "Lyon County Schools Tennis Courts",
       "lat": 37.09516,
       "lng": -88.077882,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4483,6 +5386,9 @@
       "name": "Tennis Courts · Wheat Drive",
       "lat": 38.221221,
       "lng": -84.275368,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4502,6 +5408,9 @@
       "name": "Tennis Courts · Pioneer Way",
       "lat": 37.764994,
       "lng": -84.837204,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -4519,6 +5428,9 @@
       "name": "Tennis Courts · Pioneer Way",
       "lat": 37.763174,
       "lng": -84.836156,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4538,6 +5450,9 @@
       "name": "Frederick Douglass High School Tennis Courts",
       "lat": 38.037894,
       "lng": -84.437578,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -4554,9 +5469,12 @@
     },
     {
       "id": "osm-w729536013",
-      "name": "Westerfield Park Tennis Courts",
+      "name": "Providence City Park Tennis Courts",
       "lat": 37.391675,
       "lng": -87.76046,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4574,6 +5492,9 @@
       "name": "Dawson Springs City Park Tennis Courts",
       "lat": 37.172478,
       "lng": -87.686951,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4591,6 +5512,9 @@
       "name": "Derby Park Tennis Courts",
       "lat": 38.927333,
       "lng": -84.651976,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4608,6 +5532,9 @@
       "name": "Public Tennis Courts",
       "lat": 38.925632,
       "lng": -84.647186,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4627,6 +5554,9 @@
       "name": "Lincoln Woods Park Tennis Courts",
       "lat": 38.985287,
       "lng": -84.659176,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4644,6 +5574,9 @@
       "name": "Lloyd Memorial High School;Tichenor Middle School;Early Learning Center;Barlett Educational Center Tennis Courts",
       "lat": 39.020588,
       "lng": -84.609732,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -4663,6 +5596,9 @@
       "name": "Trellises Luxury Apartments Tennis Courts",
       "lat": 38.968143,
       "lng": -84.638791,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4673,13 +5609,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w733167917",
       "name": "Somerset High School Tennis Courts",
       "lat": 37.097506,
       "lng": -84.600861,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -4699,6 +5640,9 @@
       "name": "John James Audubon State Park Tennis Courts",
       "lat": 37.880143,
       "lng": -87.560968,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4716,6 +5660,9 @@
       "name": "Tennis Courts · Cougar Drive",
       "lat": 37.119072,
       "lng": -82.78744,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4733,8 +5680,11 @@
     {
       "id": "osm-w744468945",
       "name": "Tennis Courts · Lagrange Road",
-      "lat": 38.324598,
+      "lat": 38.324597,
       "lng": -85.467345,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4754,6 +5704,9 @@
       "name": "Tennis Courts · Russellville Street",
       "lat": 37.212669,
       "lng": -86.893878,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4773,6 +5726,9 @@
       "name": "Meece Middle School Tennis Courts",
       "lat": 37.099921,
       "lng": -84.595048,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4792,6 +5748,9 @@
       "name": "Kincaid Lake State Park Tennis Courts",
       "lat": 38.724795,
       "lng": -84.283853,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4809,6 +5768,9 @@
       "name": "Great Crossing Park Tennis Courts",
       "lat": 38.217686,
       "lng": -84.602646,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -4826,6 +5788,9 @@
       "name": "Central Park Tennis Courts",
       "lat": 38.23126,
       "lng": -85.762989,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -4843,6 +5808,9 @@
       "name": "Tennis Courts · Cumberland Falls Road",
       "lat": 36.840271,
       "lng": -84.338284,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4858,10 +5826,35 @@
       }
     },
     {
+      "id": "osm-w815139582",
+      "name": "Ormond Manor Pickleball Courts",
+      "lat": 38.259091,
+      "lng": -85.665683,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "KY",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
       "id": "osm-w820330260",
       "name": "Shively Park Tennis Courts",
       "lat": 38.19549,
       "lng": -85.807505,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -4879,6 +5872,9 @@
       "name": "Algonquin Park Tennis Courts",
       "lat": 38.227441,
       "lng": -85.799721,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4896,6 +5892,9 @@
       "name": "Shelby Park Tennis Courts",
       "lat": 38.23237,
       "lng": -85.746833,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4913,6 +5912,9 @@
       "name": "Lannan Park Tennis Courts",
       "lat": 38.274612,
       "lng": -85.78639,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4930,6 +5932,9 @@
       "name": "Western High School Tennis Courts",
       "lat": 38.178949,
       "lng": -85.84363,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -4945,10 +5950,35 @@
       }
     },
     {
+      "id": "osm-w824074551",
+      "name": "Norton Healthcare Sports & Learning Center",
+      "lat": 38.258174,
+      "lng": -85.801516,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": "3029 West Muhammad Ali Boulevard",
+      "city": "Louisville",
+      "state": "KY",
+      "source": "osm",
+      "tags": {
+        "website": "https://www.nortonslc.com/"
+      }
+    },
+    {
       "id": "osm-w824425824",
       "name": "Seneca Park Tennis Courts",
       "lat": 38.242256,
       "lng": -85.672424,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 10,
       "surface": "unknown",
       "lighted": true,
@@ -4966,6 +5996,9 @@
       "name": "Wyandotte Park Tennis Courts",
       "lat": 38.191194,
       "lng": -85.781907,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4983,6 +6016,9 @@
       "name": "Auburndale Park Tennis Courts",
       "lat": 38.149465,
       "lng": -85.771475,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -5000,6 +6036,9 @@
       "name": "Black Mudd Park Tennis Courts",
       "lat": 38.163932,
       "lng": -85.668865,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5017,6 +6056,9 @@
       "name": "Buechel Park Tennis Courts",
       "lat": 38.194469,
       "lng": -85.637384,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5034,6 +6076,9 @@
       "name": "Blue Lick Park Tennis Courts",
       "lat": 38.087562,
       "lng": -85.685516,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5051,6 +6096,9 @@
       "name": "Berrytown Park Tennis Courts",
       "lat": 38.263042,
       "lng": -85.522098,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5066,9 +6114,13 @@
     {
       "id": "osm-w827797385",
       "name": "Des Pres Park Tennis Courts",
-      "lat": 38.222101,
-      "lng": -85.605169,
-      "courtCount": 2,
+      "lat": 38.221987,
+      "lng": -85.605473,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -5085,9 +6137,32 @@
       "name": "Clifton Park Tennis Courts",
       "lat": 38.255825,
       "lng": -85.719719,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "KY",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w827797467",
+      "name": "Charlie Vettner Park Pickleball Courts",
+      "lat": 38.16793,
+      "lng": -85.559822,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": true,
       "indoor": null,
       "access": "unknown",
       "fee": null,
@@ -5102,6 +6177,9 @@
       "name": "Fern Creek Park Tennis Courts",
       "lat": 38.156591,
       "lng": -85.599193,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": true,
@@ -5119,6 +6197,9 @@
       "name": "George Rogers Clark Park Tennis Courts",
       "lat": 38.216575,
       "lng": -85.727893,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -5136,6 +6217,9 @@
       "name": "Fulton City Park Tennis Courts",
       "lat": 36.513427,
       "lng": -88.877888,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5153,6 +6237,9 @@
       "name": "Tennis Courts · Bengals Camp Entrance",
       "lat": 38.203095,
       "lng": -84.545233,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -5170,6 +6257,9 @@
       "name": "Lions Club Park Tennis Courts",
       "lat": 36.751497,
       "lng": -88.646179,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -5187,6 +6277,9 @@
       "name": "Jim Roberts Community Park Tennis Courts",
       "lat": 36.730915,
       "lng": -86.549294,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -5204,6 +6297,9 @@
       "name": "Tennis Courts · Hilltop Recreation Lane",
       "lat": 37.798632,
       "lng": -85.928409,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5223,6 +6319,9 @@
       "name": "Tennis Courts · Lafayette Street",
       "lat": 37.684824,
       "lng": -86.868086,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5242,6 +6341,9 @@
       "name": "Tennis Courts · Greenville Road",
       "lat": 37.194452,
       "lng": -87.450682,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5261,6 +6363,9 @@
       "name": "Flemingsburg Recreation Park Tennis Courts",
       "lat": 38.450159,
       "lng": -83.737888,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -5276,28 +6381,15 @@
     {
       "id": "osm-w917823768",
       "name": "College Park Tennis Courts",
-      "lat": 37.991431,
-      "lng": -84.18772,
-      "courtCount": 1,
+      "lat": 37.991518,
+      "lng": -84.187618,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 5,
       "surface": "hard",
       "lighted": false,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "KY",
-      "source": "osm",
-      "tags": {}
-    },
-    {
-      "id": "osm-w917825447",
-      "name": "Stonegate Park Tennis Courts",
-      "lat": 38.07032,
-      "lng": -84.720165,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
       "indoor": null,
       "access": "unknown",
       "fee": null,
@@ -5312,6 +6404,9 @@
       "name": "Graham Memorial Park Tennis Courts",
       "lat": 37.561245,
       "lng": -85.249711,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -5329,6 +6424,9 @@
       "name": "Neighborhood Tennis Courts",
       "lat": 37.077775,
       "lng": -88.665815,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "clay",
       "lighted": null,
@@ -5346,6 +6444,9 @@
       "name": "Tennis Courts · Madison",
       "lat": 37.807953,
       "lng": -82.805374,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -5363,6 +6464,9 @@
       "name": "Public Tennis Courts",
       "lat": 38.392645,
       "lng": -85.583651,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5382,6 +6486,9 @@
       "name": "Fairdale High School Tennis Courts",
       "lat": 38.112186,
       "lng": -85.753265,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -5401,6 +6508,9 @@
       "name": "South Warren High School Tennis Courts",
       "lat": 36.892504,
       "lng": -86.514577,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -5420,6 +6530,9 @@
       "name": "Tennis Courts · Middle Fork Road",
       "lat": 37.863641,
       "lng": -82.544613,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5439,6 +6552,9 @@
       "name": "Bell County High School Tennis Courts",
       "lat": 36.710023,
       "lng": -83.692247,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -5458,6 +6574,9 @@
       "name": "Chuck Crume Nature Park Tennis Courts",
       "lat": 36.974383,
       "lng": -86.46296,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5475,6 +6594,9 @@
       "name": "Public Tennis Courts",
       "lat": 36.921933,
       "lng": -86.416429,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 10,
       "surface": "unknown",
       "lighted": null,
@@ -5492,6 +6614,9 @@
       "name": "Mayfield High School Tennis Courts",
       "lat": 36.730525,
       "lng": -88.631037,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -5511,6 +6636,9 @@
       "name": "South Warren High School Tennis Courts",
       "lat": 36.892934,
       "lng": -86.51774,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -5530,6 +6658,9 @@
       "name": "Spero Kereiakes Park Tennis Courts",
       "lat": 36.991253,
       "lng": -86.41825,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5547,6 +6678,9 @@
       "name": "Spero Kereiakes Park Tennis Courts",
       "lat": 36.99297,
       "lng": -86.418733,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -5564,6 +6698,9 @@
       "name": "Paul Walker Municipal Golf Course Tennis Courts",
       "lat": 36.978645,
       "lng": -86.436112,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5578,9 +6715,12 @@
     },
     {
       "id": "osm-w1012790933",
-      "name": "Western Kentucky University - South Campus Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 36.965227,
       "lng": -86.47042,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -5591,15 +6731,16 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {
-        "context": "school"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1012846919",
       "name": "Tennis Courts · School Drive",
       "lat": 36.753684,
       "lng": -86.21601,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -5617,6 +6758,9 @@
       "name": "Tennis Courts · Old Mulkey Road",
       "lat": 36.692037,
       "lng": -85.700645,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5635,7 +6779,10 @@
       "id": "osm-w1014586941",
       "name": "Public Tennis Courts",
       "lat": 36.678424,
-      "lng": -85.691993,
+      "lng": -85.691994,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5655,6 +6802,9 @@
       "name": "Edmonton Memorial Park Tennis Courts",
       "lat": 36.977376,
       "lng": -85.63052,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -5672,6 +6822,9 @@
       "name": "Bowling Park Tennis Courts",
       "lat": 36.989896,
       "lng": -85.647596,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -5689,6 +6842,9 @@
       "name": "Dr. Joseph Schickel Veterans Memorial Park Tennis Courts",
       "lat": 36.789438,
       "lng": -85.367924,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -5706,6 +6862,9 @@
       "name": "Tennis Courts · Burns Road",
       "lat": 38.862822,
       "lng": -84.356082,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5725,6 +6884,9 @@
       "name": "Clinton County High School Tennis Courts",
       "lat": 36.710764,
       "lng": -85.132401,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -5744,6 +6906,9 @@
       "name": "Hart County High School Tennis Courts",
       "lat": 37.261244,
       "lng": -85.878812,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -5763,6 +6928,9 @@
       "name": "Warren East Schools Tennis Courts",
       "lat": 37.036866,
       "lng": -86.342256,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": true,
@@ -5782,6 +6950,9 @@
       "name": "Todd County Park Tennis Courts",
       "lat": 36.803176,
       "lng": -87.155093,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5799,6 +6970,9 @@
       "name": "Tennis Courts",
       "lat": 38.024527,
       "lng": -84.523668,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "hard",
       "lighted": null,
@@ -5816,6 +6990,9 @@
       "name": "University Trails Tennis Courts",
       "lat": 38.044401,
       "lng": -84.525341,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5826,13 +7003,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1034906080",
       "name": "Addison Park Tennis Courts",
       "lat": 38.044384,
       "lng": -84.528542,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5850,6 +7032,9 @@
       "name": "Tennis Courts · Rockbridge Road",
       "lat": 37.957456,
       "lng": -84.491837,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5869,6 +7054,9 @@
       "name": "Shillito Park Tennis Courts",
       "lat": 37.984549,
       "lng": -84.535221,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 13,
       "surface": "unknown",
       "lighted": null,
@@ -5886,6 +7074,9 @@
       "name": "Gainesway Park Tennis Courts",
       "lat": 37.983375,
       "lng": -84.481151,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "hard",
       "lighted": false,
@@ -5903,6 +7094,9 @@
       "name": "Tennis Courts · Love Avenue",
       "lat": 38.058291,
       "lng": -85.534055,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -5920,7 +7114,30 @@
       "name": "Frankfort CC Tennis Park",
       "lat": 38.206553,
       "lng": -84.808225,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "KY",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1059317256",
+      "name": "Lakeview Park Pickleball Courts",
+      "lat": 38.21469,
+      "lng": -84.824558,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -5937,6 +7154,9 @@
       "name": "Tennis Courts · Park Road",
       "lat": 37.017665,
       "lng": -88.527531,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5956,6 +7176,9 @@
       "name": "Public Tennis Courts",
       "lat": 36.999302,
       "lng": -88.287661,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5975,6 +7198,9 @@
       "name": "Mt. Vernon Park Tennis Courts",
       "lat": 37.352566,
       "lng": -84.346297,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5992,6 +7218,9 @@
       "name": "Tennis Courts · Indian Drive",
       "lat": 37.106173,
       "lng": -85.328954,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6011,6 +7240,9 @@
       "name": "Heatherstone Tennis Courts",
       "lat": 37.780071,
       "lng": -87.173391,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6021,13 +7253,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1085233119",
       "name": "Southeast Kentucky Community and Technical College Tennis Courts",
       "lat": 36.967455,
       "lng": -82.996545,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6047,6 +7284,9 @@
       "name": "Lawrence County Middle and High Schools Tennis Courts",
       "lat": 38.095982,
       "lng": -82.605117,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -6066,6 +7306,9 @@
       "name": "Tennis Courts · West Broadway Street",
       "lat": 37.813382,
       "lng": -85.472607,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": true,
@@ -6083,6 +7326,9 @@
       "name": "Public Tennis Courts",
       "lat": 36.883439,
       "lng": -86.520751,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6102,6 +7348,9 @@
       "name": "Tennis Courts · Equinox Lane",
       "lat": 38.238686,
       "lng": -85.513082,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6121,6 +7370,9 @@
       "name": "Caldwell County Tigers Stadium Tennis Courts",
       "lat": 37.135062,
       "lng": -87.898816,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6140,6 +7392,9 @@
       "name": "Lemons Mill Elementary School Tennis Courts",
       "lat": 38.18862,
       "lng": -84.539188,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -6159,6 +7414,9 @@
       "name": "Tennis Courts · Ironworks Road",
       "lat": 38.162767,
       "lng": -84.569453,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6174,10 +7432,33 @@
       }
     },
     {
+      "id": "osm-w1124715296",
+      "name": "Public Pickleball Courts",
+      "lat": 37.75098,
+      "lng": -87.153209,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 9,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "KY",
+      "source": "osm",
+      "tags": {}
+    },
+    {
       "id": "osm-w1131804528",
       "name": "Barbourville City Park Tennis Courts",
       "lat": 36.873478,
       "lng": -83.88225,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -6195,6 +7476,9 @@
       "name": "Union College Tennis Courts",
       "lat": 36.870762,
       "lng": -83.885865,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6214,6 +7498,9 @@
       "name": "Union College Tennis Courts",
       "lat": 36.869895,
       "lng": -83.886862,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6233,6 +7520,9 @@
       "name": "Union College Tennis Courts",
       "lat": 36.871928,
       "lng": -83.886631,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6252,6 +7542,9 @@
       "name": "Meade Activity Center Tennis Courts",
       "lat": 38.004194,
       "lng": -86.176724,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -6269,6 +7562,9 @@
       "name": "Tennis Courts · Old Lawrenceburg Road",
       "lat": 38.179348,
       "lng": -84.876461,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6286,6 +7582,9 @@
       "name": "Tennis Courts · Doe Valley Parkway",
       "lat": 37.990758,
       "lng": -86.115265,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6303,9 +7602,13 @@
     {
       "id": "osm-w1150171158",
       "name": "Lexington Country Club Tennis Courts",
-      "lat": 38.083416,
-      "lng": -84.439488,
-      "courtCount": 7,
+      "lat": 38.083513,
+      "lng": -84.439593,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 9,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -6322,6 +7625,9 @@
       "name": "Tennis Courts · Blackford Parkway",
       "lat": 38.028596,
       "lng": -84.397422,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6341,6 +7647,9 @@
       "name": "Tennis Courts · Park Street",
       "lat": 38.52494,
       "lng": -82.708176,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6357,10 +7666,14 @@
     },
     {
       "id": "osm-w1182666235",
-      "name": "The Club at UK's Spindletop Hall Tennis Courts",
-      "lat": 38.13007,
-      "lng": -84.50427,
-      "courtCount": 10,
+      "name": "Public Tennis Courts",
+      "lat": 38.130155,
+      "lng": -84.504386,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 11,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -6377,6 +7690,9 @@
       "name": "Tennis Courts · Georgia Street",
       "lat": 37.755591,
       "lng": -84.286626,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -6394,6 +7710,9 @@
       "name": "Tennis Courts · Warfield Walking Track",
       "lat": 37.853677,
       "lng": -82.417119,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6411,6 +7730,9 @@
       "name": "Greenup County High School Tennis Courts",
       "lat": 38.629848,
       "lng": -82.868624,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6430,6 +7752,9 @@
       "name": "Court 1",
       "lat": 38.542952,
       "lng": -82.74135,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6447,6 +7772,9 @@
       "name": "Campbell County High School Tennis Courts",
       "lat": 38.915126,
       "lng": -84.394398,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6466,6 +7794,9 @@
       "name": "Court 2",
       "lat": 38.340503,
       "lng": -82.945833,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6483,6 +7814,9 @@
       "name": "Court B",
       "lat": 37.750384,
       "lng": -83.071782,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6500,6 +7834,9 @@
       "name": "Court 4",
       "lat": 37.73755,
       "lng": -83.075781,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6517,6 +7854,9 @@
       "name": "Lay School Tennis Courts",
       "lat": 36.871799,
       "lng": -83.882874,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -6536,6 +7876,9 @@
       "name": "Public Tennis Courts",
       "lat": 36.662107,
       "lng": -84.441358,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6555,6 +7898,9 @@
       "name": "Tennis Courts · Fern Valley Circle",
       "lat": 38.158078,
       "lng": -85.663521,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6574,6 +7920,9 @@
       "name": "Mount Washington Sports Complex Tennis Courts",
       "lat": 38.062174,
       "lng": -85.566013,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6591,6 +7940,9 @@
       "name": "Tennis Courts · Walk to vocational",
       "lat": 38.213426,
       "lng": -85.179397,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -6608,6 +7960,9 @@
       "name": "Tennis Courts · Bloomfield Road",
       "lat": 37.828482,
       "lng": -85.422624,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6625,6 +7980,9 @@
       "name": "Anderson County High School Tennis Courts",
       "lat": 38.023884,
       "lng": -84.909955,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6644,6 +8002,9 @@
       "name": "Public Tennis Courts",
       "lat": 37.107188,
       "lng": -84.604295,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6661,6 +8022,9 @@
       "name": "Tennis Courts · Lexington Road",
       "lat": 37.760407,
       "lng": -84.310705,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -6678,6 +8042,9 @@
       "name": "Tennis Courts · Southeastern Parkway",
       "lat": 37.729653,
       "lng": -87.083335,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": true,
@@ -6695,6 +8062,9 @@
       "name": "Public Tennis Courts",
       "lat": 37.77515,
       "lng": -84.294276,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6712,6 +8082,9 @@
       "name": "Tennis Courts · Broadway",
       "lat": 37.98311,
       "lng": -86.158761,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -6729,6 +8102,9 @@
       "name": "Bennie Purcell Tennis Courts",
       "lat": 36.616414,
       "lng": -88.319259,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -6743,9 +8119,12 @@
     },
     {
       "id": "osm-w1263573712",
-      "name": "West Kentucky Community and Technical College Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 37.053084,
       "lng": -88.660201,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -6756,15 +8135,16 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {
-        "context": "school"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1263576047",
       "name": "Tennis Courts · Lakeshore Drive",
       "lat": 37.037156,
       "lng": -88.678039,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 12,
       "surface": "unknown",
       "lighted": null,
@@ -6782,6 +8162,9 @@
       "name": "Kiwanis Park Tennis Courts",
       "lat": 37.919341,
       "lng": -83.255442,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -6799,6 +8182,9 @@
       "name": "York Park Tennis Courts",
       "lat": 37.754901,
       "lng": -87.140803,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6816,6 +8202,9 @@
       "name": "Seneca Golf Course Tennis Courts",
       "lat": 38.230219,
       "lng": -85.681012,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6833,6 +8222,9 @@
       "name": "Public Tennis Courts",
       "lat": 36.826781,
       "lng": -87.514819,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -6850,6 +8242,9 @@
       "name": "Tennis Courts · East Brannon Road",
       "lat": 37.952396,
       "lng": -84.519665,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 9,
       "surface": "unknown",
       "lighted": null,
@@ -6867,6 +8262,9 @@
       "name": "Tennis Courts · Scuffletown Road",
       "lat": 36.924244,
       "lng": -84.123771,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6886,6 +8284,9 @@
       "name": "Tennis Courts · School Street",
       "lat": 37.190086,
       "lng": -84.112701,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6905,6 +8306,9 @@
       "name": "Tennis Courts · Yonts Street",
       "lat": 37.202171,
       "lng": -87.172621,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6924,6 +8328,9 @@
       "name": "Tennis Courts · Southtown Boulevard",
       "lat": 37.724609,
       "lng": -87.144097,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -6941,6 +8348,9 @@
       "name": "Tennis Courts · Lake Shore Drive",
       "lat": 37.061826,
       "lng": -88.134456,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6956,10 +8366,33 @@
       }
     },
     {
+      "id": "osm-w1291371602",
+      "name": "Kenwick Park Pickleball Courts",
+      "lat": 38.035477,
+      "lng": -84.474374,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "hard",
+      "lighted": false,
+      "indoor": null,
+      "access": "public",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "KY",
+      "source": "osm",
+      "tags": {}
+    },
+    {
       "id": "osm-w1299114771",
       "name": "Murray State University Tennis Courts",
       "lat": 36.619383,
       "lng": -88.323623,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -6979,6 +8412,9 @@
       "name": "Tennis Courts · Lee County Voc-Tech School",
       "lat": 37.583837,
       "lng": -83.708043,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6996,6 +8432,9 @@
       "name": "Tennis Courts · 5th Avenue Southeast",
       "lat": 37.020722,
       "lng": -88.329027,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7011,11 +8450,14 @@
       }
     },
     {
-      "id": "osm-w1318194015",
-      "name": "Ashland Community College Tennis Courts",
-      "lat": 38.470631,
-      "lng": -82.647989,
-      "courtCount": 10,
+      "id": "osm-w1315426910",
+      "name": "Public Pickleball Courts",
+      "lat": 37.024707,
+      "lng": -88.334687,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -7025,15 +8467,37 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {
-        "context": "school"
-      }
+      "tags": {}
+    },
+    {
+      "id": "osm-w1318194011",
+      "name": "Public Tennis Courts",
+      "lat": 38.470699,
+      "lng": -82.648272,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 14,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "KY",
+      "source": "osm",
+      "tags": {}
     },
     {
       "id": "osm-w1318959141",
       "name": "Tennis Courts · Baldett Road",
       "lat": 37.034747,
       "lng": -85.071931,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -7051,6 +8515,9 @@
       "name": "Tennis Courts · Country Club Drive",
       "lat": 37.655461,
       "lng": -84.743775,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -7068,6 +8535,9 @@
       "name": "Tennis Courts · Engineer Road",
       "lat": 37.734583,
       "lng": -83.988331,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -7085,6 +8555,9 @@
       "name": "Tennis Courts · Meadow Street",
       "lat": 38.00106,
       "lng": -84.187912,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7104,6 +8577,9 @@
       "name": "Tennis Courts · Patchen Drive",
       "lat": 38.008003,
       "lng": -84.4576,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7123,6 +8599,9 @@
       "name": "Berry Hill Park Tennis Courts",
       "lat": 37.976933,
       "lng": -84.46074,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7140,6 +8619,9 @@
       "name": "Tennis Courts · Cs-1073",
       "lat": 37.510886,
       "lng": -84.655039,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -7157,6 +8639,9 @@
       "name": "Tennis Courts · Bernal Avenue",
       "lat": 36.575262,
       "lng": -89.169388,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7176,6 +8661,9 @@
       "name": "Tennis Courts · Old HIghway 60",
       "lat": 37.065491,
       "lng": -88.738613,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -7193,6 +8681,9 @@
       "name": "Tennis Courts · Pin Oak Drive",
       "lat": 36.8517,
       "lng": -87.541532,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7212,6 +8703,9 @@
       "name": "Tennis Courts · A Shau Valley Road",
       "lat": 36.647606,
       "lng": -87.471165,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -7227,9 +8721,13 @@
     {
       "id": "osm-w1333669993",
       "name": "Russellville City Park Tennis Courts",
-      "lat": 36.860335,
-      "lng": -86.915647,
-      "courtCount": 2,
+      "lat": 36.860321,
+      "lng": -86.915199,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 12,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -7246,6 +8744,9 @@
       "name": "Old Russellville Country Club Park Tennis Courts",
       "lat": 36.811339,
       "lng": -86.88362,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7263,6 +8764,9 @@
       "name": "Tennis Courts · Dodson Road",
       "lat": 36.826823,
       "lng": -86.85623,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7282,6 +8786,9 @@
       "name": "Public Tennis Courts",
       "lat": 36.844582,
       "lng": -86.850642,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -7299,6 +8806,9 @@
       "name": "Tennis Courts · Freedoms Way",
       "lat": 37.839623,
       "lng": -85.944316,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7315,9 +8825,12 @@
     },
     {
       "id": "osm-w1334497252",
-      "name": "Boone Links Golf Course Tennis Courts",
+      "name": "The Wynds Tennis Courts",
       "lat": 39.010955,
       "lng": -84.688386,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7328,13 +8841,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334499476",
       "name": "Tennis Courts · Constitution Drive",
       "lat": 36.958854,
       "lng": -86.405381,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7354,6 +8872,9 @@
       "name": "Tennis Courts · Woodside Hill Road",
       "lat": 38.30166,
       "lng": -85.652001,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7371,9 +8892,13 @@
     {
       "id": "osm-w1334860256",
       "name": "Tennis Courts · River Road",
-      "lat": 38.291984,
-      "lng": -85.675675,
-      "courtCount": 13,
+      "lat": 38.291774,
+      "lng": -85.675477,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 19,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -7390,6 +8915,9 @@
       "name": "Tennis Courts · Middleburg Road",
       "lat": 37.327544,
       "lng": -84.907437,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -7407,6 +8935,9 @@
       "name": "Tennis Courts · Southgate Manor Drive",
       "lat": 38.088696,
       "lng": -85.672627,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7426,6 +8957,9 @@
       "name": "Gateway Park Tennis Courts",
       "lat": 37.313015,
       "lng": -84.931735,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7443,6 +8977,9 @@
       "name": "Beechwood Independent Schools Tennis Courts",
       "lat": 39.049969,
       "lng": -84.553005,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -7462,6 +8999,9 @@
       "name": "Basil Griffin Park Tennis Courts",
       "lat": 36.917746,
       "lng": -86.436909,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7479,6 +9019,9 @@
       "name": "Tennis Courts · Blue Springs Road",
       "lat": 36.937746,
       "lng": -86.404129,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7498,6 +9041,9 @@
       "name": "Tennis Courts · Campbell Lane",
       "lat": 36.964016,
       "lng": -86.472998,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7517,6 +9063,9 @@
       "name": "Lampkin Park Tennis Courts",
       "lat": 36.99108,
       "lng": -86.477509,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7534,6 +9083,9 @@
       "name": "Public Tennis Courts",
       "lat": 37.120757,
       "lng": -86.254291,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7550,9 +9102,12 @@
     },
     {
       "id": "osm-w1334984494",
-      "name": "Rough River Dam State Resort Park Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 37.611938,
       "lng": -86.500078,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -7570,6 +9125,9 @@
       "name": "Tennis Courts · Poplar Hill Road",
       "lat": 38.290709,
       "lng": -85.6591,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7589,6 +9147,9 @@
       "name": "R.L. Durning Tennis Courts",
       "lat": 38.295303,
       "lng": -85.657867,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7599,13 +9160,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334985320",
       "name": "Tennis Courts · Floyds Hill Place",
       "lat": 38.303021,
       "lng": -85.649773,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7625,6 +9191,9 @@
       "name": "Tennis Courts · Rockledge Drive",
       "lat": 38.305342,
       "lng": -85.652812,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7644,6 +9213,9 @@
       "name": "Tennis Courts · Round Hill Road",
       "lat": 38.307493,
       "lng": -85.647141,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7663,6 +9235,9 @@
       "name": "Tennis Courts · Glencrest Drive",
       "lat": 38.310296,
       "lng": -85.647941,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7682,6 +9257,9 @@
       "name": "Glenview Place Tennis Courts",
       "lat": 38.302547,
       "lng": -85.64238,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7701,6 +9279,9 @@
       "name": "Glenview Acres Tennis Courts",
       "lat": 38.299276,
       "lng": -85.636515,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7711,30 +9292,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
-      "id": "osm-w1334985709",
-      "name": "River Knolls Tennis Courts",
-      "lat": 38.315061,
-      "lng": -85.638618,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "KY",
-      "source": "osm",
-      "tags": {}
-    },
-    {
-      "id": "osm-w1334985824",
-      "name": "Bridgepointe Tennis Courts",
-      "lat": 38.321827,
-      "lng": -85.613766,
+      "id": "osm-w1334985609",
+      "name": "Stoll Hill Pickleball Courts",
+      "lat": 38.308906,
+      "lng": -85.638425,
+      "sports": [
+        "pickleball"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7745,13 +9314,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
-      "id": "osm-w1334985855",
-      "name": "Spring Farm Pointe Tennis Courts",
-      "lat": 38.31901,
-      "lng": -85.591904,
+      "id": "osm-w1334985709",
+      "name": "River Knolls Tennis Courts",
+      "lat": 38.315061,
+      "lng": -85.638618,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7762,13 +9336,62 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
+      "id": "osm-w1334985824",
+      "name": "Bridgepointe Tennis Courts",
+      "lat": 38.321827,
+      "lng": -85.613766,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "KY",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
+      "id": "osm-w1334985855",
+      "name": "Spring Farm Pointe Tennis Courts",
+      "lat": 38.31901,
+      "lng": -85.591904,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "KY",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334995783",
       "name": "Tennis Courts · Myrtle Street",
       "lat": 36.829967,
       "lng": -84.86265,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -7786,6 +9409,9 @@
       "name": "Public Tennis Courts",
       "lat": 36.943989,
       "lng": -85.033233,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7805,6 +9431,9 @@
       "name": "Easy Walker Park Tennis Courts",
       "lat": 38.072437,
       "lng": -83.910726,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -7822,6 +9451,9 @@
       "name": "Tennis Courts · I 71;I 75",
       "lat": 39.05088,
       "lng": -84.561895,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7837,10 +9469,33 @@
       }
     },
     {
+      "id": "osm-w1343632563",
+      "name": "Miller Park Pickleball Courts",
+      "lat": 37.355873,
+      "lng": -85.350084,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 6,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "KY",
+      "source": "osm",
+      "tags": {}
+    },
+    {
       "id": "osm-w1343632592",
       "name": "Miller Park Tennis Courts",
       "lat": 37.359477,
       "lng": -85.345989,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -7858,6 +9513,9 @@
       "name": "Madisonville North-Hopkins High Tennis Courts",
       "lat": 37.380172,
       "lng": -87.49697,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -7877,6 +9535,9 @@
       "name": "Tennis Courts · Willy Fay Branch Road",
       "lat": 37.385096,
       "lng": -83.161349,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7896,6 +9557,9 @@
       "name": "Tennis Courts · Terrace Springs Drive",
       "lat": 38.287408,
       "lng": -85.50288,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7915,6 +9579,9 @@
       "name": "Murray High School Tennis Courts",
       "lat": 36.599774,
       "lng": -88.331344,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -7932,9 +9599,13 @@
     {
       "id": "osm-w1356673307",
       "name": "Tennis Courts · College Farm Road",
-      "lat": 36.620552,
-      "lng": -88.346989,
-      "courtCount": 1,
+      "lat": 36.620553,
+      "lng": -88.347136,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -7944,15 +9615,16 @@
       "city": "Murray",
       "state": "KY",
       "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1356673311",
       "name": "Tennis Courts · Astoria Court",
       "lat": 36.621922,
       "lng": -88.347148,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7972,6 +9644,9 @@
       "name": "Chase Apartments Tennis Courts",
       "lat": 36.625229,
       "lng": -88.326446,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -7982,13 +9657,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356678680",
       "name": "Tennis Courts · Country Club Road",
       "lat": 36.746843,
       "lng": -88.655939,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -8006,6 +9686,9 @@
       "name": "Tennis Courts · Trailridge Road",
       "lat": 36.714145,
       "lng": -88.590746,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8025,6 +9708,9 @@
       "name": "Tennis Courts · Lakeview Drive",
       "lat": 36.705753,
       "lng": -88.591869,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8042,9 +9728,13 @@
     {
       "id": "osm-w1365994711",
       "name": "Tennis Courts · Quail Ridge Road",
-      "lat": 36.758468,
-      "lng": -86.564972,
-      "courtCount": 2,
+      "lat": 36.758444,
+      "lng": -86.564762,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -8054,15 +9744,16 @@
       "city": "Franklin",
       "state": "KY",
       "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1368411870",
       "name": "Warren High School Tennis Courts",
       "lat": 36.981856,
       "lng": -86.47252,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -8082,6 +9773,9 @@
       "name": "Tennis Courts · Cumberland Parkway",
       "lat": 36.973867,
       "lng": -85.920246,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -8099,6 +9793,9 @@
       "name": "Gorin Park Tennis Courts",
       "lat": 36.992965,
       "lng": -85.900379,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -8114,9 +9811,13 @@
     {
       "id": "osm-w1376739987",
       "name": "Madisonville City Park Tennis Courts",
-      "lat": 37.315113,
-      "lng": -87.481944,
-      "courtCount": 2,
+      "lat": 37.315261,
+      "lng": -87.481839,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -8131,9 +9832,13 @@
     {
       "id": "osm-w1383906432",
       "name": "Central Park Tennis Courts",
-      "lat": 38.47489,
-      "lng": -82.638033,
-      "courtCount": 2,
+      "lat": 38.475045,
+      "lng": -82.638343,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 12,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -8146,10 +9851,33 @@
       "tags": {}
     },
     {
+      "id": "osm-w1383906872",
+      "name": "Dolly Graham Park Pickleball Courts",
+      "lat": 38.195301,
+      "lng": -84.870739,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "hard",
+      "lighted": null,
+      "indoor": null,
+      "access": "public",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "KY",
+      "source": "osm",
+      "tags": {}
+    },
+    {
       "id": "osm-w1387962447",
       "name": "Tennis Courts · Lee's Ford Dock Road",
       "lat": 37.048621,
       "lng": -84.67615,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8169,6 +9897,9 @@
       "name": "Mount Tabor Park Tennis Courts",
       "lat": 37.999091,
       "lng": -84.451683,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -8186,6 +9917,9 @@
       "name": "Warwick Villa South Tennis Courts",
       "lat": 38.257014,
       "lng": -85.61101,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -8196,13 +9930,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1412121313",
       "name": "Lindsey Wilson University Tennis Courts",
       "lat": 37.100995,
       "lng": -85.297832,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -8221,7 +9960,10 @@
       "id": "osm-w1412346047",
       "name": "Tennis Courts · Westmeade Drive",
       "lat": 37.97816,
-      "lng": -84.205798,
+      "lng": -84.205797,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -8239,6 +9981,9 @@
       "name": "Tennis Courts · Mike Miller County Park",
       "lat": 36.937366,
       "lng": -88.349103,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -8258,6 +10003,9 @@
       "name": "Tennis Courts · Stringers Trailor Park",
       "lat": 36.849814,
       "lng": -84.822034,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8277,6 +10025,9 @@
       "name": "Tennis Courts · Steenbergen Road",
       "lat": 36.83955,
       "lng": -86.079049,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8296,6 +10047,9 @@
       "name": "Gallatin County Schools Tennis Courts",
       "lat": 38.78448,
       "lng": -84.889955,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -8315,6 +10069,9 @@
       "name": "Public Tennis Courts",
       "lat": 37.757314,
       "lng": -86.424199,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -8332,6 +10089,9 @@
       "name": "Ray Jones Family Athletic Complex Tennis Courts",
       "lat": 37.227568,
       "lng": -87.187985,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -8349,6 +10109,9 @@
       "name": "Veteran's Memorial Park Tennis Courts",
       "lat": 37.486266,
       "lng": -87.139628,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -8364,8 +10127,11 @@
     {
       "id": "osm-w1413180943",
       "name": "Tennis Courts · Riverview Drive",
-      "lat": 37.932113,
+      "lat": 37.932112,
       "lng": -86.92151,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8385,6 +10151,9 @@
       "name": "Tennis Courts · North Park Street",
       "lat": 37.834238,
       "lng": -86.644312,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -8404,6 +10173,9 @@
       "name": "Tennis Courts · F F A Camp Road",
       "lat": 37.772988,
       "lng": -86.457369,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -8423,6 +10195,9 @@
       "name": "Tennis Courts · Pollitt Road",
       "lat": 38.516778,
       "lng": -82.698477,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8442,6 +10217,9 @@
       "name": "Tennis Courts · Mount Pleasant Road",
       "lat": 38.611666,
       "lng": -85.329134,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -8459,6 +10237,9 @@
       "name": "Tennis Courts · Worthington Glen Drive",
       "lat": 38.318508,
       "lng": -85.559957,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -8478,6 +10259,9 @@
       "name": "Tennis Courts · Maywood Avenue",
       "lat": 37.788506,
       "lng": -85.430275,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -8497,6 +10281,9 @@
       "name": "Tennis Courts · Waitsboro Drive",
       "lat": 37.016883,
       "lng": -84.631847,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8516,6 +10303,9 @@
       "name": "Tennis Courts · Eagle Drive",
       "lat": 36.949344,
       "lng": -84.604168,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -8535,6 +10325,9 @@
       "name": "Tennis Courts · Old Wilson Lane",
       "lat": 36.611008,
       "lng": -83.75007,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -8550,9 +10343,13 @@
     {
       "id": "osm-w1414487447",
       "name": "California Park Tennis Courts",
-      "lat": 38.24063,
-      "lng": -85.783074,
-      "courtCount": 1,
+      "lat": 38.240613,
+      "lng": -85.782915,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -8569,6 +10366,9 @@
       "name": "Tennis Courts · Scottsville Road",
       "lat": 36.916248,
       "lng": -85.998972,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8587,7 +10387,10 @@
       "id": "osm-w1419574608",
       "name": "Oneida Baptist Institute Tennis Courts",
       "lat": 37.265727,
-      "lng": -83.651834,
+      "lng": -83.651835,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -8607,6 +10410,9 @@
       "name": "Public Tennis Courts",
       "lat": 38.166611,
       "lng": -85.635212,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -8624,6 +10430,9 @@
       "name": "Klondike Park Tennis Courts",
       "lat": 38.210237,
       "lng": -85.636064,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -8641,6 +10450,9 @@
       "name": "Tennis Courts · Lodge Lane",
       "lat": 38.196238,
       "lng": -85.631184,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -8660,6 +10472,9 @@
       "name": "Tennis Courts · Snowball Court",
       "lat": 38.210746,
       "lng": -85.616141,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8679,6 +10494,9 @@
       "name": "East Union Park Tennis Courts",
       "lat": 38.313546,
       "lng": -84.019574,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -8696,6 +10514,9 @@
       "name": "Owen County Park Tennis Courts",
       "lat": 38.548732,
       "lng": -84.835347,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -8711,9 +10532,13 @@
     {
       "id": "osm-w1426908964",
       "name": "Ghetto Courts Tennis Courts",
-      "lat": 36.609982,
-      "lng": -83.730018,
-      "courtCount": 1,
+      "lat": 36.609993,
+      "lng": -83.729883,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 4,
       "surface": "hard",
       "lighted": null,
       "indoor": null,
@@ -8729,7 +10554,10 @@
       "id": "osm-w1432480315",
       "name": "Henry Clay High School Tennis Courts",
       "lat": 38.016534,
-      "lng": -84.467221,
+      "lng": -84.467222,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -8749,6 +10577,9 @@
       "name": "The Woodford Club Tennis Courts",
       "lat": 38.010271,
       "lng": -84.766357,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -8766,6 +10597,9 @@
       "name": "Tennis Courts · South Logsdon Parkway",
       "lat": 37.823082,
       "lng": -85.947231,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -8783,6 +10617,9 @@
       "name": "City Park Tennis Court",
       "lat": 37.119223,
       "lng": -87.862005,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -8800,6 +10637,9 @@
       "name": "Bryan Station High School Tennis Courts",
       "lat": 38.069128,
       "lng": -84.453999,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -8819,6 +10659,9 @@
       "name": "Ohio County Fair Grounds Tennis Courts",
       "lat": 37.460038,
       "lng": -86.863875,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -8836,6 +10679,9 @@
       "name": "Polo Fields Golf and Country Club Tennis Courts",
       "lat": 38.256993,
       "lng": -85.439016,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -8850,9 +10696,12 @@
     },
     {
       "id": "osm-w1448022257",
-      "name": "Sayre Athletic Complex Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 37.969656,
       "lng": -84.382909,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 10,
       "surface": "unknown",
       "lighted": null,
@@ -8869,7 +10718,10 @@
       "id": "osm-w1448064637",
       "name": "Silver Lake Park Tennis Courts",
       "lat": 39.023829,
-      "lng": -84.595996,
+      "lng": -84.595995,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -8887,6 +10739,9 @@
       "name": "Bob Amos Park Tennis Courts",
       "lat": 37.468325,
       "lng": -82.543749,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -8904,6 +10759,9 @@
       "name": "Valley Park Tennis Courts",
       "lat": 38.055889,
       "lng": -84.55167,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8921,6 +10779,9 @@
       "name": "Tennis Courts · Yorkshire Drive",
       "lat": 37.719361,
       "lng": -85.842782,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8938,9 +10799,13 @@
     {
       "id": "osm-w1456773861",
       "name": "McNeely Lake Park Tennis Courts",
-      "lat": 38.104047,
-      "lng": -85.637178,
-      "courtCount": 2,
+      "lat": 38.104053,
+      "lng": -85.6373,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -8957,6 +10822,9 @@
       "name": "Ballard High School Tennis Courts",
       "lat": 38.286225,
       "lng": -85.623089,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -8976,7 +10844,70 @@
       "name": "Waverly Tennis Courts",
       "lat": 37.989166,
       "lng": -84.574506,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "KY",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1457289347",
+      "name": "Woodford County Park Pickleball Courts",
+      "lat": 38.047968,
+      "lng": -84.760064,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "KY",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1457365127",
+      "name": "Union Park Pickleball Courts",
+      "lat": 38.940886,
+      "lng": -84.679778,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "KY",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1458802861",
+      "name": "Cherry Park Pickleball Courts",
+      "lat": 37.32914,
+      "lng": -87.517871,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -8993,6 +10924,9 @@
       "name": "Tennis Courts · La-1009",
       "lat": 37.249224,
       "lng": -87.480073,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -9010,7 +10944,50 @@
       "name": "Pennyrile Forest State Resort Park Tennis Courts",
       "lat": 37.073323,
       "lng": -87.665848,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "KY",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1459404469",
+      "name": "Benton City Park Pickleball Courts",
+      "lat": 36.853106,
+      "lng": -88.34505,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 3,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "KY",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1462201122",
+      "name": "Nelson Hornbeck Park Pickleball Courts",
+      "lat": 38.107672,
+      "lng": -85.75667,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -9027,6 +11004,9 @@
       "name": "Tennis Courts · Verona-Mudlick Road",
       "lat": 38.83256,
       "lng": -84.678779,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -9042,9 +11022,13 @@
     {
       "id": "osm-w1470398498",
       "name": "Tennis Courts · Old Hall Road",
-      "lat": 37.096004,
-      "lng": -88.783939,
-      "courtCount": 2,
+      "lat": 37.095891,
+      "lng": -88.783553,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 12,
       "surface": "unknown",
       "lighted": true,
       "indoor": null,
@@ -9054,15 +11038,16 @@
       "city": "McCracken County",
       "state": "KY",
       "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1472819801",
       "name": "Tennis Courts · Stephen Beale Drive",
       "lat": 36.508363,
       "lng": -88.889912,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -9082,6 +11067,9 @@
       "name": "Worthington Tennis Club",
       "lat": 38.548366,
       "lng": -82.730855,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -9099,6 +11087,9 @@
       "name": "Tennis Courts · Quail Court",
       "lat": 38.509939,
       "lng": -82.702358,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -9116,6 +11107,9 @@
       "name": "Tennis Courts · Caveland Drive",
       "lat": 38.371529,
       "lng": -83.123565,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -9135,6 +11129,9 @@
       "name": "J.A. Raybourne Park Tennis Courts",
       "lat": 38.295165,
       "lng": -83.183822,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -9152,6 +11149,9 @@
       "name": "Tennis Courts · River Street",
       "lat": 38.60377,
       "lng": -83.322664,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -9171,6 +11171,9 @@
       "name": "Deerfield Golf Club Tennis Courts",
       "lat": 38.640257,
       "lng": -83.78539,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -9188,6 +11191,9 @@
       "name": "Tennis Courts · Radio Tower Road",
       "lat": 37.869475,
       "lng": -82.533344,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -9207,6 +11213,9 @@
       "name": "Hindman Park Tennis Courts",
       "lat": 37.321415,
       "lng": -82.963588,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -9224,6 +11233,9 @@
       "name": "Tennis Courts · Park Avenue",
       "lat": 37.279447,
       "lng": -83.209039,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -9243,6 +11255,9 @@
       "name": "Coal Miners Memorial Park Tennis Courts",
       "lat": 36.96368,
       "lng": -82.951246,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -9260,6 +11275,9 @@
       "name": "Tennis Courts · Sunshine Pk",
       "lat": 36.845929,
       "lng": -83.32635,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": true,
@@ -9277,6 +11295,9 @@
       "name": "Country Club of Paducah Tennis Courts",
       "lat": 37.049068,
       "lng": -88.700115,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": true,
@@ -9292,9 +11313,13 @@
     {
       "id": "osm-w1475114239",
       "name": "Rolling Hills Country Club Tennis Courts",
-      "lat": 37.034062,
-      "lng": -88.64458,
-      "courtCount": 2,
+      "lat": 37.033971,
+      "lng": -88.644834,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 6,
       "surface": "unknown",
       "lighted": true,
       "indoor": null,
@@ -9309,9 +11334,13 @@
     {
       "id": "osm-w1475118977",
       "name": "Noble Park Tennis Courts",
-      "lat": 37.084499,
-      "lng": -88.635656,
-      "courtCount": 7,
+      "lat": 37.084803,
+      "lng": -88.636106,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 15,
       "surface": "unknown",
       "lighted": true,
       "indoor": null,
@@ -9328,6 +11357,9 @@
       "name": "Public Tennis Courts",
       "lat": 36.998964,
       "lng": -88.291949,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -9347,6 +11379,9 @@
       "name": "Tennis Courts · Mulberry Street",
       "lat": 37.100349,
       "lng": -88.072458,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -9366,7 +11401,11 @@
       "name": "Morganfield Park Tennis Courts",
       "lat": 37.678633,
       "lng": -87.909638,
-      "courtCount": 2,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 6,
       "surface": "unknown",
       "lighted": true,
       "indoor": null,
@@ -9383,6 +11422,9 @@
       "name": "Sunset Terrace Tennis Courts",
       "lat": 38.222342,
       "lng": -85.633608,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -9402,6 +11444,9 @@
       "name": "Tennis Courts · Littleton Road",
       "lat": 37.170945,
       "lng": -83.713891,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -9419,6 +11464,9 @@
       "name": "Clay County High School Tennis Courts",
       "lat": 37.180711,
       "lng": -83.765071,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -9435,9 +11483,12 @@
     },
     {
       "id": "osm-w1476316825",
-      "name": "Crooked Creek Golf Club Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 37.085055,
       "lng": -84.030052,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -9448,13 +11499,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1476317130",
       "name": "Tennis Courts · State Champ Road",
       "lat": 37.102202,
       "lng": -84.070489,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -9472,6 +11528,9 @@
       "name": "Tennis Courts · Hal Rogers Parkway",
       "lat": 37.146325,
       "lng": -84.07948,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": true,
@@ -9489,6 +11548,9 @@
       "name": "Tennis Courts · University of Kentucky Drive",
       "lat": 37.061263,
       "lng": -84.613887,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -9505,7 +11567,10 @@
       "id": "osm-w1476318354",
       "name": "Monticello Wayne County Park Tennis Courts",
       "lat": 36.823703,
-      "lng": -84.842437,
+      "lng": -84.842438,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -9523,6 +11588,9 @@
       "name": "Tennis Courts · Lake Cumberland St Resort Park Road",
       "lat": 36.930558,
       "lng": -85.042405,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -9542,7 +11610,11 @@
       "name": "Jamestown City Park Tennis Courts",
       "lat": 36.990642,
       "lng": -85.064455,
-      "courtCount": 2,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -9559,6 +11631,9 @@
       "name": "Leroy Rowe Memorial Park Tennis Courts",
       "lat": 37.065289,
       "lng": -85.082835,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -9576,6 +11651,9 @@
       "name": "Campbellsville University Tennis Courts",
       "lat": 37.343276,
       "lng": -85.35393,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": true,
@@ -9595,7 +11673,11 @@
       "name": "Tennis Courts · Triple 5 Highway",
       "lat": 37.699642,
       "lng": -85.217023,
-      "courtCount": 4,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 8,
       "surface": "unknown",
       "lighted": true,
       "indoor": null,
@@ -9612,6 +11694,9 @@
       "name": "Tennis Courts · Conners Road",
       "lat": 37.761986,
       "lng": -85.341973,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -9630,8 +11715,12 @@
       "id": "osm-w1476324312",
       "name": "Tennis Courts · Jones Avenue",
       "lat": 37.812357,
-      "lng": -85.47415,
-      "courtCount": 2,
+      "lng": -85.474149,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 4,
       "surface": "unknown",
       "lighted": true,
       "indoor": null,
@@ -9641,16 +11730,18 @@
       "city": "Bardstown",
       "state": "KY",
       "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1476326690",
       "name": "Glenmary Country Club Tennis Courts",
-      "lat": 38.127375,
-      "lng": -85.56893,
-      "courtCount": 2,
+      "lat": 38.127376,
+      "lng": -85.568957,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -9663,10 +11754,33 @@
       "tags": {}
     },
     {
+      "id": "osm-w1476692050",
+      "name": "Roland Bland Park Pickleball Courts",
+      "lat": 36.998613,
+      "lng": -86.437621,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 6,
+      "surface": "unknown",
+      "lighted": true,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "KY",
+      "source": "osm",
+      "tags": {}
+    },
+    {
       "id": "osm-w1476692651",
-      "name": "Central Hardin High School Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 37.673472,
       "lng": -85.908899,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": true,
@@ -9677,15 +11791,16 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {
-        "context": "school"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1476693242",
       "name": "Public Tennis Courts",
       "lat": 37.696846,
       "lng": -85.880932,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": true,
@@ -9703,6 +11818,9 @@
       "name": "Tennis Courts · Highwater Road",
       "lat": 39.071333,
       "lng": -84.579521,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -9722,6 +11840,9 @@
       "name": "Tennis Courts · South Dixie Street",
       "lat": 37.151938,
       "lng": -85.93325,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": true,
@@ -9739,6 +11860,9 @@
       "name": "LaRue County Tennis Court",
       "lat": 37.555078,
       "lng": -85.728345,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -9753,9 +11877,12 @@
     },
     {
       "id": "osm-w1478622862",
-      "name": "Eastern Kentucky University Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 37.732704,
       "lng": -84.29965,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -9766,16 +11893,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {
-        "context": "school"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1478624989",
       "name": "Tennis Courts · Squires Road",
-      "lat": 37.993274,
-      "lng": -84.441807,
-      "courtCount": 2,
+      "lat": 37.993264,
+      "lng": -84.441844,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 4,
       "surface": "unknown",
       "lighted": true,
       "indoor": null,
@@ -9785,15 +11914,16 @@
       "city": "Lexington",
       "state": "KY",
       "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1478627093",
       "name": "Public Tennis Courts",
       "lat": 37.989811,
       "lng": -84.495513,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -9811,9 +11941,13 @@
     {
       "id": "osm-w1478627585",
       "name": "Public Tennis Courts",
-      "lat": 37.971082,
-      "lng": -84.494629,
-      "courtCount": 1,
+      "lat": 37.971068,
+      "lng": -84.494519,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 3,
       "surface": "unknown",
       "lighted": true,
       "indoor": null,
@@ -9823,15 +11957,16 @@
       "city": "Lexington",
       "state": "KY",
       "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1478627950",
       "name": "Belleau Woods Tennis Courts",
       "lat": 37.971738,
       "lng": -84.500719,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -9847,9 +11982,13 @@
     {
       "id": "osm-w1478628463",
       "name": "River Hill Park Tennis Courts",
-      "lat": 37.969863,
-      "lng": -84.485917,
-      "courtCount": 3,
+      "lat": 37.969904,
+      "lng": -84.485868,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -9863,12 +12002,77 @@
     },
     {
       "id": "osm-w1478682243",
-      "name": "Henderson Country Club Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 37.862868,
       "lng": -87.485458,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "KY",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
+      "id": "osm-w1478682589",
+      "name": "Community Park Pickleball Courts",
+      "lat": 37.813843,
+      "lng": -87.58157,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 6,
+      "surface": "unknown",
+      "lighted": true,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "KY",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1478684721",
+      "name": "Yellow Creek Park Pickleball Courts",
+      "lat": 37.796737,
+      "lng": -87.029702,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 6,
+      "surface": "unknown",
+      "lighted": true,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "KY",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1478704297",
+      "name": "American Legion Park Pickleball Courts",
+      "lat": 37.705574,
+      "lng": -85.853144,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 12,
+      "surface": "unknown",
+      "lighted": null,
       "indoor": null,
       "access": "unknown",
       "fee": null,
@@ -9883,6 +12087,9 @@
       "name": "Tennis Courts · Applewood Lane",
       "lat": 37.754618,
       "lng": -85.905932,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -9900,6 +12107,9 @@
       "name": "Robert Frost Sixth-Grade Academy and Stuart Academy Tennis Courts",
       "lat": 38.110114,
       "lng": -85.844157,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -9919,6 +12129,9 @@
       "name": "Tennis Courts · Fox Ridge Court",
       "lat": 38.129492,
       "lng": -85.815419,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -9938,6 +12151,9 @@
       "name": "Russell Lee Park Tennis Courts",
       "lat": 38.233772,
       "lng": -85.815086,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -9953,9 +12169,13 @@
     {
       "id": "osm-w1478709672",
       "name": "Audubon Country Club Tennis Courts",
-      "lat": 38.200849,
-      "lng": -85.728453,
-      "courtCount": 3,
+      "lat": 38.200866,
+      "lng": -85.728389,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -9968,11 +12188,37 @@
       "tags": {}
     },
     {
+      "id": "osm-w1478710356",
+      "name": "Mapleton Elementary School Pickleball Courts",
+      "lat": 38.060591,
+      "lng": -83.956938,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 4,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "KY",
+      "source": "osm",
+      "tags": {
+        "context": "school"
+      }
+    },
+    {
       "id": "osm-w1478710747",
       "name": "Winchester Country Club Tennis Courts",
-      "lat": 37.983454,
-      "lng": -84.187769,
-      "courtCount": 3,
+      "lat": 37.983363,
+      "lng": -84.187629,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 7,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -9989,6 +12235,9 @@
       "name": "Paul Laurence Dunbar High School Tennis Courts",
       "lat": 38.016425,
       "lng": -84.577557,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -10006,9 +12255,13 @@
     {
       "id": "osm-w1478713703",
       "name": "Tennis Courts · Shannawood Drive",
-      "lat": 38.004673,
-      "lng": -84.578491,
-      "courtCount": 4,
+      "lat": 38.004653,
+      "lng": -84.57854,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -10025,6 +12278,9 @@
       "name": "Tennis Courts · Overdale Church Parking Lot Road",
       "lat": 38.080875,
       "lng": -85.676077,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -10044,6 +12300,9 @@
       "name": "Southern High School Tennis Courts",
       "lat": 38.125019,
       "lng": -85.682526,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -10063,6 +12322,9 @@
       "name": "Atherton High School Tennis Courts",
       "lat": 38.213931,
       "lng": -85.686756,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -10082,6 +12344,9 @@
       "name": "Placidena Tennis Courts",
       "lat": 38.247824,
       "lng": -85.560973,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -10092,13 +12357,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1479251322",
       "name": "Tennis Courts · La Fontenay Court",
       "lat": 38.24737,
       "lng": -85.559614,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -10114,11 +12384,37 @@
       }
     },
     {
+      "id": "osm-w1479251324",
+      "name": "Highlands Latin School , Spring Meadows Campus Pickleball Courts",
+      "lat": 38.24417,
+      "lng": -85.553276,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 3,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "KY",
+      "source": "osm",
+      "tags": {
+        "context": "school"
+      }
+    },
+    {
       "id": "osm-w1479251328",
       "name": "Crosby Middle School Tennis Courts",
       "lat": 38.238823,
       "lng": -85.554502,
-      "courtCount": 4,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 8,
       "surface": "unknown",
       "lighted": true,
       "indoor": null,
@@ -10134,10 +12430,14 @@
     },
     {
       "id": "osm-w1479253154",
-      "name": "E.P. \"Tom\" Sawyer State Park Tennis Courts",
-      "lat": 38.285143,
-      "lng": -85.554774,
-      "courtCount": 6,
+      "name": "Public Tennis Courts",
+      "lat": 38.284824,
+      "lng": -85.554935,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 22,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -10154,6 +12454,9 @@
       "name": "Briar Hill Park Tennis Courts",
       "lat": 38.323872,
       "lng": -85.516244,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -10171,6 +12474,9 @@
       "name": "Kenwood Station Elementary Tennis Courts",
       "lat": 38.333056,
       "lng": -85.46903,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -10190,6 +12496,9 @@
       "name": "Woodford County Park Tennis Courts",
       "lat": 38.050488,
       "lng": -84.763607,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": true,
@@ -10207,6 +12516,9 @@
       "name": "Kentucky State University Tennis Courts",
       "lat": 38.191153,
       "lng": -84.850705,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "hard",
       "lighted": true,
@@ -10226,6 +12538,9 @@
       "name": "Tennis Courts · Bondurant Drive",
       "lat": 38.166101,
       "lng": -84.908511,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": true,
@@ -10243,6 +12558,9 @@
       "name": "Oldham County Country Club Tennis Courts",
       "lat": 38.388918,
       "lng": -85.439246,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -10260,6 +12578,9 @@
       "name": "General Butler State Resort Park Tennis Courts",
       "lat": 38.670728,
       "lng": -85.167478,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -10277,6 +12598,9 @@
       "name": "Carroll County High School;Cartmell Elementary School;CCATC Tennis Courts",
       "lat": 38.680888,
       "lng": -85.15929,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": true,
@@ -10296,6 +12620,9 @@
       "name": "Tennis Courts · Brierly Ridge Road",
       "lat": 38.536642,
       "lng": -84.030197,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -10315,6 +12642,9 @@
       "name": "Bracken County High School Tennis Courts",
       "lat": 38.690579,
       "lng": -84.072974,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -10332,9 +12662,13 @@
     {
       "id": "osm-w1481002268",
       "name": "Appelman Park Tennis Courts",
-      "lat": 38.772917,
+      "lat": 38.772918,
       "lng": -84.009206,
-      "courtCount": 2,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 6,
       "surface": "unknown",
       "lighted": true,
       "indoor": null,
@@ -10351,6 +12685,9 @@
       "name": "Tennis Courts · North Hubbards Lane",
       "lat": 38.267882,
       "lng": -85.646199,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -10370,6 +12707,9 @@
       "name": "Tennis Courts · Woodside Road",
       "lat": 38.301513,
       "lng": -85.655489,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -10387,9 +12727,13 @@
     {
       "id": "osm-w1487035747",
       "name": "Maysville–Mason County Recreation Park Tennis Courts",
-      "lat": 38.60172,
-      "lng": -83.810129,
-      "courtCount": 3,
+      "lat": 38.601614,
+      "lng": -83.809902,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 7,
       "surface": "unknown",
       "lighted": true,
       "indoor": null,
@@ -10406,6 +12750,9 @@
       "name": "Pendleton County Fairgrounds Tennis Courts",
       "lat": 38.674614,
       "lng": -84.342506,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": true,
@@ -10423,6 +12770,9 @@
       "name": "Piddle Park Tennis Courts",
       "lat": 38.681121,
       "lng": -84.589537,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -10440,6 +12790,9 @@
       "name": "Big Bone Lick State Park Tennis Courts",
       "lat": 38.886797,
       "lng": -84.748239,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -10457,7 +12810,11 @@
       "name": "Simon Kenton High School;Kenton Elementary School Tennis Courts",
       "lat": 38.922181,
       "lng": -84.546794,
-      "courtCount": 3,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -10476,6 +12833,9 @@
       "name": "Boone County Arboretum & Central Park Tennis Courts",
       "lat": 38.964894,
       "lng": -84.720521,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -10493,6 +12853,9 @@
       "name": "Tennis Courts · Longbranch Road",
       "lat": 38.974232,
       "lng": -84.71597,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -10510,6 +12873,9 @@
       "name": "Boone County High School Tennis Courts",
       "lat": 39.00447,
       "lng": -84.630745,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -10527,9 +12893,13 @@
     {
       "id": "osm-w1488965358",
       "name": "President’s Park Tennis Courts",
-      "lat": 39.009927,
-      "lng": -84.57583,
-      "courtCount": 2,
+      "lat": 39.009926,
+      "lng": -84.575831,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -10546,7 +12916,11 @@
       "name": "Scott High School; Woodland Middle School Tennis Courts",
       "lat": 38.998982,
       "lng": -84.50703,
-      "courtCount": 4,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 8,
       "surface": "unknown",
       "lighted": true,
       "indoor": null,
@@ -10565,6 +12939,9 @@
       "name": "Pioneer Park Tennis Courts",
       "lat": 39.003809,
       "lng": -84.537592,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -10582,6 +12959,9 @@
       "name": "Thomas More University Tennis Courts",
       "lat": 39.017855,
       "lng": -84.571931,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": true,
@@ -10599,9 +12979,35 @@
     {
       "id": "osm-w1488988757",
       "name": "Notre Dame Academy Tennis Courts",
-      "lat": 39.062209,
-      "lng": -84.534045,
-      "courtCount": 5,
+      "lat": 39.06223,
+      "lng": -84.534147,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 7,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "KY",
+      "source": "osm",
+      "tags": {
+        "context": "school"
+      }
+    },
+    {
+      "id": "osm-w1488988818",
+      "name": "Holmes High School Pickleball Courts",
+      "lat": 39.061073,
+      "lng": -84.503278,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -10620,6 +13026,9 @@
       "name": "Ralph Mussman Recreation Complex Tennis Courts",
       "lat": 39.09401,
       "lng": -84.481855,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -10636,8 +13045,34 @@
       "id": "osm-w1488989601",
       "name": "Prospect Point & the Lofts Tennis Courts",
       "lat": 39.066988,
-      "lng": -84.61262,
-      "courtCount": 1,
+      "lng": -84.612619,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "KY",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
+      "id": "osm-w1491068440",
+      "name": "Graham Memorial Park Pickleball Courts",
+      "lat": 37.560449,
+      "lng": -85.247409,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -10654,6 +13089,9 @@
       "name": "Ed Spear Park Tennis Courts",
       "lat": 37.047763,
       "lng": -86.213077,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -10669,9 +13107,13 @@
     {
       "id": "osm-w1501977860",
       "name": "Charlie Vettner Park Tennis Courts",
-      "lat": 38.169938,
-      "lng": -85.561348,
-      "courtCount": 4,
+      "lat": 38.169908,
+      "lng": -85.561206,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -10685,10 +13127,14 @@
     },
     {
       "id": "osm-w1509024114",
-      "name": "Rough River Dam State Resort Park Tennis Courts",
-      "lat": 37.621838,
-      "lng": -86.504048,
-      "courtCount": 2,
+      "name": "Public Tennis Courts",
+      "lat": 37.621883,
+      "lng": -86.50412,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -10705,6 +13151,29 @@
       "name": "Louisville Champions Park Tennis Courts",
       "lat": 38.268587,
       "lng": -85.703648,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "KY",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1513248991",
+      "name": "Whitley Branch Veterans Park Pickleball Courts",
+      "lat": 37.116768,
+      "lng": -84.079644,
+      "sports": [
+        "pickleball"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -10722,6 +13191,9 @@
       "name": "Louisville Champions Park Tennis Courts",
       "lat": 38.26513,
       "lng": -85.703083,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -10739,6 +13211,9 @@
       "name": "Green Leaves Tennis Courts",
       "lat": 38.273986,
       "lng": -85.694183,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -10749,13 +13224,18 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1518511904",
       "name": "Excella Place Tennis Courts",
       "lat": 38.254919,
       "lng": -85.646587,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -10773,6 +13253,9 @@
       "name": "Tennis Courts · Laverne Drive",
       "lat": 38.175761,
       "lng": -85.604032,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -10788,10 +13271,35 @@
       }
     },
     {
+      "id": "osm-w1532389711",
+      "name": "Public Pickleball Courts",
+      "lat": 38.057353,
+      "lng": -84.55699,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "KY",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
       "id": "osm-w1536378463",
       "name": "Tennis Courts · Fairgrounds Road",
       "lat": 37.65399,
       "lng": -84.796378,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -10809,6 +13317,9 @@
       "name": "Tennis Courts · South Street",
       "lat": 39.055062,
       "lng": -84.489221,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -10828,6 +13339,9 @@
       "name": "Livermore Baseball Fields Tennis Courts",
       "lat": 37.49508,
       "lng": -87.139242,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -10845,6 +13359,9 @@
       "name": "Tennis Courts · Diederich Boulevard",
       "lat": 38.507269,
       "lng": -82.702742,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -10860,56 +13377,25 @@
       }
     },
     {
-      "id": "osm-r4034688",
-      "name": "George A. Sadler Courts",
-      "lat": 38.19269,
-      "lng": -83.427466,
-      "courtCount": 1,
-      "surface": "hard",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "KY",
-      "source": "osm",
-      "tags": {}
-    },
-    {
-      "id": "osm-r12453100",
-      "name": "Crosby Park Tennis Courts",
-      "lat": 38.250471,
-      "lng": -85.540245,
-      "courtCount": 1,
-      "surface": "hard",
-      "lighted": null,
-      "indoor": null,
-      "access": "public",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "KY",
-      "source": "osm",
-      "tags": {}
-    },
-    {
-      "id": "osm-r19352473",
-      "name": "Tennis Courts · Paducah Road",
-      "lat": 37.066911,
-      "lng": -88.989407,
-      "courtCount": 1,
+      "id": "osm-w1558456302",
+      "name": "Spencer County High School Tennis Courts",
+      "lat": 38.038523,
+      "lng": -85.337409,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": "Paducah Road",
-      "city": "Barlow",
+      "address": null,
+      "city": null,
       "state": "KY",
       "source": "osm",
       "tags": {
-        "context": "residential"
+        "context": "school"
       }
     }
   ]

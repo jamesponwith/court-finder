@@ -37,9 +37,14 @@ react-leaflet.
 
 Court data is produced offline and served as static JSON:
 
-- `scripts/` — pipeline scripts that pull raw source data (OpenStreetMap
-  via Overpass, NYC Parks Open Data) into `data/raw/`, then normalize and
-  merge it into the app-facing files.
+- `scripts/` — pipeline scripts that pull raw source data into `data/raw/`,
+  then normalize and merge it into the app-facing files. Two equivalent
+  fetchers write the same raw format: `fetch-geofabrik.mjs` (preferred:
+  Geofabrik state extracts filtered locally with `osmium`; no quotas, complete
+  data, ~35 min for all states) and `fetch-osm.mjs` (Overpass; public
+  instances rate-limit statewide batches and mirrors with a stale area index
+  return truncated states). `normalize.mjs` refuses to publish a state that
+  shrank >30% or lost >15 points of named coverage unless `--allow-shrink`.
 - `data/raw/` — raw source snapshots (not consumed by the app). Raw OSM
   extracts are **no longer committed to git** — they are regenerable at
   any time via `scripts/fetch-osm.mjs`. The geocode cache **is**

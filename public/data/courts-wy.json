@@ -3,46 +3,13 @@
   "attribution": "© OpenStreetMap contributors (ODbL); NYC Parks Open Data",
   "facilities": [
     {
-      "id": "osm-w49187426",
-      "name": "McCormick Junior High School Tennis Courts",
-      "lat": 41.17311,
-      "lng": -104.834676,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "WY",
-      "source": "osm",
-      "tags": {
-        "context": "school"
-      }
-    },
-    {
-      "id": "osm-w130348385",
-      "name": "Undine Park Tennis Courts",
-      "lat": 41.304674,
-      "lng": -105.590571,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "WY",
-      "source": "osm",
-      "tags": {}
-    },
-    {
       "id": "osm-w130527700",
       "name": "Laramie Middle School Tennis Courts",
       "lat": 41.324298,
       "lng": -105.565419,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -62,6 +29,9 @@
       "name": "Tennis Courts · Shoshone Avenue",
       "lat": 41.50944,
       "lng": -109.46577,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -79,6 +49,9 @@
       "name": "Tennis Courts · Monroe Avenue",
       "lat": 41.510038,
       "lng": -109.469425,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -96,6 +69,9 @@
       "name": "Green River High School Tennis Courts",
       "lat": 41.501419,
       "lng": -109.465975,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -115,6 +91,9 @@
       "name": "Tennis Courts · East Teton Boulevard",
       "lat": 41.499588,
       "lng": -109.44685,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -134,6 +113,9 @@
       "name": "Tennis Courts · 6th Street",
       "lat": 41.262139,
       "lng": -110.964768,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -151,6 +133,9 @@
       "name": "Powell High School Tennis Courts",
       "lat": 44.763266,
       "lng": -108.743675,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -170,6 +155,9 @@
       "name": "Tennis Courts · Upper Superior Road",
       "lat": 41.769966,
       "lng": -108.969985,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -186,9 +174,12 @@
     },
     {
       "id": "osm-w235340354",
-      "name": "Sundance Tennis and Swim Club",
+      "name": "Shooting Star Tennis Courts",
       "lat": 43.582663,
       "lng": -110.833408,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -206,6 +197,9 @@
       "name": "Tennis Courts · Lansdown Road",
       "lat": 43.560573,
       "lng": -110.802561,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -225,6 +219,9 @@
       "name": "Tennis Courts · 3 B Ranch Road",
       "lat": 43.509952,
       "lng": -110.864206,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -244,6 +241,9 @@
       "name": "Miller Park Tennis Courts",
       "lat": 43.480835,
       "lng": -110.765452,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -261,6 +261,9 @@
       "name": "Teton County Fair & Rodeo Grounds Tennis Courts",
       "lat": 43.473994,
       "lng": -110.766009,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -278,6 +281,9 @@
       "name": "Tennis Courts · North East Butte Road",
       "lat": 43.5031,
       "lng": -110.772129,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -295,8 +301,11 @@
     {
       "id": "osm-w252981659",
       "name": "Sheridan College Tennis Courts",
-      "lat": 44.762841,
+      "lat": 44.76284,
       "lng": -106.940256,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -316,6 +325,9 @@
       "name": "Emerson Park Tennis Courts",
       "lat": 44.782763,
       "lng": -106.951888,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -329,29 +341,13 @@
       "tags": {}
     },
     {
-      "id": "osm-w257722788",
-      "name": "Sheridan High School Tennis Courts",
-      "lat": 44.811209,
-      "lng": -106.985863,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "WY",
-      "source": "osm",
-      "tags": {
-        "context": "school"
-      }
-    },
-    {
       "id": "osm-w263140055",
       "name": "Tennis Courts · North 8th Street",
       "lat": 44.383873,
       "lng": -108.044613,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -371,6 +367,9 @@
       "name": "Tennis Courts · Wyoming Heritage Trail",
       "lat": 43.232082,
       "lng": -108.121811,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -390,6 +389,9 @@
       "name": "Tennis Courts · Tower Junction",
       "lat": 41.168492,
       "lng": -104.825129,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -409,6 +411,9 @@
       "name": "Cody High School Tennis Courts",
       "lat": 44.524197,
       "lng": -109.070169,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -428,23 +433,9 @@
       "name": "Glendale Park Tennis Courts",
       "lat": 44.517542,
       "lng": -109.058618,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "WY",
-      "source": "osm",
-      "tags": {}
-    },
-    {
-      "id": "osm-w355281043",
-      "name": "Jaycee Park Tennis Courts",
-      "lat": 41.149562,
-      "lng": -104.83308,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -459,9 +450,12 @@
     },
     {
       "id": "osm-w377064704",
-      "name": "Tennis Courts · Sierra Circle",
+      "name": "Overland Elementary School Tennis Courts",
       "lat": 41.587379,
       "lng": -109.254039,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -473,7 +467,7 @@
       "state": "WY",
       "source": "osm",
       "tags": {
-        "context": "residential"
+        "context": "school"
       }
     },
     {
@@ -481,6 +475,9 @@
       "name": "Tennis Courts · South Missouri Avenue",
       "lat": 42.833334,
       "lng": -106.294132,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -500,7 +497,10 @@
       "name": "Indoor Tennis Complex",
       "lat": 41.314957,
       "lng": -105.562188,
-      "courtCount": 9,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 8,
       "surface": "unknown",
       "lighted": true,
       "indoor": true,
@@ -514,9 +514,12 @@
     },
     {
       "id": "osm-w402812765",
-      "name": "The Club at 3 Creek Tennis Courts",
+      "name": "3 Creek Tennis Courts",
       "lat": 43.440285,
-      "lng": -110.819162,
+      "lng": -110.819161,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -534,6 +537,9 @@
       "name": "Tennis Courts · Jefferson Street",
       "lat": 42.745548,
       "lng": -105.377156,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -550,9 +556,12 @@
     },
     {
       "id": "osm-w412852433",
-      "name": "Olive Glenn Golf & Country Club Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 44.514862,
       "lng": -109.072324,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -563,13 +572,18 @@
       "city": null,
       "state": "WY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w412862963",
       "name": "Paul Stock Park Tennis Courts",
       "lat": 44.525293,
       "lng": -109.071232,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -584,9 +598,12 @@
     },
     {
       "id": "osm-w422013669",
-      "name": "Western Wyoming Community College Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 41.590304,
       "lng": -109.235793,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -598,31 +615,17 @@
       "state": "WY",
       "source": "osm",
       "tags": {
-        "context": "school"
+        "context": "residential"
       }
-    },
-    {
-      "id": "osm-w422016294",
-      "name": "Palisades Park Tennis Courts",
-      "lat": 41.572466,
-      "lng": -109.211217,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "WY",
-      "source": "osm",
-      "tags": {}
     },
     {
       "id": "osm-w443260450",
       "name": "Central Wyoming College Tennis Courts",
       "lat": 43.031383,
       "lng": -108.428451,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -642,6 +645,9 @@
       "name": "Riverton Middle School Tennis Courts",
       "lat": 43.030875,
       "lng": -108.413453,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -661,6 +667,9 @@
       "name": "Prairie View Community School Tennis Courts",
       "lat": 41.76104,
       "lng": -104.822712,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -680,6 +689,9 @@
       "name": "Reliance Park Tennis Courts",
       "lat": 41.671064,
       "lng": -109.192055,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -697,6 +709,9 @@
       "name": "South High School Tennis Courts",
       "lat": 41.107296,
       "lng": -104.821332,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -712,27 +727,13 @@
       }
     },
     {
-      "id": "osm-w537172426",
-      "name": "Cheyenne Country Club Tennis Courts",
-      "lat": 41.162718,
-      "lng": -104.842836,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "WY",
-      "source": "osm",
-      "tags": {}
-    },
-    {
       "id": "osm-w537273636",
       "name": "Leo A. Pando Park Tennis Courts",
       "lat": 41.145352,
       "lng": -104.821149,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -750,6 +751,9 @@
       "name": "Tennis Courts · Bonanza Trail",
       "lat": 41.192642,
       "lng": -104.833208,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -769,6 +773,9 @@
       "name": "Martin Luther King Jr. Park Tennis Courts",
       "lat": 41.130368,
       "lng": -104.828295,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -786,26 +793,12 @@
       "name": "Sport Feilds Tennis Courts",
       "lat": 44.408529,
       "lng": -104.367245,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "WY",
-      "source": "osm",
-      "tags": {}
-    },
-    {
-      "id": "osm-w625167628",
-      "name": "Sunset Park Tennis Courts",
-      "lat": 43.03259,
-      "lng": -108.39387,
-      "courtCount": 1,
-      "surface": "hard",
-      "lighted": true,
       "indoor": null,
       "access": "unknown",
       "fee": null,
@@ -820,6 +813,9 @@
       "name": "Mike Sedar Park Tennis Courts",
       "lat": 42.82245,
       "lng": -106.336163,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -837,6 +833,9 @@
       "name": "The Village at Sage Creek Tennis Courts",
       "lat": 42.834091,
       "lng": -106.29266,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -847,13 +846,18 @@
       "city": null,
       "state": "WY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w747503145",
       "name": "Casper College Tennis Courts",
       "lat": 42.829364,
       "lng": -106.331566,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -873,6 +877,9 @@
       "name": "Garnet Park Tennis Courts",
       "lat": 41.587314,
       "lng": -109.20138,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -890,6 +897,9 @@
       "name": "Ten Sleep School Tennis Courts",
       "lat": 44.036687,
       "lng": -107.447685,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -909,6 +919,9 @@
       "name": "Afton City Park Tennis Courts",
       "lat": 42.724126,
       "lng": -110.931652,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -926,6 +939,9 @@
       "name": "Tennis Courts · North Douglas Street",
       "lat": 44.753734,
       "lng": -108.763291,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -941,29 +957,13 @@
       }
     },
     {
-      "id": "osm-w1011929036",
-      "name": "Laramie High School Tennis Courts",
-      "lat": 41.301754,
-      "lng": -105.550508,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "WY",
-      "source": "osm",
-      "tags": {
-        "context": "school"
-      }
-    },
-    {
       "id": "osm-w1025944097",
       "name": "Lions Park Tennis Courts",
       "lat": 44.154972,
       "lng": -108.875589,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -981,6 +981,9 @@
       "name": "Tennis Courts · Fort Road",
       "lat": 44.828806,
       "lng": -106.986221,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1000,6 +1003,9 @@
       "name": "Huber Park Tennis Courts",
       "lat": 42.844491,
       "lng": -106.285098,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1017,6 +1023,9 @@
       "name": "Tennis Courts · US 26;US 89",
       "lat": 43.173522,
       "lng": -111.0088,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1036,6 +1045,9 @@
       "name": "Snake River Sporting Club Tennis Courts",
       "lat": 43.266615,
       "lng": -110.774899,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -1053,6 +1065,9 @@
       "name": "Tennis Courts · Vista Drive",
       "lat": 42.977995,
       "lng": -110.968734,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1072,6 +1087,9 @@
       "name": "United Nations Park Tennis Courts",
       "lat": 41.133259,
       "lng": -104.758522,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1089,6 +1107,9 @@
       "name": "Wamsutter Park Tennis Courts",
       "lat": 41.665737,
       "lng": -107.983347,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1105,7 +1126,10 @@
       "id": "osm-w1167190752",
       "name": "Antelope Park Tennis Courts",
       "lat": 42.912636,
-      "lng": -106.342332,
+      "lng": -106.342331,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1123,6 +1147,9 @@
       "name": "Tennis Courts · Poplar Avenue",
       "lat": 44.447367,
       "lng": -108.431132,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1142,6 +1169,9 @@
       "name": "Joe Stoneking Park Tennis Courts",
       "lat": 42.859655,
       "lng": -106.272878,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1159,6 +1189,9 @@
       "name": "Norene Kilmer Park Tennis Courts",
       "lat": 42.843933,
       "lng": -106.364165,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1176,6 +1209,10 @@
       "name": "Evanston Middle School Tennis Courts",
       "lat": 41.260608,
       "lng": -110.964989,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1195,6 +1232,9 @@
       "name": "Thunder Basin High School Tennis Courts",
       "lat": 44.260519,
       "lng": -105.512403,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -1214,6 +1254,9 @@
       "name": "Bicentennial Park Tennis Courts",
       "lat": 44.300104,
       "lng": -105.502569,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -1227,29 +1270,13 @@
       "tags": {}
     },
     {
-      "id": "osm-w1228769264",
-      "name": "Cody Middle School Tennis Courts",
-      "lat": 44.531407,
-      "lng": -109.033329,
-      "courtCount": 3,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "WY",
-      "source": "osm",
-      "tags": {
-        "context": "school"
-      }
-    },
-    {
       "id": "osm-w1228979904",
       "name": "Campbell County High School Tennis Courts",
       "lat": 44.280494,
       "lng": -105.488678,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "hard",
       "lighted": null,
@@ -1269,6 +1296,9 @@
       "name": "Buffalo City Park Tennis Courts",
       "lat": 44.345841,
       "lng": -106.704913,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1286,6 +1316,9 @@
       "name": "Sagebrush Park Tennis Courts",
       "lat": 43.710773,
       "lng": -106.640146,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1303,6 +1336,9 @@
       "name": "Shooting Star Tennis Courts",
       "lat": 43.579177,
       "lng": -110.828518,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1320,6 +1356,9 @@
       "name": "Tennis Courts · Dayton Street",
       "lat": 44.909815,
       "lng": -107.16002,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1339,6 +1378,9 @@
       "name": "Guernsey-Sunrise School Tennis Courts",
       "lat": 42.265587,
       "lng": -104.742393,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1358,6 +1400,9 @@
       "name": "Tennis Courts · East 2nd Avenue",
       "lat": 44.878291,
       "lng": -107.258761,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1377,6 +1422,9 @@
       "name": "Rock Springs Junior Highschool Tennis Courts",
       "lat": 41.591134,
       "lng": -109.255462,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -1396,6 +1444,9 @@
       "name": "Rock Springs High School Tennis Courts",
       "lat": 41.591711,
       "lng": -109.209708,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 7,
       "surface": "unknown",
       "lighted": null,
@@ -1415,6 +1466,9 @@
       "name": "Mountain View High School Tennis Courts",
       "lat": 41.273027,
       "lng": -110.33156,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1434,6 +1488,9 @@
       "name": "Tennis Courts · North Riverbend Drive",
       "lat": 42.766296,
       "lng": -105.398834,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1451,8 +1508,11 @@
     {
       "id": "osm-w1356733270",
       "name": "Tennis Courts · Belfry Highway",
-      "lat": 44.540397,
-      "lng": -109.072166,
+      "lat": 44.540398,
+      "lng": -109.072167,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1472,6 +1532,9 @@
       "name": "Tennis Courts · 2nd Avenue West",
       "lat": 44.890211,
       "lng": -108.597454,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1491,6 +1554,9 @@
       "name": "Public Tennis Courts",
       "lat": 44.958656,
       "lng": -108.263718,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1510,6 +1576,9 @@
       "name": "Tennis Courts · Gannet Drive",
       "lat": 43.024865,
       "lng": -108.415722,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1529,6 +1598,9 @@
       "name": "Riverton City Park Tennis Courts",
       "lat": 43.024056,
       "lng": -108.379725,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -1546,6 +1618,9 @@
       "name": "Holliday Park Tennis Courts",
       "lat": 41.137242,
       "lng": -104.799701,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1563,6 +1638,9 @@
       "name": "Tennis Courts · Trail Creek Road",
       "lat": 44.537411,
       "lng": -109.126501,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1582,6 +1660,9 @@
       "name": "Tennis Courts · Boneyard Service Road",
       "lat": 44.974503,
       "lng": -110.69015,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1601,6 +1682,9 @@
       "name": "Dubois Public Tennis Courts",
       "lat": 43.536798,
       "lng": -109.646247,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1618,6 +1702,9 @@
       "name": "Tennis Courts · Palisades Drive",
       "lat": 43.187896,
       "lng": -111.038276,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1633,10 +1720,35 @@
       }
     },
     {
+      "id": "osm-w1446550593",
+      "name": "Public Pickleball Courts",
+      "lat": 42.049355,
+      "lng": -104.954777,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "WY",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
       "id": "osm-w1450301884",
       "name": "Tennis Courts · Avenue K",
       "lat": 44.75925,
       "lng": -108.770233,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -1654,6 +1766,9 @@
       "name": "Lovell Middle School Tennis Courts",
       "lat": 44.831007,
       "lng": -108.399399,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1673,6 +1788,9 @@
       "name": "Newell Sargent Park Tennis Courts",
       "lat": 44.00656,
       "lng": -107.957935,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -1690,6 +1808,9 @@
       "name": "Tennis Courts · South 2nd Street",
       "lat": 44.484057,
       "lng": -108.049391,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1709,6 +1830,9 @@
       "name": "Tennis Courts · Carter Avenue",
       "lat": 44.523171,
       "lng": -109.042515,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1728,6 +1852,9 @@
       "name": "Jackson Hole Golf & Tennis Club",
       "lat": 43.563897,
       "lng": -110.752602,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1745,6 +1872,9 @@
       "name": "Kendrick Park Tennis Courts",
       "lat": 44.798032,
       "lng": -106.968481,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1760,9 +1890,13 @@
     {
       "id": "osm-w1454433864",
       "name": "Thorne Rider Park Tennis Courts",
-      "lat": 44.815556,
-      "lng": -106.959802,
-      "courtCount": 2,
+      "lat": 44.815657,
+      "lng": -106.959796,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -1779,6 +1913,9 @@
       "name": "Buffalo City Park Tennis Courts",
       "lat": 44.344102,
       "lng": -106.703643,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1796,6 +1933,9 @@
       "name": "Highland Park Tennis Courts",
       "lat": 42.845115,
       "lng": -106.298184,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1809,35 +1949,43 @@
       "tags": {}
     },
     {
-      "id": "osm-w1468622695",
-      "name": "Tennis Courts · South Lake Creek Drive",
-      "lat": 43.530833,
-      "lng": -110.846266,
-      "courtCount": 7,
+      "id": "osm-w1468622691",
+      "name": "Teton Pines Country Club Tennis Courts",
+      "lat": 43.530487,
+      "lng": -110.846062,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 11,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": "South Lake Creek Drive",
-      "city": "Wilson",
+      "address": null,
+      "city": null,
       "state": "WY",
       "source": "osm",
       "tags": {}
     },
     {
-      "id": "osm-w1468623215",
-      "name": "Tennis Courts · West Boyles Hill Road",
-      "lat": 43.466037,
-      "lng": -110.827927,
-      "courtCount": 1,
+      "id": "osm-w1468623214",
+      "name": "Public Tennis Courts",
+      "lat": 43.466068,
+      "lng": -110.828029,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": "West Boyles Hill Road",
-      "city": "Teton County",
+      "address": null,
+      "city": null,
       "state": "WY",
       "source": "osm",
       "tags": {
@@ -1849,6 +1997,9 @@
       "name": "Tennis Courts · D Street",
       "lat": 41.640641,
       "lng": -104.167302,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1868,6 +2019,9 @@
       "name": "Torrington Middle School Tennis Courts",
       "lat": 42.07064,
       "lng": -104.191944,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1887,6 +2041,9 @@
       "name": "Eastern Wyoming College Tennis Courts",
       "lat": 42.075987,
       "lng": -104.190902,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1906,6 +2063,9 @@
       "name": "Johnson Junior High School Tennis Courts",
       "lat": 41.111705,
       "lng": -104.822164,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1925,6 +2085,9 @@
       "name": "Tennis Courts · Rogers Drive",
       "lat": 41.155216,
       "lng": -104.859124,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -1942,6 +2105,9 @@
       "name": "East High School Tennis Courts",
       "lat": 41.148574,
       "lng": -104.778367,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -1961,6 +2127,9 @@
       "name": "Jackson Hole High School Tennis Courts",
       "lat": 43.455925,
       "lng": -110.801689,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -1977,10 +2146,35 @@
     },
     {
       "id": "osm-w1468872870",
-      "name": "Aspen Hills Golf Course Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 42.9869,
       "lng": -110.959653,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "WY",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
+      "id": "osm-w1468874110",
+      "name": "Public Pickleball Courts",
+      "lat": 42.966405,
+      "lng": -110.971996,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 12,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -1997,6 +2191,9 @@
       "name": "Veterans Memorial Park Tennis Courts",
       "lat": 42.91858,
       "lng": -110.99992,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2014,6 +2211,9 @@
       "name": "Canyon View Park Tennis Courts",
       "lat": 42.732482,
       "lng": -110.922971,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2031,6 +2231,9 @@
       "name": "Candy Jack Park Tennis Courts",
       "lat": 43.64381,
       "lng": -108.225367,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2048,6 +2251,9 @@
       "name": "Lander Valley High School Tennis Courts",
       "lat": 42.840336,
       "lng": -108.752099,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2067,6 +2273,9 @@
       "name": "Tennis Courts · City Park Drive",
       "lat": 42.82287,
       "lng": -108.737196,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2086,6 +2295,9 @@
       "name": "Tennis Courts · Jenner Boulevard",
       "lat": 42.493467,
       "lng": -107.82986,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2102,9 +2314,12 @@
     },
     {
       "id": "osm-w1468877660",
-      "name": "Washington Park Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 41.792041,
       "lng": -107.252221,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2115,13 +2330,18 @@
       "city": null,
       "state": "WY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1468877943",
       "name": "Key Club Park Tennis Courts",
       "lat": 41.795317,
       "lng": -107.235971,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2139,6 +2359,9 @@
       "name": "Rawlins High School Tennis Courts",
       "lat": 41.802092,
       "lng": -107.229884,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": true,
@@ -2158,6 +2381,9 @@
       "name": "Tennis Courts · Lincoln Avenue",
       "lat": 41.778772,
       "lng": -107.116421,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2176,7 +2402,10 @@
       "id": "osm-w1468879879",
       "name": "Old Baldy Club Golf Tennis Courts",
       "lat": 41.448266,
-      "lng": -106.781007,
+      "lng": -106.781006,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2194,6 +2423,9 @@
       "name": "Tennis Courts · Al's Way",
       "lat": 42.862806,
       "lng": -105.864697,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -2211,6 +2443,9 @@
       "name": "Douglas Middle School Tennis Courts",
       "lat": 42.750026,
       "lng": -105.397227,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2230,6 +2465,9 @@
       "name": "Douglas High School Tennis Courts",
       "lat": 42.751185,
       "lng": -105.364853,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -2249,6 +2487,9 @@
       "name": "Public Tennis Courts",
       "lat": 42.04862,
       "lng": -104.953523,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -2268,6 +2509,9 @@
       "name": "Slade Elementary School Tennis Courts",
       "lat": 41.324881,
       "lng": -105.58123,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -2287,6 +2531,9 @@
       "name": "Rock River School Tennis Courts",
       "lat": 41.743132,
       "lng": -105.96856,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2306,6 +2553,9 @@
       "name": "Tram Tower Townhouses Tennis Courts",
       "lat": 43.588355,
       "lng": -110.832007,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2316,13 +2566,18 @@
       "city": null,
       "state": "WY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1486162096",
       "name": "Tennis Courts · Division Street",
       "lat": 44.103776,
       "lng": -104.626965,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2342,6 +2597,9 @@
       "name": "Tennis Courts · Indian Paintbrush Avenue",
       "lat": 42.236012,
       "lng": -107.559053,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2357,18 +2615,22 @@
       }
     },
     {
-      "id": "osm-w1528902187",
-      "name": "Tennis Courts · Conroy Street",
-      "lat": 41.778703,
-      "lng": -110.536062,
-      "courtCount": 1,
+      "id": "osm-w1528902186",
+      "name": "Public Tennis Courts",
+      "lat": 41.77869,
+      "lng": -110.536149,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": "Conroy Street",
-      "city": "Diamondville",
+      "address": null,
+      "city": null,
       "state": "WY",
       "source": "osm",
       "tags": {
@@ -2380,6 +2642,9 @@
       "name": "Pinedale High School Tennis Courts",
       "lat": 42.871786,
       "lng": -109.86082,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "hard",
       "lighted": true,
@@ -2399,6 +2664,9 @@
       "name": "East High School Tennis Courts",
       "lat": 41.149033,
       "lng": -104.773402,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -2412,6 +2680,195 @@
       "tags": {
         "context": "school"
       }
+    },
+    {
+      "id": "osm-w1556648714",
+      "name": "Sheridan High School Tennis Courts",
+      "lat": 44.811199,
+      "lng": -106.985889,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 6,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "WY",
+      "source": "osm",
+      "tags": {
+        "context": "school"
+      }
+    },
+    {
+      "id": "osm-w1556649506",
+      "name": "Cody Middle School Tennis Courts",
+      "lat": 44.531404,
+      "lng": -109.033332,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 6,
+      "surface": "unknown",
+      "lighted": true,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "WY",
+      "source": "osm",
+      "tags": {
+        "context": "school"
+      }
+    },
+    {
+      "id": "osm-w1556652985",
+      "name": "Sunset Park Tennis Courts",
+      "lat": 43.032588,
+      "lng": -108.393883,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 2,
+      "surface": "hard",
+      "lighted": true,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "WY",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1556653578",
+      "name": "Palisades Park Pickleball Courts",
+      "lat": 41.572471,
+      "lng": -109.211172,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 4,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "WY",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1556655203",
+      "name": "Undine Park Pickleball Courts",
+      "lat": 41.304662,
+      "lng": -105.590568,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 4,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "WY",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1556655207",
+      "name": "Laramie High School Tennis Courts",
+      "lat": 41.301735,
+      "lng": -105.550513,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 5,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "WY",
+      "source": "osm",
+      "tags": {
+        "context": "school"
+      }
+    },
+    {
+      "id": "osm-w1556656010",
+      "name": "McCormick Junior High School Tennis Courts",
+      "lat": 41.173127,
+      "lng": -104.834675,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 5,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "WY",
+      "source": "osm",
+      "tags": {
+        "context": "school"
+      }
+    },
+    {
+      "id": "osm-w1556656015",
+      "name": "Cheyenne Country Club Tennis Courts",
+      "lat": 41.162783,
+      "lng": -104.842803,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 9,
+      "surface": "unknown",
+      "lighted": true,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "WY",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1556656024",
+      "name": "Jaycee Park Tennis Courts",
+      "lat": 41.149566,
+      "lng": -104.833078,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "WY",
+      "source": "osm",
+      "tags": {}
     }
   ]
 }

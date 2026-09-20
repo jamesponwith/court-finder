@@ -7,6 +7,9 @@
       "name": "Santa Fe Family Life Center",
       "lat": 35.53546,
       "lng": -97.511435,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -24,6 +27,9 @@
       "name": "Tennis Courts · West 7th Street",
       "lat": 35.851526,
       "lng": -98.41619,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 10,
       "surface": "unknown",
       "lighted": null,
@@ -37,18 +43,41 @@
       "tags": {}
     },
     {
-      "id": "osm-w58742811",
-      "name": "Tennis Courts · Red Oak Way",
-      "lat": 35.589482,
-      "lng": -97.623575,
+      "id": "osm-n14046297946",
+      "name": "Kaufman Park Pickleball Courts",
+      "lat": 35.903703,
+      "lng": -94.970495,
+      "sports": [
+        "pickleball"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": "Red Oak Way",
-      "city": "Oklahoma City",
+      "address": null,
+      "city": null,
+      "state": "OK",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-n14159829669",
+      "name": "Public Tennis Courts",
+      "lat": 35.871779,
+      "lng": -99.348358,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
       "state": "OK",
       "source": "osm",
       "tags": {
@@ -56,10 +85,35 @@
       }
     },
     {
+      "id": "osm-w26297181",
+      "name": "Oklahoma Christian University Pickleball Courts",
+      "lat": 35.612603,
+      "lng": -97.470139,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "OK",
+      "source": "osm",
+      "tags": {
+        "context": "school"
+      }
+    },
+    {
       "id": "osm-w62152902",
       "name": "Deer Creek High School Tennis Courts",
       "lat": 35.682772,
       "lng": -97.626371,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -79,6 +133,9 @@
       "name": "Highland Park Tennis Courts",
       "lat": 36.111922,
       "lng": -95.921616,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": true,
@@ -96,6 +153,9 @@
       "name": "Hicks Park Tennis Courts",
       "lat": 36.113947,
       "lng": -95.867034,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": true,
@@ -113,24 +173,10 @@
       "name": "Oakwood Country Club Golf Course Tennis Courts",
       "lat": 36.412139,
       "lng": -97.922773,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "OK",
-      "source": "osm",
-      "tags": {}
-    },
-    {
-      "id": "osm-w97578709",
-      "name": "Leake Park Tennis Courts",
-      "lat": 36.058181,
-      "lng": -95.889826,
-      "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -147,6 +193,9 @@
       "name": "Zink Park Tennis Courts",
       "lat": 36.117163,
       "lng": -95.970345,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": true,
@@ -164,6 +213,9 @@
       "name": "Loving Park Tennis Courts",
       "lat": 36.169272,
       "lng": -95.872647,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": null,
@@ -178,9 +230,12 @@
     },
     {
       "id": "osm-w179638146",
-      "name": "Lincoln Park Golf Course Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 35.51899,
       "lng": -97.476117,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -191,13 +246,18 @@
       "city": null,
       "state": "OK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w181664304",
       "name": "Memorial Park Tennis Courts",
       "lat": 35.506278,
       "lng": -97.532555,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -213,11 +273,14 @@
     {
       "id": "osm-w182588062",
       "name": "Will Rogers Park Tennis Courts",
-      "lat": 35.505571,
-      "lng": -97.58192,
-      "courtCount": 25,
+      "lat": 35.505538,
+      "lng": -97.581835,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 27,
       "surface": "unknown",
-      "lighted": null,
+      "lighted": true,
       "indoor": null,
       "access": "unknown",
       "fee": null,
@@ -232,6 +295,9 @@
       "name": "Ross Park Tennis Courts",
       "lat": 35.534909,
       "lng": -97.560553,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -248,7 +314,10 @@
       "id": "osm-w182651833",
       "name": "Lake Hefner Park Tennis Courts",
       "lat": 35.546125,
-      "lng": -97.5727,
+      "lng": -97.572701,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -266,6 +335,9 @@
       "name": "Gregg Wadley Tennis Pavilion",
       "lat": 35.187369,
       "lng": -97.447614,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -285,6 +357,9 @@
       "name": "Goodholm Park Tennis Courts",
       "lat": 35.496172,
       "lng": -97.516511,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -302,6 +377,9 @@
       "name": "The Greens Country Club Tennis Courts",
       "lat": 35.60475,
       "lng": -97.597518,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -319,6 +397,9 @@
       "name": "Bluff Creek Park Tennis Courts",
       "lat": 35.591025,
       "lng": -97.60464,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -336,6 +417,9 @@
       "name": "Oklahoma State Capitol Park Tennis Courts",
       "lat": 35.492469,
       "lng": -97.496533,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -353,6 +437,9 @@
       "name": "Oklahoma School of Science and Mathematics Tennis Courts",
       "lat": 35.481163,
       "lng": -97.507312,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -372,6 +459,9 @@
       "name": "Oklahoma City Golf & Country Club Tennis Courts",
       "lat": 35.545037,
       "lng": -97.550816,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -389,6 +479,9 @@
       "name": "Tennis Courts · Northwest 104th Terrace",
       "lat": 35.577062,
       "lng": -97.541051,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -408,6 +501,9 @@
       "name": "Tennis Courts · Northwest 180th Street",
       "lat": 35.655035,
       "lng": -97.5429,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -427,6 +523,9 @@
       "name": "Metro Career Academy Tennis Courts",
       "lat": 35.514796,
       "lng": -97.478528,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -446,6 +545,9 @@
       "name": "Yukon City Park Tennis Courts",
       "lat": 35.482922,
       "lng": -97.748575,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -463,6 +565,9 @@
       "name": "The Classen High Rise Apartments Tennis Courts",
       "lat": 35.491871,
       "lng": -97.530181,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -473,13 +578,18 @@
       "city": null,
       "state": "OK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w188094780",
       "name": "Tennis Courts · Piedmont Road North",
       "lat": 35.646543,
       "lng": -97.745701,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -495,27 +605,13 @@
       }
     },
     {
-      "id": "osm-w188775193",
-      "name": "Maple Park Tennis Courts",
-      "lat": 35.961737,
-      "lng": -95.364462,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "OK",
-      "source": "osm",
-      "tags": {}
-    },
-    {
       "id": "osm-w189445832",
       "name": "Tennis Courts · Northwest 115th Street",
       "lat": 35.588728,
       "lng": -97.542053,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -533,6 +629,9 @@
       "name": "Norvell Park Tennis Courts",
       "lat": 36.165614,
       "lng": -95.892153,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -550,6 +649,9 @@
       "name": "The Golf Club of Oklahoma Tennis Courts",
       "lat": 35.964874,
       "lng": -95.743485,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -567,6 +669,9 @@
       "name": "North Rotary Park Tennis Courts",
       "lat": 35.528112,
       "lng": -97.589545,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -584,6 +689,9 @@
       "name": "Pitts Park Tennis Courts",
       "lat": 35.488909,
       "lng": -97.487329,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -601,6 +709,9 @@
       "name": "Macklanberg Park Tennis Courts",
       "lat": 35.587795,
       "lng": -97.55315,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -618,6 +729,9 @@
       "name": "Garrison Park Tennis Courts",
       "lat": 35.488455,
       "lng": -97.632625,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -635,6 +749,9 @@
       "name": "Tennis Courts · Lionsgate Circle",
       "lat": 35.488064,
       "lng": -97.630171,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -654,6 +771,9 @@
       "name": "Lake Overholser Park Tennis Courts",
       "lat": 35.485321,
       "lng": -97.663901,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -671,6 +791,9 @@
       "name": "Tennis Courts · Northwest 150th Street",
       "lat": 35.62475,
       "lng": -97.542994,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -688,6 +811,9 @@
       "name": "Mitch Park Tennis Courts",
       "lat": 35.684047,
       "lng": -97.497942,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -705,6 +831,9 @@
       "name": "South Rotary Park Tennis Courts",
       "lat": 35.44917,
       "lng": -97.53984,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -722,6 +851,9 @@
       "name": "Del City Ballpark Tennis Courts",
       "lat": 35.446844,
       "lng": -97.43603,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -739,6 +871,9 @@
       "name": "Del Crest Junior High School Tennis Courts",
       "lat": 35.457477,
       "lng": -97.432493,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -758,6 +893,9 @@
       "name": "Tinker Golf Course Tennis Courts",
       "lat": 35.428996,
       "lng": -97.419031,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -775,6 +913,9 @@
       "name": "Tennis Courts · Mitchell Avenue",
       "lat": 35.415613,
       "lng": -97.409153,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -794,6 +935,9 @@
       "name": "Joe B. Barnes Regional Park Tennis Courts",
       "lat": 35.462245,
       "lng": -97.373456,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -811,6 +955,9 @@
       "name": "Midwest City High School Tennis Courts",
       "lat": 35.451937,
       "lng": -97.39753,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -830,6 +977,9 @@
       "name": "Reed Park Tennis Courts",
       "lat": 35.482026,
       "lng": -97.567777,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -847,6 +997,9 @@
       "name": "Tennis Courts · South Utica Place East",
       "lat": 36.064689,
       "lng": -95.964648,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -866,6 +1019,9 @@
       "name": "Tennis Courts · South Atlanta Place",
       "lat": 36.078783,
       "lng": -95.953691,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -882,9 +1038,12 @@
     },
     {
       "id": "osm-w198466710",
-      "name": "Lloyd Tract Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 36.195493,
-      "lng": -95.961606,
+      "lng": -95.961605,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -895,30 +1054,18 @@
       "city": null,
       "state": "OK",
       "source": "osm",
-      "tags": {}
-    },
-    {
-      "id": "osm-w208472028",
-      "name": "Tennis Courts",
-      "lat": 35.213239,
-      "lng": -97.453694,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "OK",
-      "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w209482847",
       "name": "Tennis Courts · West Farm Road",
       "lat": 36.125152,
       "lng": -97.077773,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -936,6 +1083,9 @@
       "name": "Highland Park Tennis Courts",
       "lat": 35.882019,
       "lng": -97.412059,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -953,6 +1103,9 @@
       "name": "Tennis Courts · Cradduck Road",
       "lat": 34.759772,
       "lng": -96.663579,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -970,6 +1123,9 @@
       "name": "Tennis Courts · East 7th Street",
       "lat": 34.778368,
       "lng": -96.651069,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -987,6 +1143,9 @@
       "name": "Tennis Courts · North Hillcrest Avenue",
       "lat": 34.775496,
       "lng": -96.639375,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1006,6 +1165,9 @@
       "name": "Tennis Courts · East 18th Street",
       "lat": 34.768507,
       "lng": -96.64499,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1025,6 +1187,9 @@
       "name": "Tennis Courts · East 15th Street",
       "lat": 34.769618,
       "lng": -96.627561,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1044,6 +1209,9 @@
       "name": "Tennis Courts · Oakdale Farm Circle",
       "lat": 35.60221,
       "lng": -97.443536,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1062,7 +1230,10 @@
       "id": "osm-w229838930",
       "name": "Tennis Courts · Oakdale Farm Road",
       "lat": 35.605117,
-      "lng": -97.438903,
+      "lng": -97.438904,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1082,6 +1253,9 @@
       "name": "Tennis Courts · Wateredge Drive",
       "lat": 35.443518,
       "lng": -97.594146,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1101,6 +1275,9 @@
       "name": "Sunset Park Tennis Courts",
       "lat": 36.113996,
       "lng": -97.069124,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1118,6 +1295,9 @@
       "name": "Boomer Lake Park Tennis Courts",
       "lat": 36.148688,
       "lng": -97.067305,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1135,6 +1315,9 @@
       "name": "Adams Creek Recreational Area Tennis Courts",
       "lat": 36.073692,
       "lng": -95.699022,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1152,6 +1335,9 @@
       "name": "Jenks Tennis",
       "lat": 36.031062,
       "lng": -95.971614,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -1169,6 +1355,9 @@
       "name": "Lela Park Tennis Courts",
       "lat": 35.488973,
       "lng": -97.621868,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1186,6 +1375,9 @@
       "name": "Tennis Courts · Crossing Way East",
       "lat": 35.611479,
       "lng": -97.488005,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1205,6 +1397,9 @@
       "name": "Trosper Park Tennis Courts",
       "lat": 35.431513,
       "lng": -97.473717,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -1219,9 +1414,12 @@
     },
     {
       "id": "osm-w251239845",
-      "name": "University of Tulsa Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 36.151672,
       "lng": -95.944327,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 7,
       "surface": "unknown",
       "lighted": null,
@@ -1232,15 +1430,16 @@
       "city": null,
       "state": "OK",
       "source": "osm",
-      "tags": {
-        "context": "school"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w977583591",
       "name": "Michael D. Case Tennis Center",
       "lat": 36.150307,
       "lng": -95.950908,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 12,
       "surface": "unknown",
       "lighted": null,
@@ -1258,6 +1457,9 @@
       "name": "Hidden Trails Golf & Country Club Tennis Courts",
       "lat": 35.400002,
       "lng": -97.553836,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -1275,6 +1477,9 @@
       "name": "Tennis Courts · Hilltop Road",
       "lat": 35.404136,
       "lng": -97.357358,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1294,6 +1499,9 @@
       "name": "Southern Nazarene University Tennis Courts",
       "lat": 35.514213,
       "lng": -97.628175,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -1313,6 +1521,9 @@
       "name": "Stillwater Golf And Country Club Tennis Courts",
       "lat": 36.107042,
       "lng": -97.126178,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1330,6 +1541,9 @@
       "name": "Tennis Courts · Ew129 Road",
       "lat": 35.147455,
       "lng": -97.138673,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1349,6 +1563,9 @@
       "name": "Sequoyah Park Tennis Courts",
       "lat": 35.426944,
       "lng": -97.454352,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1366,6 +1583,9 @@
       "name": "Hunters Ridge Tennis Courts",
       "lat": 36.183062,
       "lng": -97.078072,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1376,13 +1596,18 @@
       "city": null,
       "state": "OK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w269483361",
       "name": "Tennis Courts · Rail Road",
       "lat": 35.440594,
-      "lng": -97.354979,
+      "lng": -97.354978,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -1400,6 +1625,9 @@
       "name": "Michael and Anne Greenwood Tennis Center",
       "lat": 36.129449,
       "lng": -97.068534,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 12,
       "surface": "unknown",
       "lighted": null,
@@ -1417,6 +1645,9 @@
       "name": "Cherokee Hills Park Tennis Courts",
       "lat": 35.540595,
       "lng": -97.614621,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1431,9 +1662,12 @@
     },
     {
       "id": "osm-w281589117",
-      "name": "O'Brien Park Golf Course Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 36.244377,
       "lng": -95.954254,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1444,13 +1678,18 @@
       "city": null,
       "state": "OK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w286798642",
-      "name": "Oak Tree Country Club East Course Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 35.717179,
-      "lng": -97.495224,
+      "lng": -97.495225,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -1464,27 +1703,13 @@
       "tags": {}
     },
     {
-      "id": "osm-w288986557",
-      "name": "KickingBird Tennis",
-      "lat": 35.666654,
-      "lng": -97.459102,
-      "courtCount": 11,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "OK",
-      "source": "osm",
-      "tags": {}
-    },
-    {
       "id": "osm-w289260016",
-      "name": "Gaillardia Golf Course Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 35.616238,
       "lng": -97.612844,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -1502,6 +1727,9 @@
       "name": "Mackleman Park Tennis Courts",
       "lat": 35.410149,
       "lng": -97.430565,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1519,6 +1747,9 @@
       "name": "Public Tennis Courts",
       "lat": 35.625827,
       "lng": -97.409943,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1534,84 +1765,13 @@
       }
     },
     {
-      "id": "osm-w292314965",
-      "name": "Southeast High School Tennis Courts",
-      "lat": 35.411999,
-      "lng": -97.510673,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "OK",
-      "source": "osm",
-      "tags": {
-        "context": "school"
-      }
-    },
-    {
-      "id": "osm-w294465408",
-      "name": "Tennis Courts · Brookwood Drive",
-      "lat": 35.373564,
-      "lng": -97.527101,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": "Brookwood Drive",
-      "city": "Oklahoma City",
-      "state": "OK",
-      "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
-    },
-    {
-      "id": "osm-w294465417",
-      "name": "Public Tennis Courts",
-      "lat": 35.374862,
-      "lng": -97.525407,
-      "courtCount": 2,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": "Oklahoma City",
-      "state": "OK",
-      "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
-    },
-    {
-      "id": "osm-w294465419",
-      "name": "Brookwood Park Tennis Courts",
-      "lat": 35.372505,
-      "lng": -97.525227,
-      "courtCount": 2,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "OK",
-      "source": "osm",
-      "tags": {}
-    },
-    {
       "id": "osm-w322902753",
-      "name": "Forest Ridge Golf Club Tennis Courts",
+      "name": "Villas at Forest Ridge Tennis Courts",
       "lat": 36.056235,
       "lng": -95.693249,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -1629,6 +1789,9 @@
       "name": "Henthorne Park Tennis Courts",
       "lat": 36.093647,
       "lng": -95.971787,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1644,8 +1807,11 @@
     {
       "id": "osm-w334867570",
       "name": "Panhandle Park Tennis Courts",
-      "lat": 36.590378,
+      "lat": 36.590377,
       "lng": -101.637312,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1663,6 +1829,9 @@
       "name": "Methodist Student Center Tennis Courts",
       "lat": 36.596092,
       "lng": -101.638942,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1677,9 +1846,12 @@
     },
     {
       "id": "osm-w341500458",
-      "name": "Reed Park Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 36.103626,
       "lng": -96.014589,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1690,13 +1862,18 @@
       "city": null,
       "state": "OK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w341500460",
       "name": "Riverfield Country Day School Tennis Courts",
       "lat": 36.076353,
       "lng": -96.02111,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -1712,27 +1889,13 @@
       }
     },
     {
-      "id": "osm-w349363494",
-      "name": "Page Park Tennis Courts",
-      "lat": 36.148413,
-      "lng": -96.112613,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "OK",
-      "source": "osm",
-      "tags": {}
-    },
-    {
       "id": "osm-w356964005",
       "name": "Chimney Hill Tennis Courts",
       "lat": 35.642122,
       "lng": -97.445727,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": null,
@@ -1743,13 +1906,18 @@
       "city": null,
       "state": "OK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w356968830",
       "name": "Tennis Courts · East 2nd Street",
       "lat": 35.651754,
       "lng": -97.453939,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "hard",
       "lighted": null,
@@ -1769,6 +1937,9 @@
       "name": "Tennis Courts · Lilac Drive",
       "lat": 35.650596,
       "lng": -97.4377,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -1786,6 +1957,9 @@
       "name": "Duncan Golf and Tennis Club",
       "lat": 34.528448,
       "lng": -97.959553,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1803,6 +1977,9 @@
       "name": "Tennis Courts",
       "lat": 35.029243,
       "lng": -97.9581,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1820,6 +1997,9 @@
       "name": "Leo Park Tennis Courts",
       "lat": 36.2852,
       "lng": -97.278618,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1837,6 +2017,9 @@
       "name": "Tennis Courts · North Mitchell Road",
       "lat": 36.11217,
       "lng": -97.889685,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1856,6 +2039,9 @@
       "name": "Glencoe Elementary School Tennis Courts",
       "lat": 36.231298,
       "lng": -96.924378,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1875,6 +2061,9 @@
       "name": "Deerfield Estates Apartments Tennis Courts",
       "lat": 36.037508,
       "lng": -95.949565,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1885,13 +2074,18 @@
       "city": null,
       "state": "OK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w407459528",
       "name": "Braden Park Tennis Courts",
       "lat": 36.150051,
       "lng": -95.919677,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": false,
@@ -1909,6 +2103,9 @@
       "name": "Tennis Courts · Chautauqua Avenue",
       "lat": 35.197555,
       "lng": -97.450379,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1925,9 +2122,12 @@
     },
     {
       "id": "osm-w411886680",
-      "name": "Post Oak Apartments Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 35.183479,
       "lng": -97.45174,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1938,13 +2138,18 @@
       "city": null,
       "state": "OK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w424983937",
       "name": "Greer Park",
       "lat": 34.616618,
       "lng": -98.438844,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1962,6 +2167,9 @@
       "name": "Tennis Courts · South 10th Street",
       "lat": 36.702037,
       "lng": -97.072501,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1981,6 +2189,9 @@
       "name": "Ackley Park Tennis Courts",
       "lat": 35.413363,
       "lng": -99.433708,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1998,6 +2209,9 @@
       "name": "Tennis Courts · Lexington Avenue",
       "lat": 35.501605,
       "lng": -98.98563,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 10,
       "surface": "unknown",
       "lighted": null,
@@ -2015,6 +2229,9 @@
       "name": "Public Tennis Courts",
       "lat": 35.274216,
       "lng": -99.644788,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -2032,6 +2249,9 @@
       "name": "Rotary Park Tennis Courts",
       "lat": 35.421322,
       "lng": -99.409306,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -2049,6 +2269,9 @@
       "name": "Tennis Courts · West B Avenue",
       "lat": 35.415853,
       "lng": -99.411509,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -2066,6 +2289,9 @@
       "name": "Tennis Courts · South L. L. Males Avenue",
       "lat": 35.609551,
       "lng": -99.672271,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2081,27 +2307,13 @@
       }
     },
     {
-      "id": "osm-w454756368",
-      "name": "Collinsville City Park Tennis Courts",
-      "lat": 36.360755,
-      "lng": -95.845355,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "OK",
-      "source": "osm",
-      "tags": {}
-    },
-    {
       "id": "osm-w465043561",
       "name": "Public Tennis Courts",
       "lat": 35.58483,
       "lng": -97.546341,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2121,6 +2333,9 @@
       "name": "Owasso Public Tennis Courts",
       "lat": 36.279962,
       "lng": -95.822231,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": true,
@@ -2140,6 +2355,9 @@
       "name": "Tennis Courts · Stratford Drive",
       "lat": 35.596255,
       "lng": -97.554962,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2159,6 +2377,9 @@
       "name": "Tennis Courts · Silvertree Drive",
       "lat": 35.598937,
       "lng": -97.564451,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2178,6 +2399,9 @@
       "name": "Tennis Courts · Tealwood Drive",
       "lat": 35.599735,
       "lng": -97.5613,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2193,45 +2417,14 @@
       }
     },
     {
-      "id": "osm-w467820616",
-      "name": "Tennis Courts · Oakcliff Road",
-      "lat": 35.599538,
-      "lng": -97.58367,
-      "courtCount": 4,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": "Oakcliff Road",
-      "city": "Oklahoma City",
-      "state": "OK",
-      "source": "osm",
-      "tags": {}
-    },
-    {
       "id": "osm-w468478821",
       "name": "Central Park Tennis Courts",
       "lat": 36.041423,
       "lng": -95.792818,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "OK",
-      "source": "osm",
-      "tags": {}
-    },
-    {
-      "id": "osm-w468517957",
-      "name": "Meadowlake Tennis Courts",
-      "lat": 36.373434,
-      "lng": -97.891874,
-      "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -2247,80 +2440,12 @@
       "id": "osm-w468757009",
       "name": "Government Springs Park (South) Tennis Courts",
       "lat": 36.389036,
-      "lng": -97.864305,
-      "courtCount": 2,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "OK",
-      "source": "osm",
-      "tags": {}
-    },
-    {
-      "id": "osm-w468803614",
-      "name": "Public Tennis Courts",
-      "lat": 35.755852,
-      "lng": -96.64969,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": "Stroud",
-      "state": "OK",
-      "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
-    },
-    {
-      "id": "osm-w469334307",
-      "name": "Tennis Courts · Brookwood Drive",
-      "lat": 35.372841,
-      "lng": -97.528267,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": "Brookwood Drive",
-      "city": "Oklahoma City",
-      "state": "OK",
-      "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
-    },
-    {
-      "id": "osm-w469537928",
-      "name": "Oscar Parker Tennis Court",
-      "lat": 34.772486,
-      "lng": -96.662432,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "OK",
-      "source": "osm",
-      "tags": {}
-    },
-    {
-      "id": "osm-w474216287",
-      "name": "Manion Park Tennis Courts",
-      "lat": 36.084027,
-      "lng": -95.945333,
-      "courtCount": 1,
+      "lng": -97.864632,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 10,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -2337,6 +2462,9 @@
       "name": "Tennis Courts · Elm Road",
       "lat": 34.072908,
       "lng": -97.095627,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2356,6 +2484,9 @@
       "name": "Tennis Courts · Hastings Road",
       "lat": 35.46793,
       "lng": -97.312388,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2375,6 +2506,9 @@
       "name": "Huntington Place Apartments Tennis Courts",
       "lat": 35.484027,
       "lng": -97.390653,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2385,13 +2519,18 @@
       "city": null,
       "state": "OK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w494442701",
       "name": "Tennis Courts · East Willow Road",
       "lat": 36.418723,
       "lng": -97.865275,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -2409,6 +2548,9 @@
       "name": "Tennis Courts · South Sooner Road",
       "lat": 35.421194,
       "lng": -97.423105,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -2426,6 +2568,9 @@
       "name": "Public Tennis Courts",
       "lat": 35.974126,
       "lng": -96.764988,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2445,6 +2590,9 @@
       "name": "Skate Park Tennis Courts",
       "lat": 35.97727,
       "lng": -96.767149,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2462,6 +2610,9 @@
       "name": "Deer Creek Middle School Tennis Courts",
       "lat": 35.711724,
       "lng": -97.562317,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -2477,27 +2628,13 @@
       }
     },
     {
-      "id": "osm-w503072143",
-      "name": "McCracken Park Tennis Courts",
-      "lat": 35.40044,
-      "lng": -97.502133,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": true,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "OK",
-      "source": "osm",
-      "tags": {}
-    },
-    {
       "id": "osm-w504247030",
       "name": "Aspen Creek Park Tennis Courts",
       "lat": 36.049988,
       "lng": -95.809884,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2515,6 +2652,9 @@
       "name": "Wolf Creek Park Tennis Courts",
       "lat": 36.022963,
       "lng": -95.823003,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2532,6 +2672,9 @@
       "name": "Oologah School Tennis Courts",
       "lat": 36.459033,
       "lng": -95.708847,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -2548,9 +2691,12 @@
     },
     {
       "id": "osm-w514853250",
-      "name": "Cedar Ridge Country Club Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 36.012965,
       "lng": -95.851709,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2561,13 +2707,40 @@
       "city": null,
       "state": "OK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
+      "id": "osm-w519748606",
+      "name": "Crown Village at Elm Ridge Pickleball Courts",
+      "lat": 36.084079,
+      "lng": -95.793279,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "OK",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w543419857",
       "name": "Rotary Park Tennis Courts",
       "lat": 35.212364,
       "lng": -97.464399,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": null,
@@ -2581,46 +2754,13 @@
       "tags": {}
     },
     {
-      "id": "osm-w543924888",
-      "name": "Wings of Freedom Park Tennis Courts",
-      "lat": 34.656994,
-      "lng": -99.284912,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "OK",
-      "source": "osm",
-      "tags": {}
-    },
-    {
-      "id": "osm-w547708221",
-      "name": "Tennis Courts · East View Drive",
-      "lat": 35.192117,
-      "lng": -97.397705,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": "East View Drive",
-      "city": "Norman",
-      "state": "OK",
-      "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
-    },
-    {
       "id": "osm-w548395300",
       "name": "Newcastle Lion's Park Tennis Courts",
       "lat": 35.274904,
       "lng": -97.6562,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2638,6 +2778,9 @@
       "name": "Tennis Courts · Redbud Street",
       "lat": 35.488124,
       "lng": -97.733091,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -2655,6 +2798,9 @@
       "name": "Whispering Heights Basketball Court",
       "lat": 35.619045,
       "lng": -97.473551,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": false,
@@ -2672,6 +2818,9 @@
       "name": "Osborne Park Tennis Courts",
       "lat": 34.766321,
       "lng": -98.282544,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": null,
@@ -2689,6 +2838,9 @@
       "name": "Tennis Courts · Fitness Trail",
       "lat": 35.889301,
       "lng": -95.242449,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": true,
@@ -2708,6 +2860,9 @@
       "name": "Harrison Park Tennis Courts",
       "lat": 35.565969,
       "lng": -97.554626,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": true,
@@ -2725,6 +2880,9 @@
       "name": "Tennis Courts · South Konawa Street",
       "lat": 34.957254,
       "lng": -96.76067,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2744,6 +2902,9 @@
       "name": "Jack W. Cornett Park Tennis Courts",
       "lat": 35.499833,
       "lng": -97.61468,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": true,
@@ -2761,6 +2922,9 @@
       "name": "C. H. Ripper Park Tennis Courts",
       "lat": 35.503323,
       "lng": -97.650611,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 12,
       "surface": "unknown",
       "lighted": null,
@@ -2778,6 +2942,9 @@
       "name": "Meadows Park Tennis Courts",
       "lat": 35.387953,
       "lng": -97.716568,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2795,6 +2962,9 @@
       "name": "Kimbell Park Tennis Courts",
       "lat": 35.501309,
       "lng": -97.752305,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -2812,26 +2982,12 @@
       "name": "Buck Thomas Park Tennis Courts",
       "lat": 35.349522,
       "lng": -97.464662,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": true,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "OK",
-      "source": "osm",
-      "tags": {}
-    },
-    {
-      "id": "osm-w588521426",
-      "name": "Lions Park Tennis Courts",
-      "lat": 36.888164,
-      "lng": -97.056149,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
       "indoor": null,
       "access": "unknown",
       "fee": null,
@@ -2846,6 +3002,9 @@
       "name": "Meadow Lakes Park Tennis Courts",
       "lat": 35.662298,
       "lng": -97.490622,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2863,6 +3022,9 @@
       "name": "Toby Morris Park Tennis Courts",
       "lat": 34.598861,
       "lng": -98.399008,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2876,29 +3038,13 @@
       "tags": {}
     },
     {
-      "id": "osm-w606567295",
-      "name": "Tennis Courts · Willow Creek Boulevard",
-      "lat": 35.590461,
-      "lng": -97.659564,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": true,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": "Willow Creek Boulevard",
-      "city": "Oklahoma City",
-      "state": "OK",
-      "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
-    },
-    {
       "id": "osm-w608114437",
       "name": "Rayola Park Tennis Courts",
       "lat": 36.271542,
       "lng": -95.850333,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2916,6 +3062,9 @@
       "name": "Tennis Courts · East 49th Street North",
       "lat": 36.22476,
       "lng": -95.967012,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2935,6 +3084,9 @@
       "name": "Tennis Courts · North County Line Road",
       "lat": 35.25775,
       "lng": -97.669294,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2954,6 +3106,9 @@
       "name": "Aaronson Park Tennis Courts",
       "lat": 36.09406,
       "lng": -95.87857,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2971,6 +3126,9 @@
       "name": "Tennis Courts · East 23rd Street South",
       "lat": 36.129957,
       "lng": -95.952645,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2990,6 +3148,9 @@
       "name": "Tennis Courts · East Virgin Street North",
       "lat": 36.184543,
       "lng": -95.979475,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -3004,9 +3165,12 @@
     },
     {
       "id": "osm-w635328262",
-      "name": "Country Hollow Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 36.049683,
       "lng": -95.925668,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3017,13 +3181,18 @@
       "city": null,
       "state": "OK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w635788428",
       "name": "Tennis Courts · South College Avenue",
       "lat": 36.040511,
       "lng": -95.945023,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -3041,6 +3210,9 @@
       "name": "Tennis Courts · Young Road",
       "lat": 36.344806,
       "lng": -97.901136,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -3054,10 +3226,35 @@
       "tags": {}
     },
     {
+      "id": "osm-w662161395",
+      "name": "Tennis Courts · Muncy Avenue",
+      "lat": 36.997162,
+      "lng": -101.901638,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": "Muncy Avenue",
+      "city": "Elkhart",
+      "state": "OK",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
       "id": "osm-w669751062",
       "name": "Tennis Courts · South Pennsylvania Avenue",
       "lat": 35.184335,
       "lng": -97.54687,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3077,6 +3274,9 @@
       "name": "Tennis Courts · 4th Street",
       "lat": 36.806175,
       "lng": -97.739148,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3096,6 +3296,9 @@
       "name": "Forest Park Estates Tennis Courts",
       "lat": 35.416137,
       "lng": -97.474558,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3106,13 +3309,18 @@
       "city": null,
       "state": "OK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w716743481",
       "name": "Haikey Creek Park Tennis Courts",
       "lat": 35.998648,
       "lng": -95.849221,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -3127,9 +3335,12 @@
     },
     {
       "id": "osm-w716755048",
-      "name": "Langenheim Park Tennis Courts",
+      "name": "The Chesterfield Apartments Tennis Courts",
       "lat": 36.094387,
       "lng": -95.939762,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "hard",
       "lighted": true,
@@ -3140,13 +3351,18 @@
       "city": null,
       "state": "OK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w716774141",
       "name": "Case Tennis Center",
       "lat": 36.086469,
       "lng": -95.915106,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 21,
       "surface": "unknown",
       "lighted": null,
@@ -3164,6 +3380,9 @@
       "name": "Tennis Courts · West Seminole Street North",
       "lat": 36.180506,
       "lng": -96.013598,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3183,6 +3402,9 @@
       "name": "Tennis Courts · Ann Branden Boulevard",
       "lat": 35.183014,
       "lng": -97.414983,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3202,6 +3424,9 @@
       "name": "Tennis Courts · South Jamestown Avenue East",
       "lat": 36.050854,
       "lng": -95.936443,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3217,18 +3442,21 @@
       }
     },
     {
-      "id": "osm-w732995967",
-      "name": "Tennis Courts · East 92nd Place South",
-      "lat": 36.030451,
-      "lng": -95.946154,
-      "courtCount": 11,
+      "id": "osm-w732995968",
+      "name": "Public Tennis Courts",
+      "lat": 36.030711,
+      "lng": -95.945919,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 16,
       "surface": "unknown",
       "lighted": true,
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": "East 92nd Place South",
-      "city": "Tulsa",
+      "address": null,
+      "city": null,
       "state": "OK",
       "source": "osm",
       "tags": {}
@@ -3238,6 +3466,9 @@
       "name": "N0440 Road Tennis Courts",
       "lat": 36.819914,
       "lng": -102.230041,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3257,6 +3488,9 @@
       "name": "Tennis Courts · Mary Lee Lane",
       "lat": 35.641235,
       "lng": -97.472282,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -3274,6 +3508,9 @@
       "name": "G.W. Roland Park Tennis Courts",
       "lat": 35.962536,
       "lng": -95.662131,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3291,6 +3528,9 @@
       "name": "Tennis Courts · Korean War Veterans Memorial Highway",
       "lat": 35.461194,
       "lng": -97.603811,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -3308,6 +3548,9 @@
       "name": "Tennis Courts · M L King Jr Avenue",
       "lat": 34.483068,
       "lng": -97.951791,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -3321,27 +3564,13 @@
       "tags": {}
     },
     {
-      "id": "osm-w821288181",
-      "name": "Tennis Courts · Seminole Road",
-      "lat": 34.476267,
-      "lng": -97.940439,
-      "courtCount": 3,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": "Seminole Road",
-      "city": "Stephens County",
-      "state": "OK",
-      "source": "osm",
-      "tags": {}
-    },
-    {
       "id": "osm-w827497540",
       "name": "Oral Roberts University Tennis Courts",
       "lat": 36.051927,
       "lng": -95.94762,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -3361,6 +3590,9 @@
       "name": "Tennis Courts · Walnut",
       "lat": 34.836,
       "lng": -95.878211,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3380,6 +3612,9 @@
       "name": "Imagine Early Education & Childcare of Tulsa Tennis Courts",
       "lat": 36.009974,
       "lng": -95.888346,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3399,6 +3634,9 @@
       "name": "Choctaw Senior High School Tennis Courts",
       "lat": 35.474433,
       "lng": -97.279188,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -3418,24 +3656,10 @@
       "name": "Choctaw Yellow Jackets Tennis Courts",
       "lat": 35.476891,
       "lng": -97.277018,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "OK",
-      "source": "osm",
-      "tags": {}
-    },
-    {
-      "id": "osm-w850971580",
-      "name": "Jimmie Austin Golf Club Tennis Courts",
-      "lat": 35.184402,
-      "lng": -97.425609,
-      "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -3452,6 +3676,9 @@
       "name": "Tennis Courts · East Lloyd Street",
       "lat": 34.0179,
       "lng": -95.50955,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -3469,6 +3696,9 @@
       "name": "Tennis Courts · Davinbrook Drive",
       "lat": 35.534133,
       "lng": -97.533237,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3488,6 +3718,9 @@
       "name": "Tennis Courts · South Lewis Avenue East",
       "lat": 36.124318,
       "lng": -95.957876,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": null,
@@ -3507,6 +3740,9 @@
       "name": "Couch Park Tennis Courts",
       "lat": 36.108339,
       "lng": -97.046645,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -3524,6 +3760,9 @@
       "name": "Dr. Joe W. Hanson Park Tennis Court",
       "lat": 36.306358,
       "lng": -96.46188,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3541,6 +3780,9 @@
       "name": "Tennis Courts · South Murphree Drive",
       "lat": 36.041764,
       "lng": -95.710573,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3557,9 +3799,12 @@
     },
     {
       "id": "osm-w900222904",
-      "name": "Darlington Park Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 36.121815,
       "lng": -95.91792,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3570,14 +3815,20 @@
       "city": null,
       "state": "OK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
-      "id": "osm-w900224904",
+      "id": "osm-w900224900",
       "name": "Heller Park Tennis Courts",
-      "lat": 36.084943,
-      "lng": -95.965102,
-      "courtCount": 2,
+      "lat": 36.084753,
+      "lng": -95.965114,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -3594,6 +3845,9 @@
       "name": "Mineral Wells Park Tennis Courts",
       "lat": 35.870134,
       "lng": -97.427832,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3611,6 +3865,9 @@
       "name": "Pawhuska Public Schools Tennis Courts",
       "lat": 36.675318,
       "lng": -96.327669,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -3630,6 +3887,9 @@
       "name": "Tennis Courts · South Richmond Street",
       "lat": 34.876785,
       "lng": -96.41437,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3649,6 +3909,9 @@
       "name": "Tennis Courts · West 12th Street",
       "lat": 35.147088,
       "lng": -96.496951,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -3666,6 +3929,9 @@
       "name": "Tennis Courts · Avenue J",
       "lat": 36.811428,
       "lng": -100.527226,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -3683,6 +3949,9 @@
       "name": "Tennis Courts · Hickory Street",
       "lat": 36.533988,
       "lng": -95.440957,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3702,6 +3971,9 @@
       "name": "Shawnee High School Tennis Courts",
       "lat": 35.342642,
       "lng": -96.938259,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -3721,6 +3993,9 @@
       "name": "Tennis Courts · North 74th East Avenue",
       "lat": 36.200765,
       "lng": -95.894818,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3740,6 +4015,9 @@
       "name": "Tennis Courts · North 3rd Street",
       "lat": 34.93585,
       "lng": -95.763737,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -3757,6 +4035,9 @@
       "name": "Tennis Courts · North Detroit Avenue East",
       "lat": 36.226896,
       "lng": -95.990837,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3775,7 +4056,10 @@
       "id": "osm-w990181548",
       "name": "Northwestern Oklahoma State University Tennis Courts",
       "lat": 36.793626,
-      "lng": -98.673263,
+      "lng": -98.673262,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3795,6 +4079,9 @@
       "name": "Northwestern Oklahoma State University Tennis Courts",
       "lat": 36.794363,
       "lng": -98.667492,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -3814,6 +4101,9 @@
       "name": "Tennis/Basketball Court",
       "lat": 36.732307,
       "lng": -96.183362,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3831,6 +4121,9 @@
       "name": "Tennis Courts · South Victor Avenue East",
       "lat": 36.148794,
       "lng": -95.966321,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3847,9 +4140,12 @@
     },
     {
       "id": "osm-w1033458497",
-      "name": "Black Gold Park Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 35.954674,
       "lng": -96.010235,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3860,13 +4156,18 @@
       "city": null,
       "state": "OK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1038098568",
       "name": "Renaissance Uptown Tennis Courts",
       "lat": 36.147463,
       "lng": -95.99373,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3877,13 +4178,18 @@
       "city": null,
       "state": "OK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1058172661",
       "name": "Tennis Courts · East 66th Street South",
       "lat": 36.067785,
       "lng": -95.934227,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3903,6 +4209,9 @@
       "name": "Tennis Courts · East Floral Avenue",
       "lat": 34.390702,
       "lng": -99.008013,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3922,6 +4231,9 @@
       "name": "Tennis Courts · North 15th Street",
       "lat": 34.399098,
       "lng": -99.011568,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3941,6 +4253,9 @@
       "name": "Tennis Courts · Southwest Goodyear Boulevard",
       "lat": 34.601621,
       "lng": -98.512348,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3960,6 +4275,9 @@
       "name": "Moore Golf Course Tennis Courts",
       "lat": 35.319312,
       "lng": -97.509036,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3977,6 +4295,9 @@
       "name": "Moore Golf Course Tennis Courts",
       "lat": 35.318888,
       "lng": -97.51082,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3994,6 +4315,9 @@
       "name": "Tennis Courts · West Chicken Fight Road",
       "lat": 34.359022,
       "lng": -96.152632,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4013,6 +4337,9 @@
       "name": "Tennis Courts · Links Boulevard",
       "lat": 35.997666,
       "lng": -95.89132,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4032,6 +4359,9 @@
       "name": "The Reserve at Harvard Ponds Tennis Courts",
       "lat": 35.951131,
       "lng": -95.942663,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4042,13 +4372,18 @@
       "city": null,
       "state": "OK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1099712416",
       "name": "Tennis Courts · West Fox Drive",
       "lat": 36.347719,
       "lng": -97.898478,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4068,6 +4403,9 @@
       "name": "Public Tennis Courts",
       "lat": 36.349152,
       "lng": -97.894893,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4087,6 +4425,9 @@
       "name": "Tennis Courts · B Street Northeast",
       "lat": 36.155487,
       "lng": -95.510172,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4106,6 +4447,9 @@
       "name": "Tennis Courts · South 29th West Avenue",
       "lat": 36.093241,
       "lng": -96.024848,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4121,29 +4465,13 @@
       }
     },
     {
-      "id": "osm-w1134459431",
-      "name": "Eastern Oklahoma State College Tennis Courts",
-      "lat": 34.915147,
-      "lng": -95.332951,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "OK",
-      "source": "osm",
-      "tags": {
-        "context": "school"
-      }
-    },
-    {
       "id": "osm-w1139070441",
       "name": "Tennis Courts · CR E310",
-      "lat": 36.567569,
+      "lat": 36.56757,
       "lng": -95.223994,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4163,6 +4491,9 @@
       "name": "McAlester Country Club Tennis Courts",
       "lat": 34.909821,
       "lng": -95.752288,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4180,6 +4511,9 @@
       "name": "McAlester Country Club Tennis Courts",
       "lat": 34.908627,
       "lng": -95.752526,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -4193,10 +4527,13 @@
       "tags": {}
     },
     {
-      "id": "osm-w1171640453",
-      "name": "Spaulding Park Tennis Courts",
-      "lat": 35.743129,
-      "lng": -95.358764,
+      "id": "osm-w1161817140",
+      "name": "Lower Central Park Pickleball Courts",
+      "lat": 35.454507,
+      "lng": -97.5173,
+      "sports": [
+        "pickleball"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": true,
@@ -4210,13 +4547,17 @@
       "tags": {}
     },
     {
-      "id": "osm-w1171661133",
-      "name": "Muskogee High School Tennis Courts",
-      "lat": 35.772917,
-      "lng": -95.331875,
-      "courtCount": 1,
+      "id": "osm-w1171640453",
+      "name": "Spaulding Park Tennis Courts",
+      "lat": 35.743251,
+      "lng": -95.358766,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 2,
       "surface": "unknown",
-      "lighted": false,
+      "lighted": true,
       "indoor": null,
       "access": "unknown",
       "fee": null,
@@ -4224,15 +4565,16 @@
       "city": null,
       "state": "OK",
       "source": "osm",
-      "tags": {
-        "context": "school"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1173184659",
       "name": "Tennis Courts · West Canton Street",
       "lat": 36.02653,
       "lng": -95.830617,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4252,6 +4594,9 @@
       "name": "Skelly Park Tennis Courts",
       "lat": 36.129765,
       "lng": -95.881654,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4267,8 +4612,11 @@
     {
       "id": "osm-w1194106208",
       "name": "Public Tennis Courts",
-      "lat": 34.162962,
+      "lat": 34.162961,
       "lng": -97.164131,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4284,27 +4632,13 @@
       }
     },
     {
-      "id": "osm-w1200019929",
-      "name": "Thirty-Fifth Division Park Tennis Courts",
-      "lat": 34.613442,
-      "lng": -98.396208,
-      "courtCount": 1,
-      "surface": "hard",
-      "lighted": false,
-      "indoor": null,
-      "access": "public",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "OK",
-      "source": "osm",
-      "tags": {}
-    },
-    {
       "id": "osm-w1203347814",
       "name": "Tennis Courts · East 732 Road",
       "lat": 35.961223,
       "lng": -95.288631,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4323,7 +4657,10 @@
       "id": "osm-w1206456684",
       "name": "Granite High School Tennis Courts",
       "lat": 34.964068,
-      "lng": -99.386145,
+      "lng": -99.386144,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4340,9 +4677,12 @@
     },
     {
       "id": "osm-w1206693476",
-      "name": "Housing Authority of the Town of Granite Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 34.958662,
       "lng": -99.385689,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4353,13 +4693,18 @@
       "city": null,
       "state": "OK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1206695454",
       "name": "Beggs Middle School Tennis Courts",
       "lat": 35.74975,
       "lng": -96.085796,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4379,6 +4724,9 @@
       "name": "Public Tennis Courts",
       "lat": 36.286918,
       "lng": -95.629907,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4398,6 +4746,9 @@
       "name": "Edmond Center Court",
       "lat": 35.640889,
       "lng": -97.492365,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 24,
       "surface": "unknown",
       "lighted": null,
@@ -4419,6 +4770,9 @@
       "name": "Tennis Courts · Mill Hollow Court",
       "lat": 35.588456,
       "lng": -97.445439,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4438,6 +4792,9 @@
       "name": "Youth Park Tennis Courts",
       "lat": 34.3587,
       "lng": -98.300785,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4455,6 +4812,9 @@
       "name": "Tennis Courts · D Avenue",
       "lat": 35.354985,
       "lng": -99.187056,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4474,6 +4834,9 @@
       "name": "Bumpass Park Tennis Courts",
       "lat": 35.571456,
       "lng": -97.550136,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4491,6 +4854,9 @@
       "name": "Tennis Courts · Northwest 140th Street",
       "lat": 35.614766,
       "lng": -97.560777,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -4508,6 +4874,9 @@
       "name": "Tennis Courts · 4th Street",
       "lat": 36.547607,
       "lng": -98.279703,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4527,6 +4896,9 @@
       "name": "Tennis Courts · Quincy Street",
       "lat": 36.309733,
       "lng": -97.583589,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4546,6 +4918,9 @@
       "name": "Seminole Municipal Park Tennis Courts",
       "lat": 35.236544,
       "lng": -96.668803,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -4563,6 +4938,9 @@
       "name": "Tennis Courts · West Russell Avenue",
       "lat": 35.230676,
       "lng": -96.672875,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -4580,6 +4958,9 @@
       "name": "Public Tennis Courts",
       "lat": 34.606876,
       "lng": -98.459967,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -4597,6 +4978,9 @@
       "name": "Public Tennis Courts",
       "lat": 34.618791,
       "lng": -98.401261,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -4614,6 +4998,9 @@
       "name": "Tennis Courts · South Granite Avenue East",
       "lat": 36.09591,
       "lng": -95.912597,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4633,6 +5020,9 @@
       "name": "Douglas MacArthur High School Tennis Courts",
       "lat": 34.611485,
       "lng": -98.338526,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -4652,6 +5042,9 @@
       "name": "Duncan High School Tennis Courts",
       "lat": 34.512465,
       "lng": -97.973073,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -4671,6 +5064,9 @@
       "name": "Tennis Courts · West Spruce Avenue",
       "lat": 34.513404,
       "lng": -97.970672,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -4688,6 +5084,9 @@
       "name": "Tennis Courts · Oak Tree Avenue",
       "lat": 35.188234,
       "lng": -97.424147,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4707,6 +5106,9 @@
       "name": "The Trails Tennis Courts",
       "lat": 35.187218,
       "lng": -97.463462,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4724,6 +5126,9 @@
       "name": "Tennis Courts · East 74th Street North",
       "lat": 36.261422,
       "lng": -95.831966,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4743,6 +5148,9 @@
       "name": "Tennis Courts · 5th Northeast Street",
       "lat": 36.88237,
       "lng": -94.875171,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -4760,6 +5168,9 @@
       "name": "Rejoice Christian Schools Tennis Courts",
       "lat": 36.312716,
       "lng": -95.823833,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -4779,6 +5190,9 @@
       "name": "Elm Creek Tennis Courts",
       "lat": 36.267683,
       "lng": -95.837871,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4796,6 +5210,9 @@
       "name": "Thomas A. Edison Preparatory School Tennis Courts",
       "lat": 36.102132,
       "lng": -95.947498,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -4815,6 +5232,9 @@
       "name": "Durant High School Tennis Courts",
       "lat": 34.029317,
       "lng": -96.380188,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -4834,6 +5254,9 @@
       "name": "Imagination Station Park Tennis Courts",
       "lat": 34.648992,
       "lng": -99.329328,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -4851,6 +5274,9 @@
       "name": "Chickasha Golf & Country Club Tennis Courts",
       "lat": 35.020975,
       "lng": -97.953646,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4868,6 +5294,9 @@
       "name": "Timberbrook Park Tennis Courts",
       "lat": 36.061908,
       "lng": -95.725587,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -4884,7 +5313,10 @@
       "id": "osm-w1278741961",
       "name": "Tennis Courts · East Olive Street",
       "lat": 36.829308,
-      "lng": -99.62647,
+      "lng": -99.626471,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4904,6 +5336,9 @@
       "name": "Tennis Courts · Myall Southwest",
       "lat": 34.158913,
       "lng": -97.175323,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -4921,6 +5356,9 @@
       "name": "Tennis Courts · Northwest 90th Street",
       "lat": 35.562149,
       "lng": -97.529654,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -4938,6 +5376,9 @@
       "name": "Tennis Courts · Briar Meade Circle",
       "lat": 35.703531,
       "lng": -97.505697,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4957,6 +5398,9 @@
       "name": "Tennis Courts · East 57th Street",
       "lat": 36.081715,
       "lng": -95.89608,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -4974,6 +5418,9 @@
       "name": "Northern Oklahoma College Tennis Courts",
       "lat": 36.680392,
       "lng": -97.296813,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -4990,10 +5437,33 @@
     },
     {
       "id": "osm-w1293464273",
-      "name": "The Club at Indian Springs Tennis Courts",
-      "lat": 35.972504,
+      "name": "Public Tennis Courts",
+      "lat": 35.972505,
       "lng": -95.800183,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 10,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "OK",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1296438197",
+      "name": "McGraw Park Pickleball Courts",
+      "lat": 35.975998,
+      "lng": -95.972919,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -5010,6 +5480,9 @@
       "name": "Atoka City Park Tennis Courts",
       "lat": 34.376827,
       "lng": -96.145715,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5026,7 +5499,10 @@
       "id": "osm-w1302966782",
       "name": "Tennis Courts · Sunset Drive",
       "lat": 35.517185,
-      "lng": -98.989132,
+      "lng": -98.989133,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5046,6 +5522,9 @@
       "name": "Tennis Courts · Phillips Lane",
       "lat": 35.507239,
       "lng": -98.980118,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5065,6 +5544,9 @@
       "name": "Southeastern Oklahoma State University Tennis Complex",
       "lat": 34.004118,
       "lng": -96.374471,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -5082,6 +5564,9 @@
       "name": "Mustang Public Schools Tennis Courts",
       "lat": 35.382929,
       "lng": -97.727368,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 11,
       "surface": "unknown",
       "lighted": null,
@@ -5101,6 +5586,9 @@
       "name": "Tennis Courts · Banner Avenue",
       "lat": 35.61994,
       "lng": -97.462544,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -5118,6 +5606,9 @@
       "name": "Northwest Classen High School Tennis Courts",
       "lat": 35.497206,
       "lng": -97.562697,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -5137,6 +5628,9 @@
       "name": "Southtowne Estates Tennis Courts",
       "lat": 35.979247,
       "lng": -95.810429,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -5154,6 +5648,9 @@
       "name": "Tennis Courts · South Pecan Street",
       "lat": 36.697448,
       "lng": -95.640524,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -5171,6 +5668,9 @@
       "name": "Public Tennis Courts",
       "lat": 35.634319,
       "lng": -97.530417,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5190,6 +5690,9 @@
       "name": "War Memorial Park Tennis Courts",
       "lat": 36.712199,
       "lng": -97.076219,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 9,
       "surface": "unknown",
       "lighted": null,
@@ -5207,6 +5710,9 @@
       "name": "Tennis Courts · Delozier Lane",
       "lat": 36.558257,
       "lng": -95.432082,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5226,6 +5732,9 @@
       "name": "Wacker Park Tennis Courts",
       "lat": 34.747231,
       "lng": -97.227527,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 12,
       "surface": "unknown",
       "lighted": null,
@@ -5239,29 +5748,34 @@
       "tags": {}
     },
     {
-      "id": "osm-w1329047361",
-      "name": "Tennis Courts · South Diamondhead Drive",
-      "lat": 33.923449,
-      "lng": -97.310389,
-      "courtCount": 2,
+      "id": "osm-w1329047355",
+      "name": "Public Tennis Courts",
+      "lat": 33.92345,
+      "lng": -97.310141,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": "South Diamondhead Drive",
-      "city": "Love County",
+      "address": null,
+      "city": null,
       "state": "OK",
       "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1329889346",
       "name": "Ardmore High School Tennis Courts",
       "lat": 34.206281,
       "lng": -97.134437,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -5281,6 +5795,9 @@
       "name": "Tennis Courts · Dana Drive",
       "lat": 36.41098,
       "lng": -97.922368,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5297,9 +5814,12 @@
     },
     {
       "id": "osm-w1331378955",
-      "name": "Oak Tree Country Club East Course Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 35.724429,
       "lng": -97.483888,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5310,13 +5830,18 @@
       "city": null,
       "state": "OK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1331378992",
       "name": "Tennis Courts · Quite Glade Drive",
       "lat": 35.701362,
       "lng": -97.499609,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5332,10 +5857,35 @@
       }
     },
     {
+      "id": "osm-w1331379114",
+      "name": "Public Pickleball Courts",
+      "lat": 35.699867,
+      "lng": -97.517278,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "OK",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
       "id": "osm-w1331379138",
       "name": "Tennis Courts · Oak Crest Drive",
       "lat": 35.685437,
       "lng": -97.517918,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5355,6 +5905,9 @@
       "name": "Tennis Courts · Antelope Trail",
       "lat": 35.659153,
       "lng": -97.518755,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5374,6 +5927,9 @@
       "name": "Tennis Courts · Heavenfield Court",
       "lat": 35.699786,
       "lng": -97.469076,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5393,6 +5949,9 @@
       "name": "Tennis Courts · Northwest 113th Street",
       "lat": 35.583302,
       "lng": -97.550553,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5409,9 +5968,12 @@
     },
     {
       "id": "osm-w1331379698",
-      "name": "Casady School Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 35.570759,
       "lng": -97.545408,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 12,
       "surface": "unknown",
       "lighted": null,
@@ -5422,15 +5984,16 @@
       "city": null,
       "state": "OK",
       "source": "osm",
-      "tags": {
-        "context": "school"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1331379865",
       "name": "Stillwater Golf And Country Club Tennis Courts",
       "lat": 36.11015,
       "lng": -97.130588,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5445,9 +6008,12 @@
     },
     {
       "id": "osm-w1331379894",
-      "name": "Tracy Park Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 36.147565,
       "lng": -95.97835,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 7,
       "surface": "unknown",
       "lighted": null,
@@ -5465,6 +6031,9 @@
       "name": "Benedict Park Tennis Courts",
       "lat": 36.145081,
       "lng": -95.967656,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "hard",
       "lighted": true,
@@ -5482,6 +6051,9 @@
       "name": "Tennis Courts · 6th Street",
       "lat": 35.29729,
       "lng": -98.988003,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5501,6 +6073,9 @@
       "name": "Tennis Courts · Lakeview Circle",
       "lat": 33.923801,
       "lng": -96.692058,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5520,6 +6095,9 @@
       "name": "Tennis Courts · Mount Washington Road",
       "lat": 34.203437,
       "lng": -97.126021,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5539,6 +6117,9 @@
       "name": "Tennis Courts · South Rockford Road",
       "lat": 34.167387,
       "lng": -97.161559,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5558,6 +6139,9 @@
       "name": "Tennis Courts · Overland Route",
       "lat": 34.167341,
       "lng": -97.163724,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5577,6 +6161,9 @@
       "name": "Tennis Courts · 2nd Street",
       "lat": 34.654336,
       "lng": -96.531898,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5596,6 +6183,9 @@
       "name": "Tennis Courts · Stokes Road",
       "lat": 34.86304,
       "lng": -96.662453,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -5613,6 +6203,9 @@
       "name": "Hawthorn Park Tennis Courts",
       "lat": 35.636033,
       "lng": -95.974817,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -5630,6 +6223,9 @@
       "name": "Tennis Courts · North 137th Avenue East",
       "lat": 36.251224,
       "lng": -95.827766,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5649,6 +6245,9 @@
       "name": "Tennis Courts · Maplewood Drive",
       "lat": 36.327213,
       "lng": -95.631057,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5668,6 +6267,9 @@
       "name": "Tennis Courts · Beaty Street",
       "lat": 36.192491,
       "lng": -95.348894,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5687,6 +6289,9 @@
       "name": "Tennis Courts · East 16th Street",
       "lat": 36.734557,
       "lng": -95.97212,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -5704,6 +6309,9 @@
       "name": "Tennis Courts · D 263 Road",
       "lat": 36.638651,
       "lng": -95.122174,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5723,6 +6331,9 @@
       "name": "Timberbrook Tennis Courts",
       "lat": 36.067196,
       "lng": -95.732273,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5733,13 +6344,18 @@
       "city": null,
       "state": "OK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1349861042",
       "name": "Idabel Country Club Tennis Courts",
       "lat": 33.884787,
       "lng": -94.796216,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5757,6 +6373,9 @@
       "name": "Tennis Courts · East Mohawk Boulevard North",
       "lat": 36.214013,
       "lng": -95.938973,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5776,6 +6395,9 @@
       "name": "Tennis Courts · East 32nd Place",
       "lat": 36.116133,
       "lng": -95.896514,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5792,9 +6414,12 @@
     },
     {
       "id": "osm-w1355447158",
-      "name": "Norberg Park Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 36.115807,
       "lng": -95.849922,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5805,13 +6430,18 @@
       "city": null,
       "state": "OK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1355447387",
-      "name": "Hansel B. Johnson Park Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 36.137813,
       "lng": -95.840338,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5822,13 +6452,18 @@
       "city": null,
       "state": "OK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1356674339",
       "name": "Gazebo Park Tennis Courts",
       "lat": 36.311275,
       "lng": -95.610855,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -5846,6 +6481,9 @@
       "name": "Roosa Elementary School Tennis Courts",
       "lat": 36.328533,
       "lng": -95.599124,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -5865,6 +6503,9 @@
       "name": "Tennis Courts · East Stuart Roosa Drive",
       "lat": 36.329393,
       "lng": -95.597781,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -5882,6 +6523,9 @@
       "name": "Tennis Courts · Southeast 16th Street",
       "lat": 36.286364,
       "lng": -95.315613,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -5901,6 +6545,9 @@
       "name": "Tennis Courts · Park Avenue",
       "lat": 36.299552,
       "lng": -95.311689,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -5918,6 +6565,9 @@
       "name": "Tennis Courts · South Riverview Drive",
       "lat": 35.937006,
       "lng": -95.875618,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -5935,6 +6585,9 @@
       "name": "Tennis Courts · West 85th Court South",
       "lat": 36.040579,
       "lng": -96.007256,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": null,
@@ -5954,6 +6607,9 @@
       "name": "Sooner Park Tennis Courts",
       "lat": 36.755607,
       "lng": -95.916534,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -5968,9 +6624,12 @@
     },
     {
       "id": "osm-w1382026236",
-      "name": "Johnstone Park Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 36.753926,
       "lng": -95.974415,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -5988,6 +6647,9 @@
       "name": "Tennis Courts · East 31st Court South",
       "lat": 36.116759,
       "lng": -95.83,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": null,
@@ -6007,6 +6669,9 @@
       "name": "Riverview Estates Tennis Courts",
       "lat": 35.297335,
       "lng": -97.633839,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6017,13 +6682,18 @@
       "city": null,
       "state": "OK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1384075704",
       "name": "Tennis Courts · Northwest 32nd Street",
       "lat": 35.292687,
       "lng": -97.639912,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6043,6 +6713,9 @@
       "name": "Tennis Courts · South Lynn Lane Road",
       "lat": 35.998324,
       "lng": -95.776738,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6062,6 +6735,9 @@
       "name": "Government Springs Park (South) Tennis Courts",
       "lat": 36.387584,
       "lng": -97.8657,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -6079,6 +6755,9 @@
       "name": "Public Tennis Courts",
       "lat": 35.205345,
       "lng": -95.549565,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6098,6 +6777,9 @@
       "name": "River Oaks Golf Club Tennis Courts",
       "lat": 35.580549,
       "lng": -97.424652,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6115,6 +6797,9 @@
       "name": "Tennis Courts · South Utica Avenue East",
       "lat": 36.099019,
       "lng": -95.966656,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": null,
@@ -6130,10 +6815,33 @@
       }
     },
     {
+      "id": "osm-w1393359326",
+      "name": "Public Pickleball Courts",
+      "lat": 35.516612,
+      "lng": -97.506255,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 4,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "OK",
+      "source": "osm",
+      "tags": {}
+    },
+    {
       "id": "osm-w1410532467",
       "name": "Normandy Park Tennis Courts",
       "lat": 35.216022,
       "lng": -97.483406,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": true,
@@ -6151,6 +6859,9 @@
       "name": "Morrow Park Tennis Courts",
       "lat": 36.077437,
       "lng": -95.77624,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": true,
@@ -6168,6 +6879,9 @@
       "name": "Tennis Courts · East Highland Street",
       "lat": 35.333455,
       "lng": -96.892596,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6185,6 +6899,9 @@
       "name": "Tennis Courts · North Union Avenue",
       "lat": 35.371668,
       "lng": -96.921874,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6202,6 +6919,9 @@
       "name": "Tennis Courts · Wrangler Boulevard East",
       "lat": 35.247205,
       "lng": -96.665037,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6217,10 +6937,57 @@
       }
     },
     {
+      "id": "osm-w1416974285",
+      "name": "Public Pickleball Courts",
+      "lat": 35.36969,
+      "lng": -96.922928,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "OK",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
+      "id": "osm-w1419748209",
+      "name": "Public Pickleball Courts",
+      "lat": 35.670364,
+      "lng": -97.539422,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "hard",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "OK",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
       "id": "osm-w1420271549",
       "name": "Tennis Courts · East Euclid Avenue",
       "lat": 36.279791,
       "lng": -97.89723,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6240,6 +7007,9 @@
       "name": "Tennis Courts · Price Road",
       "lat": 36.71252,
       "lng": -95.955717,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6258,7 +7028,10 @@
       "id": "osm-w1425252206",
       "name": "Tennis Courts · 5th Street",
       "lat": 36.271806,
-      "lng": -99.87716,
+      "lng": -99.877159,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -6276,6 +7049,9 @@
       "name": "Tennis Courts · Southwest 5th Street",
       "lat": 34.222993,
       "lng": -95.625454,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "hard",
       "lighted": null,
@@ -6295,6 +7071,9 @@
       "name": "Tennis Courts · Norwood Avenue",
       "lat": 34.069613,
       "lng": -95.002655,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6314,6 +7093,9 @@
       "name": "Hilltop Replat Tennis Courts",
       "lat": 35.732316,
       "lng": -95.335271,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6324,13 +7106,18 @@
       "city": null,
       "state": "OK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1428185072",
       "name": "Dornick Hills Golf and Country Club Tennis Courts",
       "lat": 34.216643,
       "lng": -97.13875,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6347,7 +7134,10 @@
       "id": "osm-w1430154826",
       "name": "Tennis Courts · Greenbriar Chase Street",
       "lat": 35.357678,
-      "lng": -97.551249,
+      "lng": -97.55125,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6367,6 +7157,9 @@
       "name": "Tennis Courts · Old Farm Road",
       "lat": 36.553156,
       "lng": -94.969977,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6385,7 +7178,10 @@
       "id": "osm-w1432609150",
       "name": "Tennis Courts · North Eastern Avenue",
       "lat": 36.420182,
-      "lng": -96.390149,
+      "lng": -96.390148,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -6403,6 +7199,9 @@
       "name": "Osage Park Tennis Courts",
       "lat": 36.361076,
       "lng": -96.002487,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6417,9 +7216,12 @@
     },
     {
       "id": "osm-w1434175776",
-      "name": "Union High School Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 36.052993,
       "lng": -95.855845,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": true,
@@ -6430,15 +7232,16 @@
       "city": null,
       "state": "OK",
       "source": "osm",
-      "tags": {
-        "context": "school"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1442444456",
       "name": "Norman North High School Tennis Courts",
       "lat": 35.243206,
       "lng": -97.44921,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -6456,9 +7259,13 @@
     {
       "id": "osm-w1442444777",
       "name": "Tennis Courts · North Missouri Street",
-      "lat": 35.751205,
-      "lng": -98.748683,
-      "courtCount": 1,
+      "lat": 35.751203,
+      "lng": -98.748545,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -6468,15 +7275,16 @@
       "city": "Thomas",
       "state": "OK",
       "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1442731202",
       "name": "Don Haskins Park Tennis Courts",
       "lat": 36.394588,
       "lng": -97.87144,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6494,6 +7302,9 @@
       "name": "North Park Tennis Courts",
       "lat": 36.690994,
       "lng": -101.477689,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -6511,6 +7322,9 @@
       "name": "Public Tennis Courts",
       "lat": 36.362769,
       "lng": -96.015843,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6524,10 +7338,35 @@
       "tags": {}
     },
     {
+      "id": "osm-w1443965425",
+      "name": "Public Tennis Courts",
+      "lat": 34.476267,
+      "lng": -97.940438,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "OK",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
       "id": "osm-w1444780128",
       "name": "Tennis Courts · North Meridian Avenue",
       "lat": 35.521026,
       "lng": -97.602478,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6545,6 +7384,9 @@
       "name": "Public Tennis Courts",
       "lat": 34.04827,
       "lng": -95.466072,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6564,6 +7406,9 @@
       "name": "Tennis Courts · North 16th Street",
       "lat": 35.434488,
       "lng": -96.320256,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6583,6 +7428,10 @@
       "name": "Greenbriar Park Tennis Courts",
       "lat": 35.343131,
       "lng": -97.518617,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -6597,10 +7446,14 @@
     },
     {
       "id": "osm-w1460908188",
-      "name": "Rader Park Tennis Courts",
-      "lat": 35.560602,
-      "lng": -98.680037,
-      "courtCount": 4,
+      "name": "Public Tennis Courts",
+      "lat": 35.560138,
+      "lng": -98.680046,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 14,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -6614,9 +7467,12 @@
     },
     {
       "id": "osm-w1461813081",
-      "name": "One Eaton Square Luxury Apartments Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 36.078642,
       "lng": -95.882671,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6627,13 +7483,18 @@
       "city": null,
       "state": "OK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1466314683",
       "name": "Tennis Courts · Main Street",
       "lat": 36.563662,
       "lng": -97.992413,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": null,
@@ -6653,9 +7514,33 @@
       "name": "Woodland Park Tennis Courts",
       "lat": 35.331993,
       "lng": -96.921269,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "OK",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1468510972",
+      "name": "Public Tennis Courts",
+      "lat": 35.599505,
+      "lng": -97.583745,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 9,
+      "surface": "unknown",
+      "lighted": true,
       "indoor": null,
       "access": "unknown",
       "fee": null,
@@ -6670,6 +7555,9 @@
       "name": "Edmond Santa Fe High School Tennis Courts",
       "lat": 35.642583,
       "lng": -97.51099,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -6689,6 +7577,9 @@
       "name": "Tennis Courts · East Florida Avenue",
       "lat": 34.173166,
       "lng": -97.994477,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6708,6 +7599,9 @@
       "name": "Butner Field Tennis Courts",
       "lat": 34.674028,
       "lng": -98.395939,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6725,6 +7619,9 @@
       "name": "Tennis Courts · San Ann Drive",
       "lat": 34.643271,
       "lng": -99.315939,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": true,
@@ -6742,6 +7639,9 @@
       "name": "Tennis Courts · West River Drive",
       "lat": 34.660083,
       "lng": -99.296185,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": true,
@@ -6759,6 +7659,9 @@
       "name": "Tennis Courts · South Oak Avenue",
       "lat": 35.209734,
       "lng": -99.864999,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6778,6 +7681,9 @@
       "name": "Tennis Courts · West Lincoln Avenue",
       "lat": 35.375754,
       "lng": -98.781873,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6795,8 +7701,11 @@
     {
       "id": "osm-w1470398733",
       "name": "Fort Sill Golf Course Tennis Courts",
-      "lat": 34.676394,
-      "lng": -98.400953,
+      "lat": 34.676393,
+      "lng": -98.400952,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6814,6 +7723,9 @@
       "name": "Chickasha High School Tennis Courts",
       "lat": 35.054661,
       "lng": -97.955534,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -6833,6 +7745,9 @@
       "name": "Legion Park Tennis Courts",
       "lat": 35.525568,
       "lng": -97.964383,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": true,
@@ -6849,7 +7764,10 @@
       "id": "osm-w1470411573",
       "name": "Crystal Beach Park Tennis Courts",
       "lat": 36.428168,
-      "lng": -99.375401,
+      "lng": -99.3754,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": true,
@@ -6867,6 +7785,9 @@
       "name": "Crosslin Park Tennis Courts",
       "lat": 36.43271,
       "lng": -97.898366,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -6884,6 +7805,9 @@
       "name": "Lions Park Tennis Courts",
       "lat": 36.285472,
       "lng": -97.298031,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -6901,6 +7825,9 @@
       "name": "Tennis Courts · Mulberry Lane",
       "lat": 36.202355,
       "lng": -97.010614,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6920,6 +7847,9 @@
       "name": "North Park Tennis Courts",
       "lat": 36.643535,
       "lng": -95.153697,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6937,6 +7867,9 @@
       "name": "South Park Tennis Courts",
       "lat": 36.636498,
       "lng": -95.159367,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -6954,6 +7887,9 @@
       "name": "Tahlequah Middle School/High School Tennis Courts",
       "lat": 35.920754,
       "lng": -94.978375,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -6970,9 +7906,12 @@
     },
     {
       "id": "osm-w1471489172",
-      "name": "Northeastern State University Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 35.921246,
       "lng": -94.962896,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 12,
       "surface": "unknown",
       "lighted": true,
@@ -6983,15 +7922,16 @@
       "city": null,
       "state": "OK",
       "source": "osm",
-      "tags": {
-        "context": "school"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1471489379",
       "name": "Honor Heights Park Tennis Courts",
       "lat": 35.771304,
       "lng": -95.419406,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -7009,6 +7949,9 @@
       "name": "Tennis Courts · Diamond Head Drive",
       "lat": 36.164553,
       "lng": -96.254088,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7028,6 +7971,9 @@
       "name": "Ray Brown Park Tennis Courts",
       "lat": 36.145976,
       "lng": -96.103246,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": true,
@@ -7045,6 +7991,9 @@
       "name": "Tennis Courts · West Cemetery Road",
       "lat": 36.299879,
       "lng": -95.998378,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -7062,6 +8011,9 @@
       "name": "Ben Hill Park Tennis Courts",
       "lat": 36.169286,
       "lng": -95.991981,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7077,9 +8029,13 @@
     {
       "id": "osm-w1472099840",
       "name": "Durant Dixon Park Tennis Courts",
-      "lat": 34.00239,
-      "lng": -96.382676,
-      "courtCount": 6,
+      "lat": 34.002295,
+      "lng": -96.382728,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -7096,6 +8052,9 @@
       "name": "Tennis Courts · Northeast B Street",
       "lat": 34.238516,
       "lng": -95.61814,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -7113,6 +8072,9 @@
       "name": "Chadick Park Tennis Courts",
       "lat": 34.925856,
       "lng": -95.765965,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -7130,6 +8092,9 @@
       "name": "Tennis Courts · North J Street",
       "lat": 35.291622,
       "lng": -95.572845,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7149,6 +8114,9 @@
       "name": "Tennis Courts · Cemetery Avenue",
       "lat": 35.469902,
       "lng": -95.53081,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7168,6 +8136,9 @@
       "name": "Okmulgee Middle School Tennis Courts",
       "lat": 35.630159,
       "lng": -95.949476,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7187,6 +8158,9 @@
       "name": "Henryetta High School Tennis Courts",
       "lat": 35.447485,
       "lng": -96.004613,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": true,
@@ -7206,6 +8180,9 @@
       "name": "Bristow City Park Tennis Courts",
       "lat": 35.831309,
       "lng": -96.404327,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": true,
@@ -7223,6 +8200,9 @@
       "name": "Tennis Courts · East Lincoln Avenue",
       "lat": 35.995969,
       "lng": -96.095058,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": true,
@@ -7240,6 +8220,9 @@
       "name": "The Oaks Country Club Tennis Courts",
       "lat": 36.067098,
       "lng": -96.041998,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -7254,9 +8237,12 @@
     },
     {
       "id": "osm-w1472102966",
-      "name": "Graham Park Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 36.069471,
       "lng": -95.962122,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": true,
@@ -7271,9 +8257,12 @@
     },
     {
       "id": "osm-w1472103819",
-      "name": "Southern Hills Country Club Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 36.069594,
       "lng": -95.944293,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": true,
@@ -7288,10 +8277,14 @@
     },
     {
       "id": "osm-w1472104039",
-      "name": "Carnegie School Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 36.082924,
-      "lng": -95.929967,
-      "courtCount": 1,
+      "lng": -95.930102,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -7301,15 +8294,16 @@
       "city": null,
       "state": "OK",
       "source": "osm",
-      "tags": {
-        "context": "school"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1472104627",
-      "name": "Memorial High School Tennis Courts",
+      "name": "LaFortune Park Golf Course Tennis Courts",
       "lat": 36.077891,
       "lng": -95.91422,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -7320,15 +8314,16 @@
       "city": null,
       "state": "OK",
       "source": "osm",
-      "tags": {
-        "context": "school"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1472104804",
       "name": "Tennis Courts · South 85th Avenue East",
       "lat": 36.071593,
       "lng": -95.883261,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": true,
@@ -7346,6 +8341,9 @@
       "name": "Country Aire Park Tennis Courts",
       "lat": 36.052832,
       "lng": -95.823745,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": true,
@@ -7363,7 +8361,11 @@
       "name": "Vandever Park Tennis",
       "lat": 36.019993,
       "lng": -95.801334,
-      "courtCount": 2,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 4,
       "surface": "unknown",
       "lighted": true,
       "indoor": null,
@@ -7380,6 +8382,9 @@
       "name": "Broken Arrow High School Tennis Courts",
       "lat": 36.070934,
       "lng": -95.765261,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -7396,9 +8401,12 @@
     },
     {
       "id": "osm-w1472107258",
-      "name": "Gary Rosebure Recreational Park Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 34.926103,
       "lng": -95.329735,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -7409,13 +8417,18 @@
       "city": null,
       "state": "OK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1472109272",
       "name": "Tennis Courts · West Shawntel Smith Boulevard",
       "lat": 35.398929,
       "lng": -94.613747,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": true,
@@ -7433,6 +8446,9 @@
       "name": "Mayhue Tennis Courts",
       "lat": 34.771665,
       "lng": -96.664824,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -7450,6 +8466,9 @@
       "name": "Slick Humphrey Park Tennis Courts",
       "lat": 35.261396,
       "lng": -96.945478,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": true,
@@ -7467,6 +8486,9 @@
       "name": "Tecumseh High School Tennis Courts",
       "lat": 35.264057,
       "lng": -96.947055,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -7484,6 +8506,9 @@
       "name": "Tennis Courts · Harris Street",
       "lat": 35.368728,
       "lng": -96.954668,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -7501,6 +8526,9 @@
       "name": "Carl Albert High School Tennis Courts",
       "lat": 35.442945,
       "lng": -97.355673,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -7520,6 +8548,9 @@
       "name": "Jarman Middle School Tennis Courts",
       "lat": 35.441612,
       "lng": -97.400962,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7539,6 +8570,9 @@
       "name": "Rose State College Tennis Courts",
       "lat": 35.446603,
       "lng": -97.414584,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -7556,8 +8590,11 @@
     {
       "id": "osm-w1472115413",
       "name": "Tennis Courts · Southwest 28th Street",
-      "lat": 35.436657,
+      "lat": 35.436658,
       "lng": -97.526909,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7577,6 +8614,9 @@
       "name": "Sellers Park Tennis Courts",
       "lat": 35.382575,
       "lng": -97.557795,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -7594,6 +8634,9 @@
       "name": "Westwood Park Tennis Courts",
       "lat": 35.232444,
       "lng": -97.477965,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 12,
       "surface": "unknown",
       "lighted": true,
@@ -7609,9 +8652,13 @@
     {
       "id": "osm-w1472116457",
       "name": "Eisenhower Elementary School Tennis Courts",
-      "lat": 35.239827,
-      "lng": -97.421788,
-      "courtCount": 2,
+      "lat": 35.239825,
+      "lng": -97.422018,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -7630,6 +8677,9 @@
       "name": "Earlywine Park Tennis Courts",
       "lat": 35.349524,
       "lng": -97.570281,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 12,
       "surface": "unknown",
       "lighted": true,
@@ -7647,6 +8697,9 @@
       "name": "Tennis Courts · Northwest 39th Expressway",
       "lat": 35.512943,
       "lng": -97.58637,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -7663,9 +8716,12 @@
     },
     {
       "id": "osm-w1472120616",
-      "name": "Woodscape Apartments Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 35.514711,
-      "lng": -97.598968,
+      "lng": -97.598967,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -7676,13 +8732,18 @@
       "city": null,
       "state": "OK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1472120851",
       "name": "Baker-Kiwanis Park Tennis Courts",
       "lat": 35.520066,
       "lng": -97.622998,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7700,6 +8761,9 @@
       "name": "Tennis Courts · Northwest 117th Street",
       "lat": 35.587715,
       "lng": -97.634695,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": true,
@@ -7717,6 +8781,9 @@
       "name": "Tennis Courts · Northwest 118th Street",
       "lat": 35.5915,
       "lng": -97.636105,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": true,
@@ -7730,29 +8797,34 @@
       "tags": {}
     },
     {
-      "id": "osm-w1472122989",
-      "name": "Tennis Courts · East Westlake Boulevard",
-      "lat": 35.602212,
+      "id": "osm-w1472122987",
+      "name": "Public Tennis Courts",
+      "lat": 35.602304,
       "lng": -97.622046,
-      "courtCount": 1,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 3,
       "surface": "unknown",
       "lighted": true,
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": "East Westlake Boulevard",
-      "city": "Oklahoma City",
+      "address": null,
+      "city": null,
       "state": "OK",
       "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1472123183",
       "name": "Tennis Courts · Explorer Drive",
       "lat": 35.676118,
       "lng": -97.546363,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -7770,6 +8842,9 @@
       "name": "Tennis Courts · Prospect Court",
       "lat": 35.668805,
       "lng": -97.466693,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -7787,6 +8862,9 @@
       "name": "Tennis Courts · OK 105",
       "lat": 35.877648,
       "lng": -97.382344,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7806,6 +8884,9 @@
       "name": "Tennis Courts · North Crooks Drive",
       "lat": 35.894396,
       "lng": -97.421121,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -7820,9 +8901,12 @@
     },
     {
       "id": "osm-w1472123723",
-      "name": "Zeigler Park Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 36.152686,
       "lng": -96.03734,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7833,13 +8917,18 @@
       "city": null,
       "state": "OK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1472123792",
       "name": "Cascia Hall Preparatory School Tennis Courts",
       "lat": 36.126857,
       "lng": -95.9665,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": true,
@@ -7857,9 +8946,13 @@
     {
       "id": "osm-w1472124020",
       "name": "Florence Park Tennis Courts",
-      "lat": 36.133716,
-      "lng": -95.94342,
-      "courtCount": 1,
+      "lat": 36.133717,
+      "lng": -95.943316,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -7876,6 +8969,9 @@
       "name": "Whiteside Park Tennis Courts",
       "lat": 36.106262,
       "lng": -95.930756,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -7890,9 +8986,12 @@
     },
     {
       "id": "osm-w1472124412",
-      "name": "McClure Park Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 36.151118,
       "lng": -95.890481,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": true,
@@ -7910,6 +9009,9 @@
       "name": "Tennis Courts · East 19th Street South",
       "lat": 36.13605,
       "lng": -95.854705,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7929,7 +9031,11 @@
       "name": "Nienhuis Park Tennis Courts",
       "lat": 36.086205,
       "lng": -95.776102,
-      "courtCount": 2,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 4,
       "surface": "unknown",
       "lighted": true,
       "indoor": null,
@@ -7946,6 +9052,9 @@
       "name": "Tennis Courts · East 106th Street South",
       "lat": 36.009365,
       "lng": -95.877747,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -7962,9 +9071,12 @@
     },
     {
       "id": "osm-w1472125611",
-      "name": "Holland Hall Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 36.042447,
       "lng": -95.909974,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 12,
       "surface": "unknown",
       "lighted": null,
@@ -7975,15 +9087,16 @@
       "city": null,
       "state": "OK",
       "source": "osm",
-      "tags": {
-        "context": "school"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1472126175",
       "name": "Jenks East Intermediate Tennis Courts",
       "lat": 36.032249,
       "lng": -95.93275,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -8003,6 +9116,9 @@
       "name": "Tennis Courts · Myall Southwest",
       "lat": 34.158815,
       "lng": -97.158532,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8022,6 +9138,9 @@
       "name": "Tennis Courts · Surrey Drive Southwest",
       "lat": 34.162416,
       "lng": -97.154445,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8041,6 +9160,9 @@
       "name": "Rotary Centennial Park Tennis Courts",
       "lat": 36.583808,
       "lng": -94.755992,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -8058,6 +9180,9 @@
       "name": "Tennis Courts · Poco Lane",
       "lat": 34.770847,
       "lng": -96.622501,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8077,6 +9202,9 @@
       "name": "Tennis Courts · Main Street",
       "lat": 36.666677,
       "lng": -98.178347,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8092,10 +9220,35 @@
       }
     },
     {
+      "id": "osm-w1493548183",
+      "name": "Public Pickleball Courts",
+      "lat": 35.311415,
+      "lng": -99.630289,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "OK",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
       "id": "osm-w1512540593",
       "name": "Tennis Courts · Francis Street",
       "lat": 36.041604,
       "lng": -98.962283,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8115,6 +9268,9 @@
       "name": "Tennis Courts · Creekwood Drive",
       "lat": 35.487571,
       "lng": -97.756143,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8134,6 +9290,9 @@
       "name": "Mustang North Middle School Tennis Courts",
       "lat": 35.451421,
       "lng": -97.715447,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -8153,6 +9312,9 @@
       "name": "Tennis Courts · West Britton Road",
       "lat": 35.565103,
       "lng": -97.622316,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8172,6 +9334,9 @@
       "name": "Hosea Vineyard Park Tennis Courts",
       "lat": 35.424798,
       "lng": -97.523642,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -8189,6 +9354,9 @@
       "name": "Tennis Courts · West 1st Street",
       "lat": 34.785298,
       "lng": -96.681902,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -8205,9 +9373,12 @@
     },
     {
       "id": "osm-w1512577965",
-      "name": "Union High School Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 36.050733,
       "lng": -95.85187,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -8218,16 +9389,18 @@
       "city": null,
       "state": "OK",
       "source": "osm",
-      "tags": {
-        "context": "school"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1517238937",
-      "name": "Crossings at Silver Oak Tennis Courts",
-      "lat": 36.060436,
-      "lng": -95.912087,
-      "courtCount": 1,
+      "name": "Public Tennis Courts",
+      "lat": 36.060434,
+      "lng": -95.912195,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 3,
       "surface": "hard",
       "lighted": null,
       "indoor": null,
@@ -8242,9 +9415,13 @@
     {
       "id": "osm-w1524548719",
       "name": "Tennis Courts · Thompson Trail",
-      "lat": 35.734803,
-      "lng": -97.454718,
-      "courtCount": 2,
+      "lat": 35.734743,
+      "lng": -97.454553,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -8254,15 +9431,16 @@
       "city": "Logan County",
       "state": "OK",
       "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1524991187",
       "name": "Tennis Courts · 168th Avenue Northeast",
       "lat": 35.238889,
       "lng": -97.19546,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -8282,6 +9460,9 @@
       "name": "University of Central Oklahoma Tennis Courts",
       "lat": 35.660148,
       "lng": -97.470431,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -8301,6 +9482,9 @@
       "name": "Tennis Courts · East 310 Road",
       "lat": 36.567198,
       "lng": -94.854247,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8320,6 +9504,9 @@
       "name": "Tennis Courts · Lyrewood Lane",
       "lat": 35.538098,
       "lng": -97.63375,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -8339,6 +9526,9 @@
       "name": "Tennis Courts · East 310 Road",
       "lat": 36.568043,
       "lng": -94.852193,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -8358,6 +9548,9 @@
       "name": "Tennis Courts · South 567 Road",
       "lat": 36.579513,
       "lng": -94.858292,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8373,10 +9566,13 @@
       }
     },
     {
-      "id": "osm-w1526782643",
-      "name": "Union High School Tennis Courts",
-      "lat": 36.053234,
-      "lng": -95.869099,
+      "id": "osm-w1526560502",
+      "name": "Public Pickleball Courts",
+      "lat": 35.394566,
+      "lng": -97.430461,
+      "sports": [
+        "pickleball"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8388,7 +9584,29 @@
       "state": "OK",
       "source": "osm",
       "tags": {
-        "context": "school"
+        "context": "residential"
+      }
+    },
+    {
+      "id": "osm-w1526782643",
+      "name": "Public Tennis Courts",
+      "lat": 36.053234,
+      "lng": -95.869099,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "OK",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
       }
     },
     {
@@ -8396,6 +9614,9 @@
       "name": "Streich-Henry Tennis Complex",
       "lat": 34.603616,
       "lng": -98.436747,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -8413,6 +9634,9 @@
       "name": "Tennis Courts · East 49th Street South",
       "lat": 36.093763,
       "lng": -95.893077,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -8432,6 +9656,9 @@
       "name": "John Starks Park Tennis Courts",
       "lat": 36.179177,
       "lng": -95.997214,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8449,6 +9676,9 @@
       "name": "Tennis Courts · 6th Street",
       "lat": 34.988698,
       "lng": -99.250402,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8468,6 +9698,9 @@
       "name": "Fairview High School Tennis Courts",
       "lat": 36.271862,
       "lng": -98.475157,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -8487,6 +9720,9 @@
       "name": "Tennis Courts · East Willow Street",
       "lat": 36.262644,
       "lng": -98.478328,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -8504,9 +9740,12 @@
     {
       "id": "osm-w1552019653",
       "name": "Tulsa Tennis Club",
-      "lat": 36.121449,
-      "lng": -95.949812,
-      "courtCount": 1,
+      "lat": 36.121717,
+      "lng": -95.949899,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 7,
       "surface": "unknown",
       "lighted": null,
       "indoor": true,
@@ -8523,6 +9762,9 @@
       "name": "Tennis Courts · Ramblewood Terrace",
       "lat": 35.669336,
       "lng": -97.476913,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -8542,6 +9784,9 @@
       "name": "Tennis Courts · Rising Star Lane",
       "lat": 35.67261,
       "lng": -97.444734,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -8561,6 +9806,9 @@
       "name": "Tennis Courts · Elm Street",
       "lat": 35.48682,
       "lng": -97.171665,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -8574,11 +9822,221 @@
       "tags": {}
     },
     {
-      "id": "osm-r18630443",
-      "name": "Irving Middle School Tennis Courts",
-      "lat": 35.2133,
-      "lng": -97.407847,
-      "courtCount": 6,
+      "id": "osm-w1556811662",
+      "name": "Lions Park Tennis Courts",
+      "lat": 36.888332,
+      "lng": -97.056171,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "OK",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1556812547",
+      "name": "Meadowlake Tennis Courts",
+      "lat": 36.373441,
+      "lng": -97.891895,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "OK",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1556813290",
+      "name": "Page Park Tennis Courts",
+      "lat": 36.148421,
+      "lng": -96.112607,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 4,
+      "surface": "unknown",
+      "lighted": true,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "OK",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1556813502",
+      "name": "Public Tennis Courts",
+      "lat": 35.755865,
+      "lng": -96.649695,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": true,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "OK",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
+      "id": "osm-w1556814045",
+      "name": "Oscar Parker Tennis Court",
+      "lat": 34.772467,
+      "lng": -96.662433,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 4,
+      "surface": "unknown",
+      "lighted": true,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "OK",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1556814513",
+      "name": "Thirty-Fifth Division Park Tennis Courts",
+      "lat": 34.613442,
+      "lng": -98.396203,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 2,
+      "surface": "hard",
+      "lighted": false,
+      "indoor": null,
+      "access": "public",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "OK",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1556814994",
+      "name": "Wings of Freedom Park Tennis Courts",
+      "lat": 34.656996,
+      "lng": -99.284911,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": true,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "OK",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1556819635",
+      "name": "KickingBird Tennis",
+      "lat": 35.666379,
+      "lng": -97.459573,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 24,
+      "surface": "unknown",
+      "lighted": true,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "OK",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1556819865",
+      "name": "Public Tennis Courts",
+      "lat": 35.590458,
+      "lng": -97.659565,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": true,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "OK",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
+      "id": "osm-w1556820385",
+      "name": "Public Tennis Courts",
+      "lat": 35.589492,
+      "lng": -97.6236,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "OK",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
+      "id": "osm-w1556824750",
+      "name": "Southeast High School Tennis Courts",
+      "lat": 35.41201,
+      "lng": -97.510682,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -8590,6 +10048,300 @@
       "source": "osm",
       "tags": {
         "context": "school"
+      }
+    },
+    {
+      "id": "osm-w1556825213",
+      "name": "McCracken Park Tennis Courts",
+      "lat": 35.400435,
+      "lng": -97.502137,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": true,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "OK",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1556826717",
+      "name": "Public Tennis Courts",
+      "lat": 35.374871,
+      "lng": -97.525418,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "OK",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
+      "id": "osm-w1556826719",
+      "name": "Public Tennis Courts",
+      "lat": 35.373561,
+      "lng": -97.527105,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "OK",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
+      "id": "osm-w1556826720",
+      "name": "Public Tennis Courts",
+      "lat": 35.372842,
+      "lng": -97.528271,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "OK",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
+      "id": "osm-w1556826721",
+      "name": "Brookwood Park Tennis Courts",
+      "lat": 35.372499,
+      "lng": -97.525239,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "OK",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1556831474",
+      "name": "Lions Park Tennis Courts",
+      "lat": 35.213239,
+      "lng": -97.453691,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": true,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "OK",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1556833164",
+      "name": "Jimmie Austin Golf Club Tennis Courts",
+      "lat": 35.184409,
+      "lng": -97.425612,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": true,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "OK",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1556833329",
+      "name": "Public Tennis Courts",
+      "lat": 35.192119,
+      "lng": -97.397703,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": true,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "OK",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
+      "id": "osm-w1557479467",
+      "name": "Eastern Oklahoma State College Tennis Courts",
+      "lat": 34.91513,
+      "lng": -95.333026,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "OK",
+      "source": "osm",
+      "tags": {
+        "context": "school"
+      }
+    },
+    {
+      "id": "osm-w1557970350",
+      "name": "Collinsville City Park Tennis Courts",
+      "lat": 36.360755,
+      "lng": -95.845355,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 4,
+      "surface": "unknown",
+      "lighted": true,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "OK",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1557971333",
+      "name": "Maple Park Tennis Courts",
+      "lat": 35.961733,
+      "lng": -95.364458,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": true,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "OK",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1557974500",
+      "name": "Muskogee High School Tennis Courts",
+      "lat": 35.772916,
+      "lng": -95.331865,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 8,
+      "surface": "unknown",
+      "lighted": false,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "OK",
+      "source": "osm",
+      "tags": {
+        "context": "school"
+      }
+    },
+    {
+      "id": "osm-w1558185512",
+      "name": "Manion Park Tennis Courts",
+      "lat": 36.084027,
+      "lng": -95.945339,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 4,
+      "surface": "unknown",
+      "lighted": true,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "OK",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1558185833",
+      "name": "Public Tennis Courts",
+      "lat": 36.058183,
+      "lng": -95.889826,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": true,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "OK",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
       }
     }
   ]

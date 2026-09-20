@@ -6,7 +6,10 @@
       "id": "osm-w96731308",
       "name": "Lockey Park Tennis Courts",
       "lat": 46.584421,
-      "lng": -112.010672,
+      "lng": -112.010673,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -24,6 +27,9 @@
       "name": "Hardin High School Tennis Courts",
       "lat": 45.73535,
       "lng": -107.620872,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -43,6 +49,9 @@
       "name": "Hardin High School Tennis Courts",
       "lat": 45.73596,
       "lng": -107.61661,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": true,
@@ -62,6 +71,9 @@
       "name": "Father Sheehan Park Tennis Courts",
       "lat": 45.982387,
       "lng": -112.50361,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -79,6 +91,9 @@
       "name": "Bonner Park Tennis Courts",
       "lat": 46.855654,
       "lng": -113.993796,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -96,6 +111,9 @@
       "name": "Spartan Park Tennis Courts",
       "lat": 46.843768,
       "lng": -114.008988,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 12,
       "surface": "unknown",
       "lighted": null,
@@ -113,6 +131,9 @@
       "name": "Tennis Courts · South Michigan Street",
       "lat": 48.173344,
       "lng": -111.954059,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -130,6 +151,9 @@
       "name": "Tennis Courts · North Wisconsin Street",
       "lat": 48.180471,
       "lng": -111.947329,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -149,6 +173,9 @@
       "name": "Pioneer Park Tennis Courts",
       "lat": 45.788495,
       "lng": -108.523648,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -166,6 +193,9 @@
       "name": "Pioneer Park Tennis Courts",
       "lat": 45.787068,
       "lng": -108.523585,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -183,6 +213,9 @@
       "name": "Aronow Park Tennis Courts",
       "lat": 48.513819,
       "lng": -111.860006,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -200,6 +233,9 @@
       "name": "Perham Field Tennis Courts",
       "lat": 47.114895,
       "lng": -104.706916,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -217,24 +253,10 @@
       "name": "Castle Rock Park Tennis Courts",
       "lat": 45.8257,
       "lng": -108.501408,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "MT",
-      "source": "osm",
-      "tags": {}
-    },
-    {
-      "id": "osm-w192335622",
-      "name": "West Glendive Park Tennis Courts",
-      "lat": 47.106193,
-      "lng": -104.755332,
-      "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -249,9 +271,13 @@
     {
       "id": "osm-w192542447",
       "name": "Fergus High School Tennis Courts",
-      "lat": 47.052645,
-      "lng": -109.422182,
-      "courtCount": 8,
+      "lat": 47.052689,
+      "lng": -109.422157,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 10,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -270,6 +296,9 @@
       "name": "Montana State University - Northern Tennis Courts",
       "lat": 48.540576,
       "lng": -109.689753,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -289,23 +318,9 @@
       "name": "Elmer Carpenter Park Tennis Courts",
       "lat": 48.549555,
       "lng": -109.666587,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": null,
-      "state": "MT",
-      "source": "osm",
-      "tags": {}
-    },
-    {
-      "id": "osm-w218154555",
-      "name": "Billings West High School Tennis Courts",
-      "lat": 45.772625,
-      "lng": -108.56952,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -323,6 +338,9 @@
       "name": "Public Tennis Courts",
       "lat": 45.228116,
       "lng": -111.253732,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -342,6 +360,9 @@
       "name": "Tennis Courts · Crail Ranch Trail",
       "lat": 45.271739,
       "lng": -111.294108,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -359,6 +380,9 @@
       "name": "Tennis Courts · West Fulton Avenue",
       "lat": 45.860999,
       "lng": -111.329264,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -376,6 +400,9 @@
       "name": "Bozeman High School Tennis Courts",
       "lat": 45.683429,
       "lng": -111.053507,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 10,
       "surface": "unknown",
       "lighted": null,
@@ -395,6 +422,9 @@
       "name": "Centennial Park Tennis Courts",
       "lat": 45.214432,
       "lng": -112.625948,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -412,6 +442,9 @@
       "name": "Jaycee Park Tennis Courts",
       "lat": 45.21512,
       "lng": -112.637778,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -429,6 +462,9 @@
       "name": "McCarthy Park Tennis Courts",
       "lat": 46.321984,
       "lng": -111.50995,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -446,6 +482,9 @@
       "name": "Field School Park Tennis Courts",
       "lat": 45.188586,
       "lng": -109.249343,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -463,6 +502,9 @@
       "name": "Sacajawea Park Tennis Courts",
       "lat": 45.654032,
       "lng": -110.55909,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -480,6 +522,9 @@
       "name": "Thompson Field Park Tennis Courts",
       "lat": 48.190993,
       "lng": -114.299727,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -497,6 +542,9 @@
       "name": "Kiwanis Park Tennis Courts",
       "lat": 46.867586,
       "lng": -113.991187,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "clay",
       "lighted": true,
@@ -514,6 +562,9 @@
       "name": "Virginia City Park Tennis Courts",
       "lat": 45.29301,
       "lng": -111.938866,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -531,6 +582,9 @@
       "name": "Rose Park Tennis Courts",
       "lat": 45.785899,
       "lng": -108.571186,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -548,6 +602,9 @@
       "name": "Forsyth Middle School Tennis Courts",
       "lat": 46.271973,
       "lng": -106.66909,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -567,6 +624,9 @@
       "name": "Murn Park Tennis Courts",
       "lat": 46.789704,
       "lng": -105.308748,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -584,6 +644,9 @@
       "name": "Tennis Courts · West 4th Avenue",
       "lat": 46.234077,
       "lng": -112.121442,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -599,9 +662,13 @@
     {
       "id": "osm-w335480863",
       "name": "Westview Tennis Courts",
-      "lat": 46.245944,
-      "lng": -114.169593,
-      "courtCount": 5,
+      "lat": 46.245958,
+      "lng": -114.169325,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 9,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -618,6 +685,9 @@
       "name": "Lions Club Park Tennis Courts",
       "lat": 45.829489,
       "lng": -109.946741,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -635,6 +705,9 @@
       "name": "Southside Park Tennis Courts",
       "lat": 45.671633,
       "lng": -111.043521,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -652,6 +725,9 @@
       "name": "Tennis Courts · West Division Street",
       "lat": 47.810602,
       "lng": -112.183505,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "hard",
       "lighted": null,
@@ -669,6 +745,9 @@
       "name": "Hoyt Park Tennis Courts",
       "lat": 48.191042,
       "lng": -106.633814,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -686,6 +765,9 @@
       "name": "Engel Memorial Park Tennis Courts",
       "lat": 48.881003,
       "lng": -111.908986,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -703,6 +785,9 @@
       "name": "Tennis Courts · School Drive",
       "lat": 48.50903,
       "lng": -110.962843,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -722,6 +807,9 @@
       "name": "Kay McKenna Park Tennis Courts",
       "lat": 46.594689,
       "lng": -112.039756,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -736,9 +824,12 @@
     },
     {
       "id": "osm-w366020665",
-      "name": "Trapper Creek Job Corps Center Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 45.904643,
       "lng": -114.177547,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -750,25 +841,6 @@
       "state": "MT",
       "source": "osm",
       "tags": {
-        "context": "school"
-      }
-    },
-    {
-      "id": "osm-w369241883",
-      "name": "Public Tennis Courts",
-      "lat": 45.881039,
-      "lng": -114.208667,
-      "courtCount": 1,
-      "surface": "unknown",
-      "lighted": null,
-      "indoor": null,
-      "access": "unknown",
-      "fee": null,
-      "address": null,
-      "city": "Ravalli County",
-      "state": "MT",
-      "source": "osm",
-      "tags": {
         "context": "residential"
       }
     },
@@ -777,6 +849,9 @@
       "name": "tennis",
       "lat": 46.638471,
       "lng": -114.083804,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -794,6 +869,9 @@
       "name": "Ralph Serrett Soccer Complex Tennis Courts",
       "lat": 46.50537,
       "lng": -114.080854,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -811,6 +889,9 @@
       "name": "West Elementary School Tennis Courts",
       "lat": 46.006301,
       "lng": -112.550083,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -830,6 +911,9 @@
       "name": "Columbus High School Tennis Courts",
       "lat": 45.641845,
       "lng": -109.25677,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -849,6 +933,9 @@
       "name": "West Side Kiwanis Park Tennis Courts",
       "lat": 47.509114,
       "lng": -111.32427,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -866,6 +953,9 @@
       "name": "Tennis Courts · 14th Avenue Northwest",
       "lat": 47.519335,
       "lng": -111.315424,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -879,10 +969,33 @@
       "tags": {}
     },
     {
+      "id": "osm-w408332558",
+      "name": "Bogert Park Pickleball Courts",
+      "lat": 45.676673,
+      "lng": -111.030669,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "MT",
+      "source": "osm",
+      "tags": {}
+    },
+    {
       "id": "osm-w411568550",
       "name": "Lillis Park Tennis Courts",
       "lat": 45.779074,
       "lng": -108.585625,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -898,9 +1011,13 @@
     {
       "id": "osm-w416468345",
       "name": "Fort Missoula Regional Park Tennis Courts",
-      "lat": 46.844753,
+      "lat": 46.844575,
       "lng": -114.051866,
-      "courtCount": 8,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 14,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -917,6 +1034,9 @@
       "name": "Tennis Courts · Willow Street",
       "lat": 45.5181,
       "lng": -109.449989,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -936,6 +1056,9 @@
       "name": "Tennis Courts · West Swift Creek Way",
       "lat": 48.275497,
       "lng": -114.340179,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -955,6 +1078,9 @@
       "name": "Castlerock Apartments Tennis Courts",
       "lat": 45.82659,
       "lng": -108.503839,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": true,
@@ -965,13 +1091,18 @@
       "city": null,
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w499513582",
       "name": "Tennis Courts · Eddy Avenue",
       "lat": 46.861826,
       "lng": -113.983874,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -991,6 +1122,9 @@
       "name": "Tennis Courts · Coolidge Street Northwest",
       "lat": 47.532082,
       "lng": -114.100317,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -1008,6 +1142,9 @@
       "name": "Northridge Park Tennis Courts",
       "lat": 48.21992,
       "lng": -114.333923,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1025,6 +1162,9 @@
       "name": "Hawthorne Park Tennis Courts",
       "lat": 48.209127,
       "lng": -114.335244,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1042,6 +1182,9 @@
       "name": "Borge Park Tennis Courts",
       "lat": 48.102647,
       "lng": -105.64841,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1056,9 +1199,12 @@
     },
     {
       "id": "osm-w500021140",
-      "name": "Obert Rye Park Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 45.883522,
       "lng": -106.626138,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1069,13 +1215,18 @@
       "city": null,
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w500980469",
       "name": "Saint Ignatius Schools Tennis Courts",
       "lat": 47.318305,
       "lng": -114.088639,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1095,6 +1246,9 @@
       "name": "Tennis Courts · Mission Drive",
       "lat": 47.315612,
       "lng": -114.102839,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1114,6 +1268,9 @@
       "name": "Mineral County Fairgrounds Tennis Courts",
       "lat": 47.189742,
       "lng": -114.880425,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -1131,6 +1288,9 @@
       "name": "Tennis Courts · De Lacy Avenue",
       "lat": 44.666899,
       "lng": -111.105091,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1150,7 +1310,30 @@
       "name": "Burke Park Tennis Courts",
       "lat": 45.659595,
       "lng": -111.028676,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "MT",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w558097404",
+      "name": "Kirk Park Pickleball Courts",
+      "lat": 45.681746,
+      "lng": -111.065906,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -1167,6 +1350,9 @@
       "name": "Tennis Courts · Spring Creek Drive",
       "lat": 45.659307,
       "lng": -111.03602,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1186,6 +1372,9 @@
       "name": "Tennis Courts · Mennonite Church Road",
       "lat": 45.539884,
       "lng": -106.958661,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1202,9 +1391,12 @@
     },
     {
       "id": "osm-w606114346",
-      "name": "Fairmont Golf Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 46.042645,
       "lng": -112.810621,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1215,13 +1407,18 @@
       "city": null,
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w611579551",
       "name": "South Park Tennis Courts",
       "lat": 45.773966,
       "lng": -108.500968,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1239,6 +1436,9 @@
       "name": "Public Tennis Courts",
       "lat": 47.707062,
       "lng": -114.183927,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1258,6 +1458,9 @@
       "name": "Tennis Courts · Rimrock Road",
       "lat": 45.798076,
       "lng": -108.570797,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1277,6 +1480,9 @@
       "name": "Rocky Village Park Tennis Courts",
       "lat": 45.792765,
       "lng": -108.554526,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": null,
@@ -1294,6 +1500,9 @@
       "name": "Mountain View Park Tennis Courts",
       "lat": 46.581992,
       "lng": -111.946612,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1311,6 +1520,9 @@
       "name": "Pineview Park Tennis Courts",
       "lat": 46.892228,
       "lng": -113.970421,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -1328,6 +1540,9 @@
       "name": "Eva Horning Park Tennis Courts",
       "lat": 47.19077,
       "lng": -114.885846,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1345,6 +1560,9 @@
       "name": "Tennis Court",
       "lat": 45.796907,
       "lng": -108.519533,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1362,6 +1580,9 @@
       "name": "Public Tennis Courts",
       "lat": 45.16147,
       "lng": -109.267047,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1381,6 +1602,9 @@
       "name": "Tennis Courts · East Side Road",
       "lat": 45.115961,
       "lng": -109.298819,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1398,6 +1622,9 @@
       "name": "Tennis Courts · Bannock Circle",
       "lat": 45.164709,
       "lng": -109.270071,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1417,6 +1644,9 @@
       "name": "Tennis Courts · South 22nd Street West",
       "lat": 45.758041,
       "lng": -108.572086,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1436,6 +1666,9 @@
       "name": "McLeod Park Tennis Courts",
       "lat": 45.641869,
       "lng": -111.040978,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1453,6 +1686,9 @@
       "name": "Marilyn Park Tennis Courts",
       "lat": 46.816171,
       "lng": -114.061116,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1470,6 +1706,9 @@
       "name": "Missoula Country Club Tennis Courts",
       "lat": 46.833836,
       "lng": -114.050762,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1487,6 +1726,9 @@
       "name": "Linderman School Tennis Courts",
       "lat": 47.690659,
       "lng": -114.158226,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -1506,6 +1748,9 @@
       "name": "Tennis Courts · Skyranch Drive",
       "lat": 45.803719,
       "lng": -108.571024,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1524,7 +1769,10 @@
       "id": "osm-w837404016",
       "name": "Sunrise Park Tennis Courts",
       "lat": 47.495435,
-      "lng": -111.237588,
+      "lng": -111.237587,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1542,6 +1790,9 @@
       "name": "Central Park Tennis Courts",
       "lat": 45.771275,
       "lng": -108.539078,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1559,6 +1810,9 @@
       "name": "Tennis Courts · Culdesac",
       "lat": 45.796136,
       "lng": -108.569875,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1578,6 +1832,9 @@
       "name": "Seeley Lake Public Schools Tennis Courts",
       "lat": 47.177142,
       "lng": -113.476381,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1597,6 +1854,9 @@
       "name": "Tennis Courts · US 12",
       "lat": 46.597766,
       "lng": -112.107461,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1616,6 +1876,9 @@
       "name": "North Park Tennis Courts",
       "lat": 45.791084,
       "lng": -108.503332,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1633,6 +1896,9 @@
       "name": "Casa Village Tennis Courts",
       "lat": 45.760995,
       "lng": -108.580799,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1643,13 +1909,18 @@
       "city": null,
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w847720647",
       "name": "Public Tennis Courts",
       "lat": 45.242813,
       "lng": -111.406364,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1669,6 +1940,9 @@
       "name": "Cherry Creek Community Tennis Courts",
       "lat": 45.824247,
       "lng": -108.436924,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1679,13 +1953,18 @@
       "city": null,
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w852140169",
       "name": "Kiwanis Park Tennis Courts",
       "lat": 47.511452,
       "lng": -111.267306,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1703,6 +1982,9 @@
       "name": "Public Tennis Courts",
       "lat": 46.826975,
       "lng": -111.189107,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1722,6 +2004,9 @@
       "name": "Spring Creek Estates Tennis Courts",
       "lat": 48.210832,
       "lng": -114.361242,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1732,13 +2017,18 @@
       "city": null,
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w881759847",
       "name": "Charles Russell Park Tennis Courts",
       "lat": 47.487091,
       "lng": -111.249605,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1756,6 +2046,9 @@
       "name": "Tennis Courts · West Broadway Street",
       "lat": 46.012905,
       "lng": -112.547333,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1775,6 +2068,9 @@
       "name": "Tennis Courts · Parkway Drive",
       "lat": 47.001953,
       "lng": -114.475003,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1792,9 +2088,13 @@
     {
       "id": "osm-w909449329",
       "name": "Montana Athletic Club Tennis Courts",
-      "lat": 48.075675,
-      "lng": -114.110992,
-      "courtCount": 4,
+      "lat": 48.07562,
+      "lng": -114.110937,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -1809,8 +2109,11 @@
     {
       "id": "osm-w926478489",
       "name": "Tennis Courts · 14th Street East",
-      "lat": 48.185522,
+      "lat": 48.185523,
       "lng": -114.30529,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1830,6 +2133,9 @@
       "name": "Tennis Courts · West Swan Shores Road",
       "lat": 47.983704,
       "lng": -113.932137,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1849,6 +2155,9 @@
       "name": "Libby High School Tennis Courts",
       "lat": 48.392505,
       "lng": -115.574556,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -1868,6 +2177,9 @@
       "name": "Lodge Grass Schools Tennis Courts",
       "lat": 45.317519,
       "lng": -107.371973,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1887,6 +2199,9 @@
       "name": "Old Track Tennis Courts",
       "lat": 48.103872,
       "lng": -114.662364,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1904,6 +2219,9 @@
       "name": "Anderson School Tennis Courts",
       "lat": 45.599509,
       "lng": -111.103497,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1923,6 +2241,9 @@
       "name": "Tennis Courts · East Spruce Street",
       "lat": 48.384706,
       "lng": -115.545236,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -1940,6 +2261,9 @@
       "name": "Mission Bay Preserve Tennis Courts",
       "lat": 47.695583,
       "lng": -114.114442,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1950,13 +2274,18 @@
       "city": null,
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1074085886",
       "name": "Ben Williams Park Tennis Courts",
       "lat": 48.013308,
       "lng": -114.229319,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1974,6 +2303,9 @@
       "name": "Tennis Courts · Dearborn Canyon Road",
       "lat": 47.272156,
       "lng": -112.513722,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1993,6 +2325,9 @@
       "name": "Tennis Courts · Lake Hills Drive",
       "lat": 48.174491,
       "lng": -114.373378,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2012,6 +2347,9 @@
       "name": "Tennis Courts · Starner Lane",
       "lat": 45.823117,
       "lng": -108.477527,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2031,6 +2369,9 @@
       "name": "Castner Park Tennis Courts",
       "lat": 47.383693,
       "lng": -110.924666,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2048,6 +2389,9 @@
       "name": "Tennis Courts · Main Street",
       "lat": 45.891748,
       "lng": -104.546405,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2067,6 +2411,9 @@
       "name": "Linderman Education Center Tennis Courts",
       "lat": 48.198108,
       "lng": -114.309961,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "clay",
       "lighted": null,
@@ -2085,7 +2432,10 @@
       "id": "osm-w1210878185",
       "name": "Tennis Courts · Burning Tree Lane",
       "lat": 45.973598,
-      "lng": -112.496979,
+      "lng": -112.49698,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": null,
@@ -2105,6 +2455,9 @@
       "name": "Highland View Par-3 Course Tennis Courts",
       "lat": 45.978944,
       "lng": -112.524685,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2122,6 +2475,9 @@
       "name": "Power Public Schools Tennis Courts",
       "lat": 47.716366,
       "lng": -111.689603,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2138,9 +2494,12 @@
     },
     {
       "id": "osm-w1257463799",
-      "name": "Elementary Courts Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 47.817914,
       "lng": -110.672569,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "hard",
       "lighted": false,
@@ -2151,13 +2510,18 @@
       "city": null,
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1267845522",
       "name": "Field Road Tennis Courts",
       "lat": 48.178986,
       "lng": -111.950119,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -2175,6 +2539,9 @@
       "name": "Tennis Courts · Harrison Street",
       "lat": 45.699676,
       "lng": -111.784696,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2194,6 +2561,9 @@
       "name": "Tennis Courts · Georganna Drive",
       "lat": 46.906127,
       "lng": -113.94906,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2213,6 +2583,9 @@
       "name": "Tennis Courts · Grundy Lane",
       "lat": 46.23344,
       "lng": -114.144034,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2232,6 +2605,9 @@
       "name": "Tennis Courts · Daly Mansion Road",
       "lat": 46.266062,
       "lng": -114.142887,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2249,9 +2625,13 @@
     {
       "id": "osm-w1321634307",
       "name": "Tennis Courts · Buckhouse Lane",
-      "lat": 46.825659,
-      "lng": -114.078957,
-      "courtCount": 2,
+      "lat": 46.825526,
+      "lng": -114.079085,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -2261,15 +2641,16 @@
       "city": "Missoula County",
       "state": "MT",
       "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1321634893",
       "name": "Tennis Courts · Evergreen Road",
       "lat": 46.825014,
       "lng": -114.081548,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2289,6 +2670,9 @@
       "name": "Tennis Courts · North Woodchuck Creek Road",
       "lat": 46.67391,
       "lng": -114.016144,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2305,9 +2689,12 @@
     },
     {
       "id": "osm-w1328900270",
-      "name": "Stock Farm Club Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 46.256719,
       "lng": -114.055298,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -2325,6 +2712,9 @@
       "name": "Tennis Courts · Arrow Hill Drive",
       "lat": 46.210453,
       "lng": -114.099785,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2344,6 +2734,9 @@
       "name": "Tennis Courts · Alvista Loop",
       "lat": 46.293698,
       "lng": -114.220865,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2363,6 +2756,9 @@
       "name": "Tennis Courts · Steller Way",
       "lat": 46.32832,
       "lng": -114.198964,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2382,6 +2778,9 @@
       "name": "Miles City Tennis Courts",
       "lat": 46.40347,
       "lng": -105.856987,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "hard",
       "lighted": null,
@@ -2399,6 +2798,9 @@
       "name": "Tennis Courts · East Jefferson Street",
       "lat": 46.545967,
       "lng": -110.898924,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2414,10 +2816,35 @@
       }
     },
     {
+      "id": "osm-w1340465488",
+      "name": "Public Pickleball Courts",
+      "lat": 46.140578,
+      "lng": -114.163834,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "MT",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
       "id": "osm-w1346058578",
       "name": "Tennis Courts · Spring Lane",
       "lat": 47.790292,
       "lng": -114.327081,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2433,10 +2860,33 @@
       }
     },
     {
+      "id": "osm-w1346972750",
+      "name": "Public Pickleball Courts",
+      "lat": 47.691838,
+      "lng": -114.121045,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 3,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "MT",
+      "source": "osm",
+      "tags": {}
+    },
+    {
       "id": "osm-w1348654326",
       "name": "Tennis Courts · West 9th Street",
       "lat": 48.401378,
       "lng": -114.346073,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2453,9 +2903,12 @@
     },
     {
       "id": "osm-w1349356455",
-      "name": "Whitefish Lake Golf Club - South Course Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 48.405186,
-      "lng": -114.358527,
+      "lng": -114.358528,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2466,13 +2919,18 @@
       "city": null,
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1350128931",
       "name": "Tennis Courts · Glenwood Road",
       "lat": 48.426648,
       "lng": -114.347875,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2491,7 +2949,10 @@
       "id": "osm-w1358677690",
       "name": "Veterans Memorial Park Tennis Courts",
       "lat": 46.126103,
-      "lng": -107.550923,
+      "lng": -107.550924,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2509,6 +2970,9 @@
       "name": "Tennis Courts · Big Arm Road",
       "lat": 47.799349,
       "lng": -114.295179,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2528,6 +2992,9 @@
       "name": "Tennis Courts · Spring Ridge Drive",
       "lat": 45.643788,
       "lng": -111.055224,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2547,6 +3014,9 @@
       "name": "Tennis Courts · Heavens Gate",
       "lat": 46.825054,
       "lng": -114.014357,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2562,10 +3032,55 @@
       }
     },
     {
+      "id": "osm-w1415491305",
+      "name": "Quail Meadows Pickleball Courts",
+      "lat": 48.275114,
+      "lng": -114.326167,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "MT",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
+      "id": "osm-w1430404937",
+      "name": "O'Malley Park Pickleball Courts",
+      "lat": 47.687332,
+      "lng": -114.1584,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "MT",
+      "source": "osm",
+      "tags": {}
+    },
+    {
       "id": "osm-w1432378177",
       "name": "Tennis Courts · 8th Street West",
       "lat": 48.588555,
       "lng": -109.23571,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2585,6 +3100,9 @@
       "name": "Tennis Courts · 10th Street Southeast",
       "lat": 47.705672,
       "lng": -104.159998,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -2600,9 +3118,13 @@
     {
       "id": "osm-w1437033952",
       "name": "Tennis Courts · Springhill Road",
-      "lat": 45.728527,
-      "lng": -111.067458,
-      "courtCount": 7,
+      "lat": 45.728687,
+      "lng": -111.067498,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 11,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -2619,6 +3141,9 @@
       "name": "Gallatin High School Tennis Courts",
       "lat": 45.690007,
       "lng": -111.102882,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -2638,6 +3163,9 @@
       "name": "Lewis and Clark Park Tennis Courts",
       "lat": 45.774798,
       "lng": -111.172027,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2655,6 +3183,9 @@
       "name": "Tennis Courts · Spooner Road",
       "lat": 45.789592,
       "lng": -111.179766,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -2672,6 +3203,9 @@
       "name": "Tennis Courts · Brackett Creek Road",
       "lat": 45.87821,
       "lng": -110.622047,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2691,6 +3225,9 @@
       "name": "View Vista Village Tennis Courts",
       "lat": 45.659684,
       "lng": -110.551685,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2701,13 +3238,40 @@
       "city": null,
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
+      "id": "osm-w1446191716",
+      "name": "Public Pickleball Courts",
+      "lat": 46.402753,
+      "lng": -112.728758,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "MT",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1448040407",
       "name": "Jaycee West Park Tennis Courts",
       "lat": 47.10795,
       "lng": -104.724457,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -2725,6 +3289,9 @@
       "name": "BHS Tennis Courts",
       "lat": 46.354328,
       "lng": -104.278821,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -2742,6 +3309,9 @@
       "name": "Circle Park Tennis Courts",
       "lat": 47.412329,
       "lng": -105.585214,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2758,7 +3328,10 @@
       "id": "osm-w1448291532",
       "name": "Elks Park Tennis Courts",
       "lat": 48.536122,
-      "lng": -109.671531,
+      "lng": -109.67153,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -2776,6 +3349,9 @@
       "name": "Big Sandy High School Tennis Courts",
       "lat": 48.179868,
       "lng": -110.115703,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2795,6 +3371,9 @@
       "name": "Symmes Park Tennis Courts",
       "lat": 47.071347,
       "lng": -109.415075,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2812,6 +3391,9 @@
       "name": "Roundup City Park Tennis Courts",
       "lat": 46.449389,
       "lng": -108.537539,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2825,10 +3407,35 @@
       "tags": {}
     },
     {
+      "id": "osm-w1448356318",
+      "name": "Public Pickleball Courts",
+      "lat": 46.411477,
+      "lng": -105.821716,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "MT",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
       "id": "osm-w1450421239",
       "name": "Montana Park Tennis Courts",
       "lat": 47.486453,
       "lng": -111.328976,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -2846,6 +3453,9 @@
       "name": "Tennis Courts · Park Street",
       "lat": 46.267904,
       "lng": -106.682511,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2865,6 +3475,9 @@
       "name": "Tennis Courts · State Highway 69",
       "lat": 46.232822,
       "lng": -112.11943,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2884,6 +3497,9 @@
       "name": "Prickly Pear Elementary School Tennis Courts",
       "lat": 46.597115,
       "lng": -111.916051,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -2903,6 +3519,9 @@
       "name": "Gibson Park Tennis Courts",
       "lat": 47.513919,
       "lng": -111.302192,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -2918,9 +3537,13 @@
     {
       "id": "osm-w1452395986",
       "name": "Tennis Courts · Water Street",
-      "lat": 45.456317,
-      "lng": -112.205352,
-      "courtCount": 1,
+      "lat": 45.4563,
+      "lng": -112.205483,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -2930,16 +3553,18 @@
       "city": "Sheridan",
       "state": "MT",
       "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
+      "tags": {}
     },
     {
-      "id": "osm-w1452397125",
+      "id": "osm-w1452397122",
       "name": "Philipsburg Town Park Tennis Courts",
-      "lat": 46.322654,
-      "lng": -113.297452,
-      "courtCount": 2,
+      "lat": 46.322571,
+      "lng": -113.297184,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -2956,6 +3581,9 @@
       "name": "Tennis Courts · 4th Street Northwest",
       "lat": 47.276054,
       "lng": -111.703529,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2973,9 +3601,13 @@
     {
       "id": "osm-w1452668550",
       "name": "Lions Park Tennis Courts",
-      "lat": 47.495461,
-      "lng": -111.260312,
-      "courtCount": 2,
+      "lat": 47.49546,
+      "lng": -111.260264,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -2992,6 +3624,9 @@
       "name": "Meadow Lark Country Club Tennis Courts",
       "lat": 47.491867,
       "lng": -111.319783,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -3009,6 +3644,9 @@
       "name": "Tennis Courts · Tongue River Road",
       "lat": 45.604103,
       "lng": -106.279654,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3028,6 +3666,9 @@
       "name": "Anna Jeffries Elementary School Tennis Courts",
       "lat": 48.642034,
       "lng": -112.330711,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -3047,6 +3688,9 @@
       "name": "Tennis Courts · 1st Street Northwest",
       "lat": 47.810328,
       "lng": -112.192414,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -3064,7 +3708,30 @@
       "name": "Fairfield Tennis Courts",
       "lat": 47.616349,
       "lng": -111.979146,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "MT",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1453422808",
+      "name": "Jaycee Park Pickleball Courts",
+      "lat": 47.527345,
+      "lng": -111.309129,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -3081,6 +3748,9 @@
       "name": "Riverside Park Tennis Courts",
       "lat": 48.407373,
       "lng": -114.339161,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -3098,6 +3768,9 @@
       "name": "Skyview High School Tennis Courts",
       "lat": 45.829177,
       "lng": -108.51567,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -3115,9 +3788,13 @@
     {
       "id": "osm-w1453595865",
       "name": "Yellowstone Country Club Tennis Courts",
-      "lat": 45.807895,
-      "lng": -108.659958,
-      "courtCount": 4,
+      "lat": 45.807811,
+      "lng": -108.660198,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -3134,6 +3811,9 @@
       "name": "Grouse Mountain Park Tennis Courts",
       "lat": 48.41016,
       "lng": -114.361093,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -3151,6 +3831,9 @@
       "name": "Flathead Valley Community College Tennis Courts",
       "lat": 48.226992,
       "lng": -114.321491,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 12,
       "surface": "unknown",
       "lighted": null,
@@ -3170,6 +3853,9 @@
       "name": "Buffalo Hill Golf Course Tennis Courts",
       "lat": 48.220588,
       "lng": -114.312105,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3187,6 +3873,9 @@
       "name": "Ambrose Creek Community Park Tennis Courts",
       "lat": 46.56149,
       "lng": -113.993785,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3204,6 +3893,9 @@
       "name": "Tennis Courts · Chaffin Lane",
       "lat": 46.316699,
       "lng": -114.118116,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -3221,7 +3913,11 @@
       "name": "Darby School District Tennis Courts",
       "lat": 46.026517,
       "lng": -114.180059,
-      "courtCount": 2,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -3240,6 +3936,9 @@
       "name": "Darby School District Tennis Courts",
       "lat": 46.028548,
       "lng": -114.180994,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -3259,6 +3958,9 @@
       "name": "Troy City Park Tennis Courts",
       "lat": 48.46129,
       "lng": -115.891404,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -3276,6 +3978,9 @@
       "name": "Sgt. Don Gregory Park Tennis Courts",
       "lat": 46.871306,
       "lng": -113.980938,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3293,6 +3998,9 @@
       "name": "Noxon Public Schools Tennis Courts",
       "lat": 47.993429,
       "lng": -115.775318,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "hard",
       "lighted": true,
@@ -3312,6 +4020,9 @@
       "name": "Tennis Courts · 13th Street West",
       "lat": 48.367485,
       "lng": -114.19143,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -3329,6 +4040,9 @@
       "name": "Tennis Courts · Chouteau Avenue",
       "lat": 48.304737,
       "lng": -112.251818,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3348,6 +4062,9 @@
       "name": "Tennis Courts · 1st Street",
       "lat": 46.102845,
       "lng": -108.877088,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3367,6 +4084,9 @@
       "name": "Tennis Courts · Old Pond Road",
       "lat": 46.894709,
       "lng": -113.971244,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3382,12 +4102,15 @@
       }
     },
     {
-      "id": "osm-w1528327331",
-      "name": "Geraldine Public Courts Tennis Courts",
-      "lat": 47.60289,
-      "lng": -110.27152,
-      "courtCount": 2,
-      "surface": "hard",
+      "id": "osm-w1526900245",
+      "name": "Memorial Park Pickleball Courts",
+      "lat": 48.409526,
+      "lng": -114.327325,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 4,
+      "surface": "unknown",
       "lighted": null,
       "indoor": null,
       "access": "unknown",
@@ -3399,11 +4122,37 @@
       "tags": {}
     },
     {
+      "id": "osm-w1528327331",
+      "name": "Geraldine Public Schools Tennis Courts",
+      "lat": 47.60289,
+      "lng": -110.27152,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 2,
+      "surface": "hard",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "MT",
+      "source": "osm",
+      "tags": {
+        "context": "school"
+      }
+    },
+    {
       "id": "osm-w1528914956",
       "name": "Tennis Courts · Sourdough Ridge Road",
-      "lat": 45.648015,
-      "lng": -111.024023,
-      "courtCount": 1,
+      "lat": 45.648076,
+      "lng": -111.023982,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -3422,6 +4171,9 @@
       "name": "Tennis Courts · Willow Boulevard",
       "lat": 45.724878,
       "lng": -111.141472,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3441,6 +4193,9 @@
       "name": "Tennis Courts · Elizabeth Warren Avenue",
       "lat": 45.97081,
       "lng": -112.486102,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -3458,8 +4213,11 @@
     {
       "id": "osm-w1528915411",
       "name": "Washoe Park Tennis Courts",
-      "lat": 46.134066,
+      "lat": 46.134065,
       "lng": -112.964964,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -3475,9 +4233,13 @@
     {
       "id": "osm-w1528915545",
       "name": "West Valley Courts Tennis Courts",
-      "lat": 46.153489,
+      "lat": 46.15349,
       "lng": -113.020197,
-      "courtCount": 2,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -3494,7 +4256,11 @@
       "name": "Barney Park Tennis Courts",
       "lat": 46.607746,
       "lng": -112.04879,
-      "courtCount": 4,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 12,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -3511,6 +4277,9 @@
       "name": "Capital High School Tennis Courts",
       "lat": 46.615204,
       "lng": -112.047205,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -3530,6 +4299,9 @@
       "name": "Callows Island Tennis Courts",
       "lat": 48.253827,
       "lng": -115.852454,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3540,13 +4312,18 @@
       "city": null,
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1528917535",
       "name": "Tennis Courts · Georgia Road",
       "lat": 47.781231,
       "lng": -114.080118,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3566,6 +4343,9 @@
       "name": "Tennis Courts · Big Fork Stage Road",
       "lat": 48.065203,
       "lng": -114.071487,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -3583,6 +4363,9 @@
       "name": "Mountain Villa Apartments Tennis Courts",
       "lat": 48.241402,
       "lng": -114.331822,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3593,13 +4376,18 @@
       "city": null,
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1531764443",
       "name": "Public Tennis Courts",
       "lat": 46.900965,
       "lng": -114.037691,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3619,6 +4407,9 @@
       "name": "Zimmerman Luxury Apartments Tennis Courts",
       "lat": 45.789065,
       "lng": -108.605515,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3629,13 +4420,18 @@
       "city": null,
       "state": "MT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1536079708",
       "name": "Tennis Courts · Darrell Waltrip Way",
       "lat": 45.833436,
       "lng": -108.45895,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3654,7 +4450,10 @@
       "id": "osm-w1539785553",
       "name": "Tennis Courts · Highway 47",
       "lat": 45.750268,
-      "lng": -107.611253,
+      "lng": -107.611252,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3670,10 +4469,33 @@
       }
     },
     {
+      "id": "osm-w1543315163",
+      "name": "Montana Rail Link Park Pickleball Courts",
+      "lat": 46.84998,
+      "lng": -114.027214,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "MT",
+      "source": "osm",
+      "tags": {}
+    },
+    {
       "id": "osm-w1552459194",
       "name": "Tennis Courts · Main Street",
       "lat": 45.824799,
       "lng": -111.645281,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3693,6 +4515,9 @@
       "name": "Tennis Courts · 2nd Avenue Southeast",
       "lat": 47.84735,
       "lng": -111.711686,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3712,6 +4537,9 @@
       "name": "Tennis Courts · Washington Street",
       "lat": 48.439987,
       "lng": -113.21761,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3727,18 +4555,41 @@
       }
     },
     {
-      "id": "osm-r17730549",
-      "name": "Old Fort Park Tennis Courts",
-      "lat": 47.822414,
-      "lng": -110.661426,
+      "id": "osm-w1556636209",
+      "name": "West Glendive Park Tennis Courts",
+      "lat": 47.106197,
+      "lng": -104.755324,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
-      "surface": "hard",
-      "lighted": true,
+      "surface": "unknown",
+      "lighted": null,
       "indoor": null,
-      "access": "public",
+      "access": "unknown",
       "fee": null,
-      "address": "2090 River Street",
-      "city": "Fort Benton",
+      "address": null,
+      "city": null,
+      "state": "MT",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1556647701",
+      "name": "Billings West High School Tennis Courts",
+      "lat": 45.772685,
+      "lng": -108.569451,
+      "sports": [
+        "tennis"
+      ],
+      "courtCount": 6,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
       "state": "MT",
       "source": "osm",
       "tags": {}

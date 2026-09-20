@@ -7,6 +7,9 @@
       "name": "International Tennis Hall of Fame",
       "lat": 41.482033,
       "lng": -71.306851,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "grass",
       "lighted": false,
@@ -26,6 +29,9 @@
       "name": "Tennis Courts · Reservoir Avenue",
       "lat": 41.964702,
       "lng": -71.476176,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -43,9 +49,13 @@
     {
       "id": "osm-w56435853",
       "name": "University of Rhode Island Tennis Courts",
-      "lat": 41.483212,
-      "lng": -71.538219,
-      "courtCount": 6,
+      "lat": 41.483117,
+      "lng": -71.538411,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 14,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -64,6 +74,9 @@
       "name": "Recreate Town Farm Tennis Courts",
       "lat": 41.58208,
       "lng": -71.191133,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -78,9 +91,12 @@
     },
     {
       "id": "osm-w139287435",
-      "name": "Barrington High School Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 41.745766,
       "lng": -71.321141,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": true,
@@ -91,15 +107,16 @@
       "city": null,
       "state": "RI",
       "source": "osm",
-      "tags": {
-        "context": "school"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w140902041",
       "name": "Tennis Courts · Dundery Brook Trail",
       "lat": 41.508812,
       "lng": -71.176701,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -119,6 +136,9 @@
       "name": "Hope High School Tennis Courts",
       "lat": 41.833944,
       "lng": -71.401235,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 14,
       "surface": "unknown",
       "lighted": null,
@@ -138,6 +158,9 @@
       "name": "Western Hills Middle School Tennis Courts",
       "lat": 41.775494,
       "lng": -71.479377,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -157,6 +180,9 @@
       "name": "Colt State Park Tennis Courts",
       "lat": 41.688124,
       "lng": -71.291018,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -174,6 +200,9 @@
       "name": "Slater Park Tennis Courts",
       "lat": 41.873015,
       "lng": -71.345089,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 10,
       "surface": "unknown",
       "lighted": null,
@@ -191,6 +220,9 @@
       "name": "McGinn Park Tennis Courts",
       "lat": 41.618576,
       "lng": -71.46107,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": null,
@@ -205,9 +237,12 @@
     },
     {
       "id": "osm-w154744007",
-      "name": "Rocky Hill School Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 41.658453,
       "lng": -71.422984,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -219,7 +254,7 @@
       "state": "RI",
       "source": "osm",
       "tags": {
-        "context": "school"
+        "context": "residential"
       }
     },
     {
@@ -227,6 +262,9 @@
       "name": "Johnston Memorial Park Tennis Courts",
       "lat": 41.82775,
       "lng": -71.505506,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "hard",
       "lighted": false,
@@ -244,6 +282,9 @@
       "name": "Tennis Courts · Village Green North",
       "lat": 41.788412,
       "lng": -71.358996,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -263,6 +304,9 @@
       "name": "Rhode Island College Tennis Courts",
       "lat": 41.84363,
       "lng": -71.460621,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 7,
       "surface": "hard",
       "lighted": false,
@@ -282,7 +326,11 @@
       "name": "Tennis Courts · Williamsburg Circle",
       "lat": 41.719881,
       "lng": -71.455997,
-      "courtCount": 1,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -292,16 +340,18 @@
       "city": "Warwick",
       "state": "RI",
       "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w184978318",
-      "name": "Domenic Christofaro Park Tennis Courts",
-      "lat": 41.489545,
-      "lng": -71.439272,
-      "courtCount": 4,
+      "name": "Public Tennis Courts",
+      "lat": 41.489546,
+      "lng": -71.439195,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -316,9 +366,13 @@
     {
       "id": "osm-w184978319",
       "name": "Tennis Courts · Bonnet Point Road",
-      "lat": 41.473406,
-      "lng": -71.427928,
-      "courtCount": 1,
+      "lat": 41.473395,
+      "lng": -71.427848,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -328,15 +382,16 @@
       "city": "Narragansett",
       "state": "RI",
       "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w196811611",
       "name": "Masonic - Shriners Family Center Tennis Courts",
       "lat": 41.688782,
       "lng": -71.432724,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -354,6 +409,9 @@
       "name": "Varsity Courts",
       "lat": 41.829739,
       "lng": -71.394368,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -371,6 +429,9 @@
       "name": "North Kingstown High School Tennis Courts",
       "lat": 41.556817,
       "lng": -71.446589,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -390,6 +451,9 @@
       "name": "Tennis Courts · Rachella Court",
       "lat": 41.80427,
       "lng": -71.355598,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -408,7 +472,10 @@
       "id": "osm-w220479677",
       "name": "Green Hill Park Tennis Courts",
       "lat": 41.377881,
-      "lng": -71.603724,
+      "lng": -71.603725,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -426,6 +493,9 @@
       "name": "Governor Notte Park Tennis Courts",
       "lat": 41.871228,
       "lng": -71.46397,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -443,6 +513,9 @@
       "name": "Tennis Courts · Luce Avenue",
       "lat": 41.507546,
       "lng": -71.326719,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -460,6 +533,9 @@
       "name": "Tennis Courts · Amy Dodge Lane",
       "lat": 41.16576,
       "lng": -71.552382,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -479,6 +555,9 @@
       "name": "Tennis Courts",
       "lat": 41.845569,
       "lng": -71.434415,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -496,6 +575,9 @@
       "name": "Tennis Courts · West Natick Road",
       "lat": 41.727997,
       "lng": -71.474378,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -511,11 +593,15 @@
       }
     },
     {
-      "id": "osm-w288107043",
+      "id": "osm-w288107042",
       "name": "Hunter Park Tennis Courts",
-      "lat": 41.499754,
-      "lng": -71.318844,
-      "courtCount": 1,
+      "lat": 41.49976,
+      "lng": -71.319011,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -532,6 +618,9 @@
       "name": "Community Preparatory School Tennis Courts",
       "lat": 41.810766,
       "lng": -71.416742,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -551,6 +640,9 @@
       "name": "Amos Earley Park Tennis Courts",
       "lat": 41.792912,
       "lng": -71.416074,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -568,6 +660,9 @@
       "name": "9th St. Park Tennis Courts",
       "lat": 41.854461,
       "lng": -71.399737,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -585,6 +680,9 @@
       "name": "Rhode Island School for the Deaf Tennis Courts",
       "lat": 41.848778,
       "lng": -71.428471,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -604,6 +702,9 @@
       "name": "Warwick Public Schools Tennis Courts",
       "lat": 41.707085,
       "lng": -71.485434,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -623,6 +724,9 @@
       "name": "Rogers High School Tennis Courts",
       "lat": 41.469037,
       "lng": -71.319476,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -642,6 +746,9 @@
       "name": "Jamestown Golf Course Tennis Courts",
       "lat": 41.502625,
       "lng": -71.369701,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 9,
       "surface": "unknown",
       "lighted": null,
@@ -659,6 +766,9 @@
       "name": "Spencer Gray Tennis Courts",
       "lat": 41.835215,
       "lng": -71.359981,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 14,
       "surface": "grass",
       "lighted": false,
@@ -676,6 +786,9 @@
       "name": "Fort Wetherill State Park Tennis Courts",
       "lat": 41.481084,
       "lng": -71.360486,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -693,6 +806,9 @@
       "name": "Nathan Bishop Middle School Tennis Courts",
       "lat": 41.840008,
       "lng": -71.393504,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "hard",
       "lighted": null,
@@ -712,6 +828,9 @@
       "name": "Tennis Courts · Cedar Pond Drive",
       "lat": 41.693485,
       "lng": -71.48327,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -731,6 +850,9 @@
       "name": "Portsmouth High School Tennis Courts",
       "lat": 41.613337,
       "lng": -71.250518,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -748,9 +870,13 @@
     {
       "id": "osm-w330935424",
       "name": "Tennis Courts · Old River Road",
-      "lat": 41.946123,
-      "lng": -71.464237,
-      "courtCount": 4,
+      "lat": 41.946168,
+      "lng": -71.464121,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 8,
       "surface": "unknown",
       "lighted": true,
       "indoor": null,
@@ -767,6 +893,9 @@
       "name": "Tennis Courts · Kirkbrae Avenue",
       "lat": 41.944025,
       "lng": -71.464428,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -786,6 +915,9 @@
       "name": "Tennis Courts · Greene Overpass",
       "lat": 41.965969,
       "lng": -71.44429,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "hard",
       "lighted": null,
@@ -803,6 +935,9 @@
       "name": "Hope Park Tennis Courts",
       "lat": 41.737283,
       "lng": -71.555033,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -820,6 +955,9 @@
       "name": "Hope Pond Recreational Area Tennis Courts",
       "lat": 41.735079,
       "lng": -71.56498,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -837,6 +975,9 @@
       "name": "Tennis Courts · James J McKee Way",
       "lat": 41.928948,
       "lng": -71.42402,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -856,6 +997,9 @@
       "name": "BHS Tennis Court",
       "lat": 41.968509,
       "lng": -71.660958,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -872,7 +1016,10 @@
       "id": "osm-w378206247",
       "name": "Smithfield Public Schools Tennis Courts",
       "lat": 41.881096,
-      "lng": -71.543177,
+      "lng": -71.543176,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -892,6 +1039,10 @@
       "name": "Tennis Courts · Range Road",
       "lat": 41.709269,
       "lng": -71.415427,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": true,
@@ -909,6 +1060,9 @@
       "name": "Tennis Courts · Albion Road",
       "lat": 41.946,
       "lng": -71.471343,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -928,6 +1082,9 @@
       "name": "Warwick Veterans Memorial Middle School Tennis Courts",
       "lat": 41.706366,
       "lng": -71.412556,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -947,6 +1104,9 @@
       "name": "Ball O'Brien Park Tennis Courts",
       "lat": 41.181271,
       "lng": -71.580697,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "hard",
       "lighted": false,
@@ -964,6 +1124,9 @@
       "name": "Tennis Courts · Coast Guard Station Road",
       "lat": 41.4634,
       "lng": -71.358635,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -983,6 +1146,9 @@
       "name": "Tennis Courts · Stevens Drive",
       "lat": 41.727488,
       "lng": -71.49672,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1002,6 +1168,9 @@
       "name": "Tennis Courts · Wildflower Drive",
       "lat": 41.777512,
       "lng": -71.516796,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1021,6 +1190,9 @@
       "name": "Rhode Island Country Club Tennis Courts",
       "lat": 41.728945,
       "lng": -71.327078,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -1038,6 +1210,9 @@
       "name": "Tennis Courts · Relph Street",
       "lat": 41.755164,
       "lng": -71.415487,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1057,6 +1232,9 @@
       "name": "Roger Williams Park Tennis Courts",
       "lat": 41.774963,
       "lng": -71.406774,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1074,6 +1252,9 @@
       "name": "Park View Middle School Tennis Courts",
       "lat": 41.771436,
       "lng": -71.415188,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "hard",
       "lighted": null,
@@ -1093,6 +1274,9 @@
       "name": "Dunn Park Tennis Courts",
       "lat": 41.99763,
       "lng": -71.529646,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -1110,6 +1294,9 @@
       "name": "Bernon Memorial Park Tennis Courts",
       "lat": 41.989071,
       "lng": -71.5104,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1127,6 +1314,9 @@
       "name": "Bernon Heights School Tennis Courts",
       "lat": 41.994295,
       "lng": -71.501945,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -1146,6 +1336,9 @@
       "name": "Globe Park Elementary School Tennis Courts",
       "lat": 41.989521,
       "lng": -71.526128,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1163,9 +1356,13 @@
     {
       "id": "osm-w442688183",
       "name": "Tennis Courts · Old Mountain Road",
-      "lat": 41.447577,
-      "lng": -71.489018,
-      "courtCount": 4,
+      "lat": 41.447529,
+      "lng": -71.489125,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 15,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -1182,6 +1379,9 @@
       "name": "Tennis Courts · Shadow Farm Way",
       "lat": 41.438237,
       "lng": -71.489398,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1201,6 +1401,9 @@
       "name": "Tennis Courts · Fitzsimmons Road",
       "lat": 41.502861,
       "lng": -71.320729,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1220,6 +1423,9 @@
       "name": "Tennis Courts · Eagle Run",
       "lat": 41.675584,
       "lng": -71.492374,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1236,9 +1442,12 @@
     },
     {
       "id": "osm-w445938746",
-      "name": "Roger Williams University Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 41.653926,
       "lng": -71.259133,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -1249,15 +1458,16 @@
       "city": null,
       "state": "RI",
       "source": "osm",
-      "tags": {
-        "context": "school"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w468755047",
       "name": "Rotary Park Tennis Court",
       "lat": 41.345963,
       "lng": -71.814418,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "hard",
       "lighted": false,
@@ -1275,6 +1485,9 @@
       "name": "Crandall Field Tennis Courts",
       "lat": 41.422422,
       "lng": -71.7869,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1292,6 +1505,9 @@
       "name": "Gingerella Sports Complex Tennis Courts",
       "lat": 41.394758,
       "lng": -71.838093,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1306,9 +1522,12 @@
     },
     {
       "id": "osm-w482558325",
-      "name": "Wannamoisett Country Club Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 41.845064,
       "lng": -71.357364,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1319,14 +1538,20 @@
       "city": null,
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w489005020",
       "name": "McGinn Park Tennis Courts",
-      "lat": 41.620701,
+      "lat": 41.620702,
       "lng": -71.463927,
-      "courtCount": 2,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -1343,6 +1568,9 @@
       "name": "Archie R. Cole Middle School Tennis Courts",
       "lat": 41.65049,
       "lng": -71.462554,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -1362,6 +1590,9 @@
       "name": "Peace Dale Village Green Tennis Courts",
       "lat": 41.449858,
       "lng": -71.4941,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1378,7 +1609,10 @@
       "id": "osm-w531358168",
       "name": "Tennis Courts · Putnam Pike",
       "lat": 41.917195,
-      "lng": -71.681966,
+      "lng": -71.681965,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1398,6 +1632,9 @@
       "name": "Tennis Courts · Safari Trail",
       "lat": 41.925814,
       "lng": -71.777475,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1417,6 +1654,9 @@
       "name": "Trafalgar East Apartments Tennis Courts",
       "lat": 41.647791,
       "lng": -71.458655,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1427,13 +1667,18 @@
       "city": null,
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w542502344",
       "name": "Frenchtown Recreation Facility Tennis Courts",
       "lat": 41.624085,
       "lng": -71.519928,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -1448,9 +1693,12 @@
     },
     {
       "id": "osm-w544200704",
-      "name": "Johnson and Wales University Providence Harborside Campus Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 41.784294,
       "lng": -71.39224,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1462,7 +1710,7 @@
       "state": "RI",
       "source": "osm",
       "tags": {
-        "context": "school"
+        "context": "residential"
       }
     },
     {
@@ -1470,6 +1718,9 @@
       "name": "Saint Andrew's School Rhode Island Tennis Courts",
       "lat": 41.750774,
       "lng": -71.322836,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -1486,9 +1737,12 @@
     },
     {
       "id": "osm-w550007655",
-      "name": "Brayton Meadow Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 41.6415,
       "lng": -71.521935,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1499,13 +1753,19 @@
       "city": null,
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w555200472",
       "name": "Bishop Hendricken High School Tennis Courts",
       "lat": 41.703455,
       "lng": -71.395559,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -1523,9 +1783,13 @@
     {
       "id": "osm-w555745095",
       "name": "Tennis Courts · Point Judith Road",
-      "lat": 41.389099,
-      "lng": -71.485492,
-      "courtCount": 2,
+      "lat": 41.389098,
+      "lng": -71.485546,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 7,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -1535,15 +1799,16 @@
       "city": "Narragansett",
       "state": "RI",
       "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w555753001",
       "name": "Tennis Courts · Rodman Street",
       "lat": 41.427633,
       "lng": -71.457436,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1563,6 +1828,9 @@
       "name": "Tennis Courts · King Street",
       "lat": 41.482607,
       "lng": -71.310741,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1580,6 +1848,9 @@
       "name": "Chariho Regional Schools Tennis Courts",
       "lat": 41.447352,
       "lng": -71.695855,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1598,8 +1869,12 @@
       "id": "osm-w581401428",
       "name": "North Smithfield Schools Tennis Courts",
       "lat": 41.953741,
-      "lng": -71.543326,
-      "courtCount": 4,
+      "lng": -71.543327,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 12,
       "surface": "unknown",
       "lighted": true,
       "indoor": null,
@@ -1618,6 +1893,9 @@
       "name": "Walter Clarke Athletic Complex Tennis Courts",
       "lat": 41.683243,
       "lng": -71.593745,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1635,6 +1913,9 @@
       "name": "Tennis Courts · Atlantic Avenue",
       "lat": 41.32072,
       "lng": -71.816159,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1654,6 +1935,9 @@
       "name": "Oak Hill Park Tennis Courts",
       "lat": 41.863905,
       "lng": -71.385344,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1671,6 +1955,9 @@
       "name": "Fishermen's Memorial State Park Campground Tennis Courts",
       "lat": 41.380846,
       "lng": -71.491675,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1688,6 +1975,9 @@
       "name": "Tennis Courts · Bruce Caldwell Drive",
       "lat": 41.963009,
       "lng": -71.443523,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "hard",
       "lighted": true,
@@ -1705,6 +1995,9 @@
       "name": "Tennis Courts · Laura Lane",
       "lat": 41.615712,
       "lng": -71.211204,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1724,6 +2017,9 @@
       "name": "Glenyon Park Tennis Courts",
       "lat": 41.840637,
       "lng": -71.36232,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1741,6 +2037,9 @@
       "name": "Tennis Courts · Citizens Bank Way",
       "lat": 41.855715,
       "lng": -71.515479,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1760,6 +2059,9 @@
       "name": "Tennis Courts · Fly Jib Court",
       "lat": 41.557188,
       "lng": -71.383021,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1779,6 +2081,9 @@
       "name": "Tennis Courts · Kirwins 5th Ward Lane",
       "lat": 41.478397,
       "lng": -71.315731,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1798,6 +2103,9 @@
       "name": "Ravenwoods Recreation Area Tennis Courts",
       "lat": 41.685198,
       "lng": -71.689489,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1815,6 +2123,9 @@
       "name": "Tennis Courts · Diane Drive",
       "lat": 41.865347,
       "lng": -71.438287,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1834,6 +2145,9 @@
       "name": "Tennis Courts · Washington Street",
       "lat": 41.866058,
       "lng": -71.431408,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1853,6 +2167,9 @@
       "name": "St George's School Tennis Courts",
       "lat": 41.488763,
       "lng": -71.273353,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "grass",
       "lighted": null,
@@ -1872,6 +2189,9 @@
       "name": "Portsmouth Abbey School Tennis Courts",
       "lat": 41.604357,
       "lng": -71.272797,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -1891,6 +2211,9 @@
       "name": "Cold Spring Park Tennis Courts",
       "lat": 42.008842,
       "lng": -71.525991,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1908,6 +2231,9 @@
       "name": "Eastward Look Park Tennis Courts",
       "lat": 41.396511,
       "lng": -71.476821,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1925,6 +2251,9 @@
       "name": "Tennis Courts · Kinney Avenue",
       "lat": 41.418143,
       "lng": -71.463922,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1944,6 +2273,9 @@
       "name": "Joseph H. Gaudet Middle School Tennis Courts",
       "lat": 41.519858,
       "lng": -71.277128,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -1963,6 +2295,9 @@
       "name": "Tennis Courts · Acacia Drive South",
       "lat": 41.499296,
       "lng": -71.291793,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1982,6 +2317,9 @@
       "name": "Cottrell Field Tennis Courts",
       "lat": 41.502848,
       "lng": -71.300226,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "clay",
       "lighted": false,
@@ -1999,6 +2337,9 @@
       "name": "Forest Avenue School Tennis Courts",
       "lat": 41.524869,
       "lng": -71.286793,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2017,7 +2358,10 @@
       "id": "osm-w899577851",
       "name": "Murphy Field Tennis Courts",
       "lat": 41.467603,
-      "lng": -71.315984,
+      "lng": -71.315985,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "hard",
       "lighted": null,
@@ -2035,6 +2379,9 @@
       "name": "Tennis Courts · Parker Avenue",
       "lat": 41.478016,
       "lng": -71.306434,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2051,9 +2398,12 @@
     },
     {
       "id": "osm-w903242278",
-      "name": "Salve Regina University Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 41.4764,
       "lng": -71.302825,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2065,7 +2415,7 @@
       "state": "RI",
       "source": "osm",
       "tags": {
-        "context": "school"
+        "context": "residential"
       }
     },
     {
@@ -2073,6 +2423,9 @@
       "name": "Lime Acres Park Tennis Courts",
       "lat": 41.911065,
       "lng": -71.469562,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2090,6 +2443,9 @@
       "name": "Tennis Courts · Hammersmith Road",
       "lat": 41.465462,
       "lng": -71.340998,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2109,6 +2465,9 @@
       "name": "Tennis Courts · Ferry Road",
       "lat": 41.649654,
       "lng": -71.263552,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2128,6 +2487,9 @@
       "name": "Tennis Courts · Monkey Wrench Lane",
       "lat": 41.646563,
       "lng": -71.264674,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2144,9 +2506,12 @@
     },
     {
       "id": "osm-w906616704",
-      "name": "Fort Adams State Park Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 41.469775,
       "lng": -71.344834,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2157,13 +2522,18 @@
       "city": null,
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w906693504",
       "name": "Tennis Courts · Clam Shell Road",
       "lat": 41.662423,
       "lng": -71.301816,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2183,6 +2553,9 @@
       "name": "Mt. Hope High School Tennis Courts",
       "lat": 41.687897,
       "lng": -71.271756,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2202,6 +2575,9 @@
       "name": "Tennis Courts · East Bay Bike Path",
       "lat": 41.710547,
       "lng": -71.285604,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2221,6 +2597,9 @@
       "name": "Tennis Courts · Metacom Avenue",
       "lat": 41.713164,
       "lng": -71.267187,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2240,6 +2619,9 @@
       "name": "Tennis Courts · Yznaga Avenue",
       "lat": 41.459183,
       "lng": -71.305635,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2259,6 +2641,9 @@
       "name": "Tennis Courts · Ocean Avenue",
       "lat": 41.456778,
       "lng": -71.311443,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -2273,9 +2658,12 @@
     },
     {
       "id": "osm-w935182322",
-      "name": "Newport Country Club Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 41.46386,
       "lng": -71.348646,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -2293,6 +2681,9 @@
       "name": "Tennis Courts · Spouting Rock Drive",
       "lat": 41.465131,
       "lng": -71.309613,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2309,9 +2700,12 @@
     },
     {
       "id": "osm-w936706233",
-      "name": "Salve Regina University Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 41.468003,
       "lng": -71.305056,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -2322,15 +2716,16 @@
       "city": null,
       "state": "RI",
       "source": "osm",
-      "tags": {
-        "context": "school"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w936706236",
-      "name": "Salve Regina University Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 41.47252,
       "lng": -71.303293,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -2341,15 +2736,16 @@
       "city": null,
       "state": "RI",
       "source": "osm",
-      "tags": {
-        "context": "school"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w944725452",
       "name": "Tennis Courts · Foster Drive",
       "lat": 41.364701,
       "lng": -71.680816,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2369,6 +2765,9 @@
       "name": "Tennis Courts · Highland Drive",
       "lat": 41.487104,
       "lng": -71.378157,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2388,6 +2787,9 @@
       "name": "Fort Wetherill State Park Tennis Courts",
       "lat": 41.481066,
       "lng": -71.362368,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2405,6 +2807,9 @@
       "name": "Tennis Courts · Racquet Road",
       "lat": 41.488171,
       "lng": -71.364213,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2424,6 +2829,9 @@
       "name": "Tennis Courts · Indian Avenue",
       "lat": 41.502398,
       "lng": -71.245778,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2443,6 +2851,9 @@
       "name": "Tennis Courts · Gray Craig Road",
       "lat": 41.498531,
       "lng": -71.260878,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2462,6 +2873,9 @@
       "name": "Tennis Courts · Third Beach Road",
       "lat": 41.494959,
       "lng": -71.248458,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2481,6 +2895,9 @@
       "name": "Tennis Courts · Indian Avenue",
       "lat": 41.508294,
       "lng": -71.239902,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2497,9 +2914,12 @@
     },
     {
       "id": "osm-w963247166",
-      "name": "Fort Adams State Park Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 41.476411,
       "lng": -71.338663,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2510,13 +2930,18 @@
       "city": null,
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w965779741",
       "name": "Tennis Courts · Cliff Walk",
       "lat": 41.480794,
       "lng": -71.297037,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2536,6 +2961,9 @@
       "name": "Tennis Courts · Wimbledon Circle",
       "lat": 41.623891,
       "lng": -71.260975,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -2552,7 +2980,10 @@
       "id": "osm-w969264230",
       "name": "Portsmouth Abbey School Tennis Courts",
       "lat": 41.597476,
-      "lng": -71.276291,
+      "lng": -71.27629,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2572,6 +3003,9 @@
       "name": "Tennis Courts · Rose Court",
       "lat": 41.447995,
       "lng": -71.654191,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2591,6 +3025,9 @@
       "name": "Burrillville Middle School Tennis Courts",
       "lat": 41.981648,
       "lng": -71.623845,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2610,6 +3047,9 @@
       "name": "Tiverton High School Tennis Courts",
       "lat": 41.629495,
       "lng": -71.165011,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": false,
@@ -2629,6 +3069,9 @@
       "name": "Richmond Elementary School Tennis Courts",
       "lat": 41.501882,
       "lng": -71.662969,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2648,6 +3091,9 @@
       "name": "Lemourex Field Tennis Courts",
       "lat": 42.00163,
       "lng": -71.48465,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -2664,7 +3110,10 @@
       "id": "osm-w991213862",
       "name": "Costa Park Tennis Courts",
       "lat": 42.000729,
-      "lng": -71.523449,
+      "lng": -71.52345,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2682,6 +3131,9 @@
       "name": "Burrs Hill Tennis Courts",
       "lat": 41.722829,
       "lng": -71.282419,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -2697,9 +3149,13 @@
     {
       "id": "osm-w1010268041",
       "name": "The Bristol Town Common Tennis Courts",
-      "lat": 41.67048,
-      "lng": -71.271453,
-      "courtCount": 1,
+      "lat": 41.670497,
+      "lng": -71.27136,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 9,
       "surface": "unknown",
       "lighted": true,
       "indoor": null,
@@ -2715,8 +3171,12 @@
       "id": "osm-w1010725283",
       "name": "Tennis Courts · Middle Highway",
       "lat": 41.743645,
-      "lng": -71.332082,
-      "courtCount": 4,
+      "lng": -71.332083,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 12,
       "surface": "unknown",
       "lighted": true,
       "indoor": null,
@@ -2730,9 +3190,12 @@
     },
     {
       "id": "osm-w1013611724",
-      "name": "Westwood YMCA Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 41.678788,
       "lng": -71.672481,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": false,
@@ -2743,13 +3206,18 @@
       "city": null,
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1022144283",
-      "name": "John H Giblin Memorial Recreation Area Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 41.709587,
       "lng": -71.568314,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2760,13 +3228,18 @@
       "city": null,
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1022926877",
       "name": "Tennis Courts · Ashburton Drive",
       "lat": 41.780147,
       "lng": -71.518019,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2783,9 +3256,12 @@
     },
     {
       "id": "osm-w1024225704",
-      "name": "The Prout School Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 41.450062,
       "lng": -71.46782,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -2796,15 +3272,16 @@
       "city": null,
       "state": "RI",
       "source": "osm",
-      "tags": {
-        "context": "school"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1024920140",
       "name": "Lincoln Woods State Park Tennis Courts",
       "lat": 41.905668,
       "lng": -71.445266,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2818,10 +3295,13 @@
       "tags": {}
     },
     {
-      "id": "osm-r13760481",
-      "name": "Todd Morsilli Tennis Courts",
-      "lat": 41.790063,
-      "lng": -71.412762,
+      "id": "osm-w1027628806",
+      "name": "Roger Williams Park Tennis Courts",
+      "lat": 41.790062,
+      "lng": -71.412759,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 11,
       "surface": "hard",
       "lighted": null,
@@ -2839,6 +3319,9 @@
       "name": "Tennis Courts · Monkey Wrench Lane",
       "lat": 41.644412,
       "lng": -71.265318,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2858,6 +3341,9 @@
       "name": "Tennis Courts · Gibson Road",
       "lat": 41.695664,
       "lng": -71.291317,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2877,6 +3363,9 @@
       "name": "Tennis Courts · Hospital Road",
       "lat": 41.77615,
       "lng": -71.33876,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 7,
       "surface": "unknown",
       "lighted": null,
@@ -2893,8 +3382,12 @@
       "id": "osm-w1179771670",
       "name": "Tennis Courts · Kent Street",
       "lat": 41.753811,
-      "lng": -71.298322,
-      "courtCount": 2,
+      "lng": -71.298321,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -2904,15 +3397,16 @@
       "city": "Barrington",
       "state": "RI",
       "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1194996943",
       "name": "Tennis Courts · Harrison Avenue",
       "lat": 41.471909,
       "lng": -71.32945,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2932,6 +3426,9 @@
       "name": "Tennis Courts · Ocean Avenue",
       "lat": 41.453923,
       "lng": -71.332333,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2951,6 +3448,9 @@
       "name": "Tennis Courts · Springbrook Road",
       "lat": 41.502484,
       "lng": -71.684848,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -2968,6 +3468,9 @@
       "name": "River Farms Tennis Courts",
       "lat": 41.722475,
       "lng": -71.50416,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -2978,14 +3481,20 @@
       "city": null,
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
-      "id": "osm-w1218929849",
-      "name": "Point Judith Country Club Tennis Courts",
-      "lat": 41.410135,
-      "lng": -71.471149,
-      "courtCount": 8,
+      "id": "osm-w1218929837",
+      "name": "Public Tennis Courts",
+      "lat": 41.410255,
+      "lng": -71.470968,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 10,
       "surface": "grass",
       "lighted": null,
       "indoor": null,
@@ -3002,6 +3511,9 @@
       "name": "Sakonnet Golf Club Tennis Courts",
       "lat": 41.471162,
       "lng": -71.186398,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -3017,9 +3529,13 @@
     {
       "id": "osm-w1219265770",
       "name": "Sakonnet Golf Club Tennis Courts",
-      "lat": 41.469313,
-      "lng": -71.187626,
-      "courtCount": 4,
+      "lat": 41.469303,
+      "lng": -71.187564,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 6,
       "surface": "hard",
       "lighted": false,
       "indoor": null,
@@ -3036,6 +3552,9 @@
       "name": "Tennis Courts · Almeida Terrace",
       "lat": 41.564906,
       "lng": -71.285712,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3055,6 +3574,9 @@
       "name": "Tennis Courts · Duxbury Court",
       "lat": 41.915012,
       "lng": -71.419286,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3074,6 +3596,9 @@
       "name": "Tennis Courts · Broad Rock Road",
       "lat": 41.455324,
       "lng": -71.483612,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -3091,6 +3616,9 @@
       "name": "Tennis Courts · Alcar Drive",
       "lat": 41.806501,
       "lng": -71.494434,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3110,6 +3638,9 @@
       "name": "Lincoln High School Tennis Courts",
       "lat": 41.938576,
       "lng": -71.451626,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -3129,6 +3660,9 @@
       "name": "Tennis Courts · Sunset Road",
       "lat": 41.692589,
       "lng": -71.289515,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3148,6 +3682,9 @@
       "name": "Tennis Courts · Narragansett Avenue",
       "lat": 41.380167,
       "lng": -71.811278,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3165,8 +3702,11 @@
     {
       "id": "osm-w1365081560",
       "name": "Tennis Courts · Babcock Road",
-      "lat": 41.347704,
+      "lat": 41.347705,
       "lng": -71.819235,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3186,6 +3726,9 @@
       "name": "Public Tennis Courts",
       "lat": 41.370469,
       "lng": -71.767302,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3205,6 +3748,9 @@
       "name": "Tennis Courts · Post Road",
       "lat": 41.35013,
       "lng": -71.73521,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3220,10 +3766,35 @@
       }
     },
     {
+      "id": "osm-w1366027448",
+      "name": "Public Pickleball Courts",
+      "lat": 41.351617,
+      "lng": -71.73474,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "RI",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
       "id": "osm-w1366076883",
       "name": "Tennis Courts · Post Road",
-      "lat": 41.348641,
+      "lat": 41.348642,
       "lng": -71.748701,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3243,6 +3814,9 @@
       "name": "Tennis Courts · Haversham Road",
       "lat": 41.336172,
       "lng": -71.745912,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3258,35 +3832,43 @@
       }
     },
     {
-      "id": "osm-w1366335020",
-      "name": "Tennis Courts · Chapman Road",
-      "lat": 41.333501,
-      "lng": -71.75874,
-      "courtCount": 8,
+      "id": "osm-w1366335013",
+      "name": "Public Tennis Courts",
+      "lat": 41.333609,
+      "lng": -71.758912,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 10,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": "Chapman Road",
-      "city": "Westerly",
+      "address": null,
+      "city": null,
       "state": "RI",
       "source": "osm",
       "tags": {}
     },
     {
-      "id": "osm-w1366672411",
-      "name": "Tennis Courts · Valley Drive",
-      "lat": 41.342586,
-      "lng": -71.780428,
-      "courtCount": 4,
+      "id": "osm-w1366672408",
+      "name": "Public Tennis Courts",
+      "lat": 41.342246,
+      "lng": -71.780347,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": "Valley Drive",
-      "city": "Westerly",
+      "address": null,
+      "city": null,
       "state": "RI",
       "source": "osm",
       "tags": {}
@@ -3294,9 +3876,13 @@
     {
       "id": "osm-w1368172102",
       "name": "The Misquamicut Club Tennis Courts",
-      "lat": 41.322892,
-      "lng": -71.835365,
-      "courtCount": 11,
+      "lat": 41.322979,
+      "lng": -71.835322,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 12,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -3313,6 +3899,9 @@
       "name": "Tennis Courts · Glen Way",
       "lat": 41.317067,
       "lng": -71.846642,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3332,6 +3921,9 @@
       "name": "Tennis Courts · Vuono Place",
       "lat": 41.414428,
       "lng": -71.751157,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3351,6 +3943,9 @@
       "name": "Tennis Courts · West Beach Road",
       "lat": 41.332509,
       "lng": -71.71676,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3370,6 +3965,9 @@
       "name": "Tennis Courts · Ninigret Avenue",
       "lat": 41.338609,
       "lng": -71.705529,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3385,11 +3983,15 @@
       }
     },
     {
-      "id": "osm-w1382633570",
+      "id": "osm-w1382633564",
       "name": "Ninigret Tennis and Pickleball Courts",
-      "lat": 41.372349,
-      "lng": -71.665539,
-      "courtCount": 6,
+      "lat": 41.372508,
+      "lng": -71.665629,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 12,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -3406,6 +4008,9 @@
       "name": "Tennis Courts · Bayberry Lane",
       "lat": 41.385181,
       "lng": -71.678893,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3421,10 +4026,35 @@
       }
     },
     {
+      "id": "osm-w1383081103",
+      "name": "Public Pickleball Courts",
+      "lat": 41.374407,
+      "lng": -71.649753,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "RI",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
       "id": "osm-w1383081135",
       "name": "Tennis Courts · Hunters Harbor Road",
       "lat": 41.371645,
       "lng": -71.657089,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3444,6 +4074,9 @@
       "name": "Public Tennis Courts",
       "lat": 41.382634,
       "lng": -71.605946,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3463,6 +4096,9 @@
       "name": "Tennis Courts · Green Hill Beach Road",
       "lat": 41.368323,
       "lng": -71.600356,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3482,6 +4118,9 @@
       "name": "The Aquidneck Club Tennis Courts",
       "lat": 41.600541,
       "lng": -71.264042,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -3499,6 +4138,9 @@
       "name": "Tuckertown Park Tennis Courts",
       "lat": 41.426467,
       "lng": -71.556425,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3516,6 +4158,9 @@
       "name": "Public Tennis Courts",
       "lat": 41.398248,
       "lng": -71.528862,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3531,10 +4176,33 @@
       }
     },
     {
+      "id": "osm-w1396052753",
+      "name": "West Kingston Park Pickleball Courts",
+      "lat": 41.488047,
+      "lng": -71.567429,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 6,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "RI",
+      "source": "osm",
+      "tags": {}
+    },
+    {
       "id": "osm-w1414151522",
       "name": "Tennis Courts · Belmont Road",
       "lat": 41.769858,
       "lng": -71.429724,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3554,6 +4222,9 @@
       "name": "Tennis Courts · Oak Street",
       "lat": 41.956233,
       "lng": -71.647522,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3573,6 +4244,9 @@
       "name": "Tennis Courts · South of Commons Road",
       "lat": 41.505304,
       "lng": -71.169302,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3592,6 +4266,9 @@
       "name": "East Greenwich High School Tennis Courts",
       "lat": 41.638918,
       "lng": -71.480609,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -3611,6 +4288,9 @@
       "name": "Tennis Courts · Baltimore Avenue",
       "lat": 41.399451,
       "lng": -71.470945,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3626,10 +4306,55 @@
       }
     },
     {
+      "id": "osm-w1427362314",
+      "name": "Public Pickleball Courts",
+      "lat": 41.399055,
+      "lng": -71.4764,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 4,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "RI",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1427568660",
+      "name": "Public Pickleball Courts",
+      "lat": 41.40221,
+      "lng": -71.466879,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "RI",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
       "id": "osm-w1430924670",
       "name": "Classical High School Tennis Courts",
       "lat": 41.817367,
       "lng": -71.419421,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -3645,9 +4370,13 @@
     {
       "id": "osm-w1431214987",
       "name": "Conaty Park Tennis Courts",
-      "lat": 41.923026,
-      "lng": -71.536514,
-      "courtCount": 6,
+      "lat": 41.922962,
+      "lng": -71.536456,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -3664,6 +4393,9 @@
       "name": "Tennis Courts · Boston Neck Road",
       "lat": 41.441502,
       "lng": -71.44679,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -3678,10 +4410,14 @@
     },
     {
       "id": "osm-w1432486062",
-      "name": "Curtis Corner Middle School Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 41.460258,
       "lng": -71.521854,
-      "courtCount": 5,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 10,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -3691,16 +4427,18 @@
       "city": null,
       "state": "RI",
       "source": "osm",
-      "tags": {
-        "context": "school"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1432782858",
-      "name": "Wilson Park Tennis Courts",
-      "lat": 41.574183,
-      "lng": -71.459215,
-      "courtCount": 2,
+      "name": "Public Tennis Courts",
+      "lat": 41.574181,
+      "lng": -71.459214,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -3717,6 +4455,9 @@
       "name": "Tennis Courts · Peaked Rock Road",
       "lat": 41.450585,
       "lng": -71.434314,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3736,6 +4477,9 @@
       "name": "Tennis Courts · Corn Neck Road",
       "lat": 41.195679,
       "lng": -71.572172,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3751,10 +4495,35 @@
       }
     },
     {
+      "id": "osm-w1435715712",
+      "name": "Public Pickleball Courts",
+      "lat": 41.47144,
+      "lng": -71.43485,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "RI",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
       "id": "osm-w1442211847",
       "name": "Exeter West Greenwich Junior/Senior High School Tennis Courts",
       "lat": 41.605712,
       "lng": -71.638895,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -3774,6 +4543,9 @@
       "name": "Public Tennis Courts",
       "lat": 41.693569,
       "lng": -71.630114,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3791,9 +4563,13 @@
     {
       "id": "osm-w1442211853",
       "name": "Herbert F. Paine Memorial Park Tennis Courts",
-      "lat": 41.692298,
-      "lng": -71.568111,
-      "courtCount": 4,
+      "lat": 41.692271,
+      "lng": -71.568112,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 10,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -3810,6 +4586,9 @@
       "name": "Harris Playground Tennis Courts",
       "lat": 41.724655,
       "lng": -71.541901,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3824,9 +4603,12 @@
     },
     {
       "id": "osm-w1442211858",
-      "name": "Riverpoint Park Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 41.715772,
       "lng": -71.516641,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -3844,6 +4626,9 @@
       "name": "Tennis Courts · Tanglewood Drive",
       "lat": 41.712941,
       "lng": -71.510907,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3863,6 +4648,9 @@
       "name": "Villa Del Rio Apartments Tennis Courts",
       "lat": 41.721406,
       "lng": -71.472056,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3873,13 +4661,18 @@
       "city": null,
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442211865",
       "name": "Cranston Stadium Tennis Courts",
       "lat": 41.783539,
       "lng": -71.445104,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -3897,6 +4690,9 @@
       "name": "East Providence High School Tennis Courts",
       "lat": 41.820707,
       "lng": -71.355639,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -3914,9 +4710,13 @@
     {
       "id": "osm-w1442211880",
       "name": "The Christine Apartments Tennis Courts",
-      "lat": 41.777189,
-      "lng": -71.334173,
-      "courtCount": 1,
+      "lat": 41.777005,
+      "lng": -71.333893,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -3929,10 +4729,35 @@
       "tags": {}
     },
     {
+      "id": "osm-w1442851345",
+      "name": "Public Pickleball Courts",
+      "lat": 41.484848,
+      "lng": -71.430058,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 2,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "RI",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
       "id": "osm-w1445779223",
       "name": "La Salle Academy Tennis Courts",
       "lat": 41.843005,
       "lng": -71.448042,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -3952,6 +4777,9 @@
       "name": "Mount Pleasant High School Tennis Courts",
       "lat": 41.839829,
       "lng": -71.453986,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -3969,9 +4797,13 @@
     {
       "id": "osm-w1446609236",
       "name": "Tennis Courts · Sleepy Hollow Farm Road",
-      "lat": 41.681795,
-      "lng": -71.476377,
-      "courtCount": 1,
+      "lat": 41.681799,
+      "lng": -71.476261,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -3981,15 +4813,16 @@
       "city": "Warwick",
       "state": "RI",
       "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
+      "tags": {}
     },
     {
       "id": "osm-w1446609282",
       "name": "Tennis Courts · Cedar Pond Drive",
       "lat": 41.691985,
       "lng": -71.480899,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4009,6 +4842,9 @@
       "name": "Captain Stephen Olney Memorial Park Tennis Courts",
       "lat": 41.855725,
       "lng": -71.454221,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -4026,6 +4862,9 @@
       "name": "Tennis Courts · Halidon Terrace",
       "lat": 41.472845,
       "lng": -71.323221,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4043,8 +4882,11 @@
     {
       "id": "osm-w1449448952",
       "name": "Tennis Courts · Soneric Lane",
-      "lat": 41.466405,
+      "lat": 41.466404,
       "lng": -71.661288,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4064,6 +4906,9 @@
       "name": "Tennis Courts · Kingstown Road",
       "lat": 41.434736,
       "lng": -71.470748,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -4081,6 +4926,9 @@
       "name": "Tennis Courts · Finch Lane",
       "lat": 41.526679,
       "lng": -71.477863,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4100,6 +4948,9 @@
       "name": "Tennis Courts · Sunset Avenue",
       "lat": 41.522657,
       "lng": -71.421976,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4119,6 +4970,9 @@
       "name": "Tennis Courts · Harbor View Avenue",
       "lat": 41.523881,
       "lng": -71.423361,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4138,6 +4992,9 @@
       "name": "Tennis Courts · Plum Beach Road",
       "lat": 41.526502,
       "lng": -71.419913,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -4152,9 +5009,12 @@
     },
     {
       "id": "osm-w1479407787",
-      "name": "Saunderstown Yacht Club Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 41.508738,
       "lng": -71.4183,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4165,13 +5025,18 @@
       "city": null,
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1485169677",
       "name": "Lawn ave Tennis court",
       "lat": 41.498646,
       "lng": -71.380351,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -4189,6 +5054,9 @@
       "name": "Tennis Courts · Sacred Heart Avenue",
       "lat": 41.888638,
       "lng": -71.38479,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4208,6 +5076,9 @@
       "name": "U.S. Sen. John Chafee Athletic and Recreational Complex Tennis Courts",
       "lat": 41.753887,
       "lng": -71.511772,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4225,6 +5096,9 @@
       "name": "North Kingstown Golf Course Tennis Courts",
       "lat": 41.59856,
       "lng": -71.425496,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4242,7 +5116,30 @@
       "name": "Jamiel Park Tennis Courts",
       "lat": 41.732451,
       "lng": -71.277762,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "RI",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1500870932",
+      "name": "Public Pickleball Courts",
+      "lat": 41.574658,
+      "lng": -71.457402,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -4259,6 +5156,9 @@
       "name": "North Farm on the Bay Tennis Courts",
       "lat": 41.708447,
       "lng": -71.281177,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -4269,14 +5169,20 @@
       "city": null,
       "state": "RI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1504263221",
-      "name": "Warwick Country Club Tennis Courts",
-      "lat": 41.674041,
-      "lng": -71.389137,
-      "courtCount": 4,
+      "name": "Public Tennis Courts",
+      "lat": 41.674093,
+      "lng": -71.38886,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -4291,9 +5197,13 @@
     {
       "id": "osm-w1504273632",
       "name": "Glocester Memorial Park Tennis Courts",
-      "lat": 41.913384,
+      "lat": 41.913385,
       "lng": -71.673952,
-      "courtCount": 2,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -4310,6 +5220,9 @@
       "name": "Holliman School Tennis Courts",
       "lat": 41.74825,
       "lng": -71.41353,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -4325,28 +5238,36 @@
       }
     },
     {
-      "id": "osm-w1504756427",
-      "name": "Tennis Courts · Wm P Hawkins Jr Trail",
+      "id": "osm-w1504756423",
+      "name": "Public Tennis Courts",
       "lat": 41.882914,
-      "lng": -71.552148,
-      "courtCount": 4,
+      "lng": -71.552114,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 10,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": "Wm P Hawkins Jr Trail",
-      "city": "Smithfield",
+      "address": null,
+      "city": null,
       "state": "RI",
       "source": "osm",
       "tags": {}
     },
     {
-      "id": "osm-w1504756599",
+      "id": "osm-w1504756598",
       "name": "Byron Winsor Park Tennis Courts",
-      "lat": 41.87759,
-      "lng": -71.604322,
-      "courtCount": 2,
+      "lat": 41.87762,
+      "lng": -71.604168,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -4363,6 +5284,9 @@
       "name": "Tennis Courts · Institute Lane",
       "lat": 41.834517,
       "lng": -71.584527,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -4380,6 +5304,9 @@
       "name": "Cranston High School West Tennis Courts",
       "lat": 41.772589,
       "lng": -71.479602,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -4399,6 +5326,9 @@
       "name": "Ponaganset High School Tennis Courts",
       "lat": 41.86738,
       "lng": -71.7134,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -4414,10 +5344,55 @@
       }
     },
     {
+      "id": "osm-w1508630666",
+      "name": "Fairways Condominiums Pickleball Courts",
+      "lat": 41.599276,
+      "lng": -71.48785,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 4,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "RI",
+      "source": "osm",
+      "tags": {}
+    },
+    {
+      "id": "osm-w1525504148",
+      "name": "Public Pickleball Courts",
+      "lat": 42.002075,
+      "lng": -71.418929,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": null,
+      "city": null,
+      "state": "RI",
+      "source": "osm",
+      "tags": {
+        "context": "residential"
+      }
+    },
+    {
       "id": "osm-w1546001368",
       "name": "Tennis Courts · Draper Avenue",
       "lat": 41.706164,
       "lng": -71.377891,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -4433,23 +5408,25 @@
       }
     },
     {
-      "id": "osm-w1548370454",
-      "name": "Tennis Courts · Oyster Cove",
+      "id": "osm-w1548370452",
+      "name": "Public Tennis Courts",
       "lat": 41.332143,
-      "lng": -71.819827,
-      "courtCount": 2,
+      "lng": -71.819828,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": "Oyster Cove",
-      "city": "Westerly",
+      "address": null,
+      "city": null,
       "state": "RI",
       "source": "osm",
-      "tags": {
-        "context": "residential"
-      }
+      "tags": {}
     }
   ]
 }

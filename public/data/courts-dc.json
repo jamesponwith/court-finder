@@ -3,10 +3,36 @@
   "attribution": "© OpenStreetMap contributors (ODbL); NYC Parks Open Data",
   "facilities": [
     {
+      "id": "osm-n9082405757",
+      "name": "Kraken Kourts & Skates | Bryant Street NE",
+      "lat": 38.921671,
+      "lng": -76.99993,
+      "sports": [
+        "pickleball"
+      ],
+      "courtCount": 1,
+      "surface": "unknown",
+      "lighted": null,
+      "indoor": null,
+      "access": "unknown",
+      "fee": null,
+      "address": "514 Rhode Island Avenue Northeast",
+      "city": "Washington",
+      "state": "DC",
+      "source": "osm",
+      "tags": {
+        "hours": "Su,We,Th 06:00-22:00; Fr,Sa 06:00-24:00",
+        "website": "https://www.experiencekraken.com/bryantstreet"
+      }
+    },
+    {
       "id": "osm-w28317454",
       "name": "Volta Park Pool Tennis Courts",
       "lat": 38.910522,
       "lng": -77.067136,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": false,
@@ -24,9 +50,13 @@
     {
       "id": "osm-w59286263",
       "name": "Turkey Thicket Tennis Courts",
-      "lat": 38.938891,
-      "lng": -76.991998,
-      "courtCount": 6,
+      "lat": 38.938892,
+      "lng": -76.99188,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 10,
       "surface": "unknown",
       "lighted": true,
       "indoor": null,
@@ -43,6 +73,9 @@
       "name": "Hillcrest Tennis Courts",
       "lat": 38.860617,
       "lng": -76.962804,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -60,6 +93,9 @@
       "name": "Southeast Tennis and Learning Center",
       "lat": 38.838154,
       "lng": -76.995545,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": null,
@@ -77,6 +113,9 @@
       "name": "Congress Heights Recreation Center Tennis Courts",
       "lat": 38.842217,
       "lng": -76.997401,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -94,6 +133,9 @@
       "name": "East Potomac White Course Tennis Courts",
       "lat": 38.878631,
       "lng": -77.031049,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 19,
       "surface": "unknown",
       "lighted": null,
@@ -111,6 +153,9 @@
       "name": "Edward J. Kelly Park Tennis Courts",
       "lat": 38.894437,
       "lng": -77.046369,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": true,
@@ -128,6 +173,9 @@
       "name": "Tennis Courts · Magazine Road Southeast",
       "lat": 38.827589,
       "lng": -77.020951,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -147,6 +195,9 @@
       "name": "Tennis Courts · Fessenden Street Northwest",
       "lat": 38.955205,
       "lng": -77.084696,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -166,6 +217,9 @@
       "name": "Rock Creek Tennis Center",
       "lat": 38.95396,
       "lng": -77.037687,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 26,
       "surface": "hard",
       "lighted": true,
@@ -185,6 +239,9 @@
       "name": "Banneker Recreation Center Tennis Courts",
       "lat": 38.92259,
       "lng": -77.023855,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "hard",
       "lighted": true,
@@ -202,6 +259,9 @@
       "name": "Fort Davis Recreation Center Tennis Courts",
       "lat": 38.87008,
       "lng": -76.94503,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -219,6 +279,9 @@
       "name": "Marty and Jone Dowd Family Tennis Courts",
       "lat": 38.941713,
       "lng": -76.999737,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 6,
       "surface": "unknown",
       "lighted": null,
@@ -236,6 +299,9 @@
       "name": "Anacostia Park, Section F Tennis Courts",
       "lat": 38.896177,
       "lng": -76.960376,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -251,9 +317,13 @@
     {
       "id": "osm-w134179169",
       "name": "Takoma Community Center Tennis Courts",
-      "lat": 38.969637,
-      "lng": -77.016829,
-      "courtCount": 7,
+      "lat": 38.969636,
+      "lng": -77.016981,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 8,
       "surface": "unknown",
       "lighted": true,
       "indoor": null,
@@ -270,6 +340,9 @@
       "name": "Eastern High School Tennis Courts",
       "lat": 38.89019,
       "lng": -76.978091,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -289,6 +362,9 @@
       "name": "George Washington University at Mount Vernon College Tennis Courts",
       "lat": 38.917194,
       "lng": -77.09105,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 11,
       "surface": "unknown",
       "lighted": null,
@@ -308,6 +384,9 @@
       "name": "Palisades Park Tennis Courts",
       "lat": 38.92607,
       "lng": -77.105381,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "hard",
       "lighted": null,
@@ -325,6 +404,9 @@
       "name": "Benning Stoddert Tennis Courts",
       "lat": 38.888025,
       "lng": -76.948451,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 9,
       "surface": "unknown",
       "lighted": null,
@@ -342,6 +424,9 @@
       "name": "Fletcher-Johnson Tennis Courts",
       "lat": 38.884934,
       "lng": -76.933177,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -359,6 +444,9 @@
       "name": "Turtle Park Tennis Courts",
       "lat": 38.942848,
       "lng": -77.088724,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -375,7 +463,10 @@
       "id": "osm-w153670788",
       "name": "Anacostia Park, Section C Tennis Courts",
       "lat": 38.864035,
-      "lng": -77.00356,
+      "lng": -77.003559,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -393,6 +484,9 @@
       "name": "Anacostia Fitness Center Tennis Courts",
       "lat": 38.873211,
       "lng": -76.981433,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 9,
       "surface": "unknown",
       "lighted": null,
@@ -410,6 +504,9 @@
       "name": "Bruce Monroe Park Tennis Courts",
       "lat": 38.928298,
       "lng": -77.024171,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -427,6 +524,9 @@
       "name": "John F Kennedy Recreation Center Tennis Courts",
       "lat": 38.909187,
       "lng": -77.02101,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -444,6 +544,9 @@
       "name": "Raymond Recreation Center Tennis Courts",
       "lat": 38.936614,
       "lng": -77.025947,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": null,
@@ -461,6 +564,9 @@
       "name": "Dumbarton Oaks Gardens Tennis Courts",
       "lat": 38.913419,
       "lng": -77.061295,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": false,
@@ -478,6 +584,9 @@
       "name": "Marie H Reed Recreation Center Tennis Courts",
       "lat": 38.918274,
       "lng": -77.041365,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -495,6 +604,9 @@
       "name": "Payne Recreation Center Tennis Courts",
       "lat": 38.88509,
       "lng": -76.983932,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -512,6 +624,9 @@
       "name": "Tennis Courts · I Street Southwest",
       "lat": 38.879732,
       "lng": -77.019109,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -531,6 +646,9 @@
       "name": "Tennis Courts · Kalmia Road Northwest",
       "lat": 38.98644,
       "lng": -77.037506,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -548,9 +666,13 @@
     {
       "id": "osm-w291701261",
       "name": "Rose Park Tennis Courts",
-      "lat": 38.90829,
-      "lng": -77.055371,
-      "courtCount": 4,
+      "lat": 38.908313,
+      "lng": -77.055317,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -567,6 +689,9 @@
       "name": "Tennis Courts · Quincy Street Northeast",
       "lat": 38.937313,
       "lng": -76.983844,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -586,6 +711,9 @@
       "name": "Harry Thomas Senior Recreation Center Tennis Courts",
       "lat": 38.91394,
       "lng": -77.006733,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": false,
@@ -603,6 +731,9 @@
       "name": "Mitchell Park Tennis Courts",
       "lat": 38.914454,
       "lng": -77.050629,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -620,6 +751,9 @@
       "name": "Saint John's College High School Tennis Courts",
       "lat": 38.963934,
       "lng": -77.055825,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": false,
@@ -641,6 +775,9 @@
       "name": "Jefferson Field Tennis Courts",
       "lat": 38.880806,
       "lng": -77.02362,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -658,6 +795,9 @@
       "name": "HD Woodson High School Tennis Courts",
       "lat": 38.898053,
       "lng": -76.924628,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -677,6 +817,9 @@
       "name": "Brentwood Park Tennis Courts",
       "lat": 38.90834,
       "lng": -76.995284,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -694,6 +837,9 @@
       "name": "Dakota Park Tennis Courts",
       "lat": 38.921984,
       "lng": -76.961496,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -711,6 +857,9 @@
       "name": "Tennis Courts · Ordway Street Northwest",
       "lat": 38.936008,
       "lng": -77.068855,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -727,9 +876,12 @@
     },
     {
       "id": "osm-w786571257",
-      "name": "Fort Stanton Park Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 38.857881,
       "lng": -76.979825,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -740,13 +892,18 @@
       "city": null,
       "state": "DC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w828212022",
       "name": "Edgewood Recreation Center Tennis Courts",
       "lat": 38.925591,
       "lng": -77.002435,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": true,
@@ -764,6 +921,9 @@
       "name": "Dwight A. Moseley Park Tennis Courts",
       "lat": 38.935504,
       "lng": -76.976681,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
@@ -778,9 +938,12 @@
     },
     {
       "id": "osm-w884589801",
-      "name": "Marvin Gaye Park Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 38.890183,
       "lng": -76.921341,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -791,13 +954,18 @@
       "city": null,
       "state": "DC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w930392438",
       "name": "Rose L. Hardy Middle School Tennis Courts",
       "lat": 38.915862,
       "lng": -77.069027,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "hard",
       "lighted": false,
@@ -817,6 +985,9 @@
       "name": "Randall Tennis Courts",
       "lat": 38.880346,
       "lng": -77.009688,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": true,
@@ -830,11 +1001,15 @@
       "tags": {}
     },
     {
-      "id": "osm-w965393647",
+      "id": "osm-w965393643",
       "name": "King-Greenleaf Recreation Center Tennis Courts",
-      "lat": 38.875574,
-      "lng": -77.012395,
-      "courtCount": 1,
+      "lat": 38.875575,
+      "lng": -77.012562,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -851,6 +1026,9 @@
       "name": "Tennis Courts · North Michigan Park",
       "lat": 38.947409,
       "lng": -76.985727,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -868,6 +1046,9 @@
       "name": "Fort Stevens Recreation Center Tennis Courts",
       "lat": 38.970411,
       "lng": -77.030103,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": true,
@@ -885,6 +1066,9 @@
       "name": "Turner Elementary School Tennis Courts",
       "lat": 38.848592,
       "lng": -76.980499,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -904,6 +1088,9 @@
       "name": "Tennis Courts · Warrington Avenue Southeast",
       "lat": 38.875796,
       "lng": -76.995964,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -923,6 +1110,9 @@
       "name": "Tennis Courts · 10th Street Southeast",
       "lat": 38.876068,
       "lng": -76.99288,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": true,
@@ -940,6 +1130,9 @@
       "name": "Tennis Courts · South Road",
       "lat": 38.930973,
       "lng": -77.068809,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -959,6 +1152,9 @@
       "name": "Tennis Courts · 34th Street Northwest",
       "lat": 38.928043,
       "lng": -77.066879,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 7,
       "surface": "unknown",
       "lighted": null,
@@ -976,6 +1172,9 @@
       "name": "Rock Creek & Potomac Parkway Tennis Courts",
       "lat": 38.907819,
       "lng": -77.050579,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "hard",
       "lighted": true,
@@ -993,6 +1192,9 @@
       "name": "Rock Creek & Potomac Parkway Tennis Courts",
       "lat": 38.906153,
       "lng": -77.059839,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1012,6 +1214,9 @@
       "name": "Hearst Recreation Center Tennis Courts",
       "lat": 38.938515,
       "lng": -77.071698,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1029,6 +1234,9 @@
       "name": "Bald Eagle Recreation Center Tennis Courts",
       "lat": 38.817513,
       "lng": -77.010086,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1046,6 +1254,9 @@
       "name": "Sherwood Recreation Center Tennis Courts",
       "lat": 38.898592,
       "lng": -76.993489,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1063,6 +1274,9 @@
       "name": "Randle Highlands Tennis Courts",
       "lat": 38.870336,
       "lng": -76.963726,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1080,6 +1294,9 @@
       "name": "Ron Brown College Preparatory High School Tennis Courts",
       "lat": 38.907402,
       "lng": -76.931989,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1099,6 +1316,9 @@
       "name": "Chuck Brown Park Tennis Courts",
       "lat": 38.926896,
       "lng": -76.977353,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1116,6 +1336,9 @@
       "name": "Rock Creek & Potomac Parkway Tennis Courts",
       "lat": 38.923277,
       "lng": -77.060611,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1135,6 +1358,9 @@
       "name": "Georgetown Visitation Preparatory School Tennis Courts",
       "lat": 38.910911,
       "lng": -77.071809,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1151,9 +1377,12 @@
     },
     {
       "id": "osm-w1409155298",
-      "name": "Dumbarton Oaks Park Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 38.919324,
       "lng": -77.063225,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1164,13 +1393,18 @@
       "city": null,
       "state": "DC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1412404502",
-      "name": "Fort Dupont Park Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 38.883364,
       "lng": -76.954522,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1188,6 +1422,9 @@
       "name": "Tennis Courts · Tyndall Street Southwest",
       "lat": 38.834613,
       "lng": -77.018901,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1207,6 +1444,9 @@
       "name": "Benning Park Tennis Courts",
       "lat": 38.880037,
       "lng": -76.929246,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1224,6 +1464,9 @@
       "name": "Rock Creek & Potomac Parkway Tennis Courts",
       "lat": 38.911161,
       "lng": -77.061109,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1243,6 +1486,9 @@
       "name": "Lafayette-Pointer Park Tennis Courts",
       "lat": 38.968168,
       "lng": -77.066748,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1260,6 +1506,9 @@
       "name": "White House Kitchen Garden Tennis Courts",
       "lat": 38.896137,
       "lng": -77.037133,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1277,6 +1526,9 @@
       "name": "Carter Godwin Woodson Memorial Park Tennis Courts",
       "lat": 38.911623,
       "lng": -77.02504,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1294,6 +1546,9 @@
       "name": "Forest Hills Park Tennis Courts",
       "lat": 38.95005,
       "lng": -77.065463,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "hard",
       "lighted": null,
@@ -1308,9 +1563,12 @@
     },
     {
       "id": "osm-w1492284880",
-      "name": "Shepherd Parkway Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 38.841074,
       "lng": -77.009758,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1330,6 +1588,9 @@
       "name": "Tennis Courts · 2nd Avenue",
       "lat": 38.866517,
       "lng": -77.017483,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": true,
@@ -1347,6 +1608,9 @@
       "name": "Tennis Courts · Ellicott Street Northwest",
       "lat": 38.953034,
       "lng": -77.06748,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1366,6 +1630,9 @@
       "name": "Ron Brown College Preparatory High School Tennis Courts",
       "lat": 38.907118,
       "lng": -76.933406,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 1,
       "surface": "unknown",
       "lighted": null,
@@ -1385,6 +1652,9 @@
       "name": "Hillandale Tennis Courts",
       "lat": 38.915765,
       "lng": -77.077095,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1395,13 +1665,18 @@
       "city": null,
       "state": "DC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1509279475",
       "name": "Hardy Tennis Courts",
       "lat": 38.909461,
       "lng": -77.085449,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1416,9 +1691,12 @@
     },
     {
       "id": "osm-w1509521461",
-      "name": "Langston Golf Course Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 38.902979,
       "lng": -76.96971,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -1435,8 +1713,12 @@
       "id": "osm-w1509521693",
       "name": "Arboretum Recreation Center Tennis Courts",
       "lat": 38.914157,
-      "lng": -76.971472,
-      "courtCount": 2,
+      "lng": -76.971429,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 4,
       "surface": "unknown",
       "lighted": false,
       "indoor": null,
@@ -1453,6 +1735,9 @@
       "name": "Fort Lincoln Recreation Center Tennis Courts",
       "lat": 38.924864,
       "lng": -76.958764,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 8,
       "surface": "unknown",
       "lighted": true,
@@ -1470,6 +1755,9 @@
       "name": "Kenilworth Recreation Center Tennis Courts",
       "lat": 38.907006,
       "lng": -76.945419,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1487,6 +1775,9 @@
       "name": "Kelly Miller Recreation Center Tennis Courts",
       "lat": 38.893003,
       "lng": -76.931128,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -1504,6 +1795,9 @@
       "name": "Powell Recreation Center Tennis Courts",
       "lat": 38.930579,
       "lng": -77.035863,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1519,8 +1813,11 @@
     {
       "id": "osm-w1512783530",
       "name": "Chevy Chase Recreation Center Tennis Courts",
-      "lat": 38.964321,
+      "lat": 38.964322,
       "lng": -77.080617,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": false,
@@ -1538,6 +1835,9 @@
       "name": "Embassy Park Tennis Courts",
       "lat": 38.934432,
       "lng": -77.083833,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1548,13 +1848,18 @@
       "city": null,
       "state": "DC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1529743218",
-      "name": "Garfield Park Tennis Courts",
+      "name": "Public Tennis Courts",
       "lat": 38.881246,
       "lng": -77.002649,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": true,
@@ -1565,13 +1870,18 @@
       "city": null,
       "state": "DC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1529748398",
       "name": "Fort Reno Park Tennis Courts",
       "lat": 38.951047,
       "lng": -77.079453,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": null,
@@ -1589,6 +1899,9 @@
       "name": "Sidwell Friends Middle School Tennis Courts",
       "lat": 38.940977,
       "lng": -77.074515,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 2,
       "surface": "unknown",
       "lighted": null,
@@ -1608,6 +1921,9 @@
       "name": "Sidwell Friends Middle School Tennis Courts",
       "lat": 38.938658,
       "lng": -77.074116,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 4,
       "surface": "unknown",
       "lighted": null,
@@ -1625,9 +1941,13 @@
     {
       "id": "osm-w1529750633",
       "name": "Newark Park Tennis Courts",
-      "lat": 38.934643,
-      "lng": -77.076202,
-      "courtCount": 3,
+      "lat": 38.934626,
+      "lng": -77.076292,
+      "sports": [
+        "tennis",
+        "pickleball"
+      ],
+      "courtCount": 5,
       "surface": "unknown",
       "lighted": null,
       "indoor": null,
@@ -1642,8 +1962,11 @@
     {
       "id": "osm-w1529754900",
       "name": "Tennis Courts · Arnold Avenue Southwest",
-      "lat": 38.841775,
+      "lat": 38.841774,
       "lng": -77.021142,
+      "sports": [
+        "tennis"
+      ],
       "courtCount": 3,
       "surface": "unknown",
       "lighted": true,
