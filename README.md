@@ -1,6 +1,6 @@
 # Court Finder · by All About Tennis
 
-A mobile-first web app for finding public tennis courts, built for the
+A mobile-first web app for finding public tennis and pickleball courts, built for the
 **All About Tennis** brand. It covers **all 50 US states + DC** — a
 full-screen map with clustered tennis-ball markers, distance-aware
 search, filters, and per-facility detail pages with directions.
@@ -67,7 +67,8 @@ Each `public/data/courts-<region>.json` file:
       "id": "osm-w123456",            // stable: "osm-*" or "nycparks-*"
       "name": "Public Tennis Courts", // facility/park name (with fallback)
       "lat": 33.45, "lng": -112.07,   // WGS84 centroid of the facility
-      "courtCount": 4,                // >= 1
+      "sports": ["tennis"],           // and/or "pickleball"; OSM lines tagged "tennis;pickleball" list both
+      "courtCount": 4,                // >= 1 (all sports combined)
       "surface": "hard" | "clay" | "grass" | "unknown",
       "lighted": true | false | null,
       "indoor": true | false | null,

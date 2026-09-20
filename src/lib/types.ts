@@ -60,6 +60,7 @@ export type Region =
   | 'wy';
 
 export type Surface = 'hard' | 'clay' | 'grass' | 'unknown';
+export type Sport = 'tennis' | 'pickleball';
 
 export type Access = 'public' | 'customers' | 'private' | 'unknown';
 
@@ -89,6 +90,8 @@ export interface Facility {
   /** WGS84 centroid of the facility. */
   lat: number;
   lng: number;
+  /** Which sports are played here; a line marked "tennis;pickleball" in OSM lists both. */
+  sports: Sport[];
   /** Number of courts at the facility, >= 1. */
   courtCount: number;
   surface: Surface;

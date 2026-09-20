@@ -62,13 +62,13 @@ function haversineM(lat1, lon1, lat2, lon2) {
   return 2 * R * Math.asin(Math.sqrt(a));
 }
 
-/** sport tag contains "tennis" as an exact token (not table_tennis etc.) */
-function isTennis(sport) {
-  if (!sport) return false;
-  return sport
-    .split(";")
-    .map((s) => s.trim().toLowerCase())
-    .includes("tennis");
+const SPORTS = ["tennis", "pickleball"];
+
+/** Which of our sports the tag names as exact tokens (not table_tennis etc.). */
+function sportsOf(sport) {
+  if (!sport) return [];
+  const tokens = sport.split(";").map((s) => s.trim().toLowerCase());
+  return SPORTS.filter((s) => tokens.includes(s));
 }
 
 function mapSurface(raw) {
@@ -110,7 +110,8 @@ function loadOsmElements(file) {
   const stats = { total: data.elements.length, notTennis: 0, noCoord: 0, nonCourt: 0, private: 0 };
   for (const el of data.elements) {
     const tags = el.tags || {};
-    if (!isTennis(tags.sport)) {
+    const sports = sportsOf(tags.sport);
+    if (!sports.length) {
       stats.notTennis++;
       continue;
     }
@@ -132,7 +133,7 @@ function loadOsmElements(file) {
       stats.private++;
       continue;
     }
-    kept.push({ type: el.type, id: el.id, lat, lon, tags });
+    kept.push({ type: el.type, id: el.id, lat, lon, tags, sports });
   }
   return { kept, stats };
 }
@@ -214,7 +215,7 @@ function facilityFromCluster(members, state) {
     .map((m) => m.tags.name);
   // Among sports-centre names, a tennis-specific one beats a generic one
   // ("USTA Billie Jean King National Tennis Center" over "Chase Center").
-  const tennisCentreNames = centreNames.filter((n) => /tennis|racquet|racket/i.test(n));
+  const tennisCentreNames = centreNames.filter((n) => /tennis|racquet|racket|pickleball/i.test(n));
   const name = tennisCentreNames.length
     ? mostCommon(tennisCentreNames)
     : centreNames.length
@@ -295,11 +296,15 @@ function facilityFromCluster(members, state) {
       extras.phone = t.phone || t["contact:phone"];
   }
 
+  // A facility plays whatever any of its courts play; "tennis;pickleball" lines are common.
+  const sports = SPORTS.filter((s) => members.some((m) => (m.sports || []).includes(s)));
+
   return {
     id: `osm-${typeChar}${rep.id}`,
-    name: name || FALLBACK_NAME,
+    name: name || (sports.includes("tennis") ? FALLBACK_NAME : "Public Pickleball Courts"),
     lat: +lat.toFixed(6),
     lng: +lng.toFixed(6),
+    sports,
     courtCount,
     surface,
     lighted,
@@ -383,6 +388,7 @@ function mergeNycParks(facilities, parksFile) {
         name: rec.Name || FALLBACK_NAME,
         lat: +lat.toFixed(6),
         lng: +lon.toFixed(6),
+        sports: ["tennis"],
         courtCount: courts,
         surface: surface || "unknown",
         lighted: null,

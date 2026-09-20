@@ -3,7 +3,7 @@
  * fetch-osm.mjs — Court Finder data pipeline (stage 1: fetch raw extracts).
  *
  * Downloads, per region, two Overpass extracts into data/raw/:
- *   osm-<slug>.json         all sport~tennis elements (`out center tags`)
+ *   osm-<slug>.json         all sport~tennis|pickleball elements (`out center tags`)
  *   osm-<slug>-places.json  named park/garden/sports_centre/recreation_ground/
  *                           golf_course, school/college/university, and
  *                           residential-complex ways+relations (`out tags bb`),
@@ -58,7 +58,7 @@ function scopeOf(region) {
 
 function courtsQuery(region) {
   const { prefix, suffix } = scopeOf(region);
-  return `[out:json][timeout:240];${prefix}nwr["sport"~"tennis"]${suffix};out center tags;`;
+  return `[out:json][timeout:240];${prefix}nwr["sport"~"tennis|pickleball"]${suffix};out center tags;`;
 }
 
 // Same named-place tag set the containment-enrichment stage already uses

@@ -83,7 +83,7 @@ export function CourtDetail({
 
         <div className="detail-badges">
           <span className="badge badge-neutral">
-            🎾 {facility.courtCount} {facility.courtCount === 1 ? 'court' : 'courts'}
+            {facility.sports?.includes('tennis') ? '🎾' : '🥒'} {facility.courtCount} {facility.courtCount === 1 ? 'court' : 'courts'}{facility.sports?.includes('pickleball') ? ' · pickleball' : ''}
           </span>
           <span className="badge badge-surface" data-surface={facility.surface}>
             {SURFACE_LABEL[facility.surface]}
