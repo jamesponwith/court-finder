@@ -4440,7 +4440,9 @@
       "city": null,
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w221419161",
@@ -4457,7 +4459,9 @@
       "city": null,
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w221419163",
@@ -4474,7 +4478,9 @@
       "city": null,
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w221419165",
@@ -4491,7 +4497,9 @@
       "city": null,
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w223102078",
@@ -7944,7 +7952,9 @@
       "city": "Grand County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w356856810",
@@ -10943,7 +10953,9 @@
       "city": null,
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w586004773",
@@ -12260,7 +12272,9 @@
       "city": null,
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w769446036",
@@ -12364,7 +12378,9 @@
       "city": "Saguache County",
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w785745938",
@@ -15111,7 +15127,9 @@
       "city": null,
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1061212754",
@@ -17965,7 +17983,9 @@
       "city": null,
       "state": "CO",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1416975314",

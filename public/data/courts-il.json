@@ -17970,7 +17970,9 @@
       "city": null,
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w479632422",
@@ -24268,7 +24270,9 @@
       "city": null,
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w895116881",
@@ -26792,7 +26796,9 @@
       "city": null,
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1025959030",
@@ -27941,7 +27947,9 @@
       "city": null,
       "state": "IL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1111910857",

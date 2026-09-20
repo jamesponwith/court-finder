@@ -3356,7 +3356,9 @@
       "city": null,
       "state": "GA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w308827874",
@@ -31795,7 +31797,9 @@
       "city": null,
       "state": "GA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1101763815",
@@ -33842,7 +33846,9 @@
       "city": "Ware County",
       "state": "GA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1126836464",
@@ -36905,7 +36911,9 @@
       "city": null,
       "state": "GA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1181240402",
@@ -41509,7 +41517,9 @@
       "city": null,
       "state": "GA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1314956851",
@@ -44271,7 +44281,9 @@
       "city": null,
       "state": "GA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334980323",
@@ -47482,7 +47494,9 @@
       "city": null,
       "state": "GA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1393557719",
@@ -59220,7 +59234,9 @@
       "city": null,
       "state": "GA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551543753",

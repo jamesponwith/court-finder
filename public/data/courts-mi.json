@@ -6993,7 +6993,9 @@
       "city": null,
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w263445881",
@@ -12815,7 +12817,9 @@
       "city": null,
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w378662265",
@@ -14734,7 +14738,9 @@
       "city": null,
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w438843910",
@@ -17030,7 +17036,9 @@
       "city": "Wilmot Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w593235076",
@@ -20501,7 +20509,9 @@
       "city": null,
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w798089865",
@@ -20840,7 +20850,9 @@
       "city": "Crystal Lake Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w834242485",
@@ -23948,7 +23960,9 @@
       "city": null,
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w962407326",
@@ -28284,7 +28298,9 @@
       "city": "Chikaming Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1227587988",
@@ -28901,7 +28917,9 @@
       "city": null,
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1282090443",
@@ -30302,7 +30320,9 @@
       "city": "Grand Island Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1396067296",
@@ -33205,7 +33225,9 @@
       "city": "Star Township",
       "state": "MI",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1462009155",

@@ -7263,7 +7263,9 @@
       "city": "Santa Fe County",
       "state": "NM",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1425758535",

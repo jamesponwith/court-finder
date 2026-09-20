@@ -903,7 +903,9 @@
       "city": null,
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w91255565",
@@ -4016,7 +4018,9 @@
       "city": "Lochearn",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w211098567",
@@ -6198,7 +6202,9 @@
       "city": "Towson",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w300689482",
@@ -9646,7 +9652,9 @@
       "city": null,
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w633546671",
@@ -18876,7 +18884,9 @@
       "city": "Towson",
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1293097967",
@@ -19289,7 +19299,9 @@
       "city": null,
       "state": "MD",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1321815780",

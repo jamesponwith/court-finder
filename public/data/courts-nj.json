@@ -174,7 +174,9 @@
       "city": "Montague Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-n13987368654",
@@ -3777,7 +3779,9 @@
       "city": "Princeton",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w291493501",
@@ -5082,7 +5086,9 @@
       "city": null,
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w379236480",
@@ -9325,7 +9331,9 @@
       "city": null,
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w625837375",
@@ -19674,7 +19682,9 @@
       "city": "Bass River Township",
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1126583859",
@@ -31669,7 +31679,9 @@
       "city": null,
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524011687",
@@ -31951,7 +31963,9 @@
       "city": null,
       "state": "NJ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1524814030",

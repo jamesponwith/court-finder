@@ -12150,7 +12150,9 @@
       "city": null,
       "state": "TN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1347386121",
@@ -18727,7 +18729,9 @@
       "city": null,
       "state": "TN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1539785159",

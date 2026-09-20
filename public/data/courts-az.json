@@ -2201,7 +2201,9 @@
       "city": "Cochise County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w163340503",
@@ -2268,7 +2270,7 @@
     },
     {
       "id": "osm-w166140408",
-      "name": "Public Pickleball Courts",
+      "name": "Gold Canyon RV & Golf Resort Pickleball Courts",
       "lat": 33.354158,
       "lng": -111.472538,
       "sports": [
@@ -2288,7 +2290,7 @@
     },
     {
       "id": "osm-w166140412",
-      "name": "Public Pickleball Courts",
+      "name": "Montesa at Gold Canyon Pickleball Courts",
       "lat": 33.35102,
       "lng": -111.463455,
       "sports": [
@@ -5185,7 +5187,7 @@
     },
     {
       "id": "osm-w254205035",
-      "name": "Public Pickleball Courts",
+      "name": "Horizon Park Pickleball Courts",
       "lat": 33.62707,
       "lng": -111.872979,
       "sports": [
@@ -5480,7 +5482,7 @@
     },
     {
       "id": "osm-w258227195",
-      "name": "Public Pickleball Courts",
+      "name": "Telephone Pioneers Pool Pickleball Courts",
       "lat": 33.649615,
       "lng": -112.102151,
       "sports": [
@@ -5542,7 +5544,7 @@
     },
     {
       "id": "osm-w264171095",
-      "name": "Public Pickleball Courts",
+      "name": "Poston Butte Golf Club Pickleball Courts",
       "lat": 33.069472,
       "lng": -111.466416,
       "sports": [
@@ -7313,11 +7315,13 @@
       "city": "Maricopa County",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w389118206",
-      "name": "Public Pickleball Courts",
+      "name": "Royal Palm Travel Trailer and Mobile Home Park Pickleball Courts",
       "lat": 33.569837,
       "lng": -112.103454,
       "sports": [
@@ -7333,7 +7337,9 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w389138404",
@@ -7510,7 +7516,7 @@
     },
     {
       "id": "osm-w405283950",
-      "name": "Public Pickleball Courts",
+      "name": "Orangewood Shadows RV Resort Pickleball Courts",
       "lat": 33.419855,
       "lng": -111.764052,
       "sports": [
@@ -9672,7 +9678,7 @@
     },
     {
       "id": "osm-w573745374",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Court",
       "lat": 32.5252,
       "lng": -110.874341,
       "sports": [
@@ -9728,7 +9734,9 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w583533092",
@@ -10450,7 +10458,7 @@
     },
     {
       "id": "osm-w612410067",
-      "name": "Public Pickleball Courts",
+      "name": "Buenavante Pickleball Courts",
       "lat": 33.60066,
       "lng": -111.910321,
       "sports": [
@@ -10466,7 +10474,9 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w612410069",
@@ -10598,7 +10608,7 @@
     },
     {
       "id": "osm-w648921681",
-      "name": "Public Pickleball Courts",
+      "name": "Cholla Park Pickleball Courts",
       "lat": 33.589929,
       "lng": -111.83906,
       "sports": [
@@ -10880,7 +10890,7 @@
     },
     {
       "id": "osm-w685290671",
-      "name": "Public Pickleball Courts",
+      "name": "Palm Valley Golf Club Pickleball Courts",
       "lat": 33.46871,
       "lng": -112.358754,
       "sports": [
@@ -11022,7 +11032,9 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w698314943",
@@ -11340,7 +11352,9 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w718441999",
@@ -11750,7 +11764,7 @@
     },
     {
       "id": "osm-w781474558",
-      "name": "Public Pickleball Courts",
+      "name": "Mulberry Park Pickleball Courts",
       "lat": 33.365443,
       "lng": -111.613144,
       "sports": [
@@ -11836,7 +11850,7 @@
     },
     {
       "id": "osm-w785494362",
-      "name": "Public Pickleball Courts",
+      "name": "Far Horizons Trailer Village Pickleball Courts",
       "lat": 32.225952,
       "lng": -110.827319,
       "sports": [
@@ -12545,7 +12559,7 @@
     },
     {
       "id": "osm-w824689286",
-      "name": "Public Pickleball Courts",
+      "name": "Kino Veterans Memorial Sports Complex South Pickleball Courts",
       "lat": 32.166985,
       "lng": -110.934362,
       "sports": [
@@ -13011,7 +13025,7 @@
     },
     {
       "id": "osm-w858618855",
-      "name": "Public Pickleball Courts",
+      "name": "Gilla Butte Estates Pickleball Courts",
       "lat": 33.221632,
       "lng": -111.843219,
       "sports": [
@@ -13027,7 +13041,9 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w862786695",
@@ -13884,7 +13900,9 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w906859955",
@@ -14070,7 +14088,9 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w925007363",
@@ -14305,7 +14325,7 @@
     },
     {
       "id": "osm-w935670964",
-      "name": "Public Pickleball Courts",
+      "name": "Pioneer RV Park Pickleball Courts",
       "lat": 33.824303,
       "lng": -112.149906,
       "sports": [
@@ -14321,7 +14341,9 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w938184031",
@@ -14689,7 +14711,7 @@
     },
     {
       "id": "osm-w955867036",
-      "name": "Public Pickleball Courts",
+      "name": "La Glorieta Pickleball Courts",
       "lat": 33.31435,
       "lng": -111.879107,
       "sports": [
@@ -14705,7 +14727,9 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w956398748",
@@ -14838,7 +14862,7 @@
     },
     {
       "id": "osm-w962064078",
-      "name": "Public Pickleball Courts",
+      "name": "Paseo Highlands Park Pickleball Courts",
       "lat": 33.69536,
       "lng": -112.132662,
       "sports": [
@@ -16277,11 +16301,13 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1045738401",
-      "name": "Public Pickleball Courts",
+      "name": "Liberty Park Pickleball Courts",
       "lat": 33.690275,
       "lng": -112.267803,
       "sports": [
@@ -16687,7 +16713,7 @@
     },
     {
       "id": "osm-w1053450659",
-      "name": "Public Pickleball Courts",
+      "name": "Sycamore Vista Estates Pickleball Courts",
       "lat": 32.274055,
       "lng": -110.804021,
       "sports": [
@@ -16703,7 +16729,9 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1053450666",
@@ -17144,7 +17172,7 @@
     },
     {
       "id": "osm-w1056654042",
-      "name": "Public Pickleball Courts",
+      "name": "Morris K. Udall Park Pickleball Courts",
       "lat": 32.248326,
       "lng": -110.836737,
       "sports": [
@@ -17380,7 +17408,7 @@
     },
     {
       "id": "osm-w1081011723",
-      "name": "Public Pickleball Courts",
+      "name": "Thompson Peak Park Pickleball Courts",
       "lat": 33.669277,
       "lng": -111.908231,
       "sports": [
@@ -17400,7 +17428,7 @@
     },
     {
       "id": "osm-w1089873304",
-      "name": "Public Pickleball Courts",
+      "name": "Quail Creek-Veterans Municipal Park Pickleball Courts",
       "lat": 31.897363,
       "lng": -110.965248,
       "sports": [
@@ -17508,7 +17536,7 @@
     },
     {
       "id": "osm-w1094401245",
-      "name": "Public Pickleball Courts",
+      "name": "Oro Valley Country Club Golf Course Pickleball Courts",
       "lat": 32.390111,
       "lng": -110.970841,
       "sports": [
@@ -17544,7 +17572,9 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1100776202",
@@ -17693,7 +17723,9 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1107247050",
@@ -17781,7 +17813,7 @@
     },
     {
       "id": "osm-w1120883689",
-      "name": "Public Pickleball Courts",
+      "name": "Cimarron Golf Club Pickleball Courts",
       "lat": 33.665544,
       "lng": -112.424977,
       "sports": [
@@ -17823,7 +17855,7 @@
     },
     {
       "id": "osm-w1125859444",
-      "name": "Public Pickleball Courts",
+      "name": "Arizona Traditions Golf Club Pickleball Courts",
       "lat": 33.649924,
       "lng": -112.445146,
       "sports": [
@@ -17883,7 +17915,7 @@
     },
     {
       "id": "osm-w1126408726",
-      "name": "Public Pickleball Courts",
+      "name": "Great Eagle Golf Club Pickleball Courts",
       "lat": 33.648936,
       "lng": -112.432908,
       "sports": [
@@ -17903,7 +17935,7 @@
     },
     {
       "id": "osm-w1126415181",
-      "name": "Public Pickleball Courts",
+      "name": "Great Eagle Golf Club Pickleball Courts",
       "lat": 33.644354,
       "lng": -112.429594,
       "sports": [
@@ -18001,7 +18033,9 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1137259095",
@@ -18215,7 +18249,9 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1148617456",
@@ -18614,7 +18650,7 @@
     },
     {
       "id": "osm-w1163101294",
-      "name": "Public Pickleball Courts",
+      "name": "Fort Lowell Park Pickleball Courts",
       "lat": 32.25998,
       "lng": -110.871802,
       "sports": [
@@ -18674,7 +18710,7 @@
     },
     {
       "id": "osm-w1164715538",
-      "name": "Public Pickleball Courts",
+      "name": "Festival Fields Park Pickleball Courts",
       "lat": 33.420079,
       "lng": -112.351266,
       "sports": [
@@ -18867,7 +18903,7 @@
     },
     {
       "id": "osm-w1174302913",
-      "name": "Public Pickleball Courts",
+      "name": "Surprise Community Park Pickleball Courts",
       "lat": 33.628428,
       "lng": -112.373892,
       "sports": [
@@ -18887,7 +18923,7 @@
     },
     {
       "id": "osm-w1174345441",
-      "name": "Public Pickleball Courts",
+      "name": "Deer Valley Golf Course Pickleball Courts",
       "lat": 33.687476,
       "lng": -112.358464,
       "sports": [
@@ -19090,7 +19126,9 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1193248147",
@@ -19181,7 +19219,7 @@
     },
     {
       "id": "osm-w1204540330",
-      "name": "Public Pickleball Courts",
+      "name": "Arizona Athletic Grounds Pickleball Courts",
       "lat": 33.299476,
       "lng": -111.631159,
       "sports": [
@@ -19285,7 +19323,7 @@
     },
     {
       "id": "osm-w1217578668",
-      "name": "Public Pickleball Courts",
+      "name": "Sonora Rancho Pickleball Courts",
       "lat": 31.989979,
       "lng": -110.979376,
       "sports": [
@@ -19301,7 +19339,9 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1217595502",
@@ -19741,7 +19781,7 @@
     },
     {
       "id": "osm-w1238765190",
-      "name": "Public Pickleball Courts",
+      "name": "Christopher J. Brady Park Pickleball Courts",
       "lat": 33.366219,
       "lng": -111.685823,
       "sports": [
@@ -19892,7 +19932,7 @@
     },
     {
       "id": "osm-w1253489580",
-      "name": "Public Pickleball Courts",
+      "name": "The Reserve at Plaza del Rio Pickleball Courts",
       "lat": 33.605586,
       "lng": -112.255835,
       "sports": [
@@ -19908,7 +19948,9 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1255039677",
@@ -20099,7 +20141,9 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1280663027",
@@ -20229,7 +20273,7 @@
     },
     {
       "id": "osm-w1283102186",
-      "name": "Public Pickleball Courts",
+      "name": "Pueblo El Mirage Golf Club Pickleball Courts",
       "lat": 33.59382,
       "lng": -112.320412,
       "sports": [
@@ -20313,7 +20357,7 @@
     },
     {
       "id": "osm-w1291637417",
-      "name": "Public Pickleball Courts",
+      "name": "Frontier Family Park Pickleball Courts",
       "lat": 33.265732,
       "lng": -111.603564,
       "sports": [
@@ -20440,7 +20484,7 @@
     },
     {
       "id": "osm-w1302451395",
-      "name": "Public Pickleball Courts",
+      "name": "Fort Thomas High School Pickleball Courts",
       "lat": 33.037413,
       "lng": -109.963191,
       "sports": [
@@ -20456,11 +20500,13 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w1304155522",
-      "name": "Public Pickleball Courts",
+      "name": "Daley Estates Park Pickleball Courts",
       "lat": 32.801664,
       "lng": -109.76695,
       "sports": [
@@ -20524,7 +20570,7 @@
     },
     {
       "id": "osm-w1306275928",
-      "name": "Public Pickleball Courts",
+      "name": "Alta 99th Apartments Pickleball Courts",
       "lat": 33.499688,
       "lng": -112.271201,
       "sports": [
@@ -20540,7 +20586,9 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1306920103",
@@ -20758,7 +20806,7 @@
     },
     {
       "id": "osm-w1331374681",
-      "name": "Public Pickleball Courts",
+      "name": "Coppersun Pickleball Courts",
       "lat": 33.627959,
       "lng": -112.322651,
       "sports": [
@@ -20774,7 +20822,9 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1331374817",
@@ -20886,7 +20936,7 @@
     },
     {
       "id": "osm-w1333149605",
-      "name": "Public Pickleball Courts",
+      "name": "Friendly Acres RV Park Pickleball Courts",
       "lat": 32.71154,
       "lng": -114.653637,
       "sports": [
@@ -20902,7 +20952,9 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333149662",
@@ -20990,7 +21042,7 @@
     },
     {
       "id": "osm-w1339971333",
-      "name": "Public Pickleball Courts",
+      "name": "VLux at Peoria Heights Pickleball Courts",
       "lat": 33.568116,
       "lng": -112.239112,
       "sports": [
@@ -21006,7 +21058,9 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1341206120",
@@ -21074,7 +21128,7 @@
     },
     {
       "id": "osm-w1354765824",
-      "name": "Public Pickleball Courts",
+      "name": "King's Green Pickleball Courts",
       "lat": 33.483665,
       "lng": -112.5052,
       "sports": [
@@ -21094,7 +21148,7 @@
     },
     {
       "id": "osm-w1355087911",
-      "name": "Public Pickleball Courts",
+      "name": "La Estancia de Tucson Pickleball Courts",
       "lat": 32.11438,
       "lng": -110.84819,
       "sports": [
@@ -21110,7 +21164,9 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1355215336",
@@ -21391,7 +21447,7 @@
     },
     {
       "id": "osm-w1376181639",
-      "name": "Public Pickleball Courts",
+      "name": "Avion At Ballpark Village Pickleball Courts",
       "lat": 33.41804,
       "lng": -112.395955,
       "sports": [
@@ -21407,7 +21463,9 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1376350785",
@@ -21452,7 +21510,7 @@
     },
     {
       "id": "osm-w1378131703",
-      "name": "Public Pickleball Courts",
+      "name": "Solano Park Pickleball Courts",
       "lat": 33.517885,
       "lng": -112.09366,
       "sports": [
@@ -21493,7 +21551,7 @@
     },
     {
       "id": "osm-w1384158674",
-      "name": "Public Pickleball Courts",
+      "name": "Harvest Park Pickleball Courts",
       "lat": 33.366189,
       "lng": -112.176702,
       "sports": [
@@ -21938,7 +21996,9 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435104339",
@@ -21984,7 +22044,7 @@
     },
     {
       "id": "osm-w1435559279",
-      "name": "Public Pickleball Courts",
+      "name": "Mesa East Pickleball Courts",
       "lat": 33.412026,
       "lng": -111.670479,
       "sports": [
@@ -22064,7 +22124,9 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435561599",
@@ -22084,7 +22146,9 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435561600",
@@ -22148,7 +22212,9 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435561607",
@@ -22168,7 +22234,9 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1435561608",
@@ -22342,7 +22410,7 @@
     },
     {
       "id": "osm-w1437027475",
-      "name": "Public Pickleball Courts",
+      "name": "Vista Del Sol RV Resort Pickleball Courts",
       "lat": 35.064428,
       "lng": -114.568359,
       "sports": [
@@ -22358,7 +22426,9 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1441678260",
@@ -22378,7 +22448,9 @@
       "city": "Mesa",
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1442000474",
@@ -22721,7 +22793,9 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446566502",
@@ -22741,7 +22815,9 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446948934",
@@ -23022,7 +23098,7 @@
     },
     {
       "id": "osm-w1453092208",
-      "name": "Public Pickleball Courts",
+      "name": "Pueblo Sereno Mobile Home Park Pickleball Courts",
       "lat": 33.453363,
       "lng": -111.902357,
       "sports": [
@@ -23038,11 +23114,13 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1453820782",
-      "name": "Public Pickleball Courts",
+      "name": "Butterfield Park Pickleball Courts",
       "lat": 32.675191,
       "lng": -114.136304,
       "sports": [
@@ -23106,7 +23184,7 @@
     },
     {
       "id": "osm-w1454278099",
-      "name": "Public Pickleball Courts",
+      "name": "Wellton Elementary School Pickleball Courts",
       "lat": 32.672091,
       "lng": -114.139436,
       "sports": [
@@ -23122,7 +23200,9 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "school"
+      }
     },
     {
       "id": "osm-w1454979956",
@@ -23162,7 +23242,9 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1456759090",
@@ -23593,7 +23675,7 @@
     },
     {
       "id": "osm-w1460870984",
-      "name": "Public Pickleball Courts",
+      "name": "Riverstone Apartments Pickleball Courts",
       "lat": 32.255461,
       "lng": -110.865057,
       "sports": [
@@ -24585,7 +24667,7 @@
     },
     {
       "id": "osm-w1466919473",
-      "name": "Public Pickleball Courts",
+      "name": "San Jose Manor Apartments Pickleball Courts",
       "lat": 33.394775,
       "lng": -111.880682,
       "sports": [
@@ -24601,7 +24683,9 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1466919842",
@@ -25129,7 +25213,7 @@
     },
     {
       "id": "osm-w1466937669",
-      "name": "Public Pickleball Courts",
+      "name": "Continental Country Club Pickleball Courts",
       "lat": 35.203269,
       "lng": -111.579466,
       "sports": [
@@ -25603,7 +25687,7 @@
     },
     {
       "id": "osm-w1475119725",
-      "name": "Public Pickleball Courts",
+      "name": "Mesa Country Club Golf Course Pickleball Courts",
       "lat": 33.436519,
       "lng": -111.841571,
       "sports": [
@@ -25775,7 +25859,7 @@
     },
     {
       "id": "osm-w1489923774",
-      "name": "Public Pickleball Courts",
+      "name": "Eastgate Pickleball Courts",
       "lat": 33.395753,
       "lng": -111.586807,
       "sports": [
@@ -25791,7 +25875,9 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1489976439",
@@ -25920,7 +26006,9 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492360184",
@@ -25940,11 +26028,13 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1493453471",
-      "name": "Public Pickleball Courts",
+      "name": "Desert Hills Estates North Pickleball Courts",
       "lat": 33.804603,
       "lng": -112.063409,
       "sports": [
@@ -25960,7 +26050,9 @@
       "city": null,
       "state": "AZ",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1501243091",
@@ -26370,7 +26462,7 @@
     },
     {
       "id": "osm-w1526135791",
-      "name": "Public Pickleball Courts",
+      "name": "Rincon Country West Pickleball Courts",
       "lat": 32.166502,
       "lng": -111.003189,
       "sports": [

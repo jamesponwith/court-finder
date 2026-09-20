@@ -801,7 +801,9 @@
       "city": null,
       "state": "PA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w54579512",
@@ -9748,7 +9750,9 @@
       "city": null,
       "state": "PA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w559185062",
@@ -38700,7 +38704,9 @@
       "city": null,
       "state": "PA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1391211056",
@@ -41115,7 +41121,9 @@
       "city": null,
       "state": "PA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1447819356",
@@ -41312,7 +41320,9 @@
       "city": "Cumru Township",
       "state": "PA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1454567774",
@@ -46213,7 +46223,9 @@
       "city": null,
       "state": "PA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1513864034",

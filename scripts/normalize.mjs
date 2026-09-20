@@ -43,6 +43,12 @@ const CLUSTER_RADIUS_M = 120; // OSM element -> facility clustering
 const MERGE_RADIUS_M = 150; // NYC Parks record -> OSM facility matching
 const MAX_COURTS = 60;
 const FALLBACK_NAME = "Public Tennis Courts";
+const PICKLEBALL_FALLBACK = "Public Pickleball Courts";
+/** Still carrying a pipeline placeholder name (either sport). */
+const isUnnamed = (f) => f.name === FALLBACK_NAME || f.name === PICKLEBALL_FALLBACK;
+/** "Tennis Courts" / "Pickleball Courts" suffix for derived names. */
+const courtsWord = (f) => (f.sports?.includes("tennis") === false ? "Pickleball Courts" : "Tennis Courts");
+const SPORTY_NAME = /tennis|racquet|racket|pickleball/i;
 
 // NYC-city bounding box, used only by the NYC Parks merge to correct the
 // source quirk of longitudes with a missing minus sign (the ny region's own
@@ -301,7 +307,7 @@ function facilityFromCluster(members, state) {
 
   return {
     id: `osm-${typeChar}${rep.id}`,
-    name: name || (sports.includes("tennis") ? FALLBACK_NAME : "Public Pickleball Courts"),
+    name: name || (sports.includes("tennis") ? FALLBACK_NAME : PICKLEBALL_FALLBACK),
     lat: +lat.toFixed(6),
     lng: +lng.toFixed(6),
     sports,
@@ -455,7 +461,6 @@ function enrichNamesFromPlaces(region, facilities, placeFiles) {
   const MARGIN = 30 / 111000; // ~30 m of bbox slack, in degrees
   let renamed = 0, schools = 0;
   for (const f of facilities) {
-    if (f.name !== FALLBACK_NAME) continue;
     // Smallest containing named box wins, except that residential-complex
     // boxes only apply when no park/school/sports box contains the facility
     // (condo subdivisions often abut or overlap the park their courts are
@@ -470,14 +475,15 @@ function enrichNamesFromPlaces(region, facilities, placeFiles) {
         if (!bestResidential || p.areaDeg < bestResidential.areaDeg) bestResidential = p;
       } else if (!best || p.areaDeg < best.areaDeg) best = p;
     }
+    // Inside a residential subdivision and in no park/school/sports grounds: whatever it
+    // is called, a 1-2 court facility here is a backyard or a condo's court (residential.mjs).
+    f._inResidential = !best && !!bestResidential;
     if (!best) best = bestResidential;
-    if (best) {
+    if (best && isUnnamed(f)) {
       // Named only after a residential subdivision: still likely a backyard
       // court when small (see scripts/residential.mjs).
       if (best.kind === "residential") f._residentialName = true;
-      f.name = /tennis|racquet|racket/i.test(best.name)
-        ? best.name
-        : `${best.name} Tennis Courts`;
+      f.name = SPORTY_NAME.test(best.name) ? best.name : `${best.name} ${courtsWord(f)}`;
       renamed++;
       if (best.kind === "school") {
         // Courts on school/college/university grounds may not be truly
@@ -524,7 +530,7 @@ function applyGeocodeCache(region, facilities, cacheFile) {
     const addr = [a.house_number, road].filter(Boolean).join(" ") || null;
     const city = a.city || a.town || a.village || a.suburb || a.county || null;
 
-    if (f.name === FALLBACK_NAME) {
+    if (isUnnamed(f)) {
       // Prefer the Nominatim feature name when it's a park/pitch/sports
       // thing; else fall back to "Tennis Courts · <road/neighbourhood>".
       const sporty =
@@ -532,15 +538,13 @@ function applyGeocodeCache(region, facilities, cacheFile) {
         (g.category === "leisure" || NOMINATIM_SPORTY_TYPES.has(g.type));
       const area = a.neighbourhood || a.suburb || null;
       if (sporty) {
-        f.name = /tennis|racquet|racket/i.test(g.name)
-          ? g.name
-          : `${g.name} Tennis Courts`;
+        f.name = SPORTY_NAME.test(g.name) ? g.name : `${g.name} ${courtsWord(f)}`;
         renamed++;
       } else if (road) {
-        f.name = `Tennis Courts · ${road}`;
+        f.name = `${courtsWord(f)} · ${road}`;
         renamed++;
       } else if (area) {
-        f.name = `Tennis Courts · ${area}`;
+        f.name = `${courtsWord(f)} · ${area}`;
         renamed++;
       }
     }
@@ -595,7 +599,7 @@ function writeRegion(region, facilities) {
 function summarize(region, facilities) {
   const n = facilities.length;
   const pct = (k) => ((100 * k) / n).toFixed(1) + "%";
-  const named = facilities.filter((f) => f.name !== FALLBACK_NAME).length;
+  const named = facilities.filter((f) => !isUnnamed(f)).length;
   const lit = facilities.filter((f) => f.lighted !== null).length;
   const surf = facilities.filter((f) => f.surface !== "unknown").length;
   const totalCourts = facilities.reduce((s, f) => s + f.courtCount, 0);
@@ -659,7 +663,7 @@ for (const region of REGIONS) {
   console.log(`[${slug}] residential: tagged ${flagResidential(facilities)} likely backyard courts`);
 
   // Strip internal working fields so the output schema stays unchanged.
-  for (const f of facilities) { delete f._accessExplicit; delete f._residentialName; }
+  for (const f of facilities) { delete f._accessExplicit; delete f._residentialName; delete f._inResidential; }
 
   sanityCheck(slug, facilities, bounds);
   writeRegion(slug, facilities);

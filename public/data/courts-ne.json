@@ -2605,7 +2605,9 @@
       "city": null,
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w690991490",
@@ -7303,7 +7305,9 @@
       "city": null,
       "state": "NE",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526468410",

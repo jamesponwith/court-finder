@@ -957,7 +957,9 @@
       "city": null,
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w83861534",
@@ -10198,7 +10200,9 @@
       "city": null,
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1460581796",
@@ -12657,7 +12661,9 @@
       "city": "Provo",
       "state": "UT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1541314935",

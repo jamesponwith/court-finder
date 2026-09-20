@@ -2313,7 +2313,9 @@
       "city": null,
       "state": "NH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w202317681",
@@ -2593,7 +2595,9 @@
       "city": null,
       "state": "NH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w235480727",
@@ -3397,7 +3401,9 @@
       "city": "Canterbury",
       "state": "NH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w366393417",
@@ -5920,7 +5926,9 @@
       "city": "New Boston",
       "state": "NH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1076999444",
@@ -7662,7 +7670,9 @@
       "city": null,
       "state": "NH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1243071756",
@@ -9637,7 +9647,9 @@
       "city": null,
       "state": "NH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1495677339",

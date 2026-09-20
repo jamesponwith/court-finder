@@ -697,7 +697,9 @@
       "city": null,
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w29797143",
@@ -7279,7 +7281,9 @@
       "city": "Concord",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w376015645",
@@ -8267,7 +8271,9 @@
       "city": "Mashpee",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w427238246",
@@ -8984,7 +8990,9 @@
       "city": null,
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w441249683",
@@ -11582,7 +11590,9 @@
       "city": null,
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w619598470",
@@ -18534,7 +18544,9 @@
       "city": null,
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w818640697",
@@ -23376,7 +23388,9 @@
       "city": "Pittsfield",
       "state": "MA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1089712740",

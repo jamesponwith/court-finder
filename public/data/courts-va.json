@@ -2294,7 +2294,9 @@
       "city": null,
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w133676599",
@@ -21852,7 +21854,9 @@
       "city": null,
       "state": "VA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1110146194",

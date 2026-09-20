@@ -2121,7 +2121,9 @@
       "city": null,
       "state": "CA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w32935521",
@@ -5872,7 +5874,9 @@
       "city": "Los Angeles County",
       "state": "CA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w98952449",
@@ -12905,7 +12909,9 @@
       "city": "San Luis Obispo County",
       "state": "CA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w219068346",
@@ -13532,7 +13538,9 @@
       "city": null,
       "state": "CA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w225764309",
@@ -16335,7 +16343,9 @@
       "city": null,
       "state": "CA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w278323984",
@@ -21810,7 +21820,9 @@
       "city": null,
       "state": "CA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w368956877",
@@ -22007,7 +22019,9 @@
       "city": null,
       "state": "CA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w371609396",
@@ -28413,7 +28427,9 @@
       "city": "Sonoma County",
       "state": "CA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w462500795",
@@ -38344,7 +38360,9 @@
       "city": "Santa Barbara County",
       "state": "CA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w591882057",
@@ -39273,7 +39291,9 @@
       "city": null,
       "state": "CA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w607990993",
@@ -44536,7 +44556,9 @@
       "city": "San Mateo County",
       "state": "CA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w675358803",
@@ -45053,7 +45075,9 @@
       "city": "Shasta County",
       "state": "CA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w682991987",
@@ -46563,7 +46587,9 @@
       "city": "Ventura County",
       "state": "CA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w701468695",
@@ -54689,7 +54715,9 @@
       "city": "San Bernardino County",
       "state": "CA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w844079197",
@@ -56719,7 +56747,9 @@
       "city": "Los Gatos",
       "state": "CA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w891871926",
@@ -64531,7 +64561,9 @@
       "city": "Monterey County",
       "state": "CA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1069442946",
@@ -67753,7 +67785,9 @@
       "city": null,
       "state": "CA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1128002468",
@@ -72240,7 +72274,9 @@
       "city": null,
       "state": "CA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1219677675",
@@ -73762,7 +73798,9 @@
       "city": "Marin County",
       "state": "CA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1233902700",
@@ -73910,7 +73948,9 @@
       "city": "Joshua Tree",
       "state": "CA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1236086286",
@@ -77657,7 +77697,9 @@
       "city": null,
       "state": "CA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1275468943",
@@ -78844,7 +78886,9 @@
       "city": "Big Bear City",
       "state": "CA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1290056772",
@@ -82296,7 +82340,9 @@
       "city": "Madera County",
       "state": "CA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333600480",
@@ -92559,7 +92605,9 @@
       "city": null,
       "state": "CA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1414319623",
@@ -95347,7 +95395,9 @@
       "city": null,
       "state": "CA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1416747097",
@@ -101156,7 +101206,9 @@
       "city": null,
       "state": "CA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1419145363",
@@ -111780,7 +111832,9 @@
       "city": "Laguna Beach",
       "state": "CA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1423562116",
@@ -114057,7 +114111,9 @@
       "city": "Sonoma County",
       "state": "CA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1427011252",
@@ -116360,7 +116416,9 @@
       "city": "Napa County",
       "state": "CA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1433434218",
@@ -116567,7 +116625,9 @@
       "city": "Napa County",
       "state": "CA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1433625537",
@@ -132009,7 +132069,9 @@
       "city": null,
       "state": "CA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1553109588",

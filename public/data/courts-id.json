@@ -5643,7 +5643,9 @@
       "city": null,
       "state": "ID",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1468621395",

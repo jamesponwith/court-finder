@@ -2939,7 +2939,9 @@
       "city": null,
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w264689967",
@@ -3780,7 +3782,9 @@
       "city": null,
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w307224260",
@@ -9329,7 +9333,9 @@
       "city": null,
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w604046148",
@@ -9846,7 +9852,9 @@
       "city": null,
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w635483216",
@@ -10990,7 +10998,9 @@
       "city": null,
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w731888865",
@@ -12143,7 +12153,9 @@
       "city": null,
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w819996141",
@@ -13324,7 +13336,9 @@
       "city": null,
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w912742259",
@@ -14740,7 +14754,9 @@
       "city": null,
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1042066698",
@@ -26509,7 +26525,9 @@
       "city": "Caldwell County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1457616402",
@@ -28141,7 +28159,9 @@
       "city": null,
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1476686925",
@@ -29627,7 +29647,9 @@
       "city": null,
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1482694847",
@@ -32072,7 +32094,9 @@
       "city": null,
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1491361578",
@@ -34256,7 +34280,9 @@
       "city": null,
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1495704689",
@@ -35603,7 +35629,9 @@
       "city": "Graham County",
       "state": "NC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1553331057",

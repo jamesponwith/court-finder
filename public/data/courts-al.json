@@ -8215,7 +8215,9 @@
       "city": null,
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1084071414",
@@ -9324,7 +9326,9 @@
       "city": null,
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1277948060",
@@ -11990,7 +11994,9 @@
       "city": null,
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1474012327",
@@ -15075,7 +15081,9 @@
       "city": null,
       "state": "AL",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     }
   ]
 }

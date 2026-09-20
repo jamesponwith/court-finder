@@ -13707,7 +13707,9 @@
       "city": null,
       "state": "OR",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1551796907",

@@ -3248,7 +3248,9 @@
       "city": "Cimarron County",
       "state": "OK",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w760609745",

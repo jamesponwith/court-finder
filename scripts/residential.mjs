@@ -24,13 +24,24 @@ import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
 export const FALLBACK_NAME = "Public Tennis Courts";
+export const PICKLEBALL_FALLBACK = "Public Pickleball Courts";
+// "Cathedral Rock Road Tennis Courts": a geocoder named it after the street it sits on.
+const ROAD_NAMED =
+  /\b(road|rd|drive|dr|street|st|lane|ln|circle|cir|way|place|pl|avenue|ave|boulevard|blvd|trail|court|ct|loop|parkway|pkwy|terrace)\.? (tennis|pickleball) courts$/i;
 
 export function isResidentialGuess(f) {
   // _residentialName: normalize.mjs named it after a containing residential
   // subdivision box ("<Subdivision> Tennis Courts"); a satellite spot check
   // showed those single courts are usually backyards too.
-  const unnamed = f.name === FALLBACK_NAME || f.name.includes(" · ") || f._residentialName;
-  return unnamed && f.courtCount <= 2 && !f.tags?.context;
+  // _inResidential: sits inside a residential subdivision with no park/school/sports grounds
+  // around it — a named 1-2 court facility there is a condo's or a house's, not the public's.
+  const unnamed =
+    f.name === FALLBACK_NAME ||
+    f.name === PICKLEBALL_FALLBACK ||
+    f.name.includes(" · ") ||
+    ROAD_NAMED.test(f.name) ||
+    f._residentialName;
+  return (unnamed || f._inResidential) && f.courtCount <= 2 && !f.tags?.context;
 }
 
 /** Mutates facilities; returns how many were tagged. */
@@ -58,6 +69,11 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
   console.log(`total: tagged ${tagged} of ${total} facilities residential`);
   // self-check
   const ok = isResidentialGuess({ name: "Tennis Courts · Elm St", courtCount: 1, tags: {} }) &&
+    isResidentialGuess({ name: PICKLEBALL_FALLBACK, courtCount: 1, tags: {} }) &&
+    isResidentialGuess({ name: "Cathedral Rock Road Tennis Courts", courtCount: 1, tags: {} }) &&
+    isResidentialGuess({ name: "Camelback Walk Tennis Courts", courtCount: 1, tags: {}, _inResidential: true }) &&
+    !isResidentialGuess({ name: "Camelback Walk Tennis Courts", courtCount: 1, tags: {} }) &&
+    !isResidentialGuess({ name: "Pickleball Courts · Elm St", courtCount: 8, tags: {} }) &&
     !isResidentialGuess({ name: "Tennis Courts · Elm St", courtCount: 3, tags: {} }) &&
     !isResidentialGuess({ name: "Elm Park Tennis Courts", courtCount: 1, tags: {} }) &&
     !isResidentialGuess({ name: FALLBACK_NAME, courtCount: 1, tags: { context: "school" } }) &&

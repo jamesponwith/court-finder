@@ -7229,7 +7229,9 @@
       "city": null,
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w565261267",
@@ -7902,7 +7904,9 @@
       "city": null,
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w769794500",
@@ -9127,7 +9131,9 @@
       "city": "Estill",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1021791165",
@@ -10858,7 +10864,9 @@
       "city": null,
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1181958842",
@@ -14283,7 +14291,9 @@
       "city": null,
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1388864732",
@@ -17131,7 +17141,9 @@
       "city": null,
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1487832509",
@@ -17538,7 +17550,9 @@
       "city": "Pickens County",
       "state": "SC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1494110820",

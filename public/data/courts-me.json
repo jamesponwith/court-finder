@@ -5585,7 +5585,9 @@
       "city": null,
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1347399814",
@@ -5602,7 +5604,9 @@
       "city": null,
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1350764446",
@@ -7109,7 +7113,9 @@
       "city": null,
       "state": "ME",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1481639998",

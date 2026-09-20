@@ -4387,7 +4387,9 @@
       "city": null,
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w584957292",
@@ -5340,7 +5342,9 @@
       "city": null,
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w652295233",
@@ -9681,7 +9685,9 @@
       "city": null,
       "state": "KS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1446125991",

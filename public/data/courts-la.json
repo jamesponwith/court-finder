@@ -2643,7 +2643,9 @@
       "city": null,
       "state": "LA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1014050264",

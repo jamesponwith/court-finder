@@ -172,7 +172,9 @@
       "city": null,
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w32679932",
@@ -1480,7 +1482,9 @@
       "city": null,
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w38415147",
@@ -9853,7 +9857,9 @@
       "city": null,
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w233920943",
@@ -11364,7 +11370,9 @@
       "city": null,
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w276149309",
@@ -18044,7 +18052,9 @@
       "city": null,
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w631392939",
@@ -20084,7 +20094,9 @@
       "city": null,
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w757477272",
@@ -33080,7 +33092,9 @@
       "city": null,
       "state": "OH",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1487024419",

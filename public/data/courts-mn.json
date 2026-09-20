@@ -2243,7 +2243,9 @@
       "city": null,
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w142226195",
@@ -5759,7 +5761,9 @@
       "city": null,
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w320370555",
@@ -11387,7 +11391,9 @@
       "city": null,
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w772015708",
@@ -19079,7 +19085,9 @@
       "city": null,
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1295489822",
@@ -22050,7 +22058,9 @@
       "city": null,
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1299851749",
@@ -23823,7 +23833,9 @@
       "city": null,
       "state": "MN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1472715767",

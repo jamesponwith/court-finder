@@ -384,7 +384,9 @@
       "city": null,
       "state": "TX",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w44623228",
@@ -16072,7 +16074,9 @@
       "city": null,
       "state": "TX",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w576152918",
@@ -22302,7 +22306,9 @@
       "city": null,
       "state": "TX",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w721709364",
@@ -22319,7 +22325,9 @@
       "city": null,
       "state": "TX",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w722668260",
@@ -36616,7 +36624,9 @@
       "city": null,
       "state": "TX",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1198141329",
@@ -50303,7 +50313,9 @@
       "city": null,
       "state": "TX",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1333193833",
@@ -51132,7 +51144,9 @@
       "city": null,
       "state": "TX",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1337389172",
@@ -54197,7 +54211,9 @@
       "city": null,
       "state": "TX",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1357615581",
@@ -56234,7 +56250,9 @@
       "city": null,
       "state": "TX",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1376247686",
@@ -59413,7 +59431,9 @@
       "city": "Kerr County",
       "state": "TX",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1414445283",
@@ -63301,7 +63321,9 @@
       "city": null,
       "state": "TX",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1431216621",
@@ -70599,7 +70621,9 @@
       "city": null,
       "state": "TX",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1467928536",
@@ -70764,7 +70788,9 @@
       "city": "Corpus Christi",
       "state": "TX",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1469247229",

@@ -8559,7 +8559,9 @@
       "city": null,
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w858181657",
@@ -9663,7 +9665,9 @@
       "city": null,
       "state": "IA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w903912430",

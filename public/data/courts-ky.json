@@ -7692,7 +7692,9 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1334985563",
@@ -9391,7 +9393,9 @@
       "city": null,
       "state": "KY",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1476316433",

@@ -6492,7 +6492,9 @@
       "city": null,
       "state": "MS",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1472898238",

@@ -1003,7 +1003,9 @@
       "city": null,
       "state": "DC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1292741002",
@@ -1124,7 +1126,9 @@
       "city": null,
       "state": "DC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1388569288",
@@ -1230,7 +1234,9 @@
       "city": null,
       "state": "DC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1436207328",
@@ -1315,7 +1321,9 @@
       "city": null,
       "state": "DC",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1492285127",

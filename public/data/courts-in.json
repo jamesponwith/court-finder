@@ -6313,7 +6313,9 @@
       "city": null,
       "state": "IN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w374916512",
@@ -7518,7 +7520,9 @@
       "city": null,
       "state": "IN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w482307872",
@@ -11835,7 +11839,9 @@
       "city": null,
       "state": "IN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w673593366",
@@ -14023,7 +14029,9 @@
       "city": null,
       "state": "IN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w794541562",
@@ -17430,7 +17438,9 @@
       "city": null,
       "state": "IN",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1162820090",

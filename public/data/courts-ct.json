@@ -5715,7 +5715,9 @@
       "city": "Mansfield",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w673517790",
@@ -6214,7 +6216,9 @@
       "city": null,
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w696540817",
@@ -6517,7 +6521,9 @@
       "city": "Rocky Hill",
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w734429927",
@@ -13079,7 +13085,9 @@
       "city": null,
       "state": "CT",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1434987867",

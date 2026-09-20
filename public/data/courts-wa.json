@@ -5699,7 +5699,9 @@
       "city": null,
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w471138499",
@@ -7643,7 +7645,9 @@
       "city": "Kenmore",
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w688531397",
@@ -9572,7 +9576,9 @@
       "city": null,
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1061039171",
@@ -12178,7 +12184,9 @@
       "city": null,
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1286938858",
@@ -20587,7 +20595,9 @@
       "city": null,
       "state": "WA",
       "source": "osm",
-      "tags": {}
+      "tags": {
+        "context": "residential"
+      }
     },
     {
       "id": "osm-w1526210618",
