@@ -69,7 +69,7 @@
     },
     {
       "id": "osm-n13106017950",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Sweet Pea Path",
       "lat": 39.029882,
       "lng": -76.594491,
       "sports": [
@@ -81,8 +81,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sweet Pea Path",
+      "city": "Crownsville",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -133,7 +133,7 @@
     },
     {
       "id": "osm-n13273922536",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bethesda Trolley Trail",
       "lat": 39.010706,
       "lng": -77.112605,
       "sports": [
@@ -145,8 +145,8 @@
       "indoor": null,
       "access": "customers",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bethesda Trolley Trail",
+      "city": "Bethesda",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -453,7 +453,7 @@
     },
     {
       "id": "osm-w61114829",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Jackson Road",
       "lat": 39.054733,
       "lng": -76.983242,
       "sports": [
@@ -465,8 +465,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Jackson Road",
+      "city": "White Oak",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -724,7 +724,7 @@
     },
     {
       "id": "osm-w75034854",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cedar Street",
       "lat": 38.995526,
       "lng": -77.019912,
       "sports": [
@@ -830,7 +830,7 @@
     },
     {
       "id": "osm-w84823964",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Mount Wilson Lane",
       "lat": 39.382117,
       "lng": -76.761096,
       "sports": [
@@ -842,8 +842,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mount Wilson Lane",
+      "city": "Randallstown",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -852,7 +852,7 @@
     },
     {
       "id": "osm-w84830654",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Iron Horse Lane",
       "lat": 39.394657,
       "lng": -76.748135,
       "sports": [
@@ -864,8 +864,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Iron Horse Lane",
+      "city": "Garrison",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -1037,7 +1037,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Beltsville",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -1046,7 +1046,7 @@
     },
     {
       "id": "osm-w92419773",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Winston Drive",
       "lat": 38.973099,
       "lng": -77.131518,
       "sports": [
@@ -1058,8 +1058,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Winston Drive",
+      "city": "Bethesda",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -1135,7 +1135,7 @@
     },
     {
       "id": "osm-w93174080",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cherry Hill",
       "lat": 39.017499,
       "lng": -76.932581,
       "sports": [
@@ -1148,7 +1148,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Beltsville",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -1179,7 +1179,7 @@
     },
     {
       "id": "osm-w96519120",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Forest Glen Road",
       "lat": 39.018019,
       "lng": -77.027566,
       "sports": [
@@ -1329,7 +1329,7 @@
     },
     {
       "id": "osm-w110456909",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Gorman Road",
       "lat": 39.136464,
       "lng": -76.843825,
       "sports": [
@@ -1341,8 +1341,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Gorman Road",
+      "city": "Savage",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -1351,7 +1351,7 @@
     },
     {
       "id": "osm-w112939811",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Turf Valley Nature Trail",
       "lat": 39.295573,
       "lng": -76.887568,
       "sports": [
@@ -1364,15 +1364,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Turf Valley Nature Trail",
+      "city": "Columbia",
       "state": "MD",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w115210443",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Disney Road",
       "lat": 39.12788,
       "lng": -76.73092,
       "sports": [
@@ -1384,8 +1384,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Disney Road",
+      "city": "Severn",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -1437,7 +1437,7 @@
     },
     {
       "id": "osm-w120314980",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Silverwood Lane",
       "lat": 38.944412,
       "lng": -77.120143,
       "sports": [
@@ -1449,8 +1449,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Silverwood Lane",
+      "city": "Brookmont",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -1519,7 +1519,7 @@
     },
     {
       "id": "osm-w120371935",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Moyer Road",
       "lat": 39.265906,
       "lng": -77.208784,
       "sports": [
@@ -1531,8 +1531,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Moyer Road",
+      "city": "Damascus",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -1561,7 +1561,7 @@
     },
     {
       "id": "osm-w120372410",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bent Willow Circle",
       "lat": 39.165216,
       "lng": -77.260651,
       "sports": [
@@ -1573,8 +1573,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bent Willow Circle",
+      "city": "Germantown",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -1691,7 +1691,7 @@
     },
     {
       "id": "osm-w120378369",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Quince Orchard Boulevard",
       "lat": 39.135808,
       "lng": -77.230989,
       "sports": [
@@ -1703,8 +1703,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Quince Orchard Boulevard",
+      "city": "Gaithersburg",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -1755,7 +1755,7 @@
     },
     {
       "id": "osm-w120378391",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Napa Valley Road",
       "lat": 39.13689,
       "lng": -77.228948,
       "sports": [
@@ -1767,8 +1767,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Napa Valley Road",
+      "city": "Gaithersburg",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -2051,7 +2051,7 @@
     },
     {
       "id": "osm-w120381983",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Manor Road",
       "lat": 38.996985,
       "lng": -77.079601,
       "sports": [
@@ -2063,8 +2063,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Manor Road",
+      "city": "Chevy Chase",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -2139,7 +2139,7 @@
     },
     {
       "id": "osm-w120626568",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Washingtonian Boulevard",
       "lat": 39.116713,
       "lng": -77.205423,
       "sports": [
@@ -2151,8 +2151,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Washingtonian Boulevard",
+      "city": "Gaithersburg",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -2183,7 +2183,7 @@
     },
     {
       "id": "osm-w120711653",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Short Line Railroad Trail",
       "lat": 39.268986,
       "lng": -76.731995,
       "sports": [
@@ -2195,8 +2195,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Short Line Railroad Trail",
+      "city": "Catonsville",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -2225,7 +2225,7 @@
     },
     {
       "id": "osm-w123134735",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Warwick Way",
       "lat": 39.308975,
       "lng": -76.893553,
       "sports": [
@@ -2237,8 +2237,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Warwick Way",
+      "city": "Columbia",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -2335,7 +2335,7 @@
     },
     {
       "id": "osm-w126121924",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bel Pre Road Sidepath",
       "lat": 39.092306,
       "lng": -77.074352,
       "sports": [
@@ -2347,8 +2347,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bel Pre Road Sidepath",
+      "city": "Aspen Hill",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -2615,7 +2615,7 @@
     },
     {
       "id": "osm-w132124724",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Greene Tree Road",
       "lat": 39.39489,
       "lng": -76.742466,
       "sports": [
@@ -2627,8 +2627,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Greene Tree Road",
+      "city": "Pikesville",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -2833,7 +2833,7 @@
     },
     {
       "id": "osm-w133689229",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · The Drive",
       "lat": 39.290143,
       "lng": -76.576354,
       "sports": [
@@ -2845,8 +2845,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "The Drive",
+      "city": "Baltimore",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -2985,7 +2985,7 @@
     },
     {
       "id": "osm-w136074950",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East-West Highway",
       "lat": 38.988987,
       "lng": -77.080229,
       "sports": [
@@ -2998,15 +2998,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East-West Highway",
+      "city": "Chevy Chase",
       "state": "MD",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w136074953",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East-West Highway",
       "lat": 38.988367,
       "lng": -77.077966,
       "sports": [
@@ -3019,8 +3019,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East-West Highway",
+      "city": "Chevy Chase",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -3049,7 +3049,7 @@
     },
     {
       "id": "osm-w137908883",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cypress Grove Lane",
       "lat": 38.980721,
       "lng": -77.163844,
       "sports": [
@@ -3062,8 +3062,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cypress Grove Lane",
+      "city": "Cabin John",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -3094,7 +3094,7 @@
     },
     {
       "id": "osm-w138274507",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lake Drive",
       "lat": 39.319967,
       "lng": -76.633626,
       "sports": [
@@ -3106,8 +3106,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lake Drive",
+      "city": "Baltimore",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -3134,7 +3134,7 @@
     },
     {
       "id": "osm-w139190013",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bells Mill Road",
       "lat": 39.03132,
       "lng": -77.178158,
       "sports": [
@@ -3146,8 +3146,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bells Mill Road",
+      "city": "Potomac",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -3178,7 +3178,7 @@
     },
     {
       "id": "osm-w139197146",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Quince Mill Drive",
       "lat": 39.108956,
       "lng": -77.248306,
       "sports": [
@@ -3190,8 +3190,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Quince Mill Drive",
+      "city": "North Potomac",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -3262,7 +3262,7 @@
     },
     {
       "id": "osm-w141565729",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Gwynns Falls Trail",
       "lat": 39.278908,
       "lng": -76.618586,
       "sports": [
@@ -3274,8 +3274,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Gwynns Falls Trail",
+      "city": "Baltimore",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -3284,7 +3284,7 @@
     },
     {
       "id": "osm-w142706137",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Brooklee Drive",
       "lat": 38.814709,
       "lng": -76.814629,
       "sports": [
@@ -3296,8 +3296,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Brooklee Drive",
+      "city": "Mellwood",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -3451,7 +3451,7 @@
     },
     {
       "id": "osm-w146988158",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Willow Bottom Drive",
       "lat": 39.224943,
       "lng": -76.901731,
       "sports": [
@@ -3463,8 +3463,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Willow Bottom Drive",
+      "city": "Columbia",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -3638,7 +3638,7 @@
     },
     {
       "id": "osm-w151640884",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Chapman Road",
       "lat": 39.017563,
       "lng": -76.682335,
       "sports": [
@@ -3650,8 +3650,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Chapman Road",
+      "city": "Crofton",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -3784,7 +3784,7 @@
     },
     {
       "id": "osm-w162594936",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Providence Road",
       "lat": 39.412681,
       "lng": -76.579368,
       "sports": [
@@ -3796,8 +3796,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Providence Road",
+      "city": "Hampton",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -3826,7 +3826,7 @@
     },
     {
       "id": "osm-w164693305",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Misty Wood Circle",
       "lat": 39.461831,
       "lng": -76.604836,
       "sports": [
@@ -3838,8 +3838,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Misty Wood Circle",
+      "city": "The Lakes",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -4488,7 +4488,7 @@
     },
     {
       "id": "osm-w200443245",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lakehurst Drive",
       "lat": 39.372803,
       "lng": -76.636637,
       "sports": [
@@ -4500,8 +4500,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lakehurst Drive",
+      "city": "Towson",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -4528,7 +4528,7 @@
     },
     {
       "id": "osm-w202050767",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lehigh Road",
       "lat": 38.977728,
       "lng": -76.924131,
       "sports": [
@@ -4540,8 +4540,8 @@
       "indoor": true,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lehigh Road",
+      "city": "College Park",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -4594,7 +4594,7 @@
     },
     {
       "id": "osm-w203019189",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Liberty Place",
       "lat": 39.359146,
       "lng": -76.769717,
       "sports": [
@@ -4606,8 +4606,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Liberty Place",
+      "city": "Milford Mill",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -4616,7 +4616,7 @@
     },
     {
       "id": "osm-w203245931",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Old Calvert Road",
       "lat": 38.976179,
       "lng": -76.917435,
       "sports": [
@@ -4628,8 +4628,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Old Calvert Road",
+      "city": "College Park",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -4704,7 +4704,7 @@
     },
     {
       "id": "osm-w208159506",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Paint Branch Trail",
       "lat": 38.988407,
       "lng": -76.929909,
       "sports": [
@@ -4716,8 +4716,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Paint Branch Trail",
+      "city": "College Park",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -4877,7 +4877,7 @@
     },
     {
       "id": "osm-w212337522",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Mahogany Drive",
       "lat": 39.115663,
       "lng": -77.200149,
       "sports": [
@@ -4889,8 +4889,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mahogany Drive",
+      "city": "North Potomac",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -4899,7 +4899,7 @@
     },
     {
       "id": "osm-w213194905",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Andre Street",
       "lat": 39.267712,
       "lng": -76.591807,
       "sports": [
@@ -4911,8 +4911,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Andre Street",
+      "city": "Baltimore",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -5268,7 +5268,7 @@
     },
     {
       "id": "osm-w225264615",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Solley Road",
       "lat": 39.179549,
       "lng": -76.549478,
       "sports": [
@@ -5280,8 +5280,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Solley Road",
+      "city": "Glen Burnie",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -5356,7 +5356,7 @@
     },
     {
       "id": "osm-w227834950",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · LHirondelle Club Road",
       "lat": 39.395275,
       "lng": -76.645944,
       "sports": [
@@ -5368,8 +5368,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "LHirondelle Club Road",
+      "city": "Ruxton",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -5420,7 +5420,7 @@
     },
     {
       "id": "osm-w230396074",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Southern Maryland Boulevard",
       "lat": 38.72393,
       "lng": -76.662415,
       "sports": [
@@ -5432,8 +5432,8 @@
       "indoor": false,
       "access": "public",
       "fee": false,
-      "address": null,
-      "city": null,
+      "address": "Southern Maryland Boulevard",
+      "city": "Dunkirk",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -5817,7 +5817,7 @@
     },
     {
       "id": "osm-w237418004",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bunker Hill Road",
       "lat": 38.939149,
       "lng": -76.947176,
       "sports": [
@@ -5829,8 +5829,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bunker Hill Road",
+      "city": "Cottage City",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -5861,7 +5861,7 @@
     },
     {
       "id": "osm-w237587674",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Anacostia Riverwalk Trail",
       "lat": 38.931457,
       "lng": -76.944346,
       "sports": [
@@ -5873,8 +5873,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Anacostia Riverwalk Trail",
+      "city": "Colmar Manor",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -6033,7 +6033,7 @@
     },
     {
       "id": "osm-w241408598",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Good Luck Road",
       "lat": 38.970933,
       "lng": -76.902825,
       "sports": [
@@ -6045,8 +6045,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Good Luck Road",
+      "city": "Greenbelt",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -6097,7 +6097,7 @@
     },
     {
       "id": "osm-w243693046",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Tucker Road",
       "lat": 38.786859,
       "lng": -76.975551,
       "sports": [
@@ -6109,8 +6109,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Tucker Road",
+      "city": "Oxon Hill",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -6672,7 +6672,7 @@
     },
     {
       "id": "osm-w264396597",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Rachel Carson Greenway Trail",
       "lat": 38.982337,
       "lng": -76.965248,
       "sports": [
@@ -6684,8 +6684,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rachel Carson Greenway Trail",
+      "city": "Adelphi",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -6736,7 +6736,7 @@
     },
     {
       "id": "osm-w265630703",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Luguain Court",
       "lat": 39.397017,
       "lng": -76.743803,
       "sports": [
@@ -6748,8 +6748,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Luguain Court",
+      "city": "Pikesville",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -7288,7 +7288,7 @@
     },
     {
       "id": "osm-w296237907",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Camp Wright Lane",
       "lat": 38.960563,
       "lng": -76.349844,
       "sports": [
@@ -7300,8 +7300,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Camp Wright Lane",
+      "city": "Stevensville",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -7594,7 +7594,7 @@
     },
     {
       "id": "osm-w305985914",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Murrays Private Drive",
       "lat": 39.50672,
       "lng": -76.598417,
       "sports": [
@@ -7606,8 +7606,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Murrays Private Drive",
+      "city": "Phoenix",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -7786,7 +7786,7 @@
     },
     {
       "id": "osm-w317568156",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fallston Road",
       "lat": 39.528434,
       "lng": -76.435876,
       "sports": [
@@ -7799,8 +7799,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fallston Road",
+      "city": "Harford County",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -7851,7 +7851,7 @@
     },
     {
       "id": "osm-w320754317",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Eldrid Drive",
       "lat": 39.063878,
       "lng": -77.002184,
       "sports": [
@@ -7863,8 +7863,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Eldrid Drive",
+      "city": "Colesville",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -8647,7 +8647,7 @@
     },
     {
       "id": "osm-w367723817",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Columbia Road",
       "lat": 39.232191,
       "lng": -76.845817,
       "sports": [
@@ -8659,8 +8659,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Columbia Road",
+      "city": "Columbia",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -9121,7 +9121,7 @@
     },
     {
       "id": "osm-w399088287",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hillen Road",
       "lat": 39.342081,
       "lng": -76.586202,
       "sports": [
@@ -9133,8 +9133,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hillen Road",
+      "city": "Baltimore",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -9348,7 +9348,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Oxon Hill",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -9461,7 +9461,7 @@
     },
     {
       "id": "osm-w436182946",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hartley Circle",
       "lat": 39.399347,
       "lng": -76.75905,
       "sports": [
@@ -9473,8 +9473,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hartley Circle",
+      "city": "Garrison",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -9527,7 +9527,7 @@
     },
     {
       "id": "osm-w436584293",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Clubhouse Village View",
       "lat": 38.98074,
       "lng": -76.588954,
       "sports": [
@@ -9539,8 +9539,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Clubhouse Village View",
+      "city": "Anne Arundel County",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -9843,7 +9843,7 @@
     },
     {
       "id": "osm-w468548205",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Freetown Road",
       "lat": 39.141741,
       "lng": -76.573529,
       "sports": [
@@ -9855,8 +9855,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Freetown Road",
+      "city": "Pasadena",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -9951,7 +9951,7 @@
     },
     {
       "id": "osm-w477185127",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Torrey C. Brown Trail",
       "lat": 39.552177,
       "lng": -76.635678,
       "sports": [
@@ -9963,8 +9963,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Torrey C. Brown Trail",
+      "city": "Glencoe",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -9973,7 +9973,7 @@
     },
     {
       "id": "osm-w477544473",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bay Hill Lane",
       "lat": 39.124793,
       "lng": -76.993493,
       "sports": [
@@ -9985,8 +9985,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bay Hill Lane",
+      "city": "Cloverly",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -10574,7 +10574,7 @@
     },
     {
       "id": "osm-w541909322",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Greenspring Valley Road",
       "lat": 39.404953,
       "lng": -76.755544,
       "sports": [
@@ -10587,8 +10587,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Greenspring Valley Road",
+      "city": "Garrison",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -10780,7 +10780,7 @@
     },
     {
       "id": "osm-w551715556",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Waldon Road",
       "lat": 39.462942,
       "lng": -76.305414,
       "sports": [
@@ -10792,8 +10792,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Waldon Road",
+      "city": "Harford County",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -11030,7 +11030,7 @@
     },
     {
       "id": "osm-w564416900",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Avenel Farm Drive",
       "lat": 39.001743,
       "lng": -77.208719,
       "sports": [
@@ -11042,8 +11042,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Avenel Farm Drive",
+      "city": "Potomac",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -11197,7 +11197,7 @@
     },
     {
       "id": "osm-w584120739",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Spring Forest Road",
       "lat": 39.408821,
       "lng": -77.341333,
       "sports": [
@@ -11209,8 +11209,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Spring Forest Road",
+      "city": "Spring Ridge",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -11405,7 +11405,7 @@
     },
     {
       "id": "osm-w620203728",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Stadium Avenue",
       "lat": 39.558911,
       "lng": -76.282971,
       "sports": [
@@ -11417,8 +11417,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Stadium Avenue",
+      "city": "Harford County",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -11535,7 +11535,7 @@
     },
     {
       "id": "osm-w638316226",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Todd Road",
       "lat": 39.540879,
       "lng": -76.324025,
       "sports": [
@@ -11547,8 +11547,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Todd Road",
+      "city": "Harford County",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -11703,7 +11703,7 @@
     },
     {
       "id": "osm-w654866848",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Lake Avenue",
       "lat": 39.366631,
       "lng": -76.599234,
       "sports": [
@@ -11715,8 +11715,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Lake Avenue",
+      "city": "Baltimore",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -11747,7 +11747,7 @@
     },
     {
       "id": "osm-w660066928",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Harford Town Drive",
       "lat": 39.464379,
       "lng": -76.266094,
       "sports": [
@@ -11759,8 +11759,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Harford Town Drive",
+      "city": "Riverside",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -11981,7 +11981,7 @@
     },
     {
       "id": "osm-w670832732",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Butler Road",
       "lat": 39.528091,
       "lng": -76.732175,
       "sports": [
@@ -11993,8 +11993,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Butler Road",
+      "city": "Butler",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -12025,7 +12025,7 @@
     },
     {
       "id": "osm-w672645090",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Rippling Brook Drive",
       "lat": 39.074069,
       "lng": -77.059581,
       "sports": [
@@ -12037,8 +12037,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rippling Brook Drive",
+      "city": "Aspen Hill",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -12047,7 +12047,7 @@
     },
     {
       "id": "osm-w673020786",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cannon Road",
       "lat": 39.068369,
       "lng": -76.992644,
       "sports": [
@@ -12059,8 +12059,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cannon Road",
+      "city": "Colesville",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -12239,7 +12239,7 @@
     },
     {
       "id": "osm-w685017049",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Radnor Road",
       "lat": 39.347918,
       "lng": -76.615175,
       "sports": [
@@ -12251,8 +12251,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Radnor Road",
+      "city": "Baltimore",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -13971,7 +13971,7 @@
     },
     {
       "id": "osm-w740554486",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Blythewood Road",
       "lat": 39.350672,
       "lng": -76.625411,
       "sports": [
@@ -13983,8 +13983,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Blythewood Road",
+      "city": "Baltimore",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -13993,7 +13993,7 @@
     },
     {
       "id": "osm-w740554488",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Stony Run Walking Path",
       "lat": 39.351402,
       "lng": -76.62808,
       "sports": [
@@ -14005,8 +14005,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Stony Run Walking Path",
+      "city": "Baltimore",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -14335,7 +14335,7 @@
     },
     {
       "id": "osm-w744549972",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Freeland Road",
       "lat": 39.690839,
       "lng": -76.703469,
       "sports": [
@@ -14348,8 +14348,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Freeland Road",
+      "city": "Baltimore County",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -14742,7 +14742,7 @@
     },
     {
       "id": "osm-w752737183",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lakeside Manor",
       "lat": 38.383025,
       "lng": -75.600124,
       "sports": [
@@ -14755,7 +14755,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Wicomico County",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -15408,7 +15408,7 @@
     },
     {
       "id": "osm-w766404722",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Newchurch Lane",
       "lat": 38.941534,
       "lng": -76.484463,
       "sports": [
@@ -15420,8 +15420,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Newchurch Lane",
+      "city": "Annapolis Neck",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -15532,7 +15532,7 @@
     },
     {
       "id": "osm-w766505808",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Woodale Drive",
       "lat": 39.1356,
       "lng": -77.002834,
       "sports": [
@@ -15544,8 +15544,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Woodale Drive",
+      "city": "Ashton",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -15726,7 +15726,7 @@
     },
     {
       "id": "osm-w790766951",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Indian Head Drive",
       "lat": 39.321415,
       "lng": -76.585424,
       "sports": [
@@ -15738,8 +15738,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Indian Head Drive",
+      "city": "Baltimore",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -15856,7 +15856,7 @@
     },
     {
       "id": "osm-w810448247",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Star Chaser Circle",
       "lat": 39.314578,
       "lng": -76.894894,
       "sports": [
@@ -15868,8 +15868,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Star Chaser Circle",
+      "city": "Columbia",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -15940,7 +15940,7 @@
     },
     {
       "id": "osm-w822644881",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bells Ridge Terrace",
       "lat": 39.03222,
       "lng": -77.171622,
       "sports": [
@@ -15952,8 +15952,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bells Ridge Terrace",
+      "city": "Potomac",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -16093,7 +16093,7 @@
     },
     {
       "id": "osm-w848008104",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Garrison Forest Road",
       "lat": 39.405271,
       "lng": -76.753483,
       "sports": [
@@ -16105,15 +16105,15 @@
       "indoor": null,
       "access": "customers",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Garrison Forest Road",
+      "city": "Garrison",
       "state": "MD",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w849975777",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Budleigh Circle",
       "lat": 39.451571,
       "lng": -76.654485,
       "sports": [
@@ -16125,8 +16125,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Budleigh Circle",
+      "city": "Mays Chapel",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -16159,7 +16159,7 @@
     },
     {
       "id": "osm-w861119638",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Churchview Road",
       "lat": 39.051165,
       "lng": -76.664086,
       "sports": [
@@ -16171,8 +16171,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Churchview Road",
+      "city": "Glen Burnie",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -16201,7 +16201,7 @@
     },
     {
       "id": "osm-w862902526",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Society Hill Road",
       "lat": 38.271451,
       "lng": -76.667013,
       "sports": [
@@ -16213,15 +16213,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Society Hill Road",
+      "city": "Compton",
       "state": "MD",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w863865200",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Indian Head Road",
       "lat": 39.391928,
       "lng": -76.655301,
       "sports": [
@@ -16233,8 +16233,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Indian Head Road",
+      "city": "Ruxton",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -16391,7 +16391,7 @@
     },
     {
       "id": "osm-w887557466",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Greencastle Road",
       "lat": 39.084598,
       "lng": -76.93042,
       "sports": [
@@ -16403,8 +16403,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Greencastle Road",
+      "city": "Fairland",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -16772,7 +16772,7 @@
     },
     {
       "id": "osm-w936132865",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Edgewood Avenue",
       "lat": 39.026177,
       "lng": -77.016252,
       "sports": [
@@ -16784,8 +16784,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Edgewood Avenue",
+      "city": "Four Corners",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -16926,7 +16926,7 @@
     },
     {
       "id": "osm-w946144874",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Beallsville Road",
       "lat": 39.182585,
       "lng": -77.408917,
       "sports": [
@@ -16938,8 +16938,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Beallsville Road",
+      "city": "Montgomery County",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -17290,7 +17290,7 @@
     },
     {
       "id": "osm-w970739300",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Northwest Branch Trail",
       "lat": 39.044552,
       "lng": -77.010368,
       "sports": [
@@ -17302,8 +17302,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northwest Branch Trail",
+      "city": "White Oak",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -17312,7 +17312,7 @@
     },
     {
       "id": "osm-w971199326",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Queensguard Road",
       "lat": 39.086089,
       "lng": -77.041694,
       "sports": [
@@ -17324,8 +17324,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Queensguard Road",
+      "city": "Layhill",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -17416,7 +17416,7 @@
     },
     {
       "id": "osm-w975790691",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Carre Road",
       "lat": 39.397436,
       "lng": -76.77614,
       "sports": [
@@ -17428,8 +17428,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Carre Road",
+      "city": "Owings Mills",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -17542,7 +17542,7 @@
     },
     {
       "id": "osm-w983654363",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Glen Mill Road",
       "lat": 39.083226,
       "lng": -77.195955,
       "sports": [
@@ -17554,8 +17554,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Glen Mill Road",
+      "city": "Rockville",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -17950,7 +17950,7 @@
     },
     {
       "id": "osm-w1004170266",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North East Isles Drive",
       "lat": 39.594913,
       "lng": -75.955452,
       "sports": [
@@ -17962,8 +17962,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North East Isles Drive",
+      "city": "North East",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -18982,7 +18982,7 @@
     },
     {
       "id": "osm-w1070750276",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Cooper Point Road",
       "lat": 38.74565,
       "lng": -76.274507,
       "sports": [
@@ -18994,8 +18994,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cooper Point Road",
+      "city": "Talbot County",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -19114,7 +19114,7 @@
     },
     {
       "id": "osm-w1075417060",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Allspice Drive",
       "lat": 39.160101,
       "lng": -77.259645,
       "sports": [
@@ -19126,8 +19126,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Allspice Drive",
+      "city": "Germantown",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -20305,7 +20305,7 @@
     },
     {
       "id": "osm-w1107105554",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Oaklyn Drive",
       "lat": 38.996825,
       "lng": -77.197188,
       "sports": [
@@ -20317,8 +20317,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Oaklyn Drive",
+      "city": "Potomac",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -20925,7 +20925,7 @@
     },
     {
       "id": "osm-w1156631616",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Burnt Ember Drive",
       "lat": 39.027771,
       "lng": -76.994622,
       "sports": [
@@ -20937,8 +20937,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Burnt Ember Drive",
+      "city": "White Oak",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -20987,7 +20987,7 @@
     },
     {
       "id": "osm-w1163436436",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Schaeffer Road",
       "lat": 39.149487,
       "lng": -77.301677,
       "sports": [
@@ -20999,8 +20999,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Schaeffer Road",
+      "city": "Germantown",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -21009,7 +21009,7 @@
     },
     {
       "id": "osm-w1163724458",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Spring Lake Drive",
       "lat": 39.027732,
       "lng": -77.152088,
       "sports": [
@@ -21021,8 +21021,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Spring Lake Drive",
+      "city": "Bethesda",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -22378,7 +22378,7 @@
     },
     {
       "id": "osm-w1285649326",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Gateshead Road",
       "lat": 39.423566,
       "lng": -76.588765,
       "sports": [
@@ -22391,15 +22391,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Gateshead Road",
+      "city": "Towson",
       "state": "MD",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1285649327",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Gateshead Road",
       "lat": 39.424794,
       "lng": -76.584818,
       "sports": [
@@ -22411,8 +22411,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Gateshead Road",
+      "city": "Towson",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -22465,7 +22465,7 @@
     },
     {
       "id": "osm-w1293097967",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Dorsey Road",
       "lat": 38.554605,
       "lng": -76.583577,
       "sports": [
@@ -22477,8 +22477,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Dorsey Road",
+      "city": "Prince Frederick",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -22871,7 +22871,7 @@
     },
     {
       "id": "osm-w1318904451",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Grand Street",
       "lat": 39.153567,
       "lng": -77.227652,
       "sports": [
@@ -22883,8 +22883,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Grand Street",
+      "city": "Gaithersburg",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -23111,7 +23111,7 @@
     },
     {
       "id": "osm-w1323517956",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Kentlands",
       "lat": 39.123692,
       "lng": -77.243845,
       "sports": [
@@ -23124,7 +23124,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Gaithersburg",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -23175,7 +23175,7 @@
     },
     {
       "id": "osm-w1328917047",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Baltimore Beltway",
       "lat": 39.257762,
       "lng": -76.694588,
       "sports": [
@@ -23187,8 +23187,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Baltimore Beltway",
+      "city": "Arbutus",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -23477,7 +23477,7 @@
     },
     {
       "id": "osm-w1335280127",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Bournefield Way",
       "lat": 39.050546,
       "lng": -76.960554,
       "sports": [
@@ -23489,8 +23489,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bournefield Way",
+      "city": "Fairland",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -23692,7 +23692,7 @@
     },
     {
       "id": "osm-w1354306100",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Hayden Farm Lane",
       "lat": 38.313955,
       "lng": -76.634922,
       "sports": [
@@ -23704,15 +23704,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hayden Farm Lane",
+      "city": "Leonardtown",
       "state": "MD",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1356680363",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Chesapeake and Ohio Canal Trail",
       "lat": 39.623514,
       "lng": -78.760961,
       "sports": [
@@ -23724,8 +23724,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Chesapeake and Ohio Canal Trail",
+      "city": "Cumberland",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -24415,7 +24415,7 @@
     },
     {
       "id": "osm-w1421455396",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cypress Trail",
       "lat": 39.053999,
       "lng": -76.568836,
       "sports": [
@@ -24428,8 +24428,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cypress Trail",
+      "city": "Herald Harbor",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -24456,7 +24456,7 @@
     },
     {
       "id": "osm-w1422572951",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · K Street",
       "lat": 39.399065,
       "lng": -79.37882,
       "sports": [
@@ -24468,8 +24468,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "K Street",
+      "city": "Mountain Lake Park",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -24770,7 +24770,7 @@
     },
     {
       "id": "osm-w1429997048",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Crofton Parkway",
       "lat": 39.003853,
       "lng": -76.696473,
       "sports": [
@@ -24782,8 +24782,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Crofton Parkway",
+      "city": "Crofton",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -24980,7 +24980,7 @@
     },
     {
       "id": "osm-w1432327669",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Nature Center Trail",
       "lat": 39.396524,
       "lng": -76.986164,
       "sports": [
@@ -24992,8 +24992,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Nature Center Trail",
+      "city": "Eldersburg",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -25086,7 +25086,7 @@
     },
     {
       "id": "osm-w1432683167",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Palute Circle",
       "lat": 39.38658,
       "lng": -75.915773,
       "sports": [
@@ -25098,8 +25098,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Palute Circle",
+      "city": "Cecil County",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -25324,7 +25324,7 @@
     },
     {
       "id": "osm-w1434456128",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Violettes Lock Road",
       "lat": 39.071293,
       "lng": -77.329417,
       "sports": [
@@ -25336,8 +25336,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Violettes Lock Road",
+      "city": "Montgomery County",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -25554,7 +25554,7 @@
     },
     {
       "id": "osm-w1437145927",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Columbia Road",
       "lat": 39.229835,
       "lng": -76.849258,
       "sports": [
@@ -25566,8 +25566,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Columbia Road",
+      "city": "Columbia",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -25856,7 +25856,7 @@
     },
     {
       "id": "osm-w1444099174",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Charles Street",
       "lat": 39.331811,
       "lng": -76.618429,
       "sports": [
@@ -25868,8 +25868,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Charles Street",
+      "city": "Baltimore",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -25985,7 +25985,7 @@
     },
     {
       "id": "osm-w1449553890",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Wessling Lane",
       "lat": 38.978982,
       "lng": -77.102868,
       "sports": [
@@ -25997,8 +25997,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wessling Lane",
+      "city": "Bethesda",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -26029,7 +26029,7 @@
     },
     {
       "id": "osm-w1451400996",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Garland Avenue",
       "lat": 39.001551,
       "lng": -77.000069,
       "sports": [
@@ -26041,8 +26041,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Garland Avenue",
+      "city": "Silver Spring",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -26710,7 +26710,7 @@
     },
     {
       "id": "osm-w1474086225",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · McComas Beach Terrace",
       "lat": 39.50043,
       "lng": -79.372643,
       "sports": [
@@ -26723,8 +26723,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "McComas Beach Terrace",
+      "city": "Garrett County",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -27360,7 +27360,7 @@
     },
     {
       "id": "osm-w1487303417",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Aldenham Court",
       "lat": 39.170862,
       "lng": -77.241395,
       "sports": [
@@ -27372,8 +27372,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Aldenham Court",
+      "city": "Germantown",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -27404,7 +27404,7 @@
     },
     {
       "id": "osm-w1487843201",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Big Bear Terrace",
       "lat": 39.093896,
       "lng": -77.060083,
       "sports": [
@@ -27416,8 +27416,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Big Bear Terrace",
+      "city": "Aspen Hill",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -27510,7 +27510,7 @@
     },
     {
       "id": "osm-w1490404613",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Mission Boulevard",
       "lat": 39.263305,
       "lng": -76.611258,
       "sports": [
@@ -27523,8 +27523,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mission Boulevard",
+      "city": "Baltimore",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -27807,7 +27807,7 @@
     },
     {
       "id": "osm-w1492284465",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Huron Drive",
       "lat": 38.813978,
       "lng": -77.00592,
       "sports": [
@@ -27819,8 +27819,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Huron Drive",
+      "city": "Forest Heights",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -28078,7 +28078,7 @@
     },
     {
       "id": "osm-w1494696596",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Beman Woods Way",
       "lat": 38.987457,
       "lng": -77.197192,
       "sports": [
@@ -28090,8 +28090,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Beman Woods Way",
+      "city": "Potomac",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -28180,7 +28180,7 @@
     },
     {
       "id": "osm-w1495131089",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Brownson Road",
       "lat": 38.979403,
       "lng": -76.481519,
       "sports": [
@@ -28192,8 +28192,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Brownson Road",
+      "city": "Naval Academy",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -28288,7 +28288,7 @@
     },
     {
       "id": "osm-w1495321686",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East MacPhail Road",
       "lat": 39.523424,
       "lng": -76.305958,
       "sports": [
@@ -28301,8 +28301,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East MacPhail Road",
+      "city": "Bel Air South",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -28641,7 +28641,7 @@
     },
     {
       "id": "osm-w1499077651",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Plymouth Street",
       "lat": 39.002274,
       "lng": -76.997748,
       "sports": [
@@ -28653,8 +28653,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Plymouth Street",
+      "city": "Silver Spring",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -28725,7 +28725,7 @@
     },
     {
       "id": "osm-w1500290995",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Vantage Point Road",
       "lat": 39.222775,
       "lng": -76.855246,
       "sports": [
@@ -28737,8 +28737,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Vantage Point Road",
+      "city": "Columbia",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -28831,7 +28831,7 @@
     },
     {
       "id": "osm-w1501133496",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hillandale Loop Trail",
       "lat": 39.030219,
       "lng": -76.982161,
       "sports": [
@@ -28843,8 +28843,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hillandale Loop Trail",
+      "city": "Hillandale",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -28853,7 +28853,7 @@
     },
     {
       "id": "osm-w1501141747",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Masters Lane",
       "lat": 38.402242,
       "lng": -75.176274,
       "sports": [
@@ -28865,8 +28865,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Masters Lane",
+      "city": "Ocean Pines",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -29110,7 +29110,7 @@
     },
     {
       "id": "osm-w1503505326",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hagers Crossing Drive",
       "lat": 39.660694,
       "lng": -77.760043,
       "sports": [
@@ -29122,8 +29122,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hagers Crossing Drive",
+      "city": "Hagerstown",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -29240,7 +29240,7 @@
     },
     {
       "id": "osm-w1504269629",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Allendale Street",
       "lat": 39.296833,
       "lng": -76.678101,
       "sports": [
@@ -29252,8 +29252,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Allendale Street",
+      "city": "Baltimore",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -29323,7 +29323,7 @@
     },
     {
       "id": "osm-w1504270388",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Porter Road",
       "lat": 38.979611,
       "lng": -76.484269,
       "sports": [
@@ -29335,8 +29335,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Porter Road",
+      "city": "Naval Academy",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -29386,7 +29386,7 @@
     },
     {
       "id": "osm-w1504271650",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Kings Valley Road",
       "lat": 39.244826,
       "lng": -77.222969,
       "sports": [
@@ -29399,8 +29399,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kings Valley Road",
+      "city": "Clarksburg",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -29493,7 +29493,7 @@
     },
     {
       "id": "osm-w1504275796",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Walden Clubhouse",
       "lat": 39.01979,
       "lng": -76.674857,
       "sports": [
@@ -29506,8 +29506,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Walden Clubhouse",
+      "city": "Crofton",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -29558,7 +29558,7 @@
     },
     {
       "id": "osm-w1504736219",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Mapleleaf Court",
       "lat": 39.378698,
       "lng": -76.66188,
       "sports": [
@@ -29570,8 +29570,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mapleleaf Court",
+      "city": "Towson",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -29765,7 +29765,7 @@
     },
     {
       "id": "osm-w1507502698",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Broadneck Crossing Road",
       "lat": 39.422889,
       "lng": -76.284338,
       "sports": [
@@ -29777,8 +29777,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Broadneck Crossing Road",
+      "city": "Edgewood",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -30378,7 +30378,7 @@
     },
     {
       "id": "osm-w1510834493",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Westfield Drive",
       "lat": 38.797598,
       "lng": -76.9891,
       "sports": [
@@ -30390,8 +30390,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Westfield Drive",
+      "city": "Oxon Hill",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -30563,7 +30563,7 @@
     },
     {
       "id": "osm-w1511545710",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Maid at Arms Lane",
       "lat": 38.341906,
       "lng": -75.152524,
       "sports": [
@@ -30576,8 +30576,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Maid at Arms Lane",
+      "city": "West Ocean City",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -31044,7 +31044,7 @@
     },
     {
       "id": "osm-w1512142333",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Sansbury Drive",
       "lat": 38.693474,
       "lng": -76.556908,
       "sports": [
@@ -31056,8 +31056,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sansbury Drive",
+      "city": "Chesapeake Beach",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -31406,7 +31406,7 @@
     },
     {
       "id": "osm-w1512305104",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · York Road",
       "lat": 39.682646,
       "lng": -76.646355,
       "sports": [
@@ -31418,8 +31418,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "York Road",
+      "city": "Apple Valley",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -31428,7 +31428,7 @@
     },
     {
       "id": "osm-w1512305107",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · York Road",
       "lat": 39.681679,
       "lng": -76.647245,
       "sports": [
@@ -31440,8 +31440,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "York Road",
+      "city": "Apple Valley",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -31470,7 +31470,7 @@
     },
     {
       "id": "osm-w1512305750",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Silver Road",
       "lat": 39.644609,
       "lng": -76.174011,
       "sports": [
@@ -31483,8 +31483,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Silver Road",
+      "city": "Darlington",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -31580,7 +31580,7 @@
     },
     {
       "id": "osm-w1512306985",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Woodbridge Center Way",
       "lat": 39.43091,
       "lng": -76.32723,
       "sports": [
@@ -31592,8 +31592,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Woodbridge Center Way",
+      "city": "Edgewood",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -31808,7 +31808,7 @@
     },
     {
       "id": "osm-w1513121367",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Longridge Court",
       "lat": 38.9796,
       "lng": -77.163441,
       "sports": [
@@ -31820,8 +31820,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Longridge Court",
+      "city": "Cabin John",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -32214,7 +32214,7 @@
     },
     {
       "id": "osm-w1514727853",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Rouse Parkway",
       "lat": 39.210332,
       "lng": -76.831683,
       "sports": [
@@ -32226,15 +32226,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rouse Parkway",
+      "city": "Columbia",
       "state": "MD",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1514738598",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Oakland Mills Road",
       "lat": 39.211203,
       "lng": -76.834881,
       "sports": [
@@ -32246,8 +32246,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Oakland Mills Road",
+      "city": "Columbia",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -32552,7 +32552,7 @@
     },
     {
       "id": "osm-w1519226546",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Ocean Gateway",
       "lat": 38.827347,
       "lng": -76.061329,
       "sports": [
@@ -32564,8 +32564,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ocean Gateway",
+      "city": "Easton",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -32574,7 +32574,7 @@
     },
     {
       "id": "osm-w1519691864",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bolin Terrace",
       "lat": 38.885765,
       "lng": -76.753178,
       "sports": [
@@ -32586,8 +32586,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bolin Terrace",
+      "city": "Prince George's County",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -32936,7 +32936,7 @@
     },
     {
       "id": "osm-w1524148585",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Park Drive",
       "lat": 39.239047,
       "lng": -76.629006,
       "sports": [
@@ -32948,8 +32948,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Park Drive",
+      "city": "Baltimore Highlands",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -32978,7 +32978,7 @@
     },
     {
       "id": "osm-w1524152341",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · BWI Trail",
       "lat": 39.195568,
       "lng": -76.662565,
       "sports": [
@@ -32991,15 +32991,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "BWI Trail",
+      "city": "Linthicum",
       "state": "MD",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1524154991",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lyman Avenue",
       "lat": 39.195912,
       "lng": -76.669109,
       "sports": [
@@ -33011,8 +33011,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lyman Avenue",
+      "city": "Linthicum",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -33122,7 +33122,7 @@
     },
     {
       "id": "osm-w1524355266",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Avery Road",
       "lat": 39.086983,
       "lng": -77.127555,
       "sports": [
@@ -33134,8 +33134,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Avery Road",
+      "city": "Rockville",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -33163,7 +33163,7 @@
     },
     {
       "id": "osm-w1524356347",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Dunsinane Drive",
       "lat": 39.095557,
       "lng": -77.0743,
       "sports": [
@@ -33175,8 +33175,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Dunsinane Drive",
+      "city": "Aspen Hill",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -33480,7 +33480,7 @@
     },
     {
       "id": "osm-w1524365744",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Pipeline Trail",
       "lat": 39.558939,
       "lng": -76.624102,
       "sports": [
@@ -33492,15 +33492,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pipeline Trail",
+      "city": "Glencoe",
       "state": "MD",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1524366359",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Highland Ridge Drive",
       "lat": 39.510554,
       "lng": -76.608119,
       "sports": [
@@ -33512,15 +33512,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Highland Ridge Drive",
+      "city": "Phoenix",
       "state": "MD",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1524368374",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Treherne Road",
       "lat": 39.460842,
       "lng": -76.610503,
       "sports": [
@@ -33532,8 +33532,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Treherne Road",
+      "city": "Timonium",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -33627,7 +33627,7 @@
     },
     {
       "id": "osm-w1524370537",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Edgewood Avenue",
       "lat": 39.388228,
       "lng": -76.537823,
       "sports": [
@@ -33639,8 +33639,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Edgewood Avenue",
+      "city": "Parkville",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -33669,7 +33669,7 @@
     },
     {
       "id": "osm-w1524370833",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Rossiter Avenue",
       "lat": 39.349221,
       "lng": -76.615129,
       "sports": [
@@ -33681,8 +33681,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rossiter Avenue",
+      "city": "Baltimore",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -34004,7 +34004,7 @@
     },
     {
       "id": "osm-w1524486573",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Travilah Road",
       "lat": 39.084307,
       "lng": -77.229375,
       "sports": [
@@ -34016,8 +34016,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Travilah Road",
+      "city": "North Potomac",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -34046,7 +34046,7 @@
     },
     {
       "id": "osm-w1524500247",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Memory Path",
       "lat": 39.016311,
       "lng": -76.529594,
       "sports": [
@@ -34059,15 +34059,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Memory Path",
+      "city": "Epping Forest",
       "state": "MD",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1524500482",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hanzel's Network (pink)",
       "lat": 39.112511,
       "lng": -76.559662,
       "sports": [
@@ -34080,8 +34080,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hanzel's Network (pink)",
+      "city": "Pasadena",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -34392,7 +34392,7 @@
     },
     {
       "id": "osm-w1524782263",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · September Drive",
       "lat": 39.06228,
       "lng": -76.694981,
       "sports": [
@@ -34404,8 +34404,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "September Drive",
+      "city": "Odenton",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -34414,7 +34414,7 @@
     },
     {
       "id": "osm-w1524782418",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Nantucket Drive",
       "lat": 39.027596,
       "lng": -76.668902,
       "sports": [
@@ -34426,8 +34426,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Nantucket Drive",
+      "city": "Crofton",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -34535,7 +34535,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Calverton",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -34647,7 +34647,7 @@
     },
     {
       "id": "osm-w1524787694",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Taunton Court",
       "lat": 39.142141,
       "lng": -77.16317,
       "sports": [
@@ -34659,8 +34659,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Taunton Court",
+      "city": "Redland",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -34839,7 +34839,7 @@
     },
     {
       "id": "osm-w1524819978",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Briggs Chaney Road",
       "lat": 39.087373,
       "lng": -76.964676,
       "sports": [
@@ -34851,8 +34851,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Briggs Chaney Road",
+      "city": "Fairland",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -35137,7 +35137,7 @@
     },
     {
       "id": "osm-w1524829104",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Carry Back Place",
       "lat": 39.098479,
       "lng": -77.259145,
       "sports": [
@@ -35149,8 +35149,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Carry Back Place",
+      "city": "North Potomac",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -35266,7 +35266,7 @@
     },
     {
       "id": "osm-w1524888851",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bennington Lane Connector",
       "lat": 39.006071,
       "lng": -77.017432,
       "sports": [
@@ -35278,8 +35278,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bennington Lane Connector",
+      "city": "Silver Spring",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -35308,7 +35308,7 @@
     },
     {
       "id": "osm-w1524891279",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Sligo Creek Trail",
       "lat": 38.962276,
       "lng": -76.977814,
       "sports": [
@@ -35320,8 +35320,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sligo Creek Trail",
+      "city": "Chillum",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -35330,7 +35330,7 @@
     },
     {
       "id": "osm-w1524892164",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Rachel Carson Greenway Trail",
       "lat": 38.949589,
       "lng": -76.957284,
       "sports": [
@@ -35343,8 +35343,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rachel Carson Greenway Trail",
+      "city": "Hyattsville",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -35413,7 +35413,7 @@
     },
     {
       "id": "osm-w1524894083",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Grove Road",
       "lat": 39.139049,
       "lng": -77.175297,
       "sports": [
@@ -35425,8 +35425,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Grove Road",
+      "city": "Washington Grove",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -35604,7 +35604,7 @@
     },
     {
       "id": "osm-w1524897649",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Streamview Court",
       "lat": 39.029379,
       "lng": -77.177847,
       "sports": [
@@ -35616,8 +35616,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Streamview Court",
+      "city": "Potomac",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -35844,7 +35844,7 @@
     },
     {
       "id": "osm-w1526474238",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · King Charles Terrace",
       "lat": 38.703853,
       "lng": -77.024692,
       "sports": [
@@ -35856,8 +35856,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "King Charles Terrace",
+      "city": "Accokeek",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -36207,7 +36207,7 @@
     },
     {
       "id": "osm-w1531861920",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Administration Drive",
       "lat": 39.253327,
       "lng": -76.711428,
       "sports": [
@@ -36219,8 +36219,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Administration Drive",
+      "city": "Arbutus",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -36291,7 +36291,7 @@
     },
     {
       "id": "osm-w1540257817",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Mason-Dixon Trail",
       "lat": 39.547515,
       "lng": -76.052371,
       "sports": [
@@ -36304,8 +36304,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mason-Dixon Trail",
+      "city": "Cecil County",
       "state": "MD",
       "source": "osm",
       "tags": {}
@@ -36376,7 +36376,7 @@
     },
     {
       "id": "osm-w1540827980",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Riverside Parkway",
       "lat": 39.480007,
       "lng": -76.25017,
       "sports": [
@@ -36388,8 +36388,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Riverside Parkway",
+      "city": "Riverside",
       "state": "MD",
       "source": "osm",
       "tags": {
@@ -36568,7 +36568,7 @@
     },
     {
       "id": "osm-w1553931973",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Peach Walker Drive",
       "lat": 38.921985,
       "lng": -76.735341,
       "sports": [
@@ -36580,8 +36580,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Peach Walker Drive",
+      "city": "Bowie",
       "state": "MD",
       "source": "osm",
       "tags": {

@@ -465,7 +465,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Town of Southampton",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -730,7 +730,7 @@
     },
     {
       "id": "osm-n13663080910",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Railroad Avenue",
       "lat": 42.962923,
       "lng": -77.136665,
       "sports": [
@@ -742,8 +742,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Railroad Avenue",
+      "city": "Village of Clifton Springs",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -771,7 +771,7 @@
     },
     {
       "id": "osm-n13703867801",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Vince Tofany Boulevard",
       "lat": 43.25988,
       "lng": -77.698813,
       "sports": [
@@ -783,15 +783,15 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Vince Tofany Boulevard",
+      "city": "Town of Greece",
       "state": "NY",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1553434309",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Percy Avenue",
       "lat": 40.821806,
       "lng": -72.669375,
       "sports": [
@@ -803,8 +803,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Percy Avenue",
+      "city": "Town of Southampton",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -1477,7 +1477,7 @@
     },
     {
       "id": "osm-w65767946",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · PTL Arthur Charles Lane",
       "lat": 42.800081,
       "lng": -73.907675,
       "sports": [
@@ -1489,8 +1489,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "PTL Arthur Charles Lane",
+      "city": "City of Schenectady",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -1583,7 +1583,7 @@
     },
     {
       "id": "osm-w72946720",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Village Boulevard",
       "lat": 43.13107,
       "lng": -76.318877,
       "sports": [
@@ -1595,8 +1595,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Village Boulevard",
+      "city": "Village Green",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -1900,7 +1900,7 @@
     },
     {
       "id": "osm-w84258040",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Alumni Drive",
       "lat": 42.68485,
       "lng": -73.83047,
       "sports": [
@@ -1912,8 +1912,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Alumni Drive",
+      "city": "Town of Guilderland",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -2108,7 +2108,7 @@
     },
     {
       "id": "osm-w91198812",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Monroe Street",
       "lat": 42.894214,
       "lng": -78.693443,
       "sports": [
@@ -2120,8 +2120,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Monroe Street",
+      "city": "Town of Lancaster",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -2174,7 +2174,7 @@
     },
     {
       "id": "osm-w92195879",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Sebastien Road",
       "lat": 45.015307,
       "lng": -74.781784,
       "sports": [
@@ -3318,7 +3318,7 @@
     },
     {
       "id": "osm-w135966315",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Letchworth Drive",
       "lat": 42.80116,
       "lng": -77.823467,
       "sports": [
@@ -3330,8 +3330,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Letchworth Drive",
+      "city": "Village of Geneseo",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -4700,7 +4700,7 @@
     },
     {
       "id": "osm-w136928644",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Columbia-Greene Community College",
       "lat": 42.2165,
       "lng": -73.820086,
       "sports": [
@@ -4712,8 +4712,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Columbia-Greene Community College",
+      "city": "Columbia County",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -4806,7 +4806,7 @@
     },
     {
       "id": "osm-w137151419",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hamilton Street",
       "lat": 42.858278,
       "lng": -76.988523,
       "sports": [
@@ -4818,8 +4818,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hamilton Street",
+      "city": "City of Geneva",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -5551,7 +5551,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Village of Woodbury",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -6246,7 +6246,7 @@
     },
     {
       "id": "osm-w138176139",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ridgeway",
       "lat": 41.008827,
       "lng": -73.745537,
       "sports": [
@@ -6258,8 +6258,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ridgeway",
+      "city": "City of White Plains",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -6354,7 +6354,7 @@
     },
     {
       "id": "osm-w138176178",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Premium Point Road",
       "lat": 40.913052,
       "lng": -73.761205,
       "sports": [
@@ -6366,8 +6366,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Premium Point Road",
+      "city": "City of New Rochelle",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -6376,7 +6376,7 @@
     },
     {
       "id": "osm-w138176184",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Premium Point Road",
       "lat": 40.913088,
       "lng": -73.756818,
       "sports": [
@@ -6388,8 +6388,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Premium Point Road",
+      "city": "Town of Mamaroneck",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -7792,7 +7792,7 @@
     },
     {
       "id": "osm-w139189611",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Whitney Lane",
       "lat": 43.129649,
       "lng": -77.532775,
       "sports": [
@@ -7804,8 +7804,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Whitney Lane",
+      "city": "Town of Brighton",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -8021,7 +8021,7 @@
     },
     {
       "id": "osm-w139514770",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Mohegan Lane",
       "lat": 41.019872,
       "lng": -73.68778,
       "sports": [
@@ -8033,8 +8033,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mohegan Lane",
+      "city": "Village of Rye Brook",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -8747,7 +8747,7 @@
     },
     {
       "id": "osm-w139931143",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cummings Drive",
       "lat": 42.977705,
       "lng": -78.599265,
       "sports": [
@@ -8759,8 +8759,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cummings Drive",
+      "city": "Town of Clarence",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -9003,7 +9003,7 @@
     },
     {
       "id": "osm-w140271130",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Dogwood Lane",
       "lat": 40.987527,
       "lng": -73.688932,
       "sports": [
@@ -9015,8 +9015,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Dogwood Lane",
+      "city": "City of Rye",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -9275,7 +9275,7 @@
     },
     {
       "id": "osm-w140428028",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cayuga Circle",
       "lat": 43.451995,
       "lng": -76.547641,
       "sports": [
@@ -9295,7 +9295,7 @@
     },
     {
       "id": "osm-w140428029",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · County Route 89",
       "lat": 43.450993,
       "lng": -76.551552,
       "sports": [
@@ -9743,7 +9743,7 @@
     },
     {
       "id": "osm-w140583846",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Keller Street",
       "lat": 42.338754,
       "lng": -77.323014,
       "sports": [
@@ -9755,8 +9755,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Keller Street",
+      "city": "Village of Bath",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -10949,7 +10949,7 @@
     },
     {
       "id": "osm-w161929817",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Niskayuna Drive",
       "lat": 42.824564,
       "lng": -73.898096,
       "sports": [
@@ -10961,8 +10961,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Niskayuna Drive",
+      "city": "Town of Niskayuna",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -11186,7 +11186,7 @@
     },
     {
       "id": "osm-w182927474",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Major Deegan Expressway",
       "lat": 40.827342,
       "lng": -73.930443,
       "sports": [
@@ -11198,8 +11198,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Major Deegan Expressway",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -11338,7 +11338,7 @@
     },
     {
       "id": "osm-w185022016",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 66th Street",
       "lat": 40.631606,
       "lng": -74.011774,
       "sports": [
@@ -11350,15 +11350,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "66th Street",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w185148073",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Knapp Street",
       "lat": 40.587084,
       "lng": -73.932058,
       "sports": [
@@ -11370,8 +11370,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Knapp Street",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -11466,7 +11466,7 @@
     },
     {
       "id": "osm-w187175756",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Haviland Cove Road",
       "lat": 43.291926,
       "lng": -73.650408,
       "sports": [
@@ -11478,8 +11478,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Haviland Cove Road",
+      "city": "City of Glens Falls",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -13022,7 +13022,7 @@
     },
     {
       "id": "osm-w234201479",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East 15th Street",
       "lat": 40.604632,
       "lng": -73.957731,
       "sports": [
@@ -13034,8 +13034,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 15th Street",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -13181,7 +13181,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Orange County",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -13190,7 +13190,7 @@
     },
     {
       "id": "osm-w236130423",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Zock Road",
       "lat": 41.468542,
       "lng": -74.618284,
       "sports": [
@@ -13202,8 +13202,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Zock Road",
+      "city": "Orange County",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -13573,7 +13573,7 @@
     },
     {
       "id": "osm-w246740927",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Redwood Loop",
       "lat": 40.547001,
       "lng": -74.21289,
       "sports": [
@@ -13585,8 +13585,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Redwood Loop",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -13869,7 +13869,7 @@
     },
     {
       "id": "osm-w249476126",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Harrison Street",
       "lat": 43.043911,
       "lng": -76.138248,
       "sports": [
@@ -13881,8 +13881,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Harrison Street",
+      "city": "City of Syracuse",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -13931,7 +13931,7 @@
     },
     {
       "id": "osm-w251102242",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East 108th Street",
       "lat": 40.639811,
       "lng": -73.881612,
       "sports": [
@@ -13943,8 +13943,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 108th Street",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -14926,7 +14926,7 @@
     },
     {
       "id": "osm-w285062101",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lafayette Avenue",
       "lat": 40.820992,
       "lng": -73.860726,
       "sports": [
@@ -14938,8 +14938,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lafayette Avenue",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -15524,7 +15524,7 @@
     },
     {
       "id": "osm-w298027570",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ocean Avenue",
       "lat": 40.614155,
       "lng": -73.713759,
       "sports": [
@@ -15536,15 +15536,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ocean Avenue",
+      "city": "Village of Lawrence",
       "state": "NY",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w298027574",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Monroe Street",
       "lat": 40.608807,
       "lng": -73.726352,
       "sports": [
@@ -15557,8 +15557,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Monroe Street",
+      "city": "Village of Lawrence",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -15948,7 +15948,7 @@
     },
     {
       "id": "osm-w314873707",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Brightside Avenue",
       "lat": 40.880093,
       "lng": -73.321915,
       "sports": [
@@ -15960,8 +15960,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Brightside Avenue",
+      "city": "East Northport",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -17881,7 +17881,7 @@
     },
     {
       "id": "osm-w372364187",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Church Street",
       "lat": 42.577393,
       "lng": -77.940123,
       "sports": [
@@ -17893,8 +17893,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Church Street",
+      "city": "Village of Nunda",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -18980,7 +18980,7 @@
     },
     {
       "id": "osm-w432073083",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Lake Road",
       "lat": 42.784439,
       "lng": -77.314838,
       "sports": [
@@ -18992,8 +18992,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Lake Road",
+      "city": "Town of Canandaigua",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -20154,7 +20154,7 @@
     },
     {
       "id": "osm-w437945179",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Mountain Drive",
       "lat": 41.024096,
       "lng": -73.856566,
       "sports": [
@@ -20166,8 +20166,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Mountain Drive",
+      "city": "Village of Dobbs Ferry",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -20238,7 +20238,7 @@
     },
     {
       "id": "osm-w442616528",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Broadway",
       "lat": 40.887945,
       "lng": -73.898465,
       "sports": [
@@ -20250,8 +20250,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Broadway",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -20282,7 +20282,7 @@
     },
     {
       "id": "osm-w444443787",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Richs Dugway Road",
       "lat": 43.14741,
       "lng": -77.519387,
       "sports": [
@@ -20295,8 +20295,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Richs Dugway Road",
+      "city": "Town of Brighton",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -21162,7 +21162,7 @@
     },
     {
       "id": "osm-w462871687",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Birchwood Park Drive",
       "lat": 40.889012,
       "lng": -72.957474,
       "sports": [
@@ -21174,8 +21174,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Birchwood Park Drive",
+      "city": "Middle Island",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -22662,7 +22662,7 @@
     },
     {
       "id": "osm-w473807266",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Overland Street",
       "lat": 42.07512,
       "lng": -76.792624,
       "sports": [
@@ -22674,8 +22674,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Overland Street",
+      "city": "City of Elmira",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -22972,7 +22972,7 @@
     },
     {
       "id": "osm-w494862470",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hiking",
       "lat": 42.799174,
       "lng": -73.742493,
       "sports": [
@@ -22985,8 +22985,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hiking",
+      "city": "Town of Colonie",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -25776,7 +25776,7 @@
     },
     {
       "id": "osm-w531021608",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 24th Avenue",
       "lat": 40.780835,
       "lng": -73.772678,
       "sports": [
@@ -25789,8 +25789,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "24th Avenue",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -26135,7 +26135,7 @@
     },
     {
       "id": "osm-w544357805",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Northern Boulevard",
       "lat": 40.856057,
       "lng": -73.465634,
       "sports": [
@@ -26147,8 +26147,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northern Boulevard",
+      "city": "Village of Laurel Hollow",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -26470,7 +26470,7 @@
     },
     {
       "id": "osm-w547091200",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Campus Drive",
       "lat": 41.749447,
       "lng": -73.931853,
       "sports": [
@@ -26482,8 +26482,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Campus Drive",
+      "city": "Town of Hyde Park",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -26492,7 +26492,7 @@
     },
     {
       "id": "osm-w547332915",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Shore Drive",
       "lat": 43.314085,
       "lng": -78.836931,
       "sports": [
@@ -26504,8 +26504,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Shore Drive",
+      "city": "Town of Wilson",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -27548,7 +27548,7 @@
     },
     {
       "id": "osm-w566444655",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Two Trees Lane",
       "lat": 40.940083,
       "lng": -72.332104,
       "sports": [
@@ -27560,8 +27560,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Two Trees Lane",
+      "city": "Bridgehampton",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -28299,7 +28299,7 @@
     },
     {
       "id": "osm-w607147262",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Shady Lane",
       "lat": 40.738002,
       "lng": -73.599621,
       "sports": [
@@ -28311,8 +28311,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Shady Lane",
+      "city": "Uniondale",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -28363,7 +28363,7 @@
     },
     {
       "id": "osm-w608184343",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Lake Road",
       "lat": 42.782632,
       "lng": -77.313957,
       "sports": [
@@ -28375,8 +28375,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Lake Road",
+      "city": "Town of Canandaigua",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -28525,7 +28525,7 @@
     },
     {
       "id": "osm-w612408739",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hillman Street",
       "lat": 40.677126,
       "lng": -73.648441,
       "sports": [
@@ -28538,8 +28538,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hillman Street",
+      "city": "Lakeview",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -28566,7 +28566,7 @@
     },
     {
       "id": "osm-w613054403",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · School Drive",
       "lat": 40.77213,
       "lng": -73.661792,
       "sports": [
@@ -28578,8 +28578,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "School Drive",
+      "city": "Searingtown",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -28588,7 +28588,7 @@
     },
     {
       "id": "osm-w614112152",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Lake Shore Road",
       "lat": 42.632387,
       "lng": -79.081486,
       "sports": [
@@ -28600,8 +28600,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lake Shore Road",
+      "city": "Lake Erie Beach",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -29484,7 +29484,7 @@
     },
     {
       "id": "osm-w652492232",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Buckingham Place",
       "lat": 42.941175,
       "lng": -78.825544,
       "sports": [
@@ -29496,8 +29496,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Buckingham Place",
+      "city": "Buffalo",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -30051,7 +30051,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Town of Mamaroneck",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -30401,7 +30401,7 @@
     },
     {
       "id": "osm-w704621209",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · California Avenue",
       "lat": 41.443333,
       "lng": -74.440972,
       "sports": [
@@ -30413,8 +30413,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "California Avenue",
+      "city": "Mechanicstown",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -32269,7 +32269,7 @@
     },
     {
       "id": "osm-w770744763",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Grenfell Drive",
       "lat": 40.776147,
       "lng": -73.710869,
       "sports": [
@@ -32281,8 +32281,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Grenfell Drive",
+      "city": "Village of Lake Success",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -32330,7 +32330,7 @@
     },
     {
       "id": "osm-w773002389",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hunt Court",
       "lat": 40.783677,
       "lng": -73.559481,
       "sports": [
@@ -32342,8 +32342,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hunt Court",
+      "city": "Jericho",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -32786,7 +32786,7 @@
     },
     {
       "id": "osm-w804813386",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Penny Lane",
       "lat": 41.860401,
       "lng": -73.930373,
       "sports": [
@@ -32798,8 +32798,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Penny Lane",
+      "city": "Town of Hyde Park",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -33020,7 +33020,7 @@
     },
     {
       "id": "osm-w820504517",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Service Road",
       "lat": 40.766015,
       "lng": -73.697751,
       "sports": [
@@ -33032,15 +33032,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Service Road",
+      "city": "Village of Lake Success",
       "state": "NY",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w820504526",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Old Lakeville Road",
       "lat": 40.765655,
       "lng": -73.705036,
       "sports": [
@@ -33052,8 +33052,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Old Lakeville Road",
+      "city": "Village of Lake Success",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -33920,7 +33920,7 @@
     },
     {
       "id": "osm-w847303683",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Higgins Drive",
       "lat": 43.139069,
       "lng": -76.311135,
       "sports": [
@@ -33932,8 +33932,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Higgins Drive",
+      "city": "Village Green",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -34196,7 +34196,7 @@
     },
     {
       "id": "osm-w859461582",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Premium Point Road",
       "lat": 40.907702,
       "lng": -73.760699,
       "sports": [
@@ -34208,8 +34208,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Premium Point Road",
+      "city": "Town of Mamaroneck",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -34344,7 +34344,7 @@
     },
     {
       "id": "osm-w864298832",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ambassador Drive",
       "lat": 43.128894,
       "lng": -77.536856,
       "sports": [
@@ -34356,8 +34356,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ambassador Drive",
+      "city": "Town of Brighton",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -34366,7 +34366,7 @@
     },
     {
       "id": "osm-w864304127",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Elmwood Avenue",
       "lat": 43.126301,
       "lng": -77.545148,
       "sports": [
@@ -34378,8 +34378,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Elmwood Avenue",
+      "city": "Town of Brighton",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -34452,7 +34452,7 @@
     },
     {
       "id": "osm-w866820328",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Beach 193rd Street",
       "lat": 40.557769,
       "lng": -73.903502,
       "sports": [
@@ -34464,8 +34464,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Beach 193rd Street",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -35302,7 +35302,7 @@
     },
     {
       "id": "osm-w907145263",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Jacob Riis Boardwalk",
       "lat": 40.565511,
       "lng": -73.875821,
       "sports": [
@@ -35314,8 +35314,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Jacob Riis Boardwalk",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -35744,7 +35744,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Town of Islip",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -35859,7 +35859,7 @@
     },
     {
       "id": "osm-w935467745",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Jackie Robinson Way",
       "lat": 41.209515,
       "lng": -74.376207,
       "sports": [
@@ -35871,8 +35871,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Jackie Robinson Way",
+      "city": "Town of Warwick",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -36025,7 +36025,7 @@
     },
     {
       "id": "osm-w947951440",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Montfort Road",
       "lat": 41.598134,
       "lng": -73.846801,
       "sports": [
@@ -36037,8 +36037,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Montfort Road",
+      "city": "New Hackensack",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -36087,7 +36087,7 @@
     },
     {
       "id": "osm-w950013292",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Atlantic Avenue",
       "lat": 40.995927,
       "lng": -72.289498,
       "sports": [
@@ -36099,8 +36099,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Atlantic Avenue",
+      "city": "Village of Sag Harbor",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -36281,7 +36281,7 @@
     },
     {
       "id": "osm-w954323222",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Panorama Trail West",
       "lat": 43.135637,
       "lng": -77.493505,
       "sports": [
@@ -36293,8 +36293,8 @@
       "indoor": null,
       "access": "customers",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Panorama Trail West",
+      "city": "Town of Penfield",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -36345,7 +36345,7 @@
     },
     {
       "id": "osm-w958979696",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lewiston Road",
       "lat": 43.161057,
       "lng": -79.036981,
       "sports": [
@@ -36357,8 +36357,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lewiston Road",
+      "city": "Town of Lewiston",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -36389,7 +36389,7 @@
     },
     {
       "id": "osm-w961968599",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Dragon Drive",
       "lat": 41.443417,
       "lng": -74.073665,
       "sports": [
@@ -36401,8 +36401,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Dragon Drive",
+      "city": "Town of Cornwall",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -36894,7 +36894,7 @@
     },
     {
       "id": "osm-w972138855",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Eastchester Road",
       "lat": 40.852964,
       "lng": -73.843931,
       "sports": [
@@ -36906,8 +36906,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Eastchester Road",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -37304,7 +37304,7 @@
     },
     {
       "id": "osm-w995268393",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Anderson Road",
       "lat": 42.907481,
       "lng": -78.770587,
       "sports": [
@@ -37316,8 +37316,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Anderson Road",
+      "city": "Town of Cheektowaga",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -37646,7 +37646,7 @@
     },
     {
       "id": "osm-w1006883588",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Raymond Avenue",
       "lat": 41.690386,
       "lng": -73.899146,
       "sports": [
@@ -37658,8 +37658,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Raymond Avenue",
+      "city": "Arlington",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -38313,7 +38313,7 @@
     },
     {
       "id": "osm-w1041307552",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Service Road",
       "lat": 42.092996,
       "lng": -75.95714,
       "sports": [
@@ -38325,8 +38325,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Service Road",
+      "city": "Town of Vestal",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -38375,7 +38375,7 @@
     },
     {
       "id": "osm-w1047732662",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · McCanns Lane",
       "lat": 41.439334,
       "lng": -74.028054,
       "sports": [
@@ -38388,15 +38388,15 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "McCanns Lane",
+      "city": "Town of Cornwall",
       "state": "NY",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1050053159",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Brooks Road",
       "lat": 41.448158,
       "lng": -74.026851,
       "sports": [
@@ -38408,8 +38408,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Brooks Road",
+      "city": "Town of Cornwall",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -38635,7 +38635,7 @@
     },
     {
       "id": "osm-w1057615476",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Parkledge Court",
       "lat": 42.992174,
       "lng": -78.639264,
       "sports": [
@@ -38648,8 +38648,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Parkledge Court",
+      "city": "Harris Hill",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -38851,7 +38851,7 @@
     },
     {
       "id": "osm-w1069964898",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Eastbrooke Lane",
       "lat": 43.100009,
       "lng": -77.578964,
       "sports": [
@@ -38863,8 +38863,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Eastbrooke Lane",
+      "city": "Town of Brighton",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -38893,7 +38893,7 @@
     },
     {
       "id": "osm-w1070123523",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Seneca Street",
       "lat": 42.875622,
       "lng": -78.848998,
       "sports": [
@@ -38905,8 +38905,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Seneca Street",
+      "city": "Buffalo",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -39650,7 +39650,7 @@
     },
     {
       "id": "osm-w1095293123",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Main Gate Drive",
       "lat": 40.613852,
       "lng": -74.090369,
       "sports": [
@@ -39662,8 +39662,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Main Gate Drive",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -40166,7 +40166,7 @@
     },
     {
       "id": "osm-w1107381421",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Tibbett Avenue",
       "lat": 40.876703,
       "lng": -73.914047,
       "sports": [
@@ -40178,8 +40178,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Tibbett Avenue",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -40614,7 +40614,7 @@
     },
     {
       "id": "osm-w1122353383",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · County House Road",
       "lat": 40.591803,
       "lng": -74.139812,
       "sports": [
@@ -40627,8 +40627,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "County House Road",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -41636,7 +41636,7 @@
     },
     {
       "id": "osm-w1164320559",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Roman Court",
       "lat": 41.124239,
       "lng": -73.980961,
       "sports": [
@@ -41648,8 +41648,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Roman Court",
+      "city": "New City",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -41678,7 +41678,7 @@
     },
     {
       "id": "osm-w1167481416",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Paumanok Path",
       "lat": 40.998119,
       "lng": -72.197263,
       "sports": [
@@ -41691,8 +41691,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Paumanok Path",
+      "city": "Town of East Hampton",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -41721,7 +41721,7 @@
     },
     {
       "id": "osm-w1171303032",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North Serval Street",
       "lat": 42.497213,
       "lng": -79.319707,
       "sports": [
@@ -41733,8 +41733,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Serval Street",
+      "city": "City of Dunkirk",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -42249,7 +42249,7 @@
     },
     {
       "id": "osm-w1185562086",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Scajaquada Expressway",
       "lat": 42.934423,
       "lng": -78.867484,
       "sports": [
@@ -42261,8 +42261,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Scajaquada Expressway",
+      "city": "Buffalo",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -42311,7 +42311,7 @@
     },
     {
       "id": "osm-w1189507738",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Golfside Circle",
       "lat": 42.749012,
       "lng": -77.340763,
       "sports": [
@@ -42324,8 +42324,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Golfside Circle",
+      "city": "Ontario County",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -42938,7 +42938,7 @@
     },
     {
       "id": "osm-w1198741839",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Parade Avenue",
       "lat": 42.905044,
       "lng": -78.837039,
       "sports": [
@@ -42950,8 +42950,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Parade Avenue",
+      "city": "Buffalo",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -43066,7 +43066,7 @@
     },
     {
       "id": "osm-w1203314451",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Genesee Riverway Trail",
       "lat": 43.123257,
       "lng": -77.640746,
       "sports": [
@@ -43078,8 +43078,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Genesee Riverway Trail",
+      "city": "City of Rochester",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -45262,7 +45262,7 @@
     },
     {
       "id": "osm-w1219585829",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Planting Fields Road",
       "lat": 40.867818,
       "lng": -73.559384,
       "sports": [
@@ -45274,8 +45274,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Planting Fields Road",
+      "city": "Village of Upper Brookville",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -45284,7 +45284,7 @@
     },
     {
       "id": "osm-w1219585830",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Planting Fields Road",
       "lat": 40.86517,
       "lng": -73.564684,
       "sports": [
@@ -45296,8 +45296,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Planting Fields Road",
+      "city": "Village of Upper Brookville",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -45306,7 +45306,7 @@
     },
     {
       "id": "osm-w1219585833",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Chicken Valley Road",
       "lat": 40.866257,
       "lng": -73.567401,
       "sports": [
@@ -45318,8 +45318,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Chicken Valley Road",
+      "city": "Village of Old Brookville",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -45328,7 +45328,7 @@
     },
     {
       "id": "osm-w1219585834",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Oyster Bay Road",
       "lat": 40.867097,
       "lng": -73.566493,
       "sports": [
@@ -45340,8 +45340,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Oyster Bay Road",
+      "city": "Village of Mill Neck",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -45350,7 +45350,7 @@
     },
     {
       "id": "osm-w1219585835",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Oyster Bay Road",
       "lat": 40.868402,
       "lng": -73.56172,
       "sports": [
@@ -45362,8 +45362,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Oyster Bay Road",
+      "city": "Village of Mill Neck",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -45372,7 +45372,7 @@
     },
     {
       "id": "osm-w1219585836",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · High Ridge Lane",
       "lat": 40.867748,
       "lng": -73.563709,
       "sports": [
@@ -45384,8 +45384,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "High Ridge Lane",
+      "city": "Oyster Bay",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -46877,7 +46877,7 @@
     },
     {
       "id": "osm-w1220389904",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Oyster Bay Road",
       "lat": 40.869091,
       "lng": -73.559887,
       "sports": [
@@ -46889,8 +46889,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Oyster Bay Road",
+      "city": "Village of Mill Neck",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -47611,7 +47611,7 @@
     },
     {
       "id": "osm-w1226024619",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Towerwood Road",
       "lat": 42.975455,
       "lng": -78.948323,
       "sports": [
@@ -47623,8 +47623,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Towerwood Road",
+      "city": "Town of Grand Island",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -47695,7 +47695,7 @@
     },
     {
       "id": "osm-w1226027674",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Memorial Parkway",
       "lat": 43.0854,
       "lng": -75.249897,
       "sports": [
@@ -47707,8 +47707,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Memorial Parkway",
+      "city": "City of Utica",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -50032,7 +50032,7 @@
     },
     {
       "id": "osm-w1232744732",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Todd Drive",
       "lat": 40.844743,
       "lng": -73.670147,
       "sports": [
@@ -50044,8 +50044,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Todd Drive",
+      "city": "Village of Sands Point",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -51000,7 +51000,7 @@
     },
     {
       "id": "osm-w1235953583",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Phaetons Drive",
       "lat": 40.793193,
       "lng": -73.438029,
       "sports": [
@@ -51012,8 +51012,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Phaetons Drive",
+      "city": "Melville",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -51040,7 +51040,7 @@
     },
     {
       "id": "osm-w1235953591",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Round Swamp Road",
       "lat": 40.794777,
       "lng": -73.439612,
       "sports": [
@@ -51052,8 +51052,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Round Swamp Road",
+      "city": "West Hills",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -51104,7 +51104,7 @@
     },
     {
       "id": "osm-w1235953597",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Patrick Drive",
       "lat": 40.794713,
       "lng": -73.443109,
       "sports": [
@@ -51116,8 +51116,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Patrick Drive",
+      "city": "West Hills",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -51126,7 +51126,7 @@
     },
     {
       "id": "osm-w1235953599",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Louis Drive",
       "lat": 40.79594,
       "lng": -73.442885,
       "sports": [
@@ -51138,8 +51138,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Louis Drive",
+      "city": "West Hills",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -51410,7 +51410,7 @@
     },
     {
       "id": "osm-w1237450987",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Deer Hill Road",
       "lat": 41.423566,
       "lng": -74.012508,
       "sports": [
@@ -51422,8 +51422,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Deer Hill Road",
+      "city": "Town of Cornwall",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -54384,7 +54384,7 @@
     },
     {
       "id": "osm-w1240806917",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Golf Course Road",
       "lat": 43.273955,
       "lng": -75.436238,
       "sports": [
@@ -54397,8 +54397,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Golf Course Road",
+      "city": "City of Rome",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -54702,7 +54702,7 @@
     },
     {
       "id": "osm-w1242607064",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · United States Route 9W",
       "lat": 41.350831,
       "lng": -73.974798,
       "sports": [
@@ -54714,8 +54714,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "United States Route 9W",
+      "city": "Orange County",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -54903,7 +54903,7 @@
       "access": "customers",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Village of Canton",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -55542,7 +55542,7 @@
     },
     {
       "id": "osm-w1254160681",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Squabble Lane",
       "lat": 40.879763,
       "lng": -72.364732,
       "sports": [
@@ -55555,8 +55555,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Squabble Lane",
+      "city": "Village of Southampton",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -55910,7 +55910,7 @@
     },
     {
       "id": "osm-w1262702476",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Clement Street",
       "lat": 40.86671,
       "lng": -73.643825,
       "sports": [
@@ -55922,8 +55922,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Clement Street",
+      "city": "City of Glen Cove",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -55932,7 +55932,7 @@
     },
     {
       "id": "osm-w1263550581",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Washington Street",
       "lat": 44.621134,
       "lng": -75.409937,
       "sports": [
@@ -55944,8 +55944,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Washington Street",
+      "city": "Village of Heuvelton",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -56882,7 +56882,7 @@
     },
     {
       "id": "osm-w1263809738",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Two Trees Lane",
       "lat": 40.93979,
       "lng": -72.328021,
       "sports": [
@@ -56894,8 +56894,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Two Trees Lane",
+      "city": "Bridgehampton",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -56904,7 +56904,7 @@
     },
     {
       "id": "osm-w1263809739",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Goldfish Pond Road",
       "lat": 40.94381,
       "lng": -72.326841,
       "sports": [
@@ -56916,8 +56916,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Goldfish Pond Road",
+      "city": "Bridgehampton",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -56926,7 +56926,7 @@
     },
     {
       "id": "osm-w1263809740",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Goldfish Pond Road",
       "lat": 40.942951,
       "lng": -72.325434,
       "sports": [
@@ -56938,8 +56938,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Goldfish Pond Road",
+      "city": "Bridgehampton",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -57685,7 +57685,7 @@
     },
     {
       "id": "osm-w1268492505",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Saddle Ridge",
       "lat": 40.797944,
       "lng": -73.603995,
       "sports": [
@@ -57697,8 +57697,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Saddle Ridge",
+      "city": "Village of Old Westbury",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -57707,7 +57707,7 @@
     },
     {
       "id": "osm-w1268492507",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Miller Trail",
       "lat": 40.796923,
       "lng": -73.607583,
       "sports": [
@@ -57719,8 +57719,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Miller Trail",
+      "city": "Village of Old Westbury",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -60310,7 +60310,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Village of Lattingtown",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -61303,7 +61303,7 @@
     },
     {
       "id": "osm-w1304434740",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Evergreen Street",
       "lat": 41.293132,
       "lng": -73.776472,
       "sports": [
@@ -61315,8 +61315,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Evergreen Street",
+      "city": "Town of Yorktown",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -61345,7 +61345,7 @@
     },
     {
       "id": "osm-w1307804707",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Dolphin Green",
       "lat": 40.827956,
       "lng": -73.702431,
       "sports": [
@@ -61358,8 +61358,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Dolphin Green",
+      "city": "Port Washington",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -61562,7 +61562,7 @@
     },
     {
       "id": "osm-w1309140163",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Road",
       "lat": 40.842234,
       "lng": -73.674158,
       "sports": [
@@ -61574,8 +61574,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Road",
+      "city": "Village of Sands Point",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -61584,7 +61584,7 @@
     },
     {
       "id": "osm-w1309140164",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Middle Road",
       "lat": 40.841661,
       "lng": -73.676442,
       "sports": [
@@ -61596,8 +61596,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Middle Road",
+      "city": "Village of Sands Point",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -61867,7 +61867,7 @@
     },
     {
       "id": "osm-w1314022760",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Secret Path",
       "lat": 42.689901,
       "lng": -73.819261,
       "sports": [
@@ -61879,8 +61879,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Secret Path",
+      "city": "City of Albany",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -62107,7 +62107,7 @@
     },
     {
       "id": "osm-w1320071163",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · The Pines",
       "lat": 40.787397,
       "lng": -73.618311,
       "sports": [
@@ -62119,8 +62119,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "The Pines",
+      "city": "Village of Old Westbury",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -62409,7 +62409,7 @@
     },
     {
       "id": "osm-w1320071211",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Elmhurst Drive",
       "lat": 40.791669,
       "lng": -73.597433,
       "sports": [
@@ -62421,8 +62421,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Elmhurst Drive",
+      "city": "Village of Old Westbury",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -62475,7 +62475,7 @@
     },
     {
       "id": "osm-w1320071231",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Elmhurst Drive",
       "lat": 40.791769,
       "lng": -73.59557,
       "sports": [
@@ -62487,8 +62487,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Elmhurst Drive",
+      "city": "Village of Old Westbury",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -67262,7 +67262,7 @@
     },
     {
       "id": "osm-w1320943031",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Round Swamp Road",
       "lat": 40.818924,
       "lng": -73.44386,
       "sports": [
@@ -67274,8 +67274,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Round Swamp Road",
+      "city": "West Hills",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -67612,7 +67612,7 @@
     },
     {
       "id": "osm-w1320943092",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Westvale Lane",
       "lat": 40.808188,
       "lng": -73.443448,
       "sports": [
@@ -67624,8 +67624,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Westvale Lane",
+      "city": "West Hills",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -67634,7 +67634,7 @@
     },
     {
       "id": "osm-w1320943094",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Red Dot Trail",
       "lat": 40.809398,
       "lng": -73.441266,
       "sports": [
@@ -67646,8 +67646,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Red Dot Trail",
+      "city": "West Hills",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -67656,7 +67656,7 @@
     },
     {
       "id": "osm-w1320943096",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Equestrian Court",
       "lat": 40.807295,
       "lng": -73.440041,
       "sports": [
@@ -67668,15 +67668,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Equestrian Court",
+      "city": "West Hills",
       "state": "NY",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1320943109",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Equestrian Court",
       "lat": 40.805023,
       "lng": -73.441046,
       "sports": [
@@ -67688,8 +67688,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Equestrian Court",
+      "city": "West Hills",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -67698,7 +67698,7 @@
     },
     {
       "id": "osm-w1320943115",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Equestrian Court",
       "lat": 40.80636,
       "lng": -73.437339,
       "sports": [
@@ -67710,8 +67710,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Equestrian Court",
+      "city": "West Hills",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -67720,7 +67720,7 @@
     },
     {
       "id": "osm-w1320943119",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Equestrian Court",
       "lat": 40.804638,
       "lng": -73.438608,
       "sports": [
@@ -67732,8 +67732,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Equestrian Court",
+      "city": "West Hills",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -67742,7 +67742,7 @@
     },
     {
       "id": "osm-w1320943122",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Round Swamp Road",
       "lat": 40.803624,
       "lng": -73.441546,
       "sports": [
@@ -67754,8 +67754,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Round Swamp Road",
+      "city": "West Hills",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -67764,7 +67764,7 @@
     },
     {
       "id": "osm-w1320943123",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Northern State Parkway",
       "lat": 40.803221,
       "lng": -73.443024,
       "sports": [
@@ -67776,8 +67776,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northern State Parkway",
+      "city": "West Hills",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -68568,7 +68568,7 @@
     },
     {
       "id": "osm-w1328695712",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Military Road",
       "lat": 43.13168,
       "lng": -79.009769,
       "sports": [
@@ -68581,8 +68581,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Military Road",
+      "city": "Town of Lewiston",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -70370,7 +70370,7 @@
     },
     {
       "id": "osm-w1340621115",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Rogers Memorial Park",
       "lat": 43.555116,
       "lng": -73.653669,
       "sports": [
@@ -70382,8 +70382,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rogers Memorial Park",
+      "city": "Town of Bolton",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -70709,7 +70709,7 @@
     },
     {
       "id": "osm-w1354307228",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Moriah Road",
       "lat": 44.04506,
       "lng": -73.504491,
       "sports": [
@@ -70721,15 +70721,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Moriah Road",
+      "city": "Town of Moriah",
       "state": "NY",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1354307762",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Bowen Road",
       "lat": 44.660154,
       "lng": -73.733186,
       "sports": [
@@ -70741,8 +70741,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bowen Road",
+      "city": "Town of Saranac",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -70771,7 +70771,7 @@
     },
     {
       "id": "osm-w1354307956",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Eagles Nest Drive",
       "lat": 42.735184,
       "lng": -77.369953,
       "sports": [
@@ -70783,8 +70783,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Eagles Nest Drive",
+      "city": "Ontario County",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -71096,7 +71096,7 @@
     },
     {
       "id": "osm-w1360429884",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Backyard Trail",
       "lat": 42.77163,
       "lng": -78.644249,
       "sports": [
@@ -71108,8 +71108,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Backyard Trail",
+      "city": "Erie County",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -72451,7 +72451,7 @@
     },
     {
       "id": "osm-w1375931611",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Applegreen Drive",
       "lat": 40.79412,
       "lng": -73.602109,
       "sports": [
@@ -72463,8 +72463,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Applegreen Drive",
+      "city": "Village of Old Westbury",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -72603,7 +72603,7 @@
     },
     {
       "id": "osm-w1376857372",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Whitewood Court",
       "lat": 40.827957,
       "lng": -73.447868,
       "sports": [
@@ -72615,8 +72615,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Whitewood Court",
+      "city": "West Hills",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -73145,7 +73145,7 @@
     },
     {
       "id": "osm-w1386659917",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Crossways",
       "lat": 40.852601,
       "lng": -73.610384,
       "sports": [
@@ -73158,8 +73158,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Crossways",
+      "city": "Glen Head",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -73256,7 +73256,7 @@
     },
     {
       "id": "osm-w1388431516",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Olsen Road",
       "lat": 41.678764,
       "lng": -74.994004,
       "sports": [
@@ -73268,8 +73268,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Olsen Road",
+      "city": "Lake Huntington",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -74229,7 +74229,7 @@
     },
     {
       "id": "osm-w1416530849",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Schenectady Street",
       "lat": 42.807059,
       "lng": -73.938623,
       "sports": [
@@ -74241,8 +74241,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Schenectady Street",
+      "city": "City of Schenectady",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -74617,7 +74617,7 @@
     },
     {
       "id": "osm-w1421448211",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Vanderbilt Parkway",
       "lat": 40.807159,
       "lng": -73.351745,
       "sports": [
@@ -74629,8 +74629,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Vanderbilt Parkway",
+      "city": "Dix Hills",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -74639,7 +74639,7 @@
     },
     {
       "id": "osm-w1421448383",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Millmay Avenue",
       "lat": 40.815571,
       "lng": -73.175236,
       "sports": [
@@ -74652,8 +74652,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Millmay Avenue",
+      "city": "Town of Islip",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -74681,7 +74681,7 @@
     },
     {
       "id": "osm-w1421483605",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Motor Parkway",
       "lat": 40.814211,
       "lng": -73.173133,
       "sports": [
@@ -74693,8 +74693,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Motor Parkway",
+      "city": "Town of Islip",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -74812,7 +74812,7 @@
     },
     {
       "id": "osm-w1424436191",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Town Garage Road",
       "lat": 42.559048,
       "lng": -73.514766,
       "sports": [
@@ -74824,8 +74824,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Town Garage Road",
+      "city": "Town of Nassau",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -75808,7 +75808,7 @@
     },
     {
       "id": "osm-w1425554652",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Dupont Court",
       "lat": 40.792193,
       "lng": -73.344444,
       "sports": [
@@ -75821,8 +75821,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Dupont Court",
+      "city": "Dix Hills",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -76655,7 +76655,7 @@
     },
     {
       "id": "osm-w1425582858",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Montauk Highway",
       "lat": 40.818885,
       "lng": -72.710068,
       "sports": [
@@ -76668,8 +76668,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Montauk Highway",
+      "city": "Town of Southampton",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -77613,7 +77613,7 @@
     },
     {
       "id": "osm-w1425789380",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Jagger Lane",
       "lat": 40.819397,
       "lng": -72.685392,
       "sports": [
@@ -77626,8 +77626,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Jagger Lane",
+      "city": "Town of Southampton",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -79134,7 +79134,7 @@
     },
     {
       "id": "osm-w1426632631",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Sandacres Road",
       "lat": 40.819869,
       "lng": -72.616673,
       "sports": [
@@ -79146,8 +79146,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sandacres Road",
+      "city": "Town of Southampton",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -79741,7 +79741,7 @@
     },
     {
       "id": "osm-w1428368191",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Susan Ferguson Trail",
       "lat": 44.585935,
       "lng": -75.164662,
       "sports": [
@@ -79753,8 +79753,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Susan Ferguson Trail",
+      "city": "Village of Canton",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -79783,7 +79783,7 @@
     },
     {
       "id": "osm-w1429136523",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Townsend Road",
       "lat": 40.869146,
       "lng": -73.615858,
       "sports": [
@@ -79795,8 +79795,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Townsend Road",
+      "city": "City of Glen Cove",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -80989,7 +80989,7 @@
     },
     {
       "id": "osm-w1441696773",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Oneida Avenue",
       "lat": 40.895101,
       "lng": -73.800273,
       "sports": [
@@ -81001,8 +81001,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Oneida Avenue",
+      "city": "Village of Pelham Manor",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -81459,7 +81459,7 @@
     },
     {
       "id": "osm-w1442919161",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Roslyn West Shore Drive",
       "lat": 40.8419,
       "lng": -73.668682,
       "sports": [
@@ -81471,8 +81471,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Roslyn West Shore Drive",
+      "city": "Port Washington",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -81481,7 +81481,7 @@
     },
     {
       "id": "osm-w1442919166",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Southeast Road",
       "lat": 40.842374,
       "lng": -73.670397,
       "sports": [
@@ -81493,8 +81493,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Southeast Road",
+      "city": "Village of Sands Point",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -82175,7 +82175,7 @@
     },
     {
       "id": "osm-w1444630938",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Terrace Lane",
       "lat": 40.811095,
       "lng": -73.473489,
       "sports": [
@@ -82188,8 +82188,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Terrace Lane",
+      "city": "Woodbury",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -82343,7 +82343,7 @@
     },
     {
       "id": "osm-w1445365100",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Sullivan Street",
       "lat": 42.935361,
       "lng": -75.857048,
       "sports": [
@@ -82355,8 +82355,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sullivan Street",
+      "city": "Village of Cazenovia",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -82599,7 +82599,7 @@
     },
     {
       "id": "osm-w1445697686",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bluff Drive North",
       "lat": 40.966153,
       "lng": -72.747638,
       "sports": [
@@ -82612,8 +82612,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bluff Drive North",
+      "city": "Town of Riverhead",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -83071,7 +83071,7 @@
     },
     {
       "id": "osm-w1445903432",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Hauppauge Road",
       "lat": 40.82928,
       "lng": -73.295133,
       "sports": [
@@ -83083,8 +83083,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hauppauge Road",
+      "city": "Commack",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -83754,7 +83754,7 @@
     },
     {
       "id": "osm-w1446965648",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Phaetons Drive",
       "lat": 40.795831,
       "lng": -73.437106,
       "sports": [
@@ -83766,8 +83766,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Phaetons Drive",
+      "city": "Melville",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -83776,7 +83776,7 @@
     },
     {
       "id": "osm-w1446966477",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Mount Misery Road",
       "lat": 40.801049,
       "lng": -73.436113,
       "sports": [
@@ -83789,8 +83789,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mount Misery Road",
+      "city": "West Hills",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -84048,7 +84048,7 @@
     },
     {
       "id": "osm-w1447297346",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Gerald Avenue",
       "lat": 42.101223,
       "lng": -79.308216,
       "sports": [
@@ -84060,15 +84060,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Gerald Avenue",
+      "city": "Village of Lakewood",
       "state": "NY",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1447549414",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · NY 26",
       "lat": 42.084243,
       "lng": -76.042681,
       "sports": [
@@ -84080,15 +84080,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "NY 26",
+      "city": "Town of Vestal",
       "state": "NY",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1447566373",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Toby Road",
       "lat": 43.186538,
       "lng": -75.26073,
       "sports": [
@@ -84100,8 +84100,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Toby Road",
+      "city": "Town of Marcy",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -84128,7 +84128,7 @@
     },
     {
       "id": "osm-w1447567202",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Landing Lane",
       "lat": 40.964194,
       "lng": -72.761533,
       "sports": [
@@ -84140,8 +84140,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Landing Lane",
+      "city": "Town of Riverhead",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -84172,7 +84172,7 @@
     },
     {
       "id": "osm-w1447567818",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Legends Circle",
       "lat": 40.776807,
       "lng": -73.399456,
       "sports": [
@@ -84184,8 +84184,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Legends Circle",
+      "city": "Melville",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -84255,7 +84255,7 @@
     },
     {
       "id": "osm-w1447607788",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hilltop Drive",
       "lat": 40.797901,
       "lng": -73.437974,
       "sports": [
@@ -84267,8 +84267,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hilltop Drive",
+      "city": "West Hills",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -84387,7 +84387,7 @@
     },
     {
       "id": "osm-w1447688544",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Phaetons Gate",
       "lat": 40.792939,
       "lng": -73.440285,
       "sports": [
@@ -84399,8 +84399,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Phaetons Gate",
+      "city": "West Hills",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -84952,7 +84952,7 @@
     },
     {
       "id": "osm-w1451872559",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Northern State Parkway",
       "lat": 40.781824,
       "lng": -73.635439,
       "sports": [
@@ -84964,8 +84964,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northern State Parkway",
+      "city": "Village of East Hills",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -85014,7 +85014,7 @@
     },
     {
       "id": "osm-w1452728683",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Raush Trail",
       "lat": 40.806195,
       "lng": -73.578063,
       "sports": [
@@ -85026,8 +85026,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Raush Trail",
+      "city": "Village of Brookville",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -85058,7 +85058,7 @@
     },
     {
       "id": "osm-w1453789665",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Market Street Extension",
       "lat": 42.13973,
       "lng": -77.036429,
       "sports": [
@@ -85070,8 +85070,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Market Street Extension",
+      "city": "City of Corning",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -85540,7 +85540,7 @@
     },
     {
       "id": "osm-w1456623977",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · The Crescent",
       "lat": 40.786502,
       "lng": -73.657854,
       "sports": [
@@ -85553,8 +85553,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "The Crescent",
+      "city": "Village of North Hills",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -85876,7 +85876,7 @@
     },
     {
       "id": "osm-w1460140375",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Losson Road",
       "lat": 42.882482,
       "lng": -78.732382,
       "sports": [
@@ -85888,8 +85888,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Losson Road",
+      "city": "Town of Cheektowaga",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -86252,7 +86252,7 @@
     },
     {
       "id": "osm-w1462198291",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Airport Access Road",
       "lat": 42.74638,
       "lng": -73.814241,
       "sports": [
@@ -86264,8 +86264,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Airport Access Road",
+      "city": "Town of Colonie",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -86615,7 +86615,7 @@
     },
     {
       "id": "osm-w1466322859",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Shore Road",
       "lat": 40.87892,
       "lng": -73.469762,
       "sports": [
@@ -86627,8 +86627,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Shore Road",
+      "city": "Town of Huntington",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -86741,7 +86741,7 @@
     },
     {
       "id": "osm-w1467670681",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Bay View Avenue",
       "lat": 41.440265,
       "lng": -74.003943,
       "sports": [
@@ -86753,8 +86753,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bay View Avenue",
+      "city": "Town of Cornwall",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -87292,7 +87292,7 @@
     },
     {
       "id": "osm-w1479360969",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Saranac River Trail",
       "lat": 44.693114,
       "lng": -73.462736,
       "sports": [
@@ -87304,8 +87304,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Saranac River Trail",
+      "city": "City of Plattsburgh",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -87507,7 +87507,7 @@
     },
     {
       "id": "osm-w1479966420",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Burdett Avenue",
       "lat": 42.728738,
       "lng": -73.670649,
       "sports": [
@@ -87519,15 +87519,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Burdett Avenue",
+      "city": "City of Troy",
       "state": "NY",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1479966596",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bouton Road",
       "lat": 42.726641,
       "lng": -73.674731,
       "sports": [
@@ -87539,8 +87539,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bouton Road",
+      "city": "City of Troy",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -88564,7 +88564,7 @@
     },
     {
       "id": "osm-w1487545105",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Shelter Rock Road",
       "lat": 40.775193,
       "lng": -73.671993,
       "sports": [
@@ -88576,8 +88576,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Shelter Rock Road",
+      "city": "Village of North Hills",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -88838,7 +88838,7 @@
     },
     {
       "id": "osm-w1490234245",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Quaker Road",
       "lat": 43.334224,
       "lng": -78.557928,
       "sports": [
@@ -88850,8 +88850,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Quaker Road",
+      "city": "Village of Barker",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -89136,7 +89136,7 @@
     },
     {
       "id": "osm-w1492442672",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Whippoorwill Road",
       "lat": 41.145645,
       "lng": -73.73749,
       "sports": [
@@ -89148,8 +89148,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Whippoorwill Road",
+      "city": "Armonk",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -89280,7 +89280,7 @@
     },
     {
       "id": "osm-w1493141304",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cradit Farm Drive",
       "lat": 42.454139,
       "lng": -76.474046,
       "sports": [
@@ -89292,15 +89292,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cradit Farm Drive",
+      "city": "Town of Ithaca",
       "state": "NY",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1493153476",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Redbrook Road",
       "lat": 40.816135,
       "lng": -73.74849,
       "sports": [
@@ -89312,8 +89312,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Redbrook Road",
+      "city": "Village of Kings Point",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -89719,7 +89719,7 @@
     },
     {
       "id": "osm-w1494670418",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Community Drive",
       "lat": 40.770503,
       "lng": -73.703999,
       "sports": [
@@ -89731,8 +89731,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Community Drive",
+      "city": "Manhasset",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -90032,7 +90032,7 @@
     },
     {
       "id": "osm-w1495142341",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · The Summit at High Point - North Hills",
       "lat": 40.784921,
       "lng": -73.660275,
       "sports": [
@@ -90045,7 +90045,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Village of North Hills",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -90278,7 +90278,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Monroe County",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -90305,7 +90305,7 @@
     },
     {
       "id": "osm-w1495707895",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lake Surprise Road",
       "lat": 41.463407,
       "lng": -73.947127,
       "sports": [
@@ -90317,8 +90317,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lake Surprise Road",
+      "city": "North Highlands",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -90808,7 +90808,7 @@
     },
     {
       "id": "osm-w1497792038",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Pine Valley Road",
       "lat": 42.853787,
       "lng": -73.346268,
       "sports": [
@@ -90821,8 +90821,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pine Valley Road",
+      "city": "Town of Hoosick",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -91068,7 +91068,7 @@
     },
     {
       "id": "osm-w1498112469",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Corral Lane",
       "lat": 41.41646,
       "lng": -74.32071,
       "sports": [
@@ -91080,15 +91080,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Corral Lane",
+      "city": "Village of Goshen",
       "state": "NY",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1498113407",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Route 25A",
       "lat": 40.940899,
       "lng": -72.867085,
       "sports": [
@@ -91100,8 +91100,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Route 25A",
+      "city": "East Shoreham",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -91238,7 +91238,7 @@
     },
     {
       "id": "osm-w1499119526",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Crescent Beach Road",
       "lat": 40.878828,
       "lng": -73.642779,
       "sports": [
@@ -91250,8 +91250,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Crescent Beach Road",
+      "city": "City of Glen Cove",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -91326,7 +91326,7 @@
     },
     {
       "id": "osm-w1499335461",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Stephen Avenue",
       "lat": 41.481696,
       "lng": -74.362352,
       "sports": [
@@ -91338,8 +91338,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Stephen Avenue",
+      "city": "Scotchtown",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -91450,7 +91450,7 @@
     },
     {
       "id": "osm-w1499665972",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lakeland Place",
       "lat": 40.844607,
       "lng": -73.056009,
       "sports": [
@@ -91462,8 +91462,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lakeland Place",
+      "city": "Farmingville",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -91743,7 +91743,7 @@
     },
     {
       "id": "osm-w1499918691",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lake Surprise Road",
       "lat": 41.4542,
       "lng": -73.958542,
       "sports": [
@@ -91755,8 +91755,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lake Surprise Road",
+      "city": "North Highlands",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -93187,7 +93187,7 @@
     },
     {
       "id": "osm-w1500295130",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Briarcliff Road",
       "lat": 40.960503,
       "lng": -72.908368,
       "sports": [
@@ -93199,8 +93199,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Briarcliff Road",
+      "city": "Rocky Point",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -93591,7 +93591,7 @@
     },
     {
       "id": "osm-w1500341058",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Water's Edge Drive",
       "lat": 40.786171,
       "lng": -73.775522,
       "sports": [
@@ -93604,8 +93604,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Water's Edge Drive",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -94429,7 +94429,7 @@
     },
     {
       "id": "osm-w1501269169",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Horseshoe Road",
       "lat": 40.793584,
       "lng": -73.609356,
       "sports": [
@@ -94441,8 +94441,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Horseshoe Road",
+      "city": "Village of Old Westbury",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -94451,7 +94451,7 @@
     },
     {
       "id": "osm-w1501269178",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lewis Path",
       "lat": 40.793141,
       "lng": -73.605972,
       "sports": [
@@ -94463,8 +94463,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lewis Path",
+      "city": "Village of Old Westbury",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -94539,7 +94539,7 @@
     },
     {
       "id": "osm-w1501436586",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Bacon Road",
       "lat": 40.777733,
       "lng": -73.621177,
       "sports": [
@@ -94551,8 +94551,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bacon Road",
+      "city": "Village of Old Westbury",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -94623,7 +94623,7 @@
     },
     {
       "id": "osm-w1501631068",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Jay Court",
       "lat": 41.266651,
       "lng": -73.611394,
       "sports": [
@@ -94635,8 +94635,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Jay Court",
+      "city": "Town of Lewisboro",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -94981,7 +94981,7 @@
     },
     {
       "id": "osm-w1504257484",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Jones Beach Boardwalk",
       "lat": 40.594438,
       "lng": -73.511502,
       "sports": [
@@ -94993,8 +94993,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Jones Beach Boardwalk",
+      "city": "Nassau County",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -95767,7 +95767,7 @@
     },
     {
       "id": "osm-w1505709881",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Canal Heights",
       "lat": 43.851063,
       "lng": -73.417312,
       "sports": [
@@ -95780,8 +95780,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Canal Heights",
+      "city": "Town of Ticonderoga",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -96029,7 +96029,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Footes",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -96200,7 +96200,7 @@
     },
     {
       "id": "osm-w1506125183",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Girdle Road",
       "lat": 42.782125,
       "lng": -78.606048,
       "sports": [
@@ -96213,8 +96213,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Girdle Road",
+      "city": "Billington Heights",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -96322,7 +96322,7 @@
     },
     {
       "id": "osm-w1506163972",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Church Street",
       "lat": 42.527026,
       "lng": -78.468666,
       "sports": [
@@ -96334,15 +96334,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Church Street",
+      "city": "Town of Yorkshire",
       "state": "NY",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1506164330",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Branch Street",
       "lat": 42.816381,
       "lng": -77.66875,
       "sports": [
@@ -96354,8 +96354,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Branch Street",
+      "city": "Village of Livonia",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -96482,7 +96482,7 @@
     },
     {
       "id": "osm-w1506209222",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Avenue",
       "lat": 42.96781,
       "lng": -77.233946,
       "sports": [
@@ -96495,8 +96495,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Avenue",
+      "city": "Village of Manchester",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -96564,7 +96564,7 @@
     },
     {
       "id": "osm-w1506244089",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · State Route 80",
       "lat": 42.710739,
       "lng": -74.924767,
       "sports": [
@@ -96576,8 +96576,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "State Route 80",
+      "city": "Village of Cooperstown",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -96606,7 +96606,7 @@
     },
     {
       "id": "osm-w1506254035",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · France Street",
       "lat": 42.787132,
       "lng": -74.62497,
       "sports": [
@@ -96618,8 +96618,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "France Street",
+      "city": "Village of Sharon Springs",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -97242,7 +97242,7 @@
     },
     {
       "id": "osm-w1506370666",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Alton Street",
       "lat": 42.81022,
       "lng": -73.893954,
       "sports": [
@@ -97254,15 +97254,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Alton Street",
+      "city": "Town of Niskayuna",
       "state": "NY",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1506370773",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · River Road",
       "lat": 42.814434,
       "lng": -73.86444,
       "sports": [
@@ -97274,8 +97274,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "River Road",
+      "city": "Town of Niskayuna",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -97447,7 +97447,7 @@
     },
     {
       "id": "osm-w1506371696",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Covington Drive",
       "lat": 42.880155,
       "lng": -73.720857,
       "sports": [
@@ -97460,8 +97460,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Covington Drive",
+      "city": "Town of Halfmoon",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -97810,7 +97810,7 @@
     },
     {
       "id": "osm-w1507932269",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Timberlake Road",
       "lat": 43.675095,
       "lng": -74.35502,
       "sports": [
@@ -97823,8 +97823,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Timberlake Road",
+      "city": "Town of Indian Lake",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -98661,7 +98661,7 @@
     },
     {
       "id": "osm-w1508654055",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Barnes Drive",
       "lat": 43.448833,
       "lng": -76.534787,
       "sports": [
@@ -98673,8 +98673,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Barnes Drive",
+      "city": "City of Oswego",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -99043,7 +99043,7 @@
     },
     {
       "id": "osm-w1508864802",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Kingsgate Circle",
       "lat": 41.116018,
       "lng": -74.023139,
       "sports": [
@@ -99056,8 +99056,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kingsgate Circle",
+      "city": "Nanuet",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -99318,7 +99318,7 @@
     },
     {
       "id": "osm-w1508906231",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Greenmeadow Lane",
       "lat": 40.831948,
       "lng": -73.443522,
       "sports": [
@@ -99330,8 +99330,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Greenmeadow Lane",
+      "city": "West Hills",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -101366,7 +101366,7 @@
     },
     {
       "id": "osm-w1511064667",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Stewart Park Road",
       "lat": 42.460833,
       "lng": -76.506031,
       "sports": [
@@ -101378,8 +101378,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Stewart Park Road",
+      "city": "City of Ithaca",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -101471,7 +101471,7 @@
     },
     {
       "id": "osm-w1511783091",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Red Cardinal Court",
       "lat": 41.679648,
       "lng": -73.905367,
       "sports": [
@@ -101483,8 +101483,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Red Cardinal Court",
+      "city": "City of Poughkeepsie",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -102986,7 +102986,7 @@
     },
     {
       "id": "osm-w1514034067",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Kenny Road",
       "lat": 40.511149,
       "lng": -74.219734,
       "sports": [
@@ -102998,8 +102998,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kenny Road",
+      "city": "New York",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -103074,7 +103074,7 @@
     },
     {
       "id": "osm-w1514044557",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Scotchtown Avenue",
       "lat": 41.410049,
       "lng": -74.322582,
       "sports": [
@@ -103086,8 +103086,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Scotchtown Avenue",
+      "city": "Village of Goshen",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -106285,7 +106285,7 @@
     },
     {
       "id": "osm-w1526542892",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Crittenden Way",
       "lat": 43.103443,
       "lng": -77.632254,
       "sports": [
@@ -106297,8 +106297,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Crittenden Way",
+      "city": "Town of Brighton",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -108505,7 +108505,7 @@
     },
     {
       "id": "osm-w1553333456",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Carrollwood Drive",
       "lat": 41.065236,
       "lng": -73.848527,
       "sports": [
@@ -108517,8 +108517,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Carrollwood Drive",
+      "city": "Village of Tarrytown",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -108527,7 +108527,7 @@
     },
     {
       "id": "osm-w1553428948",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Murphy Drive",
       "lat": 42.261631,
       "lng": -73.817886,
       "sports": [
@@ -108539,8 +108539,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Murphy Drive",
+      "city": "Village of Athens",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -108549,7 +108549,7 @@
     },
     {
       "id": "osm-w1553432364",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Roxbury Run Village",
       "lat": 42.24185,
       "lng": -74.576322,
       "sports": [
@@ -108561,15 +108561,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Roxbury Run Village",
+      "city": "Town of Roxbury",
       "state": "NY",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1553433735",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · McDonald Point Road",
       "lat": 42.849645,
       "lng": -76.693906,
       "sports": [
@@ -108581,8 +108581,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "McDonald Point Road",
+      "city": "Village of Union Springs",
       "state": "NY",
       "source": "osm",
       "tags": {}
@@ -108602,7 +108602,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Montvale",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -108631,7 +108631,7 @@
     },
     {
       "id": "osm-w1553763872",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Stone Crop Road",
       "lat": 42.524868,
       "lng": -74.144711,
       "sports": [
@@ -108643,8 +108643,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Stone Crop Road",
+      "city": "Town of Rensselaerville",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -108653,7 +108653,7 @@
     },
     {
       "id": "osm-w1553767005",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Harness Road",
       "lat": 40.87645,
       "lng": -73.175887,
       "sports": [
@@ -108665,8 +108665,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Harness Road",
+      "city": "Town of Smithtown",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -108675,7 +108675,7 @@
     },
     {
       "id": "osm-w1553767007",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Halley Court",
       "lat": 40.857902,
       "lng": -73.137145,
       "sports": [
@@ -108687,8 +108687,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Halley Court",
+      "city": "Town of Smithtown",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -108719,7 +108719,7 @@
     },
     {
       "id": "osm-w1553767872",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lacrosse Circle",
       "lat": 42.860036,
       "lng": -77.292968,
       "sports": [
@@ -108731,8 +108731,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lacrosse Circle",
+      "city": "Town of Canandaigua",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -108741,7 +108741,7 @@
     },
     {
       "id": "osm-w1553767881",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Main Street",
       "lat": 43.563407,
       "lng": -75.432988,
       "sports": [
@@ -108753,8 +108753,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Main Street",
+      "city": "Lewis County",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -108796,14 +108796,14 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Town of Roxbury",
       "state": "NY",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1553773394",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Kelvin Lane",
       "lat": 44.705218,
       "lng": -73.4687,
       "sports": [
@@ -108815,8 +108815,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kelvin Lane",
+      "city": "City of Plattsburgh",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -108838,7 +108838,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "West Islip",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -108869,7 +108869,7 @@
     },
     {
       "id": "osm-w1553930749",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Railroad Avenue",
       "lat": 40.802071,
       "lng": -72.790614,
       "sports": [
@@ -108881,8 +108881,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Railroad Avenue",
+      "city": "Center Moriches",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -108891,7 +108891,7 @@
     },
     {
       "id": "osm-w1553931148",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Quarter Court",
       "lat": 40.817686,
       "lng": -72.676096,
       "sports": [
@@ -108903,8 +108903,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Quarter Court",
+      "city": "Town of Southampton",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -108955,7 +108955,7 @@
     },
     {
       "id": "osm-w1557251749",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Washington Heights",
       "lat": 42.67959,
       "lng": -74.49228,
       "sports": [
@@ -108967,8 +108967,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Washington Heights",
+      "city": "Village of Cobleskill",
       "state": "NY",
       "source": "osm",
       "tags": {
@@ -108999,7 +108999,7 @@
     },
     {
       "id": "osm-w1559122821",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Noxon Road",
       "lat": 41.651429,
       "lng": -73.735699,
       "sports": [
@@ -109011,8 +109011,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Noxon Road",
+      "city": "Dutchess County",
       "state": "NY",
       "source": "osm",
       "tags": {

@@ -191,7 +191,7 @@
     },
     {
       "id": "osm-w58872180",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Harry Street",
       "lat": 37.663529,
       "lng": -97.234332,
       "sports": [
@@ -203,8 +203,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Harry Street",
+      "city": "Wichita",
       "state": "KS",
       "source": "osm",
       "tags": {
@@ -439,7 +439,7 @@
     },
     {
       "id": "osm-w91817290",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Polo Street",
       "lat": 37.704059,
       "lng": -97.246745,
       "sports": [
@@ -451,8 +451,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Polo Street",
+      "city": "Wichita",
       "state": "KS",
       "source": "osm",
       "tags": {
@@ -712,7 +712,7 @@
     },
     {
       "id": "osm-w120076384",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Southwest Fountaindale Road",
       "lat": 39.005453,
       "lng": -95.783448,
       "sports": [
@@ -724,8 +724,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Southwest Fountaindale Road",
+      "city": "Shawnee County",
       "state": "KS",
       "source": "osm",
       "tags": {}
@@ -1466,7 +1466,7 @@
     },
     {
       "id": "osm-w172577459",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East 23rd Street",
       "lat": 38.942269,
       "lng": -95.231257,
       "sports": [
@@ -1478,8 +1478,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 23rd Street",
+      "city": "Lawrence",
       "state": "KS",
       "source": "osm",
       "tags": {
@@ -1488,7 +1488,7 @@
     },
     {
       "id": "osm-w177353562",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Olympic Drive",
       "lat": 39.200336,
       "lng": -96.586406,
       "sports": [
@@ -1500,8 +1500,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Olympic Drive",
+      "city": "Manhattan",
       "state": "KS",
       "source": "osm",
       "tags": {}
@@ -1596,7 +1596,7 @@
     },
     {
       "id": "osm-w194711377",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Shawnee North Nature Trail",
       "lat": 39.126649,
       "lng": -95.65606,
       "sports": [
@@ -1609,8 +1609,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Shawnee North Nature Trail",
+      "city": "Shawnee County",
       "state": "KS",
       "source": "osm",
       "tags": {}
@@ -2125,7 +2125,7 @@
     },
     {
       "id": "osm-w225551483",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Southeast Aquarius Drive",
       "lat": 39.018864,
       "lng": -95.623879,
       "sports": [
@@ -2524,7 +2524,7 @@
     },
     {
       "id": "osm-w313928476",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Yale Road",
       "lat": 38.966061,
       "lng": -95.269504,
       "sports": [
@@ -2536,8 +2536,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Yale Road",
+      "city": "Lawrence",
       "state": "KS",
       "source": "osm",
       "tags": {
@@ -2606,7 +2606,7 @@
     },
     {
       "id": "osm-w315837548",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Overbrook Road",
       "lat": 38.922611,
       "lng": -94.610258,
       "sports": [
@@ -2619,15 +2619,15 @@
       "indoor": true,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Overbrook Road",
+      "city": "Leawood",
       "state": "KS",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w316101754",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Dearborn Street",
       "lat": 38.869929,
       "lng": -94.658902,
       "sports": [
@@ -2639,8 +2639,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Dearborn Street",
+      "city": "Overland Park",
       "state": "KS",
       "source": "osm",
       "tags": {
@@ -2753,7 +2753,7 @@
     },
     {
       "id": "osm-w329366954",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Walnut Street",
       "lat": 39.477117,
       "lng": -98.104524,
       "sports": [
@@ -2765,15 +2765,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Walnut Street",
+      "city": "Beloit",
       "state": "KS",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w341668420",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Via Roma Street",
       "lat": 37.700953,
       "lng": -97.188259,
       "sports": [
@@ -2785,15 +2785,15 @@
       "indoor": true,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Via Roma Street",
+      "city": "Sedgwick County",
       "state": "KS",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w341668423",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Terradyne Drive",
       "lat": 37.699706,
       "lng": -97.148891,
       "sports": [
@@ -2805,8 +2805,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Terradyne Drive",
+      "city": "Andover",
       "state": "KS",
       "source": "osm",
       "tags": {}
@@ -2876,7 +2876,7 @@
     },
     {
       "id": "osm-w371541460",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Locust Street",
       "lat": 38.622057,
       "lng": -95.274443,
       "sports": [
@@ -2888,8 +2888,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Locust Street",
+      "city": "Ottawa",
       "state": "KS",
       "source": "osm",
       "tags": {}
@@ -3134,7 +3134,7 @@
     },
     {
       "id": "osm-w445076694",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Prairie Park Trail",
       "lat": 38.932604,
       "lng": -95.212118,
       "sports": [
@@ -3146,8 +3146,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Prairie Park Trail",
+      "city": "Lawrence",
       "state": "KS",
       "source": "osm",
       "tags": {
@@ -3343,7 +3343,7 @@
     },
     {
       "id": "osm-w465686600",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Rock Road",
       "lat": 37.652963,
       "lng": -97.243042,
       "sports": [
@@ -3355,8 +3355,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Rock Road",
+      "city": "Wichita",
       "state": "KS",
       "source": "osm",
       "tags": {
@@ -3632,7 +3632,7 @@
     },
     {
       "id": "osm-w470342488",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Storch Avenue",
       "lat": 39.544761,
       "lng": -95.126404,
       "sports": [
@@ -3644,8 +3644,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Storch Avenue",
+      "city": "Atchison",
       "state": "KS",
       "source": "osm",
       "tags": {}
@@ -5205,7 +5205,7 @@
     },
     {
       "id": "osm-w585824190",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East D Street",
       "lat": 38.34718,
       "lng": -97.199887,
       "sports": [
@@ -5217,8 +5217,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East D Street",
+      "city": "Hillsboro",
       "state": "KS",
       "source": "osm",
       "tags": {}
@@ -5322,7 +5322,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Sterling",
       "state": "KS",
       "source": "osm",
       "tags": {}
@@ -5688,7 +5688,7 @@
     },
     {
       "id": "osm-w623275414",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West 116th Place",
       "lat": 38.917895,
       "lng": -94.700155,
       "sports": [
@@ -5700,8 +5700,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 116th Place",
+      "city": "Overland Park",
       "state": "KS",
       "source": "osm",
       "tags": {}
@@ -6138,7 +6138,7 @@
     },
     {
       "id": "osm-w641060629",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Sunnyside Avenue",
       "lat": 38.954907,
       "lng": -95.248308,
       "sports": [
@@ -6150,8 +6150,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sunnyside Avenue",
+      "city": "Lawrence",
       "state": "KS",
       "source": "osm",
       "tags": {}
@@ -6756,7 +6756,7 @@
     },
     {
       "id": "osm-w665709930",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Triple Creek Drive",
       "lat": 37.574163,
       "lng": -97.25653,
       "sports": [
@@ -6768,8 +6768,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Triple Creek Drive",
+      "city": "Derby",
       "state": "KS",
       "source": "osm",
       "tags": {
@@ -6972,7 +6972,7 @@
     },
     {
       "id": "osm-w667914456",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East 29th Street North",
       "lat": 37.737502,
       "lng": -97.235368,
       "sports": [
@@ -6984,8 +6984,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 29th Street North",
+      "city": "Wichita",
       "state": "KS",
       "source": "osm",
       "tags": {
@@ -7256,7 +7256,7 @@
     },
     {
       "id": "osm-w671484188",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Flint Hills Trail",
       "lat": 38.658625,
       "lng": -96.487223,
       "sports": [
@@ -7268,8 +7268,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Flint Hills Trail",
+      "city": "Council Grove",
       "state": "KS",
       "source": "osm",
       "tags": {}
@@ -7338,7 +7338,7 @@
     },
     {
       "id": "osm-w676967577",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · El Standra Circle",
       "lat": 37.682396,
       "lng": -97.42412,
       "sports": [
@@ -7350,8 +7350,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "El Standra Circle",
+      "city": "Wichita",
       "state": "KS",
       "source": "osm",
       "tags": {
@@ -7850,7 +7850,7 @@
     },
     {
       "id": "osm-w702513866",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Olive Street",
       "lat": 38.617229,
       "lng": -94.677421,
       "sports": [
@@ -7862,8 +7862,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Olive Street",
+      "city": "Louisburg",
       "state": "KS",
       "source": "osm",
       "tags": {
@@ -8082,7 +8082,7 @@
     },
     {
       "id": "osm-w807164723",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hedge Lane Terrace",
       "lat": 39.011821,
       "lng": -94.855552,
       "sports": [
@@ -8094,8 +8094,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hedge Lane Terrace",
+      "city": "Shawnee",
       "state": "KS",
       "source": "osm",
       "tags": {
@@ -8104,7 +8104,7 @@
     },
     {
       "id": "osm-w807457179",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hedge Lane Terrace",
       "lat": 39.010596,
       "lng": -94.857003,
       "sports": [
@@ -8116,8 +8116,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hedge Lane Terrace",
+      "city": "Shawnee",
       "state": "KS",
       "source": "osm",
       "tags": {
@@ -8567,7 +8567,7 @@
     },
     {
       "id": "osm-w889159155",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West 131st Street",
       "lat": 38.889579,
       "lng": -94.702479,
       "sports": [
@@ -8579,15 +8579,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 131st Street",
+      "city": "Overland Park",
       "state": "KS",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w892775973",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East 11th Street",
       "lat": 38.600698,
       "lng": -95.260241,
       "sports": [
@@ -8599,8 +8599,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 11th Street",
+      "city": "Ottawa",
       "state": "KS",
       "source": "osm",
       "tags": {}
@@ -8689,7 +8689,7 @@
     },
     {
       "id": "osm-w909479430",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · County Road 4300",
       "lat": 37.056782,
       "lng": -95.679249,
       "sports": [
@@ -8702,8 +8702,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "County Road 4300",
+      "city": "Montgomery County",
       "state": "KS",
       "source": "osm",
       "tags": {}
@@ -8940,7 +8940,7 @@
     },
     {
       "id": "osm-w991050653",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Sheridan Street",
       "lat": 38.86947,
       "lng": -94.787313,
       "sports": [
@@ -8952,8 +8952,8 @@
       "indoor": null,
       "access": "customers",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Sheridan Street",
+      "city": "Olathe",
       "state": "KS",
       "source": "osm",
       "tags": {
@@ -8962,7 +8962,7 @@
     },
     {
       "id": "osm-w995984755",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West 55th Street South",
       "lat": 37.595359,
       "lng": -97.364757,
       "sports": [
@@ -8974,8 +8974,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 55th Street South",
+      "city": "Wichita",
       "state": "KS",
       "source": "osm",
       "tags": {}
@@ -9066,7 +9066,7 @@
     },
     {
       "id": "osm-w1047186352",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West 173rd Street",
       "lat": 38.816378,
       "lng": -94.737479,
       "sports": [
@@ -9078,8 +9078,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 173rd Street",
+      "city": "Overland Park",
       "state": "KS",
       "source": "osm",
       "tags": {
@@ -9110,7 +9110,7 @@
     },
     {
       "id": "osm-w1062257219",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West 133rd Street",
       "lat": 38.886966,
       "lng": -94.657129,
       "sports": [
@@ -9122,8 +9122,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 133rd Street",
+      "city": "Overland Park",
       "state": "KS",
       "source": "osm",
       "tags": {
@@ -9428,7 +9428,7 @@
     },
     {
       "id": "osm-w1129731817",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Rock Chalk Drive",
       "lat": 38.979588,
       "lng": -95.324468,
       "sports": [
@@ -9440,8 +9440,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rock Chalk Drive",
+      "city": "Lawrence",
       "state": "KS",
       "source": "osm",
       "tags": {
@@ -9553,7 +9553,7 @@
     },
     {
       "id": "osm-w1145479514",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Country Club Terrace",
       "lat": 38.976285,
       "lng": -95.263259,
       "sports": [
@@ -9565,8 +9565,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Country Club Terrace",
+      "city": "Lawrence",
       "state": "KS",
       "source": "osm",
       "tags": {}
@@ -9989,7 +9989,7 @@
     },
     {
       "id": "osm-w1188360864",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West 172nd Terrace",
       "lat": 38.815524,
       "lng": -94.764224,
       "sports": [
@@ -10001,8 +10001,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 172nd Terrace",
+      "city": "Olathe",
       "state": "KS",
       "source": "osm",
       "tags": {
@@ -10330,7 +10330,7 @@
     },
     {
       "id": "osm-w1224894581",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West 167th Street",
       "lat": 38.825671,
       "lng": -94.712869,
       "sports": [
@@ -10342,8 +10342,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 167th Street",
+      "city": "Overland Park",
       "state": "KS",
       "source": "osm",
       "tags": {
@@ -10438,7 +10438,7 @@
     },
     {
       "id": "osm-w1247961977",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South 12th Street",
       "lat": 38.188064,
       "lng": -95.751259,
       "sports": [
@@ -10451,8 +10451,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South 12th Street",
+      "city": "Burlington",
       "state": "KS",
       "source": "osm",
       "tags": {}
@@ -10845,7 +10845,7 @@
     },
     {
       "id": "osm-w1311138120",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East Country Road",
       "lat": 37.164343,
       "lng": -94.833079,
       "sports": [
@@ -10857,8 +10857,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Country Road",
+      "city": "Columbus",
       "state": "KS",
       "source": "osm",
       "tags": {
@@ -10909,7 +10909,7 @@
     },
     {
       "id": "osm-w1314563006",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Haverty Circle Drive",
       "lat": 39.575593,
       "lng": -95.113069,
       "sports": [
@@ -10921,15 +10921,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Haverty Circle Drive",
+      "city": "Atchison",
       "state": "KS",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1314978048",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · T Street",
       "lat": 39.552508,
       "lng": -95.117316,
       "sports": [
@@ -10941,8 +10941,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "T Street",
+      "city": "Atchison",
       "state": "KS",
       "source": "osm",
       "tags": {
@@ -10973,7 +10973,7 @@
     },
     {
       "id": "osm-w1318193224",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · South Bridgewater Street",
       "lat": 37.66827,
       "lng": -97.454751,
       "sports": [
@@ -10985,8 +10985,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Bridgewater Street",
+      "city": "Wichita",
       "state": "KS",
       "source": "osm",
       "tags": {
@@ -11015,7 +11015,7 @@
     },
     {
       "id": "osm-w1323409622",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wedd Street",
       "lat": 38.911437,
       "lng": -94.701153,
       "sports": [
@@ -11027,8 +11027,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wedd Street",
+      "city": "Overland Park",
       "state": "KS",
       "source": "osm",
       "tags": {}
@@ -11099,7 +11099,7 @@
     },
     {
       "id": "osm-w1328425374",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Dearborn Street",
       "lat": 38.86292,
       "lng": -94.655548,
       "sports": [
@@ -11112,15 +11112,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Dearborn Street",
+      "city": "Overland Park",
       "state": "KS",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1329889454",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Plum Street",
       "lat": 38.046764,
       "lng": -97.92276,
       "sports": [
@@ -11132,8 +11132,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Plum Street",
+      "city": "Hutchinson",
       "state": "KS",
       "source": "osm",
       "tags": {
@@ -11446,7 +11446,7 @@
     },
     {
       "id": "osm-w1382787882",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Cambridge Street",
       "lat": 37.57278,
       "lng": -97.242746,
       "sports": [
@@ -11458,15 +11458,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cambridge Street",
+      "city": "Derby",
       "state": "KS",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1382892573",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West 135th Street",
       "lat": 38.88282,
       "lng": -94.654569,
       "sports": [
@@ -11478,8 +11478,8 @@
       "indoor": null,
       "access": "customers",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 135th Street",
+      "city": "Overland Park",
       "state": "KS",
       "source": "osm",
       "tags": {
@@ -11530,7 +11530,7 @@
     },
     {
       "id": "osm-w1385398992",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West 10th Street",
       "lat": 38.965273,
       "lng": -95.241146,
       "sports": [
@@ -11542,8 +11542,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 10th Street",
+      "city": "Lawrence",
       "state": "KS",
       "source": "osm",
       "tags": {
@@ -11779,7 +11779,7 @@
     },
     {
       "id": "osm-w1434395674",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Church Street",
       "lat": 38.931694,
       "lng": -95.096299,
       "sports": [
@@ -11791,8 +11791,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Church Street",
+      "city": "Eudora",
       "state": "KS",
       "source": "osm",
       "tags": {
@@ -11949,7 +11949,7 @@
     },
     {
       "id": "osm-w1447533673",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Lakewood Circle",
       "lat": 38.080605,
       "lng": -97.354835,
       "sports": [
@@ -11961,8 +11961,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lakewood Circle",
+      "city": "North Newton",
       "state": "KS",
       "source": "osm",
       "tags": {
@@ -12267,7 +12267,7 @@
     },
     {
       "id": "osm-w1469947629",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Country Club Drive",
       "lat": 37.768752,
       "lng": -100.012055,
       "sports": [
@@ -12279,8 +12279,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Country Club Drive",
+      "city": "Dodge City",
       "state": "KS",
       "source": "osm",
       "tags": {}
@@ -13029,7 +13029,7 @@
     },
     {
       "id": "osm-w1471490759",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Dunkin Street",
       "lat": 37.642554,
       "lng": -97.285955,
       "sports": [
@@ -13041,8 +13041,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Dunkin Street",
+      "city": "Wichita",
       "state": "KS",
       "source": "osm",
       "tags": {
@@ -13073,7 +13073,7 @@
     },
     {
       "id": "osm-w1471492492",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East Franklin Avenue",
       "lat": 37.478811,
       "lng": -97.242787,
       "sports": [
@@ -13085,8 +13085,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Franklin Avenue",
+      "city": "Mulvane",
       "state": "KS",
       "source": "osm",
       "tags": {}
@@ -13115,7 +13115,7 @@
     },
     {
       "id": "osm-w1471492689",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Tarabury Lane",
       "lat": 37.684122,
       "lng": -97.423174,
       "sports": [
@@ -13128,8 +13128,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Tarabury Lane",
+      "city": "Wichita",
       "state": "KS",
       "source": "osm",
       "tags": {}
@@ -13581,7 +13581,7 @@
     },
     {
       "id": "osm-w1476015337",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Lake Road",
       "lat": 37.643686,
       "lng": -94.81174,
       "sports": [
@@ -13593,8 +13593,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lake Road",
+      "city": "Crawford County",
       "state": "KS",
       "source": "osm",
       "tags": {
@@ -13709,7 +13709,7 @@
     },
     {
       "id": "osm-w1490361977",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West 115th Terrace",
       "lat": 38.918859,
       "lng": -94.818629,
       "sports": [
@@ -13721,8 +13721,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 115th Terrace",
+      "city": "Olathe",
       "state": "KS",
       "source": "osm",
       "tags": {

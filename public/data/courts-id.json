@@ -313,7 +313,7 @@
     },
     {
       "id": "osm-w248602027",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Grant Street",
       "lat": 43.663077,
       "lng": -116.696085,
       "sports": [
@@ -325,8 +325,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Grant Street",
+      "city": "Caldwell",
       "state": "ID",
       "source": "osm",
       "tags": {}
@@ -368,7 +368,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "McCall",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -485,7 +485,7 @@
     },
     {
       "id": "osm-w314326418",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Poleline Avenue",
       "lat": 47.730882,
       "lng": -116.947191,
       "sports": [
@@ -497,15 +497,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Poleline Avenue",
+      "city": "Post Falls",
       "state": "ID",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w319418518",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Owen Drive",
       "lat": 44.913249,
       "lng": -116.12169,
       "sports": [
@@ -517,8 +517,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Owen Drive",
+      "city": "McCall",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -1224,7 +1224,7 @@
     },
     {
       "id": "osm-w587565689",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · McCaleb Drive",
       "lat": 42.905143,
       "lng": -112.400087,
       "sports": [
@@ -1236,8 +1236,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "McCaleb Drive",
+      "city": "Pocatello",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -1438,7 +1438,7 @@
     },
     {
       "id": "osm-w668193165",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Sandstone Lane",
       "lat": 43.636288,
       "lng": -116.197454,
       "sports": [
@@ -1450,8 +1450,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Sandstone Lane",
+      "city": "Boise",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -1504,7 +1504,7 @@
     },
     {
       "id": "osm-w683285175",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Cliffview Way",
       "lat": 43.636602,
       "lng": -116.188415,
       "sports": [
@@ -1516,8 +1516,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Cliffview Way",
+      "city": "Boise",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -1526,7 +1526,7 @@
     },
     {
       "id": "osm-w683285202",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Ridgecliff Lane",
       "lat": 43.629252,
       "lng": -116.185437,
       "sports": [
@@ -1538,8 +1538,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Ridgecliff Lane",
+      "city": "Boise",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -1548,7 +1548,7 @@
     },
     {
       "id": "osm-w683285212",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Claremont Drive",
       "lat": 43.627585,
       "lng": -116.177056,
       "sports": [
@@ -1560,8 +1560,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Claremont Drive",
+      "city": "Boise",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -1570,7 +1570,7 @@
     },
     {
       "id": "osm-w683285224",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North Castello Place",
       "lat": 43.604478,
       "lng": -116.15082,
       "sports": [
@@ -1582,8 +1582,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Castello Place",
+      "city": "Boise",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -1732,7 +1732,7 @@
     },
     {
       "id": "osm-w736911377",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Ridgeline Drive",
       "lat": 43.634883,
       "lng": -116.193727,
       "sports": [
@@ -1744,8 +1744,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Ridgeline Drive",
+      "city": "Boise",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -1857,7 +1857,7 @@
     },
     {
       "id": "osm-w738591801",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Old Saybrook Lane",
       "lat": 43.57569,
       "lng": -116.174538,
       "sports": [
@@ -1869,8 +1869,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Old Saybrook Lane",
+      "city": "Boise",
       "state": "ID",
       "source": "osm",
       "tags": {}
@@ -1897,7 +1897,7 @@
     },
     {
       "id": "osm-w749929613",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Sedgebrook Lane",
       "lat": 43.665868,
       "lng": -116.350763,
       "sports": [
@@ -1910,8 +1910,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Sedgebrook Lane",
+      "city": "Eagle",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -1986,7 +1986,7 @@
     },
     {
       "id": "osm-w815700481",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Savannah Lane",
       "lat": 43.660062,
       "lng": -116.272386,
       "sports": [
@@ -1999,8 +1999,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Savannah Lane",
+      "city": "Garden City",
       "state": "ID",
       "source": "osm",
       "tags": {}
@@ -2225,7 +2225,7 @@
     },
     {
       "id": "osm-w893478811",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Stonybrook Court",
       "lat": 43.707626,
       "lng": -116.332968,
       "sports": [
@@ -2237,8 +2237,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Stonybrook Court",
+      "city": "Eagle",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -2895,7 +2895,7 @@
     },
     {
       "id": "osm-w1017208386",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Gloxinia Street",
       "lat": 43.688632,
       "lng": -116.476763,
       "sports": [
@@ -2907,8 +2907,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Gloxinia Street",
+      "city": "Star",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -2939,7 +2939,7 @@
     },
     {
       "id": "osm-w1017215817",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Nordic Drive",
       "lat": 43.703288,
       "lng": -116.428555,
       "sports": [
@@ -2951,8 +2951,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Nordic Drive",
+      "city": "Eagle",
       "state": "ID",
       "source": "osm",
       "tags": {}
@@ -2979,7 +2979,7 @@
     },
     {
       "id": "osm-w1023797922",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Green Court",
       "lat": 47.862756,
       "lng": -116.855776,
       "sports": [
@@ -2991,8 +2991,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Green Court",
+      "city": "Kootenai County",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -3532,7 +3532,7 @@
     },
     {
       "id": "osm-w1173529682",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Reserve Dr",
       "lat": 42.05717,
       "lng": -111.396847,
       "sports": [
@@ -3545,8 +3545,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Reserve Dr",
+      "city": "Bear Lake County",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -3662,7 +3662,7 @@
     },
     {
       "id": "osm-w1218080430",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Cadence Avenue",
       "lat": 43.543876,
       "lng": -116.368272,
       "sports": [
@@ -3675,15 +3675,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Cadence Avenue",
+      "city": "Meridian",
       "state": "ID",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1218916573",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North Orchid Way",
       "lat": 43.638238,
       "lng": -116.57217,
       "sports": [
@@ -3695,8 +3695,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Orchid Way",
+      "city": "Nampa",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -3749,7 +3749,7 @@
     },
     {
       "id": "osm-w1233996549",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Horseshoe Bend Road",
       "lat": 43.715831,
       "lng": -116.319891,
       "sports": [
@@ -3761,8 +3761,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Horseshoe Bend Road",
+      "city": "Eagle",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -4077,7 +4077,7 @@
     },
     {
       "id": "osm-w1239182844",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Tiercel Drive",
       "lat": 43.497644,
       "lng": -116.327489,
       "sports": [
@@ -4089,8 +4089,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Tiercel Drive",
+      "city": "Kuna",
       "state": "ID",
       "source": "osm",
       "tags": {}
@@ -4185,7 +4185,7 @@
     },
     {
       "id": "osm-w1240270282",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Winterhawk Drive",
       "lat": 43.573551,
       "lng": -116.316385,
       "sports": [
@@ -4197,8 +4197,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Winterhawk Drive",
+      "city": "Ada County",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -4252,7 +4252,7 @@
     },
     {
       "id": "osm-w1240380447",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Vincent Street",
       "lat": 43.587735,
       "lng": -116.287866,
       "sports": [
@@ -4264,8 +4264,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Vincent Street",
+      "city": "Boise",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -4274,7 +4274,7 @@
     },
     {
       "id": "osm-w1240858491",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West New Hope Road",
       "lat": 43.718297,
       "lng": -116.503903,
       "sports": [
@@ -4286,8 +4286,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West New Hope Road",
+      "city": "Star",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -4296,7 +4296,7 @@
     },
     {
       "id": "osm-w1240858501",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North High Country Way",
       "lat": 43.74193,
       "lng": -116.484256,
       "sports": [
@@ -4308,8 +4308,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North High Country Way",
+      "city": "Ada County",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -4318,7 +4318,7 @@
     },
     {
       "id": "osm-w1240876780",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Shaw Mountain Road",
       "lat": 43.616776,
       "lng": -116.166511,
       "sports": [
@@ -4330,8 +4330,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Shaw Mountain Road",
+      "city": "Boise",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -4716,7 +4716,7 @@
     },
     {
       "id": "osm-w1242081466",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Flat Rock Street",
       "lat": 43.66794,
       "lng": -116.460966,
       "sports": [
@@ -4728,8 +4728,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Flat Rock Street",
+      "city": "Meridian",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -4760,7 +4760,7 @@
     },
     {
       "id": "osm-w1242649396",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Mirror Pond Drive",
       "lat": 43.735115,
       "lng": -116.296016,
       "sports": [
@@ -4772,8 +4772,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Mirror Pond Drive",
+      "city": "Ada County",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -4782,7 +4782,7 @@
     },
     {
       "id": "osm-w1242649397",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Suttle Lake Drive",
       "lat": 43.732981,
       "lng": -116.295748,
       "sports": [
@@ -4794,8 +4794,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Suttle Lake Drive",
+      "city": "Ada County",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -4804,7 +4804,7 @@
     },
     {
       "id": "osm-w1242649402",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Mirror Pond Drive",
       "lat": 43.733891,
       "lng": -116.291925,
       "sports": [
@@ -4816,8 +4816,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Mirror Pond Drive",
+      "city": "Ada County",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -4826,7 +4826,7 @@
     },
     {
       "id": "osm-w1242649410",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Hidden Pine Lane",
       "lat": 43.684263,
       "lng": -116.510021,
       "sports": [
@@ -4838,8 +4838,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Hidden Pine Lane",
+      "city": "Ada County",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -4870,7 +4870,7 @@
     },
     {
       "id": "osm-w1244823491",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · South Farmhouse Place",
       "lat": 43.557439,
       "lng": -116.120196,
       "sports": [
@@ -4882,8 +4882,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Farmhouse Place",
+      "city": "Boise",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -5575,7 +5575,7 @@
     },
     {
       "id": "osm-w1246968423",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Gillis Road",
       "lat": 43.678122,
       "lng": -116.280671,
       "sports": [
@@ -5588,8 +5588,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Gillis Road",
+      "city": "Boise",
       "state": "ID",
       "source": "osm",
       "tags": {}
@@ -5640,7 +5640,7 @@
     },
     {
       "id": "osm-w1251495741",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · South Fusion Avenue",
       "lat": 43.485648,
       "lng": -116.384868,
       "sports": [
@@ -5652,15 +5652,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Fusion Avenue",
+      "city": "Kuna",
       "state": "ID",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1251506946",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North Del Sol Way",
       "lat": 43.723614,
       "lng": -116.473683,
       "sports": [
@@ -5672,8 +5672,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Del Sol Way",
+      "city": "Star",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -5724,7 +5724,7 @@
     },
     {
       "id": "osm-w1256661853",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North Distant Star Road",
       "lat": 47.735541,
       "lng": -116.975464,
       "sports": [
@@ -5736,15 +5736,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Distant Star Road",
+      "city": "Post Falls",
       "state": "ID",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1256782532",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · South Cree Way",
       "lat": 43.560158,
       "lng": -116.296509,
       "sports": [
@@ -5756,8 +5756,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Cree Way",
+      "city": "Ada County",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -5874,7 +5874,7 @@
     },
     {
       "id": "osm-w1267291425",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Huppert Lane",
       "lat": 48.300675,
       "lng": -116.554906,
       "sports": [
@@ -5886,8 +5886,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Huppert Lane",
+      "city": "Sandpoint",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -5918,7 +5918,7 @@
     },
     {
       "id": "osm-w1271238368",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North Girard Circle",
       "lat": 47.738201,
       "lng": -116.811439,
       "sports": [
@@ -5930,8 +5930,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Girard Circle",
+      "city": "Coeur d'Alene",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -5984,7 +5984,7 @@
     },
     {
       "id": "osm-w1273530324",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East Danzee Drive",
       "lat": 43.555139,
       "lng": -116.156238,
       "sports": [
@@ -5996,8 +5996,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Danzee Drive",
+      "city": "Boise",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -6175,7 +6175,7 @@
     },
     {
       "id": "osm-w1312934174",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Old Barn Road",
       "lat": 47.613954,
       "lng": -116.752415,
       "sports": [
@@ -6187,8 +6187,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Old Barn Road",
+      "city": "Kootenai County",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -6197,7 +6197,7 @@
     },
     {
       "id": "osm-w1320223555",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Holiday Loop",
       "lat": 48.010479,
       "lng": -116.99948,
       "sports": [
@@ -6209,15 +6209,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Holiday Loop",
+      "city": "Bonner County",
       "state": "ID",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1320223571",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fairway Drive",
       "lat": 48.009223,
       "lng": -117.002451,
       "sports": [
@@ -6229,8 +6229,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fairway Drive",
+      "city": "Bonner County",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -6259,7 +6259,7 @@
     },
     {
       "id": "osm-w1321727151",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Chatwold Road",
       "lat": 48.010262,
       "lng": -116.991705,
       "sports": [
@@ -6271,8 +6271,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Chatwold Road",
+      "city": "Bonner County",
       "state": "ID",
       "source": "osm",
       "tags": {}
@@ -6301,7 +6301,7 @@
     },
     {
       "id": "osm-w1328310925",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Beaver Creek Lane",
       "lat": 48.73905,
       "lng": -116.852924,
       "sports": [
@@ -6313,8 +6313,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Beaver Creek Lane",
+      "city": "Bonner County",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -6469,7 +6469,7 @@
     },
     {
       "id": "osm-w1345286262",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North Bernacchi Lane",
       "lat": 43.660852,
       "lng": -116.441021,
       "sports": [
@@ -6481,8 +6481,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Bernacchi Lane",
+      "city": "Meridian",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -6557,7 +6557,7 @@
     },
     {
       "id": "osm-w1349900565",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Songwood Court",
       "lat": 48.522417,
       "lng": -116.934507,
       "sports": [
@@ -6569,8 +6569,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Songwood Court",
+      "city": "Bonner County",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -6601,7 +6601,7 @@
     },
     {
       "id": "osm-w1352475615",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Circle Road",
       "lat": 47.866278,
       "lng": -116.853282,
       "sports": [
@@ -6613,8 +6613,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Circle Road",
+      "city": "Kootenai County",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -6709,7 +6709,7 @@
     },
     {
       "id": "osm-w1356610934",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North Radiant Star Road",
       "lat": 47.7372,
       "lng": -116.970181,
       "sports": [
@@ -6721,8 +6721,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Radiant Star Road",
+      "city": "Post Falls",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -6813,7 +6813,7 @@
     },
     {
       "id": "osm-w1378573212",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Pine Street",
       "lat": 48.272384,
       "lng": -116.576528,
       "sports": [
@@ -6825,8 +6825,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pine Street",
+      "city": "Sandpoint",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -6835,7 +6835,7 @@
     },
     {
       "id": "osm-w1385711319",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Westwood Court",
       "lat": 48.260189,
       "lng": -116.574727,
       "sports": [
@@ -6847,8 +6847,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Westwood Court",
+      "city": "Sandpoint",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -6879,7 +6879,7 @@
     },
     {
       "id": "osm-w1391759443",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Yosemite Street",
       "lat": 47.793624,
       "lng": -116.900744,
       "sports": [
@@ -6891,8 +6891,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Yosemite Street",
+      "city": "Rathdrum",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -7115,7 +7115,7 @@
     },
     {
       "id": "osm-w1414299251",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Madison Avenue",
       "lat": 43.629842,
       "lng": -114.343336,
       "sports": [
@@ -7127,8 +7127,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Madison Avenue",
+      "city": "Blaine County",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -7285,7 +7285,7 @@
     },
     {
       "id": "osm-w1431881544",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North McLeod Way",
       "lat": 43.793696,
       "lng": -116.261151,
       "sports": [
@@ -7297,8 +7297,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North McLeod Way",
+      "city": "Boise County",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -7476,7 +7476,7 @@
     },
     {
       "id": "osm-w1437034523",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West 3rd South",
       "lat": 43.819432,
       "lng": -111.78716,
       "sports": [
@@ -7488,8 +7488,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 3rd South",
+      "city": "Rexburg",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -7642,7 +7642,7 @@
     },
     {
       "id": "osm-w1437055922",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Pampas Lane",
       "lat": 47.73085,
       "lng": -116.811326,
       "sports": [
@@ -7654,8 +7654,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Pampas Lane",
+      "city": "Coeur d'Alene",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -7794,7 +7794,7 @@
     },
     {
       "id": "osm-w1446537335",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Yetna Street",
       "lat": 43.701368,
       "lng": -116.601176,
       "sports": [
@@ -7806,8 +7806,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Yetna Street",
+      "city": "Middleton",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -7816,7 +7816,7 @@
     },
     {
       "id": "osm-w1448038931",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Strant Drive",
       "lat": 43.714635,
       "lng": -116.406638,
       "sports": [
@@ -7828,8 +7828,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Strant Drive",
+      "city": "Eagle",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -7860,7 +7860,7 @@
     },
     {
       "id": "osm-w1448038936",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North Linder Road",
       "lat": 43.716986,
       "lng": -116.414064,
       "sports": [
@@ -7872,8 +7872,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Linder Road",
+      "city": "Eagle",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -7904,7 +7904,7 @@
     },
     {
       "id": "osm-w1449416715",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · South Florida Avenue",
       "lat": 43.578639,
       "lng": -116.661612,
       "sports": [
@@ -7916,8 +7916,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Florida Avenue",
+      "city": "Canyon County",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -7926,7 +7926,7 @@
     },
     {
       "id": "osm-w1449416726",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Smith Avenue",
       "lat": 43.580926,
       "lng": -116.646461,
       "sports": [
@@ -7938,8 +7938,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Smith Avenue",
+      "city": "Canyon County",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -8161,7 +8161,7 @@
     },
     {
       "id": "osm-w1467078795",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · State Highway 6",
       "lat": 46.925111,
       "lng": -116.905381,
       "sports": [
@@ -8173,8 +8173,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "State Highway 6",
+      "city": "Potlatch",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -8372,7 +8372,7 @@
     },
     {
       "id": "osm-w1468611991",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Agency Street",
       "lat": 46.400996,
       "lng": -116.804196,
       "sports": [
@@ -8385,15 +8385,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Agency Street",
+      "city": "Lapwai / léepwey",
       "state": "ID",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1468612173",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · McLain Street",
       "lat": 44.975572,
       "lng": -116.287741,
       "sports": [
@@ -8405,8 +8405,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "McLain Street",
+      "city": "New Meadows",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -8628,7 +8628,7 @@
     },
     {
       "id": "osm-w1468617694",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Grant Avenue",
       "lat": 42.867701,
       "lng": -112.465087,
       "sports": [
@@ -8640,8 +8640,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Grant Avenue",
+      "city": "Pocatello",
       "state": "ID",
       "source": "osm",
       "tags": {}
@@ -8668,7 +8668,7 @@
     },
     {
       "id": "osm-w1468617784",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wedge Way",
       "lat": 42.810695,
       "lng": -112.395499,
       "sports": [
@@ -8680,8 +8680,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wedge Way",
+      "city": "Pocatello",
       "state": "ID",
       "source": "osm",
       "tags": {}
@@ -9421,7 +9421,7 @@
     },
     {
       "id": "osm-w1498890418",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Mesquite Lane",
       "lat": 43.716429,
       "lng": -114.386342,
       "sports": [
@@ -9433,8 +9433,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mesquite Lane",
+      "city": "Blaine County",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -9705,7 +9705,7 @@
     },
     {
       "id": "osm-w1498890473",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Valley Club Drive",
       "lat": 43.573291,
       "lng": -114.328418,
       "sports": [
@@ -9717,8 +9717,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Valley Club Drive",
+      "city": "Hailey",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -9771,7 +9771,7 @@
     },
     {
       "id": "osm-w1498890476",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Canyon Road",
       "lat": 43.608783,
       "lng": -114.312093,
       "sports": [
@@ -9783,8 +9783,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Canyon Road",
+      "city": "Hailey",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -9859,7 +9859,7 @@
     },
     {
       "id": "osm-w1507121143",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East Amity Road",
       "lat": 43.559529,
       "lng": -116.377995,
       "sports": [
@@ -9871,8 +9871,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Amity Road",
+      "city": "Meridian",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -9881,7 +9881,7 @@
     },
     {
       "id": "osm-w1507121147",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · South Open View Lane",
       "lat": 43.54017,
       "lng": -116.344861,
       "sports": [
@@ -9893,8 +9893,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Open View Lane",
+      "city": "Meridian",
       "state": "ID",
       "source": "osm",
       "tags": {
@@ -10295,14 +10295,14 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "McCall",
       "state": "ID",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1528893058",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Holiday Drive",
       "lat": 44.152839,
       "lng": -115.98495,
       "sports": [
@@ -10314,8 +10314,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Holiday Drive",
+      "city": "Boise County",
       "state": "ID",
       "source": "osm",
       "tags": {}
@@ -10344,7 +10344,7 @@
     },
     {
       "id": "osm-w1528894588",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Curling Drive",
       "lat": 43.649714,
       "lng": -116.193055,
       "sports": [
@@ -10356,8 +10356,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Curling Drive",
+      "city": "Boise",
       "state": "ID",
       "source": "osm",
       "tags": {}
@@ -10490,7 +10490,7 @@
     },
     {
       "id": "osm-w1528902447",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West 2nd North",
       "lat": 42.101276,
       "lng": -111.878182,
       "sports": [
@@ -10502,8 +10502,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 2nd North",
+      "city": "Preston",
       "state": "ID",
       "source": "osm",
       "tags": {}
@@ -10552,7 +10552,7 @@
     },
     {
       "id": "osm-w1528911988",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 1st Street",
       "lat": 42.611535,
       "lng": -113.671731,
       "sports": [
@@ -10564,8 +10564,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "1st Street",
+      "city": "Rupert",
       "state": "ID",
       "source": "osm",
       "tags": {}
@@ -10775,7 +10775,7 @@
     },
     {
       "id": "osm-w1545329285",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East Norma Avenue",
       "lat": 47.739214,
       "lng": -116.876995,
       "sports": [
@@ -10787,8 +10787,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Norma Avenue",
+      "city": "Post Falls",
       "state": "ID",
       "source": "osm",
       "tags": {}
@@ -10817,7 +10817,7 @@
     },
     {
       "id": "osm-w1557755888",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East 3rd North",
       "lat": 43.876959,
       "lng": -111.747525,
       "sports": [
@@ -10829,8 +10829,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 3rd North",
+      "city": "Sugar City",
       "state": "ID",
       "source": "osm",
       "tags": {}

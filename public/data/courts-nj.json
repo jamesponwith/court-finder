@@ -228,7 +228,7 @@
     },
     {
       "id": "osm-w27552100",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Grange Road",
       "lat": 40.862227,
       "lng": -74.392302,
       "sports": [
@@ -240,8 +240,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Grange Road",
+      "city": "Parsippany-Troy Hills",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -1055,7 +1055,7 @@
     },
     {
       "id": "osm-w80914961",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Ridgeview Lane",
       "lat": 40.925193,
       "lng": -74.638024,
       "sports": [
@@ -1067,8 +1067,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ridgeview Lane",
+      "city": "Mount Arlington",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -1431,7 +1431,7 @@
     },
     {
       "id": "osm-w148321787",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Franklin Road",
       "lat": 40.77624,
       "lng": -74.590594,
       "sports": [
@@ -1443,8 +1443,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Franklin Road",
+      "city": "Mendham",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -4469,7 +4469,7 @@
     },
     {
       "id": "osm-w302944115",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · College Road West",
       "lat": 40.342005,
       "lng": -74.66637,
       "sports": [
@@ -4481,8 +4481,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "College Road West",
+      "city": "Princeton",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -4588,7 +4588,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Franklin Township",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -4597,7 +4597,7 @@
     },
     {
       "id": "osm-w310600918",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North 8th Avenue",
       "lat": 40.511096,
       "lng": -74.423118,
       "sports": [
@@ -4609,8 +4609,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North 8th Avenue",
+      "city": "Edison",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -5263,7 +5263,7 @@
     },
     {
       "id": "osm-w343462841",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · NJ 38",
       "lat": 39.967445,
       "lng": -74.901711,
       "sports": [
@@ -5275,8 +5275,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "NJ 38",
+      "city": "Mount Laurel Township",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -5883,7 +5883,7 @@
     },
     {
       "id": "osm-w392016350",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · School House Road",
       "lat": 41.026147,
       "lng": -74.529488,
       "sports": [
@@ -5895,8 +5895,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "School House Road",
+      "city": "Jefferson Township",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -8311,7 +8311,7 @@
     },
     {
       "id": "osm-w518430880",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · John Street",
       "lat": 40.376764,
       "lng": -74.426628,
       "sports": [
@@ -8323,8 +8323,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "John Street",
+      "city": "Helmetta",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -8710,7 +8710,7 @@
     },
     {
       "id": "osm-w543204745",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cranford Road",
       "lat": 39.874174,
       "lng": -74.992458,
       "sports": [
@@ -8722,8 +8722,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cranford Road",
+      "city": "Cherry Hill Township",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -8858,7 +8858,7 @@
     },
     {
       "id": "osm-w546895882",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Prospect Street",
       "lat": 39.947695,
       "lng": -75.044306,
       "sports": [
@@ -8870,8 +8870,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Prospect Street",
+      "city": "Merchantville",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -9174,7 +9174,7 @@
     },
     {
       "id": "osm-w565568685",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Owens Nature Trail Connector",
       "lat": 39.679953,
       "lng": -75.011272,
       "sports": [
@@ -9186,8 +9186,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Owens Nature Trail Connector",
+      "city": "Monroe Township",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -9604,7 +9604,7 @@
     },
     {
       "id": "osm-w590702365",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Toms River East High School",
       "lat": 39.964165,
       "lng": -74.143991,
       "sports": [
@@ -9616,8 +9616,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Toms River East High School",
+      "city": "Toms River",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -10273,7 +10273,7 @@
     },
     {
       "id": "osm-w614610241",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Salisbury Road",
       "lat": 40.393247,
       "lng": -74.637081,
       "sports": [
@@ -10285,8 +10285,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Salisbury Road",
+      "city": "Montgomery Township",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -10465,7 +10465,7 @@
     },
     {
       "id": "osm-w619041291",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Anita Drive",
       "lat": 40.803158,
       "lng": -74.374942,
       "sports": [
@@ -10477,8 +10477,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Anita Drive",
+      "city": "East Hanover",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -10547,7 +10547,7 @@
     },
     {
       "id": "osm-w621348988",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Westgate Road",
       "lat": 40.7871,
       "lng": -74.341976,
       "sports": [
@@ -10560,15 +10560,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Westgate Road",
+      "city": "Livingston",
       "state": "NJ",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w621827847",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Jay L. Hand Drive",
       "lat": 40.873155,
       "lng": -74.268568,
       "sports": [
@@ -10580,8 +10580,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Jay L. Hand Drive",
+      "city": "North Caldwell",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -11092,7 +11092,7 @@
     },
     {
       "id": "osm-w628693472",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Madison Avenue",
       "lat": 40.94133,
       "lng": -74.02265,
       "sports": [
@@ -11104,8 +11104,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Madison Avenue",
+      "city": "New Milford",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -11273,7 +11273,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Paramus",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -13056,7 +13056,7 @@
     },
     {
       "id": "osm-w741683501",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Sawgrass Court",
       "lat": 39.815161,
       "lng": -75.053575,
       "sports": [
@@ -13068,8 +13068,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sawgrass Court",
+      "city": "Gloucester Township",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -13206,7 +13206,7 @@
     },
     {
       "id": "osm-w745160066",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Broadway",
       "lat": 39.657832,
       "lng": -75.519459,
       "sports": [
@@ -13218,8 +13218,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Broadway",
+      "city": "Pennsville Township",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -13913,7 +13913,7 @@
     },
     {
       "id": "osm-w784360245",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Reynolds Road",
       "lat": 39.378043,
       "lng": -74.590806,
       "sports": [
@@ -13925,8 +13925,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Reynolds Road",
+      "city": "Egg Harbor Township",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -14001,7 +14001,7 @@
     },
     {
       "id": "osm-w785471210",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Long Beach Boulevard",
       "lat": 39.727574,
       "lng": -74.124648,
       "sports": [
@@ -14013,8 +14013,8 @@
       "indoor": null,
       "access": "customers",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Long Beach Boulevard",
+      "city": "Long Beach Township",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -14100,7 +14100,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Egg Harbor Township",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -14891,7 +14891,7 @@
     },
     {
       "id": "osm-w819635000",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Elm Street",
       "lat": 40.91043,
       "lng": -74.128204,
       "sports": [
@@ -14903,8 +14903,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Elm Street",
+      "city": "Elmwood Park",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -15015,7 +15015,7 @@
     },
     {
       "id": "osm-w824622597",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Warren Street",
       "lat": 40.846722,
       "lng": -74.829386,
       "sports": [
@@ -15028,8 +15028,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Warren Street",
+      "city": "Hackettstown",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -15098,7 +15098,7 @@
     },
     {
       "id": "osm-w832401497",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Drive",
       "lat": 39.982242,
       "lng": -74.193223,
       "sports": [
@@ -15110,8 +15110,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Drive",
+      "city": "Toms River",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -15982,7 +15982,7 @@
     },
     {
       "id": "osm-w890859489",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ocean Avenue",
       "lat": 40.333283,
       "lng": -73.974199,
       "sports": [
@@ -15995,8 +15995,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ocean Avenue",
+      "city": "Monmouth Beach",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -16089,7 +16089,7 @@
     },
     {
       "id": "osm-w893424011",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Deputy Minister Drive",
       "lat": 40.303011,
       "lng": -74.10911,
       "sports": [
@@ -16101,8 +16101,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Deputy Minister Drive",
+      "city": "Colts Neck Township",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -16133,7 +16133,7 @@
     },
     {
       "id": "osm-w893856726",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · John Davison Rockefeller Memorial Highway",
       "lat": 40.022145,
       "lng": -74.276004,
       "sports": [
@@ -16145,8 +16145,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "John Davison Rockefeller Memorial Highway",
+      "city": "Manchester Township",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -16483,7 +16483,7 @@
     },
     {
       "id": "osm-w905667670",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Green Grove Road",
       "lat": 40.250741,
       "lng": -74.073543,
       "sports": [
@@ -16495,15 +16495,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Green Grove Road",
+      "city": "Ocean Township",
       "state": "NJ",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w906698030",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Logan Court",
       "lat": 40.044625,
       "lng": -74.237169,
       "sports": [
@@ -16515,8 +16515,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Logan Court",
+      "city": "Toms River",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -16545,7 +16545,7 @@
     },
     {
       "id": "osm-w907898776",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ridge Road",
       "lat": 40.35027,
       "lng": -74.038375,
       "sports": [
@@ -16557,8 +16557,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ridge Road",
+      "city": "Fair Haven",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -16609,7 +16609,7 @@
     },
     {
       "id": "osm-w910921828",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Longhill Court",
       "lat": 39.878096,
       "lng": -74.826941,
       "sports": [
@@ -16621,8 +16621,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Longhill Court",
+      "city": "Medford Township",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -18256,7 +18256,7 @@
     },
     {
       "id": "osm-w953984265",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Valley Street",
       "lat": 40.73161,
       "lng": -74.271659,
       "sports": [
@@ -18269,8 +18269,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Valley Street",
+      "city": "Maplewood",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -18340,7 +18340,7 @@
     },
     {
       "id": "osm-w956350453",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Creek Road",
       "lat": 39.994093,
       "lng": -74.884193,
       "sports": [
@@ -18353,8 +18353,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Creek Road",
+      "city": "Mount Laurel Township",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -18593,7 +18593,7 @@
     },
     {
       "id": "osm-w967677505",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Esplande Drive",
       "lat": 39.766039,
       "lng": -74.266471,
       "sports": [
@@ -18606,8 +18606,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Esplande Drive",
+      "city": "Barnegat Township",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -19032,7 +19032,7 @@
     },
     {
       "id": "osm-w972607522",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Memorial Drive",
       "lat": 40.197667,
       "lng": -74.020697,
       "sports": [
@@ -19045,8 +19045,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Memorial Drive",
+      "city": "Neptune City",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -19163,7 +19163,7 @@
     },
     {
       "id": "osm-w972728176",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lakeside Drive",
       "lat": 39.601827,
       "lng": -74.34597,
       "sports": [
@@ -19176,8 +19176,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lakeside Drive",
+      "city": "Tuckerton",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -19648,7 +19648,7 @@
     },
     {
       "id": "osm-w990065483",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Forsgate Drive",
       "lat": 40.34351,
       "lng": -74.460781,
       "sports": [
@@ -19661,8 +19661,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Forsgate Drive",
+      "city": "Monroe Township",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -19839,7 +19839,7 @@
     },
     {
       "id": "osm-w995717810",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Aberdeen Lane",
       "lat": 40.026962,
       "lng": -74.303588,
       "sports": [
@@ -19852,8 +19852,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Aberdeen Lane",
+      "city": "Manchester Township",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -20027,7 +20027,7 @@
     },
     {
       "id": "osm-w999751441",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · McKinley Avenue",
       "lat": 39.695392,
       "lng": -74.270922,
       "sports": [
@@ -20040,8 +20040,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "McKinley Avenue",
+      "city": "Stafford Township",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -20382,7 +20382,7 @@
     },
     {
       "id": "osm-w1020027111",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · State Road",
       "lat": 40.358527,
       "lng": -74.66639,
       "sports": [
@@ -20394,8 +20394,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "State Road",
+      "city": "Princeton",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -20446,7 +20446,7 @@
     },
     {
       "id": "osm-w1025611468",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Coolidge Way",
       "lat": 40.391981,
       "lng": -74.640453,
       "sports": [
@@ -20458,8 +20458,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Coolidge Way",
+      "city": "Montgomery Township",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -20530,7 +20530,7 @@
     },
     {
       "id": "osm-w1030554435",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Rolling Hill Road",
       "lat": 40.388996,
       "lng": -74.714891,
       "sports": [
@@ -20542,8 +20542,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rolling Hill Road",
+      "city": "Montgomery Township",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -20638,7 +20638,7 @@
     },
     {
       "id": "osm-w1036172288",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Washington-Mendham Road E. (Old Rt. 24)",
       "lat": 40.789102,
       "lng": -74.526674,
       "sports": [
@@ -20650,8 +20650,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Washington-Mendham Road E. (Old Rt. 24)",
+      "city": "Morris Township",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -21100,7 +21100,7 @@
     },
     {
       "id": "osm-w1047803872",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Carriage Way",
       "lat": 40.13074,
       "lng": -74.030955,
       "sports": [
@@ -21112,8 +21112,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Carriage Way",
+      "city": "Sea Girt",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -21454,7 +21454,7 @@
     },
     {
       "id": "osm-w1058400662",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Main Street",
       "lat": 40.695577,
       "lng": -74.620036,
       "sports": [
@@ -21467,8 +21467,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Main Street",
+      "city": "Far Hills",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -21583,7 +21583,7 @@
     },
     {
       "id": "osm-w1066949360",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Holmes Mill Road",
       "lat": 40.110108,
       "lng": -74.532582,
       "sports": [
@@ -21595,8 +21595,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Holmes Mill Road",
+      "city": "Upper Freehold Township",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -21731,7 +21731,7 @@
     },
     {
       "id": "osm-w1069693790",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Southern Boulevard",
       "lat": 40.740061,
       "lng": -74.423514,
       "sports": [
@@ -21743,15 +21743,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Southern Boulevard",
+      "city": "Chatham Township",
       "state": "NJ",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1069718679",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Southern Boulevard",
       "lat": 40.735766,
       "lng": -74.426075,
       "sports": [
@@ -21763,8 +21763,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Southern Boulevard",
+      "city": "Chatham Township",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -21851,7 +21851,7 @@
     },
     {
       "id": "osm-w1069793821",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Evesham Road",
       "lat": 39.847534,
       "lng": -75.061923,
       "sports": [
@@ -21863,8 +21863,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Evesham Road",
+      "city": "Gloucester Township",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -22099,7 +22099,7 @@
     },
     {
       "id": "osm-w1081629759",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Atlantic Avenue",
       "lat": 39.925538,
       "lng": -74.134994,
       "sports": [
@@ -22112,8 +22112,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Atlantic Avenue",
+      "city": "Ocean Gate",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -22358,7 +22358,7 @@
     },
     {
       "id": "osm-w1089719698",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Cates Road",
       "lat": 39.420281,
       "lng": -74.638658,
       "sports": [
@@ -22370,8 +22370,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cates Road",
+      "city": "Egg Harbor Township",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -22608,7 +22608,7 @@
     },
     {
       "id": "osm-w1098082864",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Landmark Road",
       "lat": 40.324212,
       "lng": -74.474343,
       "sports": [
@@ -22621,8 +22621,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Landmark Road",
+      "city": "Monroe Township",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -22671,7 +22671,7 @@
     },
     {
       "id": "osm-w1101839292",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Arney's Mount Road",
       "lat": 39.991447,
       "lng": -74.684861,
       "sports": [
@@ -22683,8 +22683,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Arney's Mount Road",
+      "city": "Pemberton Township",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -22754,7 +22754,7 @@
     },
     {
       "id": "osm-w1111532712",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Keith Lane",
       "lat": 40.040641,
       "lng": -74.853482,
       "sports": [
@@ -22766,8 +22766,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Keith Lane",
+      "city": "Burlington Township",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -22881,7 +22881,7 @@
     },
     {
       "id": "osm-w1117686959",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ocean Drive",
       "lat": 38.955861,
       "lng": -74.903491,
       "sports": [
@@ -22894,8 +22894,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ocean Drive",
+      "city": "Lower Township",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -23564,7 +23564,7 @@
     },
     {
       "id": "osm-w1155720819",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bedford Drive",
       "lat": 40.409849,
       "lng": -74.658272,
       "sports": [
@@ -23577,8 +23577,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bedford Drive",
+      "city": "Montgomery Township",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -23693,7 +23693,7 @@
     },
     {
       "id": "osm-w1163037762",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Minuteman Circle",
       "lat": 40.164095,
       "lng": -74.596501,
       "sports": [
@@ -23705,8 +23705,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Minuteman Circle",
+      "city": "Upper Freehold Township",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -24181,7 +24181,7 @@
     },
     {
       "id": "osm-w1178328596",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Judith E. Gerkins Path",
       "lat": 39.694311,
       "lng": -74.14254,
       "sports": [
@@ -24194,8 +24194,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Judith E. Gerkins Path",
+      "city": "Harvey Cedars",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -24434,7 +24434,7 @@
     },
     {
       "id": "osm-w1190414855",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Observer Highway",
       "lat": 40.737887,
       "lng": -74.042733,
       "sports": [
@@ -24446,8 +24446,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Observer Highway",
+      "city": "Hoboken",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -24666,7 +24666,7 @@
     },
     {
       "id": "osm-w1205926341",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East Lakeshore Drive Extended",
       "lat": 41.167277,
       "lng": -74.453948,
       "sports": [
@@ -24678,8 +24678,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Lakeshore Drive Extended",
+      "city": "Vernon Township",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -24772,7 +24772,7 @@
     },
     {
       "id": "osm-w1207322862",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 11th Avenue",
       "lat": 39.434787,
       "lng": -74.755652,
       "sports": [
@@ -24785,8 +24785,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "11th Avenue",
+      "city": "Weymouth Township",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -24897,7 +24897,7 @@
     },
     {
       "id": "osm-w1212148059",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Mill Creek Road",
       "lat": 39.665909,
       "lng": -74.23127,
       "sports": [
@@ -24909,8 +24909,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mill Creek Road",
+      "city": "Stafford Township",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -25136,7 +25136,7 @@
     },
     {
       "id": "osm-w1235398667",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Prospect Avenue",
       "lat": 40.819008,
       "lng": -74.239641,
       "sports": [
@@ -25148,15 +25148,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Prospect Avenue",
+      "city": "West Orange",
       "state": "NJ",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1235398673",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Prospect Avenue",
       "lat": 40.815779,
       "lng": -74.242191,
       "sports": [
@@ -25169,8 +25169,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Prospect Avenue",
+      "city": "West Orange",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -25307,7 +25307,7 @@
     },
     {
       "id": "osm-w1240806504",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ivy Hill Road",
       "lat": 40.058361,
       "lng": -74.234109,
       "sports": [
@@ -25319,8 +25319,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ivy Hill Road",
+      "city": "Lakewood Township",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -25759,7 +25759,7 @@
     },
     {
       "id": "osm-w1281911662",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Pearl Street",
       "lat": 40.344211,
       "lng": -74.069277,
       "sports": [
@@ -25771,15 +25771,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pearl Street",
+      "city": "Red Bank",
       "state": "NJ",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1282061625",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Piermont Road",
       "lat": 40.993662,
       "lng": -73.934252,
       "sports": [
@@ -25791,8 +25791,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Piermont Road",
+      "city": "Norwood",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -25930,7 +25930,7 @@
     },
     {
       "id": "osm-w1289379187",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Tidal Lane",
       "lat": 39.729896,
       "lng": -74.124246,
       "sports": [
@@ -25943,8 +25943,8 @@
       "indoor": null,
       "access": "customers",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Tidal Lane",
+      "city": "Long Beach Township",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -25973,7 +25973,7 @@
     },
     {
       "id": "osm-w1290278541",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 42nd Place",
       "lat": 39.158133,
       "lng": -74.697354,
       "sports": [
@@ -25985,8 +25985,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "42nd Place",
+      "city": "Sea Isle City",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -26382,7 +26382,7 @@
     },
     {
       "id": "osm-w1298027272",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Anderson Avenue",
       "lat": 40.952194,
       "lng": -73.949083,
       "sports": [
@@ -26394,8 +26394,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Anderson Avenue",
+      "city": "Demarest",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -26868,7 +26868,7 @@
     },
     {
       "id": "osm-w1312878007",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Mercer Road",
       "lat": 40.335399,
       "lng": -74.67458,
       "sports": [
@@ -26880,8 +26880,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mercer Road",
+      "city": "Princeton",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -27373,7 +27373,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Raritan Township",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -27528,7 +27528,7 @@
     },
     {
       "id": "osm-w1324862565",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Frederick Road",
       "lat": 40.637513,
       "lng": -74.502571,
       "sports": [
@@ -27540,8 +27540,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Frederick Road",
+      "city": "Warren Township",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -27550,7 +27550,7 @@
     },
     {
       "id": "osm-w1325479359",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Drake Way",
       "lat": 40.832052,
       "lng": -74.697467,
       "sports": [
@@ -27563,8 +27563,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Drake Way",
+      "city": "Mount Olive",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -27914,7 +27914,7 @@
     },
     {
       "id": "osm-w1338755835",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East Central Avenue",
       "lat": 39.95589,
       "lng": -74.072785,
       "sports": [
@@ -27926,8 +27926,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Central Avenue",
+      "city": "Toms River",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -28630,7 +28630,7 @@
     },
     {
       "id": "osm-w1392846385",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West 6th Street",
       "lat": 39.653179,
       "lng": -74.178014,
       "sports": [
@@ -28643,8 +28643,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 6th Street",
+      "city": "Ship Bottom",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -28885,7 +28885,7 @@
     },
     {
       "id": "osm-w1414299362",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Woodlake Drive",
       "lat": 39.948954,
       "lng": -74.390574,
       "sports": [
@@ -28897,8 +28897,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Woodlake Drive",
+      "city": "Manchester Township",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -29164,7 +29164,7 @@
     },
     {
       "id": "osm-w1430400916",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Railroad Avenue",
       "lat": 39.755679,
       "lng": -75.402406,
       "sports": [
@@ -29176,8 +29176,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Railroad Avenue",
+      "city": "Oldmans Township",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -29311,7 +29311,7 @@
     },
     {
       "id": "osm-w1433692136",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Eastbrook Road",
       "lat": 40.984531,
       "lng": -74.085336,
       "sports": [
@@ -29323,8 +29323,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Eastbrook Road",
+      "city": "Ridgewood",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -29733,7 +29733,7 @@
     },
     {
       "id": "osm-w1443064068",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Brook End Drive",
       "lat": 40.772805,
       "lng": -74.28153,
       "sports": [
@@ -29746,8 +29746,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Brook End Drive",
+      "city": "West Orange",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -30668,7 +30668,7 @@
     },
     {
       "id": "osm-w1446120891",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Chelsea Drive",
       "lat": 40.789421,
       "lng": -74.293465,
       "sports": [
@@ -30680,8 +30680,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Chelsea Drive",
+      "city": "Livingston",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -30925,7 +30925,7 @@
     },
     {
       "id": "osm-w1447552184",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Rancocas Avenue",
       "lat": 40.028742,
       "lng": -74.963379,
       "sports": [
@@ -30937,8 +30937,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rancocas Avenue",
+      "city": "Riverside Township",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -31743,7 +31743,7 @@
     },
     {
       "id": "osm-w1467481798",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Betsy Ross Court",
       "lat": 39.900036,
       "lng": -74.968818,
       "sports": [
@@ -31755,8 +31755,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Betsy Ross Court",
+      "city": "Cherry Hill Township",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -31849,7 +31849,7 @@
     },
     {
       "id": "osm-w1471484612",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Clearwater Swim Club",
       "lat": 40.707203,
       "lng": -74.386245,
       "sports": [
@@ -31862,8 +31862,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Clearwater Swim Club",
+      "city": "New Providence",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -31951,7 +31951,7 @@
     },
     {
       "id": "osm-w1474279037",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Country Club Drive",
       "lat": 40.016545,
       "lng": -74.796174,
       "sports": [
@@ -31963,8 +31963,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Country Club Drive",
+      "city": "Westampton Township",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -32015,7 +32015,7 @@
     },
     {
       "id": "osm-w1474554462",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Merion Avenue",
       "lat": 39.96107,
       "lng": -74.97936,
       "sports": [
@@ -32028,8 +32028,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Merion Avenue",
+      "city": "Moorestown Township",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -33739,7 +33739,7 @@
     },
     {
       "id": "osm-w1493845932",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Birdsall Lane",
       "lat": 40.581952,
       "lng": -74.633552,
       "sports": [
@@ -33752,8 +33752,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Birdsall Lane",
+      "city": "Bridgewater Township",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -33909,7 +33909,7 @@
     },
     {
       "id": "osm-w1495065017",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Woodway Drive",
       "lat": 39.825719,
       "lng": -75.18519,
       "sports": [
@@ -33922,8 +33922,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Woodway Drive",
+      "city": "West Deptford Township",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -34929,7 +34929,7 @@
     },
     {
       "id": "osm-w1504271794",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Upper Mountain Avenue",
       "lat": 40.850975,
       "lng": -74.20463,
       "sports": [
@@ -34941,8 +34941,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Upper Mountain Avenue",
+      "city": "Montclair",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -35056,7 +35056,7 @@
     },
     {
       "id": "osm-w1505064323",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hedgerow Lane",
       "lat": 40.263948,
       "lng": -74.335323,
       "sports": [
@@ -35068,8 +35068,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hedgerow Lane",
+      "city": "Manalapan Township",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -35577,7 +35577,7 @@
     },
     {
       "id": "osm-w1511175372",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hobart Avenue",
       "lat": 40.727515,
       "lng": -74.348708,
       "sports": [
@@ -35590,8 +35590,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hobart Avenue",
+      "city": "Summit",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -35786,7 +35786,7 @@
     },
     {
       "id": "osm-w1513858871",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Johnson Park Road",
       "lat": 40.972638,
       "lng": -74.714436,
       "sports": [
@@ -35799,8 +35799,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Johnson Park Road",
+      "city": "Byram Township",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -36620,7 +36620,7 @@
     },
     {
       "id": "osm-w1516402919",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ranoldo Terrace",
       "lat": 39.91194,
       "lng": -74.992203,
       "sports": [
@@ -36632,8 +36632,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ranoldo Terrace",
+      "city": "Cherry Hill Township",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -36749,7 +36749,7 @@
     },
     {
       "id": "osm-w1521599524",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Rancocas Creek Drive",
       "lat": 39.964854,
       "lng": -74.649878,
       "sports": [
@@ -36761,8 +36761,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rancocas Creek Drive",
+      "city": "Pemberton Township",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -36854,7 +36854,7 @@
     },
     {
       "id": "osm-w1521928869",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hawkins Road",
       "lat": 40.340731,
       "lng": -74.3204,
       "sports": [
@@ -36866,8 +36866,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hawkins Road",
+      "city": "Marlboro Township",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -38860,7 +38860,7 @@
     },
     {
       "id": "osm-w1539794889",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Tennent Avenue",
       "lat": 40.288889,
       "lng": -74.340905,
       "sports": [
@@ -38873,8 +38873,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Tennent Avenue",
+      "city": "Manalapan Township",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -39192,7 +39192,7 @@
     },
     {
       "id": "osm-w1540052617",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Biltmore Lane",
       "lat": 40.524428,
       "lng": -74.536258,
       "sports": [
@@ -39204,8 +39204,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Biltmore Lane",
+      "city": "Franklin Township",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -39381,7 +39381,7 @@
     },
     {
       "id": "osm-w1540061626",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Knox Avenue",
       "lat": 40.524052,
       "lng": -74.56638,
       "sports": [
@@ -39394,8 +39394,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Knox Avenue",
+      "city": "Franklin Township",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -39465,7 +39465,7 @@
     },
     {
       "id": "osm-w1546618106",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East 133rd Street Delaware Avenue",
       "lat": 39.584444,
       "lng": -74.224756,
       "sports": [
@@ -39477,8 +39477,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 133rd Street Delaware Avenue",
+      "city": "Long Beach Township",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -39571,7 +39571,7 @@
     },
     {
       "id": "osm-w1550384650",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 14th Street",
       "lat": 40.754355,
       "lng": -74.03199,
       "sports": [
@@ -39583,8 +39583,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "14th Street",
+      "city": "Hoboken",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -39593,7 +39593,7 @@
     },
     {
       "id": "osm-w1550665184",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Oval Road",
       "lat": 40.816056,
       "lng": -74.270728,
       "sports": [
@@ -39605,8 +39605,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Oval Road",
+      "city": "West Orange",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -39733,7 +39733,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Montvale",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -39742,7 +39742,7 @@
     },
     {
       "id": "osm-w1553927966",
-      "name": "Public Tennis Courts",
+      "name": "Pollara Lane Tennis Courts",
       "lat": 41.283582,
       "lng": -74.801104,
       "sports": [
@@ -39754,8 +39754,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pollara Lane",
+      "city": "Montague Township",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -39764,7 +39764,7 @@
     },
     {
       "id": "osm-w1553927977",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Swartswood Road",
       "lat": 41.083003,
       "lng": -74.824688,
       "sports": [
@@ -39776,8 +39776,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Swartswood Road",
+      "city": "Stillwater Township",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -39786,7 +39786,7 @@
     },
     {
       "id": "osm-w1553928005",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Pond Hollow Drive",
       "lat": 41.029559,
       "lng": -74.513695,
       "sports": [
@@ -39798,8 +39798,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pond Hollow Drive",
+      "city": "Jefferson Township",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -39808,7 +39808,7 @@
     },
     {
       "id": "osm-w1553928222",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Elro Drive",
       "lat": 41.02686,
       "lng": -74.510775,
       "sports": [
@@ -39820,8 +39820,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Elro Drive",
+      "city": "Jefferson Township",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -39830,7 +39830,7 @@
     },
     {
       "id": "osm-w1553928250",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Irontown Circle",
       "lat": 41.034204,
       "lng": -74.510159,
       "sports": [
@@ -39842,8 +39842,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Irontown Circle",
+      "city": "Jefferson Township",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -39852,7 +39852,7 @@
     },
     {
       "id": "osm-w1553928550",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Gallows Hill Road",
       "lat": 40.663234,
       "lng": -74.326685,
       "sports": [
@@ -39864,8 +39864,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Gallows Hill Road",
+      "city": "Cranford",
       "state": "NJ",
       "source": "osm",
       "tags": {}
@@ -39885,7 +39885,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Franklin Township",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -39916,7 +39916,7 @@
     },
     {
       "id": "osm-w1553928707",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Tiger Drive",
       "lat": 40.706656,
       "lng": -74.785956,
       "sports": [
@@ -39928,8 +39928,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Tiger Drive",
+      "city": "Tewksbury Township",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -39938,7 +39938,7 @@
     },
     {
       "id": "osm-w1553928918",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Clifton Mill Road",
       "lat": 40.127797,
       "lng": -74.682971,
       "sports": [
@@ -39950,8 +39950,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Clifton Mill Road",
+      "city": "Bordentown Township",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -39960,7 +39960,7 @@
     },
     {
       "id": "osm-w1553928961",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Jennings Court",
       "lat": 39.820193,
       "lng": -74.762888,
       "sports": [
@@ -39972,8 +39972,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Jennings Court",
+      "city": "Shamong Township",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -39982,7 +39982,7 @@
     },
     {
       "id": "osm-w1553928982",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Mt Pleasant - Tuckahoe Road",
       "lat": 39.284983,
       "lng": -74.755237,
       "sports": [
@@ -39994,8 +39994,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mt Pleasant - Tuckahoe Road",
+      "city": "Upper Township",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -40004,7 +40004,7 @@
     },
     {
       "id": "osm-w1553930388",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Somerset Street",
       "lat": 40.999175,
       "lng": -74.239009,
       "sports": [
@@ -40016,8 +40016,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Somerset Street",
+      "city": "Franklin Lakes",
       "state": "NJ",
       "source": "osm",
       "tags": {
@@ -40026,7 +40026,7 @@
     },
     {
       "id": "osm-w1556555016",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ocean Avenue",
       "lat": 40.268699,
       "lng": -73.986655,
       "sports": [
@@ -40038,8 +40038,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ocean Avenue",
+      "city": "Long Branch",
       "state": "NJ",
       "source": "osm",
       "tags": {

@@ -153,7 +153,7 @@
     },
     {
       "id": "osm-w112648140",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hanalei Plantation Road",
       "lat": 22.219443,
       "lng": -159.495222,
       "sports": [
@@ -165,15 +165,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hanalei Plantation Road",
+      "city": "Hanalei",
       "state": "HI",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w112648148",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Edward Road",
       "lat": 22.226205,
       "lng": -159.480294,
       "sports": [
@@ -185,8 +185,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Edward Road",
+      "city": "Princeville",
       "state": "HI",
       "source": "osm",
       "tags": {
@@ -195,7 +195,7 @@
     },
     {
       "id": "osm-w112648155",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ka Haku Road",
       "lat": 22.221933,
       "lng": -159.495461,
       "sports": [
@@ -207,8 +207,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ka Haku Road",
+      "city": "Princeville",
       "state": "HI",
       "source": "osm",
       "tags": {
@@ -217,7 +217,7 @@
     },
     {
       "id": "osm-w112648173",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lei O Papa Road",
       "lat": 22.221031,
       "lng": -159.483532,
       "sports": [
@@ -229,8 +229,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lei O Papa Road",
+      "city": "Princeville",
       "state": "HI",
       "source": "osm",
       "tags": {
@@ -281,7 +281,7 @@
     },
     {
       "id": "osm-w146693825",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Kolea Kai Circle",
       "lat": 19.917354,
       "lng": -155.884684,
       "sports": [
@@ -293,8 +293,8 @@
       "indoor": null,
       "access": "customers",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kolea Kai Circle",
+      "city": "Kapalaoa",
       "state": "HI",
       "source": "osm",
       "tags": {
@@ -325,7 +325,7 @@
     },
     {
       "id": "osm-w147997646",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Kuilima Drive",
       "lat": 21.702413,
       "lng": -157.997606,
       "sports": [
@@ -337,8 +337,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kuilima Drive",
+      "city": "Kawela",
       "state": "HI",
       "source": "osm",
       "tags": {}
@@ -475,7 +475,7 @@
     },
     {
       "id": "osm-w156572784",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hulopoe Drive",
       "lat": 20.743435,
       "lng": -156.896,
       "sports": [
@@ -487,8 +487,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hulopoe Drive",
+      "city": "Maui County",
       "state": "HI",
       "source": "osm",
       "tags": {}
@@ -603,7 +603,7 @@
     },
     {
       "id": "osm-w173540436",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bay Drive",
       "lat": 21.002266,
       "lng": -156.663361,
       "sports": [
@@ -615,8 +615,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bay Drive",
+      "city": "Kapalua",
       "state": "HI",
       "source": "osm",
       "tags": {
@@ -977,7 +977,7 @@
     },
     {
       "id": "osm-w231776923",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ala Kahakai National Historic Trail",
       "lat": 20.00812,
       "lng": -155.825997,
       "sports": [
@@ -989,15 +989,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ala Kahakai National Historic Trail",
+      "city": "Hawaiʻi County",
       "state": "HI",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w231776932",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Mauna Kea Beach Drive",
       "lat": 20.004824,
       "lng": -155.823253,
       "sports": [
@@ -1009,8 +1009,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mauna Kea Beach Drive",
+      "city": "Hawaiʻi County",
       "state": "HI",
       "source": "osm",
       "tags": {
@@ -1059,7 +1059,7 @@
     },
     {
       "id": "osm-w238817005",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Keana Place",
       "lat": 19.922872,
       "lng": -155.883082,
       "sports": [
@@ -1071,8 +1071,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Keana Place",
+      "city": "Kapalaoa",
       "state": "HI",
       "source": "osm",
       "tags": {
@@ -1081,7 +1081,7 @@
     },
     {
       "id": "osm-w238915889",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Waikoloa Beach Drive",
       "lat": 19.924929,
       "lng": -155.882104,
       "sports": [
@@ -1093,8 +1093,8 @@
       "indoor": null,
       "access": "customers",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Waikoloa Beach Drive",
+      "city": "Kapalaoa",
       "state": "HI",
       "source": "osm",
       "tags": {
@@ -1125,7 +1125,7 @@
     },
     {
       "id": "osm-w239025451",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fisherman trail",
       "lat": 19.924083,
       "lng": -155.889147,
       "sports": [
@@ -1137,8 +1137,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fisherman trail",
+      "city": "Kapalaoa",
       "state": "HI",
       "source": "osm",
       "tags": {
@@ -1207,7 +1207,7 @@
     },
     {
       "id": "osm-w239944675",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Kaniku Drive",
       "lat": 19.95157,
       "lng": -155.858506,
       "sports": [
@@ -1219,15 +1219,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Kaniku Drive",
+      "city": "Hawaiʻi County",
       "state": "HI",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w252060031",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Kuilima Loop",
       "lat": 21.699789,
       "lng": -157.994325,
       "sports": [
@@ -1239,8 +1239,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Kuilima Loop",
+      "city": "Kawela",
       "state": "HI",
       "source": "osm",
       "tags": {
@@ -1271,7 +1271,7 @@
     },
     {
       "id": "osm-w254454629",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Mika Drive",
       "lat": 19.556247,
       "lng": -155.962868,
       "sports": [
@@ -1284,8 +1284,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mika Drive",
+      "city": "Kahaluu-Keauhou",
       "state": "HI",
       "source": "osm",
       "tags": {}
@@ -1312,7 +1312,7 @@
     },
     {
       "id": "osm-w255498705",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Holua Drive",
       "lat": 19.557827,
       "lng": -155.964379,
       "sports": [
@@ -1324,8 +1324,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Holua Drive",
+      "city": "Kahaluu-Keauhou",
       "state": "HI",
       "source": "osm",
       "tags": {
@@ -1670,7 +1670,7 @@
     },
     {
       "id": "osm-w303717321",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Kalākaua Avenue",
       "lat": 21.266484,
       "lng": -157.820761,
       "sports": [
@@ -1682,8 +1682,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kalākaua Avenue",
+      "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
       "tags": {}
@@ -1754,7 +1754,7 @@
     },
     {
       "id": "osm-w303883685",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Saratoga Road",
       "lat": 21.281937,
       "lng": -157.831875,
       "sports": [
@@ -1766,8 +1766,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Saratoga Road",
+      "city": "East Honolulu",
       "state": "HI",
       "source": "osm",
       "tags": {}
@@ -2624,7 +2624,7 @@
     },
     {
       "id": "osm-w359990751",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wailea Alanui Drive",
       "lat": 20.677352,
       "lng": -156.440617,
       "sports": [
@@ -2636,8 +2636,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wailea Alanui Drive",
+      "city": "Wailea",
       "state": "HI",
       "source": "osm",
       "tags": {
@@ -2710,7 +2710,7 @@
     },
     {
       "id": "osm-w382968185",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Manukai Road",
       "lat": 19.56548,
       "lng": -155.965935,
       "sports": [
@@ -2722,8 +2722,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Manukai Road",
+      "city": "Kahaluu-Keauhou",
       "state": "HI",
       "source": "osm",
       "tags": {
@@ -2774,7 +2774,7 @@
     },
     {
       "id": "osm-w388142712",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Nehe Road",
       "lat": 22.034938,
       "lng": -159.337308,
       "sports": [
@@ -2786,8 +2786,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Nehe Road",
+      "city": "Wailua",
       "state": "HI",
       "source": "osm",
       "tags": {
@@ -2882,7 +2882,7 @@
     },
     {
       "id": "osm-w390373589",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Kalapaki Circle",
       "lat": 21.96113,
       "lng": -159.347274,
       "sports": [
@@ -2894,8 +2894,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kalapaki Circle",
+      "city": "Lihue",
       "state": "HI",
       "source": "osm",
       "tags": {}
@@ -2968,7 +2968,7 @@
     },
     {
       "id": "osm-w439629430",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Kamehameha III Road",
       "lat": 19.569332,
       "lng": -155.9601,
       "sports": [
@@ -2980,8 +2980,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kamehameha III Road",
+      "city": "Kahaluu-Keauhou",
       "state": "HI",
       "source": "osm",
       "tags": {
@@ -2990,7 +2990,7 @@
     },
     {
       "id": "osm-w439637197",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Aliʻi Drive",
       "lat": 19.568334,
       "lng": -155.961657,
       "sports": [
@@ -3002,8 +3002,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Aliʻi Drive",
+      "city": "Kahaluu-Keauhou",
       "state": "HI",
       "source": "osm",
       "tags": {
@@ -3264,7 +3264,7 @@
     },
     {
       "id": "osm-w448443245",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wailea Ike Place",
       "lat": 20.689408,
       "lng": -156.437226,
       "sports": [
@@ -3276,8 +3276,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wailea Ike Place",
+      "city": "Wailea",
       "state": "HI",
       "source": "osm",
       "tags": {}
@@ -3450,7 +3450,7 @@
     },
     {
       "id": "osm-w466811174",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ka Haku Road",
       "lat": 22.220458,
       "lng": -159.472441,
       "sports": [
@@ -3462,8 +3462,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ka Haku Road",
+      "city": "Princeville",
       "state": "HI",
       "source": "osm",
       "tags": {
@@ -3472,7 +3472,7 @@
     },
     {
       "id": "osm-w467060342",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Kaui Road",
       "lat": 22.22439,
       "lng": -159.48077,
       "sports": [
@@ -3484,8 +3484,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kaui Road",
+      "city": "Princeville",
       "state": "HI",
       "source": "osm",
       "tags": {
@@ -4528,7 +4528,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Wailua",
       "state": "HI",
       "source": "osm",
       "tags": {
@@ -4669,7 +4669,7 @@
     },
     {
       "id": "osm-w676136126",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ali'inui Drive",
       "lat": 21.338859,
       "lng": -158.120604,
       "sports": [
@@ -4681,8 +4681,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ali'inui Drive",
+      "city": "Kapolei",
       "state": "HI",
       "source": "osm",
       "tags": {
@@ -4797,7 +4797,7 @@
     },
     {
       "id": "osm-w700975205",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Waikoloa Beach Drive",
       "lat": 19.928674,
       "lng": -155.883374,
       "sports": [
@@ -4809,8 +4809,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Waikoloa Beach Drive",
+      "city": "Kapalaoa",
       "state": "HI",
       "source": "osm",
       "tags": {
@@ -5995,7 +5995,7 @@
     },
     {
       "id": "osm-w952767465",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Trail",
       "lat": 21.884369,
       "lng": -159.484029,
       "sports": [
@@ -6007,8 +6007,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Trail",
+      "city": "Kauaʻi County",
       "state": "HI",
       "source": "osm",
       "tags": {
@@ -6510,7 +6510,7 @@
     },
     {
       "id": "osm-w1197827465",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Club Drive",
       "lat": 19.505841,
       "lng": -155.947404,
       "sports": [
@@ -6522,8 +6522,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Club Drive",
+      "city": "Hawaiʻi County",
       "state": "HI",
       "source": "osm",
       "tags": {
@@ -6532,7 +6532,7 @@
     },
     {
       "id": "osm-w1201560486",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ala Lilikoi Place",
       "lat": 21.353609,
       "lng": -157.907782,
       "sports": [
@@ -6544,8 +6544,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ala Lilikoi Place",
+      "city": "Honolulu",
       "state": "HI",
       "source": "osm",
       "tags": {
@@ -6772,7 +6772,7 @@
     },
     {
       "id": "osm-w1226026488",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Pacific Drive",
       "lat": 20.996091,
       "lng": -156.657628,
       "sports": [
@@ -6784,8 +6784,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pacific Drive",
+      "city": "Kapalua",
       "state": "HI",
       "source": "osm",
       "tags": {
@@ -7094,7 +7094,7 @@
     },
     {
       "id": "osm-w1331469276",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Aliʻi Drive",
       "lat": 19.569523,
       "lng": -155.964611,
       "sports": [
@@ -7106,8 +7106,8 @@
       "indoor": null,
       "access": "customers",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Aliʻi Drive",
+      "city": "Kahaluu-Keauhou",
       "state": "HI",
       "source": "osm",
       "tags": {
@@ -7178,7 +7178,7 @@
     },
     {
       "id": "osm-w1372609851",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ala Poha Place",
       "lat": 21.349375,
       "lng": -157.902882,
       "sports": [
@@ -7190,8 +7190,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ala Poha Place",
+      "city": "Honolulu",
       "state": "HI",
       "source": "osm",
       "tags": {
@@ -7930,7 +7930,7 @@
     },
     {
       "id": "osm-w1553709998",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Krukowski Road",
       "lat": 21.362931,
       "lng": -157.890504,
       "sports": [
@@ -7942,8 +7942,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Krukowski Road",
+      "city": "Honolulu",
       "state": "HI",
       "source": "osm",
       "tags": {

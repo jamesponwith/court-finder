@@ -322,7 +322,7 @@
     },
     {
       "id": "osm-w297943875",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ringed Neck Lane",
       "lat": 39.11498,
       "lng": -75.619122,
       "sports": [
@@ -334,8 +334,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ringed Neck Lane",
+      "city": "Kent County",
       "state": "DE",
       "source": "osm",
       "tags": {}
@@ -386,7 +386,7 @@
     },
     {
       "id": "osm-w305277440",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Laguna Drive",
       "lat": 38.695721,
       "lng": -75.130127,
       "sports": [
@@ -398,8 +398,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Laguna Drive",
+      "city": "Sussex County",
       "state": "DE",
       "source": "osm",
       "tags": {
@@ -752,7 +752,7 @@
     },
     {
       "id": "osm-w493395935",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Le Pointe Drive",
       "lat": 38.577385,
       "lng": -75.061862,
       "sports": [
@@ -764,8 +764,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Le Pointe Drive",
+      "city": "Sussex County",
       "state": "DE",
       "source": "osm",
       "tags": {
@@ -1271,7 +1271,7 @@
     },
     {
       "id": "osm-w570300593",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Rowan Street",
       "lat": 39.75797,
       "lng": -75.559092,
       "sports": [
@@ -1283,8 +1283,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rowan Street",
+      "city": "Wilmington",
       "state": "DE",
       "source": "osm",
       "tags": {
@@ -1501,7 +1501,7 @@
     },
     {
       "id": "osm-w679907438",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Oak Street",
       "lat": 39.739905,
       "lng": -75.574873,
       "sports": [
@@ -1513,8 +1513,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Oak Street",
+      "city": "Wilmington",
       "state": "DE",
       "source": "osm",
       "tags": {
@@ -2382,7 +2382,7 @@
     },
     {
       "id": "osm-w702143158",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Seaview Drive",
       "lat": 38.553676,
       "lng": -75.058602,
       "sports": [
@@ -2395,8 +2395,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Seaview Drive",
+      "city": "Sussex County",
       "state": "DE",
       "source": "osm",
       "tags": {}
@@ -3540,7 +3540,7 @@
     },
     {
       "id": "osm-w825349063",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Schooner Drive",
       "lat": 38.550911,
       "lng": -75.069901,
       "sports": [
@@ -3552,8 +3552,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Schooner Drive",
+      "city": "Sussex County",
       "state": "DE",
       "source": "osm",
       "tags": {
@@ -3923,7 +3923,7 @@
     },
     {
       "id": "osm-w1018181865",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Broadfield Road",
       "lat": 39.657675,
       "lng": -75.725894,
       "sports": [
@@ -3935,8 +3935,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Broadfield Road",
+      "city": "Brookside",
       "state": "DE",
       "source": "osm",
       "tags": {
@@ -4201,7 +4201,7 @@
     },
     {
       "id": "osm-w1091502796",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Tockinhoe Trail",
       "lat": 38.589272,
       "lng": -75.120256,
       "sports": [
@@ -4213,8 +4213,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Tockinhoe Trail",
+      "city": "Sussex County",
       "state": "DE",
       "source": "osm",
       "tags": {
@@ -4617,7 +4617,7 @@
     },
     {
       "id": "osm-w1382656362",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Kintersburg Drive",
       "lat": 38.752639,
       "lng": -75.178302,
       "sports": [
@@ -4629,8 +4629,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kintersburg Drive",
+      "city": "Sussex County",
       "state": "DE",
       "source": "osm",
       "tags": {
@@ -5168,7 +5168,7 @@
     },
     {
       "id": "osm-w1447551672",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Hershey Run Drive",
       "lat": 39.716136,
       "lng": -75.625063,
       "sports": [
@@ -5180,8 +5180,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hershey Run Drive",
+      "city": "Belvidere",
       "state": "DE",
       "source": "osm",
       "tags": {
@@ -5317,7 +5317,7 @@
     },
     {
       "id": "osm-w1495322301",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Salt Hay Drive",
       "lat": 38.583254,
       "lng": -75.061897,
       "sports": [
@@ -5329,8 +5329,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Salt Hay Drive",
+      "city": "Sussex County",
       "state": "DE",
       "source": "osm",
       "tags": {
@@ -5785,7 +5785,7 @@
     },
     {
       "id": "osm-w1511551623",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Peninsula Esplanade",
       "lat": 38.609568,
       "lng": -75.166429,
       "sports": [
@@ -5798,15 +5798,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Peninsula Esplanade",
+      "city": "Long Neck",
       "state": "DE",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1511551776",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Dune Road",
       "lat": 38.587876,
       "lng": -75.059868,
       "sports": [
@@ -5818,8 +5818,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Dune Road",
+      "city": "Sussex County",
       "state": "DE",
       "source": "osm",
       "tags": {
@@ -6201,7 +6201,7 @@
     },
     {
       "id": "osm-w1521453755",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lynthwaite Farm Lane",
       "lat": 39.811486,
       "lng": -75.553433,
       "sports": [
@@ -6214,8 +6214,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lynthwaite Farm Lane",
+      "city": "Talleyville",
       "state": "DE",
       "source": "osm",
       "tags": {}
@@ -6306,7 +6306,7 @@
     },
     {
       "id": "osm-w1526463314",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West 32nd Street",
       "lat": 39.764516,
       "lng": -75.536054,
       "sports": [
@@ -6318,8 +6318,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 32nd Street",
+      "city": "Wilmington",
       "state": "DE",
       "source": "osm",
       "tags": {
@@ -6328,7 +6328,7 @@
     },
     {
       "id": "osm-w1526463738",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lovering Avenue",
       "lat": 39.755142,
       "lng": -75.553533,
       "sports": [
@@ -6340,8 +6340,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lovering Avenue",
+      "city": "Wilmington",
       "state": "DE",
       "source": "osm",
       "tags": {
@@ -6438,7 +6438,7 @@
     },
     {
       "id": "osm-w1553929170",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Pembrey Drive",
       "lat": 39.80652,
       "lng": -75.519162,
       "sports": [
@@ -6450,8 +6450,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Pembrey Drive",
+      "city": "Brandywood",
       "state": "DE",
       "source": "osm",
       "tags": {

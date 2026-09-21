@@ -134,7 +134,7 @@
     },
     {
       "id": "osm-n13374061173",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East Main Street",
       "lat": 35.533836,
       "lng": -76.613724,
       "sports": [
@@ -146,8 +146,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Main Street",
+      "city": "Belhaven",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -240,7 +240,7 @@
     },
     {
       "id": "osm-w32453980",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Prestonwood Parkway",
       "lat": 35.794634,
       "lng": -78.834869,
       "sports": [
@@ -252,8 +252,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Prestonwood Parkway",
+      "city": "Cary",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -684,7 +684,7 @@
     },
     {
       "id": "osm-w106435697",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Rippling Stream Road",
       "lat": 36.075821,
       "lng": -78.89966,
       "sports": [
@@ -696,8 +696,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rippling Stream Road",
+      "city": "Durham",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -909,7 +909,7 @@
     },
     {
       "id": "osm-w111520139",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cobb Drive",
       "lat": 35.912201,
       "lng": -79.045829,
       "sports": [
@@ -921,8 +921,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cobb Drive",
+      "city": "Chapel Hill",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -1714,7 +1714,7 @@
     },
     {
       "id": "osm-w167285175",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Birkdale Drive",
       "lat": 35.634921,
       "lng": -78.396288,
       "sports": [
@@ -1726,8 +1726,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Birkdale Drive",
+      "city": "Clayton",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -1813,7 +1813,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Greenville",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -2821,7 +2821,7 @@
     },
     {
       "id": "osm-w236591974",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Arnold Palmer Drive",
       "lat": 35.906549,
       "lng": -78.795421,
       "sports": [
@@ -2833,8 +2833,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Arnold Palmer Drive",
+      "city": "Raleigh",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -3307,7 +3307,7 @@
     },
     {
       "id": "osm-w251865546",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Rock Haven Road",
       "lat": 35.890904,
       "lng": -79.086623,
       "sports": [
@@ -3319,8 +3319,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rock Haven Road",
+      "city": "Carrboro",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -4132,7 +4132,7 @@
     },
     {
       "id": "osm-w282073949",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Multi-use Trail",
       "lat": 35.998896,
       "lng": -80.407459,
       "sports": [
@@ -4144,8 +4144,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Multi-use Trail",
+      "city": "Forsyth County",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -4428,7 +4428,7 @@
     },
     {
       "id": "osm-w298374310",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cromartie Street",
       "lat": 36.089735,
       "lng": -80.223263,
       "sports": [
@@ -4440,8 +4440,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cromartie Street",
+      "city": "Winston-Salem",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -4962,7 +4962,7 @@
     },
     {
       "id": "osm-w324869014",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ballantyne Lake Road",
       "lat": 35.048588,
       "lng": -80.848049,
       "sports": [
@@ -4974,8 +4974,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ballantyne Lake Road",
+      "city": "Charlotte",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -5050,7 +5050,7 @@
     },
     {
       "id": "osm-w324889724",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Coyle Circle",
       "lat": 35.047221,
       "lng": -80.841951,
       "sports": [
@@ -5062,15 +5062,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Coyle Circle",
+      "city": "Charlotte",
       "state": "NC",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w324889731",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Commons East Drive",
       "lat": 35.052753,
       "lng": -80.839295,
       "sports": [
@@ -5082,8 +5082,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Commons East Drive",
+      "city": "Charlotte",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -5478,7 +5478,7 @@
     },
     {
       "id": "osm-w351295448",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Winged Foot Drive",
       "lat": 35.704702,
       "lng": -80.49847,
       "sports": [
@@ -5490,8 +5490,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Winged Foot Drive",
+      "city": "Salisbury",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -5668,7 +5668,7 @@
     },
     {
       "id": "osm-w364455138",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bamboo Road",
       "lat": 36.191506,
       "lng": -81.63353,
       "sports": [
@@ -5680,8 +5680,8 @@
       "indoor": true,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bamboo Road",
+      "city": "Boone",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -5774,7 +5774,7 @@
     },
     {
       "id": "osm-w370968734",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Summit Ridge Loop",
       "lat": 35.813229,
       "lng": -78.822463,
       "sports": [
@@ -5786,8 +5786,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Summit Ridge Loop",
+      "city": "Morrisville",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -6056,7 +6056,7 @@
     },
     {
       "id": "osm-w397775287",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Greystone Lane",
       "lat": 35.139952,
       "lng": -82.952664,
       "sports": [
@@ -6069,8 +6069,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Greystone Lane",
+      "city": "Transylvania County",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -6353,7 +6353,7 @@
     },
     {
       "id": "osm-w408998512",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Memorial Boulevard",
       "lat": 36.006241,
       "lng": -75.653801,
       "sports": [
@@ -6365,8 +6365,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Memorial Boulevard",
+      "city": "Kill Devil Hills",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -7073,7 +7073,7 @@
     },
     {
       "id": "osm-w432383187",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Keith Road",
       "lat": 35.986005,
       "lng": -78.602372,
       "sports": [
@@ -7085,8 +7085,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Keith Road",
+      "city": "Wake County",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -7267,7 +7267,7 @@
     },
     {
       "id": "osm-w434557245",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cashlin Drive",
       "lat": 35.897616,
       "lng": -78.513451,
       "sports": [
@@ -7279,8 +7279,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cashlin Drive",
+      "city": "Raleigh",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -7333,7 +7333,7 @@
     },
     {
       "id": "osm-w435090253",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Haskins Drive",
       "lat": 34.987314,
       "lng": -80.443122,
       "sports": [
@@ -7345,8 +7345,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Haskins Drive",
+      "city": "Wingate",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -7739,7 +7739,7 @@
     },
     {
       "id": "osm-w437214599",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Shoreline Drive",
       "lat": 35.447373,
       "lng": -80.962407,
       "sports": [
@@ -7752,15 +7752,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Shoreline Drive",
+      "city": "Cowan's Ford",
       "state": "NC",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w437511773",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Jetton Road",
       "lat": 35.47016,
       "lng": -80.914594,
       "sports": [
@@ -7772,15 +7772,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Jetton Road",
+      "city": "Cornelius",
       "state": "NC",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w437700819",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Vestal Drive",
       "lat": 35.531096,
       "lng": -80.918098,
       "sports": [
@@ -7792,8 +7792,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Vestal Drive",
+      "city": "Iredell County",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -8406,7 +8406,7 @@
     },
     {
       "id": "osm-w466201021",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Stadium Drive",
       "lat": 36.503698,
       "lng": -79.728418,
       "sports": [
@@ -8418,8 +8418,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Stadium Drive",
+      "city": "Eden",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -8510,7 +8510,7 @@
     },
     {
       "id": "osm-w466464401",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Oakleaf Drive",
       "lat": 34.701589,
       "lng": -76.794439,
       "sports": [
@@ -8522,8 +8522,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Oakleaf Drive",
+      "city": "Pine Knoll Shores",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -8614,7 +8614,7 @@
     },
     {
       "id": "osm-w466820999",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Country Club Drive North",
       "lat": 35.782703,
       "lng": -77.939171,
       "sports": [
@@ -8626,8 +8626,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Country Club Drive North",
+      "city": "Wilson",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -8654,7 +8654,7 @@
     },
     {
       "id": "osm-w466933212",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hooks Avenue",
       "lat": 35.547465,
       "lng": -77.977424,
       "sports": [
@@ -8666,8 +8666,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hooks Avenue",
+      "city": "Fremont",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -9322,7 +9322,7 @@
     },
     {
       "id": "osm-w511492301",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Kentberry Drive",
       "lat": 35.305383,
       "lng": -80.944128,
       "sports": [
@@ -9334,8 +9334,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kentberry Drive",
+      "city": "Charlotte",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -9615,7 +9615,7 @@
     },
     {
       "id": "osm-w529594372",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Belvedere Drive",
       "lat": 36.100339,
       "lng": -81.85693,
       "sports": [
@@ -9627,8 +9627,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Belvedere Drive",
+      "city": "Avery County",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -9779,7 +9779,7 @@
     },
     {
       "id": "osm-w544723663",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 8th Street Southwest",
       "lat": 35.729117,
       "lng": -81.350478,
       "sports": [
@@ -9791,8 +9791,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "8th Street Southwest",
+      "city": "Hickory",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -9801,7 +9801,7 @@
     },
     {
       "id": "osm-w544723676",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 7th Avenue Southeast",
       "lat": 35.720872,
       "lng": -81.32616,
       "sports": [
@@ -9813,8 +9813,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "7th Avenue Southeast",
+      "city": "Hickory",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -9887,7 +9887,7 @@
     },
     {
       "id": "osm-w547799624",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 2nd Avenue Northwest",
       "lat": 35.73561,
       "lng": -81.392546,
       "sports": [
@@ -9899,8 +9899,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "2nd Avenue Northwest",
+      "city": "Long View",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -10299,7 +10299,7 @@
     },
     {
       "id": "osm-w556805919",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lewisville Clemmons Road",
       "lat": 36.08812,
       "lng": -80.407027,
       "sports": [
@@ -10311,8 +10311,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lewisville Clemmons Road",
+      "city": "Lewisville",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -11920,7 +11920,7 @@
     },
     {
       "id": "osm-w632175920",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bryant Farms Road",
       "lat": 35.046938,
       "lng": -80.809767,
       "sports": [
@@ -11932,8 +11932,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bryant Farms Road",
+      "city": "Charlotte",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -11964,7 +11964,7 @@
     },
     {
       "id": "osm-w635483216",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Vanka Drive",
       "lat": 36.32714,
       "lng": -80.441201,
       "sports": [
@@ -11976,8 +11976,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Vanka Drive",
+      "city": "Stokes County",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -13790,7 +13790,7 @@
     },
     {
       "id": "osm-w751689308",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Crabtree Creek Trail",
       "lat": 35.794635,
       "lng": -78.589755,
       "sports": [
@@ -13802,8 +13802,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Crabtree Creek Trail",
+      "city": "Raleigh",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -13875,7 +13875,7 @@
     },
     {
       "id": "osm-w754133569",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Golf Links Drive",
       "lat": 35.055376,
       "lng": -80.776328,
       "sports": [
@@ -13887,8 +13887,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Golf Links Drive",
+      "city": "Charlotte",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -14748,7 +14748,7 @@
     },
     {
       "id": "osm-w819191113",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Boxelder Drive",
       "lat": 35.925716,
       "lng": -78.71835,
       "sports": [
@@ -14760,8 +14760,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Boxelder Drive",
+      "city": "Leesville",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -14812,7 +14812,7 @@
     },
     {
       "id": "osm-w819996141",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Club Drive",
       "lat": 35.684297,
       "lng": -80.461501,
       "sports": [
@@ -14824,8 +14824,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Club Drive",
+      "city": "Salisbury",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -15154,7 +15154,7 @@
     },
     {
       "id": "osm-w833377989",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Streamview Drive",
       "lat": 35.442372,
       "lng": -80.884599,
       "sports": [
@@ -15166,8 +15166,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Streamview Drive",
+      "city": "Huntersville",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -15284,7 +15284,7 @@
     },
     {
       "id": "osm-w844749261",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Doster Road",
       "lat": 34.936948,
       "lng": -80.633514,
       "sports": [
@@ -15296,8 +15296,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Doster Road",
+      "city": "Mineral Springs",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -15756,7 +15756,7 @@
     },
     {
       "id": "osm-w882564602",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Skibo Road",
       "lat": 35.083466,
       "lng": -78.955973,
       "sports": [
@@ -15768,8 +15768,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Skibo Road",
+      "city": "Fayetteville",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -16227,7 +16227,7 @@
     },
     {
       "id": "osm-w907069350",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Park Road",
       "lat": 36.400016,
       "lng": -81.494741,
       "sports": [
@@ -16239,8 +16239,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Park Road",
+      "city": "West Jefferson",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -17287,7 +17287,7 @@
     },
     {
       "id": "osm-w991829372",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West 8th Street",
       "lat": 36.46289,
       "lng": -77.668452,
       "sports": [
@@ -17299,8 +17299,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 8th Street",
+      "city": "Roanoke Rapids",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -18374,7 +18374,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Mecklenburg County",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -18657,7 +18657,7 @@
     },
     {
       "id": "osm-w1086566458",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Davy Jones Court",
       "lat": 35.072293,
       "lng": -76.970934,
       "sports": [
@@ -18669,8 +18669,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Davy Jones Court",
+      "city": "Fairfield Harbour",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -19021,7 +19021,7 @@
     },
     {
       "id": "osm-w1093208986",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Wells Fargo Walking Trail",
       "lat": 35.310903,
       "lng": -80.775927,
       "sports": [
@@ -19033,8 +19033,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wells Fargo Walking Trail",
+      "city": "Charlotte",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -19278,7 +19278,7 @@
     },
     {
       "id": "osm-w1106993991",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Reflection Court",
       "lat": 33.942659,
       "lng": -78.488702,
       "sports": [
@@ -19291,8 +19291,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Reflection Court",
+      "city": "Brunswick County",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -19381,7 +19381,7 @@
     },
     {
       "id": "osm-w1118409613",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Falls Drive East",
       "lat": 35.067574,
       "lng": -83.180682,
       "sports": [
@@ -19393,8 +19393,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Falls Drive East",
+      "city": "Macon County",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -19675,7 +19675,7 @@
     },
     {
       "id": "osm-w1144117200",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Elkborn Drive",
       "lat": 35.142994,
       "lng": -81.007415,
       "sports": [
@@ -19688,8 +19688,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Elkborn Drive",
+      "city": "Mecklenburg County",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -19738,7 +19738,7 @@
     },
     {
       "id": "osm-w1151550885",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Cabin Flats Road",
       "lat": 35.425441,
       "lng": -83.08551,
       "sports": [
@@ -19750,8 +19750,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cabin Flats Road",
+      "city": "Jackson County",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -19825,7 +19825,7 @@
     },
     {
       "id": "osm-w1162054458",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ocean Trail",
       "lat": 36.363459,
       "lng": -75.825741,
       "sports": [
@@ -19838,15 +19838,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ocean Trail",
+      "city": "Corolla",
       "state": "NC",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1162392223",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Austin Street",
       "lat": 36.372607,
       "lng": -75.826283,
       "sports": [
@@ -19859,8 +19859,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Austin Street",
+      "city": "Corolla",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -20164,7 +20164,7 @@
     },
     {
       "id": "osm-w1206660923",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Welcome-Bethesda Road",
       "lat": 35.901631,
       "lng": -80.242155,
       "sports": [
@@ -20176,8 +20176,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Welcome-Bethesda Road",
+      "city": "Welcome",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -20961,7 +20961,7 @@
     },
     {
       "id": "osm-w1229188034",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Hemstead Street",
       "lat": 35.831013,
       "lng": -80.247335,
       "sports": [
@@ -20973,8 +20973,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Hemstead Street",
+      "city": "Lexington",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -21680,7 +21680,7 @@
     },
     {
       "id": "osm-w1264286222",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Well Street",
       "lat": 34.97504,
       "lng": -78.954535,
       "sports": [
@@ -21692,8 +21692,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Well Street",
+      "city": "Hope Mills",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -21964,7 +21964,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Southport",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -22632,7 +22632,7 @@
     },
     {
       "id": "osm-w1299259564",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Yorkshire Road",
       "lat": 36.104268,
       "lng": -80.305899,
       "sports": [
@@ -22644,8 +22644,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Yorkshire Road",
+      "city": "Winston-Salem",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -22820,7 +22820,7 @@
     },
     {
       "id": "osm-w1309926332",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Sherwood Drive",
       "lat": 35.41215,
       "lng": -80.844644,
       "sports": [
@@ -22833,8 +22833,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sherwood Drive",
+      "city": "Huntersville",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -23228,7 +23228,7 @@
     },
     {
       "id": "osm-w1314316169",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Edgewater Court",
       "lat": 34.662743,
       "lng": -77.05342,
       "sports": [
@@ -23241,8 +23241,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Edgewater Court",
+      "city": "Emerald Isle",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -23505,7 +23505,7 @@
     },
     {
       "id": "osm-w1315903634",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · South US Highway 19E",
       "lat": 36.012165,
       "lng": -82.021091,
       "sports": [
@@ -23517,8 +23517,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South US Highway 19E",
+      "city": "Avery County",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -24014,7 +24014,7 @@
     },
     {
       "id": "osm-w1322001406",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Nations Ford Road",
       "lat": 35.155818,
       "lng": -80.897931,
       "sports": [
@@ -24026,8 +24026,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Nations Ford Road",
+      "city": "Charlotte",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -24184,7 +24184,7 @@
     },
     {
       "id": "osm-w1323331125",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Maritime Way",
       "lat": 34.368366,
       "lng": -77.627592,
       "sports": [
@@ -24196,8 +24196,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Maritime Way",
+      "city": "Topsail Beach",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -24314,7 +24314,7 @@
     },
     {
       "id": "osm-w1323331756",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Howell Street",
       "lat": 35.599329,
       "lng": -77.37245,
       "sports": [
@@ -24326,8 +24326,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Howell Street",
+      "city": "Greenville",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -24572,7 +24572,7 @@
     },
     {
       "id": "osm-w1323365207",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Toxaway Shores",
       "lat": 35.142841,
       "lng": -82.948252,
       "sports": [
@@ -24584,8 +24584,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Toxaway Shores",
+      "city": "Transylvania County",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -24594,7 +24594,7 @@
     },
     {
       "id": "osm-w1323372455",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Brown Street",
       "lat": 34.821595,
       "lng": -79.182068,
       "sports": [
@@ -24606,8 +24606,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Brown Street",
+      "city": "Red Springs",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -24748,7 +24748,7 @@
     },
     {
       "id": "osm-w1327140293",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Country Lane",
       "lat": 35.207955,
       "lng": -82.737864,
       "sports": [
@@ -24760,8 +24760,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Country Lane",
+      "city": "Transylvania County",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -24812,7 +24812,7 @@
     },
     {
       "id": "osm-w1328880218",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bragg Street",
       "lat": 35.468403,
       "lng": -79.154772,
       "sports": [
@@ -24825,8 +24825,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bragg Street",
+      "city": "Sanford",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -25030,7 +25030,7 @@
     },
     {
       "id": "osm-w1331113990",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Meadow Lane",
       "lat": 36.280501,
       "lng": -75.799852,
       "sports": [
@@ -25043,8 +25043,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Meadow Lane",
+      "city": "Corolla",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -25946,7 +25946,7 @@
     },
     {
       "id": "osm-w1346184176",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Elmore Street",
       "lat": 35.356136,
       "lng": -81.930636,
       "sports": [
@@ -25958,15 +25958,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Elmore Street",
+      "city": "Spindale",
       "state": "NC",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1349065752",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bullard Street",
       "lat": 35.23467,
       "lng": -80.903248,
       "sports": [
@@ -25978,8 +25978,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bullard Street",
+      "city": "Charlotte",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -26008,7 +26008,7 @@
     },
     {
       "id": "osm-w1353509874",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hamilton Drive",
       "lat": 34.22283,
       "lng": -77.878379,
       "sports": [
@@ -26020,8 +26020,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hamilton Drive",
+      "city": "Wilmington",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -26212,7 +26212,7 @@
     },
     {
       "id": "osm-w1354309634",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Concord Road",
       "lat": 35.382454,
       "lng": -80.30901,
       "sports": [
@@ -26224,8 +26224,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Concord Road",
+      "city": "Stanly County",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -26828,7 +26828,7 @@
     },
     {
       "id": "osm-w1356434500",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Macmillan Avenue",
       "lat": 34.218983,
       "lng": -77.879162,
       "sports": [
@@ -26840,8 +26840,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Macmillan Avenue",
+      "city": "Wilmington",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -26890,7 +26890,7 @@
     },
     {
       "id": "osm-w1356436319",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Par Drive",
       "lat": 35.277507,
       "lng": -77.60099,
       "sports": [
@@ -26903,8 +26903,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Par Drive",
+      "city": "Kinston",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -27057,7 +27057,7 @@
     },
     {
       "id": "osm-w1356639665",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Waterbrook Way Southwest",
       "lat": 33.912211,
       "lng": -78.467957,
       "sports": [
@@ -27069,8 +27069,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Waterbrook Way Southwest",
+      "city": "Brunswick County",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -27562,7 +27562,7 @@
     },
     {
       "id": "osm-w1356803344",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Rivage Promenade",
       "lat": 34.115752,
       "lng": -77.905586,
       "sports": [
@@ -27574,8 +27574,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rivage Promenade",
+      "city": "New Hanover County",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -27622,7 +27622,7 @@
     },
     {
       "id": "osm-w1356849578",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Spring Street",
       "lat": 36.099186,
       "lng": -78.299276,
       "sports": [
@@ -27634,8 +27634,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Spring Street",
+      "city": "Louisburg",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -27904,7 +27904,7 @@
     },
     {
       "id": "osm-w1356856600",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Walton Drive",
       "lat": 34.221248,
       "lng": -77.868658,
       "sports": [
@@ -27916,8 +27916,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Walton Drive",
+      "city": "Wilmington",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -28314,7 +28314,7 @@
     },
     {
       "id": "osm-w1356859950",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Thermal Road",
       "lat": 35.155056,
       "lng": -80.757215,
       "sports": [
@@ -28326,8 +28326,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Thermal Road",
+      "city": "Charlotte",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -28356,7 +28356,7 @@
     },
     {
       "id": "osm-w1356860293",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · US 701",
       "lat": 35.451884,
       "lng": -78.387815,
       "sports": [
@@ -28368,8 +28368,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "US 701",
+      "city": "Four Oaks",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -28654,7 +28654,7 @@
     },
     {
       "id": "osm-w1377818630",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Country Club Road",
       "lat": 35.429721,
       "lng": -82.580429,
       "sports": [
@@ -28667,8 +28667,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Country Club Road",
+      "city": "Mills River",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -28863,7 +28863,7 @@
     },
     {
       "id": "osm-w1395034857",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Atkins Circle Drive",
       "lat": 35.067113,
       "lng": -80.84859,
       "sports": [
@@ -28875,8 +28875,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Atkins Circle Drive",
+      "city": "Charlotte",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -29012,7 +29012,7 @@
     },
     {
       "id": "osm-w1412121244",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Quail Ridge Boulevard",
       "lat": 35.460725,
       "lng": -82.192584,
       "sports": [
@@ -29024,8 +29024,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Quail Ridge Boulevard",
+      "city": "Lake Lure",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -29161,7 +29161,7 @@
     },
     {
       "id": "osm-w1412413030",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Merner Terrace",
       "lat": 35.483989,
       "lng": -80.278324,
       "sports": [
@@ -29173,8 +29173,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Merner Terrace",
+      "city": "Misenheimer",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -29430,7 +29430,7 @@
     },
     {
       "id": "osm-w1415455542",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Whorton Harbor 3",
       "lat": 35.107734,
       "lng": -76.636706,
       "sports": [
@@ -29442,8 +29442,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Whorton Harbor 3",
+      "city": "Pamlico County",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -29559,7 +29559,7 @@
     },
     {
       "id": "osm-w1416738321",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Burke Court",
       "lat": 34.448644,
       "lng": -77.602865,
       "sports": [
@@ -29571,8 +29571,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Burke Court",
+      "city": "Surf City",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -30006,7 +30006,7 @@
     },
     {
       "id": "osm-w1426124196",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Prosperity Commons Drive",
       "lat": 35.374599,
       "lng": -80.783994,
       "sports": [
@@ -30018,8 +30018,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Prosperity Commons Drive",
+      "city": "Charlotte",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -30599,7 +30599,7 @@
     },
     {
       "id": "osm-w1434526853",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bethlehem Park Lane",
       "lat": 35.837223,
       "lng": -81.305534,
       "sports": [
@@ -30611,8 +30611,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bethlehem Park Lane",
+      "city": "Alexander County",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -30767,7 +30767,7 @@
     },
     {
       "id": "osm-w1437046623",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Juniper Creek Boulevard",
       "lat": 35.217148,
       "lng": -79.436046,
       "sports": [
@@ -30779,8 +30779,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Juniper Creek Boulevard",
+      "city": "Pinehurst",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -31270,7 +31270,7 @@
     },
     {
       "id": "osm-w1442978592",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Oceanic Drive",
       "lat": 33.953916,
       "lng": -78.130784,
       "sports": [
@@ -31283,8 +31283,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Oceanic Drive",
+      "city": "St. James",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -31753,7 +31753,7 @@
     },
     {
       "id": "osm-w1445294224",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · US 15;US 501",
       "lat": 35.098919,
       "lng": -79.427025,
       "sports": [
@@ -31765,8 +31765,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "US 15;US 501",
+      "city": "Moore County",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -31900,7 +31900,7 @@
     },
     {
       "id": "osm-w1446374368",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · New Castle Drive",
       "lat": 35.921423,
       "lng": -79.007743,
       "sports": [
@@ -31913,8 +31913,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "New Castle Drive",
+      "city": "Chapel Hill",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -32027,7 +32027,7 @@
     },
     {
       "id": "osm-w1446638923",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Skylark Lane",
       "lat": 36.074437,
       "lng": -81.894024,
       "sports": [
@@ -32039,8 +32039,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Skylark Lane",
+      "city": "Linville",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -32049,7 +32049,7 @@
     },
     {
       "id": "osm-w1447067184",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Conover City Park Trail",
       "lat": 35.699992,
       "lng": -81.218365,
       "sports": [
@@ -32061,8 +32061,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Conover City Park Trail",
+      "city": "Conover",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -32084,7 +32084,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "New Hanover County",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -32093,7 +32093,7 @@
     },
     {
       "id": "osm-w1447176248",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Davis Nursing Home Road",
       "lat": 34.295537,
       "lng": -77.770786,
       "sports": [
@@ -32105,8 +32105,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Davis Nursing Home Road",
+      "city": "New Hanover County",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -32115,7 +32115,7 @@
     },
     {
       "id": "osm-w1447181336",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · St James Drive Southeast",
       "lat": 33.957219,
       "lng": -78.088446,
       "sports": [
@@ -32127,8 +32127,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "St James Drive Southeast",
+      "city": "St. James",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -32155,7 +32155,7 @@
     },
     {
       "id": "osm-w1447184059",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Gate Drive",
       "lat": 34.210145,
       "lng": -78.01378,
       "sports": [
@@ -32167,8 +32167,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Gate Drive",
+      "city": "Leland",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -32511,7 +32511,7 @@
     },
     {
       "id": "osm-w1450374711",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Rafee Drive",
       "lat": 35.143796,
       "lng": -80.877591,
       "sports": [
@@ -32523,8 +32523,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rafee Drive",
+      "city": "Charlotte",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -32639,7 +32639,7 @@
     },
     {
       "id": "osm-w1452860966",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wembley Road",
       "lat": 35.639713,
       "lng": -82.556821,
       "sports": [
@@ -32651,15 +32651,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wembley Road",
+      "city": "Asheville",
       "state": "NC",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1453541714",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Elk Mountain Scenic Highway",
       "lat": 35.640874,
       "lng": -82.549522,
       "sports": [
@@ -32671,8 +32671,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Elk Mountain Scenic Highway",
+      "city": "Asheville",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -32999,7 +32999,7 @@
     },
     {
       "id": "osm-w1457616402",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Peacock Lane",
       "lat": 35.250907,
       "lng": -80.635394,
       "sports": [
@@ -33011,8 +33011,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Peacock Lane",
+      "city": "Mecklenburg County",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -33360,7 +33360,7 @@
     },
     {
       "id": "osm-w1468124063",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fort Hugar Way",
       "lat": 35.933711,
       "lng": -75.723156,
       "sports": [
@@ -33373,15 +33373,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fort Hugar Way",
+      "city": "Dare County",
       "state": "NC",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1468124159",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · UV Way",
       "lat": 36.281489,
       "lng": -76.21592,
       "sports": [
@@ -33393,8 +33393,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "UV Way",
+      "city": "Elizabeth City",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -33421,7 +33421,7 @@
     },
     {
       "id": "osm-w1468607626",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · NC 801",
       "lat": 36.004388,
       "lng": -80.438097,
       "sports": [
@@ -33433,8 +33433,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "NC 801",
+      "city": "Bermuda Run",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -33483,7 +33483,7 @@
     },
     {
       "id": "osm-w1469964006",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Clayton Boulevard",
       "lat": 35.63323,
       "lng": -78.438313,
       "sports": [
@@ -33495,8 +33495,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Clayton Boulevard",
+      "city": "Clayton",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -33588,7 +33588,7 @@
     },
     {
       "id": "osm-w1472860324",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Waterpine Drive",
       "lat": 35.607337,
       "lng": -78.581772,
       "sports": [
@@ -33600,8 +33600,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Waterpine Drive",
+      "city": "Johnston County",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -34420,7 +34420,7 @@
     },
     {
       "id": "osm-w1474235962",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · State Road 1412",
       "lat": 36.453483,
       "lng": -78.990795,
       "sports": [
@@ -34432,8 +34432,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "State Road 1412",
+      "city": "Person County",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -34838,7 +34838,7 @@
     },
     {
       "id": "osm-w1476669408",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Old Trail Drive",
       "lat": 36.121061,
       "lng": -78.864637,
       "sports": [
@@ -34851,8 +34851,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Old Trail Drive",
+      "city": "Durham",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -34881,7 +34881,7 @@
     },
     {
       "id": "osm-w1476670383",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Farm Gate Avenue",
       "lat": 36.031463,
       "lng": -78.948991,
       "sports": [
@@ -34893,8 +34893,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Farm Gate Avenue",
+      "city": "Durham",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -35072,7 +35072,7 @@
     },
     {
       "id": "osm-w1476688560",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Mountain Laurel",
       "lat": 35.781034,
       "lng": -79.058911,
       "sports": [
@@ -35085,8 +35085,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mountain Laurel",
+      "city": "Chatham County",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -35134,7 +35134,7 @@
     },
     {
       "id": "osm-w1479838004",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Lakeledge Road",
       "lat": 36.203957,
       "lng": -81.877003,
       "sports": [
@@ -35146,15 +35146,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lakeledge Road",
+      "city": "Beech Mountain",
       "state": "NC",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1479954160",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Middle Crest Drive NE",
       "lat": 34.059051,
       "lng": -78.176176,
       "sports": [
@@ -35166,8 +35166,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Middle Crest Drive NE",
+      "city": "Brunswick County",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -35260,7 +35260,7 @@
     },
     {
       "id": "osm-w1481190513",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Irongate Drive",
       "lat": 34.997692,
       "lng": -79.010948,
       "sports": [
@@ -35272,8 +35272,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Irongate Drive",
+      "city": "Cumberland County",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -35344,7 +35344,7 @@
     },
     {
       "id": "osm-w1481250945",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Golf Club Wynd",
       "lat": 35.640202,
       "lng": -77.449849,
       "sports": [
@@ -35356,8 +35356,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Golf Club Wynd",
+      "city": "Greenville",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -35366,7 +35366,7 @@
     },
     {
       "id": "osm-w1481251280",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Morris Bbq Road",
       "lat": 35.419316,
       "lng": -77.581842,
       "sports": [
@@ -35379,15 +35379,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Morris Bbq Road",
+      "city": "Greene County",
       "state": "NC",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1481251798",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Eden Place",
       "lat": 35.361145,
       "lng": -77.993178,
       "sports": [
@@ -35400,8 +35400,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Eden Place",
+      "city": "Goldsboro",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -35448,7 +35448,7 @@
     },
     {
       "id": "osm-w1481252661",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Four Wood Drive",
       "lat": 35.061956,
       "lng": -78.755965,
       "sports": [
@@ -35460,8 +35460,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Four Wood Drive",
+      "city": "Cumberland County",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -35855,7 +35855,7 @@
     },
     {
       "id": "osm-w1481260899",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Mountain Cove Drive",
       "lat": 35.339457,
       "lng": -80.949854,
       "sports": [
@@ -35868,8 +35868,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mountain Cove Drive",
+      "city": "Charlotte",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -35960,7 +35960,7 @@
     },
     {
       "id": "osm-w1481408281",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Clubhouse Drive",
       "lat": 35.111211,
       "lng": -77.111724,
       "sports": [
@@ -35972,8 +35972,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Clubhouse Drive",
+      "city": "New Bern",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -36213,7 +36213,7 @@
     },
     {
       "id": "osm-w1481451819",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Coastal Bight Lane",
       "lat": 35.749,
       "lng": -78.584214,
       "sports": [
@@ -36225,8 +36225,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Coastal Bight Lane",
+      "city": "Raleigh",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -36255,7 +36255,7 @@
     },
     {
       "id": "osm-w1481572074",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Providence Country Club Drive",
       "lat": 35.04171,
       "lng": -80.779636,
       "sports": [
@@ -36267,15 +36267,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Providence Country Club Drive",
+      "city": "Charlotte",
       "state": "NC",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1482080786",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Pineview Road",
       "lat": 36.317966,
       "lng": -78.436619,
       "sports": [
@@ -36288,8 +36288,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pineview Road",
+      "city": "Henderson",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -36680,7 +36680,7 @@
     },
     {
       "id": "osm-w1482613964",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Colony Place Southwest",
       "lat": 33.880971,
       "lng": -78.536878,
       "sports": [
@@ -36692,8 +36692,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Colony Place Southwest",
+      "city": "Sunset Beach",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -36724,7 +36724,7 @@
     },
     {
       "id": "osm-w1482691218",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Oak Trail",
       "lat": 35.680835,
       "lng": -78.50189,
       "sports": [
@@ -36736,8 +36736,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Oak Trail",
+      "city": "Wake County",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -37101,7 +37101,7 @@
     },
     {
       "id": "osm-w1482934493",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Gable Ridge Lane",
       "lat": 35.65422,
       "lng": -78.809025,
       "sports": [
@@ -37113,8 +37113,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Gable Ridge Lane",
+      "city": "Holly Springs",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -37455,7 +37455,7 @@
     },
     {
       "id": "osm-w1483122533",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Quail Ridge Drive",
       "lat": 35.390232,
       "lng": -79.237698,
       "sports": [
@@ -37468,15 +37468,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Quail Ridge Drive",
+      "city": "Lee County",
       "state": "NC",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1483123434",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Chelsea Drive",
       "lat": 35.432078,
       "lng": -79.112314,
       "sports": [
@@ -37488,8 +37488,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Chelsea Drive",
+      "city": "Lee County",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -37498,7 +37498,7 @@
     },
     {
       "id": "osm-w1483123528",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Irish Boulevard",
       "lat": 35.429027,
       "lng": -79.105005,
       "sports": [
@@ -37511,15 +37511,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Irish Boulevard",
+      "city": "Lee County",
       "state": "NC",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1483124060",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Argyll Drive",
       "lat": 35.42456,
       "lng": -79.115368,
       "sports": [
@@ -37531,8 +37531,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Argyll Drive",
+      "city": "Lee County",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -37564,7 +37564,7 @@
     },
     {
       "id": "osm-w1483124607",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Forest Creek Drive",
       "lat": 35.229275,
       "lng": -79.425693,
       "sports": [
@@ -37577,15 +37577,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Forest Creek Drive",
+      "city": "Southern Pines",
       "state": "NC",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1483124856",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Woodland Drive",
       "lat": 35.217201,
       "lng": -79.414419,
       "sports": [
@@ -37598,8 +37598,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Woodland Drive",
+      "city": "Southern Pines",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -37673,7 +37673,7 @@
     },
     {
       "id": "osm-w1483455540",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Country Club Drive",
       "lat": 35.700414,
       "lng": -79.472241,
       "sports": [
@@ -37686,8 +37686,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Country Club Drive",
+      "city": "Chatham County",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -38064,7 +38064,7 @@
     },
     {
       "id": "osm-w1484178538",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Fairway Drive",
       "lat": 36.09217,
       "lng": -79.489811,
       "sports": [
@@ -38077,8 +38077,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Fairway Drive",
+      "city": "Burlington",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -38371,7 +38371,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Davidson County",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -38398,7 +38398,7 @@
     },
     {
       "id": "osm-w1484413004",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Tanglewood Avenue",
       "lat": 36.009662,
       "lng": -80.003378,
       "sports": [
@@ -38410,8 +38410,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": true,
-      "address": null,
-      "city": null,
+      "address": "Tanglewood Avenue",
+      "city": "High Point",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -38737,7 +38737,7 @@
     },
     {
       "id": "osm-w1484648833",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · High Point Greenway",
       "lat": 35.971244,
       "lng": -80.008514,
       "sports": [
@@ -38749,8 +38749,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "High Point Greenway",
+      "city": "High Point",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -38777,7 +38777,7 @@
     },
     {
       "id": "osm-w1486119421",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Baltusrol Lane",
       "lat": 34.999693,
       "lng": -80.834744,
       "sports": [
@@ -38789,15 +38789,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Baltusrol Lane",
+      "city": "Marvin",
       "state": "NC",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1486119479",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Firethorne Club Drive",
       "lat": 35.003885,
       "lng": -80.827326,
       "sports": [
@@ -38809,8 +38809,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Firethorne Club Drive",
+      "city": "Marvin",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -38895,7 +38895,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Union County",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -38924,7 +38924,7 @@
     },
     {
       "id": "osm-w1486120695",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Kilberry Lane",
       "lat": 35.075322,
       "lng": -80.811085,
       "sports": [
@@ -38936,8 +38936,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kilberry Lane",
+      "city": "Charlotte",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -39493,7 +39493,7 @@
     },
     {
       "id": "osm-w1491018763",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Bald Head Wynd",
       "lat": 33.861859,
       "lng": -78.005304,
       "sports": [
@@ -39505,8 +39505,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Bald Head Wynd",
+      "city": "Bald Head Island",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -39598,7 +39598,7 @@
     },
     {
       "id": "osm-w1491122083",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bombay Road",
       "lat": 35.630136,
       "lng": -80.103146,
       "sports": [
@@ -39610,8 +39610,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bombay Road",
+      "city": "Denton",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -39708,7 +39708,7 @@
     },
     {
       "id": "osm-w1491355188",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Country Club Road",
       "lat": 36.40366,
       "lng": -80.99713,
       "sports": [
@@ -39721,8 +39721,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Country Club Road",
+      "city": "Alleghany County",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -39961,7 +39961,7 @@
     },
     {
       "id": "osm-w1491473361",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wimbledon Drive",
       "lat": 36.407122,
       "lng": -80.984278,
       "sports": [
@@ -39974,8 +39974,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wimbledon Drive",
+      "city": "Alleghany County",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -40299,7 +40299,7 @@
     },
     {
       "id": "osm-w1491513481",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Abbey Circle",
       "lat": 35.579791,
       "lng": -82.506474,
       "sports": [
@@ -40311,8 +40311,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Abbey Circle",
+      "city": "Asheville",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -40467,7 +40467,7 @@
     },
     {
       "id": "osm-w1491522156",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Club View Drive",
       "lat": 35.292668,
       "lng": -82.513811,
       "sports": [
@@ -40479,8 +40479,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Club View Drive",
+      "city": "Henderson County",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -40843,7 +40843,7 @@
     },
     {
       "id": "osm-w1492636073",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Colonial Club Drive",
       "lat": 35.876498,
       "lng": -80.033503,
       "sports": [
@@ -40855,8 +40855,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Colonial Club Drive",
+      "city": "Trinity",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -40967,7 +40967,7 @@
     },
     {
       "id": "osm-w1493301244",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Pinewild Drive",
       "lat": 35.201709,
       "lng": -79.510266,
       "sports": [
@@ -40980,8 +40980,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pinewild Drive",
+      "city": "Pinehurst",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -41073,7 +41073,7 @@
     },
     {
       "id": "osm-w1493308338",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bayport Lane",
       "lat": 35.546004,
       "lng": -80.929031,
       "sports": [
@@ -41085,8 +41085,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bayport Lane",
+      "city": "Iredell County",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -41385,7 +41385,7 @@
     },
     {
       "id": "osm-w1494101393",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hopewell Road",
       "lat": 35.721821,
       "lng": -81.706037,
       "sports": [
@@ -41397,8 +41397,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hopewell Road",
+      "city": "Morganton",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -41425,7 +41425,7 @@
     },
     {
       "id": "osm-w1494101663",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Oakhill Park Drive",
       "lat": 35.904193,
       "lng": -81.416812,
       "sports": [
@@ -41437,8 +41437,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Oakhill Park Drive",
+      "city": "Caldwell County",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -42348,7 +42348,7 @@
     },
     {
       "id": "osm-w1495698855",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Oak Valley Boulevard",
       "lat": 35.983937,
       "lng": -80.433447,
       "sports": [
@@ -42361,15 +42361,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Oak Valley Boulevard",
+      "city": "Davie County",
       "state": "NC",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1495699134",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Multi-use Trail",
       "lat": 36.000716,
       "lng": -80.407026,
       "sports": [
@@ -42381,8 +42381,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Multi-use Trail",
+      "city": "Forsyth County",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -42491,7 +42491,7 @@
     },
     {
       "id": "osm-w1495703087",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Claude Freeman Drive",
       "lat": 35.341226,
       "lng": -80.756614,
       "sports": [
@@ -42503,8 +42503,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Claude Freeman Drive",
+      "city": "Charlotte",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -42599,7 +42599,7 @@
     },
     {
       "id": "osm-w1495706450",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cochran Castle Circle",
       "lat": 35.194696,
       "lng": -79.437111,
       "sports": [
@@ -42611,15 +42611,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cochran Castle Circle",
+      "city": "Southern Pines",
       "state": "NC",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1495707615",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cedar Rock Estate Drive",
       "lat": 35.945456,
       "lng": -81.461179,
       "sports": [
@@ -42631,8 +42631,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cedar Rock Estate Drive",
+      "city": "Cedar Rock",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -42957,7 +42957,7 @@
     },
     {
       "id": "osm-w1495876652",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Birdie Lane",
       "lat": 35.737277,
       "lng": -81.175241,
       "sports": [
@@ -42970,8 +42970,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Birdie Lane",
+      "city": "Conover",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -42998,7 +42998,7 @@
     },
     {
       "id": "osm-w1495877356",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West J Street",
       "lat": 35.650852,
       "lng": -81.229626,
       "sports": [
@@ -43011,8 +43011,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West J Street",
+      "city": "Newton",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -43103,7 +43103,7 @@
     },
     {
       "id": "osm-w1495947828",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Raintree Lane",
       "lat": 35.086017,
       "lng": -80.786578,
       "sports": [
@@ -43115,8 +43115,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Raintree Lane",
+      "city": "Charlotte",
       "state": "NC",
       "source": "osm",
       "tags": {}
@@ -43226,7 +43226,7 @@
     },
     {
       "id": "osm-w1498136247",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Blairhill Road",
       "lat": 35.195345,
       "lng": -80.882402,
       "sports": [
@@ -43238,8 +43238,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Blairhill Road",
+      "city": "Charlotte",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -43525,7 +43525,7 @@
     },
     {
       "id": "osm-w1513102290",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Pennycress Drive",
       "lat": 34.200069,
       "lng": -78.104218,
       "sports": [
@@ -43537,8 +43537,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pennycress Drive",
+      "city": "Leland",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -43611,7 +43611,7 @@
     },
     {
       "id": "osm-w1518299218",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · South Lakeshore Drive",
       "lat": 35.260814,
       "lng": -79.374553,
       "sports": [
@@ -43623,8 +43623,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Lakeshore Drive",
+      "city": "Whispering Pines",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -43731,7 +43731,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Greensboro",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -44148,7 +44148,7 @@
     },
     {
       "id": "osm-w1536704451",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Archdale Drive",
       "lat": 35.151936,
       "lng": -80.884037,
       "sports": [
@@ -44160,8 +44160,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Archdale Drive",
+      "city": "Charlotte",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -44192,7 +44192,7 @@
     },
     {
       "id": "osm-w1540177236",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Weston Court",
       "lat": 35.192525,
       "lng": -79.422537,
       "sports": [
@@ -44205,8 +44205,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Weston Court",
+      "city": "Southern Pines",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -44281,7 +44281,7 @@
     },
     {
       "id": "osm-w1547093042",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Racquet Club Drive",
       "lat": 36.258335,
       "lng": -75.789503,
       "sports": [
@@ -44293,15 +44293,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Racquet Club Drive",
+      "city": "Corolla",
       "state": "NC",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1548842738",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Cleveland nature trail",
       "lat": 35.736395,
       "lng": -80.670037,
       "sports": [
@@ -44313,8 +44313,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cleveland nature trail",
+      "city": "Rowan County",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -44365,7 +44365,7 @@
     },
     {
       "id": "osm-w1550563352",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Concord Mills",
       "lat": 35.359197,
       "lng": -80.69021,
       "sports": [
@@ -44378,7 +44378,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Concord",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -44516,7 +44516,7 @@
     },
     {
       "id": "osm-w1553863183",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Waters Drive",
       "lat": 35.216783,
       "lng": -79.377355,
       "sports": [
@@ -44528,8 +44528,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Waters Drive",
+      "city": "Southern Pines",
       "state": "NC",
       "source": "osm",
       "tags": {
@@ -44538,7 +44538,7 @@
     },
     {
       "id": "osm-w1554829394",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ridge Road",
       "lat": 35.197138,
       "lng": -79.393734,
       "sports": [
@@ -44550,8 +44550,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ridge Road",
+      "city": "Southern Pines",
       "state": "NC",
       "source": "osm",
       "tags": {

@@ -130,7 +130,7 @@
     },
     {
       "id": "osm-w25509338",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Starvine Way",
       "lat": 33.797584,
       "lng": -84.308429,
       "sports": [
@@ -142,8 +142,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Starvine Way",
+      "city": "Atlanta",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -236,7 +236,7 @@
     },
     {
       "id": "osm-w34772782",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · White Oak Drive",
       "lat": 33.389655,
       "lng": -84.718989,
       "sports": [
@@ -248,8 +248,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "White Oak Drive",
+      "city": "Coweta County",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -685,7 +685,7 @@
     },
     {
       "id": "osm-w93729000",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Boulevard Northeast",
       "lat": 33.758419,
       "lng": -84.372547,
       "sports": [
@@ -697,8 +697,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Boulevard Northeast",
+      "city": "Atlanta",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -769,7 +769,7 @@
     },
     {
       "id": "osm-w106446328",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fowler Street Northwest",
       "lat": 33.775307,
       "lng": -84.393679,
       "sports": [
@@ -781,8 +781,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fowler Street Northwest",
+      "city": "Atlanta",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -1382,7 +1382,7 @@
     },
     {
       "id": "osm-w177931200",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Jefferson Court",
       "lat": 34.089945,
       "lng": -84.240248,
       "sports": [
@@ -1394,8 +1394,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Jefferson Court",
+      "city": "Alpharetta",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -2003,7 +2003,7 @@
     },
     {
       "id": "osm-w199253999",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Mathis Airport Road",
       "lat": 34.086299,
       "lng": -84.160248,
       "sports": [
@@ -2015,8 +2015,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mathis Airport Road",
+      "city": "Forsyth County",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -2067,7 +2067,7 @@
     },
     {
       "id": "osm-w208274757",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Waterstone Drive",
       "lat": 34.143226,
       "lng": -84.125453,
       "sports": [
@@ -2079,8 +2079,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Waterstone Drive",
+      "city": "Forsyth County",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -2155,7 +2155,7 @@
     },
     {
       "id": "osm-w208289970",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Melrose Trace",
       "lat": 34.135462,
       "lng": -84.150745,
       "sports": [
@@ -2167,8 +2167,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Melrose Trace",
+      "city": "Forsyth County",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -2620,7 +2620,7 @@
     },
     {
       "id": "osm-w231827430",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Golf Circle Northeast",
       "lat": 33.800763,
       "lng": -84.376981,
       "sports": [
@@ -2633,8 +2633,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Golf Circle Northeast",
+      "city": "Atlanta",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -3581,7 +3581,7 @@
     },
     {
       "id": "osm-w301359486",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · River Forest Drive",
       "lat": 33.125859,
       "lng": -83.988514,
       "sports": [
@@ -3593,15 +3593,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "River Forest Drive",
+      "city": "Monroe County",
       "state": "GA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w301418448",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ramsey Court",
       "lat": 33.553411,
       "lng": -82.1083,
       "sports": [
@@ -3613,8 +3613,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ramsey Court",
+      "city": "Evans",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -3623,7 +3623,7 @@
     },
     {
       "id": "osm-w301423759",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North River Oaks Drive",
       "lat": 31.267822,
       "lng": -82.354046,
       "sports": [
@@ -3636,8 +3636,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North River Oaks Drive",
+      "city": "Pierce County",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -4416,7 +4416,7 @@
     },
     {
       "id": "osm-w317313622",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Stonegate Drive",
       "lat": 31.579246,
       "lng": -84.279005,
       "sports": [
@@ -4428,8 +4428,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Stonegate Drive",
+      "city": "Dougherty County",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -4668,7 +4668,7 @@
     },
     {
       "id": "osm-w327443640",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Clay Road Southwest",
       "lat": 33.834305,
       "lng": -84.607254,
       "sports": [
@@ -4680,8 +4680,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Clay Road Southwest",
+      "city": "Mableton",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -5314,7 +5314,7 @@
     },
     {
       "id": "osm-w358552817",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fox Road",
       "lat": 34.067676,
       "lng": -84.215427,
       "sports": [
@@ -5327,8 +5327,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fox Road",
+      "city": "Johns Creek",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -5561,7 +5561,7 @@
     },
     {
       "id": "osm-w372206772",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Baytree Road",
       "lat": 30.846184,
       "lng": -83.293206,
       "sports": [
@@ -5573,8 +5573,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Baytree Road",
+      "city": "Valdosta",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -6213,7 +6213,7 @@
     },
     {
       "id": "osm-w392657659",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Brendlynn Drive",
       "lat": 34.085974,
       "lng": -84.103826,
       "sports": [
@@ -6225,8 +6225,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Brendlynn Drive",
+      "city": "Gwinnett County",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -6299,7 +6299,7 @@
     },
     {
       "id": "osm-w393291144",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Highland Gate Circle",
       "lat": 34.093091,
       "lng": -84.093904,
       "sports": [
@@ -6311,8 +6311,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Highland Gate Circle",
+      "city": "Gwinnett County",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -6529,7 +6529,7 @@
     },
     {
       "id": "osm-w393484267",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Olde Atlanta Parkway",
       "lat": 34.081176,
       "lng": -84.123697,
       "sports": [
@@ -6541,8 +6541,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Olde Atlanta Parkway",
+      "city": "Forsyth County",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -6571,7 +6571,7 @@
     },
     {
       "id": "osm-w393484401",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wentworth Drive",
       "lat": 34.068328,
       "lng": -84.143543,
       "sports": [
@@ -6583,8 +6583,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wentworth Drive",
+      "city": "Forsyth County",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -6631,7 +6631,7 @@
     },
     {
       "id": "osm-w393485243",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cabana Drive",
       "lat": 34.031529,
       "lng": -84.183621,
       "sports": [
@@ -6643,8 +6643,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cabana Drive",
+      "city": "Johns Creek",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -6695,7 +6695,7 @@
     },
     {
       "id": "osm-w393485419",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cooper Farm Way",
       "lat": 34.05221,
       "lng": -84.18861,
       "sports": [
@@ -6707,8 +6707,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cooper Farm Way",
+      "city": "Johns Creek",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -7187,7 +7187,7 @@
     },
     {
       "id": "osm-w393488192",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Glen Moore Road",
       "lat": 34.024661,
       "lng": -84.282817,
       "sports": [
@@ -7199,8 +7199,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Glen Moore Road",
+      "city": "Roswell",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -7249,7 +7249,7 @@
     },
     {
       "id": "osm-w393489247",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Riverside Road",
       "lat": 34.002617,
       "lng": -84.328712,
       "sports": [
@@ -7261,8 +7261,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Riverside Road",
+      "city": "Roswell",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -7291,7 +7291,7 @@
     },
     {
       "id": "osm-w393489305",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · River Run Northeast",
       "lat": 34.001121,
       "lng": -84.359402,
       "sports": [
@@ -7303,8 +7303,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "River Run Northeast",
+      "city": "Sandy Springs",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -8103,7 +8103,7 @@
     },
     {
       "id": "osm-w393568435",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Heatherton Road",
       "lat": 34.028529,
       "lng": -83.919756,
       "sports": [
@@ -8115,8 +8115,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Heatherton Road",
+      "city": "Gwinnett County",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -8147,7 +8147,7 @@
     },
     {
       "id": "osm-w393568561",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bent Tree Drive",
       "lat": 34.019237,
       "lng": -83.911168,
       "sports": [
@@ -8159,8 +8159,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bent Tree Drive",
+      "city": "Gwinnett County",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -8794,7 +8794,7 @@
     },
     {
       "id": "osm-w395678438",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wildwood Road",
       "lat": 34.014284,
       "lng": -84.075071,
       "sports": [
@@ -8806,8 +8806,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wildwood Road",
+      "city": "Gwinnett County",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -9158,7 +9158,7 @@
     },
     {
       "id": "osm-w396449533",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wellington Ridge",
       "lat": 33.908926,
       "lng": -84.110923,
       "sports": [
@@ -9171,7 +9171,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Luxomni",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -9544,7 +9544,7 @@
     },
     {
       "id": "osm-w397501664",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Dr. Martin Luther King, Junior Avenue",
       "lat": 33.572106,
       "lng": -83.845445,
       "sports": [
@@ -9556,8 +9556,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Dr. Martin Luther King, Junior Avenue",
+      "city": "Newton County",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -10388,7 +10388,7 @@
     },
     {
       "id": "osm-w399265347",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fischer Road",
       "lat": 33.468084,
       "lng": -84.662171,
       "sports": [
@@ -10400,8 +10400,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fischer Road",
+      "city": "Coweta County",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -10430,7 +10430,7 @@
     },
     {
       "id": "osm-w399265361",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Shaw Road",
       "lat": 33.477933,
       "lng": -84.657549,
       "sports": [
@@ -10442,8 +10442,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Shaw Road",
+      "city": "Coweta County",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -11359,7 +11359,7 @@
     },
     {
       "id": "osm-w420400382",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Mountpark Drive",
       "lat": 33.940441,
       "lng": -84.696384,
       "sports": [
@@ -11371,8 +11371,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mountpark Drive",
+      "city": "Cobb County",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -11611,7 +11611,7 @@
     },
     {
       "id": "osm-w446746702",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Veterans Memorial Highway",
       "lat": 33.742679,
       "lng": -84.767798,
       "sports": [
@@ -11624,8 +11624,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Veterans Memorial Highway",
+      "city": "Douglasville",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -11652,7 +11652,7 @@
     },
     {
       "id": "osm-w448580681",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Golf Ridge Boulevard",
       "lat": 33.716887,
       "lng": -84.72412,
       "sports": [
@@ -11664,8 +11664,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Golf Ridge Boulevard",
+      "city": "Douglasville",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -11867,7 +11867,7 @@
     },
     {
       "id": "osm-w453308374",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Creek Water Crossing",
       "lat": 34.201565,
       "lng": -83.852017,
       "sports": [
@@ -11879,8 +11879,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Creek Water Crossing",
+      "city": "Hall County",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -12037,7 +12037,7 @@
     },
     {
       "id": "osm-w464230754",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Peachtree Forest Avenue",
       "lat": 33.964968,
       "lng": -84.244232,
       "sports": [
@@ -12050,8 +12050,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Peachtree Forest Avenue",
+      "city": "Peachtree Corners",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -12254,7 +12254,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Roswell",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -12385,7 +12385,7 @@
     },
     {
       "id": "osm-w477137001",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Deer Run Trails",
       "lat": 34.108008,
       "lng": -84.538902,
       "sports": [
@@ -12398,7 +12398,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Woodstock",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -12713,7 +12713,7 @@
     },
     {
       "id": "osm-w490494983",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Main Street",
       "lat": 32.420714,
       "lng": -81.79551,
       "sports": [
@@ -12725,8 +12725,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Main Street",
+      "city": "Statesboro",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -12795,7 +12795,7 @@
     },
     {
       "id": "osm-w490903116",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Twin Pine Road Northwest",
       "lat": 33.535128,
       "lng": -82.510549,
       "sports": [
@@ -12807,8 +12807,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Twin Pine Road Northwest",
+      "city": "McDuffie County",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -12881,7 +12881,7 @@
     },
     {
       "id": "osm-w491196333",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Club Road",
       "lat": 32.43008,
       "lng": -81.82046,
       "sports": [
@@ -12893,8 +12893,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Club Road",
+      "city": "Bulloch County",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -13249,7 +13249,7 @@
     },
     {
       "id": "osm-w493323707",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Garners Ferry",
       "lat": 33.472277,
       "lng": -83.255864,
       "sports": [
@@ -13261,8 +13261,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Garners Ferry",
+      "city": "Lake Oconee",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -13417,7 +13417,7 @@
     },
     {
       "id": "osm-w493940422",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · National Way",
       "lat": 33.569843,
       "lng": -85.021542,
       "sports": [
@@ -13429,15 +13429,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "National Way",
+      "city": "Carrollton",
       "state": "GA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w494255263",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Overlook Approach",
       "lat": 33.371925,
       "lng": -84.732089,
       "sports": [
@@ -13449,8 +13449,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Overlook Approach",
+      "city": "Newnan",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -13629,7 +13629,7 @@
     },
     {
       "id": "osm-w495508686",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lakeside Trail",
       "lat": 34.028656,
       "lng": -83.385357,
       "sports": [
@@ -13641,8 +13641,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lakeside Trail",
+      "city": "Athens",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -14223,7 +14223,7 @@
     },
     {
       "id": "osm-w536746273",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Baker Street Northeast",
       "lat": 33.761897,
       "lng": -84.383107,
       "sports": [
@@ -14235,8 +14235,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Baker Street Northeast",
+      "city": "Atlanta",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -14267,7 +14267,7 @@
     },
     {
       "id": "osm-w536906500",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lake Boulevard",
       "lat": 33.848201,
       "lng": -84.348103,
       "sports": [
@@ -14279,8 +14279,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lake Boulevard",
+      "city": "Brookhaven",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -14736,7 +14736,7 @@
     },
     {
       "id": "osm-w549235644",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Neely Farm Drive",
       "lat": 33.980078,
       "lng": -84.253588,
       "sports": [
@@ -14748,8 +14748,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Neely Farm Drive",
+      "city": "Peachtree Corners",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -15821,7 +15821,7 @@
     },
     {
       "id": "osm-w602291187",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Park & Rec Road",
       "lat": 34.633319,
       "lng": -83.753976,
       "sports": [
@@ -15833,8 +15833,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Park & Rec Road",
+      "city": "Yonah",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -16752,7 +16752,7 @@
     },
     {
       "id": "osm-w642028696",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Links View Drive",
       "lat": 34.127961,
       "lng": -84.073682,
       "sports": [
@@ -16764,8 +16764,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Links View Drive",
+      "city": "Sugar Hill",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -17612,7 +17612,7 @@
     },
     {
       "id": "osm-w667243647",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Sugarloaf Club Drive",
       "lat": 34.002252,
       "lng": -84.113759,
       "sports": [
@@ -17624,8 +17624,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sugarloaf Club Drive",
+      "city": "Gwinnett County",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -17848,7 +17848,7 @@
     },
     {
       "id": "osm-w679241691",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Gardner Street",
       "lat": 33.481988,
       "lng": -82.012941,
       "sports": [
@@ -17860,8 +17860,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Gardner Street",
+      "city": "Augusta",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -18164,7 +18164,7 @@
     },
     {
       "id": "osm-w688246902",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Laurel Springs Parkway",
       "lat": 34.089229,
       "lng": -84.154511,
       "sports": [
@@ -18176,8 +18176,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Laurel Springs Parkway",
+      "city": "Forsyth County",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -19355,7 +19355,7 @@
     },
     {
       "id": "osm-w768020514",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Candler Lake East Northeast",
       "lat": 33.912615,
       "lng": -84.320905,
       "sports": [
@@ -19367,8 +19367,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Candler Lake East Northeast",
+      "city": "Brookhaven",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -21311,7 +21311,7 @@
     },
     {
       "id": "osm-w827219913",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Valhalla Drive",
       "lat": 30.836715,
       "lng": -83.323927,
       "sports": [
@@ -21323,8 +21323,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Valhalla Drive",
+      "city": "Lowndes County",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -21397,7 +21397,7 @@
     },
     {
       "id": "osm-w829394937",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lake Boulevard Northeast",
       "lat": 33.849227,
       "lng": -84.347338,
       "sports": [
@@ -21409,8 +21409,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lake Boulevard Northeast",
+      "city": "Brookhaven",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -22191,7 +22191,7 @@
     },
     {
       "id": "osm-w846942465",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Dolphin Way",
       "lat": 33.582425,
       "lng": -82.132451,
       "sports": [
@@ -22203,8 +22203,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Dolphin Way",
+      "city": "Evans",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -22695,7 +22695,7 @@
     },
     {
       "id": "osm-w872788222",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Carrington Way",
       "lat": 34.167192,
       "lng": -84.443423,
       "sports": [
@@ -22707,8 +22707,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Carrington Way",
+      "city": "Cherokee County",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -25151,7 +25151,7 @@
     },
     {
       "id": "osm-w982156889",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Willow Lake Drive",
       "lat": 32.415216,
       "lng": -82.073692,
       "sports": [
@@ -25163,8 +25163,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Willow Lake Drive",
+      "city": "Metter",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -25407,7 +25407,7 @@
     },
     {
       "id": "osm-w988569782",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Main Street",
       "lat": 34.937783,
       "lng": -83.848021,
       "sports": [
@@ -25419,8 +25419,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Main Street",
+      "city": "Young Harris",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -28082,7 +28082,7 @@
     },
     {
       "id": "osm-w1015657818",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Grove Hill Court Northwest",
       "lat": 33.973275,
       "lng": -84.246391,
       "sports": [
@@ -28094,8 +28094,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Grove Hill Court Northwest",
+      "city": "Peachtree Corners",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -28298,7 +28298,7 @@
     },
     {
       "id": "osm-w1015833320",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wake Forest Run",
       "lat": 34.044368,
       "lng": -84.195048,
       "sports": [
@@ -28310,8 +28310,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wake Forest Run",
+      "city": "Johns Creek",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -28490,7 +28490,7 @@
     },
     {
       "id": "osm-w1017013970",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Sky Valley Way",
       "lat": 34.981201,
       "lng": -83.319653,
       "sports": [
@@ -28502,8 +28502,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sky Valley Way",
+      "city": "Sky Valley",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -30425,7 +30425,7 @@
     },
     {
       "id": "osm-w1029481326",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · William Smith Boulevard",
       "lat": 33.518164,
       "lng": -82.178837,
       "sports": [
@@ -30438,8 +30438,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "William Smith Boulevard",
+      "city": "Columbia County",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -30459,7 +30459,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Gwinnett County",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -30829,7 +30829,7 @@
     },
     {
       "id": "osm-w1036283040",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Haddenham Drive",
       "lat": 34.128764,
       "lng": -84.163805,
       "sports": [
@@ -30841,8 +30841,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Haddenham Drive",
+      "city": "Forsyth County",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -31159,7 +31159,7 @@
     },
     {
       "id": "osm-w1039194950",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Graham Way",
       "lat": 33.865773,
       "lng": -84.087149,
       "sports": [
@@ -31171,8 +31171,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Graham Way",
+      "city": "Mountain Park",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -31307,7 +31307,7 @@
     },
     {
       "id": "osm-w1044342616",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Spring Park Circle",
       "lat": 34.070305,
       "lng": -84.101093,
       "sports": [
@@ -31319,8 +31319,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Spring Park Circle",
+      "city": "Gwinnett County",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -31539,7 +31539,7 @@
     },
     {
       "id": "osm-w1044806245",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Chamblee Gap Road",
       "lat": 34.232423,
       "lng": -84.203969,
       "sports": [
@@ -31551,8 +31551,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Chamblee Gap Road",
+      "city": "Forsyth County",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -31777,7 +31777,7 @@
     },
     {
       "id": "osm-w1045114935",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Hickory Flat Highway",
       "lat": 34.181304,
       "lng": -84.434776,
       "sports": [
@@ -31789,8 +31789,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hickory Flat Highway",
+      "city": "Cherokee County",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -31921,7 +31921,7 @@
     },
     {
       "id": "osm-w1045119697",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Brookhollow Drive",
       "lat": 33.717533,
       "lng": -84.713843,
       "sports": [
@@ -31933,8 +31933,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Brookhollow Drive",
+      "city": "Douglasville",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -32050,7 +32050,7 @@
     },
     {
       "id": "osm-w1047525769",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cedarwood Drive Southwest",
       "lat": 33.861876,
       "lng": -84.109724,
       "sports": [
@@ -32062,8 +32062,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cedarwood Drive Southwest",
+      "city": "Mountain Park",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -32798,7 +32798,7 @@
     },
     {
       "id": "osm-w1054517546",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Blue Sky Drive",
       "lat": 33.339061,
       "lng": -84.19477,
       "sports": [
@@ -32810,8 +32810,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Blue Sky Drive",
+      "city": "Henry County",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -32988,7 +32988,7 @@
     },
     {
       "id": "osm-w1056064674",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Riversong Court Northwest",
       "lat": 34.033662,
       "lng": -84.102393,
       "sports": [
@@ -33000,8 +33000,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Riversong Court Northwest",
+      "city": "Gwinnett County",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -33409,7 +33409,7 @@
     },
     {
       "id": "osm-w1056944329",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Misty View Drive",
       "lat": 34.266751,
       "lng": -84.516898,
       "sports": [
@@ -33422,8 +33422,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Misty View Drive",
+      "city": "Canton",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -34070,7 +34070,7 @@
     },
     {
       "id": "osm-w1060286579",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Chatuge Drive",
       "lat": 34.085983,
       "lng": -83.759576,
       "sports": [
@@ -34082,8 +34082,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Chatuge Drive",
+      "city": "Hoschton",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -34372,7 +34372,7 @@
     },
     {
       "id": "osm-w1061894898",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Tributary Way",
       "lat": 34.018584,
       "lng": -83.91964,
       "sports": [
@@ -34384,8 +34384,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Tributary Way",
+      "city": "Gwinnett County",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -35752,7 +35752,7 @@
     },
     {
       "id": "osm-w1082513281",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Brookstone Way",
       "lat": 34.142028,
       "lng": -83.904412,
       "sports": [
@@ -35764,8 +35764,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Brookstone Way",
+      "city": "Flowery Branch",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -35830,7 +35830,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Braselton",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -35859,7 +35859,7 @@
     },
     {
       "id": "osm-w1082517478",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Auburn Gate Lane",
       "lat": 34.008185,
       "lng": -83.844429,
       "sports": [
@@ -35872,8 +35872,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Auburn Gate Lane",
+      "city": "Auburn",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -35986,7 +35986,7 @@
     },
     {
       "id": "osm-w1083056502",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Pine Grove Road",
       "lat": 34.111273,
       "lng": -84.19744,
       "sports": [
@@ -35998,8 +35998,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pine Grove Road",
+      "city": "Forsyth County",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -36028,7 +36028,7 @@
     },
     {
       "id": "osm-w1083057792",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lower Birmingham Road",
       "lat": 34.170639,
       "lng": -84.401898,
       "sports": [
@@ -36040,8 +36040,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lower Birmingham Road",
+      "city": "Cherokee County",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -36408,7 +36408,7 @@
     },
     {
       "id": "osm-w1086447813",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fall Branch Lane",
       "lat": 34.11425,
       "lng": -83.904917,
       "sports": [
@@ -36421,8 +36421,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fall Branch Lane",
+      "city": "Hall County",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -36536,7 +36536,7 @@
     },
     {
       "id": "osm-w1088080394",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Rosemont Drive",
       "lat": 33.710287,
       "lng": -84.71526,
       "sports": [
@@ -36548,8 +36548,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rosemont Drive",
+      "city": "Douglasville",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -37066,7 +37066,7 @@
     },
     {
       "id": "osm-w1096784778",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Burke Veterans Parkway",
       "lat": 33.075762,
       "lng": -81.994705,
       "sports": [
@@ -37078,8 +37078,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Burke Veterans Parkway",
+      "city": "Burke County",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -37342,7 +37342,7 @@
     },
     {
       "id": "osm-w1098931583",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Sanctuary Wynd",
       "lat": 31.111473,
       "lng": -81.589718,
       "sports": [
@@ -37354,8 +37354,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sanctuary Wynd",
+      "city": "Camden County",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -37558,7 +37558,7 @@
     },
     {
       "id": "osm-w1099354717",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wolf Club Drive",
       "lat": 33.671371,
       "lng": -84.578767,
       "sports": [
@@ -37570,8 +37570,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wolf Club Drive",
+      "city": "South Fulton",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -38600,7 +38600,7 @@
     },
     {
       "id": "osm-w1104448865",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Village View Circle",
       "lat": 33.830673,
       "lng": -83.902847,
       "sports": [
@@ -38612,8 +38612,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Village View Circle",
+      "city": "Loganville",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -38644,7 +38644,7 @@
     },
     {
       "id": "osm-w1105011735",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Charrwood Trace",
       "lat": 33.997811,
       "lng": -84.433767,
       "sports": [
@@ -38656,8 +38656,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Charrwood Trace",
+      "city": "Cobb County",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -38728,7 +38728,7 @@
     },
     {
       "id": "osm-w1105086672",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Clubside View Court Southwest",
       "lat": 33.821572,
       "lng": -84.025649,
       "sports": [
@@ -38740,15 +38740,15 @@
       "indoor": true,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Clubside View Court Southwest",
+      "city": "Centerville",
       "state": "GA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1105142832",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Heritage Boulevard",
       "lat": 33.741775,
       "lng": -83.745489,
       "sports": [
@@ -38761,8 +38761,8 @@
       "indoor": true,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Heritage Boulevard",
+      "city": "Walton County",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -39402,7 +39402,7 @@
     },
     {
       "id": "osm-w1113004988",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Garrison Court",
       "lat": 34.146984,
       "lng": -84.117195,
       "sports": [
@@ -39414,8 +39414,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Garrison Court",
+      "city": "Forsyth County",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -39424,7 +39424,7 @@
     },
     {
       "id": "osm-w1113138935",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Town Hall Terrace",
       "lat": 34.113769,
       "lng": -83.863983,
       "sports": [
@@ -39436,8 +39436,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Town Hall Terrace",
+      "city": "Hall County",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -39570,7 +39570,7 @@
     },
     {
       "id": "osm-w1118890895",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Knob Creek Road",
       "lat": 33.871537,
       "lng": -83.996692,
       "sports": [
@@ -39582,8 +39582,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Knob Creek Road",
+      "city": "Snellville",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -40088,7 +40088,7 @@
     },
     {
       "id": "osm-w1123746496",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Springer Mountain Drive",
       "lat": 34.262474,
       "lng": -84.524677,
       "sports": [
@@ -40101,8 +40101,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Springer Mountain Drive",
+      "city": "Canton",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -40709,7 +40709,7 @@
     },
     {
       "id": "osm-w1132618225",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Cedar Woods Way",
       "lat": 34.187774,
       "lng": -84.548277,
       "sports": [
@@ -40721,8 +40721,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cedar Woods Way",
+      "city": "Cherokee County",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -41161,7 +41161,7 @@
     },
     {
       "id": "osm-w1150357219",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Spring Hill Parkway Southeast",
       "lat": 33.876883,
       "lng": -84.475967,
       "sports": [
@@ -41173,8 +41173,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Spring Hill Parkway Southeast",
+      "city": "Vinings",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -41335,7 +41335,7 @@
     },
     {
       "id": "osm-w1151065267",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Providence Club Drive",
       "lat": 33.899027,
       "lng": -83.768307,
       "sports": [
@@ -41347,8 +41347,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Providence Club Drive",
+      "city": "Walton County",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -41463,7 +41463,7 @@
     },
     {
       "id": "osm-w1152777627",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Grimes Bridge Landing",
       "lat": 34.014755,
       "lng": -84.342893,
       "sports": [
@@ -41475,8 +41475,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Grimes Bridge Landing",
+      "city": "Roswell",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -41897,7 +41897,7 @@
     },
     {
       "id": "osm-w1155876117",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Denali Drive",
       "lat": 34.273677,
       "lng": -84.468384,
       "sports": [
@@ -41910,8 +41910,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Denali Drive",
+      "city": "Canton",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -42282,7 +42282,7 @@
     },
     {
       "id": "osm-w1159397754",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fiddlehead Court",
       "lat": 34.147391,
       "lng": -84.142068,
       "sports": [
@@ -42294,8 +42294,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fiddlehead Court",
+      "city": "Forsyth County",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -42971,7 +42971,7 @@
     },
     {
       "id": "osm-w1163356796",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Towne Lake Hill East",
       "lat": 34.118536,
       "lng": -84.552055,
       "sports": [
@@ -42983,8 +42983,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Towne Lake Hill East",
+      "city": "Deer Run at Towne Lake",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -44059,7 +44059,7 @@
     },
     {
       "id": "osm-w1192242605",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 405",
       "lat": 33.367025,
       "lng": -84.540299,
       "sports": [
@@ -44071,8 +44071,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "405",
+      "city": "Peachtree City",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -44495,7 +44495,7 @@
     },
     {
       "id": "osm-w1194962112",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Graham Campbell Lane",
       "lat": 33.934808,
       "lng": -83.625127,
       "sports": [
@@ -44508,8 +44508,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Graham Campbell Lane",
+      "city": "Barrow County",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -44529,7 +44529,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Barrow County",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -45093,7 +45093,7 @@
     },
     {
       "id": "osm-w1207323131",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Niblick Court",
       "lat": 31.212523,
       "lng": -81.377358,
       "sports": [
@@ -45105,15 +45105,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Niblick Court",
+      "city": "Glynn County",
       "state": "GA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1207323145",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Demere Road",
       "lat": 31.159428,
       "lng": -81.392934,
       "sports": [
@@ -45125,8 +45125,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Demere Road",
+      "city": "St. Simons",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -45567,7 +45567,7 @@
     },
     {
       "id": "osm-w1214250813",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Post Road",
       "lat": 34.202683,
       "lng": -84.218773,
       "sports": [
@@ -45579,8 +45579,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Post Road",
+      "city": "Forsyth County",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -46016,7 +46016,7 @@
     },
     {
       "id": "osm-w1221822986",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cumberland Court",
       "lat": 33.874855,
       "lng": -84.478988,
       "sports": [
@@ -46028,8 +46028,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cumberland Court",
+      "city": "Vinings",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -46060,7 +46060,7 @@
     },
     {
       "id": "osm-w1223204898",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Mount Vernon Drive",
       "lat": 34.518545,
       "lng": -84.936438,
       "sports": [
@@ -46073,8 +46073,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mount Vernon Drive",
+      "city": "Calhoun",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -46158,7 +46158,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Hiram",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -46920,7 +46920,7 @@
     },
     {
       "id": "osm-w1250177373",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Flat Creek Road",
       "lat": 33.412422,
       "lng": -84.575494,
       "sports": [
@@ -46932,8 +46932,8 @@
       "indoor": null,
       "access": "customers",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Flat Creek Road",
+      "city": "Peachtree City",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -47952,7 +47952,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Skidaway Island",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -48111,7 +48111,7 @@
     },
     {
       "id": "osm-w1284547058",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ferncrest Place",
       "lat": 33.682852,
       "lng": -84.675321,
       "sports": [
@@ -48123,15 +48123,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ferncrest Place",
+      "city": "Douglas County",
       "state": "GA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1284550324",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Grady Street",
       "lat": 34.31794,
       "lng": -84.549321,
       "sports": [
@@ -48143,8 +48143,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Grady Street",
+      "city": "Waleska",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -48195,7 +48195,7 @@
     },
     {
       "id": "osm-w1287029926",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Oconee Shores Parkway",
       "lat": 33.488282,
       "lng": -83.257785,
       "sports": [
@@ -48207,8 +48207,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Oconee Shores Parkway",
+      "city": "Greene County",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -48260,7 +48260,7 @@
     },
     {
       "id": "osm-w1288489641",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Crabapple Road",
       "lat": 34.700365,
       "lng": -83.455996,
       "sports": [
@@ -48273,8 +48273,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Crabapple Road",
+      "city": "Habersham County",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -48713,7 +48713,7 @@
     },
     {
       "id": "osm-w1295832455",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Desota Street Southeast",
       "lat": 34.296798,
       "lng": -83.809179,
       "sports": [
@@ -48725,8 +48725,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Desota Street Southeast",
+      "city": "Gainesville",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -48886,7 +48886,7 @@
     },
     {
       "id": "osm-w1300097069",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Wallace Road",
       "lat": 34.086244,
       "lng": -83.942045,
       "sports": [
@@ -48898,8 +48898,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wallace Road",
+      "city": "Gwinnett County",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -49191,7 +49191,7 @@
     },
     {
       "id": "osm-w1308504044",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · US 41;GA 19",
       "lat": 32.987855,
       "lng": -83.883774,
       "sports": [
@@ -49203,8 +49203,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "US 41;GA 19",
+      "city": "Monroe County",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -49559,7 +49559,7 @@
     },
     {
       "id": "osm-w1314958757",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Eagle Watch Drive",
       "lat": 34.138212,
       "lng": -84.560237,
       "sports": [
@@ -49571,8 +49571,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Eagle Watch Drive",
+      "city": "Cherokee County",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -49775,7 +49775,7 @@
     },
     {
       "id": "osm-w1315282123",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cross Court Drive",
       "lat": 33.478063,
       "lng": -82.070087,
       "sports": [
@@ -49788,8 +49788,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cross Court Drive",
+      "city": "Augusta",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -49880,7 +49880,7 @@
     },
     {
       "id": "osm-w1315728887",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Robertson Street",
       "lat": 33.037404,
       "lng": -85.006961,
       "sports": [
@@ -49892,8 +49892,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Robertson Street",
+      "city": "LaGrange",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -50094,7 +50094,7 @@
     },
     {
       "id": "osm-w1318153797",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Stilesboro Road",
       "lat": 33.986724,
       "lng": -84.622634,
       "sports": [
@@ -50106,8 +50106,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Stilesboro Road",
+      "city": "Cobb County",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -50236,7 +50236,7 @@
     },
     {
       "id": "osm-w1320062940",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Amberwood Drive",
       "lat": 34.14401,
       "lng": -84.565956,
       "sports": [
@@ -50248,8 +50248,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Amberwood Drive",
+      "city": "Cherokee County",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -50426,7 +50426,7 @@
     },
     {
       "id": "osm-w1321480003",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Canongate Parkway",
       "lat": 33.74676,
       "lng": -84.890043,
       "sports": [
@@ -50438,8 +50438,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Canongate Parkway",
+      "city": "Villa Rica",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -52094,7 +52094,7 @@
     },
     {
       "id": "osm-w1334499628",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Newland Street",
       "lat": 34.282458,
       "lng": -85.239632,
       "sports": [
@@ -52107,8 +52107,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Newland Street",
+      "city": "Rome",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -53343,7 +53343,7 @@
     },
     {
       "id": "osm-w1334982174",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fairway Drive",
       "lat": 34.126252,
       "lng": -84.557801,
       "sports": [
@@ -53355,8 +53355,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fairway Drive",
+      "city": "Deer Run at Towne Lake",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -55945,7 +55945,7 @@
     },
     {
       "id": "osm-w1376881657",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · McCollum Parkway Northwest",
       "lat": 34.035926,
       "lng": -84.59198,
       "sports": [
@@ -55957,8 +55957,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "McCollum Parkway Northwest",
+      "city": "Cobb County",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -56650,7 +56650,7 @@
     },
     {
       "id": "osm-w1393557719",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Glen Ridge Drive",
       "lat": 33.864818,
       "lng": -84.107841,
       "sports": [
@@ -56662,15 +56662,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Glen Ridge Drive",
+      "city": "Mountain Park",
       "state": "GA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1393557796",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Five Forks Trickum Road",
       "lat": 33.875085,
       "lng": -84.077385,
       "sports": [
@@ -56682,8 +56682,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Five Forks Trickum Road",
+      "city": "Five Forks",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -56714,7 +56714,7 @@
     },
     {
       "id": "osm-w1394241102",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hanover West Drive Northwest",
       "lat": 33.823015,
       "lng": -84.433352,
       "sports": [
@@ -56726,8 +56726,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hanover West Drive Northwest",
+      "city": "Atlanta",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -56736,7 +56736,7 @@
     },
     {
       "id": "osm-w1396124874",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hampton Mill Parkway",
       "lat": 33.686345,
       "lng": -84.72405,
       "sports": [
@@ -56748,8 +56748,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hampton Mill Parkway",
+      "city": "Douglas County",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -57257,7 +57257,7 @@
     },
     {
       "id": "osm-w1417977973",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Damar Road Northeast",
       "lat": 33.971246,
       "lng": -84.536838,
       "sports": [
@@ -57269,8 +57269,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Damar Road Northeast",
+      "city": "Marietta",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -57279,7 +57279,7 @@
     },
     {
       "id": "osm-w1417977975",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Damar Road Northeast",
       "lat": 33.972513,
       "lng": -84.538226,
       "sports": [
@@ -57291,8 +57291,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Damar Road Northeast",
+      "city": "Marietta",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -57961,7 +57961,7 @@
     },
     {
       "id": "osm-w1427367606",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Stonelake Trail Southwest",
       "lat": 33.858598,
       "lng": -84.066731,
       "sports": [
@@ -57973,8 +57973,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Stonelake Trail Southwest",
+      "city": "Gwinnett County",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -58091,7 +58091,7 @@
     },
     {
       "id": "osm-w1429142964",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Turner McDonald Parkway",
       "lat": 34.008376,
       "lng": -84.334863,
       "sports": [
@@ -58103,8 +58103,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Turner McDonald Parkway",
+      "city": "Sandy Springs",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -58113,7 +58113,7 @@
     },
     {
       "id": "osm-w1429169135",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Poplar Street",
       "lat": 33.892987,
       "lng": -84.134196,
       "sports": [
@@ -58125,15 +58125,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Poplar Street",
+      "city": "Lilburn",
       "state": "GA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1429352799",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Heron Pointe View",
       "lat": 34.184241,
       "lng": -84.549191,
       "sports": [
@@ -58146,8 +58146,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Heron Pointe View",
+      "city": "Cherokee County",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -58433,7 +58433,7 @@
     },
     {
       "id": "osm-w1432482255",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · River North Boulevard",
       "lat": 32.941036,
       "lng": -83.660168,
       "sports": [
@@ -58446,8 +58446,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "River North Boulevard",
+      "city": "Jones County",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -58688,7 +58688,7 @@
     },
     {
       "id": "osm-w1436973185",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Northlake Drive",
       "lat": 33.405457,
       "lng": -84.580919,
       "sports": [
@@ -58700,8 +58700,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northlake Drive",
+      "city": "Peachtree City",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -58752,7 +58752,7 @@
     },
     {
       "id": "osm-w1441756749",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Boxwood Estates",
       "lat": 32.475906,
       "lng": -84.938599,
       "sports": [
@@ -58765,7 +58765,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Columbus",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -58906,7 +58906,7 @@
     },
     {
       "id": "osm-w1442878205",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Pearl Nix Parkway",
       "lat": 34.301873,
       "lng": -83.847034,
       "sports": [
@@ -58918,8 +58918,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pearl Nix Parkway",
+      "city": "Gainesville",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -58988,7 +58988,7 @@
     },
     {
       "id": "osm-w1443732737",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bridgewater Drive Southwest",
       "lat": 33.882204,
       "lng": -84.129202,
       "sports": [
@@ -59000,8 +59000,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bridgewater Drive Southwest",
+      "city": "Lilburn",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -59262,7 +59262,7 @@
     },
     {
       "id": "osm-w1445677492",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Crestlane Drive Southeast",
       "lat": 33.875663,
       "lng": -84.484294,
       "sports": [
@@ -59275,8 +59275,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Crestlane Drive Southeast",
+      "city": "Vinings",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -59305,7 +59305,7 @@
     },
     {
       "id": "osm-w1445692175",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Parian Ridge Road Northwest",
       "lat": 33.860518,
       "lng": -84.443986,
       "sports": [
@@ -59317,8 +59317,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Parian Ridge Road Northwest",
+      "city": "Atlanta",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -59858,7 +59858,7 @@
     },
     {
       "id": "osm-w1452564781",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fairway Drive",
       "lat": 33.58379,
       "lng": -83.839293,
       "sports": [
@@ -59870,8 +59870,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fairway Drive",
+      "city": "Covington",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -60006,7 +60006,7 @@
     },
     {
       "id": "osm-w1456774804",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lakeview Drive Southwest",
       "lat": 33.991598,
       "lng": -83.742215,
       "sports": [
@@ -60019,15 +60019,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lakeview Drive Southwest",
+      "city": "Winder",
       "state": "GA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1457503433",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Westchester Club Drive",
       "lat": 33.837168,
       "lng": -84.823682,
       "sports": [
@@ -60039,8 +60039,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Westchester Club Drive",
+      "city": "Hiram",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -60174,7 +60174,7 @@
     },
     {
       "id": "osm-w1458935668",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Chelsea Park Drive Northeast",
       "lat": 33.972177,
       "lng": -84.453724,
       "sports": [
@@ -60186,8 +60186,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Chelsea Park Drive Northeast",
+      "city": "Cobb County",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -60209,7 +60209,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Warner Robins",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -60280,7 +60280,7 @@
     },
     {
       "id": "osm-w1460637141",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Old Highway 3",
       "lat": 33.409375,
       "lng": -84.287756,
       "sports": [
@@ -60292,8 +60292,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Old Highway 3",
+      "city": "Henry County",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -60322,7 +60322,7 @@
     },
     {
       "id": "osm-w1460869790",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Running Deer Parkway",
       "lat": 34.11059,
       "lng": -84.542654,
       "sports": [
@@ -60334,8 +60334,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Running Deer Parkway",
+      "city": "Woodstock",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -60362,7 +60362,7 @@
     },
     {
       "id": "osm-w1461746806",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Ridgewater Drive Northeast",
       "lat": 33.962922,
       "lng": -84.446232,
       "sports": [
@@ -60374,8 +60374,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ridgewater Drive Northeast",
+      "city": "Cobb County",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -61098,7 +61098,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Woodstock",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -61207,7 +61207,7 @@
     },
     {
       "id": "osm-w1468528838",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Talley Crossing",
       "lat": 34.000704,
       "lng": -83.330276,
       "sports": [
@@ -61219,8 +61219,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Talley Crossing",
+      "city": "Athens",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -61269,7 +61269,7 @@
     },
     {
       "id": "osm-w1469326124",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Goshen Valley Trail",
       "lat": 34.39842,
       "lng": -84.589801,
       "sports": [
@@ -61281,8 +61281,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Goshen Valley Trail",
+      "city": "Cherokee County",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -62376,7 +62376,7 @@
     },
     {
       "id": "osm-w1487221562",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Clipper Bay Road",
       "lat": 31.230823,
       "lng": -81.586347,
       "sports": [
@@ -62388,8 +62388,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Clipper Bay Road",
+      "city": "Glynn County",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -62693,7 +62693,7 @@
     },
     {
       "id": "osm-w1488069317",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Romerly Road",
       "lat": 31.943659,
       "lng": -81.02908,
       "sports": [
@@ -62705,8 +62705,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Romerly Road",
+      "city": "Skidaway Island",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -62755,7 +62755,7 @@
     },
     {
       "id": "osm-w1488407962",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Westcross Road",
       "lat": 31.930275,
       "lng": -81.064161,
       "sports": [
@@ -62767,8 +62767,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Westcross Road",
+      "city": "Skidaway Island",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -62884,7 +62884,7 @@
     },
     {
       "id": "osm-w1488441200",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Birdsong Trail",
       "lat": 30.743487,
       "lng": -81.620874,
       "sports": [
@@ -62896,15 +62896,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Birdsong Trail",
+      "city": "St. Marys",
       "state": "GA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1488641181",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Highgate Lane",
       "lat": 31.932038,
       "lng": -81.053013,
       "sports": [
@@ -62917,8 +62917,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Highgate Lane",
+      "city": "Skidaway Island",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -63008,7 +63008,7 @@
     },
     {
       "id": "osm-w1489457283",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Birkdale Drive",
       "lat": 33.379465,
       "lng": -84.510506,
       "sports": [
@@ -63021,8 +63021,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Birkdale Drive",
+      "city": "Fayette County",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -63254,7 +63254,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Chattanooga",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -63349,7 +63349,7 @@
     },
     {
       "id": "osm-w1493479505",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Mountain Trace",
       "lat": 34.024959,
       "lng": -84.409785,
       "sports": [
@@ -63361,8 +63361,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mountain Trace",
+      "city": "Cobb County",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -63474,7 +63474,7 @@
     },
     {
       "id": "osm-w1493992640",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Talmadge Way",
       "lat": 34.066973,
       "lng": -84.735608,
       "sports": [
@@ -63486,8 +63486,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Talmadge Way",
+      "city": "Cobb County",
       "state": "GA",
       "source": "osm",
       "tags": {}
@@ -64168,7 +64168,7 @@
     },
     {
       "id": "osm-w1495639784",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Clubhouse Drive",
       "lat": 34.082929,
       "lng": -84.220846,
       "sports": [
@@ -64180,8 +64180,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Clubhouse Drive",
+      "city": "Alpharetta",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -65890,7 +65890,7 @@
     },
     {
       "id": "osm-w1496600535",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Johns Creek Greenway",
       "lat": 34.056631,
       "lng": -84.177224,
       "sports": [
@@ -65903,15 +65903,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Johns Creek Greenway",
+      "city": "Johns Creek",
       "state": "GA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1498089676",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Plum Nelly Road",
       "lat": 33.934532,
       "lng": -83.406983,
       "sports": [
@@ -65923,8 +65923,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Plum Nelly Road",
+      "city": "Athens",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -66016,7 +66016,7 @@
     },
     {
       "id": "osm-w1501612360",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Interstate North Parkway Trail",
       "lat": 33.894196,
       "lng": -84.461115,
       "sports": [
@@ -66028,8 +66028,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Interstate North Parkway Trail",
+      "city": "Vinings",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -66782,7 +66782,7 @@
     },
     {
       "id": "osm-w1512532917",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Hidden Harbor Drive",
       "lat": 34.24312,
       "lng": -83.9187,
       "sports": [
@@ -66794,8 +66794,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hidden Harbor Drive",
+      "city": "Hall County",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -67236,7 +67236,7 @@
     },
     {
       "id": "osm-w1514662413",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Peachtree Boulevard",
       "lat": 33.892129,
       "lng": -84.308031,
       "sports": [
@@ -67248,8 +67248,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Peachtree Boulevard",
+      "city": "Chamblee",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -67302,7 +67302,7 @@
     },
     {
       "id": "osm-w1515050166",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · River Mill Circle",
       "lat": 34.00764,
       "lng": -84.355363,
       "sports": [
@@ -67314,8 +67314,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "River Mill Circle",
+      "city": "Roswell",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -67324,7 +67324,7 @@
     },
     {
       "id": "osm-w1515050169",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Over Land Drive",
       "lat": 34.009385,
       "lng": -84.358387,
       "sports": [
@@ -67336,8 +67336,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Over Land Drive",
+      "city": "Roswell",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -67346,7 +67346,7 @@
     },
     {
       "id": "osm-w1515051622",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Redfield Lane",
       "lat": 33.959119,
       "lng": -84.347624,
       "sports": [
@@ -67358,8 +67358,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Redfield Lane",
+      "city": "Dunwoody",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -67533,7 +67533,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Cobb County",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -68619,7 +68619,7 @@
     },
     {
       "id": "osm-w1524246395",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Sharon Estates Drive",
       "lat": 34.117756,
       "lng": -84.158188,
       "sports": [
@@ -68631,8 +68631,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sharon Estates Drive",
+      "city": "Forsyth County",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -69099,7 +69099,7 @@
     },
     {
       "id": "osm-w1524796439",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wilderbluff Court Northwest",
       "lat": 33.956795,
       "lng": -84.38685,
       "sports": [
@@ -69111,8 +69111,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wilderbluff Court Northwest",
+      "city": "Sandy Springs",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -69121,7 +69121,7 @@
     },
     {
       "id": "osm-w1524796440",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wilderglen Court Northwest",
       "lat": 33.958054,
       "lng": -84.385472,
       "sports": [
@@ -69133,8 +69133,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wilderglen Court Northwest",
+      "city": "Sandy Springs",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -69143,7 +69143,7 @@
     },
     {
       "id": "osm-w1524796441",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wildercliff Drive Northwest",
       "lat": 33.958953,
       "lng": -84.384494,
       "sports": [
@@ -69155,8 +69155,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wildercliff Drive Northwest",
+      "city": "Sandy Springs",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -70453,7 +70453,7 @@
     },
     {
       "id": "osm-w1529511384",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Riverside Drive Northwest",
       "lat": 33.946373,
       "lng": -84.397487,
       "sports": [
@@ -70465,8 +70465,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Riverside Drive Northwest",
+      "city": "Sandy Springs",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -70475,7 +70475,7 @@
     },
     {
       "id": "osm-w1529511386",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · River North Parkway Northwest",
       "lat": 33.947116,
       "lng": -84.399718,
       "sports": [
@@ -70487,8 +70487,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "River North Parkway Northwest",
+      "city": "Sandy Springs",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -70510,7 +70510,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Sandy Springs",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -71013,7 +71013,7 @@
     },
     {
       "id": "osm-w1551543753",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Arbor Springs Plantation Drive",
       "lat": 33.463204,
       "lng": -84.698186,
       "sports": [
@@ -71025,8 +71025,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Arbor Springs Plantation Drive",
+      "city": "Coweta County",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -71097,7 +71097,7 @@
     },
     {
       "id": "osm-w1554933864",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wood Creek Court",
       "lat": 34.025819,
       "lng": -84.327374,
       "sports": [
@@ -71109,8 +71109,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wood Creek Court",
+      "city": "Roswell",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -71119,7 +71119,7 @@
     },
     {
       "id": "osm-w1555367028",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Buckhead Avenue Northeast",
       "lat": 33.838438,
       "lng": -84.376947,
       "sports": [
@@ -71131,8 +71131,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Buckhead Avenue Northeast",
+      "city": "Atlanta",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -71141,7 +71141,7 @@
     },
     {
       "id": "osm-w1556508431",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Orchard Way",
       "lat": 34.092641,
       "lng": -84.377476,
       "sports": [
@@ -71153,8 +71153,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Orchard Way",
+      "city": "Roswell",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -71229,7 +71229,7 @@
     },
     {
       "id": "osm-w1556686611",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Trowbridge Lake Drive",
       "lat": 33.961883,
       "lng": -84.360051,
       "sports": [
@@ -71241,8 +71241,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Trowbridge Lake Drive",
+      "city": "Sandy Springs",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -71273,7 +71273,7 @@
     },
     {
       "id": "osm-w1557517138",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bradley Drive",
       "lat": 33.436356,
       "lng": -84.452505,
       "sports": [
@@ -71285,8 +71285,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bradley Drive",
+      "city": "Fayetteville",
       "state": "GA",
       "source": "osm",
       "tags": {
@@ -71295,7 +71295,7 @@
     },
     {
       "id": "osm-w1557690194",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Del Webb Boulevard",
       "lat": 33.315084,
       "lng": -84.240248,
       "sports": [
@@ -71308,15 +71308,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Del Webb Boulevard",
+      "city": "Spalding County",
       "state": "GA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1558225788",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Connemara Trace",
       "lat": 33.891696,
       "lng": -84.083159,
       "sports": [
@@ -71328,8 +71328,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Connemara Trace",
+      "city": "Gloster",
       "state": "GA",
       "source": "osm",
       "tags": {

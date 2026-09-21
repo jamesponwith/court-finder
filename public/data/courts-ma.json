@@ -398,7 +398,7 @@
     },
     {
       "id": "osm-n13139979713",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hockley Drive",
       "lat": 42.242412,
       "lng": -70.917842,
       "sports": [
@@ -410,8 +410,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hockley Drive",
+      "city": "Hingham",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -420,7 +420,7 @@
     },
     {
       "id": "osm-n13139979714",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Tuckers Lane",
       "lat": 42.241012,
       "lng": -70.922249,
       "sports": [
@@ -432,8 +432,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Tuckers Lane",
+      "city": "Hingham",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -1208,7 +1208,7 @@
     },
     {
       "id": "osm-w80489075",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Third Street",
       "lat": 42.410849,
       "lng": -71.081186,
       "sports": [
@@ -1220,8 +1220,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Third Street",
+      "city": "Medford",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -1230,7 +1230,7 @@
     },
     {
       "id": "osm-w80541083",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Brogan Road",
       "lat": 42.424595,
       "lng": -71.099105,
       "sports": [
@@ -1243,15 +1243,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Brogan Road",
+      "city": "Medford",
       "state": "MA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w80797787",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Western Avenue",
       "lat": 42.608322,
       "lng": -70.677402,
       "sports": [
@@ -1263,8 +1263,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Western Avenue",
+      "city": "Gloucester",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -1356,7 +1356,7 @@
     },
     {
       "id": "osm-w86972698",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Border Road",
       "lat": 42.43693,
       "lng": -71.420333,
       "sports": [
@@ -1368,8 +1368,8 @@
       "indoor": true,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Border Road",
+      "city": "Concord",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -1416,7 +1416,7 @@
     },
     {
       "id": "osm-w88317847",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Pleasant Street",
       "lat": 42.309057,
       "lng": -71.928076,
       "sports": [
@@ -1428,8 +1428,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pleasant Street",
+      "city": "Paxton",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -1459,7 +1459,7 @@
     },
     {
       "id": "osm-w88969986",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Grove Street",
       "lat": 42.292839,
       "lng": -71.816321,
       "sports": [
@@ -1471,8 +1471,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Grove Street",
+      "city": "Worcester",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -1543,7 +1543,7 @@
     },
     {
       "id": "osm-w93160940",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Alewife Brook Greenway",
       "lat": 42.410269,
       "lng": -71.131733,
       "sports": [
@@ -1555,8 +1555,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Alewife Brook Greenway",
+      "city": "Arlington",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -1605,7 +1605,7 @@
     },
     {
       "id": "osm-w94509759",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Mystic River Road",
       "lat": 42.416872,
       "lng": -71.139687,
       "sports": [
@@ -1617,8 +1617,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mystic River Road",
+      "city": "Medford",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -1919,7 +1919,7 @@
     },
     {
       "id": "osm-w115572491",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Summer Street",
       "lat": 42.414415,
       "lng": -71.113678,
       "sports": [
@@ -1931,8 +1931,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Summer Street",
+      "city": "Medford",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -1961,7 +1961,7 @@
     },
     {
       "id": "osm-w117745014",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Playstead Road",
       "lat": 42.308652,
       "lng": -71.094955,
       "sports": [
@@ -1973,8 +1973,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Playstead Road",
+      "city": "Boston",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -2025,7 +2025,7 @@
     },
     {
       "id": "osm-w120684708",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Garden Street",
       "lat": 42.381769,
       "lng": -71.127109,
       "sports": [
@@ -2037,8 +2037,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Garden Street",
+      "city": "Cambridge",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -2199,7 +2199,7 @@
     },
     {
       "id": "osm-w134327723",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Freedom Way",
       "lat": 42.409364,
       "lng": -71.095503,
       "sports": [
@@ -2211,8 +2211,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Freedom Way",
+      "city": "Medford",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -2451,7 +2451,7 @@
     },
     {
       "id": "osm-w140469341",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fulton Street",
       "lat": 42.435515,
       "lng": -71.094877,
       "sports": [
@@ -2464,8 +2464,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fulton Street",
+      "city": "Medford",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -2538,7 +2538,7 @@
     },
     {
       "id": "osm-w146993249",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Richardson Corner Road",
       "lat": 42.134248,
       "lng": -71.926944,
       "sports": [
@@ -2550,8 +2550,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Richardson Corner Road",
+      "city": "Charlton",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -2638,7 +2638,7 @@
     },
     {
       "id": "osm-w154325340",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Clocktower Drive",
       "lat": 42.408979,
       "lng": -71.223108,
       "sports": [
@@ -2650,8 +2650,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Clocktower Drive",
+      "city": "Waltham",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -2682,7 +2682,7 @@
     },
     {
       "id": "osm-w155184148",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Old Trolley Road",
       "lat": 42.34526,
       "lng": -72.684288,
       "sports": [
@@ -2694,8 +2694,8 @@
       "indoor": false,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Old Trolley Road",
+      "city": "Northampton",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -2888,7 +2888,7 @@
     },
     {
       "id": "osm-w167537569",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Dedham Street",
       "lat": 42.247778,
       "lng": -71.269941,
       "sports": [
@@ -2900,8 +2900,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Dedham Street",
+      "city": "Dover",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -3015,7 +3015,7 @@
     },
     {
       "id": "osm-w175112477",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Green Street",
       "lat": 42.199193,
       "lng": -71.431771,
       "sports": [
@@ -3027,8 +3027,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Green Street",
+      "city": "Holliston",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -3313,7 +3313,7 @@
     },
     {
       "id": "osm-w201216251",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fieldstone Drive",
       "lat": 42.29957,
       "lng": -71.696729,
       "sports": [
@@ -3325,8 +3325,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fieldstone Drive",
+      "city": "Shrewsbury",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -3661,7 +3661,7 @@
     },
     {
       "id": "osm-w216905998",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lynde Lane",
       "lat": 42.716822,
       "lng": -73.200249,
       "sports": [
@@ -3673,8 +3673,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lynde Lane",
+      "city": "Williamstown",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -3770,7 +3770,7 @@
     },
     {
       "id": "osm-w219471136",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Gordon Road",
       "lat": 42.224563,
       "lng": -70.967458,
       "sports": [
@@ -3782,8 +3782,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Gordon Road",
+      "city": "Braintree",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -3900,7 +3900,7 @@
     },
     {
       "id": "osm-w228920828",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Longwood Avenue",
       "lat": 42.337658,
       "lng": -71.103724,
       "sports": [
@@ -3912,8 +3912,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Longwood Avenue",
+      "city": "Boston",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -4117,7 +4117,7 @@
     },
     {
       "id": "osm-w251281291",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Boylston Street",
       "lat": 42.409224,
       "lng": -71.70437,
       "sports": [
@@ -4129,8 +4129,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Boylston Street",
+      "city": "Clinton",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -4448,7 +4448,7 @@
     },
     {
       "id": "osm-w257116529",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Park Street",
       "lat": 42.571513,
       "lng": -71.085721,
       "sports": [
@@ -4460,8 +4460,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Park Street",
+      "city": "North Reading",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -4839,7 +4839,7 @@
     },
     {
       "id": "osm-w267934602",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Waki Trail (green)",
       "lat": 42.600119,
       "lng": -71.450542,
       "sports": [
@@ -4851,8 +4851,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Waki Trail (green)",
+      "city": "Westford",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -5401,7 +5401,7 @@
     },
     {
       "id": "osm-w277373871",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Newton Street",
       "lat": 42.595698,
       "lng": -72.236505,
       "sports": [
@@ -5413,8 +5413,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Newton Street",
+      "city": "Athol",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -5506,7 +5506,7 @@
     },
     {
       "id": "osm-w289487513",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Marshall Street",
       "lat": 42.278781,
       "lng": -71.165603,
       "sports": [
@@ -5518,8 +5518,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Marshall Street",
+      "city": "Boston",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -5528,7 +5528,7 @@
     },
     {
       "id": "osm-w289489080",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Walworth Street",
       "lat": 42.287424,
       "lng": -71.136266,
       "sports": [
@@ -5540,8 +5540,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Walworth Street",
+      "city": "Boston",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -5590,7 +5590,7 @@
     },
     {
       "id": "osm-w295320119",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fairwynds Drive",
       "lat": 42.342122,
       "lng": -73.264536,
       "sports": [
@@ -5602,8 +5602,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fairwynds Drive",
+      "city": "Lenox",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -5966,7 +5966,7 @@
     },
     {
       "id": "osm-w309672178",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bay Circuit Trail",
       "lat": 42.415644,
       "lng": -71.366719,
       "sports": [
@@ -5979,8 +5979,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bay Circuit Trail",
+      "city": "Lincoln",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -6200,7 +6200,7 @@
     },
     {
       "id": "osm-w310457410",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Stewart Road",
       "lat": 42.522204,
       "lng": -71.125087,
       "sports": [
@@ -6212,8 +6212,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Stewart Road",
+      "city": "Reading",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -6480,7 +6480,7 @@
     },
     {
       "id": "osm-w311051296",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Highland Street",
       "lat": 42.641279,
       "lng": -70.878869,
       "sports": [
@@ -6492,8 +6492,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Highland Street",
+      "city": "South Hamilton",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -6542,7 +6542,7 @@
     },
     {
       "id": "osm-w311057835",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Street",
       "lat": 42.530507,
       "lng": -70.909394,
       "sports": [
@@ -6554,8 +6554,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Street",
+      "city": "Salem",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -6586,7 +6586,7 @@
     },
     {
       "id": "osm-w311147969",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Chestnut Street",
       "lat": 42.353664,
       "lng": -71.307634,
       "sports": [
@@ -6598,15 +6598,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Chestnut Street",
+      "city": "Weston",
       "state": "MA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w311147970",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Meadowbrook Road",
       "lat": 42.357542,
       "lng": -71.285783,
       "sports": [
@@ -6618,8 +6618,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Meadowbrook Road",
+      "city": "Weston",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -7267,7 +7267,7 @@
     },
     {
       "id": "osm-w312530265",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Walnut Street",
       "lat": 42.471734,
       "lng": -70.97909,
       "sports": [
@@ -7279,8 +7279,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Walnut Street",
+      "city": "Lynn",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -7353,7 +7353,7 @@
     },
     {
       "id": "osm-w312983697",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Crusader Drive",
       "lat": 41.89237,
       "lng": -70.75563,
       "sports": [
@@ -7365,8 +7365,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Crusader Drive",
+      "city": "Carver",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -7755,7 +7755,7 @@
     },
     {
       "id": "osm-w324617479",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Dutcher Street",
       "lat": 42.134809,
       "lng": -71.542714,
       "sports": [
@@ -7767,8 +7767,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Dutcher Street",
+      "city": "Hopedale",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -7907,7 +7907,7 @@
     },
     {
       "id": "osm-w327517391",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Beacon Street",
       "lat": 42.345321,
       "lng": -71.112794,
       "sports": [
@@ -7919,8 +7919,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Beacon Street",
+      "city": "Brookline",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -8399,7 +8399,7 @@
     },
     {
       "id": "osm-w367223714",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Sunset Break Street",
       "lat": 42.330025,
       "lng": -71.116255,
       "sports": [
@@ -8411,8 +8411,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sunset Break Street",
+      "city": "Brookline",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -8718,7 +8718,7 @@
     },
     {
       "id": "osm-w395395041",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Goodale Street",
       "lat": 42.370298,
       "lng": -71.787729,
       "sports": [
@@ -8730,8 +8730,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Goodale Street",
+      "city": "West Boylston",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -9470,7 +9470,7 @@
     },
     {
       "id": "osm-w422188252",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Davis Lane",
       "lat": 41.664988,
       "lng": -70.071139,
       "sports": [
@@ -9482,8 +9482,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Davis Lane",
+      "city": "Harwich",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -9661,7 +9661,7 @@
     },
     {
       "id": "osm-w427238246",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cape Drive",
       "lat": 41.632332,
       "lng": -70.458031,
       "sports": [
@@ -9673,8 +9673,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cape Drive",
+      "city": "Mashpee",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -9859,7 +9859,7 @@
     },
     {
       "id": "osm-w428107545",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Simons Road",
       "lat": 41.624886,
       "lng": -70.46007,
       "sports": [
@@ -9871,8 +9871,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Simons Road",
+      "city": "Mashpee",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -10005,7 +10005,7 @@
     },
     {
       "id": "osm-w431749760",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Everett Road",
       "lat": 41.747701,
       "lng": -70.600973,
       "sports": [
@@ -10017,8 +10017,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Everett Road",
+      "city": "Bourne",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -10417,7 +10417,7 @@
     },
     {
       "id": "osm-w437635300",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Livingstone Avenue",
       "lat": 42.546473,
       "lng": -70.900678,
       "sports": [
@@ -10429,8 +10429,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Livingstone Avenue",
+      "city": "Beverly",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -10461,7 +10461,7 @@
     },
     {
       "id": "osm-w439567810",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Saint Andre Drive",
       "lat": 42.085654,
       "lng": -71.65012,
       "sports": [
@@ -10473,8 +10473,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Saint Andre Drive",
+      "city": "Uxbridge",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -11221,7 +11221,7 @@
     },
     {
       "id": "osm-w488586701",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Park Avenue East",
       "lat": 42.630287,
       "lng": -71.288725,
       "sports": [
@@ -11233,8 +11233,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Park Avenue East",
+      "city": "Lowell",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -11564,7 +11564,7 @@
     },
     {
       "id": "osm-w504559336",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Old Coldbrook Road",
       "lat": 42.412406,
       "lng": -72.092693,
       "sports": [
@@ -11576,8 +11576,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Old Coldbrook Road",
+      "city": "Barre",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -11748,7 +11748,7 @@
     },
     {
       "id": "osm-w514674473",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Shakespeare Road",
       "lat": 42.369284,
       "lng": -71.251742,
       "sports": [
@@ -11760,8 +11760,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Shakespeare Road",
+      "city": "Waltham",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -11811,7 +11811,7 @@
     },
     {
       "id": "osm-w524138425",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Royal Crest Drive",
       "lat": 42.668089,
       "lng": -71.116773,
       "sports": [
@@ -11823,8 +11823,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Royal Crest Drive",
+      "city": "North Andover",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -11959,7 +11959,7 @@
     },
     {
       "id": "osm-w541725959",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Pembroke Street",
       "lat": 42.013918,
       "lng": -70.784765,
       "sports": [
@@ -11971,8 +11971,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pembroke Street",
+      "city": "Kingston",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -12045,7 +12045,7 @@
     },
     {
       "id": "osm-w543380445",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Concord Road",
       "lat": 42.381654,
       "lng": -71.317145,
       "sports": [
@@ -12057,8 +12057,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Concord Road",
+      "city": "Weston",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -12109,7 +12109,7 @@
     },
     {
       "id": "osm-w544249364",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Steve Holford Memorial Trail",
       "lat": 42.014199,
       "lng": -71.242843,
       "sports": [
@@ -12121,8 +12121,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Steve Holford Memorial Trail",
+      "city": "Mansfield",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -12323,7 +12323,7 @@
     },
     {
       "id": "osm-w572964696",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Tenth Street",
       "lat": 41.74383,
       "lng": -70.658879,
       "sports": [
@@ -12336,8 +12336,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Tenth Street",
+      "city": "Wareham",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -12474,7 +12474,7 @@
     },
     {
       "id": "osm-w574621078",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · The Floral Way",
       "lat": 42.506177,
       "lng": -71.077178,
       "sports": [
@@ -12486,8 +12486,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "The Floral Way",
+      "city": "Wakefield",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -12496,7 +12496,7 @@
     },
     {
       "id": "osm-w578247104",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cedar Street",
       "lat": 42.128753,
       "lng": -70.872094,
       "sports": [
@@ -12508,8 +12508,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cedar Street",
+      "city": "Hanover",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -12772,7 +12772,7 @@
     },
     {
       "id": "osm-w597566378",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Sumner Street",
       "lat": 42.364429,
       "lng": -71.028807,
       "sports": [
@@ -12784,8 +12784,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sumner Street",
+      "city": "Boston",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -12924,7 +12924,7 @@
     },
     {
       "id": "osm-w604640330",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Sea View Avenue",
       "lat": 41.613635,
       "lng": -70.376225,
       "sports": [
@@ -12936,8 +12936,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sea View Avenue",
+      "city": "Barnstable",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -13547,7 +13547,7 @@
     },
     {
       "id": "osm-w619134816",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Defiance Lane",
       "lat": 41.79768,
       "lng": -70.011154,
       "sports": [
@@ -13559,8 +13559,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Defiance Lane",
+      "city": "Orleans",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -15481,7 +15481,7 @@
     },
     {
       "id": "osm-w667078377",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lazy Day Drive",
       "lat": 42.62552,
       "lng": -71.453482,
       "sports": [
@@ -15493,8 +15493,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lazy Day Drive",
+      "city": "Westford",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -15503,7 +15503,7 @@
     },
     {
       "id": "osm-w667988180",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Olmsted Road",
       "lat": 42.329393,
       "lng": -71.141642,
       "sports": [
@@ -15515,8 +15515,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Olmsted Road",
+      "city": "Brookline",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -15525,7 +15525,7 @@
     },
     {
       "id": "osm-w668568832",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Linear Park",
       "lat": 42.709927,
       "lng": -73.190905,
       "sports": [
@@ -15537,8 +15537,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Linear Park",
+      "city": "Williamstown",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -15547,7 +15547,7 @@
     },
     {
       "id": "osm-w669417166",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hatherly Road",
       "lat": 42.235237,
       "lng": -70.766673,
       "sports": [
@@ -15559,8 +15559,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hatherly Road",
+      "city": "Scituate",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -15935,7 +15935,7 @@
     },
     {
       "id": "osm-w684962566",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Edge Street",
       "lat": 42.692258,
       "lng": -70.898303,
       "sports": [
@@ -15947,8 +15947,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Edge Street",
+      "city": "Ipswich",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -16131,7 +16131,7 @@
     },
     {
       "id": "osm-w688680612",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Jerusalem Road Drive",
       "lat": 42.259964,
       "lng": -70.814723,
       "sports": [
@@ -16143,8 +16143,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Jerusalem Road Drive",
+      "city": "Cohasset",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -16241,7 +16241,7 @@
     },
     {
       "id": "osm-w690971912",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Parker Street",
       "lat": 42.150633,
       "lng": -72.491994,
       "sports": [
@@ -16253,8 +16253,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Parker Street",
+      "city": "Springfield",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -16480,7 +16480,7 @@
     },
     {
       "id": "osm-w694822513",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Pond Road",
       "lat": 42.702839,
       "lng": -72.886905,
       "sports": [
@@ -16492,8 +16492,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pond Road",
+      "city": "Franklin County",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -16810,7 +16810,7 @@
     },
     {
       "id": "osm-w697023187",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Newbury Street",
       "lat": 42.559189,
       "lng": -70.977237,
       "sports": [
@@ -16822,8 +16822,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Newbury Street",
+      "city": "Danvers",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -16964,7 +16964,7 @@
     },
     {
       "id": "osm-w697461194",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · John Devine Track",
       "lat": 42.055926,
       "lng": -72.556848,
       "sports": [
@@ -16976,15 +16976,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "John Devine Track",
+      "city": "Longmeadow",
       "state": "MA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w697548705",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hoover Avenue",
       "lat": 42.554452,
       "lng": -71.006365,
       "sports": [
@@ -16997,8 +16997,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hoover Avenue",
+      "city": "Peabody",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -17411,7 +17411,7 @@
     },
     {
       "id": "osm-w701678316",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Clubhouse Drive",
       "lat": 42.202008,
       "lng": -70.912819,
       "sports": [
@@ -17423,8 +17423,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Clubhouse Drive",
+      "city": "Hingham",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -17471,7 +17471,7 @@
     },
     {
       "id": "osm-w704030834",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Off Prospect",
       "lat": 42.315301,
       "lng": -72.207418,
       "sports": [
@@ -17483,8 +17483,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Off Prospect",
+      "city": "Gilbertville",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -17644,7 +17644,7 @@
     },
     {
       "id": "osm-w708626950",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Country Club Road",
       "lat": 42.253236,
       "lng": -71.218059,
       "sports": [
@@ -17656,8 +17656,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Country Club Road",
+      "city": "Dedham",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -17892,7 +17892,7 @@
     },
     {
       "id": "osm-w718496199",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Side Parkway",
       "lat": 42.352055,
       "lng": -71.197406,
       "sports": [
@@ -17904,8 +17904,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Side Parkway",
+      "city": "Newton",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -18252,7 +18252,7 @@
     },
     {
       "id": "osm-w737017446",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Kendall Square South Plaza",
       "lat": 42.363447,
       "lng": -71.082996,
       "sports": [
@@ -18264,8 +18264,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kendall Square South Plaza",
+      "city": "Cambridge",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -18706,7 +18706,7 @@
     },
     {
       "id": "osm-w757157213",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Horseneck Road",
       "lat": 41.569087,
       "lng": -71.005654,
       "sports": [
@@ -18718,8 +18718,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Horseneck Road",
+      "city": "Dartmouth",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -18728,7 +18728,7 @@
     },
     {
       "id": "osm-w758158345",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lamberts Lane",
       "lat": 42.253553,
       "lng": -70.838251,
       "sports": [
@@ -18740,8 +18740,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lamberts Lane",
+      "city": "Cohasset",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -20208,7 +20208,7 @@
     },
     {
       "id": "osm-w793597362",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Nahatan Street",
       "lat": 42.216372,
       "lng": -71.214198,
       "sports": [
@@ -20220,8 +20220,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Nahatan Street",
+      "city": "Westwood",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -20569,7 +20569,7 @@
     },
     {
       "id": "osm-w808440225",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · old cross-country trail",
       "lat": 42.254042,
       "lng": -71.071093,
       "sports": [
@@ -20581,15 +20581,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "old cross-country trail",
+      "city": "Milton",
       "state": "MA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w808440233",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Centre Street",
       "lat": 42.25801,
       "lng": -71.070811,
       "sports": [
@@ -20601,8 +20601,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Centre Street",
+      "city": "Milton",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -20693,7 +20693,7 @@
     },
     {
       "id": "osm-w814723918",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Tennis Court Cut Through",
       "lat": 42.281716,
       "lng": -71.155412,
       "sports": [
@@ -20705,8 +20705,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Tennis Court Cut Through",
+      "city": "Boston",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -20735,7 +20735,7 @@
     },
     {
       "id": "osm-w814723943",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wellesley Avenue",
       "lat": 42.301481,
       "lng": -71.262103,
       "sports": [
@@ -20747,8 +20747,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wellesley Avenue",
+      "city": "Wellesley",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -21055,7 +21055,7 @@
     },
     {
       "id": "osm-w819968659",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Capen Hill Road",
       "lat": 42.096036,
       "lng": -71.168354,
       "sports": [
@@ -21067,8 +21067,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Capen Hill Road",
+      "city": "Sharon",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -21357,7 +21357,7 @@
     },
     {
       "id": "osm-w825463950",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Valley Farm Road",
       "lat": 42.781531,
       "lng": -71.014606,
       "sports": [
@@ -21370,8 +21370,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Valley Farm Road",
+      "city": "Groveland",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -21508,7 +21508,7 @@
     },
     {
       "id": "osm-w837437150",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bayview Condominium Road",
       "lat": 41.565558,
       "lng": -70.492748,
       "sports": [
@@ -21520,8 +21520,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bayview Condominium Road",
+      "city": "Mashpee",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -21594,7 +21594,7 @@
     },
     {
       "id": "osm-w838011268",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Chicory Circle",
       "lat": 41.601776,
       "lng": -70.481741,
       "sports": [
@@ -21606,8 +21606,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Chicory Circle",
+      "city": "Mashpee",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -21940,7 +21940,7 @@
     },
     {
       "id": "osm-w853565793",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Amvets Lane",
       "lat": 42.169902,
       "lng": -71.03883,
       "sports": [
@@ -21952,8 +21952,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Amvets Lane",
+      "city": "Randolph",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -22287,7 +22287,7 @@
     },
     {
       "id": "osm-w868873018",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Nahanton Street",
       "lat": 42.298132,
       "lng": -71.20411,
       "sports": [
@@ -22299,8 +22299,8 @@
       "indoor": false,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Nahanton Street",
+      "city": "Newton",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -22329,7 +22329,7 @@
     },
     {
       "id": "osm-w873216472",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Honey Lane",
       "lat": 42.178195,
       "lng": -72.532028,
       "sports": [
@@ -22341,8 +22341,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Honey Lane",
+      "city": "Chicopee",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -22648,7 +22648,7 @@
     },
     {
       "id": "osm-w902150480",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Petty Plain Road",
       "lat": 42.575901,
       "lng": -72.599674,
       "sports": [
@@ -22660,8 +22660,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Petty Plain Road",
+      "city": "Greenfield",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -22843,7 +22843,7 @@
     },
     {
       "id": "osm-w908861907",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · State Street",
       "lat": 42.101097,
       "lng": -72.314446,
       "sports": [
@@ -22855,8 +22855,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "State Street",
+      "city": "Monson",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -23254,7 +23254,7 @@
     },
     {
       "id": "osm-w918716850",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Grand Army of the Republic Highway",
       "lat": 41.830471,
       "lng": -69.972727,
       "sports": [
@@ -23266,8 +23266,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Grand Army of the Republic Highway",
+      "city": "Eastham",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -23276,7 +23276,7 @@
     },
     {
       "id": "osm-w918718379",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Pond Lane",
       "lat": 42.411751,
       "lng": -71.153527,
       "sports": [
@@ -23288,8 +23288,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pond Lane",
+      "city": "Arlington",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -23340,7 +23340,7 @@
     },
     {
       "id": "osm-w919290678",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Nordic Trail",
       "lat": 42.119109,
       "lng": -73.413922,
       "sports": [
@@ -23352,8 +23352,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Nordic Trail",
+      "city": "Sheffield",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -23403,7 +23403,7 @@
     },
     {
       "id": "osm-w921779262",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Plumtree Road",
       "lat": 42.09473,
       "lng": -72.540734,
       "sports": [
@@ -23415,8 +23415,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Plumtree Road",
+      "city": "Springfield",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -23486,7 +23486,7 @@
     },
     {
       "id": "osm-w933629738",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Princess Road",
       "lat": 42.354151,
       "lng": -71.226819,
       "sports": [
@@ -23498,8 +23498,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Princess Road",
+      "city": "Newton",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -23552,7 +23552,7 @@
     },
     {
       "id": "osm-w939844774",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Park Street",
       "lat": 42.566264,
       "lng": -70.931092,
       "sports": [
@@ -23564,8 +23564,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Park Street",
+      "city": "Danvers",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -23636,7 +23636,7 @@
     },
     {
       "id": "osm-w955928527",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Grampian Way",
       "lat": 42.310131,
       "lng": -71.048639,
       "sports": [
@@ -23648,8 +23648,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Grampian Way",
+      "city": "Boston",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -24189,7 +24189,7 @@
     },
     {
       "id": "osm-w989069833",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Bay Road",
       "lat": 41.626037,
       "lng": -70.385609,
       "sports": [
@@ -24201,15 +24201,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Bay Road",
+      "city": "Barnstable",
       "state": "MA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w989733888",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Eel River Road",
       "lat": 41.614148,
       "lng": -70.389375,
       "sports": [
@@ -24221,8 +24221,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Eel River Road",
+      "city": "Barnstable",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -24764,7 +24764,7 @@
     },
     {
       "id": "osm-w1017471325",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Newton Street",
       "lat": 42.345954,
       "lng": -71.278815,
       "sports": [
@@ -24776,8 +24776,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Newton Street",
+      "city": "Weston",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -25222,7 +25222,7 @@
     },
     {
       "id": "osm-w1040532316",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Goodwin Road",
       "lat": 41.45038,
       "lng": -70.560002,
       "sports": [
@@ -25234,8 +25234,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Goodwin Road",
+      "city": "Oak Bluffs",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -26113,7 +26113,7 @@
     },
     {
       "id": "osm-w1061825820",
-      "name": "Public Tennis Courts",
+      "name": "Hulbert Avenue Tennis Courts",
       "lat": 41.294787,
       "lng": -70.105859,
       "sports": [
@@ -26125,8 +26125,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hulbert Avenue",
+      "city": "Nantucket",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -26176,7 +26176,7 @@
     },
     {
       "id": "osm-w1064098215",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Aptucxet Road",
       "lat": 41.74196,
       "lng": -70.602788,
       "sports": [
@@ -26188,8 +26188,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Aptucxet Road",
+      "city": "Bourne",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -26220,7 +26220,7 @@
     },
     {
       "id": "osm-w1064752576",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Independence Drive",
       "lat": 41.683434,
       "lng": -70.292407,
       "sports": [
@@ -26232,8 +26232,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Independence Drive",
+      "city": "Barnstable",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -26559,7 +26559,7 @@
     },
     {
       "id": "osm-w1082211262",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Salisbury Street",
       "lat": 42.33676,
       "lng": -71.848178,
       "sports": [
@@ -26571,8 +26571,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Salisbury Street",
+      "city": "Holden",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -26643,7 +26643,7 @@
     },
     {
       "id": "osm-w1087615949",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Kings Circuit",
       "lat": 41.712778,
       "lng": -70.210737,
       "sports": [
@@ -26655,8 +26655,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kings Circuit",
+      "city": "Yarmouth",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -26879,7 +26879,7 @@
     },
     {
       "id": "osm-w1089712769",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Summer Street",
       "lat": 42.035345,
       "lng": -70.740393,
       "sports": [
@@ -26891,8 +26891,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Summer Street",
+      "city": "Duxbury",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -27048,7 +27048,7 @@
     },
     {
       "id": "osm-w1095494702",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fuller Brook Lane",
       "lat": 42.144438,
       "lng": -71.405703,
       "sports": [
@@ -27060,15 +27060,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fuller Brook Lane",
+      "city": "Medway",
       "state": "MA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1095494724",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Willow Pond Circle",
       "lat": 42.135764,
       "lng": -71.413079,
       "sports": [
@@ -27080,8 +27080,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Willow Pond Circle",
+      "city": "Medway",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -27112,7 +27112,7 @@
     },
     {
       "id": "osm-w1095614027",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Country Club Lane",
       "lat": 42.409576,
       "lng": -71.19961,
       "sports": [
@@ -27124,8 +27124,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Country Club Lane",
+      "city": "Belmont",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -27413,7 +27413,7 @@
     },
     {
       "id": "osm-w1099740491",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Woodlands Way",
       "lat": 42.102244,
       "lng": -70.932106,
       "sports": [
@@ -27425,8 +27425,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Woodlands Way",
+      "city": "Abington",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -27580,7 +27580,7 @@
     },
     {
       "id": "osm-w1104661357",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Newell Street",
       "lat": 42.450394,
       "lng": -73.228197,
       "sports": [
@@ -27592,8 +27592,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Newell Street",
+      "city": "Pittsfield",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -27602,7 +27602,7 @@
     },
     {
       "id": "osm-w1105225128",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Parmenter Road",
       "lat": 42.674584,
       "lng": -72.528168,
       "sports": [
@@ -27614,8 +27614,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Parmenter Road",
+      "city": "Bernardston",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -27730,7 +27730,7 @@
     },
     {
       "id": "osm-w1110918367",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Taft Avenue",
       "lat": 42.09888,
       "lng": -71.564927,
       "sports": [
@@ -27742,8 +27742,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Taft Avenue",
+      "city": "Mendon",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -28392,7 +28392,7 @@
     },
     {
       "id": "osm-w1134636992",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Owen Little Way",
       "lat": 41.463026,
       "lng": -70.600749,
       "sports": [
@@ -28404,8 +28404,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Owen Little Way",
+      "city": "Tisbury",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -28498,7 +28498,7 @@
     },
     {
       "id": "osm-w1136527549",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Seapuit Road",
       "lat": 41.635241,
       "lng": -70.392434,
       "sports": [
@@ -28510,8 +28510,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Seapuit Road",
+      "city": "Barnstable",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -28542,7 +28542,7 @@
     },
     {
       "id": "osm-w1136739549",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Eel River Road",
       "lat": 41.616088,
       "lng": -70.390299,
       "sports": [
@@ -28554,8 +28554,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Eel River Road",
+      "city": "Barnstable",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -28564,7 +28564,7 @@
     },
     {
       "id": "osm-w1136839479",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cove Lane",
       "lat": 41.620613,
       "lng": -70.418611,
       "sports": [
@@ -28577,8 +28577,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cove Lane",
+      "city": "Barnstable",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -28607,7 +28607,7 @@
     },
     {
       "id": "osm-w1137112444",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Windswept Way",
       "lat": 41.618687,
       "lng": -70.421805,
       "sports": [
@@ -28619,8 +28619,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Windswept Way",
+      "city": "Barnstable",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -28651,7 +28651,7 @@
     },
     {
       "id": "osm-w1137418196",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Sunset Point",
       "lat": 41.614413,
       "lng": -70.421547,
       "sports": [
@@ -28663,8 +28663,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sunset Point",
+      "city": "Barnstable",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -28797,7 +28797,7 @@
     },
     {
       "id": "osm-w1138152684",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Gardiner Lane",
       "lat": 41.627982,
       "lng": -70.37739,
       "sports": [
@@ -28810,8 +28810,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Gardiner Lane",
+      "city": "Barnstable",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -28820,7 +28820,7 @@
     },
     {
       "id": "osm-w1138528326",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Elliott Road",
       "lat": 41.642721,
       "lng": -70.337387,
       "sports": [
@@ -28833,8 +28833,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Elliott Road",
+      "city": "Barnstable",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -28843,7 +28843,7 @@
     },
     {
       "id": "osm-w1139086306",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Coyne Road",
       "lat": 42.334289,
       "lng": -71.222478,
       "sports": [
@@ -28855,8 +28855,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Coyne Road",
+      "city": "Newton",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -29169,7 +29169,7 @@
     },
     {
       "id": "osm-w1164974058",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Arthur Avenue",
       "lat": 41.71893,
       "lng": -70.61518,
       "sports": [
@@ -29181,8 +29181,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Arthur Avenue",
+      "city": "Bourne",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -29235,7 +29235,7 @@
     },
     {
       "id": "osm-w1169897468",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Rolling Lane",
       "lat": 42.362534,
       "lng": -71.279929,
       "sports": [
@@ -29247,8 +29247,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rolling Lane",
+      "city": "Weston",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -29410,7 +29410,7 @@
     },
     {
       "id": "osm-w1189165063",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lionel Avenue",
       "lat": 42.405097,
       "lng": -71.230437,
       "sports": [
@@ -29422,8 +29422,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lionel Avenue",
+      "city": "Waltham",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -29472,7 +29472,7 @@
     },
     {
       "id": "osm-w1197247906",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fore Court",
       "lat": 41.81798,
       "lng": -70.544516,
       "sports": [
@@ -29484,15 +29484,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fore Court",
+      "city": "Plymouth",
       "state": "MA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1199964194",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Blue Heron Trail",
       "lat": 42.27227,
       "lng": -71.174899,
       "sports": [
@@ -29504,8 +29504,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Blue Heron Trail",
+      "city": "Dedham",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -29574,7 +29574,7 @@
     },
     {
       "id": "osm-w1213393946",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hubbard Park Road",
       "lat": 42.376567,
       "lng": -71.131973,
       "sports": [
@@ -29586,8 +29586,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hubbard Park Road",
+      "city": "Cambridge",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -29618,7 +29618,7 @@
     },
     {
       "id": "osm-w1219361896",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Sheepfalls Brook Trail",
       "lat": 42.359585,
       "lng": -71.561167,
       "sports": [
@@ -29630,8 +29630,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sheepfalls Brook Trail",
+      "city": "Marlborough",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -29724,7 +29724,7 @@
     },
     {
       "id": "osm-w1222525421",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Johnson Street",
       "lat": 42.3204,
       "lng": -71.402276,
       "sports": [
@@ -29736,8 +29736,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Johnson Street",
+      "city": "Framingham",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -30035,7 +30035,7 @@
     },
     {
       "id": "osm-w1230960694",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Pleasant Street",
       "lat": 42.365236,
       "lng": -71.207707,
       "sports": [
@@ -30047,8 +30047,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pleasant Street",
+      "city": "Watertown",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -30075,7 +30075,7 @@
     },
     {
       "id": "osm-w1233441459",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Campus Drive",
       "lat": 42.323738,
       "lng": -71.584565,
       "sports": [
@@ -30087,8 +30087,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Campus Drive",
+      "city": "Marlborough",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -30110,7 +30110,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Hampden",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -30304,7 +30304,7 @@
     },
     {
       "id": "osm-w1242231041",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Stonebridge Road",
       "lat": 41.886764,
       "lng": -70.601973,
       "sports": [
@@ -30316,8 +30316,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Stonebridge Road",
+      "city": "Plymouth",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -30723,7 +30723,7 @@
     },
     {
       "id": "osm-w1271934174",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Dedham Street",
       "lat": 42.305647,
       "lng": -71.195071,
       "sports": [
@@ -30736,8 +30736,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Dedham Street",
+      "city": "Newton",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -30824,7 +30824,7 @@
     },
     {
       "id": "osm-w1274386110",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Grove Street",
       "lat": 42.542893,
       "lng": -71.127686,
       "sports": [
@@ -30836,8 +30836,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Grove Street",
+      "city": "Reading",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -30866,7 +30866,7 @@
     },
     {
       "id": "osm-w1275449043",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Barn Board Lane",
       "lat": 41.663341,
       "lng": -70.239845,
       "sports": [
@@ -30879,8 +30879,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Barn Board Lane",
+      "city": "Yarmouth",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -30911,7 +30911,7 @@
     },
     {
       "id": "osm-w1279918144",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Dornick Road",
       "lat": 41.725568,
       "lng": -70.586625,
       "sports": [
@@ -30923,8 +30923,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Dornick Road",
+      "city": "Bourne",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -30997,7 +30997,7 @@
     },
     {
       "id": "osm-w1290250052",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hemlock Road",
       "lat": 42.494241,
       "lng": -71.050088,
       "sports": [
@@ -31009,8 +31009,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hemlock Road",
+      "city": "Wakefield",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -31145,7 +31145,7 @@
     },
     {
       "id": "osm-w1293761655",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Old Bolton Road",
       "lat": 42.433924,
       "lng": -71.543497,
       "sports": [
@@ -31158,8 +31158,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Old Bolton Road",
+      "city": "Stow",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -31611,7 +31611,7 @@
     },
     {
       "id": "osm-w1308828999",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Liberty Field Road",
       "lat": 42.506965,
       "lng": -71.508964,
       "sports": [
@@ -31624,8 +31624,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Liberty Field Road",
+      "city": "Boxborough",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -31719,7 +31719,7 @@
     },
     {
       "id": "osm-w1313881710",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Prince Street",
       "lat": 42.366666,
       "lng": -71.057159,
       "sports": [
@@ -31731,8 +31731,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Prince Street",
+      "city": "Boston",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -32042,7 +32042,7 @@
     },
     {
       "id": "osm-w1324721137",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · South Street",
       "lat": 42.298857,
       "lng": -71.638682,
       "sports": [
@@ -32054,8 +32054,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Street",
+      "city": "Northborough",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -32172,7 +32172,7 @@
     },
     {
       "id": "osm-w1329691199",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Zenith Drive",
       "lat": 42.266008,
       "lng": -71.844756,
       "sports": [
@@ -32184,8 +32184,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Zenith Drive",
+      "city": "Worcester",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -32256,7 +32256,7 @@
     },
     {
       "id": "osm-w1332107018",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Prospect Street",
       "lat": 42.301546,
       "lng": -71.711345,
       "sports": [
@@ -32268,8 +32268,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Prospect Street",
+      "city": "Shrewsbury",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -32278,7 +32278,7 @@
     },
     {
       "id": "osm-w1332527620",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Earle Street",
       "lat": 42.375738,
       "lng": -71.091138,
       "sports": [
@@ -32290,8 +32290,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Earle Street",
+      "city": "Somerville",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -32385,7 +32385,7 @@
     },
     {
       "id": "osm-w1340090601",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Oak Street",
       "lat": 42.517642,
       "lng": -71.005954,
       "sports": [
@@ -32397,8 +32397,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Oak Street",
+      "city": "Lynnfield",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -32535,7 +32535,7 @@
     },
     {
       "id": "osm-w1342550492",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East Lake Road",
       "lat": 42.271118,
       "lng": -71.752541,
       "sports": [
@@ -32547,8 +32547,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Lake Road",
+      "city": "Shrewsbury",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -32557,7 +32557,7 @@
     },
     {
       "id": "osm-w1342692594",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Heritage Drive",
       "lat": 41.731878,
       "lng": -70.590046,
       "sports": [
@@ -32569,8 +32569,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Heritage Drive",
+      "city": "Bourne",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -32579,7 +32579,7 @@
     },
     {
       "id": "osm-w1343177566",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · South Quinsigamond Avenue",
       "lat": 42.270005,
       "lng": -71.751024,
       "sports": [
@@ -32591,8 +32591,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Quinsigamond Avenue",
+      "city": "Shrewsbury",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -32623,7 +32623,7 @@
     },
     {
       "id": "osm-w1344548178",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Victoria Avenue",
       "lat": 42.226857,
       "lng": -71.796444,
       "sports": [
@@ -32635,8 +32635,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Victoria Avenue",
+      "city": "Worcester",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -32687,7 +32687,7 @@
     },
     {
       "id": "osm-w1344912124",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Laurel Ridge Lane",
       "lat": 42.308133,
       "lng": -71.701112,
       "sports": [
@@ -32699,8 +32699,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Laurel Ridge Lane",
+      "city": "Shrewsbury",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -32731,7 +32731,7 @@
     },
     {
       "id": "osm-w1346055571",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Olde Colony Drive",
       "lat": 42.321483,
       "lng": -71.696786,
       "sports": [
@@ -32743,8 +32743,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Olde Colony Drive",
+      "city": "Shrewsbury",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -32753,7 +32753,7 @@
     },
     {
       "id": "osm-w1346288869",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Main Street",
       "lat": 42.292344,
       "lng": -71.749864,
       "sports": [
@@ -32765,8 +32765,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Main Street",
+      "city": "Shrewsbury",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -32857,7 +32857,7 @@
     },
     {
       "id": "osm-w1352110989",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Monomoscoy Road",
       "lat": 41.566002,
       "lng": -70.507867,
       "sports": [
@@ -32869,8 +32869,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Monomoscoy Road",
+      "city": "Mashpee",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -33112,7 +33112,7 @@
     },
     {
       "id": "osm-w1364810048",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Abbot Street",
       "lat": 42.648749,
       "lng": -71.141383,
       "sports": [
@@ -33124,8 +33124,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Abbot Street",
+      "city": "Andover",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -33198,7 +33198,7 @@
     },
     {
       "id": "osm-w1376048560",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Revolution Drive",
       "lat": 42.392424,
       "lng": -71.079623,
       "sports": [
@@ -33210,8 +33210,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Revolution Drive",
+      "city": "Somerville",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -33366,7 +33366,7 @@
     },
     {
       "id": "osm-w1411637725",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Chestnut Street",
       "lat": 42.310119,
       "lng": -71.224241,
       "sports": [
@@ -33378,8 +33378,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Chestnut Street",
+      "city": "Newton",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -33575,7 +33575,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Raynham",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -33772,7 +33772,7 @@
     },
     {
       "id": "osm-w1433094803",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Farm Neck Way",
       "lat": 41.43841,
       "lng": -70.570009,
       "sports": [
@@ -33784,15 +33784,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Farm Neck Way",
+      "city": "Oak Bluffs",
       "state": "MA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1433221287",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Kennedy Drive",
       "lat": 42.437588,
       "lng": -71.032996,
       "sports": [
@@ -33804,8 +33804,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kennedy Drive",
+      "city": "Malden",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -34149,7 +34149,7 @@
     },
     {
       "id": "osm-w1436752419",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Gosnold Road",
       "lat": 41.528745,
       "lng": -70.674454,
       "sports": [
@@ -34161,8 +34161,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Gosnold Road",
+      "city": "Falmouth",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -34214,7 +34214,7 @@
     },
     {
       "id": "osm-w1436753731",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Meadow Neck Road",
       "lat": 41.571788,
       "lng": -70.514484,
       "sports": [
@@ -34226,8 +34226,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Meadow Neck Road",
+      "city": "Falmouth",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -34301,7 +34301,7 @@
     },
     {
       "id": "osm-w1441672024",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cedric Road",
       "lat": 42.32349,
       "lng": -71.196035,
       "sports": [
@@ -34313,8 +34313,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cedric Road",
+      "city": "Newton",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -34753,7 +34753,7 @@
     },
     {
       "id": "osm-w1451353390",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hayden Street",
       "lat": 42.586269,
       "lng": -72.306119,
       "sports": [
@@ -34765,8 +34765,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hayden Street",
+      "city": "Orange",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -34839,7 +34839,7 @@
     },
     {
       "id": "osm-w1459858618",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Pine Street",
       "lat": 42.35454,
       "lng": -71.251355,
       "sports": [
@@ -34851,8 +34851,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Pine Street",
+      "city": "Newton",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -34969,7 +34969,7 @@
     },
     {
       "id": "osm-w1466035677",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lake Avenue",
       "lat": 42.266445,
       "lng": -71.426951,
       "sports": [
@@ -34981,8 +34981,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lake Avenue",
+      "city": "Framingham",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -35033,7 +35033,7 @@
     },
     {
       "id": "osm-w1467875408",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Hansen Slope Trail",
       "lat": 42.39595,
       "lng": -71.251106,
       "sports": [
@@ -35045,8 +35045,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hansen Slope Trail",
+      "city": "Waltham",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -35181,7 +35181,7 @@
     },
     {
       "id": "osm-w1468761367",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Chestnut Street",
       "lat": 42.239205,
       "lng": -71.457697,
       "sports": [
@@ -35194,8 +35194,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Chestnut Street",
+      "city": "Ashland",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -35460,7 +35460,7 @@
     },
     {
       "id": "osm-w1469650585",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Beech Street",
       "lat": 42.573675,
       "lng": -71.816474,
       "sports": [
@@ -35472,8 +35472,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Beech Street",
+      "city": "Fitchburg",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -35673,7 +35673,7 @@
     },
     {
       "id": "osm-w1470413485",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Central Avenue",
       "lat": 42.419135,
       "lng": -71.091069,
       "sports": [
@@ -35685,8 +35685,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Central Avenue",
+      "city": "Medford",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -35716,7 +35716,7 @@
     },
     {
       "id": "osm-w1470413954",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lynn Fells Parkway",
       "lat": 42.462489,
       "lng": -71.068962,
       "sports": [
@@ -35728,8 +35728,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lynn Fells Parkway",
+      "city": "Melrose",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -35989,7 +35989,7 @@
     },
     {
       "id": "osm-w1471660503",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Washington Street",
       "lat": 42.334688,
       "lng": -71.246034,
       "sports": [
@@ -36002,15 +36002,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Washington Street",
+      "city": "Newton",
       "state": "MA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1471661265",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Gould Street",
       "lat": 42.307311,
       "lng": -71.23037,
       "sports": [
@@ -36022,8 +36022,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Gould Street",
+      "city": "Needham",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -36052,7 +36052,7 @@
     },
     {
       "id": "osm-w1471662252",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Dedham Street",
       "lat": 42.316618,
       "lng": -71.207453,
       "sports": [
@@ -36064,8 +36064,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Dedham Street",
+      "city": "Newton",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -36224,7 +36224,7 @@
     },
     {
       "id": "osm-w1473992736",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Louder's Lane",
       "lat": 42.306297,
       "lng": -71.131874,
       "sports": [
@@ -36236,8 +36236,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Louder's Lane",
+      "city": "Boston",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -36288,7 +36288,7 @@
     },
     {
       "id": "osm-w1476643172",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Merryknoll Road",
       "lat": 42.23826,
       "lng": -70.934952,
       "sports": [
@@ -36300,8 +36300,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Merryknoll Road",
+      "city": "Weymouth",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -36371,7 +36371,7 @@
     },
     {
       "id": "osm-w1479821462",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Linden Path",
       "lat": 42.305304,
       "lng": -71.123354,
       "sports": [
@@ -36383,8 +36383,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Linden Path",
+      "city": "Boston",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -36434,7 +36434,7 @@
     },
     {
       "id": "osm-w1479824591",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Commandants Way",
       "lat": 42.389593,
       "lng": -71.051865,
       "sports": [
@@ -36447,15 +36447,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Commandants Way",
+      "city": "Chelsea",
       "state": "MA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1479825217",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Kennard Street",
       "lat": 42.426883,
       "lng": -71.044532,
       "sports": [
@@ -36467,8 +36467,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kennard Street",
+      "city": "Malden",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -36968,7 +36968,7 @@
     },
     {
       "id": "osm-w1485442047",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Field Club Drive",
       "lat": 41.368343,
       "lng": -70.516783,
       "sports": [
@@ -36981,8 +36981,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Field Club Drive",
+      "city": "Edgartown",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -37448,7 +37448,7 @@
     },
     {
       "id": "osm-w1485893915",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Tuckernuck Avenue",
       "lat": 41.452563,
       "lng": -70.559483,
       "sports": [
@@ -37461,8 +37461,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Tuckernuck Avenue",
+      "city": "Oak Bluffs",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -37579,7 +37579,7 @@
     },
     {
       "id": "osm-w1485894503",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Blacksmith Shop Road",
       "lat": 41.60043,
       "lng": -70.634701,
       "sports": [
@@ -37591,8 +37591,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Blacksmith Shop Road",
+      "city": "Falmouth",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -37830,7 +37830,7 @@
     },
     {
       "id": "osm-w1485896710",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Peter Brown Cartway",
       "lat": 41.894897,
       "lng": -70.604347,
       "sports": [
@@ -37842,8 +37842,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Peter Brown Cartway",
+      "city": "Plymouth",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -37852,7 +37852,7 @@
     },
     {
       "id": "osm-w1485896730",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ryder Way",
       "lat": 41.945258,
       "lng": -70.627823,
       "sports": [
@@ -37865,8 +37865,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ryder Way",
+      "city": "Plymouth",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -38067,7 +38067,7 @@
     },
     {
       "id": "osm-w1493300055",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Sycamore Road",
       "lat": 42.735096,
       "lng": -71.170428,
       "sports": [
@@ -38079,8 +38079,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sycamore Road",
+      "city": "Methuen",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -38191,7 +38191,7 @@
     },
     {
       "id": "osm-w1495321758",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Boylston Street",
       "lat": 42.631233,
       "lng": -71.286843,
       "sports": [
@@ -38203,8 +38203,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Boylston Street",
+      "city": "Lowell",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -38301,7 +38301,7 @@
     },
     {
       "id": "osm-w1496823683",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Lenox Street",
       "lat": 42.602268,
       "lng": -72.226995,
       "sports": [
@@ -38313,8 +38313,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lenox Street",
+      "city": "Athol",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -38343,7 +38343,7 @@
     },
     {
       "id": "osm-w1497496909",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Hollis Street",
       "lat": 42.205971,
       "lng": -71.437903,
       "sports": [
@@ -38355,8 +38355,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hollis Street",
+      "city": "Holliston",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -38365,7 +38365,7 @@
     },
     {
       "id": "osm-w1498243730",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Joy Lane",
       "lat": 42.59164,
       "lng": -71.587679,
       "sports": [
@@ -38377,8 +38377,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Joy Lane",
+      "city": "Groton",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -38405,7 +38405,7 @@
     },
     {
       "id": "osm-w1499064274",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Main Street",
       "lat": 41.673079,
       "lng": -70.054135,
       "sports": [
@@ -38418,8 +38418,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Main Street",
+      "city": "Harwich",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -38554,7 +38554,7 @@
     },
     {
       "id": "osm-w1500716941",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Palmetto Drive",
       "lat": 42.028534,
       "lng": -71.458859,
       "sports": [
@@ -38566,8 +38566,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Palmetto Drive",
+      "city": "Bellingham",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -38880,7 +38880,7 @@
     },
     {
       "id": "osm-w1504426825",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Simmons Road",
       "lat": 41.94812,
       "lng": -70.903231,
       "sports": [
@@ -38892,8 +38892,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Simmons Road",
+      "city": "Middleborough",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -38902,7 +38902,7 @@
     },
     {
       "id": "osm-w1504647338",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Norfolk Street",
       "lat": 42.191293,
       "lng": -71.418319,
       "sports": [
@@ -38914,8 +38914,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Norfolk Street",
+      "city": "Holliston",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -39033,7 +39033,7 @@
     },
     {
       "id": "osm-w1504762924",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bemis Avenue",
       "lat": 42.145396,
       "lng": -72.586554,
       "sports": [
@@ -39045,8 +39045,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bemis Avenue",
+      "city": "Chicopee",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -39327,7 +39327,7 @@
     },
     {
       "id": "osm-w1507762128",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Housatonic Street",
       "lat": 42.301152,
       "lng": -73.244526,
       "sports": [
@@ -39339,8 +39339,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Housatonic Street",
+      "city": "Lee",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -39433,7 +39433,7 @@
     },
     {
       "id": "osm-w1509091389",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · College Highway",
       "lat": 42.052455,
       "lng": -72.770873,
       "sports": [
@@ -39445,8 +39445,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "College Highway",
+      "city": "Southwick",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -39521,7 +39521,7 @@
     },
     {
       "id": "osm-w1511777605",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Howard Street",
       "lat": 42.162922,
       "lng": -72.47682,
       "sports": [
@@ -39533,15 +39533,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Howard Street",
+      "city": "Ludlow",
       "state": "MA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1513726496",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Glen Road",
       "lat": 42.563334,
       "lng": -71.181314,
       "sports": [
@@ -39553,8 +39553,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Glen Road",
+      "city": "Wilmington",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -39886,7 +39886,7 @@
     },
     {
       "id": "osm-w1537215103",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fairlawn Lane",
       "lat": 42.443755,
       "lng": -71.192517,
       "sports": [
@@ -39898,8 +39898,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fairlawn Lane",
+      "city": "Lexington",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -39948,7 +39948,7 @@
     },
     {
       "id": "osm-w1537306675",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Story Street",
       "lat": 42.674195,
       "lng": -70.625612,
       "sports": [
@@ -39960,8 +39960,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Story Street",
+      "city": "Rockport",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -40144,7 +40144,7 @@
     },
     {
       "id": "osm-w1544944184",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Golf Drive",
       "lat": 41.881986,
       "lng": -70.594805,
       "sports": [
@@ -40156,8 +40156,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Golf Drive",
+      "city": "Plymouth",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -40184,7 +40184,7 @@
     },
     {
       "id": "osm-w1545282990",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Constitution Beach Road",
       "lat": 42.381615,
       "lng": -71.011816,
       "sports": [
@@ -40197,8 +40197,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Constitution Beach Road",
+      "city": "Boston",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -40291,7 +40291,7 @@
     },
     {
       "id": "osm-w1546854219",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Emerald Street",
       "lat": 42.420823,
       "lng": -71.083841,
       "sports": [
@@ -40303,8 +40303,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Emerald Street",
+      "city": "Malden",
       "state": "MA",
       "source": "osm",
       "tags": {}
@@ -40395,7 +40395,7 @@
     },
     {
       "id": "osm-w1547079224",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Petersham Road",
       "lat": 42.351476,
       "lng": -72.199353,
       "sports": [
@@ -40408,8 +40408,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Petersham Road",
+      "city": "Hardwick",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -40658,7 +40658,7 @@
     },
     {
       "id": "osm-w1553734184",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Point of Pines Avenue",
       "lat": 41.661671,
       "lng": -70.339654,
       "sports": [
@@ -40671,8 +40671,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Point of Pines Avenue",
+      "city": "Barnstable",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -40746,7 +40746,7 @@
     },
     {
       "id": "osm-w1554006838",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Squam Road",
       "lat": 41.310214,
       "lng": -69.984196,
       "sports": [
@@ -40758,8 +40758,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Squam Road",
+      "city": "Nantucket",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -40768,7 +40768,7 @@
     },
     {
       "id": "osm-w1554007774",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Dukes Road",
       "lat": 41.27911,
       "lng": -70.121089,
       "sports": [
@@ -40780,8 +40780,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Dukes Road",
+      "city": "Nantucket",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -40790,7 +40790,7 @@
     },
     {
       "id": "osm-w1554007867",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Top Gale Lane",
       "lat": 41.292271,
       "lng": -70.047828,
       "sports": [
@@ -40802,8 +40802,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Top Gale Lane",
+      "city": "Nantucket",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -40812,7 +40812,7 @@
     },
     {
       "id": "osm-w1554008732",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Polpis Road",
       "lat": 41.283586,
       "lng": -70.061655,
       "sports": [
@@ -40825,8 +40825,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Polpis Road",
+      "city": "Nantucket",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -40835,7 +40835,7 @@
     },
     {
       "id": "osm-w1554008734",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Polpis Bike Path",
       "lat": 41.282001,
       "lng": -70.061181,
       "sports": [
@@ -40848,15 +40848,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Polpis Bike Path",
+      "city": "Nantucket",
       "state": "MA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1554008739",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Harborview Drive",
       "lat": 41.280696,
       "lng": -70.07576,
       "sports": [
@@ -40868,8 +40868,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Harborview Drive",
+      "city": "Nantucket",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -40878,7 +40878,7 @@
     },
     {
       "id": "osm-w1554008740",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Middle Valley Road",
       "lat": 41.285091,
       "lng": -70.073667,
       "sports": [
@@ -40890,8 +40890,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Middle Valley Road",
+      "city": "Nantucket",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -40900,7 +40900,7 @@
     },
     {
       "id": "osm-w1554008741",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Shimmo Pond Road",
       "lat": 41.281662,
       "lng": -70.074483,
       "sports": [
@@ -40912,8 +40912,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Shimmo Pond Road",
+      "city": "Nantucket",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -40922,7 +40922,7 @@
     },
     {
       "id": "osm-w1554008742",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Monomoy Road",
       "lat": 41.279866,
       "lng": -70.078995,
       "sports": [
@@ -40934,8 +40934,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Monomoy Road",
+      "city": "Nantucket",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -40944,7 +40944,7 @@
     },
     {
       "id": "osm-w1554008744",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Boston Avenue",
       "lat": 41.274885,
       "lng": -70.078614,
       "sports": [
@@ -40956,8 +40956,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Boston Avenue",
+      "city": "Nantucket",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -40966,7 +40966,7 @@
     },
     {
       "id": "osm-w1554009660",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Eel Point Road",
       "lat": 41.29307,
       "lng": -70.176928,
       "sports": [
@@ -40979,15 +40979,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Eel Point Road",
+      "city": "Nantucket",
       "state": "MA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1554009663",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Eel Point Road",
       "lat": 41.292696,
       "lng": -70.173125,
       "sports": [
@@ -41000,15 +41000,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Eel Point Road",
+      "city": "Nantucket",
       "state": "MA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1554009667",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Eel Point Road",
       "lat": 41.288954,
       "lng": -70.191397,
       "sports": [
@@ -41020,8 +41020,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Eel Point Road",
+      "city": "Nantucket",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -41030,7 +41030,7 @@
     },
     {
       "id": "osm-w1554009669",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Eel Point Road",
       "lat": 41.292988,
       "lng": -70.161859,
       "sports": [
@@ -41042,8 +41042,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Eel Point Road",
+      "city": "Nantucket",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -41052,7 +41052,7 @@
     },
     {
       "id": "osm-w1554009671",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Eel Point Road",
       "lat": 41.291978,
       "lng": -70.15511,
       "sports": [
@@ -41065,15 +41065,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Eel Point Road",
+      "city": "Nantucket",
       "state": "MA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1554009675",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Trotts Hills Road",
       "lat": 41.290372,
       "lng": -70.146384,
       "sports": [
@@ -41085,8 +41085,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Trotts Hills Road",
+      "city": "Nantucket",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -41095,7 +41095,7 @@
     },
     {
       "id": "osm-w1554009676",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Swift Rock Road",
       "lat": 41.285928,
       "lng": -70.147154,
       "sports": [
@@ -41107,8 +41107,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Swift Rock Road",
+      "city": "Nantucket",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -41117,7 +41117,7 @@
     },
     {
       "id": "osm-w1554320859",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bayes Hill Road",
       "lat": 41.434254,
       "lng": -70.594535,
       "sports": [
@@ -41130,8 +41130,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bayes Hill Road",
+      "city": "Oak Bluffs",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -41140,7 +41140,7 @@
     },
     {
       "id": "osm-w1554321424",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Harthaven Road",
       "lat": 41.443563,
       "lng": -70.56391,
       "sports": [
@@ -41153,15 +41153,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Harthaven Road",
+      "city": "Oak Bluffs",
       "state": "MA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1554369338",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Craig Drive",
       "lat": 42.13155,
       "lng": -72.630198,
       "sports": [
@@ -41173,8 +41173,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Craig Drive",
+      "city": "West Springfield",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -41205,7 +41205,7 @@
     },
     {
       "id": "osm-w1554637524",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Maxey Pond Road",
       "lat": 41.285522,
       "lng": -70.130458,
       "sports": [
@@ -41217,8 +41217,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Maxey Pond Road",
+      "city": "Nantucket",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -41227,7 +41227,7 @@
     },
     {
       "id": "osm-w1554637526",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Maxey Pond Road",
       "lat": 41.28446,
       "lng": -70.131271,
       "sports": [
@@ -41239,8 +41239,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Maxey Pond Road",
+      "city": "Nantucket",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -41249,7 +41249,7 @@
     },
     {
       "id": "osm-w1554637850",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Charles Street",
       "lat": 41.293065,
       "lng": -70.103147,
       "sports": [
@@ -41261,8 +41261,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Charles Street",
+      "city": "Nantucket",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -41271,7 +41271,7 @@
     },
     {
       "id": "osm-w1554637851",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Brant Point Road",
       "lat": 41.290734,
       "lng": -70.102268,
       "sports": [
@@ -41283,8 +41283,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Brant Point Road",
+      "city": "Nantucket",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -41293,7 +41293,7 @@
     },
     {
       "id": "osm-w1554638298",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Chase Links Circle",
       "lat": 41.290838,
       "lng": -70.122314,
       "sports": [
@@ -41305,8 +41305,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Chase Links Circle",
+      "city": "Nantucket",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -41315,7 +41315,7 @@
     },
     {
       "id": "osm-w1554638472",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Vestal Street",
       "lat": 41.277897,
       "lng": -70.11587,
       "sports": [
@@ -41327,8 +41327,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Vestal Street",
+      "city": "Nantucket",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -41337,7 +41337,7 @@
     },
     {
       "id": "osm-w1554638473",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fox Grape Lane",
       "lat": 41.262108,
       "lng": -70.091479,
       "sports": [
@@ -41349,8 +41349,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fox Grape Lane",
+      "city": "Nantucket",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -41359,7 +41359,7 @@
     },
     {
       "id": "osm-w1554638780",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Rabbit Run Road",
       "lat": 41.285343,
       "lng": -70.06529,
       "sports": [
@@ -41371,8 +41371,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rabbit Run Road",
+      "city": "Nantucket",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -41381,7 +41381,7 @@
     },
     {
       "id": "osm-w1554647111",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · X Chappy (North Neck to Wasque)",
       "lat": 41.386899,
       "lng": -70.475017,
       "sports": [
@@ -41393,8 +41393,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "X Chappy (North Neck to Wasque)",
+      "city": "Edgartown",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -41403,7 +41403,7 @@
     },
     {
       "id": "osm-w1554647112",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Neck Road",
       "lat": 41.387143,
       "lng": -70.481357,
       "sports": [
@@ -41415,8 +41415,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Neck Road",
+      "city": "Edgartown",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -41425,7 +41425,7 @@
     },
     {
       "id": "osm-w1554647113",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Chappaquiddick Road",
       "lat": 41.381944,
       "lng": -70.480825,
       "sports": [
@@ -41438,8 +41438,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Chappaquiddick Road",
+      "city": "Edgartown",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -41448,7 +41448,7 @@
     },
     {
       "id": "osm-w1554647115",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Chappaquiddick Road",
       "lat": 41.382694,
       "lng": -70.484736,
       "sports": [
@@ -41460,8 +41460,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Chappaquiddick Road",
+      "city": "Edgartown",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -41470,7 +41470,7 @@
     },
     {
       "id": "osm-w1554647116",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Chappaquiddick Avenue",
       "lat": 41.379015,
       "lng": -70.486203,
       "sports": [
@@ -41482,8 +41482,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Chappaquiddick Avenue",
+      "city": "Edgartown",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -41492,7 +41492,7 @@
     },
     {
       "id": "osm-w1554647118",
-      "name": "Public Tennis Courts",
+      "name": "Sampson Hill Tennis Courts",
       "lat": 41.376991,
       "lng": -70.483495,
       "sports": [
@@ -41505,15 +41505,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sampson Hill",
+      "city": "Edgartown",
       "state": "MA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1554647121",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Snows Point",
       "lat": 41.372846,
       "lng": -70.498604,
       "sports": [
@@ -41525,8 +41525,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Snows Point",
+      "city": "Edgartown",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -41535,7 +41535,7 @@
     },
     {
       "id": "osm-w1554647122",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Green Pastures Road",
       "lat": 41.368929,
       "lng": -70.499051,
       "sports": [
@@ -41548,15 +41548,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Green Pastures Road",
+      "city": "Edgartown",
       "state": "MA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1554891940",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Close Connector",
       "lat": 41.388934,
       "lng": -70.549512,
       "sports": [
@@ -41568,8 +41568,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Close Connector",
+      "city": "Edgartown",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -41578,7 +41578,7 @@
     },
     {
       "id": "osm-w1554892005",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hye Way",
       "lat": 41.385759,
       "lng": -70.548236,
       "sports": [
@@ -41590,8 +41590,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hye Way",
+      "city": "Edgartown",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -41600,7 +41600,7 @@
     },
     {
       "id": "osm-w1555174998",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Road",
       "lat": 41.390104,
       "lng": -70.710769,
       "sports": [
@@ -41612,8 +41612,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Road",
+      "city": "Chilmark",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -41622,7 +41622,7 @@
     },
     {
       "id": "osm-w1555175001",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Mayhew Norton Road",
       "lat": 41.426144,
       "lng": -70.690982,
       "sports": [
@@ -41635,8 +41635,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mayhew Norton Road",
+      "city": "West Tisbury",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -41645,7 +41645,7 @@
     },
     {
       "id": "osm-w1555175003",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Obed Daggett Road",
       "lat": 41.428072,
       "lng": -70.690201,
       "sports": [
@@ -41658,8 +41658,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Obed Daggett Road",
+      "city": "West Tisbury",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -41668,7 +41668,7 @@
     },
     {
       "id": "osm-w1555175496",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Stonewall Road",
       "lat": 41.332697,
       "lng": -70.750963,
       "sports": [
@@ -41680,8 +41680,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Stonewall Road",
+      "city": "Chilmark",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -41690,7 +41690,7 @@
     },
     {
       "id": "osm-w1556634695",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Sharps Lot Road",
       "lat": 41.75951,
       "lng": -71.173118,
       "sports": [
@@ -41702,8 +41702,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sharps Lot Road",
+      "city": "Swansea",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -41712,7 +41712,7 @@
     },
     {
       "id": "osm-w1558227577",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Pleasant Street",
       "lat": 42.195496,
       "lng": -70.928125,
       "sports": [
@@ -41724,8 +41724,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pleasant Street",
+      "city": "Weymouth",
       "state": "MA",
       "source": "osm",
       "tags": {
@@ -41734,7 +41734,7 @@
     },
     {
       "id": "osm-w1559830604",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Tucks Point Road",
       "lat": 42.567595,
       "lng": -70.781951,
       "sports": [
@@ -41746,8 +41746,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Tucks Point Road",
+      "city": "Manchester-by-the-Sea",
       "state": "MA",
       "source": "osm",
       "tags": {

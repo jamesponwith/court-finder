@@ -26,7 +26,7 @@
     },
     {
       "id": "osm-w103248300",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Evansdale Drive",
       "lat": 39.647803,
       "lng": -79.967269,
       "sports": [
@@ -38,8 +38,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Evansdale Drive",
+      "city": "Morgantown",
       "state": "WV",
       "source": "osm",
       "tags": {}
@@ -301,7 +301,7 @@
     },
     {
       "id": "osm-w277481377",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Birch Street",
       "lat": 39.649593,
       "lng": -79.967373,
       "sports": [
@@ -313,8 +313,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Birch Street",
+      "city": "Morgantown",
       "state": "WV",
       "source": "osm",
       "tags": {
@@ -568,7 +568,7 @@
     },
     {
       "id": "osm-w299706041",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Little Creek Park Road",
       "lat": 38.343236,
       "lng": -81.723504,
       "sports": [
@@ -580,8 +580,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Little Creek Park Road",
+      "city": "South Charleston",
       "state": "WV",
       "source": "osm",
       "tags": {
@@ -623,7 +623,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Glade Springs",
       "state": "WV",
       "source": "osm",
       "tags": {
@@ -1278,7 +1278,7 @@
     },
     {
       "id": "osm-w399742340",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Jackson Memorial Park",
       "lat": 39.325786,
       "lng": -81.53612,
       "sports": [
@@ -1290,8 +1290,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Jackson Memorial Park",
+      "city": "Vienna",
       "state": "WV",
       "source": "osm",
       "tags": {}
@@ -1320,7 +1320,7 @@
     },
     {
       "id": "osm-w400387141",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Back Hollow Trail",
       "lat": 39.025145,
       "lng": -79.462645,
       "sports": [
@@ -1333,8 +1333,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Back Hollow Trail",
+      "city": "Tucker County",
       "state": "WV",
       "source": "osm",
       "tags": {}
@@ -2305,7 +2305,7 @@
     },
     {
       "id": "osm-w762541142",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · College Avenue",
       "lat": 38.423339,
       "lng": -82.42549,
       "sports": [
@@ -2317,8 +2317,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "College Avenue",
+      "city": "Huntington",
       "state": "WV",
       "source": "osm",
       "tags": {}
@@ -2581,7 +2581,7 @@
     },
     {
       "id": "osm-w908104578",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hill Avenue",
       "lat": 37.266513,
       "lng": -81.236877,
       "sports": [
@@ -2593,8 +2593,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hill Avenue",
+      "city": "Bluefield",
       "state": "WV",
       "source": "osm",
       "tags": {
@@ -2960,7 +2960,7 @@
     },
     {
       "id": "osm-w1005072289",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hinton Road",
       "lat": 37.703777,
       "lng": -81.093299,
       "sports": [
@@ -2972,8 +2972,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hinton Road",
+      "city": "Shady Spring",
       "state": "WV",
       "source": "osm",
       "tags": {}
@@ -3533,7 +3533,7 @@
     },
     {
       "id": "osm-w1271182849",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Shinn Road",
       "lat": 38.880749,
       "lng": -82.119363,
       "sports": [
@@ -3545,8 +3545,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Shinn Road",
+      "city": "Mason County",
       "state": "WV",
       "source": "osm",
       "tags": {}
@@ -4251,7 +4251,7 @@
     },
     {
       "id": "osm-w1444596196",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Wrights Lane",
       "lat": 38.608411,
       "lng": -81.992311,
       "sports": [
@@ -4263,8 +4263,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wrights Lane",
+      "city": "Buffalo",
       "state": "WV",
       "source": "osm",
       "tags": {
@@ -4379,7 +4379,7 @@
     },
     {
       "id": "osm-w1472824622",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Mayor's Fitness Trail",
       "lat": 39.273176,
       "lng": -80.365271,
       "sports": [
@@ -4392,8 +4392,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mayor's Fitness Trail",
+      "city": "Clarksburg",
       "state": "WV",
       "source": "osm",
       "tags": {}
@@ -4524,7 +4524,7 @@
     },
     {
       "id": "osm-w1473779612",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Club House Drive",
       "lat": 39.459107,
       "lng": -79.653865,
       "sports": [
@@ -4536,8 +4536,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Club House Drive",
+      "city": "Preston County",
       "state": "WV",
       "source": "osm",
       "tags": {
@@ -4566,7 +4566,7 @@
     },
     {
       "id": "osm-w1474141197",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Yukon Circle",
       "lat": 39.600484,
       "lng": -79.481846,
       "sports": [
@@ -4578,8 +4578,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Yukon Circle",
+      "city": "Preston County",
       "state": "WV",
       "source": "osm",
       "tags": {}
@@ -5067,7 +5067,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Vienna",
       "state": "WV",
       "source": "osm",
       "tags": {}
@@ -5890,7 +5890,7 @@
     },
     {
       "id": "osm-w1492381472",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Deitz Circle",
       "lat": 38.444315,
       "lng": -81.961142,
       "sports": [
@@ -5902,8 +5902,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Deitz Circle",
+      "city": "Teays Valley",
       "state": "WV",
       "source": "osm",
       "tags": {
@@ -6030,7 +6030,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Cabell County",
       "state": "WV",
       "source": "osm",
       "tags": {}
@@ -6143,7 +6143,7 @@
     },
     {
       "id": "osm-w1554325573",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Pope Way",
       "lat": 38.351365,
       "lng": -81.714416,
       "sports": [
@@ -6155,8 +6155,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pope Way",
+      "city": "Spring Hill",
       "state": "WV",
       "source": "osm",
       "tags": {
@@ -6165,7 +6165,7 @@
     },
     {
       "id": "osm-w1554357456",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Palmer Avenue",
       "lat": 37.910512,
       "lng": -81.979203,
       "sports": [
@@ -6177,8 +6177,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Palmer Avenue",
+      "city": "Mitchell Heights",
       "state": "WV",
       "source": "osm",
       "tags": {

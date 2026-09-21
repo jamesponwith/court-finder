@@ -48,7 +48,7 @@
     },
     {
       "id": "osm-n11357969288",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · I 95",
       "lat": 44.567965,
       "lng": -69.665186,
       "sports": [
@@ -60,8 +60,8 @@
       "indoor": true,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "I 95",
+      "city": "Waterville",
       "state": "ME",
       "source": "osm",
       "tags": {}
@@ -988,7 +988,7 @@
     },
     {
       "id": "osm-w515878606",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · State Street",
       "lat": 44.550362,
       "lng": -68.427804,
       "sports": [
@@ -1000,8 +1000,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "State Street",
+      "city": "Ellsworth",
       "state": "ME",
       "source": "osm",
       "tags": {
@@ -1650,7 +1650,7 @@
     },
     {
       "id": "osm-w750890330",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Country Club Road",
       "lat": 43.137805,
       "lng": -70.658932,
       "sports": [
@@ -1662,8 +1662,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Country Club Road",
+      "city": "York",
       "state": "ME",
       "source": "osm",
       "tags": {}
@@ -1783,7 +1783,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Paroisse de Clair",
       "state": "ME",
       "source": "osm",
       "tags": {
@@ -3661,7 +3661,7 @@
     },
     {
       "id": "osm-w995149807",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Clubhouse Road",
       "lat": 43.305381,
       "lng": -70.625138,
       "sports": [
@@ -3673,8 +3673,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Clubhouse Road",
+      "city": "Wells",
       "state": "ME",
       "source": "osm",
       "tags": {
@@ -4493,7 +4493,7 @@
     },
     {
       "id": "osm-w1044743966",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Acres of Wildlife Road",
       "lat": 43.818326,
       "lng": -70.63459,
       "sports": [
@@ -4505,8 +4505,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Acres of Wildlife Road",
+      "city": "Standish",
       "state": "ME",
       "source": "osm",
       "tags": {
@@ -4745,7 +4745,7 @@
     },
     {
       "id": "osm-w1082496614",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Gray Road",
       "lat": 43.723341,
       "lng": -70.423566,
       "sports": [
@@ -4757,8 +4757,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Gray Road",
+      "city": "Gorham",
       "state": "ME",
       "source": "osm",
       "tags": {}
@@ -4953,7 +4953,7 @@
     },
     {
       "id": "osm-w1138154325",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Academy Road",
       "lat": 44.200232,
       "lng": -70.410458,
       "sports": [
@@ -4965,8 +4965,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Academy Road",
+      "city": "Hebron",
       "state": "ME",
       "source": "osm",
       "tags": {}
@@ -5059,7 +5059,7 @@
     },
     {
       "id": "osm-w1163659024",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Waites Landing",
       "lat": 43.710179,
       "lng": -70.222232,
       "sports": [
@@ -5072,7 +5072,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Falmouth",
       "state": "ME",
       "source": "osm",
       "tags": {
@@ -5229,7 +5229,7 @@
     },
     {
       "id": "osm-w1207019072",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Morrissey Lane",
       "lat": 43.99419,
       "lng": -70.614336,
       "sports": [
@@ -5241,8 +5241,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Morrissey Lane",
+      "city": "Naples",
       "state": "ME",
       "source": "osm",
       "tags": {
@@ -5337,7 +5337,7 @@
     },
     {
       "id": "osm-w1226562426",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Main Street",
       "lat": 43.810628,
       "lng": -69.63139,
       "sports": [
@@ -5349,8 +5349,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Main Street",
+      "city": "Southport",
       "state": "ME",
       "source": "osm",
       "tags": {}
@@ -5580,7 +5580,7 @@
     },
     {
       "id": "osm-w1237980051",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hilltop Road",
       "lat": 44.90526,
       "lng": -68.666233,
       "sports": [
@@ -5592,8 +5592,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hilltop Road",
+      "city": "Orono",
       "state": "ME",
       "source": "osm",
       "tags": {}
@@ -5823,7 +5823,7 @@
     },
     {
       "id": "osm-w1239426113",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Foreside Road",
       "lat": 43.708983,
       "lng": -70.231069,
       "sports": [
@@ -5836,8 +5836,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Foreside Road",
+      "city": "Falmouth",
       "state": "ME",
       "source": "osm",
       "tags": {}
@@ -6128,7 +6128,7 @@
     },
     {
       "id": "osm-w1278630859",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Pleasant Point Road",
       "lat": 44.175854,
       "lng": -70.905532,
       "sports": [
@@ -6140,8 +6140,8 @@
       "indoor": null,
       "access": "customers",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pleasant Point Road",
+      "city": "Center Lovell",
       "state": "ME",
       "source": "osm",
       "tags": {
@@ -6359,7 +6359,7 @@
     },
     {
       "id": "osm-w1287729370",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Evergreen Circle",
       "lat": 43.946939,
       "lng": -69.953157,
       "sports": [
@@ -6371,8 +6371,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Evergreen Circle",
+      "city": "Topsham",
       "state": "ME",
       "source": "osm",
       "tags": {
@@ -6403,7 +6403,7 @@
     },
     {
       "id": "osm-w1288813349",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Inverness Road",
       "lat": 43.771131,
       "lng": -70.273339,
       "sports": [
@@ -6415,8 +6415,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Inverness Road",
+      "city": "Falmouth",
       "state": "ME",
       "source": "osm",
       "tags": {}
@@ -6553,7 +6553,7 @@
     },
     {
       "id": "osm-w1312937769",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Oxford Road",
       "lat": 44.092239,
       "lng": -70.532357,
       "sports": [
@@ -6565,8 +6565,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Oxford Road",
+      "city": "Otisfield",
       "state": "ME",
       "source": "osm",
       "tags": {
@@ -6597,7 +6597,7 @@
     },
     {
       "id": "osm-w1324868761",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Turnberry Drive",
       "lat": 43.772729,
       "lng": -70.263186,
       "sports": [
@@ -6609,8 +6609,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Turnberry Drive",
+      "city": "Cumberland",
       "state": "ME",
       "source": "osm",
       "tags": {
@@ -7028,7 +7028,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Town of Saint Andrews",
       "state": "ME",
       "source": "osm",
       "tags": {
@@ -7267,7 +7267,7 @@
     },
     {
       "id": "osm-w1416578170",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · South Freeport Road",
       "lat": 43.817315,
       "lng": -70.143838,
       "sports": [
@@ -7279,8 +7279,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Freeport Road",
+      "city": "Freeport",
       "state": "ME",
       "source": "osm",
       "tags": {
@@ -7671,7 +7671,7 @@
     },
     {
       "id": "osm-w1471513786",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Rue St-Antoine",
       "lat": 47.164214,
       "lng": -67.928358,
       "sports": [
@@ -7683,8 +7683,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rue St-Antoine",
+      "city": "Paroisse de Saint-Léonard",
       "state": "ME",
       "source": "osm",
       "tags": {
@@ -7713,7 +7713,7 @@
     },
     {
       "id": "osm-w1471514003",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Rue Y. Dion",
       "lat": 47.291987,
       "lng": -68.397147,
       "sports": [
@@ -7725,8 +7725,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rue Y. Dion",
+      "city": "Paroisse de Saint-Hilaire",
       "state": "ME",
       "source": "osm",
       "tags": {
@@ -8591,7 +8591,7 @@
     },
     {
       "id": "osm-w1481638360",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · US 202",
       "lat": 44.323905,
       "lng": -69.87806,
       "sports": [
@@ -8603,8 +8603,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "US 202",
+      "city": "Manchester",
       "state": "ME",
       "source": "osm",
       "tags": {
@@ -9925,7 +9925,7 @@
     },
     {
       "id": "osm-w1517814140",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Calderwood Lane",
       "lat": 44.184451,
       "lng": -69.062538,
       "sports": [
@@ -9938,8 +9938,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Calderwood Lane",
+      "city": "Rockport",
       "state": "ME",
       "source": "osm",
       "tags": {}
@@ -10629,7 +10629,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Winterport",
       "state": "ME",
       "source": "osm",
       "tags": {
@@ -10901,7 +10901,7 @@
     },
     {
       "id": "osm-w1542057794",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Stone Cliff Road",
       "lat": 43.446618,
       "lng": -70.349011,
       "sports": [
@@ -10913,8 +10913,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Stone Cliff Road",
+      "city": "Biddeford",
       "state": "ME",
       "source": "osm",
       "tags": {}
@@ -11789,7 +11789,7 @@
     },
     {
       "id": "osm-w1553720853",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Falmouth Road",
       "lat": 43.724832,
       "lng": -70.253674,
       "sports": [
@@ -11801,8 +11801,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Falmouth Road",
+      "city": "Falmouth",
       "state": "ME",
       "source": "osm",
       "tags": {
@@ -11811,7 +11811,7 @@
     },
     {
       "id": "osm-w1553721051",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Main Street",
       "lat": 44.051712,
       "lng": -70.9593,
       "sports": [
@@ -11823,15 +11823,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Main Street",
+      "city": "Fryeburg",
       "state": "ME",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1553725724",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Quisisana Drive",
       "lat": 44.179394,
       "lng": -70.903708,
       "sports": [
@@ -11843,8 +11843,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Quisisana Drive",
+      "city": "Center Lovell",
       "state": "ME",
       "source": "osm",
       "tags": {

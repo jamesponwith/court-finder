@@ -136,7 +136,7 @@
     },
     {
       "id": "osm-n13897314992",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Carrel Street",
       "lat": 35.766325,
       "lng": -83.977196,
       "sports": [
@@ -148,8 +148,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Carrel Street",
+      "city": "Alcoa",
       "state": "TN",
       "source": "osm",
       "tags": {}
@@ -409,7 +409,7 @@
     },
     {
       "id": "osm-w107603872",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Appleton Drive",
       "lat": 36.572163,
       "lng": -87.432974,
       "sports": [
@@ -421,8 +421,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Appleton Drive",
+      "city": "Clarksville",
       "state": "TN",
       "source": "osm",
       "tags": {
@@ -1296,7 +1296,7 @@
     },
     {
       "id": "osm-w199523433",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Dr. Martin Luther King Jr Avenue",
       "lat": 35.136249,
       "lng": -90.035677,
       "sports": [
@@ -1308,8 +1308,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Dr. Martin Luther King Jr Avenue",
+      "city": "Memphis",
       "state": "TN",
       "source": "osm",
       "tags": {}
@@ -1422,7 +1422,7 @@
     },
     {
       "id": "osm-w224295895",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Dr. Martin Luther King Jr Avenue",
       "lat": 35.135678,
       "lng": -90.031504,
       "sports": [
@@ -1434,8 +1434,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Dr. Martin Luther King Jr Avenue",
+      "city": "Memphis",
       "state": "TN",
       "source": "osm",
       "tags": {}
@@ -1548,7 +1548,7 @@
     },
     {
       "id": "osm-w244246812",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Tyson McGhee Park Street Southwest",
       "lat": 35.954558,
       "lng": -83.946704,
       "sports": [
@@ -1560,15 +1560,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Tyson McGhee Park Street Southwest",
+      "city": "Knoxville",
       "state": "TN",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w245546058",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Governors Way",
       "lat": 35.971417,
       "lng": -86.728013,
       "sports": [
@@ -1580,8 +1580,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Governors Way",
+      "city": "Brentwood",
       "state": "TN",
       "source": "osm",
       "tags": {
@@ -1610,7 +1610,7 @@
     },
     {
       "id": "osm-w246508926",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Eastwood Drive",
       "lat": 35.974315,
       "lng": -86.743903,
       "sports": [
@@ -1622,8 +1622,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Eastwood Drive",
+      "city": "Brentwood",
       "state": "TN",
       "source": "osm",
       "tags": {
@@ -1632,7 +1632,7 @@
     },
     {
       "id": "osm-w246542251",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Boiling Springs/Ravenwood Trail",
       "lat": 35.974108,
       "lng": -86.756648,
       "sports": [
@@ -1644,8 +1644,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Boiling Springs/Ravenwood Trail",
+      "city": "Brentwood",
       "state": "TN",
       "source": "osm",
       "tags": {
@@ -1829,7 +1829,7 @@
     },
     {
       "id": "osm-w268545430",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Drane Street",
       "lat": 36.535763,
       "lng": -87.355053,
       "sports": [
@@ -1841,8 +1841,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Drane Street",
+      "city": "Clarksville",
       "state": "TN",
       "source": "osm",
       "tags": {}
@@ -2286,7 +2286,7 @@
     },
     {
       "id": "osm-w341673010",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Irene Boulevard",
       "lat": 35.014782,
       "lng": -89.792222,
       "sports": [
@@ -2298,8 +2298,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Irene Boulevard",
+      "city": "Shelby County",
       "state": "TN",
       "source": "osm",
       "tags": {
@@ -2769,7 +2769,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Clarksville",
       "state": "TN",
       "source": "osm",
       "tags": {}
@@ -4222,7 +4222,7 @@
     },
     {
       "id": "osm-w553540813",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Plantation Drive",
       "lat": 36.180825,
       "lng": -85.432294,
       "sports": [
@@ -4234,8 +4234,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Plantation Drive",
+      "city": "Putnam County",
       "state": "TN",
       "source": "osm",
       "tags": {
@@ -5836,7 +5836,7 @@
     },
     {
       "id": "osm-w666166602",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Sanders Road",
       "lat": 36.555943,
       "lng": -87.300219,
       "sports": [
@@ -5848,8 +5848,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sanders Road",
+      "city": "Clarksville",
       "state": "TN",
       "source": "osm",
       "tags": {}
@@ -6472,7 +6472,7 @@
     },
     {
       "id": "osm-w693653023",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Gettysvue Drive",
       "lat": 35.890222,
       "lng": -84.083336,
       "sports": [
@@ -6484,8 +6484,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Gettysvue Drive",
+      "city": "Knoxville",
       "state": "TN",
       "source": "osm",
       "tags": {
@@ -6688,7 +6688,7 @@
     },
     {
       "id": "osm-w734240219",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Academy Way",
       "lat": 35.923997,
       "lng": -84.105508,
       "sports": [
@@ -6700,15 +6700,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Academy Way",
+      "city": "Knoxville",
       "state": "TN",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w736488155",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cedar Bluff",
       "lat": 35.923207,
       "lng": -84.11772,
       "sports": [
@@ -6721,7 +6721,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Knoxville",
       "state": "TN",
       "source": "osm",
       "tags": {}
@@ -6978,7 +6978,7 @@
     },
     {
       "id": "osm-w736894246",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Country Club Way",
       "lat": 35.939737,
       "lng": -84.061356,
       "sports": [
@@ -6990,8 +6990,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Country Club Way",
+      "city": "Cedar Bluff",
       "state": "TN",
       "source": "osm",
       "tags": {
@@ -8619,7 +8619,7 @@
     },
     {
       "id": "osm-w852231768",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Creek Coyote Trail",
       "lat": 36.612333,
       "lng": -87.388271,
       "sports": [
@@ -8631,8 +8631,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Creek Coyote Trail",
+      "city": "Clarksville",
       "state": "TN",
       "source": "osm",
       "tags": {}
@@ -8939,7 +8939,7 @@
     },
     {
       "id": "osm-w906975544",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Darby Dan Lane",
       "lat": 35.058103,
       "lng": -89.768135,
       "sports": [
@@ -8951,8 +8951,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Darby Dan Lane",
+      "city": "Germantown",
       "state": "TN",
       "source": "osm",
       "tags": {
@@ -9137,7 +9137,7 @@
     },
     {
       "id": "osm-w919958375",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wedge Way",
       "lat": 36.401607,
       "lng": -83.559052,
       "sports": [
@@ -9149,8 +9149,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wedge Way",
+      "city": "Lone Mountain",
       "state": "TN",
       "source": "osm",
       "tags": {
@@ -9649,7 +9649,7 @@
     },
     {
       "id": "osm-w967928457",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Greytown Way",
       "lat": 35.925598,
       "lng": -84.154039,
       "sports": [
@@ -9661,8 +9661,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Greytown Way",
+      "city": "Knox County",
       "state": "TN",
       "source": "osm",
       "tags": {
@@ -9918,7 +9918,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Knox County",
       "state": "TN",
       "source": "osm",
       "tags": {}
@@ -10895,7 +10895,7 @@
     },
     {
       "id": "osm-w1089086408",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Pendragon Road",
       "lat": 36.549385,
       "lng": -82.606417,
       "sports": [
@@ -10907,8 +10907,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pendragon Road",
+      "city": "Kingsport",
       "state": "TN",
       "source": "osm",
       "tags": {
@@ -11217,7 +11217,7 @@
     },
     {
       "id": "osm-w1112416222",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Smoky Mountain Circle",
       "lat": 35.852289,
       "lng": -83.56585,
       "sports": [
@@ -11229,8 +11229,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Smoky Mountain Circle",
+      "city": "Sevierville",
       "state": "TN",
       "source": "osm",
       "tags": {
@@ -11633,7 +11633,7 @@
     },
     {
       "id": "osm-w1148146600",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Brooksboro Terrace",
       "lat": 36.085218,
       "lng": -86.642141,
       "sports": [
@@ -11645,8 +11645,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Brooksboro Terrace",
+      "city": "Nashville",
       "state": "TN",
       "source": "osm",
       "tags": {
@@ -11765,7 +11765,7 @@
     },
     {
       "id": "osm-w1158009876",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Neldia Court",
       "lat": 36.197742,
       "lng": -86.738035,
       "sports": [
@@ -11777,8 +11777,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Neldia Court",
+      "city": "Nashville",
       "state": "TN",
       "source": "osm",
       "tags": {
@@ -11823,7 +11823,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Nashville",
       "state": "TN",
       "source": "osm",
       "tags": {
@@ -12000,7 +12000,7 @@
     },
     {
       "id": "osm-w1217231619",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Magnolia Woods Drive",
       "lat": 35.196809,
       "lng": -89.872284,
       "sports": [
@@ -12012,8 +12012,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Magnolia Woods Drive",
+      "city": "Bartlett",
       "state": "TN",
       "source": "osm",
       "tags": {}
@@ -13928,7 +13928,7 @@
     },
     {
       "id": "osm-w1334983480",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Edgefield Drive",
       "lat": 35.615134,
       "lng": -85.80194,
       "sports": [
@@ -13940,8 +13940,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Edgefield Drive",
+      "city": "Warren County",
       "state": "TN",
       "source": "osm",
       "tags": {
@@ -14296,7 +14296,7 @@
     },
     {
       "id": "osm-w1339397133",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Marks Avenue",
       "lat": 35.246927,
       "lng": -85.83896,
       "sports": [
@@ -14308,8 +14308,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Marks Avenue",
+      "city": "Monteagle",
       "state": "TN",
       "source": "osm",
       "tags": {
@@ -14552,7 +14552,7 @@
     },
     {
       "id": "osm-w1343096227",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Norden Drive",
       "lat": 35.874178,
       "lng": -84.208693,
       "sports": [
@@ -14564,8 +14564,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Norden Drive",
+      "city": "Farragut",
       "state": "TN",
       "source": "osm",
       "tags": {
@@ -14662,7 +14662,7 @@
     },
     {
       "id": "osm-w1346453389",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Swans Ferry Road",
       "lat": 35.907619,
       "lng": -83.592599,
       "sports": [
@@ -14674,8 +14674,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Swans Ferry Road",
+      "city": "Sevierville",
       "state": "TN",
       "source": "osm",
       "tags": {
@@ -14984,7 +14984,7 @@
     },
     {
       "id": "osm-w1355508324",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Canada Road",
       "lat": 35.229264,
       "lng": -89.739308,
       "sports": [
@@ -14996,8 +14996,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Canada Road",
+      "city": "Lakeland",
       "state": "TN",
       "source": "osm",
       "tags": {
@@ -16209,7 +16209,7 @@
     },
     {
       "id": "osm-w1424745530",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Hobson Road",
       "lat": 35.871456,
       "lng": -84.466728,
       "sports": [
@@ -16221,8 +16221,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hobson Road",
+      "city": "Roane County",
       "state": "TN",
       "source": "osm",
       "tags": {
@@ -16828,7 +16828,7 @@
     },
     {
       "id": "osm-w1432378446",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Rogersville Bypass",
       "lat": 36.416382,
       "lng": -82.996789,
       "sports": [
@@ -16840,8 +16840,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rogersville Bypass",
+      "city": "Rogersville",
       "state": "TN",
       "source": "osm",
       "tags": {}
@@ -16870,7 +16870,7 @@
     },
     {
       "id": "osm-w1434456473",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Deane Hill Drive",
       "lat": 35.926528,
       "lng": -84.014732,
       "sports": [
@@ -16882,8 +16882,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Deane Hill Drive",
+      "city": "Knoxville",
       "state": "TN",
       "source": "osm",
       "tags": {}
@@ -18162,7 +18162,7 @@
     },
     {
       "id": "osm-w1444271371",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Country Club Drive",
       "lat": 35.17258,
       "lng": -86.582941,
       "sports": [
@@ -18174,8 +18174,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Country Club Drive",
+      "city": "Fayetteville",
       "state": "TN",
       "source": "osm",
       "tags": {
@@ -18332,7 +18332,7 @@
     },
     {
       "id": "osm-w1447244763",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North Sanga Road",
       "lat": 35.136038,
       "lng": -89.771246,
       "sports": [
@@ -18344,15 +18344,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Sanga Road",
+      "city": "Memphis",
       "state": "TN",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1447565697",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · South Byhalia Road",
       "lat": 35.019342,
       "lng": -89.689384,
       "sports": [
@@ -18364,8 +18364,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Byhalia Road",
+      "city": "Collierville",
       "state": "TN",
       "source": "osm",
       "tags": {
@@ -18548,7 +18548,7 @@
     },
     {
       "id": "osm-w1457617021",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Players Club Parkway",
       "lat": 35.051517,
       "lng": -89.784345,
       "sports": [
@@ -18560,8 +18560,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Players Club Parkway",
+      "city": "Memphis",
       "state": "TN",
       "source": "osm",
       "tags": {
@@ -19406,7 +19406,7 @@
     },
     {
       "id": "osm-w1476967813",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Stonehenge Drive",
       "lat": 36.008815,
       "lng": -84.887632,
       "sports": [
@@ -19419,8 +19419,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Stonehenge Drive",
+      "city": "Fairfield Glade",
       "state": "TN",
       "source": "osm",
       "tags": {}
@@ -19887,7 +19887,7 @@
     },
     {
       "id": "osm-w1484704167",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Majestic Lane",
       "lat": 35.924743,
       "lng": -86.926671,
       "sports": [
@@ -19899,8 +19899,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Majestic Lane",
+      "city": "Franklin",
       "state": "TN",
       "source": "osm",
       "tags": {}
@@ -20186,7 +20186,7 @@
     },
     {
       "id": "osm-w1486072245",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Colson Road",
       "lat": 36.488218,
       "lng": -87.813404,
       "sports": [
@@ -20198,8 +20198,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Colson Road",
+      "city": "Dover",
       "state": "TN",
       "source": "osm",
       "tags": {}
@@ -20226,7 +20226,7 @@
     },
     {
       "id": "osm-w1486702585",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Timberlinks Drive",
       "lat": 35.13033,
       "lng": -85.344261,
       "sports": [
@@ -20238,8 +20238,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Timberlinks Drive",
+      "city": "Signal Mountain",
       "state": "TN",
       "source": "osm",
       "tags": {
@@ -20394,7 +20394,7 @@
     },
     {
       "id": "osm-w1492742221",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Vaughn Street",
       "lat": 35.838999,
       "lng": -86.383017,
       "sports": [
@@ -20406,8 +20406,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Vaughn Street",
+      "city": "Murfreesboro",
       "state": "TN",
       "source": "osm",
       "tags": {}
@@ -20576,7 +20576,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Chattanooga",
       "state": "TN",
       "source": "osm",
       "tags": {
@@ -20605,7 +20605,7 @@
     },
     {
       "id": "osm-w1492941044",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Mocs Dr",
       "lat": 35.049364,
       "lng": -85.300785,
       "sports": [
@@ -20617,8 +20617,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mocs Dr",
+      "city": "Chattanooga",
       "state": "TN",
       "source": "osm",
       "tags": {}
@@ -20774,7 +20774,7 @@
     },
     {
       "id": "osm-w1492944638",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Norrod Circle",
       "lat": 36.085616,
       "lng": -85.226991,
       "sports": [
@@ -20786,8 +20786,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Norrod Circle",
+      "city": "Cumberland County",
       "state": "TN",
       "source": "osm",
       "tags": {}
@@ -20898,7 +20898,7 @@
     },
     {
       "id": "osm-w1492946380",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lakeview Drive",
       "lat": 36.000013,
       "lng": -84.886045,
       "sports": [
@@ -20910,8 +20910,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lakeview Drive",
+      "city": "Fairfield Glade",
       "state": "TN",
       "source": "osm",
       "tags": {
@@ -21024,7 +21024,7 @@
     },
     {
       "id": "osm-w1493097141",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Kingston Pike",
       "lat": 35.849248,
       "lng": -84.256166,
       "sports": [
@@ -21037,8 +21037,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kingston Pike",
+      "city": "Loudon County",
       "state": "TN",
       "source": "osm",
       "tags": {}
@@ -21153,7 +21153,7 @@
     },
     {
       "id": "osm-w1493287147",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cove Lake Lane",
       "lat": 36.308518,
       "lng": -84.214397,
       "sports": [
@@ -21166,8 +21166,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cove Lake Lane",
+      "city": "Caryville",
       "state": "TN",
       "source": "osm",
       "tags": {}
@@ -21507,7 +21507,7 @@
     },
     {
       "id": "osm-w1493719695",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Chestnut Drive",
       "lat": 36.197981,
       "lng": -84.074275,
       "sports": [
@@ -21520,8 +21520,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Chestnut Drive",
+      "city": "Norris Municipal Limits",
       "state": "TN",
       "source": "osm",
       "tags": {}
@@ -21737,7 +21737,7 @@
     },
     {
       "id": "osm-w1497985802",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Watt Cemetery Road",
       "lat": 35.696812,
       "lng": -84.271495,
       "sports": [
@@ -21750,15 +21750,15 @@
       "indoor": true,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Watt Cemetery Road",
+      "city": "Tellico Village",
       "state": "TN",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1498146361",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bruton Parish Cove",
       "lat": 35.2166,
       "lng": -89.755092,
       "sports": [
@@ -21770,8 +21770,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bruton Parish Cove",
+      "city": "Bartlett",
       "state": "TN",
       "source": "osm",
       "tags": {
@@ -22311,7 +22311,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Hendersonville",
       "state": "TN",
       "source": "osm",
       "tags": {
@@ -22417,7 +22417,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Jackson",
       "state": "TN",
       "source": "osm",
       "tags": {
@@ -23020,7 +23020,7 @@
     },
     {
       "id": "osm-w1553921633",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ootsima Way",
       "lat": 35.69888,
       "lng": -84.259195,
       "sports": [
@@ -23032,8 +23032,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ootsima Way",
+      "city": "Tellico Village",
       "state": "TN",
       "source": "osm",
       "tags": {}

@@ -89,7 +89,7 @@
     },
     {
       "id": "osm-w28772189",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Issaqueena Trail",
       "lat": 34.702345,
       "lng": -82.792897,
       "sports": [
@@ -101,8 +101,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Issaqueena Trail",
+      "city": "Clemson",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -344,7 +344,7 @@
     },
     {
       "id": "osm-w45873149",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Salters Road",
       "lat": 34.824384,
       "lng": -82.322968,
       "sports": [
@@ -356,8 +356,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Salters Road",
+      "city": "Greenville",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -424,7 +424,7 @@
     },
     {
       "id": "osm-w59434007",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Carl Kohrt Drive",
       "lat": 34.931348,
       "lng": -82.43747,
       "sports": [
@@ -436,8 +436,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Carl Kohrt Drive",
+      "city": "Travelers Rest",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -446,7 +446,7 @@
     },
     {
       "id": "osm-w65698488",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lakehurst Street",
       "lat": 34.847803,
       "lng": -82.383998,
       "sports": [
@@ -458,15 +458,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lakehurst Street",
+      "city": "Greenville",
       "state": "SC",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w69127433",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Corn Road",
       "lat": 34.792975,
       "lng": -82.289727,
       "sports": [
@@ -478,15 +478,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Corn Road",
+      "city": "Mauldin",
       "state": "SC",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w69298138",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Green Avenue",
       "lat": 34.839446,
       "lng": -82.410402,
       "sports": [
@@ -498,8 +498,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Green Avenue",
+      "city": "Greenville",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -546,7 +546,7 @@
     },
     {
       "id": "osm-w83563454",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Valley Green",
       "lat": 34.798933,
       "lng": -82.283933,
       "sports": [
@@ -558,8 +558,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Valley Green",
+      "city": "Mauldin",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -568,7 +568,7 @@
     },
     {
       "id": "osm-w83563472",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Valley Green",
       "lat": 34.797477,
       "lng": -82.284628,
       "sports": [
@@ -580,8 +580,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Valley Green",
+      "city": "Mauldin",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -897,7 +897,7 @@
     },
     {
       "id": "osm-w163515292",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Dumain Court",
       "lat": 34.687455,
       "lng": -82.361302,
       "sports": [
@@ -909,8 +909,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Dumain Court",
+      "city": "Greenville County",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -1045,7 +1045,7 @@
     },
     {
       "id": "osm-w186889733",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ridge Road",
       "lat": 34.808591,
       "lng": -82.34013,
       "sports": [
@@ -1057,8 +1057,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ridge Road",
+      "city": "Greenville",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -1550,7 +1550,7 @@
     },
     {
       "id": "osm-w242985965",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fluor Daniel Drive",
       "lat": 34.841579,
       "lng": -82.336149,
       "sports": [
@@ -1562,8 +1562,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fluor Daniel Drive",
+      "city": "Greenville",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -1592,7 +1592,7 @@
     },
     {
       "id": "osm-w246326796",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Tennis Club Lane",
       "lat": 32.605064,
       "lng": -80.091424,
       "sports": [
@@ -1604,8 +1604,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Tennis Club Lane",
+      "city": "Kiawah Island",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -2121,7 +2121,7 @@
     },
     {
       "id": "osm-w302107539",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Transit Drive",
       "lat": 34.837284,
       "lng": -82.339794,
       "sports": [
@@ -2133,8 +2133,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Transit Drive",
+      "city": "Greenville",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -2143,7 +2143,7 @@
     },
     {
       "id": "osm-w302601983",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Glen Forest Drive",
       "lat": 34.852675,
       "lng": -82.341407,
       "sports": [
@@ -2155,8 +2155,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Glen Forest Drive",
+      "city": "Greenville",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -2187,7 +2187,7 @@
     },
     {
       "id": "osm-w306253345",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bent Oak Road",
       "lat": 34.865017,
       "lng": -82.2653,
       "sports": [
@@ -2199,8 +2199,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bent Oak Road",
+      "city": "Greenville County",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -2289,7 +2289,7 @@
     },
     {
       "id": "osm-w308601392",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Forest View Circle",
       "lat": 34.786928,
       "lng": -82.709753,
       "sports": [
@@ -2301,15 +2301,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Forest View Circle",
+      "city": "Liberty",
       "state": "SC",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w309216666",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Gaithburg Square",
       "lat": 34.889087,
       "lng": -82.295085,
       "sports": [
@@ -2321,8 +2321,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Gaithburg Square",
+      "city": "Taylors",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -2353,7 +2353,7 @@
     },
     {
       "id": "osm-w310805263",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Spring Lake Loop",
       "lat": 34.801694,
       "lng": -82.228604,
       "sports": [
@@ -2365,8 +2365,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Spring Lake Loop",
+      "city": "Five Forks",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -2479,7 +2479,7 @@
     },
     {
       "id": "osm-w318070711",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Houndslake Drive",
       "lat": 33.521604,
       "lng": -81.739003,
       "sports": [
@@ -2491,8 +2491,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Houndslake Drive",
+      "city": "Aiken",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -2671,7 +2671,7 @@
     },
     {
       "id": "osm-w333301481",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hammett Bridge Road",
       "lat": 34.908801,
       "lng": -82.245254,
       "sports": [
@@ -2683,15 +2683,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hammett Bridge Road",
+      "city": "Greer",
       "state": "SC",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w334022585",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Park Shore Drive North",
       "lat": 34.115677,
       "lng": -80.922036,
       "sports": [
@@ -2703,8 +2703,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Park Shore Drive North",
+      "city": "Richland County",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -3037,7 +3037,7 @@
     },
     {
       "id": "osm-w347333876",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Norse Way",
       "lat": 34.110192,
       "lng": -80.868903,
       "sports": [
@@ -3049,8 +3049,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Norse Way",
+      "city": "Richland County",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -3079,7 +3079,7 @@
     },
     {
       "id": "osm-w347333894",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wildewood Club Court",
       "lat": 34.098147,
       "lng": -80.87482,
       "sports": [
@@ -3091,8 +3091,8 @@
       "indoor": true,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wildewood Club Court",
+      "city": "Columbia",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -3183,7 +3183,7 @@
     },
     {
       "id": "osm-w368354038",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Berea Middle School Road",
       "lat": 34.91421,
       "lng": -82.455613,
       "sports": [
@@ -3195,8 +3195,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Berea Middle School Road",
+      "city": "Berea",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -3373,7 +3373,7 @@
     },
     {
       "id": "osm-w394510038",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Kings Mountain Drive",
       "lat": 34.885813,
       "lng": -82.265117,
       "sports": [
@@ -3385,8 +3385,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kings Mountain Drive",
+      "city": "Greenville County",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -3395,7 +3395,7 @@
     },
     {
       "id": "osm-w394514140",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fenwick Place",
       "lat": 34.875324,
       "lng": -82.256855,
       "sports": [
@@ -3407,8 +3407,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fenwick Place",
+      "city": "Greenville County",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -3417,7 +3417,7 @@
     },
     {
       "id": "osm-w394514750",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Tanager Circle",
       "lat": 34.889016,
       "lng": -82.272598,
       "sports": [
@@ -3429,8 +3429,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Tanager Circle",
+      "city": "Greenville County",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -3459,7 +3459,7 @@
     },
     {
       "id": "osm-w394515060",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Sugar Mill Road",
       "lat": 34.88223,
       "lng": -82.262149,
       "sports": [
@@ -3471,8 +3471,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sugar Mill Road",
+      "city": "Greenville County",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -3481,7 +3481,7 @@
     },
     {
       "id": "osm-w394515062",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Reddington Drive",
       "lat": 34.882241,
       "lng": -82.24929,
       "sports": [
@@ -3493,8 +3493,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Reddington Drive",
+      "city": "Greer",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -3503,7 +3503,7 @@
     },
     {
       "id": "osm-w395173605",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · School Road",
       "lat": 32.219255,
       "lng": -80.733312,
       "sports": [
@@ -3515,15 +3515,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "School Road",
+      "city": "Hilton Head Island",
       "state": "SC",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w395173606",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wilborn Road",
       "lat": 32.220534,
       "lng": -80.727824,
       "sports": [
@@ -3535,15 +3535,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wilborn Road",
+      "city": "Hilton Head Island",
       "state": "SC",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w395927273",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wexford Club Drive",
       "lat": 32.173064,
       "lng": -80.762574,
       "sports": [
@@ -3555,8 +3555,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wexford Club Drive",
+      "city": "Hilton Head Island",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -3583,7 +3583,7 @@
     },
     {
       "id": "osm-w398037752",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Highway 7",
       "lat": 33.894988,
       "lng": -82.401661,
       "sports": [
@@ -3595,8 +3595,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Highway 7",
+      "city": "McCormick County",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -3667,7 +3667,7 @@
     },
     {
       "id": "osm-w402767457",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fork Shoals Road",
       "lat": 34.640347,
       "lng": -82.300882,
       "sports": [
@@ -3679,15 +3679,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fork Shoals Road",
+      "city": "Greenville County",
       "state": "SC",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w402900764",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Woodruff Road",
       "lat": 34.838795,
       "lng": -82.323486,
       "sports": [
@@ -3699,8 +3699,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Woodruff Road",
+      "city": "Greenville",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -3729,7 +3729,7 @@
     },
     {
       "id": "osm-w402923647",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Gap Creek Road",
       "lat": 34.980733,
       "lng": -82.231809,
       "sports": [
@@ -3741,15 +3741,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Gap Creek Road",
+      "city": "Greer",
       "state": "SC",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w402923648",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Gap Creek Road",
       "lat": 34.981679,
       "lng": -82.233316,
       "sports": [
@@ -3761,8 +3761,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Gap Creek Road",
+      "city": "Greer",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -3791,7 +3791,7 @@
     },
     {
       "id": "osm-w403098813",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Patti Drive",
       "lat": 34.809651,
       "lng": -82.441804,
       "sports": [
@@ -3803,15 +3803,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Patti Drive",
+      "city": "Welcome",
       "state": "SC",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w403121464",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Refuge Drive",
       "lat": 34.971917,
       "lng": -82.450359,
       "sports": [
@@ -3823,8 +3823,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Refuge Drive",
+      "city": "Travelers Rest",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -4683,7 +4683,7 @@
     },
     {
       "id": "osm-w436904918",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Crestview Road",
       "lat": 34.805838,
       "lng": -82.553966,
       "sports": [
@@ -4695,8 +4695,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Crestview Road",
+      "city": "Easley",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -4747,7 +4747,7 @@
     },
     {
       "id": "osm-w440223596",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Whispering Falls Drive",
       "lat": 34.998997,
       "lng": -82.760975,
       "sports": [
@@ -4759,8 +4759,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Whispering Falls Drive",
+      "city": "Pickens County",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -4876,7 +4876,7 @@
     },
     {
       "id": "osm-w467252015",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fort Howell Drive",
       "lat": 32.230474,
       "lng": -80.708733,
       "sports": [
@@ -4888,8 +4888,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fort Howell Drive",
+      "city": "Hilton Head Island",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -4940,7 +4940,7 @@
     },
     {
       "id": "osm-w467379348",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bruin Parkway",
       "lat": 33.522695,
       "lng": -80.835861,
       "sports": [
@@ -4952,8 +4952,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bruin Parkway",
+      "city": "Orangeburg County",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -5000,7 +5000,7 @@
     },
     {
       "id": "osm-w467539511",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Cambridge Avenue",
       "lat": 34.194984,
       "lng": -82.178134,
       "sports": [
@@ -5012,8 +5012,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Cambridge Avenue",
+      "city": "Greenwood",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -5042,7 +5042,7 @@
     },
     {
       "id": "osm-w467780281",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Club Course Drive",
       "lat": 32.93535,
       "lng": -80.109074,
       "sports": [
@@ -5054,8 +5054,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Club Course Drive",
+      "city": "North Charleston",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -5086,7 +5086,7 @@
     },
     {
       "id": "osm-w467780304",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fairington Drive",
       "lat": 32.937429,
       "lng": -80.149742,
       "sports": [
@@ -5098,8 +5098,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fairington Drive",
+      "city": "North Charleston",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -5380,7 +5380,7 @@
     },
     {
       "id": "osm-w468590584",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cygnet Court",
       "lat": 32.248252,
       "lng": -80.729992,
       "sports": [
@@ -5392,8 +5392,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cygnet Court",
+      "city": "Hilton Head Island",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -5466,7 +5466,7 @@
     },
     {
       "id": "osm-w483686867",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cobbs Way",
       "lat": 34.541973,
       "lng": -82.601773,
       "sports": [
@@ -5478,8 +5478,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cobbs Way",
+      "city": "Anderson County",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -5568,7 +5568,7 @@
     },
     {
       "id": "osm-w488154047",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Barcelona Drive",
       "lat": 32.15042,
       "lng": -80.740859,
       "sports": [
@@ -5580,8 +5580,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Barcelona Drive",
+      "city": "Hilton Head Island",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -5590,7 +5590,7 @@
     },
     {
       "id": "osm-w488154063",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Shipyard Drive",
       "lat": 32.153939,
       "lng": -80.733776,
       "sports": [
@@ -5602,8 +5602,8 @@
       "indoor": true,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Shipyard Drive",
+      "city": "Hilton Head Island",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -5670,7 +5670,7 @@
     },
     {
       "id": "osm-w490683220",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Highway 417",
       "lat": 34.808222,
       "lng": -82.144247,
       "sports": [
@@ -5682,8 +5682,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Highway 417",
+      "city": "Spartanburg County",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -5883,7 +5883,7 @@
     },
     {
       "id": "osm-w513122200",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Tega Cay Drive",
       "lat": 35.035818,
       "lng": -81.024066,
       "sports": [
@@ -5895,8 +5895,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Tega Cay Drive",
+      "city": "Tega Cay",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -6054,7 +6054,7 @@
     },
     {
       "id": "osm-w520885409",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Sunrise Valley Road",
       "lat": 34.947864,
       "lng": -82.463999,
       "sports": [
@@ -6066,8 +6066,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sunrise Valley Road",
+      "city": "Greenville County",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -6158,7 +6158,7 @@
     },
     {
       "id": "osm-w543788010",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Castille Drive",
       "lat": 33.74047,
       "lng": -78.879779,
       "sports": [
@@ -6170,8 +6170,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Castille Drive",
+      "city": "Horry County",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -6712,7 +6712,7 @@
     },
     {
       "id": "osm-w547215156",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · River Hill Circle",
       "lat": 34.025869,
       "lng": -81.072678,
       "sports": [
@@ -6724,8 +6724,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "River Hill Circle",
+      "city": "Columbia",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -6734,7 +6734,7 @@
     },
     {
       "id": "osm-w547491710",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Sun City Boulevard",
       "lat": 34.926734,
       "lng": -80.851228,
       "sports": [
@@ -6746,8 +6746,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sun City Boulevard",
+      "city": "Lancaster County",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -6756,7 +6756,7 @@
     },
     {
       "id": "osm-w547509813",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Santee Court",
       "lat": 34.929106,
       "lng": -80.863722,
       "sports": [
@@ -6768,8 +6768,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Santee Court",
+      "city": "Lancaster County",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -6778,7 +6778,7 @@
     },
     {
       "id": "osm-w548375438",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Timberlake Drive",
       "lat": 34.081157,
       "lng": -81.370538,
       "sports": [
@@ -6791,8 +6791,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Timberlake Drive",
+      "city": "Lexington County",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -7297,7 +7297,7 @@
     },
     {
       "id": "osm-w550263944",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bryton Trace",
       "lat": 34.025254,
       "lng": -81.076079,
       "sports": [
@@ -7309,8 +7309,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bryton Trace",
+      "city": "Columbia",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -7451,7 +7451,7 @@
     },
     {
       "id": "osm-w550714106",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Columbia College Drive",
       "lat": 34.047924,
       "lng": -81.039808,
       "sports": [
@@ -7463,8 +7463,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Columbia College Drive",
+      "city": "Columbia",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -7701,7 +7701,7 @@
     },
     {
       "id": "osm-w551640406",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Harbour Club Court",
       "lat": 34.041775,
       "lng": -81.438392,
       "sports": [
@@ -7713,8 +7713,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Harbour Club Court",
+      "city": "Lexington County",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -8490,7 +8490,7 @@
     },
     {
       "id": "osm-w561515556",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Villa Road",
       "lat": 34.859638,
       "lng": -82.346204,
       "sports": [
@@ -8502,8 +8502,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Villa Road",
+      "city": "Greenville",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -8534,7 +8534,7 @@
     },
     {
       "id": "osm-w562590778",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Loblolly Circle",
       "lat": 34.78312,
       "lng": -82.337986,
       "sports": [
@@ -8546,8 +8546,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Loblolly Circle",
+      "city": "Mauldin",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -9384,7 +9384,7 @@
     },
     {
       "id": "osm-w759502360",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Delahow Street",
       "lat": 32.874854,
       "lng": -79.90599,
       "sports": [
@@ -9396,8 +9396,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Delahow Street",
+      "city": "Charleston",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -9554,7 +9554,7 @@
     },
     {
       "id": "osm-w776855582",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Rushing Waters Drive",
       "lat": 35.010965,
       "lng": -82.102208,
       "sports": [
@@ -9566,8 +9566,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rushing Waters Drive",
+      "city": "Spartanburg County",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -9576,7 +9576,7 @@
     },
     {
       "id": "osm-w779150710",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Athletic Way",
       "lat": 35.063463,
       "lng": -82.37215,
       "sports": [
@@ -9588,8 +9588,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Athletic Way",
+      "city": "Greenville County",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -9682,7 +9682,7 @@
     },
     {
       "id": "osm-w793541911",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Vireo Drive",
       "lat": 35.137593,
       "lng": -82.309822,
       "sports": [
@@ -9694,15 +9694,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Vireo Drive",
+      "city": "Greenville County",
       "state": "SC",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w794480632",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Muirfield Parkway",
       "lat": 32.841498,
       "lng": -80.075143,
       "sports": [
@@ -9714,8 +9714,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Muirfield Parkway",
+      "city": "Charleston",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -9746,7 +9746,7 @@
     },
     {
       "id": "osm-w809887406",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Kiskadee Loop",
       "lat": 33.784799,
       "lng": -78.981393,
       "sports": [
@@ -9758,8 +9758,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kiskadee Loop",
+      "city": "Conway",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -9893,7 +9893,7 @@
     },
     {
       "id": "osm-w895903407",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fairforest Way",
       "lat": 34.80906,
       "lng": -82.337503,
       "sports": [
@@ -9905,8 +9905,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fairforest Way",
+      "city": "Greenville",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -9935,7 +9935,7 @@
     },
     {
       "id": "osm-w902274109",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hyssop Court",
       "lat": 34.81558,
       "lng": -82.317781,
       "sports": [
@@ -9947,8 +9947,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hyssop Court",
+      "city": "Mauldin",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -10021,7 +10021,7 @@
     },
     {
       "id": "osm-w906726104",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Goldfinch Drive",
       "lat": 33.665808,
       "lng": -78.967484,
       "sports": [
@@ -10033,8 +10033,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Goldfinch Drive",
+      "city": "Myrtle Beach",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -10043,7 +10043,7 @@
     },
     {
       "id": "osm-w907331772",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Tanner Road",
       "lat": 34.798982,
       "lng": -82.264752,
       "sports": [
@@ -10055,8 +10055,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Tanner Road",
+      "city": "Mauldin",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -10065,7 +10065,7 @@
     },
     {
       "id": "osm-w909436949",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Inglewood Way",
       "lat": 34.861343,
       "lng": -82.346768,
       "sports": [
@@ -10077,8 +10077,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Inglewood Way",
+      "city": "Greenville",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -10087,7 +10087,7 @@
     },
     {
       "id": "osm-w910028931",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Beaufort Street",
       "lat": 34.86945,
       "lng": -82.335828,
       "sports": [
@@ -10099,15 +10099,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Beaufort Street",
+      "city": "Wade Hampton",
       "state": "SC",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w910028936",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Butler Springs Road",
       "lat": 34.866088,
       "lng": -82.335626,
       "sports": [
@@ -10119,8 +10119,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Butler Springs Road",
+      "city": "Greenville",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -10439,7 +10439,7 @@
     },
     {
       "id": "osm-w943061779",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Spokane Drive",
       "lat": 34.730355,
       "lng": -82.317464,
       "sports": [
@@ -10451,8 +10451,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Spokane Drive",
+      "city": "Greenville County",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -10461,7 +10461,7 @@
     },
     {
       "id": "osm-w951475305",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Gleneagle Lane",
       "lat": 32.129702,
       "lng": -80.802428,
       "sports": [
@@ -10473,8 +10473,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Gleneagle Lane",
+      "city": "Hilton Head Island",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -10483,7 +10483,7 @@
     },
     {
       "id": "osm-w951475311",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Gleneagle Lane",
       "lat": 32.13199,
       "lng": -80.80264,
       "sports": [
@@ -10495,8 +10495,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Gleneagle Lane",
+      "city": "Hilton Head Island",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -10525,7 +10525,7 @@
     },
     {
       "id": "osm-w968278315",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Old Spartanburg Road",
       "lat": 34.892784,
       "lng": -82.288229,
       "sports": [
@@ -10537,8 +10537,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Old Spartanburg Road",
+      "city": "Greenville County",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -10695,7 +10695,7 @@
     },
     {
       "id": "osm-w990612045",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Southern Connector",
       "lat": 34.751482,
       "lng": -82.448895,
       "sports": [
@@ -10707,8 +10707,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Southern Connector",
+      "city": "Gantt",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -10868,7 +10868,7 @@
     },
     {
       "id": "osm-w1013237487",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Brushy Meadows Drive",
       "lat": 34.921138,
       "lng": -82.249364,
       "sports": [
@@ -10880,8 +10880,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Brushy Meadows Drive",
+      "city": "Greer",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -11227,7 +11227,7 @@
     },
     {
       "id": "osm-w1069445805",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cypress Valley Road",
       "lat": 34.953682,
       "lng": -82.268245,
       "sports": [
@@ -11239,8 +11239,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cypress Valley Road",
+      "city": "Greenville County",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -11291,7 +11291,7 @@
     },
     {
       "id": "osm-w1071987954",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Cove Road",
       "lat": 34.713698,
       "lng": -82.966872,
       "sports": [
@@ -11303,8 +11303,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Cove Road",
+      "city": "Oconee County",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -11313,7 +11313,7 @@
     },
     {
       "id": "osm-w1077475855",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Old Boiling Springs Road",
       "lat": 34.864702,
       "lng": -82.273533,
       "sports": [
@@ -11325,8 +11325,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Old Boiling Springs Road",
+      "city": "Greenville County",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -11397,7 +11397,7 @@
     },
     {
       "id": "osm-w1080861095",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Edgefield Avenue Northwest",
       "lat": 33.5682,
       "lng": -81.731055,
       "sports": [
@@ -11410,8 +11410,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Edgefield Avenue Northwest",
+      "city": "Aiken",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -11569,7 +11569,7 @@
     },
     {
       "id": "osm-w1087140595",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Royall Avenue",
       "lat": 32.786827,
       "lng": -79.873641,
       "sports": [
@@ -11581,8 +11581,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Royall Avenue",
+      "city": "Mount Pleasant",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -11907,7 +11907,7 @@
     },
     {
       "id": "osm-w1102746458",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Pelham Road",
       "lat": 34.859981,
       "lng": -82.273095,
       "sports": [
@@ -11919,8 +11919,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pelham Road",
+      "city": "Greenville County",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -11942,7 +11942,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Greenville County",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -11971,7 +11971,7 @@
     },
     {
       "id": "osm-w1103977196",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Mary Rose Lane",
       "lat": 34.867478,
       "lng": -82.253206,
       "sports": [
@@ -11983,8 +11983,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mary Rose Lane",
+      "city": "Greenville County",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -12015,7 +12015,7 @@
     },
     {
       "id": "osm-w1106186155",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hamlet Circle",
       "lat": 33.004902,
       "lng": -80.079209,
       "sports": [
@@ -12027,8 +12027,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hamlet Circle",
+      "city": "Goose Creek",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -12079,7 +12079,7 @@
     },
     {
       "id": "osm-w1107039733",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Hidden Lake Drive",
       "lat": 34.258671,
       "lng": -81.593112,
       "sports": [
@@ -12091,8 +12091,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hidden Lake Drive",
+      "city": "Newberry",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -12189,7 +12189,7 @@
     },
     {
       "id": "osm-w1113489462",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hidden Hills Drive",
       "lat": 34.801806,
       "lng": -82.401185,
       "sports": [
@@ -12202,15 +12202,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hidden Hills Drive",
+      "city": "Gantt",
       "state": "SC",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1119365387",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Watercrest Court",
       "lat": 35.111171,
       "lng": -82.05194,
       "sports": [
@@ -12222,8 +12222,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Watercrest Court",
+      "city": "Spartanburg County",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -12232,7 +12232,7 @@
     },
     {
       "id": "osm-w1122813454",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Calmar Court",
       "lat": 34.948764,
       "lng": -82.455089,
       "sports": [
@@ -12244,8 +12244,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Calmar Court",
+      "city": "Greenville County",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -12506,7 +12506,7 @@
     },
     {
       "id": "osm-w1131185391",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Tennis Club Way",
       "lat": 33.367804,
       "lng": -79.174606,
       "sports": [
@@ -12519,8 +12519,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Tennis Club Way",
+      "city": "Georgetown County",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -12593,7 +12593,7 @@
     },
     {
       "id": "osm-w1147813854",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Scotts Bridge Road",
       "lat": 34.622598,
       "lng": -82.620418,
       "sports": [
@@ -12605,8 +12605,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Scotts Bridge Road",
+      "city": "Anderson County",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -12633,7 +12633,7 @@
     },
     {
       "id": "osm-w1156797573",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Gibson Court",
       "lat": 34.871971,
       "lng": -82.32446,
       "sports": [
@@ -12645,8 +12645,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Gibson Court",
+      "city": "Wade Hampton",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -12675,7 +12675,7 @@
     },
     {
       "id": "osm-w1158571462",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Sudduth Farms Drive",
       "lat": 34.902951,
       "lng": -82.241099,
       "sports": [
@@ -12687,8 +12687,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sudduth Farms Drive",
+      "city": "Greer",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -12717,7 +12717,7 @@
     },
     {
       "id": "osm-w1159067935",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Royal Burgess Drive",
       "lat": 35.109738,
       "lng": -82.211434,
       "sports": [
@@ -12729,8 +12729,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Royal Burgess Drive",
+      "city": "Spartanburg County",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -12959,7 +12959,7 @@
     },
     {
       "id": "osm-w1177180222",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Starfish Drive",
       "lat": 32.200012,
       "lng": -80.694129,
       "sports": [
@@ -12972,15 +12972,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Starfish Drive",
+      "city": "Hilton Head Island",
       "state": "SC",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1178696691",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Circle Avenue",
       "lat": 34.86061,
       "lng": -82.363407,
       "sports": [
@@ -12992,8 +12992,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Circle Avenue",
+      "city": "Greenville",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -13152,7 +13152,7 @@
     },
     {
       "id": "osm-w1181958842",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Townhouse Manor",
       "lat": 32.150084,
       "lng": -80.75164,
       "sports": [
@@ -13164,8 +13164,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Townhouse Manor",
+      "city": "Hilton Head Island",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -13174,7 +13174,7 @@
     },
     {
       "id": "osm-w1181958844",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cordillo Parkway",
       "lat": 32.151507,
       "lng": -80.74958,
       "sports": [
@@ -13186,8 +13186,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cordillo Parkway",
+      "city": "Hilton Head Island",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -13217,7 +13217,7 @@
     },
     {
       "id": "osm-w1192184137",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Pirates Cove",
       "lat": 33.844581,
       "lng": -78.845443,
       "sports": [
@@ -13229,8 +13229,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pirates Cove",
+      "city": "Horry County",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -13239,7 +13239,7 @@
     },
     {
       "id": "osm-w1198214843",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wood Eden Lane",
       "lat": 32.280632,
       "lng": -80.882401,
       "sports": [
@@ -13252,15 +13252,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wood Eden Lane",
+      "city": "Beaufort County",
       "state": "SC",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1206689506",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Villa Marbella Court",
       "lat": 33.766589,
       "lng": -78.812466,
       "sports": [
@@ -13272,8 +13272,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Villa Marbella Court",
+      "city": "Myrtle Beach",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -13301,7 +13301,7 @@
     },
     {
       "id": "osm-w1206695131",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Flatwater Drive",
       "lat": 32.257584,
       "lng": -80.95332,
       "sports": [
@@ -13313,8 +13313,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Flatwater Drive",
+      "city": "Bluffton",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -13343,7 +13343,7 @@
     },
     {
       "id": "osm-w1206698379",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Montego Way",
       "lat": 33.873275,
       "lng": -78.659527,
       "sports": [
@@ -13355,8 +13355,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Montego Way",
+      "city": "Little River",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -13385,7 +13385,7 @@
     },
     {
       "id": "osm-w1207806062",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lee Street",
       "lat": 32.482018,
       "lng": -80.333689,
       "sports": [
@@ -13397,8 +13397,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lee Street",
+      "city": "Edisto Beach",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -13407,7 +13407,7 @@
     },
     {
       "id": "osm-w1207806063",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fairway Drive",
       "lat": 32.486975,
       "lng": -80.337075,
       "sports": [
@@ -13419,8 +13419,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fairway Drive",
+      "city": "Edisto Beach",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -13449,7 +13449,7 @@
     },
     {
       "id": "osm-w1213640018",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Gallaher Circle",
       "lat": 34.793565,
       "lng": -82.316062,
       "sports": [
@@ -13462,8 +13462,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Gallaher Circle",
+      "city": "Mauldin",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -13646,7 +13646,7 @@
     },
     {
       "id": "osm-w1226620561",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Richland Avenue West",
       "lat": 33.563713,
       "lng": -81.727334,
       "sports": [
@@ -13658,8 +13658,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Richland Avenue West",
+      "city": "Aiken",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -13786,7 +13786,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Hilton Head Island",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -13815,7 +13815,7 @@
     },
     {
       "id": "osm-w1230747760",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Woodbine Place",
       "lat": 32.125207,
       "lng": -80.794511,
       "sports": [
@@ -13827,8 +13827,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Woodbine Place",
+      "city": "Hilton Head Island",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -13877,7 +13877,7 @@
     },
     {
       "id": "osm-w1240711014",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Sun City Boulevard",
       "lat": 32.278275,
       "lng": -80.972542,
       "sports": [
@@ -13889,8 +13889,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sun City Boulevard",
+      "city": "Beaufort County",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -13917,7 +13917,7 @@
     },
     {
       "id": "osm-w1240763522",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Colleton River Drive",
       "lat": 32.290597,
       "lng": -80.797162,
       "sports": [
@@ -13930,8 +13930,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Colleton River Drive",
+      "city": "Beaufort County",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -13960,7 +13960,7 @@
     },
     {
       "id": "osm-w1240795160",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hartford Village Way",
       "lat": 32.915924,
       "lng": -79.798758,
       "sports": [
@@ -13972,8 +13972,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hartford Village Way",
+      "city": "Mount Pleasant",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -13982,7 +13982,7 @@
     },
     {
       "id": "osm-w1241803186",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Devils Elbow Lane",
       "lat": 32.253391,
       "lng": -80.814144,
       "sports": [
@@ -13994,8 +13994,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Devils Elbow Lane",
+      "city": "Beaufort County",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -14086,7 +14086,7 @@
     },
     {
       "id": "osm-w1259036532",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Sweet Juliet Way",
       "lat": 34.865967,
       "lng": -82.252992,
       "sports": [
@@ -14098,8 +14098,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sweet Juliet Way",
+      "city": "Greenville County",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -14108,7 +14108,7 @@
     },
     {
       "id": "osm-w1259037519",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cape Ann Avenue",
       "lat": 34.870157,
       "lng": -82.269203,
       "sports": [
@@ -14120,8 +14120,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cape Ann Avenue",
+      "city": "Greenville County",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -14491,7 +14491,7 @@
     },
     {
       "id": "osm-w1279385194",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Sweetgum Road",
       "lat": 34.952407,
       "lng": -82.464648,
       "sports": [
@@ -14503,8 +14503,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sweetgum Road",
+      "city": "Greenville County",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -14513,7 +14513,7 @@
     },
     {
       "id": "osm-w1279386515",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Windy Bluff Drive",
       "lat": 34.945855,
       "lng": -82.448907,
       "sports": [
@@ -14525,8 +14525,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Windy Bluff Drive",
+      "city": "Travelers Rest",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -14726,7 +14726,7 @@
     },
     {
       "id": "osm-w1286136744",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cog Hill Drive",
       "lat": 34.799147,
       "lng": -82.219643,
       "sports": [
@@ -14738,8 +14738,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cog Hill Drive",
+      "city": "Five Forks",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -14748,7 +14748,7 @@
     },
     {
       "id": "osm-w1286414080",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Adams Mill Road",
       "lat": 34.794082,
       "lng": -82.231074,
       "sports": [
@@ -14760,8 +14760,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Adams Mill Road",
+      "city": "Five Forks",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -14812,7 +14812,7 @@
     },
     {
       "id": "osm-w1286416874",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lake Valley Court",
       "lat": 34.804731,
       "lng": -82.23846,
       "sports": [
@@ -14824,8 +14824,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lake Valley Court",
+      "city": "Five Forks",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -14834,7 +14834,7 @@
     },
     {
       "id": "osm-w1286433846",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Pecan Hill Drive",
       "lat": 34.780745,
       "lng": -82.255043,
       "sports": [
@@ -14847,8 +14847,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pecan Hill Drive",
+      "city": "Five Forks",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -14910,7 +14910,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Five Forks",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -14919,7 +14919,7 @@
     },
     {
       "id": "osm-w1287206844",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Archers Place",
       "lat": 34.815503,
       "lng": -82.229243,
       "sports": [
@@ -14931,8 +14931,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Archers Place",
+      "city": "Five Forks",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -15049,7 +15049,7 @@
     },
     {
       "id": "osm-w1293460977",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Sun City Lane",
       "lat": 32.293778,
       "lng": -80.953867,
       "sports": [
@@ -15061,8 +15061,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sun City Lane",
+      "city": "Beaufort County",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -15132,7 +15132,7 @@
     },
     {
       "id": "osm-w1294616648",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Roper Mountain Road",
       "lat": 34.818763,
       "lng": -82.217878,
       "sports": [
@@ -15144,8 +15144,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Roper Mountain Road",
+      "city": "Five Forks",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -15176,7 +15176,7 @@
     },
     {
       "id": "osm-w1295057931",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · High Hawk Court",
       "lat": 34.822769,
       "lng": -82.266104,
       "sports": [
@@ -15188,8 +15188,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "High Hawk Court",
+      "city": "Five Forks",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -15239,7 +15239,7 @@
     },
     {
       "id": "osm-w1298162938",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Highway 14",
       "lat": 34.812786,
       "lng": -82.256987,
       "sports": [
@@ -15251,8 +15251,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Highway 14",
+      "city": "Five Forks",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -15432,7 +15432,7 @@
     },
     {
       "id": "osm-w1313099236",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Carrollton Court",
       "lat": 34.910549,
       "lng": -82.275358,
       "sports": [
@@ -15444,8 +15444,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Carrollton Court",
+      "city": "Greer",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -15628,7 +15628,7 @@
     },
     {
       "id": "osm-w1315729077",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Sergeant William Jasper Boulevard",
       "lat": 32.309396,
       "lng": -80.953898,
       "sports": [
@@ -15640,8 +15640,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sergeant William Jasper Boulevard",
+      "city": "Hardeeville",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -15732,7 +15732,7 @@
     },
     {
       "id": "osm-w1320914906",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Watson Drive",
       "lat": 34.704711,
       "lng": -82.920124,
       "sports": [
@@ -15745,8 +15745,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Watson Drive",
+      "city": "Oconee County",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -15861,7 +15861,7 @@
     },
     {
       "id": "osm-w1325626470",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Coosaw Point Boulevard",
       "lat": 32.488123,
       "lng": -80.616948,
       "sports": [
@@ -15874,8 +15874,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Coosaw Point Boulevard",
+      "city": "Beaufort County",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -15990,7 +15990,7 @@
     },
     {
       "id": "osm-w1330518790",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Pendleton Street",
       "lat": 34.623416,
       "lng": -82.78585,
       "sports": [
@@ -16002,8 +16002,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pendleton Street",
+      "city": "La France",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -16162,7 +16162,7 @@
     },
     {
       "id": "osm-w1334858400",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Horton Grove Road",
       "lat": 35.039871,
       "lng": -80.913824,
       "sports": [
@@ -16174,8 +16174,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Horton Grove Road",
+      "city": "Fort Mill",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -16204,7 +16204,7 @@
     },
     {
       "id": "osm-w1334986866",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Crowne Commons Drive",
       "lat": 32.286313,
       "lng": -80.938865,
       "sports": [
@@ -16216,8 +16216,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Crowne Commons Drive",
+      "city": "Bluffton",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -16737,7 +16737,7 @@
     },
     {
       "id": "osm-w1341088268",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Woodlake Drive",
       "lat": 33.600272,
       "lng": -79.008934,
       "sports": [
@@ -16749,8 +16749,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Woodlake Drive",
+      "city": "Garden City Beach",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -16863,7 +16863,7 @@
     },
     {
       "id": "osm-w1356275305",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Harborside Drive",
       "lat": 32.286509,
       "lng": -81.023952,
       "sports": [
@@ -16875,8 +16875,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Harborside Drive",
+      "city": "Hardeeville",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -16939,7 +16939,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "York County",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -16991,7 +16991,7 @@
     },
     {
       "id": "osm-w1356851527",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wedgewood",
       "lat": 33.798791,
       "lng": -78.764684,
       "sports": [
@@ -17004,7 +17004,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "North Myrtle Beach",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -17055,7 +17055,7 @@
     },
     {
       "id": "osm-w1356852776",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 18th Avenue North",
       "lat": 33.828549,
       "lng": -78.65184,
       "sports": [
@@ -17067,8 +17067,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "18th Avenue North",
+      "city": "North Myrtle Beach",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -17183,7 +17183,7 @@
     },
     {
       "id": "osm-w1356859392",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Masters Court",
       "lat": 33.729781,
       "lng": -78.870851,
       "sports": [
@@ -17195,8 +17195,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Masters Court",
+      "city": "Horry County",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -17358,7 +17358,7 @@
     },
     {
       "id": "osm-w1377830242",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Dipper",
       "lat": 33.593855,
       "lng": -78.989047,
       "sports": [
@@ -17371,8 +17371,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Dipper",
+      "city": "Horry County",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -17401,7 +17401,7 @@
     },
     {
       "id": "osm-w1379496430",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Claypoint",
       "lat": 33.707376,
       "lng": -78.95169,
       "sports": [
@@ -17414,7 +17414,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Forestbrook",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -17443,7 +17443,7 @@
     },
     {
       "id": "osm-w1382623025",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bee Street",
       "lat": 32.785133,
       "lng": -79.952675,
       "sports": [
@@ -17455,8 +17455,8 @@
       "indoor": null,
       "access": "customers",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bee Street",
+      "city": "Charleston",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -17723,7 +17723,7 @@
     },
     {
       "id": "osm-w1414879652",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Legend Oaks Way",
       "lat": 32.946185,
       "lng": -80.231678,
       "sports": [
@@ -17735,8 +17735,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Legend Oaks Way",
+      "city": "Dorchester County",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -18027,7 +18027,7 @@
     },
     {
       "id": "osm-w1419024288",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Blue Sky Lane",
       "lat": 32.888941,
       "lng": -79.917837,
       "sports": [
@@ -18040,8 +18040,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Blue Sky Lane",
+      "city": "Charleston",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -18116,7 +18116,7 @@
     },
     {
       "id": "osm-w1426308110",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Highbourne Drive",
       "lat": 34.859768,
       "lng": -82.333101,
       "sports": [
@@ -18128,8 +18128,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Highbourne Drive",
+      "city": "Wade Hampton",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -18178,7 +18178,7 @@
     },
     {
       "id": "osm-w1430734562",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Harlin Street",
       "lat": 33.533643,
       "lng": -80.574472,
       "sports": [
@@ -18191,8 +18191,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Harlin Street",
+      "city": "Elloree",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -18475,7 +18475,7 @@
     },
     {
       "id": "osm-w1435981876",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Club Ridge Road",
       "lat": 34.125509,
       "lng": -80.820472,
       "sports": [
@@ -18487,8 +18487,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Club Ridge Road",
+      "city": "Columbia",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -18802,7 +18802,7 @@
     },
     {
       "id": "osm-w1447175240",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Zoar Road",
       "lat": 34.733095,
       "lng": -80.05543,
       "sports": [
@@ -18814,8 +18814,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Zoar Road",
+      "city": "Chesterfield",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -19012,7 +19012,7 @@
     },
     {
       "id": "osm-w1458396170",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Middle Street",
       "lat": 32.770739,
       "lng": -79.820662,
       "sports": [
@@ -19024,8 +19024,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Middle Street",
+      "city": "Sullivan's Island",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -19056,7 +19056,7 @@
     },
     {
       "id": "osm-w1464032691",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Mount Vintage Plantation Drive",
       "lat": 33.675051,
       "lng": -81.96897,
       "sports": [
@@ -19068,8 +19068,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mount Vintage Plantation Drive",
+      "city": "Edgefield County",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -19164,7 +19164,7 @@
     },
     {
       "id": "osm-w1464441954",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cavalier Drive",
       "lat": 34.796158,
       "lng": -82.352845,
       "sports": [
@@ -19176,8 +19176,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cavalier Drive",
+      "city": "Greenville",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -19206,7 +19206,7 @@
     },
     {
       "id": "osm-w1466859304",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Whiskey Road",
       "lat": 33.543038,
       "lng": -81.72241,
       "sports": [
@@ -19218,8 +19218,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Whiskey Road",
+      "city": "Aiken",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -19539,7 +19539,7 @@
     },
     {
       "id": "osm-w1483471032",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Waterhall Drive",
       "lat": 33.605637,
       "lng": -79.074729,
       "sports": [
@@ -19552,8 +19552,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Waterhall Drive",
+      "city": "Burgess",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -19602,7 +19602,7 @@
     },
     {
       "id": "osm-w1483472048",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Peony Circle",
       "lat": 33.560217,
       "lng": -79.059819,
       "sports": [
@@ -19614,8 +19614,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Peony Circle",
+      "city": "Murrells Inlet",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -19624,7 +19624,7 @@
     },
     {
       "id": "osm-w1483472473",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Santolina Way",
       "lat": 33.556563,
       "lng": -79.045679,
       "sports": [
@@ -19637,15 +19637,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Santolina Way",
+      "city": "Murrells Inlet",
       "state": "SC",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1483473017",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wachesaw Road",
       "lat": 33.561563,
       "lng": -79.08245,
       "sports": [
@@ -19657,8 +19657,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wachesaw Road",
+      "city": "Murrells Inlet",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -19686,7 +19686,7 @@
     },
     {
       "id": "osm-w1483475046",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Pinehurst Lane",
       "lat": 33.443514,
       "lng": -79.142528,
       "sports": [
@@ -19698,8 +19698,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pinehurst Lane",
+      "city": "Georgetown County",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -19708,7 +19708,7 @@
     },
     {
       "id": "osm-w1483476809",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Heritage Plantation Drive",
       "lat": 33.442445,
       "lng": -79.164904,
       "sports": [
@@ -19720,8 +19720,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Heritage Plantation Drive",
+      "city": "Georgetown County",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -19834,7 +19834,7 @@
     },
     {
       "id": "osm-w1484805645",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Pierett Circle",
       "lat": 34.728614,
       "lng": -82.008677,
       "sports": [
@@ -19846,8 +19846,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pierett Circle",
+      "city": "Woodruff",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -20114,7 +20114,7 @@
     },
     {
       "id": "osm-w1485873881",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Savannah Drive",
       "lat": 33.422282,
       "lng": -79.166105,
       "sports": [
@@ -20126,8 +20126,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Savannah Drive",
+      "city": "Georgetown County",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -20136,7 +20136,7 @@
     },
     {
       "id": "osm-w1486115175",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wraggs Ferry Road",
       "lat": 33.425625,
       "lng": -79.250876,
       "sports": [
@@ -20148,8 +20148,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wraggs Ferry Road",
+      "city": "Georgetown County",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -20196,7 +20196,7 @@
     },
     {
       "id": "osm-w1486117131",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Artillery Drive",
       "lat": 32.758723,
       "lng": -79.847136,
       "sports": [
@@ -20208,8 +20208,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Artillery Drive",
+      "city": "Sullivan's Island",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -20321,7 +20321,7 @@
     },
     {
       "id": "osm-w1486119421",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Baltusrol Lane",
       "lat": 34.999752,
       "lng": -80.835035,
       "sports": [
@@ -20333,8 +20333,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Baltusrol Lane",
+      "city": "Marvin",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -20430,7 +20430,7 @@
     },
     {
       "id": "osm-w1487170505",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Santa Maria Drive",
       "lat": 32.246771,
       "lng": -80.74282,
       "sports": [
@@ -20442,8 +20442,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Santa Maria Drive",
+      "city": "Hilton Head Island",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -20470,7 +20470,7 @@
     },
     {
       "id": "osm-w1487171485",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Avocet Road",
       "lat": 32.146023,
       "lng": -80.751307,
       "sports": [
@@ -20483,8 +20483,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Avocet Road",
+      "city": "Hilton Head Island",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -20553,7 +20553,7 @@
     },
     {
       "id": "osm-w1487255375",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Santee Drive",
       "lat": 33.498007,
       "lng": -80.455899,
       "sports": [
@@ -20565,8 +20565,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Santee Drive",
+      "city": "Orangeburg County",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -20787,7 +20787,7 @@
     },
     {
       "id": "osm-w1487724517",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Knightsbridge Court",
       "lat": 33.012573,
       "lng": -80.082781,
       "sports": [
@@ -20799,8 +20799,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Knightsbridge Court",
+      "city": "Goose Creek",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -20891,7 +20891,7 @@
     },
     {
       "id": "osm-w1487726820",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Lenevar Drive",
       "lat": 32.804405,
       "lng": -80.002766,
       "sports": [
@@ -20904,8 +20904,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Lenevar Drive",
+      "city": "Charleston",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -21124,7 +21124,7 @@
     },
     {
       "id": "osm-w1487732224",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Rewes Lane",
       "lat": 32.72551,
       "lng": -80.084267,
       "sports": [
@@ -21136,8 +21136,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rewes Lane",
+      "city": "Charleston",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -21290,7 +21290,7 @@
     },
     {
       "id": "osm-w1489583190",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hammett Bridge Road",
       "lat": 34.892959,
       "lng": -82.265999,
       "sports": [
@@ -21302,8 +21302,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hammett Bridge Road",
+      "city": "Greenville County",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -21436,7 +21436,7 @@
     },
     {
       "id": "osm-w1491865166",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Blue and Gold Boulevard",
       "lat": 34.736776,
       "lng": -82.832976,
       "sports": [
@@ -21448,8 +21448,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Blue and Gold Boulevard",
+      "city": "Pickens County",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -21582,7 +21582,7 @@
     },
     {
       "id": "osm-w1492734603",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · McDonald Boulevard",
       "lat": 34.246501,
       "lng": -79.675304,
       "sports": [
@@ -21594,8 +21594,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "McDonald Boulevard",
+      "city": "Florence County",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -21604,7 +21604,7 @@
     },
     {
       "id": "osm-w1492736335",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Golf Course Road",
       "lat": 34.385885,
       "lng": -80.085446,
       "sports": [
@@ -21617,8 +21617,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Golf Course Road",
+      "city": "North Hartsville",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -21667,7 +21667,7 @@
     },
     {
       "id": "osm-w1492975014",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Raven Falls Lane",
       "lat": 34.799626,
       "lng": -82.197082,
       "sports": [
@@ -21679,8 +21679,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Raven Falls Lane",
+      "city": "Five Forks",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -21710,7 +21710,7 @@
     },
     {
       "id": "osm-w1493299793",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Crestmont Way",
       "lat": 34.863881,
       "lng": -82.255276,
       "sports": [
@@ -21722,8 +21722,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Crestmont Way",
+      "city": "Greenville County",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -21732,7 +21732,7 @@
     },
     {
       "id": "osm-w1494098644",
-      "name": "Public Tennis Courts",
+      "name": "Horse Pasture Road Tennis Courts",
       "lat": 34.957722,
       "lng": -82.902036,
       "sports": [
@@ -21745,15 +21745,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Horse Pasture Road",
+      "city": "Pickens County",
       "state": "SC",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1494110820",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Sugar Creek Road",
       "lat": 34.883547,
       "lng": -82.282796,
       "sports": [
@@ -21765,8 +21765,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sugar Creek Road",
+      "city": "Greenville County",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -21795,7 +21795,7 @@
     },
     {
       "id": "osm-w1494111385",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Kimbrell Road",
       "lat": 34.893632,
       "lng": -82.302945,
       "sports": [
@@ -21807,8 +21807,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kimbrell Road",
+      "city": "Taylors",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -21879,7 +21879,7 @@
     },
     {
       "id": "osm-w1494473942",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · YMCA Camp Road",
       "lat": 35.134561,
       "lng": -82.58481,
       "sports": [
@@ -21891,8 +21891,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "YMCA Camp Road",
+      "city": "Greenville County",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -21987,7 +21987,7 @@
     },
     {
       "id": "osm-w1494474584",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Old Buncombe Road",
       "lat": 34.889383,
       "lng": -82.432287,
       "sports": [
@@ -21999,8 +21999,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Old Buncombe Road",
+      "city": "Sans Souci",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -22336,7 +22336,7 @@
     },
     {
       "id": "osm-w1494926507",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Every Second Trail",
       "lat": 34.771601,
       "lng": -82.429558,
       "sports": [
@@ -22348,8 +22348,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Every Second Trail",
+      "city": "Gantt",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -22630,7 +22630,7 @@
     },
     {
       "id": "osm-w1495278637",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Deerbrook Lane",
       "lat": 35.037716,
       "lng": -81.02251,
       "sports": [
@@ -22642,8 +22642,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Deerbrook Lane",
+      "city": "Tega Cay",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -22712,7 +22712,7 @@
     },
     {
       "id": "osm-w1495285811",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Havird Way",
       "lat": 34.795526,
       "lng": -82.490591,
       "sports": [
@@ -22724,15 +22724,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Havird Way",
+      "city": "Powdersville",
       "state": "SC",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1495286235",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Jacobs Road",
       "lat": 34.797671,
       "lng": -82.404674,
       "sports": [
@@ -22744,8 +22744,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Jacobs Road",
+      "city": "Gantt",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -22774,7 +22774,7 @@
     },
     {
       "id": "osm-w1495288186",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Sliding Rock Creek Trail",
       "lat": 34.836286,
       "lng": -82.372851,
       "sports": [
@@ -22786,15 +22786,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sliding Rock Creek Trail",
+      "city": "Greenville",
       "state": "SC",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1495289589",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Northside Circle",
       "lat": 34.888247,
       "lng": -82.361473,
       "sports": [
@@ -22806,8 +22806,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northside Circle",
+      "city": "Wade Hampton",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -22836,7 +22836,7 @@
     },
     {
       "id": "osm-w1495290861",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Half Mile Way",
       "lat": 34.905774,
       "lng": -82.380493,
       "sports": [
@@ -22849,8 +22849,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Half Mile Way",
+      "city": "Greenville County",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -22879,7 +22879,7 @@
     },
     {
       "id": "osm-w1495292413",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Pelham Road",
       "lat": 34.857588,
       "lng": -82.298642,
       "sports": [
@@ -22891,8 +22891,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pelham Road",
+      "city": "Wade Hampton",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -22901,7 +22901,7 @@
     },
     {
       "id": "osm-w1495292802",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Oak Grove Lake Road",
       "lat": 34.844225,
       "lng": -82.287858,
       "sports": [
@@ -22913,8 +22913,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Oak Grove Lake Road",
+      "city": "Greenville County",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -22965,7 +22965,7 @@
     },
     {
       "id": "osm-w1495302436",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Piney Grove Road",
       "lat": 34.798776,
       "lng": -82.30013,
       "sports": [
@@ -22977,8 +22977,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Piney Grove Road",
+      "city": "Mauldin",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -23089,7 +23089,7 @@
     },
     {
       "id": "osm-w1495308070",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Keowee Key Access B",
       "lat": 34.839696,
       "lng": -82.919519,
       "sports": [
@@ -23102,8 +23102,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Keowee Key Access B",
+      "city": "Oconee County",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -23153,7 +23153,7 @@
     },
     {
       "id": "osm-w1495309088",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Woodruff Road",
       "lat": 34.837676,
       "lng": -82.326534,
       "sports": [
@@ -23165,8 +23165,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Woodruff Road",
+      "city": "Greenville",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -23175,7 +23175,7 @@
     },
     {
       "id": "osm-w1495309292",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Millstone Way",
       "lat": 34.810428,
       "lng": -82.241709,
       "sports": [
@@ -23187,8 +23187,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Millstone Way",
+      "city": "Five Forks",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -23240,7 +23240,7 @@
     },
     {
       "id": "osm-w1495606606",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Simsbury Way",
       "lat": 34.903025,
       "lng": -82.247027,
       "sports": [
@@ -23252,15 +23252,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Simsbury Way",
+      "city": "Greer",
       "state": "SC",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1495607035",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Suber Road",
       "lat": 34.904557,
       "lng": -82.255921,
       "sports": [
@@ -23272,8 +23272,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Suber Road",
+      "city": "Greer",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -23514,7 +23514,7 @@
     },
     {
       "id": "osm-w1510741648",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hideway Bay Lane",
       "lat": 32.807956,
       "lng": -79.886214,
       "sports": [
@@ -23526,8 +23526,8 @@
       "indoor": null,
       "access": "customers",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hideway Bay Lane",
+      "city": "Mount Pleasant",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -23622,7 +23622,7 @@
     },
     {
       "id": "osm-w1517813874",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wild Wing Boulevard",
       "lat": 33.798771,
       "lng": -78.980897,
       "sports": [
@@ -23634,8 +23634,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wild Wing Boulevard",
+      "city": "Conway",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -23810,7 +23810,7 @@
     },
     {
       "id": "osm-w1530421347",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Village Parkway",
       "lat": 33.744325,
       "lng": -78.8929,
       "sports": [
@@ -23822,8 +23822,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Village Parkway",
+      "city": "Horry County",
       "state": "SC",
       "source": "osm",
       "tags": {}
@@ -23909,7 +23909,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Five Forks",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -23984,7 +23984,7 @@
     },
     {
       "id": "osm-w1544922344",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Reames Court",
       "lat": 34.835031,
       "lng": -82.465178,
       "sports": [
@@ -23996,8 +23996,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Reames Court",
+      "city": "Parker",
       "state": "SC",
       "source": "osm",
       "tags": {
@@ -24006,7 +24006,7 @@
     },
     {
       "id": "osm-w1545216118",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Bridgeway Boulevard",
       "lat": 34.794872,
       "lng": -82.276939,
       "sports": [
@@ -24018,8 +24018,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bridgeway Boulevard",
+      "city": "Mauldin",
       "state": "SC",
       "source": "osm",
       "tags": {

@@ -132,7 +132,7 @@
     },
     {
       "id": "osm-n13790589141",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Popps Ferry Road",
       "lat": 30.437992,
       "lng": -88.965576,
       "sports": [
@@ -144,8 +144,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Popps Ferry Road",
+      "city": "Biloxi",
       "state": "MS",
       "source": "osm",
       "tags": {}
@@ -173,7 +173,7 @@
     },
     {
       "id": "osm-n13816382996",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Stillwater Drive",
       "lat": 32.26027,
       "lng": -90.912805,
       "sports": [
@@ -185,8 +185,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Stillwater Drive",
+      "city": "Vicksburg",
       "state": "MS",
       "source": "osm",
       "tags": {
@@ -215,7 +215,7 @@
     },
     {
       "id": "osm-w114448963",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Pearl Street",
       "lat": 31.326319,
       "lng": -89.344425,
       "sports": [
@@ -227,8 +227,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pearl Street",
+      "city": "Hattiesburg",
       "state": "MS",
       "source": "osm",
       "tags": {}
@@ -384,7 +384,7 @@
     },
     {
       "id": "osm-w199915618",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West 8th Street",
       "lat": 31.698247,
       "lng": -89.138087,
       "sports": [
@@ -396,8 +396,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 8th Street",
+      "city": "Laurel",
       "state": "MS",
       "source": "osm",
       "tags": {}
@@ -1075,7 +1075,7 @@
     },
     {
       "id": "osm-w485551681",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 43rd Street",
       "lat": 32.403211,
       "lng": -88.694073,
       "sports": [
@@ -1087,8 +1087,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "43rd Street",
+      "city": "Meridian",
       "state": "MS",
       "source": "osm",
       "tags": {}
@@ -1973,7 +1973,7 @@
     },
     {
       "id": "osm-w509704034",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 7th Street",
       "lat": 32.831964,
       "lng": -88.487427,
       "sports": [
@@ -1985,8 +1985,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "7th Street",
+      "city": "Scooba",
       "state": "MS",
       "source": "osm",
       "tags": {
@@ -2556,7 +2556,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Gulfport",
       "state": "MS",
       "source": "osm",
       "tags": {
@@ -4032,7 +4032,7 @@
     },
     {
       "id": "osm-w1227041666",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Vernon Street",
       "lat": 31.305323,
       "lng": -89.295715,
       "sports": [
@@ -4044,8 +4044,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Vernon Street",
+      "city": "Hattiesburg",
       "state": "MS",
       "source": "osm",
       "tags": {}
@@ -4342,7 +4342,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Gulfport",
       "state": "MS",
       "source": "osm",
       "tags": {
@@ -6238,7 +6238,7 @@
     },
     {
       "id": "osm-w1424168428",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Shiloh Road",
       "lat": 34.960425,
       "lng": -88.48546,
       "sports": [
@@ -6250,8 +6250,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Shiloh Road",
+      "city": "Corinth",
       "state": "MS",
       "source": "osm",
       "tags": {}
@@ -6618,7 +6618,7 @@
     },
     {
       "id": "osm-w1443470937",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hiller Drive",
       "lat": 30.408153,
       "lng": -88.951458,
       "sports": [
@@ -6630,8 +6630,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hiller Drive",
+      "city": "Biloxi",
       "state": "MS",
       "source": "osm",
       "tags": {}
@@ -6737,7 +6737,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Southaven",
       "state": "MS",
       "source": "osm",
       "tags": {}
@@ -7471,7 +7471,7 @@
     },
     {
       "id": "osm-w1462245686",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fazio Drive",
       "lat": 34.333055,
       "lng": -89.501459,
       "sports": [
@@ -7483,8 +7483,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fazio Drive",
+      "city": "Oxford",
       "state": "MS",
       "source": "osm",
       "tags": {}
@@ -7895,7 +7895,7 @@
     },
     {
       "id": "osm-w1472898991",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Annandale Parkway",
       "lat": 32.493359,
       "lng": -90.188392,
       "sports": [
@@ -7907,8 +7907,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Annandale Parkway",
+      "city": "Madison",
       "state": "MS",
       "source": "osm",
       "tags": {
@@ -7917,7 +7917,7 @@
     },
     {
       "id": "osm-w1472899100",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Greensward Drive",
       "lat": 32.513882,
       "lng": -90.183381,
       "sports": [
@@ -7929,8 +7929,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Greensward Drive",
+      "city": "Madison",
       "state": "MS",
       "source": "osm",
       "tags": {}
@@ -8085,7 +8085,7 @@
     },
     {
       "id": "osm-w1473732962",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Haugh Avenue",
       "lat": 30.508203,
       "lng": -89.682764,
       "sports": [
@@ -8097,8 +8097,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Haugh Avenue",
+      "city": "Picayune",
       "state": "MS",
       "source": "osm",
       "tags": {
@@ -8192,7 +8192,7 @@
     },
     {
       "id": "osm-w1473927783",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Kensington Avenue",
       "lat": 30.407282,
       "lng": -88.817659,
       "sports": [
@@ -8204,8 +8204,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kensington Avenue",
+      "city": "Ocean Springs",
       "state": "MS",
       "source": "osm",
       "tags": {
@@ -8214,7 +8214,7 @@
     },
     {
       "id": "osm-w1473928985",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Colonial Drive",
       "lat": 30.405517,
       "lng": -88.800993,
       "sports": [
@@ -8226,8 +8226,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Colonial Drive",
+      "city": "Ocean Springs",
       "state": "MS",
       "source": "osm",
       "tags": {}
@@ -8274,7 +8274,7 @@
     },
     {
       "id": "osm-w1473931844",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · State Highway 613",
       "lat": 30.617106,
       "lng": -88.490888,
       "sports": [
@@ -8286,8 +8286,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "State Highway 613",
+      "city": "Jackson County",
       "state": "MS",
       "source": "osm",
       "tags": {}
@@ -8502,7 +8502,7 @@
     },
     {
       "id": "osm-w1498865856",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Baldwin Drive",
       "lat": 34.381002,
       "lng": -89.512993,
       "sports": [
@@ -8514,8 +8514,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Baldwin Drive",
+      "city": "Oxford",
       "state": "MS",
       "source": "osm",
       "tags": {

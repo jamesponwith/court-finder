@@ -26,7 +26,7 @@
     },
     {
       "id": "osm-n13233775215",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Oak Road North",
       "lat": 40.416329,
       "lng": -111.754542,
       "sports": [
@@ -38,8 +38,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Oak Road North",
+      "city": "Cedar Hills",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -48,7 +48,7 @@
     },
     {
       "id": "osm-n13233775219",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North Pinion Drive",
       "lat": 40.416542,
       "lng": -111.763089,
       "sports": [
@@ -60,8 +60,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Pinion Drive",
+      "city": "Cedar Hills",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -194,7 +194,7 @@
     },
     {
       "id": "osm-w28347939",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West 165 South",
       "lat": 40.293466,
       "lng": -111.71184,
       "sports": [
@@ -206,8 +206,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 165 South",
+      "city": "Orem",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -515,7 +515,7 @@
     },
     {
       "id": "osm-w38912681",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Spanish Fork River Trail",
       "lat": 40.098972,
       "lng": -111.662204,
       "sports": [
@@ -527,8 +527,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Spanish Fork River Trail",
+      "city": "Spanish Fork",
       "state": "UT",
       "source": "osm",
       "tags": {}
@@ -1383,7 +1383,7 @@
     },
     {
       "id": "osm-w91972657",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Gracy Lane",
       "lat": 37.090728,
       "lng": -113.624241,
       "sports": [
@@ -1396,8 +1396,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Gracy Lane",
+      "city": "St. George",
       "state": "UT",
       "source": "osm",
       "tags": {}
@@ -1594,7 +1594,7 @@
     },
     {
       "id": "osm-w99935202",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South 740 East",
       "lat": 40.371071,
       "lng": -111.837693,
       "sports": [
@@ -1606,8 +1606,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South 740 East",
+      "city": "Lehi",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -1910,7 +1910,7 @@
     },
     {
       "id": "osm-w133592277",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Paddington Road",
       "lat": 40.623043,
       "lng": -111.970209,
       "sports": [
@@ -1923,8 +1923,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Paddington Road",
+      "city": "West Jordan",
       "state": "UT",
       "source": "osm",
       "tags": {}
@@ -2101,7 +2101,7 @@
     },
     {
       "id": "osm-w170191578",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Town Park Loop",
       "lat": 38.363482,
       "lng": -110.716954,
       "sports": [
@@ -2113,8 +2113,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Town Park Loop",
+      "city": "Hanksville",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -2187,7 +2187,7 @@
     },
     {
       "id": "osm-w196826696",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West 100 North",
       "lat": 40.513571,
       "lng": -111.475409,
       "sports": [
@@ -2199,8 +2199,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 100 North",
+      "city": "Midway",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -2465,7 +2465,7 @@
     },
     {
       "id": "osm-w241201662",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Siesta Drive",
       "lat": 40.613668,
       "lng": -111.844457,
       "sports": [
@@ -2477,8 +2477,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Siesta Drive",
+      "city": "Cottonwood Heights",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -2507,7 +2507,7 @@
     },
     {
       "id": "osm-w241763378",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Porter Rockwell Trail",
       "lat": 40.571516,
       "lng": -111.884359,
       "sports": [
@@ -2520,8 +2520,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Porter Rockwell Trail",
+      "city": "Sandy",
       "state": "UT",
       "source": "osm",
       "tags": {}
@@ -2591,7 +2591,7 @@
     },
     {
       "id": "osm-w242516857",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Captain Molly Drive",
       "lat": 40.660134,
       "lng": -111.510042,
       "sports": [
@@ -2603,8 +2603,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Captain Molly Drive",
+      "city": "Park City",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -2718,7 +2718,7 @@
     },
     {
       "id": "osm-w256077861",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Webster Drive",
       "lat": 40.663704,
       "lng": -111.516948,
       "sports": [
@@ -2730,8 +2730,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Webster Drive",
+      "city": "Park City",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -2877,7 +2877,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Washington",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -3782,7 +3782,7 @@
     },
     {
       "id": "osm-w357514915",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wolf Creek Drive",
       "lat": 41.327259,
       "lng": -111.826219,
       "sports": [
@@ -3794,8 +3794,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wolf Creek Drive",
+      "city": "Ogden Valley",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -3930,7 +3930,7 @@
     },
     {
       "id": "osm-w370545231",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Draper Canal Trail",
       "lat": 40.501759,
       "lng": -111.862359,
       "sports": [
@@ -3942,8 +3942,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Draper Canal Trail",
+      "city": "Draper",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -4036,7 +4036,7 @@
     },
     {
       "id": "osm-w387264957",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Tanner Lane",
       "lat": 40.632256,
       "lng": -111.839975,
       "sports": [
@@ -4048,8 +4048,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Tanner Lane",
+      "city": "Murray",
       "state": "UT",
       "source": "osm",
       "tags": {}
@@ -4098,7 +4098,7 @@
     },
     {
       "id": "osm-w391725866",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Douglas Corrigan Way",
       "lat": 40.771218,
       "lng": -112.007739,
       "sports": [
@@ -4110,8 +4110,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Douglas Corrigan Way",
+      "city": "Salt Lake City",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -5376,7 +5376,7 @@
     },
     {
       "id": "osm-w497226268",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East 700 South",
       "lat": 41.495674,
       "lng": -112.002787,
       "sports": [
@@ -5388,8 +5388,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 700 South",
+      "city": "Brigham City",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -5462,7 +5462,7 @@
     },
     {
       "id": "osm-w509844447",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 200 North",
       "lat": 40.235569,
       "lng": -111.699491,
       "sports": [
@@ -5474,8 +5474,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "200 North",
+      "city": "Provo",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -5635,7 +5635,7 @@
     },
     {
       "id": "osm-w510684840",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · McLeod Creek Trail",
       "lat": 40.664835,
       "lng": -111.512132,
       "sports": [
@@ -5647,8 +5647,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "McLeod Creek Trail",
+      "city": "Park City",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -5830,7 +5830,7 @@
     },
     {
       "id": "osm-w535314411",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Perimeter Trail",
       "lat": 40.640297,
       "lng": -112.040264,
       "sports": [
@@ -5843,8 +5843,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Perimeter Trail",
+      "city": "West Valley City",
       "state": "UT",
       "source": "osm",
       "tags": {}
@@ -5977,7 +5977,7 @@
     },
     {
       "id": "osm-w545502108",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · South Bullrush Parkway",
       "lat": 40.362671,
       "lng": -111.838677,
       "sports": [
@@ -5989,8 +5989,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Bullrush Parkway",
+      "city": "Lehi",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -6466,7 +6466,7 @@
     },
     {
       "id": "osm-w603214222",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · High Sierra Drive",
       "lat": 40.006655,
       "lng": -111.685116,
       "sports": [
@@ -6478,8 +6478,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "High Sierra Drive",
+      "city": "Elk Ridge",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -6488,7 +6488,7 @@
     },
     {
       "id": "osm-w606161495",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · River Chase Road",
       "lat": 40.483732,
       "lng": -112.005319,
       "sports": [
@@ -6500,8 +6500,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "River Chase Road",
+      "city": "Herriman",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -6510,7 +6510,7 @@
     },
     {
       "id": "osm-w607960953",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 3100 West",
       "lat": 40.512952,
       "lng": -111.965737,
       "sports": [
@@ -6522,8 +6522,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "3100 West",
+      "city": "Riverton",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -6701,7 +6701,7 @@
     },
     {
       "id": "osm-w661038932",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Quarry Ridge Drive",
       "lat": 37.054673,
       "lng": -113.540196,
       "sports": [
@@ -6713,15 +6713,15 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Quarry Ridge Drive",
+      "city": "St. George",
       "state": "UT",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w664881459",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Horseman Park Drive",
       "lat": 37.055169,
       "lng": -113.532875,
       "sports": [
@@ -6733,8 +6733,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Horseman Park Drive",
+      "city": "St. George",
       "state": "UT",
       "source": "osm",
       "tags": {}
@@ -6891,7 +6891,7 @@
     },
     {
       "id": "osm-w682812439",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Renaissance Way",
       "lat": 40.153004,
       "lng": -111.641195,
       "sports": [
@@ -6903,8 +6903,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Renaissance Way",
+      "city": "Springville",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -7184,7 +7184,7 @@
     },
     {
       "id": "osm-w775051680",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Spanish Fork River Trail",
       "lat": 40.099505,
       "lng": -111.66622,
       "sports": [
@@ -7196,8 +7196,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Spanish Fork River Trail",
+      "city": "Spanish Fork",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -7523,7 +7523,7 @@
     },
     {
       "id": "osm-w841106660",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North 575 West",
       "lat": 41.527172,
       "lng": -112.023604,
       "sports": [
@@ -7535,8 +7535,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North 575 West",
+      "city": "Brigham City",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -8352,7 +8352,7 @@
     },
     {
       "id": "osm-w977351287",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Village Drive",
       "lat": 41.190403,
       "lng": -111.941768,
       "sports": [
@@ -8365,8 +8365,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Village Drive",
+      "city": "Ogden",
       "state": "UT",
       "source": "osm",
       "tags": {}
@@ -8756,7 +8756,7 @@
     },
     {
       "id": "osm-w1030800721",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Desert Resort Court",
       "lat": 37.011855,
       "lng": -113.507836,
       "sports": [
@@ -8768,8 +8768,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Desert Resort Court",
+      "city": "St. George",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -8818,7 +8818,7 @@
     },
     {
       "id": "osm-w1035222436",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East 530 South",
       "lat": 40.366359,
       "lng": -111.779705,
       "sports": [
@@ -8830,8 +8830,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 530 South",
+      "city": "American Fork",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -8904,7 +8904,7 @@
     },
     {
       "id": "osm-w1037388939",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Red Stone Road",
       "lat": 37.13211,
       "lng": -113.484609,
       "sports": [
@@ -8916,8 +8916,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Red Stone Road",
+      "city": "Washington",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -8968,7 +8968,7 @@
     },
     {
       "id": "osm-w1039481958",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 2780 East",
       "lat": 37.09248,
       "lng": -113.527413,
       "sports": [
@@ -8980,8 +8980,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "2780 East",
+      "city": "St. George",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -8990,7 +8990,7 @@
     },
     {
       "id": "osm-w1040034690",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Caledonia Dunes Circle",
       "lat": 37.195296,
       "lng": -113.619598,
       "sports": [
@@ -9002,8 +9002,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Caledonia Dunes Circle",
+      "city": "St. George",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -9116,7 +9116,7 @@
     },
     {
       "id": "osm-w1062267824",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Village Green Circle",
       "lat": 40.480419,
       "lng": -111.835725,
       "sports": [
@@ -9128,8 +9128,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Village Green Circle",
+      "city": "Draper",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -9179,7 +9179,7 @@
     },
     {
       "id": "osm-w1067408169",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Tanner Lane",
       "lat": 40.342185,
       "lng": -111.918148,
       "sports": [
@@ -9191,8 +9191,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Tanner Lane",
+      "city": "Saratoga Springs",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -9214,7 +9214,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Hyde Park",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -9458,7 +9458,7 @@
     },
     {
       "id": "osm-w1088043988",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East Main Street",
       "lat": 37.160866,
       "lng": -113.041994,
       "sports": [
@@ -9470,8 +9470,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Main Street",
+      "city": "Rockville",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -9544,7 +9544,7 @@
     },
     {
       "id": "osm-w1096320653",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Resort Drive",
       "lat": 40.524468,
       "lng": -111.488519,
       "sports": [
@@ -9556,8 +9556,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Resort Drive",
+      "city": "Midway",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -9778,7 +9778,7 @@
     },
     {
       "id": "osm-w1111610318",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Traverse Terrace Drive",
       "lat": 40.436004,
       "lng": -111.851451,
       "sports": [
@@ -9790,8 +9790,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Traverse Terrace Drive",
+      "city": "Lehi",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -9863,7 +9863,7 @@
     },
     {
       "id": "osm-w1120452478",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 750 North",
       "lat": 40.395794,
       "lng": -111.905873,
       "sports": [
@@ -9875,8 +9875,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "750 North",
+      "city": "Lehi",
       "state": "UT",
       "source": "osm",
       "tags": {}
@@ -10482,7 +10482,7 @@
     },
     {
       "id": "osm-w1174030843",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Main Street",
       "lat": 41.502801,
       "lng": -111.943893,
       "sports": [
@@ -10494,8 +10494,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Main Street",
+      "city": "Mantua",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -10537,7 +10537,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Washington",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -10546,7 +10546,7 @@
     },
     {
       "id": "osm-w1189904939",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Verde Street",
       "lat": 37.145876,
       "lng": -113.473369,
       "sports": [
@@ -10558,8 +10558,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Verde Street",
+      "city": "Washington",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -10588,7 +10588,7 @@
     },
     {
       "id": "osm-w1195445106",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 1500 North",
       "lat": 40.254655,
       "lng": -111.630511,
       "sports": [
@@ -10600,8 +10600,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "1500 North",
+      "city": "Provo",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -10632,7 +10632,7 @@
     },
     {
       "id": "osm-w1201836971",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · South Spanish Trail Drive",
       "lat": 37.335216,
       "lng": -113.688294,
       "sports": [
@@ -10644,8 +10644,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Spanish Trail Drive",
+      "city": "Veyo",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -10717,7 +10717,7 @@
     },
     {
       "id": "osm-w1210440347",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North 550 West",
       "lat": 37.183123,
       "lng": -113.29852,
       "sports": [
@@ -10729,8 +10729,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North 550 West",
+      "city": "Hurricane",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -10888,7 +10888,7 @@
     },
     {
       "id": "osm-w1225345807",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Harding Avenue",
       "lat": 37.678606,
       "lng": -113.070182,
       "sports": [
@@ -10900,8 +10900,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Harding Avenue",
+      "city": "Cedar City",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -11017,7 +11017,7 @@
     },
     {
       "id": "osm-w1245638529",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 1790 West",
       "lat": 37.088536,
       "lng": -113.62199,
       "sports": [
@@ -11029,15 +11029,15 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "1790 West",
+      "city": "St. George",
       "state": "UT",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1245638532",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Gap Canyon Parkway",
       "lat": 37.089776,
       "lng": -113.626328,
       "sports": [
@@ -11049,8 +11049,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Gap Canyon Parkway",
+      "city": "St. George",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -11059,7 +11059,7 @@
     },
     {
       "id": "osm-w1245638536",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Tiffany Lane",
       "lat": 37.090632,
       "lng": -113.622369,
       "sports": [
@@ -11071,8 +11071,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Tiffany Lane",
+      "city": "St. George",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -11081,7 +11081,7 @@
     },
     {
       "id": "osm-w1245638538",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Park South Road",
       "lat": 37.097276,
       "lng": -113.617263,
       "sports": [
@@ -11093,8 +11093,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Park South Road",
+      "city": "St. George",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -11125,7 +11125,7 @@
     },
     {
       "id": "osm-w1245638541",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Stonebridge Drive",
       "lat": 37.108396,
       "lng": -113.62155,
       "sports": [
@@ -11137,8 +11137,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Stonebridge Drive",
+      "city": "St. George",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -11211,7 +11211,7 @@
     },
     {
       "id": "osm-w1256113290",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Swiss Oaks Drive",
       "lat": 40.526276,
       "lng": -111.492705,
       "sports": [
@@ -11223,8 +11223,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Swiss Oaks Drive",
+      "city": "Midway",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -11381,7 +11381,7 @@
     },
     {
       "id": "osm-w1264296756",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 1000 East",
       "lat": 40.266179,
       "lng": -111.641872,
       "sports": [
@@ -11393,8 +11393,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "1000 East",
+      "city": "Provo",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -11403,7 +11403,7 @@
     },
     {
       "id": "osm-w1264296757",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 2570 North",
       "lat": 40.267481,
       "lng": -111.64102,
       "sports": [
@@ -11415,8 +11415,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "2570 North",
+      "city": "Provo",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -11532,7 +11532,7 @@
     },
     {
       "id": "osm-w1275724041",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Richardson Flat Road",
       "lat": 40.673358,
       "lng": -111.463885,
       "sports": [
@@ -11544,8 +11544,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Richardson Flat Road",
+      "city": "Park City",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -11599,7 +11599,7 @@
     },
     {
       "id": "osm-w1279677707",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West 400 North",
       "lat": 37.849534,
       "lng": -112.831092,
       "sports": [
@@ -11611,8 +11611,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 400 North",
+      "city": "Parowan",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -11729,7 +11729,7 @@
     },
     {
       "id": "osm-w1284515286",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Pocket Mesa Drive",
       "lat": 37.19115,
       "lng": -113.615093,
       "sports": [
@@ -11741,8 +11741,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pocket Mesa Drive",
+      "city": "St. George",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -11878,7 +11878,7 @@
     },
     {
       "id": "osm-w1301835769",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East 1100 North",
       "lat": 40.31778,
       "lng": -111.662389,
       "sports": [
@@ -11890,8 +11890,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 1100 North",
+      "city": "Orem",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -11922,7 +11922,7 @@
     },
     {
       "id": "osm-w1302058942",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Brighton Point Drive",
       "lat": 40.6135,
       "lng": -111.790296,
       "sports": [
@@ -11935,15 +11935,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Brighton Point Drive",
+      "city": "Cottonwood Heights",
       "state": "UT",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1303334963",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Somerset Drive",
       "lat": 40.629707,
       "lng": -111.982232,
       "sports": [
@@ -11955,8 +11955,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Somerset Drive",
+      "city": "West Jordan",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -12063,7 +12063,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Summit County",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -12374,7 +12374,7 @@
     },
     {
       "id": "osm-w1330092809",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Hollow Way",
       "lat": 40.306499,
       "lng": -111.895278,
       "sports": [
@@ -12386,8 +12386,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hollow Way",
+      "city": "Saratoga Springs",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -12416,7 +12416,7 @@
     },
     {
       "id": "osm-w1333311491",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Hardman Way",
       "lat": 40.410421,
       "lng": -111.903698,
       "sports": [
@@ -12428,8 +12428,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hardman Way",
+      "city": "Lehi",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -12502,7 +12502,7 @@
     },
     {
       "id": "osm-w1337004504",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Perry Hollow Drive",
       "lat": 40.112376,
       "lng": -111.572333,
       "sports": [
@@ -12514,8 +12514,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Perry Hollow Drive",
+      "city": "Mapleton",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -12590,7 +12590,7 @@
     },
     {
       "id": "osm-w1337004514",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 2000 South",
       "lat": 40.112524,
       "lng": -111.581126,
       "sports": [
@@ -12602,8 +12602,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "2000 South",
+      "city": "Mapleton",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -12634,7 +12634,7 @@
     },
     {
       "id": "osm-w1337004517",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Monta Vista Drive",
       "lat": 40.114492,
       "lng": -111.5851,
       "sports": [
@@ -12647,8 +12647,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Monta Vista Drive",
+      "city": "Mapleton",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -12699,7 +12699,7 @@
     },
     {
       "id": "osm-w1342576977",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Wood Stream Road",
       "lat": 40.368369,
       "lng": -111.819407,
       "sports": [
@@ -12711,8 +12711,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wood Stream Road",
+      "city": "American Fork",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -12721,7 +12721,7 @@
     },
     {
       "id": "osm-w1343343406",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 620 South",
       "lat": 40.364668,
       "lng": -111.825119,
       "sports": [
@@ -12733,8 +12733,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "620 South",
+      "city": "American Fork",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -12743,7 +12743,7 @@
     },
     {
       "id": "osm-w1346909382",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Allred Drive",
       "lat": 40.394308,
       "lng": -111.902525,
       "sports": [
@@ -12755,15 +12755,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Allred Drive",
+      "city": "Lehi",
       "state": "UT",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1349699888",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Lester View Cove",
       "lat": 40.499387,
       "lng": -111.929826,
       "sports": [
@@ -12775,8 +12775,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lester View Cove",
+      "city": "Bluffdale",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -12829,7 +12829,7 @@
     },
     {
       "id": "osm-w1354305348",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Kwavasa Drive",
       "lat": 37.181422,
       "lng": -113.705633,
       "sports": [
@@ -12841,8 +12841,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kwavasa Drive",
+      "city": "Ivins",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -12957,7 +12957,7 @@
     },
     {
       "id": "osm-w1359789188",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Shady Hollow Lane",
       "lat": 40.444494,
       "lng": -111.894108,
       "sports": [
@@ -12969,8 +12969,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Shady Hollow Lane",
+      "city": "Lehi",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -12979,7 +12979,7 @@
     },
     {
       "id": "osm-w1359930615",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Eagles View Drive",
       "lat": 40.450579,
       "lng": -111.887639,
       "sports": [
@@ -12991,8 +12991,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Eagles View Drive",
+      "city": "Lehi",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -13001,7 +13001,7 @@
     },
     {
       "id": "osm-w1359930628",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Digital Drive",
       "lat": 40.433876,
       "lng": -111.889365,
       "sports": [
@@ -13013,15 +13013,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Digital Drive",
+      "city": "Lehi",
       "state": "UT",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1359930651",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Timpanogos Highway",
       "lat": 40.43368,
       "lng": -111.862982,
       "sports": [
@@ -13033,8 +13033,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Timpanogos Highway",
+      "city": "Lehi",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -13151,7 +13151,7 @@
     },
     {
       "id": "osm-w1364138620",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Retreat Drive",
       "lat": 37.120223,
       "lng": -113.402115,
       "sports": [
@@ -13164,8 +13164,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Retreat Drive",
+      "city": "Hurricane",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -13174,7 +13174,7 @@
     },
     {
       "id": "osm-w1364284789",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Villas North Drive",
       "lat": 37.114856,
       "lng": -113.408844,
       "sports": [
@@ -13186,8 +13186,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Villas North Drive",
+      "city": "Hurricane",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -13240,7 +13240,7 @@
     },
     {
       "id": "osm-w1372247032",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Doubleday Street",
       "lat": 40.128346,
       "lng": -111.607318,
       "sports": [
@@ -13252,8 +13252,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Doubleday Street",
+      "city": "Mapleton",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -13262,7 +13262,7 @@
     },
     {
       "id": "osm-w1372247039",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Aurora Avenue",
       "lat": 40.12982,
       "lng": -111.608714,
       "sports": [
@@ -13274,8 +13274,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Aurora Avenue",
+      "city": "Mapleton",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -13284,7 +13284,7 @@
     },
     {
       "id": "osm-w1372248641",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Chamberlain Street",
       "lat": 40.122627,
       "lng": -111.609434,
       "sports": [
@@ -13296,8 +13296,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Chamberlain Street",
+      "city": "Mapleton",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -13306,7 +13306,7 @@
     },
     {
       "id": "osm-w1372275245",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 1750 West",
       "lat": 40.130186,
       "lng": -111.599993,
       "sports": [
@@ -13318,8 +13318,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "1750 West",
+      "city": "Mapleton",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -13328,7 +13328,7 @@
     },
     {
       "id": "osm-w1372277754",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Santa Fe Drive",
       "lat": 40.131165,
       "lng": -111.6035,
       "sports": [
@@ -13340,8 +13340,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Santa Fe Drive",
+      "city": "Mapleton",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -13350,7 +13350,7 @@
     },
     {
       "id": "osm-w1372301586",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East 100 South",
       "lat": 40.108464,
       "lng": -111.602612,
       "sports": [
@@ -13362,8 +13362,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 100 South",
+      "city": "Spanish Fork",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -13372,7 +13372,7 @@
     },
     {
       "id": "osm-w1372302061",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 2930 East",
       "lat": 40.108854,
       "lng": -111.605282,
       "sports": [
@@ -13384,8 +13384,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "2930 East",
+      "city": "Spanish Fork",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -13394,7 +13394,7 @@
     },
     {
       "id": "osm-w1372328880",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North 2470 East",
       "lat": 40.112667,
       "lng": -111.612744,
       "sports": [
@@ -13406,8 +13406,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North 2470 East",
+      "city": "Spanish Fork",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -13416,7 +13416,7 @@
     },
     {
       "id": "osm-w1372418048",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 800 West",
       "lat": 40.129288,
       "lng": -111.588015,
       "sports": [
@@ -13428,8 +13428,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "800 West",
+      "city": "Mapleton",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -13438,7 +13438,7 @@
     },
     {
       "id": "osm-w1372419741",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 1200 West",
       "lat": 40.124147,
       "lng": -111.591934,
       "sports": [
@@ -13450,8 +13450,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "1200 West",
+      "city": "Mapleton",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -13460,7 +13460,7 @@
     },
     {
       "id": "osm-w1372419751",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 1200 West",
       "lat": 40.123811,
       "lng": -111.593414,
       "sports": [
@@ -13472,8 +13472,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "1200 West",
+      "city": "Mapleton",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -13482,7 +13482,7 @@
     },
     {
       "id": "osm-w1372586876",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East 130 North",
       "lat": 40.111904,
       "lng": -111.62345,
       "sports": [
@@ -13494,8 +13494,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 130 North",
+      "city": "Spanish Fork",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -13526,7 +13526,7 @@
     },
     {
       "id": "osm-w1372600585",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North 2000 East",
       "lat": 40.111202,
       "lng": -111.620678,
       "sports": [
@@ -13538,8 +13538,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North 2000 East",
+      "city": "Spanish Fork",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -13570,7 +13570,7 @@
     },
     {
       "id": "osm-w1372603222",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Mount Loafer Circle",
       "lat": 40.096945,
       "lng": -111.641722,
       "sports": [
@@ -13582,8 +13582,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mount Loafer Circle",
+      "city": "Spanish Fork",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -13592,7 +13592,7 @@
     },
     {
       "id": "osm-w1372604868",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East 850 South",
       "lat": 40.098449,
       "lng": -111.627268,
       "sports": [
@@ -13604,8 +13604,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 850 South",
+      "city": "Spanish Fork",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -13614,7 +13614,7 @@
     },
     {
       "id": "osm-w1372607536",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East 1750 South Street",
       "lat": 40.087534,
       "lng": -111.631373,
       "sports": [
@@ -13626,8 +13626,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 1750 South Street",
+      "city": "Spanish Fork",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -13658,7 +13658,7 @@
     },
     {
       "id": "osm-w1372610988",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East 1050 South",
       "lat": 40.095431,
       "lng": -111.633516,
       "sports": [
@@ -13670,8 +13670,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 1050 South",
+      "city": "Spanish Fork",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -13680,7 +13680,7 @@
     },
     {
       "id": "osm-w1372611225",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East 950 South",
       "lat": 40.097268,
       "lng": -111.63239,
       "sports": [
@@ -13692,8 +13692,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 950 South",
+      "city": "Spanish Fork",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -13702,7 +13702,7 @@
     },
     {
       "id": "osm-w1372664193",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Rountree Drive",
       "lat": 37.664139,
       "lng": -113.059823,
       "sports": [
@@ -13714,8 +13714,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rountree Drive",
+      "city": "Cedar City",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -13724,7 +13724,7 @@
     },
     {
       "id": "osm-w1372899763",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North Golden Spoke Drive",
       "lat": 40.125026,
       "lng": -111.617177,
       "sports": [
@@ -13736,8 +13736,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Golden Spoke Drive",
+      "city": "Spanish Fork",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -13746,7 +13746,7 @@
     },
     {
       "id": "osm-w1374317703",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 3800 South",
       "lat": 40.689876,
       "lng": -111.955798,
       "sports": [
@@ -13758,8 +13758,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "3800 South",
+      "city": "West Valley City",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -13810,7 +13810,7 @@
     },
     {
       "id": "osm-w1380088188",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Firefly Boulevard",
       "lat": 40.291976,
       "lng": -112.087226,
       "sports": [
@@ -13822,8 +13822,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Firefly Boulevard",
+      "city": "Eagle Mountain",
       "state": "UT",
       "source": "osm",
       "tags": {}
@@ -13978,7 +13978,7 @@
     },
     {
       "id": "osm-w1384439221",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Baen Way",
       "lat": 40.557767,
       "lng": -112.304763,
       "sports": [
@@ -13990,8 +13990,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Baen Way",
+      "city": "Tooele",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -14040,7 +14040,7 @@
     },
     {
       "id": "osm-w1387762247",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Willowbrook Lane",
       "lat": 40.149507,
       "lng": -111.571399,
       "sports": [
@@ -14052,8 +14052,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Willowbrook Lane",
+      "city": "Springville",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -14084,7 +14084,7 @@
     },
     {
       "id": "osm-w1387762427",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · River Bottom Road",
       "lat": 40.149763,
       "lng": -111.567794,
       "sports": [
@@ -14096,8 +14096,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "River Bottom Road",
+      "city": "Springville",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -14106,7 +14106,7 @@
     },
     {
       "id": "osm-w1387762658",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cove Drive",
       "lat": 40.150693,
       "lng": -111.565835,
       "sports": [
@@ -14119,8 +14119,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cove Drive",
+      "city": "Springville",
       "state": "UT",
       "source": "osm",
       "tags": {}
@@ -14170,7 +14170,7 @@
     },
     {
       "id": "osm-w1391092298",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 700 South",
       "lat": 41.484189,
       "lng": -111.939714,
       "sports": [
@@ -14182,8 +14182,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "700 South",
+      "city": "Mantua",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -14192,7 +14192,7 @@
     },
     {
       "id": "osm-w1392687091",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 1375 South",
       "lat": 39.579044,
       "lng": -110.814502,
       "sports": [
@@ -14204,8 +14204,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "1375 South",
+      "city": "Price",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -14214,7 +14214,7 @@
     },
     {
       "id": "osm-w1392853127",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Wolf Creek Trail",
       "lat": 41.328178,
       "lng": -111.824189,
       "sports": [
@@ -14226,8 +14226,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wolf Creek Trail",
+      "city": "Ogden Valley",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -14346,7 +14346,7 @@
     },
     {
       "id": "osm-w1396059040",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 600 West",
       "lat": 41.736726,
       "lng": -111.850728,
       "sports": [
@@ -14358,8 +14358,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "600 West",
+      "city": "Logan",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -14368,7 +14368,7 @@
     },
     {
       "id": "osm-w1408704271",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Lehi Rail Trail",
       "lat": 40.431032,
       "lng": -111.883298,
       "sports": [
@@ -14380,8 +14380,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lehi Rail Trail",
+      "city": "Lehi",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -14710,7 +14710,7 @@
     },
     {
       "id": "osm-w1423696672",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · South Firth Farm Road",
       "lat": 41.141942,
       "lng": -111.967725,
       "sports": [
@@ -14722,8 +14722,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Firth Farm Road",
+      "city": "South Weber",
       "state": "UT",
       "source": "osm",
       "tags": {}
@@ -14857,7 +14857,7 @@
     },
     {
       "id": "osm-w1425249891",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Cypress Point Way",
       "lat": 40.527426,
       "lng": -111.845169,
       "sports": [
@@ -14869,8 +14869,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cypress Point Way",
+      "city": "Draper",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -14901,7 +14901,7 @@
     },
     {
       "id": "osm-w1425250362",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 2000 East",
       "lat": 40.527289,
       "lng": -111.834074,
       "sports": [
@@ -14913,8 +14913,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "2000 East",
+      "city": "Draper",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -14965,7 +14965,7 @@
     },
     {
       "id": "osm-w1425250971",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bear Hills Drive",
       "lat": 40.531522,
       "lng": -111.824397,
       "sports": [
@@ -14978,8 +14978,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bear Hills Drive",
+      "city": "Draper",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -15010,7 +15010,7 @@
     },
     {
       "id": "osm-w1425257566",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Brookglen Drive",
       "lat": 40.536049,
       "lng": -111.822041,
       "sports": [
@@ -15022,8 +15022,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Brookglen Drive",
+      "city": "Sandy",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -15032,7 +15032,7 @@
     },
     {
       "id": "osm-w1425257629",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Brook Lane",
       "lat": 40.533493,
       "lng": -111.821444,
       "sports": [
@@ -15044,8 +15044,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Brook Lane",
+      "city": "Sandy",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -15054,7 +15054,7 @@
     },
     {
       "id": "osm-w1425257757",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Broadview Court",
       "lat": 40.540843,
       "lng": -111.822226,
       "sports": [
@@ -15066,8 +15066,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Broadview Court",
+      "city": "Sandy",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -15160,7 +15160,7 @@
     },
     {
       "id": "osm-w1425278454",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Belt Route",
       "lat": 40.634138,
       "lng": -111.811901,
       "sports": [
@@ -15172,8 +15172,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Belt Route",
+      "city": "Cottonwood Heights",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -15204,7 +15204,7 @@
     },
     {
       "id": "osm-w1425278903",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Deerwood Creek Circle",
       "lat": 40.64501,
       "lng": -111.814834,
       "sports": [
@@ -15216,8 +15216,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Deerwood Creek Circle",
+      "city": "Holladay",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -15226,7 +15226,7 @@
     },
     {
       "id": "osm-w1425278942",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Wasatch Boulevard",
       "lat": 40.598301,
       "lng": -111.798313,
       "sports": [
@@ -15238,15 +15238,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wasatch Boulevard",
+      "city": "Cottonwood Heights",
       "state": "UT",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1425278994",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Hidden Oaks Circle",
       "lat": 40.594015,
       "lng": -111.799411,
       "sports": [
@@ -15258,8 +15258,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hidden Oaks Circle",
+      "city": "Cottonwood Heights",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -15268,7 +15268,7 @@
     },
     {
       "id": "osm-w1425279611",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Stone Mesa Court",
       "lat": 40.568968,
       "lng": -111.79737,
       "sports": [
@@ -15281,8 +15281,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Stone Mesa Court",
+      "city": "Sandy",
       "state": "UT",
       "source": "osm",
       "tags": {}
@@ -15399,7 +15399,7 @@
     },
     {
       "id": "osm-w1426109742",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West 2200 North",
       "lat": 40.95143,
       "lng": -111.88952,
       "sports": [
@@ -15411,8 +15411,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 2200 North",
+      "city": "Centerville",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -15680,7 +15680,7 @@
     },
     {
       "id": "osm-w1432651441",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Lincoln Drive",
       "lat": 40.57056,
       "lng": -111.96052,
       "sports": [
@@ -15692,8 +15692,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lincoln Drive",
+      "city": "South Jordan",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -15702,7 +15702,7 @@
     },
     {
       "id": "osm-w1432651442",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 10000 South",
       "lat": 40.569725,
       "lng": -111.958758,
       "sports": [
@@ -15714,8 +15714,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "10000 South",
+      "city": "South Jordan",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -15766,7 +15766,7 @@
     },
     {
       "id": "osm-w1435538084",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East 925 South",
       "lat": 41.098906,
       "lng": -111.995861,
       "sports": [
@@ -15778,8 +15778,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 925 South",
+      "city": "Clearfield",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -15850,7 +15850,7 @@
     },
     {
       "id": "osm-w1437038548",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 10000 South",
       "lat": 40.568984,
       "lng": -111.817337,
       "sports": [
@@ -15862,8 +15862,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "10000 South",
+      "city": "Sandy",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -15979,7 +15979,7 @@
     },
     {
       "id": "osm-w1446538466",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Towne Ridge Parkway",
       "lat": 40.576437,
       "lng": -111.894988,
       "sports": [
@@ -15991,8 +15991,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Towne Ridge Parkway",
+      "city": "Sandy",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -16023,7 +16023,7 @@
     },
     {
       "id": "osm-w1447066609",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Jordan River Parkway Trail",
       "lat": 40.537393,
       "lng": -111.918306,
       "sports": [
@@ -16035,8 +16035,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Jordan River Parkway Trail",
+      "city": "South Jordan",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -16045,7 +16045,7 @@
     },
     {
       "id": "osm-w1447066699",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Draper Ridge Drive",
       "lat": 40.530786,
       "lng": -111.905215,
       "sports": [
@@ -16057,8 +16057,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Draper Ridge Drive",
+      "city": "Draper",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -16087,7 +16087,7 @@
     },
     {
       "id": "osm-w1447067092",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Perspective Way",
       "lat": 40.488743,
       "lng": -111.884254,
       "sports": [
@@ -16099,8 +16099,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Perspective Way",
+      "city": "Draper",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -16109,7 +16109,7 @@
     },
     {
       "id": "osm-w1447168987",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 300 North",
       "lat": 40.366969,
       "lng": -111.732595,
       "sports": [
@@ -16121,8 +16121,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "300 North",
+      "city": "Pleasant Grove",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -16131,7 +16131,7 @@
     },
     {
       "id": "osm-w1447169486",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Windsong Drive",
       "lat": 40.383947,
       "lng": -111.742662,
       "sports": [
@@ -16143,8 +16143,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Windsong Drive",
+      "city": "Pleasant Grove",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -16173,7 +16173,7 @@
     },
     {
       "id": "osm-w1447187693",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Spyglass",
       "lat": 40.425758,
       "lng": -111.760752,
       "sports": [
@@ -16185,8 +16185,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Spyglass",
+      "city": "Cedar Hills",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -16195,7 +16195,7 @@
     },
     {
       "id": "osm-w1447548062",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Future Way",
       "lat": 40.485371,
       "lng": -111.889956,
       "sports": [
@@ -16207,8 +16207,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Future Way",
+      "city": "Draper",
       "state": "UT",
       "source": "osm",
       "tags": {}
@@ -16279,7 +16279,7 @@
     },
     {
       "id": "osm-w1447553785",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 860 West",
       "lat": 40.390372,
       "lng": -111.753848,
       "sports": [
@@ -16291,8 +16291,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "860 West",
+      "city": "Pleasant Grove",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -16301,7 +16301,7 @@
     },
     {
       "id": "osm-w1447553786",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 2310 North",
       "lat": 40.38937,
       "lng": -111.75821,
       "sports": [
@@ -16313,8 +16313,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "2310 North",
+      "city": "Pleasant Grove",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -16323,7 +16323,7 @@
     },
     {
       "id": "osm-w1447553788",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West 2420 North",
       "lat": 40.390658,
       "lng": -111.758431,
       "sports": [
@@ -16335,8 +16335,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 2420 North",
+      "city": "Pleasant Grove",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -16345,7 +16345,7 @@
     },
     {
       "id": "osm-w1447553790",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 2180 North",
       "lat": 40.387472,
       "lng": -111.760462,
       "sports": [
@@ -16357,8 +16357,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "2180 North",
+      "city": "Pleasant Grove",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -16453,7 +16453,7 @@
     },
     {
       "id": "osm-w1447564186",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Independence Trail",
       "lat": 40.471096,
       "lng": -111.922895,
       "sports": [
@@ -16465,8 +16465,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Independence Trail",
+      "city": "Bluffdale",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -16475,7 +16475,7 @@
     },
     {
       "id": "osm-w1447564625",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Oak Road North",
       "lat": 40.418246,
       "lng": -111.760189,
       "sports": [
@@ -16487,8 +16487,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Oak Road North",
+      "city": "Cedar Hills",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -16497,7 +16497,7 @@
     },
     {
       "id": "osm-w1447564626",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Mesquite Way",
       "lat": 40.418925,
       "lng": -111.75941,
       "sports": [
@@ -16509,8 +16509,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Mesquite Way",
+      "city": "Cedar Hills",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -16519,7 +16519,7 @@
     },
     {
       "id": "osm-w1447564627",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North Mesquite Way",
       "lat": 40.419661,
       "lng": -111.760604,
       "sports": [
@@ -16531,8 +16531,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Mesquite Way",
+      "city": "Cedar Hills",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -16541,7 +16541,7 @@
     },
     {
       "id": "osm-w1447564723",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Ironwood Drive",
       "lat": 40.417647,
       "lng": -111.754615,
       "sports": [
@@ -16553,8 +16553,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ironwood Drive",
+      "city": "Cedar Hills",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -16563,7 +16563,7 @@
     },
     {
       "id": "osm-w1447565067",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North Makai",
       "lat": 40.423226,
       "lng": -111.753872,
       "sports": [
@@ -16575,8 +16575,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Makai",
+      "city": "Cedar Hills",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -16820,7 +16820,7 @@
     },
     {
       "id": "osm-w1453212645",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 1700 East",
       "lat": 40.065881,
       "lng": -111.639525,
       "sports": [
@@ -16832,8 +16832,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "1700 East",
+      "city": "Salem",
       "state": "UT",
       "source": "osm",
       "tags": {}
@@ -16884,7 +16884,7 @@
     },
     {
       "id": "osm-w1459963515",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Summit View Drive",
       "lat": 41.275279,
       "lng": -111.979257,
       "sports": [
@@ -16896,8 +16896,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Summit View Drive",
+      "city": "Harrisville",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -16970,7 +16970,7 @@
     },
     {
       "id": "osm-w1463231684",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 150 West",
       "lat": 40.281695,
       "lng": -111.660277,
       "sports": [
@@ -16982,8 +16982,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "150 West",
+      "city": "Provo",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -17069,7 +17069,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Lindon",
       "state": "UT",
       "source": "osm",
       "tags": {}
@@ -17098,7 +17098,7 @@
     },
     {
       "id": "osm-w1466310069",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 100 South",
       "lat": 41.636219,
       "lng": -111.932324,
       "sports": [
@@ -17110,8 +17110,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "100 South",
+      "city": "Wellsville",
       "state": "UT",
       "source": "osm",
       "tags": {}
@@ -17642,7 +17642,7 @@
     },
     {
       "id": "osm-w1469004687",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Tall Oak Lane",
       "lat": 40.639911,
       "lng": -111.83906,
       "sports": [
@@ -17655,8 +17655,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Tall Oak Lane",
+      "city": "Murray",
       "state": "UT",
       "source": "osm",
       "tags": {}
@@ -18245,7 +18245,7 @@
     },
     {
       "id": "osm-w1469013129",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Oakwood Drive",
       "lat": 40.856773,
       "lng": -111.868181,
       "sports": [
@@ -18257,8 +18257,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Oakwood Drive",
+      "city": "Bountiful",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -19088,7 +19088,7 @@
     },
     {
       "id": "osm-w1469240952",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Freedom Boulevard",
       "lat": 40.248545,
       "lng": -111.661328,
       "sports": [
@@ -19100,8 +19100,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Freedom Boulevard",
+      "city": "Provo",
       "state": "UT",
       "source": "osm",
       "tags": {}
@@ -19241,7 +19241,7 @@
     },
     {
       "id": "osm-w1475998417",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 300 West",
       "lat": 40.28584,
       "lng": -111.664004,
       "sports": [
@@ -19253,8 +19253,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "300 West",
+      "city": "Provo",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -19263,7 +19263,7 @@
     },
     {
       "id": "osm-w1475998418",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Riverwood Drive",
       "lat": 40.285423,
       "lng": -111.666967,
       "sports": [
@@ -19275,8 +19275,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Riverwood Drive",
+      "city": "Provo",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -19285,7 +19285,7 @@
     },
     {
       "id": "osm-w1475998421",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · South River Breeze Drive",
       "lat": 40.284138,
       "lng": -111.669823,
       "sports": [
@@ -19297,8 +19297,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South River Breeze Drive",
+      "city": "Orem",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -19416,7 +19416,7 @@
     },
     {
       "id": "osm-w1475998445",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 1400 East",
       "lat": 40.261333,
       "lng": -111.633929,
       "sports": [
@@ -19428,8 +19428,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "1400 East",
+      "city": "Provo",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -19438,7 +19438,7 @@
     },
     {
       "id": "osm-w1475998448",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 1550 East",
       "lat": 40.259063,
       "lng": -111.630737,
       "sports": [
@@ -19450,8 +19450,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "1550 East",
+      "city": "Provo",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -19460,7 +19460,7 @@
     },
     {
       "id": "osm-w1475998449",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 1450 East",
       "lat": 40.252966,
       "lng": -111.633039,
       "sports": [
@@ -19472,8 +19472,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "1450 East",
+      "city": "Provo",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -19482,7 +19482,7 @@
     },
     {
       "id": "osm-w1475998452",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 2950 North",
       "lat": 40.273392,
       "lng": -111.650726,
       "sports": [
@@ -19494,8 +19494,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "2950 North",
+      "city": "Provo",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -19504,7 +19504,7 @@
     },
     {
       "id": "osm-w1475998457",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 4190 North",
       "lat": 40.289697,
       "lng": -111.648458,
       "sports": [
@@ -19516,8 +19516,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "4190 North",
+      "city": "Provo",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -19526,7 +19526,7 @@
     },
     {
       "id": "osm-w1479953528",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 700 North",
       "lat": 41.271259,
       "lng": -112.02923,
       "sports": [
@@ -19538,8 +19538,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "700 North",
+      "city": "Marriott-Slaterville",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -19719,7 +19719,7 @@
     },
     {
       "id": "osm-w1487054244",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · South 4290 West",
       "lat": 41.098708,
       "lng": -112.109083,
       "sports": [
@@ -19731,8 +19731,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South 4290 West",
+      "city": "West Point",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -19741,7 +19741,7 @@
     },
     {
       "id": "osm-w1487791405",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · A Journey Through Time Scenic Byway",
       "lat": 37.908704,
       "lng": -111.423848,
       "sports": [
@@ -19753,8 +19753,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "A Journey Through Time Scenic Byway",
+      "city": "Boulder",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -19891,7 +19891,7 @@
     },
     {
       "id": "osm-w1491632715",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Arcadia Drive",
       "lat": 37.155184,
       "lng": -113.666581,
       "sports": [
@@ -19903,8 +19903,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Arcadia Drive",
+      "city": "Santa Clara",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -19913,7 +19913,7 @@
     },
     {
       "id": "osm-w1491632720",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Hamblin Parkway",
       "lat": 37.15696,
       "lng": -113.666165,
       "sports": [
@@ -19925,8 +19925,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hamblin Parkway",
+      "city": "Santa Clara",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -19935,7 +19935,7 @@
     },
     {
       "id": "osm-w1492521472",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 1000 West",
       "lat": 40.368117,
       "lng": -111.942011,
       "sports": [
@@ -19947,8 +19947,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "1000 West",
+      "city": "Saratoga Springs",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -20063,7 +20063,7 @@
     },
     {
       "id": "osm-w1497502931",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Porter Rockwell Trail",
       "lat": 40.505741,
       "lng": -111.851496,
       "sports": [
@@ -20075,8 +20075,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Porter Rockwell Trail",
+      "city": "Draper",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -20085,7 +20085,7 @@
     },
     {
       "id": "osm-w1497822289",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Timp Meadows Drive",
       "lat": 40.395682,
       "lng": -111.874023,
       "sports": [
@@ -20097,8 +20097,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Timp Meadows Drive",
+      "city": "Lehi",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -20107,7 +20107,7 @@
     },
     {
       "id": "osm-w1497835468",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West 300 North",
       "lat": 40.391717,
       "lng": -111.873512,
       "sports": [
@@ -20119,8 +20119,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 300 North",
+      "city": "Lehi",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -20129,7 +20129,7 @@
     },
     {
       "id": "osm-w1497975120",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West 800 North",
       "lat": 40.39764,
       "lng": -111.875088,
       "sports": [
@@ -20141,8 +20141,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 800 North",
+      "city": "Lehi",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -20151,7 +20151,7 @@
     },
     {
       "id": "osm-w1497975156",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West 800 North",
       "lat": 40.396772,
       "lng": -111.87083,
       "sports": [
@@ -20163,8 +20163,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 800 North",
+      "city": "Lehi",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -20343,7 +20343,7 @@
     },
     {
       "id": "osm-w1504108172",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Temple",
       "lat": 40.772679,
       "lng": -111.894996,
       "sports": [
@@ -20355,8 +20355,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Temple",
+      "city": "Salt Lake City",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -20365,7 +20365,7 @@
     },
     {
       "id": "osm-w1505491490",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 490 West",
       "lat": 40.777435,
       "lng": -111.904499,
       "sports": [
@@ -20377,8 +20377,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "490 West",
+      "city": "Salt Lake City",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -20409,7 +20409,7 @@
     },
     {
       "id": "osm-w1507973700",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cari Lane",
       "lat": 40.529698,
       "lng": -111.484449,
       "sports": [
@@ -20421,8 +20421,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cari Lane",
+      "city": "Midway",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -20431,7 +20431,7 @@
     },
     {
       "id": "osm-w1509025569",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Millcreek Canyon Road",
       "lat": 40.694012,
       "lng": -111.799777,
       "sports": [
@@ -20443,8 +20443,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Millcreek Canyon Road",
+      "city": "Millcreek",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -20603,7 +20603,7 @@
     },
     {
       "id": "osm-w1517268110",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Prospector Way",
       "lat": 37.004644,
       "lng": -113.509499,
       "sports": [
@@ -20615,8 +20615,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Prospector Way",
+      "city": "St. George",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -20625,7 +20625,7 @@
     },
     {
       "id": "osm-w1517777279",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Banner Drive",
       "lat": 40.375138,
       "lng": -111.955961,
       "sports": [
@@ -20637,15 +20637,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Banner Drive",
+      "city": "Saratoga Springs",
       "state": "UT",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1518496253",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Sawy Cove",
       "lat": 40.687704,
       "lng": -111.873942,
       "sports": [
@@ -20657,8 +20657,8 @@
       "indoor": null,
       "access": "customers",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sawy Cove",
+      "city": "South Salt Lake",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -20709,7 +20709,7 @@
     },
     {
       "id": "osm-w1527533109",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Mandalay Road",
       "lat": 40.802416,
       "lng": -111.946086,
       "sports": [
@@ -20721,8 +20721,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mandalay Road",
+      "city": "Salt Lake City",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -20796,7 +20796,7 @@
     },
     {
       "id": "osm-w1528902122",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 400 South",
       "lat": 41.827588,
       "lng": -111.822619,
       "sports": [
@@ -20808,8 +20808,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "400 South",
+      "city": "Smithfield",
       "state": "UT",
       "source": "osm",
       "tags": {}
@@ -20943,7 +20943,7 @@
     },
     {
       "id": "osm-w1537507134",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Canyon Cove Drive",
       "lat": 40.156344,
       "lng": -111.576966,
       "sports": [
@@ -20955,8 +20955,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Canyon Cove Drive",
+      "city": "Springville",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -20965,7 +20965,7 @@
     },
     {
       "id": "osm-w1538974934",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Panorama Drive",
       "lat": 40.287505,
       "lng": -111.882659,
       "sports": [
@@ -20977,8 +20977,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Panorama Drive",
+      "city": "Saratoga Springs",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -20987,7 +20987,7 @@
     },
     {
       "id": "osm-w1539585805",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 2100 East",
       "lat": 40.119894,
       "lng": -111.61885,
       "sports": [
@@ -20999,8 +20999,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "2100 East",
+      "city": "Spanish Fork",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -21022,7 +21022,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Toquerville",
       "state": "UT",
       "source": "osm",
       "tags": {}
@@ -21084,7 +21084,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Rich County",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -21093,7 +21093,7 @@
     },
     {
       "id": "osm-w1540369342",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North Cisco Road",
       "lat": 41.860105,
       "lng": -111.296089,
       "sports": [
@@ -21105,8 +21105,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Cisco Road",
+      "city": "Rich County",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -21115,7 +21115,7 @@
     },
     {
       "id": "osm-w1540369352",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North Cisco Road",
       "lat": 41.858497,
       "lng": -111.295331,
       "sports": [
@@ -21127,8 +21127,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Cisco Road",
+      "city": "Rich County",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -21159,7 +21159,7 @@
     },
     {
       "id": "osm-w1541188896",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · South Michelle Drive",
       "lat": 41.48478,
       "lng": -112.012304,
       "sports": [
@@ -21171,8 +21171,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Michelle Drive",
+      "city": "Brigham City",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -21181,7 +21181,7 @@
     },
     {
       "id": "osm-w1541313530",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 800 North",
       "lat": 40.137587,
       "lng": -111.591573,
       "sports": [
@@ -21193,8 +21193,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "800 North",
+      "city": "Mapleton",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -21225,7 +21225,7 @@
     },
     {
       "id": "osm-w1541322036",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 1200 North",
       "lat": 40.141603,
       "lng": -111.599783,
       "sports": [
@@ -21237,8 +21237,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "1200 North",
+      "city": "Mapleton",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -21247,7 +21247,7 @@
     },
     {
       "id": "osm-w1541334312",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Sage Creek Circle",
       "lat": 40.154281,
       "lng": -111.605586,
       "sports": [
@@ -21259,8 +21259,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sage Creek Circle",
+      "city": "Springville",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -21269,7 +21269,7 @@
     },
     {
       "id": "osm-w1541921293",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Walking Path",
       "lat": 40.30742,
       "lng": -111.882807,
       "sports": [
@@ -21281,8 +21281,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Walking Path",
+      "city": "Saratoga Springs",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -21378,7 +21378,7 @@
     },
     {
       "id": "osm-w1547006512",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 300 North",
       "lat": 40.170456,
       "lng": -111.623915,
       "sports": [
@@ -21390,8 +21390,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "300 North",
+      "city": "Springville",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -21422,7 +21422,7 @@
     },
     {
       "id": "osm-w1547422010",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Aspen Road",
       "lat": 40.617213,
       "lng": -111.286805,
       "sports": [
@@ -21434,8 +21434,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Aspen Road",
+      "city": "Francis",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -21466,7 +21466,7 @@
     },
     {
       "id": "osm-w1547747408",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East 100 South",
       "lat": 40.053557,
       "lng": -111.668551,
       "sports": [
@@ -21478,8 +21478,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 100 South",
+      "city": "Salem",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -21508,7 +21508,7 @@
     },
     {
       "id": "osm-w1547767014",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 2940 East",
       "lat": 40.696201,
       "lng": -111.808769,
       "sports": [
@@ -21520,8 +21520,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "2940 East",
+      "city": "Millcreek",
       "state": "UT",
       "source": "osm",
       "tags": {}
@@ -21548,7 +21548,7 @@
     },
     {
       "id": "osm-w1548001488",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 1500 South",
       "lat": 38.748437,
       "lng": -112.092306,
       "sports": [
@@ -21560,8 +21560,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "1500 South",
+      "city": "Richfield",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -21656,7 +21656,7 @@
     },
     {
       "id": "osm-w1549002006",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 60 North",
       "lat": 41.636827,
       "lng": -111.872223,
       "sports": [
@@ -21668,8 +21668,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "60 North",
+      "city": "Hyrum",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -21678,7 +21678,7 @@
     },
     {
       "id": "osm-w1549174935",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 880 East",
       "lat": 40.174499,
       "lng": -111.594926,
       "sports": [
@@ -21690,8 +21690,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "880 East",
+      "city": "Springville",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -21720,7 +21720,7 @@
     },
     {
       "id": "osm-w1549505803",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North 1800 West",
       "lat": 40.396302,
       "lng": -111.878264,
       "sports": [
@@ -21732,8 +21732,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North 1800 West",
+      "city": "Lehi",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -21742,7 +21742,7 @@
     },
     {
       "id": "osm-w1549505826",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West 550 North",
       "lat": 40.394817,
       "lng": -111.880683,
       "sports": [
@@ -21754,8 +21754,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 550 North",
+      "city": "Lehi",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -21808,7 +21808,7 @@
     },
     {
       "id": "osm-w1550666588",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 1625 South",
       "lat": 41.237652,
       "lng": -111.981049,
       "sports": [
@@ -21820,8 +21820,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "1625 South",
+      "city": "Ogden",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -21887,7 +21887,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Tremonton",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -21896,7 +21896,7 @@
     },
     {
       "id": "osm-w1550848153",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East 1400 South",
       "lat": 41.727183,
       "lng": -112.158325,
       "sports": [
@@ -21908,8 +21908,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 1400 South",
+      "city": "Garland",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -21918,7 +21918,7 @@
     },
     {
       "id": "osm-w1551156833",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Rain Maker Road",
       "lat": 37.057121,
       "lng": -112.512905,
       "sports": [
@@ -21930,8 +21930,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rain Maker Road",
+      "city": "Kanab",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -21940,7 +21940,7 @@
     },
     {
       "id": "osm-w1551240557",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 1075 West",
       "lat": 40.156079,
       "lng": -111.630612,
       "sports": [
@@ -21952,8 +21952,8 @@
       "indoor": null,
       "access": "public",
       "fee": false,
-      "address": null,
-      "city": null,
+      "address": "1075 West",
+      "city": "Springville",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -22004,7 +22004,7 @@
     },
     {
       "id": "osm-w1552178040",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North 1750 West",
       "lat": 40.391779,
       "lng": -111.877679,
       "sports": [
@@ -22016,8 +22016,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North 1750 West",
+      "city": "Lehi",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -22026,7 +22026,7 @@
     },
     {
       "id": "osm-w1552442086",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 2530 West",
       "lat": 40.394201,
       "lng": -111.890577,
       "sports": [
@@ -22038,8 +22038,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "2530 West",
+      "city": "Lehi",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -22048,7 +22048,7 @@
     },
     {
       "id": "osm-w1552442100",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 700 North",
       "lat": 40.395933,
       "lng": -111.889766,
       "sports": [
@@ -22060,8 +22060,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "700 North",
+      "city": "Lehi",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -22070,7 +22070,7 @@
     },
     {
       "id": "osm-w1552442109",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 2375 West",
       "lat": 40.397397,
       "lng": -111.888299,
       "sports": [
@@ -22082,8 +22082,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "2375 West",
+      "city": "Lehi",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -22092,7 +22092,7 @@
     },
     {
       "id": "osm-w1552443211",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 900 North",
       "lat": 40.398775,
       "lng": -111.876223,
       "sports": [
@@ -22104,8 +22104,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "900 North",
+      "city": "Lehi",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -22136,7 +22136,7 @@
     },
     {
       "id": "osm-w1552712795",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bayberry Circle",
       "lat": 40.476482,
       "lng": -111.760603,
       "sports": [
@@ -22149,8 +22149,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bayberry Circle",
+      "city": "Alpine",
       "state": "UT",
       "source": "osm",
       "tags": {}
@@ -22177,7 +22177,7 @@
     },
     {
       "id": "osm-w1552714764",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Dean Court",
       "lat": 40.474843,
       "lng": -111.76505,
       "sports": [
@@ -22189,8 +22189,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Dean Court",
+      "city": "Alpine",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -22199,7 +22199,7 @@
     },
     {
       "id": "osm-w1552714771",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Katherine Way",
       "lat": 40.47444,
       "lng": -111.766561,
       "sports": [
@@ -22211,8 +22211,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Katherine Way",
+      "city": "Alpine",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -22221,7 +22221,7 @@
     },
     {
       "id": "osm-w1552714775",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Katherine Way",
       "lat": 40.473499,
       "lng": -111.766986,
       "sports": [
@@ -22233,8 +22233,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Katherine Way",
+      "city": "Alpine",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -22265,7 +22265,7 @@
     },
     {
       "id": "osm-w1552720342",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West 10400 North",
       "lat": 40.421112,
       "lng": -111.807131,
       "sports": [
@@ -22277,8 +22277,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 10400 North",
+      "city": "Highland",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -22287,7 +22287,7 @@
     },
     {
       "id": "osm-w1552720361",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Days Circle",
       "lat": 40.424569,
       "lng": -111.804798,
       "sports": [
@@ -22299,8 +22299,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Days Circle",
+      "city": "Highland",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -22309,7 +22309,7 @@
     },
     {
       "id": "osm-w1552727687",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West 9600 North",
       "lat": 40.405322,
       "lng": -111.811171,
       "sports": [
@@ -22321,8 +22321,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 9600 North",
+      "city": "Highland",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -22331,7 +22331,7 @@
     },
     {
       "id": "osm-w1552730082",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West 9960 North",
       "lat": 40.412824,
       "lng": -111.807381,
       "sports": [
@@ -22343,8 +22343,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 9960 North",
+      "city": "Highland",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -22353,7 +22353,7 @@
     },
     {
       "id": "osm-w1552730096",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West 9960 North",
       "lat": 40.412369,
       "lng": -111.809307,
       "sports": [
@@ -22365,8 +22365,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 9960 North",
+      "city": "Highland",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -22375,7 +22375,7 @@
     },
     {
       "id": "osm-w1552730117",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West 10150 North",
       "lat": 40.415451,
       "lng": -111.810845,
       "sports": [
@@ -22387,8 +22387,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 10150 North",
+      "city": "Highland",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -22420,7 +22420,7 @@
     },
     {
       "id": "osm-w1552730124",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West 10220 North",
       "lat": 40.41709,
       "lng": -111.807935,
       "sports": [
@@ -22432,8 +22432,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 10220 North",
+      "city": "Highland",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -22442,7 +22442,7 @@
     },
     {
       "id": "osm-w1552730126",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Murdock Canal Trail",
       "lat": 40.416672,
       "lng": -111.805895,
       "sports": [
@@ -22454,8 +22454,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Murdock Canal Trail",
+      "city": "Highland",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -22464,7 +22464,7 @@
     },
     {
       "id": "osm-w1552987352",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Beechwood Drive",
       "lat": 40.39392,
       "lng": -111.920823,
       "sports": [
@@ -22476,8 +22476,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Beechwood Drive",
+      "city": "Saratoga Springs",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -22486,7 +22486,7 @@
     },
     {
       "id": "osm-w1552990055",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West 500 North",
       "lat": 40.394143,
       "lng": -111.850034,
       "sports": [
@@ -22498,8 +22498,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 500 North",
+      "city": "Lehi",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -22531,7 +22531,7 @@
     },
     {
       "id": "osm-w1552995552",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West 300 North",
       "lat": 40.390326,
       "lng": -111.870412,
       "sports": [
@@ -22543,8 +22543,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 300 North",
+      "city": "Lehi",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -22553,7 +22553,7 @@
     },
     {
       "id": "osm-w1552997124",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West 400 North",
       "lat": 40.392903,
       "lng": -111.868255,
       "sports": [
@@ -22565,8 +22565,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 400 North",
+      "city": "Lehi",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -22597,7 +22597,7 @@
     },
     {
       "id": "osm-w1553337034",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 600 North",
       "lat": 40.395819,
       "lng": -111.884584,
       "sports": [
@@ -22609,8 +22609,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "600 North",
+      "city": "Lehi",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -22619,7 +22619,7 @@
     },
     {
       "id": "osm-w1553339295",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 2300 West",
       "lat": 40.397953,
       "lng": -111.88669,
       "sports": [
@@ -22631,8 +22631,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "2300 West",
+      "city": "Lehi",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -22641,7 +22641,7 @@
     },
     {
       "id": "osm-w1553339302",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 2300 West",
       "lat": 40.396599,
       "lng": -111.886696,
       "sports": [
@@ -22653,8 +22653,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "2300 West",
+      "city": "Lehi",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -22707,7 +22707,7 @@
     },
     {
       "id": "osm-w1553354907",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North Timber Drive",
       "lat": 40.395331,
       "lng": -111.865731,
       "sports": [
@@ -22719,15 +22719,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Timber Drive",
+      "city": "Lehi",
       "state": "UT",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1553354917",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West 660 North",
       "lat": 40.395585,
       "lng": -111.867576,
       "sports": [
@@ -22739,15 +22739,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 660 North",
+      "city": "Lehi",
       "state": "UT",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1553436635",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West 100 North",
       "lat": 40.389488,
       "lng": -111.851434,
       "sports": [
@@ -22759,8 +22759,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 100 North",
+      "city": "Lehi",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -22769,7 +22769,7 @@
     },
     {
       "id": "osm-w1553449139",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North 1600 West",
       "lat": 40.376283,
       "lng": -111.763169,
       "sports": [
@@ -22781,8 +22781,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North 1600 West",
+      "city": "Pleasant Grove",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -22791,7 +22791,7 @@
     },
     {
       "id": "osm-w1553449140",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 3040 North",
       "lat": 40.395864,
       "lng": -111.763732,
       "sports": [
@@ -22803,8 +22803,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "3040 North",
+      "city": "Pleasant Grove",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -22879,7 +22879,7 @@
     },
     {
       "id": "osm-w1553733184",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 1860 North",
       "lat": 40.331149,
       "lng": -111.716034,
       "sports": [
@@ -22891,8 +22891,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "1860 North",
+      "city": "Orem",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -22901,7 +22901,7 @@
     },
     {
       "id": "osm-w1553910701",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · State Street",
       "lat": 40.369064,
       "lng": -111.767839,
       "sports": [
@@ -22913,8 +22913,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "State Street",
+      "city": "Pleasant Grove",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -22923,7 +22923,7 @@
     },
     {
       "id": "osm-w1554629440",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Stellar Way",
       "lat": 40.388915,
       "lng": -111.927172,
       "sports": [
@@ -22935,8 +22935,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Stellar Way",
+      "city": "Saratoga Springs",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -22945,7 +22945,7 @@
     },
     {
       "id": "osm-w1554632881",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Mustang Lane",
       "lat": 40.381403,
       "lng": -111.936378,
       "sports": [
@@ -22957,8 +22957,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mustang Lane",
+      "city": "Saratoga Springs",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -22967,7 +22967,7 @@
     },
     {
       "id": "osm-w1554683309",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Woodland Road",
       "lat": 40.371837,
       "lng": -111.962401,
       "sports": [
@@ -22979,8 +22979,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Woodland Road",
+      "city": "Saratoga Springs",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -22989,7 +22989,7 @@
     },
     {
       "id": "osm-w1554822585",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Janice Don Circle",
       "lat": 40.386677,
       "lng": -111.741179,
       "sports": [
@@ -23001,8 +23001,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Janice Don Circle",
+      "city": "Pleasant Grove",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -23011,7 +23011,7 @@
     },
     {
       "id": "osm-w1555173251",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Panorama Drive",
       "lat": 40.29511,
       "lng": -111.883336,
       "sports": [
@@ -23023,8 +23023,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Panorama Drive",
+      "city": "Saratoga Springs",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -23033,7 +23033,7 @@
     },
     {
       "id": "osm-w1556400288",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Churchill Drive",
       "lat": 40.292164,
       "lng": -111.637291,
       "sports": [
@@ -23045,8 +23045,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Churchill Drive",
+      "city": "Provo",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -23055,7 +23055,7 @@
     },
     {
       "id": "osm-w1556404957",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Main Street",
       "lat": 40.288951,
       "lng": -111.695742,
       "sports": [
@@ -23067,8 +23067,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Main Street",
+      "city": "Orem",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -23077,7 +23077,7 @@
     },
     {
       "id": "osm-w1556405860",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West 620 South",
       "lat": 40.286145,
       "lng": -111.697991,
       "sports": [
@@ -23089,8 +23089,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 620 South",
+      "city": "Orem",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -23099,7 +23099,7 @@
     },
     {
       "id": "osm-w1556406102",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 100 West",
       "lat": 40.283252,
       "lng": -111.697104,
       "sports": [
@@ -23111,8 +23111,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "100 West",
+      "city": "Orem",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -23121,7 +23121,7 @@
     },
     {
       "id": "osm-w1556407893",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 3800 North",
       "lat": 40.283457,
       "lng": -111.655223,
       "sports": [
@@ -23133,8 +23133,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "3800 North",
+      "city": "Provo",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -23143,7 +23143,7 @@
     },
     {
       "id": "osm-w1556413526",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Park Lane East",
       "lat": 40.26307,
       "lng": -111.692199,
       "sports": [
@@ -23155,8 +23155,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Park Lane East",
+      "city": "Orem",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -23165,7 +23165,7 @@
     },
     {
       "id": "osm-w1556474256",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Palisade Drive",
       "lat": 40.278189,
       "lng": -111.673048,
       "sports": [
@@ -23177,8 +23177,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Palisade Drive",
+      "city": "Orem",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -23229,7 +23229,7 @@
     },
     {
       "id": "osm-w1556834932",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Heron Hills Avenue",
       "lat": 40.300081,
       "lng": -111.881666,
       "sports": [
@@ -23241,8 +23241,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Heron Hills Avenue",
+      "city": "Saratoga Springs",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -23251,7 +23251,7 @@
     },
     {
       "id": "osm-w1556834948",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Mirror Lake Circle",
       "lat": 40.300236,
       "lng": -111.885355,
       "sports": [
@@ -23263,8 +23263,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mirror Lake Circle",
+      "city": "Saratoga Springs",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -23273,7 +23273,7 @@
     },
     {
       "id": "osm-w1557194972",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Alpine Drive",
       "lat": 40.340101,
       "lng": -111.928563,
       "sports": [
@@ -23285,8 +23285,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Alpine Drive",
+      "city": "Saratoga Springs",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -23295,7 +23295,7 @@
     },
     {
       "id": "osm-w1557369812",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West 1600 South",
       "lat": 40.267833,
       "lng": -111.699906,
       "sports": [
@@ -23307,8 +23307,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 1600 South",
+      "city": "Orem",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -23317,7 +23317,7 @@
     },
     {
       "id": "osm-w1557381214",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 40 North",
       "lat": 40.297809,
       "lng": -111.675798,
       "sports": [
@@ -23329,8 +23329,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "40 North",
+      "city": "Orem",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -23339,7 +23339,7 @@
     },
     {
       "id": "osm-w1557395283",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East 920 North",
       "lat": 40.313768,
       "lng": -111.668595,
       "sports": [
@@ -23351,8 +23351,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 920 North",
+      "city": "Orem",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -23361,7 +23361,7 @@
     },
     {
       "id": "osm-w1557397184",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North 1110 East",
       "lat": 40.319842,
       "lng": -111.669787,
       "sports": [
@@ -23373,8 +23373,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North 1110 East",
+      "city": "Orem",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -23383,7 +23383,7 @@
     },
     {
       "id": "osm-w1557398089",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Murdock Canal Trail",
       "lat": 40.319462,
       "lng": -111.671837,
       "sports": [
@@ -23395,8 +23395,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Murdock Canal Trail",
+      "city": "Orem",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -23405,7 +23405,7 @@
     },
     {
       "id": "osm-w1557398093",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East 1150 North",
       "lat": 40.317818,
       "lng": -111.670711,
       "sports": [
@@ -23417,15 +23417,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 1150 North",
+      "city": "Orem",
       "state": "UT",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1557398112",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North 1050 East",
       "lat": 40.316111,
       "lng": -111.671546,
       "sports": [
@@ -23437,8 +23437,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North 1050 East",
+      "city": "Orem",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -23447,7 +23447,7 @@
     },
     {
       "id": "osm-w1557742667",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West 650 South",
       "lat": 40.284659,
       "lng": -111.732128,
       "sports": [
@@ -23459,8 +23459,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 650 South",
+      "city": "Orem",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -23491,7 +23491,7 @@
     },
     {
       "id": "osm-w1557746822",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Eagle Way",
       "lat": 40.334092,
       "lng": -111.716495,
       "sports": [
@@ -23503,8 +23503,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Eagle Way",
+      "city": "Lindon",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -23513,7 +23513,7 @@
     },
     {
       "id": "osm-w1557746823",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · South 280 West",
       "lat": 40.333165,
       "lng": -111.721807,
       "sports": [
@@ -23525,8 +23525,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South 280 West",
+      "city": "Lindon",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -23535,7 +23535,7 @@
     },
     {
       "id": "osm-w1557746824",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West 110 South",
       "lat": 40.336628,
       "lng": -111.723978,
       "sports": [
@@ -23547,8 +23547,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 110 South",
+      "city": "Lindon",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -23557,7 +23557,7 @@
     },
     {
       "id": "osm-w1557746827",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North 250 West Street",
       "lat": 40.337514,
       "lng": -111.721775,
       "sports": [
@@ -23569,8 +23569,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North 250 West Street",
+      "city": "Lindon",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -23579,7 +23579,7 @@
     },
     {
       "id": "osm-w1557746828",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · South 180 West",
       "lat": 40.338395,
       "lng": -111.719532,
       "sports": [
@@ -23591,8 +23591,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South 180 West",
+      "city": "Lindon",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -23601,7 +23601,7 @@
     },
     {
       "id": "osm-w1557746832",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West 60 North",
       "lat": 40.339686,
       "lng": -111.722816,
       "sports": [
@@ -23613,8 +23613,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 60 North",
+      "city": "Lindon",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -23645,7 +23645,7 @@
     },
     {
       "id": "osm-w1557746838",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North 650 West",
       "lat": 40.344508,
       "lng": -111.730932,
       "sports": [
@@ -23657,8 +23657,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North 650 West",
+      "city": "Lindon",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -23667,7 +23667,7 @@
     },
     {
       "id": "osm-w1557746839",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East 200 North",
       "lat": 40.342389,
       "lng": -111.70502,
       "sports": [
@@ -23680,8 +23680,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 200 North",
+      "city": "Lindon",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -23690,7 +23690,7 @@
     },
     {
       "id": "osm-w1557746841",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North 550 East",
       "lat": 40.342939,
       "lng": -111.701659,
       "sports": [
@@ -23702,8 +23702,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North 550 East",
+      "city": "Lindon",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -23712,7 +23712,7 @@
     },
     {
       "id": "osm-w1557746842",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East 75 North",
       "lat": 40.339512,
       "lng": -111.703091,
       "sports": [
@@ -23724,8 +23724,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 75 North",
+      "city": "Lindon",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -23734,7 +23734,7 @@
     },
     {
       "id": "osm-w1557746843",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East 100 North",
       "lat": 40.340294,
       "lng": -111.698247,
       "sports": [
@@ -23747,8 +23747,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 100 North",
+      "city": "Lindon",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -23757,7 +23757,7 @@
     },
     {
       "id": "osm-w1557746846",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Lindon Heritage Trail",
       "lat": 40.339372,
       "lng": -111.696432,
       "sports": [
@@ -23769,8 +23769,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lindon Heritage Trail",
+      "city": "Lindon",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -23779,7 +23779,7 @@
     },
     {
       "id": "osm-w1557746848",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 50 North",
       "lat": 40.339373,
       "lng": -111.691915,
       "sports": [
@@ -23791,8 +23791,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "50 North",
+      "city": "Lindon",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -23801,7 +23801,7 @@
     },
     {
       "id": "osm-w1557746850",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 20 South",
       "lat": 40.337935,
       "lng": -111.690164,
       "sports": [
@@ -23813,8 +23813,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "20 South",
+      "city": "Lindon",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -23823,7 +23823,7 @@
     },
     {
       "id": "osm-w1557746855",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East 500 North",
       "lat": 40.346479,
       "lng": -111.703596,
       "sports": [
@@ -23835,15 +23835,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 500 North",
+      "city": "Lindon",
       "state": "UT",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1557746858",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East 740 North",
       "lat": 40.351556,
       "lng": -111.709689,
       "sports": [
@@ -23855,8 +23855,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 740 North",
+      "city": "Lindon",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -23865,7 +23865,7 @@
     },
     {
       "id": "osm-w1557746859",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East 750 North",
       "lat": 40.351824,
       "lng": -111.70763,
       "sports": [
@@ -23877,8 +23877,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 750 North",
+      "city": "Lindon",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -23887,7 +23887,7 @@
     },
     {
       "id": "osm-w1557746860",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West 660 North Street",
       "lat": 40.350477,
       "lng": -111.72095,
       "sports": [
@@ -23899,8 +23899,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 660 North Street",
+      "city": "Lindon",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -23909,7 +23909,7 @@
     },
     {
       "id": "osm-w1557746861",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North Locust Avenue",
       "lat": 40.349064,
       "lng": -111.72122,
       "sports": [
@@ -23921,8 +23921,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Locust Avenue",
+      "city": "Lindon",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -23931,7 +23931,7 @@
     },
     {
       "id": "osm-w1557746862",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West 500 North",
       "lat": 40.347694,
       "lng": -111.722142,
       "sports": [
@@ -23943,8 +23943,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 500 North",
+      "city": "Lindon",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -23953,7 +23953,7 @@
     },
     {
       "id": "osm-w1557746863",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 600 North",
       "lat": 40.349217,
       "lng": -111.725497,
       "sports": [
@@ -23965,8 +23965,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "600 North",
+      "city": "Lindon",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -23975,7 +23975,7 @@
     },
     {
       "id": "osm-w1557746864",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West 625 North",
       "lat": 40.350101,
       "lng": -111.724818,
       "sports": [
@@ -23987,8 +23987,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 625 North",
+      "city": "Lindon",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -23997,7 +23997,7 @@
     },
     {
       "id": "osm-w1557746867",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 210 East",
       "lat": 40.380327,
       "lng": -111.737988,
       "sports": [
@@ -24009,8 +24009,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "210 East",
+      "city": "Pleasant Grove",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -24019,7 +24019,7 @@
     },
     {
       "id": "osm-w1557746868",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 910 East",
       "lat": 40.36828,
       "lng": -111.719764,
       "sports": [
@@ -24031,15 +24031,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "910 East",
+      "city": "Pleasant Grove",
       "state": "UT",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1557746871",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 250 North",
       "lat": 40.366556,
       "lng": -111.714067,
       "sports": [
@@ -24051,8 +24051,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "250 North",
+      "city": "Pleasant Grove",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -24061,7 +24061,7 @@
     },
     {
       "id": "osm-w1557746872",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 1350 East",
       "lat": 40.368512,
       "lng": -111.709654,
       "sports": [
@@ -24073,8 +24073,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "1350 East",
+      "city": "Pleasant Grove",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -24083,7 +24083,7 @@
     },
     {
       "id": "osm-w1557746873",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 1350 East",
       "lat": 40.370393,
       "lng": -111.710824,
       "sports": [
@@ -24095,8 +24095,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "1350 East",
+      "city": "Pleasant Grove",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -24127,7 +24127,7 @@
     },
     {
       "id": "osm-w1557777944",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West 1375 North",
       "lat": 40.404063,
       "lng": -111.861962,
       "sports": [
@@ -24139,8 +24139,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 1375 North",
+      "city": "Lehi",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -24169,7 +24169,7 @@
     },
     {
       "id": "osm-w1558458085",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Landview Drive",
       "lat": 40.330004,
       "lng": -111.923816,
       "sports": [
@@ -24181,8 +24181,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Landview Drive",
+      "city": "Saratoga Springs",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -24191,7 +24191,7 @@
     },
     {
       "id": "osm-w1558586666",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Aviemore Lane",
       "lat": 40.436704,
       "lng": -111.780539,
       "sports": [
@@ -24203,8 +24203,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Aviemore Lane",
+      "city": "Highland",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -24213,7 +24213,7 @@
     },
     {
       "id": "osm-w1558586668",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Mountain Shadows Lane",
       "lat": 40.434572,
       "lng": -111.778704,
       "sports": [
@@ -24226,8 +24226,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Mountain Shadows Lane",
+      "city": "Highland",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -24236,7 +24236,7 @@
     },
     {
       "id": "osm-w1558586675",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Stoney Brook Lane",
       "lat": 40.437725,
       "lng": -111.770722,
       "sports": [
@@ -24248,8 +24248,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Stoney Brook Lane",
+      "city": "Highland",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -24258,7 +24258,7 @@
     },
     {
       "id": "osm-w1558586679",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Stoney Brook Court",
       "lat": 40.437941,
       "lng": -111.768802,
       "sports": [
@@ -24270,8 +24270,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Stoney Brook Court",
+      "city": "Highland",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -24280,7 +24280,7 @@
     },
     {
       "id": "osm-w1558586681",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Stoney Brook Lane",
       "lat": 40.439155,
       "lng": -111.770443,
       "sports": [
@@ -24292,8 +24292,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Stoney Brook Lane",
+      "city": "Highland",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -24302,7 +24302,7 @@
     },
     {
       "id": "osm-w1558586687",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Stoney Brook Lane",
       "lat": 40.439084,
       "lng": -111.772622,
       "sports": [
@@ -24314,8 +24314,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Stoney Brook Lane",
+      "city": "Highland",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -24324,7 +24324,7 @@
     },
     {
       "id": "osm-w1558586692",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North 4800 West",
       "lat": 40.437661,
       "lng": -111.773073,
       "sports": [
@@ -24336,8 +24336,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North 4800 West",
+      "city": "Highland",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -24346,7 +24346,7 @@
     },
     {
       "id": "osm-w1558586697",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Healey Boulevard",
       "lat": 40.441885,
       "lng": -111.770769,
       "sports": [
@@ -24358,8 +24358,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Healey Boulevard",
+      "city": "Alpine",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -24368,7 +24368,7 @@
     },
     {
       "id": "osm-w1558586698",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East Mountain Drive",
       "lat": 40.443701,
       "lng": -111.757981,
       "sports": [
@@ -24380,8 +24380,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Mountain Drive",
+      "city": "Alpine",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -24390,7 +24390,7 @@
     },
     {
       "id": "osm-w1558592940",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Snowflake Drive",
       "lat": 40.434964,
       "lng": -111.771874,
       "sports": [
@@ -24402,8 +24402,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Snowflake Drive",
+      "city": "Highland",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -24474,7 +24474,7 @@
     },
     {
       "id": "osm-w1559382969",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West 650 North",
       "lat": 40.350479,
       "lng": -111.71824,
       "sports": [
@@ -24486,8 +24486,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 650 North",
+      "city": "Lindon",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -24496,7 +24496,7 @@
     },
     {
       "id": "osm-w1559382971",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West 600 North",
       "lat": 40.349712,
       "lng": -111.716324,
       "sports": [
@@ -24508,8 +24508,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 600 North",
+      "city": "Lindon",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -24551,7 +24551,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Midway",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -24624,7 +24624,7 @@
     },
     {
       "id": "osm-w1560315958",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Buffalo Ranch Trail",
       "lat": 40.983892,
       "lng": -111.9295,
       "sports": [
@@ -24636,8 +24636,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Buffalo Ranch Trail",
+      "city": "Farmington",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -24666,7 +24666,7 @@
     },
     {
       "id": "osm-w1560530058",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Alpenglow Circle",
       "lat": 40.988393,
       "lng": -111.923357,
       "sports": [
@@ -24678,8 +24678,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Alpenglow Circle",
+      "city": "Farmington",
       "state": "UT",
       "source": "osm",
       "tags": {
@@ -24688,7 +24688,7 @@
     },
     {
       "id": "osm-w1560536406",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North 1525 West",
       "lat": 40.988153,
       "lng": -111.921097,
       "sports": [
@@ -24700,8 +24700,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North 1525 West",
+      "city": "Farmington",
       "state": "UT",
       "source": "osm",
       "tags": {

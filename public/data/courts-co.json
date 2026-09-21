@@ -194,7 +194,7 @@
     },
     {
       "id": "osm-w25672486",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Sloan's Lake Trail",
       "lat": 39.744303,
       "lng": -105.041087,
       "sports": [
@@ -206,8 +206,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sloan's Lake Trail",
+      "city": "Denver",
       "state": "CO",
       "source": "osm",
       "tags": {}
@@ -629,7 +629,7 @@
     },
     {
       "id": "osm-w44669192",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West 26th Avenue",
       "lat": 39.754532,
       "lng": -105.044655,
       "sports": [
@@ -641,8 +641,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 26th Avenue",
+      "city": "Denver",
       "state": "CO",
       "source": "osm",
       "tags": {}
@@ -669,7 +669,7 @@
     },
     {
       "id": "osm-w44709595",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East 3rd Avenue",
       "lat": 39.92105,
       "lng": -105.071204,
       "sports": [
@@ -681,8 +681,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 3rd Avenue",
+      "city": "Broomfield",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -691,7 +691,7 @@
     },
     {
       "id": "osm-w44733983",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Quivas Way",
       "lat": 39.910514,
       "lng": -105.007901,
       "sports": [
@@ -703,15 +703,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Quivas Way",
+      "city": "Westminster",
       "state": "CO",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w44816873",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Arapahoe Road",
       "lat": 39.594193,
       "lng": -104.74193,
       "sports": [
@@ -723,8 +723,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Arapahoe Road",
+      "city": "Aurora",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -733,7 +733,7 @@
     },
     {
       "id": "osm-w44878123",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North State Highway 83",
       "lat": 39.455805,
       "lng": -104.758428,
       "sports": [
@@ -745,8 +745,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North State Highway 83",
+      "city": "Douglas County",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -857,7 +857,7 @@
     },
     {
       "id": "osm-w45417038",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Quincy Avenue",
       "lat": 39.639628,
       "lng": -105.067343,
       "sports": [
@@ -869,8 +869,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Quincy Avenue",
+      "city": "Denver",
       "state": "CO",
       "source": "osm",
       "tags": {}
@@ -1212,7 +1212,7 @@
     },
     {
       "id": "osm-w46094701",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Boulder Feeder Ditch Trail",
       "lat": 40.061999,
       "lng": -105.193365,
       "sports": [
@@ -1224,8 +1224,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Boulder Feeder Ditch Trail",
+      "city": "Boulder",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -1637,7 +1637,7 @@
     },
     {
       "id": "osm-w47652578",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 10th Street",
       "lat": 40.420267,
       "lng": -104.753917,
       "sports": [
@@ -1649,8 +1649,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "10th Street",
+      "city": "Greeley",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -1785,7 +1785,7 @@
     },
     {
       "id": "osm-w48334967",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Clubhouse Road",
       "lat": 40.065161,
       "lng": -105.184306,
       "sports": [
@@ -1797,8 +1797,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Clubhouse Road",
+      "city": "Gunbarrel",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -4840,7 +4840,7 @@
     },
     {
       "id": "osm-w202900739",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Vineyard Drive",
       "lat": 40.443665,
       "lng": -104.893756,
       "sports": [
@@ -4852,8 +4852,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Vineyard Drive",
+      "city": "Windsor",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -4906,7 +4906,7 @@
     },
     {
       "id": "osm-w203229799",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Frost Creek Drive",
       "lat": 39.578721,
       "lng": -106.767782,
       "sports": [
@@ -4918,8 +4918,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Frost Creek Drive",
+      "city": "Eagle County",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -5272,7 +5272,7 @@
     },
     {
       "id": "osm-w207984782",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Island Green Drive",
       "lat": 40.07095,
       "lng": -105.182547,
       "sports": [
@@ -5284,8 +5284,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Island Green Drive",
+      "city": "Boulder",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -5338,7 +5338,7 @@
     },
     {
       "id": "osm-w217609289",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Amherst Avenue",
       "lat": 39.66573,
       "lng": -104.836403,
       "sports": [
@@ -5350,8 +5350,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Amherst Avenue",
+      "city": "Aurora",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -6457,7 +6457,7 @@
     },
     {
       "id": "osm-w227729962",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Stage Court",
       "lat": 39.207908,
       "lng": -106.858782,
       "sports": [
@@ -6469,8 +6469,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Stage Court",
+      "city": "Aspen",
       "state": "CO",
       "source": "osm",
       "tags": {}
@@ -8330,7 +8330,7 @@
     },
     {
       "id": "osm-w257049153",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Aspen Lodge Way",
       "lat": 39.992808,
       "lng": -105.043343,
       "sports": [
@@ -8342,8 +8342,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Aspen Lodge Way",
+      "city": "Broomfield",
       "state": "CO",
       "source": "osm",
       "tags": {}
@@ -8922,7 +8922,7 @@
     },
     {
       "id": "osm-w306470829",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Long Circle South",
       "lat": 39.574179,
       "lng": -104.951663,
       "sports": [
@@ -8934,8 +8934,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Long Circle South",
+      "city": "Centennial",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -9763,7 +9763,7 @@
     },
     {
       "id": "osm-w362162886",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · White Willow Drive",
       "lat": 40.513844,
       "lng": -105.040086,
       "sports": [
@@ -9775,8 +9775,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "White Willow Drive",
+      "city": "Fort Collins",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -9958,7 +9958,7 @@
     },
     {
       "id": "osm-w366839421",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Golden Road Trail",
       "lat": 39.741589,
       "lng": -105.205773,
       "sports": [
@@ -9970,8 +9970,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Golden Road Trail",
+      "city": "Golden",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -10317,7 +10317,7 @@
     },
     {
       "id": "osm-w386431421",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Mountain Range Shadows",
       "lat": 40.467905,
       "lng": -104.994532,
       "sports": [
@@ -10330,7 +10330,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Larimer County",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -10505,7 +10505,7 @@
     },
     {
       "id": "osm-w428829305",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Sunchase Drive",
       "lat": 40.577174,
       "lng": -104.993611,
       "sports": [
@@ -10517,8 +10517,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sunchase Drive",
+      "city": "Larimer County",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -10739,7 +10739,7 @@
     },
     {
       "id": "osm-w439537385",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Crews Gulch Trail",
       "lat": 38.735005,
       "lng": -104.711673,
       "sports": [
@@ -10751,8 +10751,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Crews Gulch Trail",
+      "city": "Widefield",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -10937,7 +10937,7 @@
     },
     {
       "id": "osm-w453281847",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fox Acres Drive West",
       "lat": 40.805364,
       "lng": -105.579052,
       "sports": [
@@ -10949,8 +10949,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fox Acres Drive West",
+      "city": "Red Feather Lakes",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -11659,7 +11659,7 @@
     },
     {
       "id": "osm-w500266144",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Dewey Street",
       "lat": 38.434165,
       "lng": -105.210259,
       "sports": [
@@ -11671,8 +11671,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Dewey Street",
+      "city": "Lincoln Park",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -11785,7 +11785,7 @@
     },
     {
       "id": "osm-w516006837",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · South Milwaukee Street",
       "lat": 39.712032,
       "lng": -104.950789,
       "sports": [
@@ -11797,8 +11797,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Milwaukee Street",
+      "city": "Denver",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -12257,7 +12257,7 @@
     },
     {
       "id": "osm-w543473890",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Park Court",
       "lat": 40.054932,
       "lng": -105.180757,
       "sports": [
@@ -12269,8 +12269,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Park Court",
+      "city": "Gunbarrel",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -12301,7 +12301,7 @@
     },
     {
       "id": "osm-w543990211",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Dillon Road",
       "lat": 39.956504,
       "lng": -105.150063,
       "sports": [
@@ -12313,8 +12313,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Dillon Road",
+      "city": "Louisville",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -13288,7 +13288,7 @@
     },
     {
       "id": "osm-w585186120",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Lincoln Avenue",
       "lat": 39.537216,
       "lng": -104.886855,
       "sports": [
@@ -13300,8 +13300,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Lincoln Avenue",
+      "city": "Lone Tree",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -13974,7 +13974,7 @@
     },
     {
       "id": "osm-w664930551",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Ivy Street",
       "lat": 39.591915,
       "lng": -104.919671,
       "sports": [
@@ -13986,8 +13986,8 @@
       "indoor": null,
       "access": "customers",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Ivy Street",
+      "city": "Centennial",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -14084,7 +14084,7 @@
     },
     {
       "id": "osm-w675055722",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Lincoln Avenue",
       "lat": 39.537121,
       "lng": -104.897095,
       "sports": [
@@ -14096,8 +14096,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Lincoln Avenue",
+      "city": "Lone Tree",
       "state": "CO",
       "source": "osm",
       "tags": {}
@@ -14652,7 +14652,7 @@
     },
     {
       "id": "osm-w711669179",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hassedt Lane",
       "lat": 39.483597,
       "lng": -104.727351,
       "sports": [
@@ -14664,8 +14664,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hassedt Lane",
+      "city": "Douglas County",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -14840,7 +14840,7 @@
     },
     {
       "id": "osm-w764310240",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Routt Street",
       "lat": 39.828986,
       "lng": -105.127066,
       "sports": [
@@ -14852,8 +14852,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Routt Street",
+      "city": "Arvada",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -15054,7 +15054,7 @@
     },
     {
       "id": "osm-w777703147",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Rialto Drive",
       "lat": 39.438249,
       "lng": -104.79008,
       "sports": [
@@ -15066,8 +15066,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rialto Drive",
+      "city": "Douglas County",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -15396,7 +15396,7 @@
     },
     {
       "id": "osm-w814006476",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · William Bailey Ave",
       "lat": 40.100184,
       "lng": -104.948714,
       "sports": [
@@ -15408,8 +15408,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "William Bailey Ave",
+      "city": "Frederick",
       "state": "CO",
       "source": "osm",
       "tags": {}
@@ -15883,7 +15883,7 @@
     },
     {
       "id": "osm-w852229401",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Vista del Pico Boulevard",
       "lat": 38.93068,
       "lng": -104.664323,
       "sports": [
@@ -15895,8 +15895,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Vista del Pico Boulevard",
+      "city": "Colorado Springs",
       "state": "CO",
       "source": "osm",
       "tags": {}
@@ -16204,7 +16204,7 @@
     },
     {
       "id": "osm-w936558263",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Milwaukee Street",
       "lat": 39.676121,
       "lng": -104.952397,
       "sports": [
@@ -16216,8 +16216,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Milwaukee Street",
+      "city": "Denver",
       "state": "CO",
       "source": "osm",
       "tags": {}
@@ -17205,7 +17205,7 @@
     },
     {
       "id": "osm-w1017419287",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Pathfinder Trail",
       "lat": 39.556867,
       "lng": -104.714398,
       "sports": [
@@ -17217,8 +17217,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pathfinder Trail",
+      "city": "Aurora",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -17293,7 +17293,7 @@
     },
     {
       "id": "osm-w1017485988",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Tufts Drive",
       "lat": 39.634417,
       "lng": -104.825175,
       "sports": [
@@ -17305,8 +17305,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Tufts Drive",
+      "city": "Aurora",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -17357,7 +17357,7 @@
     },
     {
       "id": "osm-w1018413217",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Elkhart Street",
       "lat": 39.722841,
       "lng": -104.814483,
       "sports": [
@@ -17369,8 +17369,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Elkhart Street",
+      "city": "Aurora",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -17485,7 +17485,7 @@
     },
     {
       "id": "osm-w1021647725",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Irish Drive",
       "lat": 39.577389,
       "lng": -104.695384,
       "sports": [
@@ -17497,8 +17497,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Irish Drive",
+      "city": "Aurora",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -17661,7 +17661,7 @@
     },
     {
       "id": "osm-w1022867431",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Maplewood Place",
       "lat": 39.603896,
       "lng": -104.749162,
       "sports": [
@@ -17673,8 +17673,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Maplewood Place",
+      "city": "Centennial",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -18614,7 +18614,7 @@
     },
     {
       "id": "osm-w1057807252",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Oak Tree Court",
       "lat": 39.534778,
       "lng": -104.887643,
       "sports": [
@@ -18626,8 +18626,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Oak Tree Court",
+      "city": "Lone Tree",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -18806,7 +18806,7 @@
     },
     {
       "id": "osm-w1072056483",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 120th Ave MUP",
       "lat": 39.914752,
       "lng": -104.836621,
       "sports": [
@@ -18818,8 +18818,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "120th Ave MUP",
+      "city": "Brighton",
       "state": "CO",
       "source": "osm",
       "tags": {}
@@ -19336,7 +19336,7 @@
     },
     {
       "id": "osm-w1136059446",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Calla Avenue",
       "lat": 38.26114,
       "lng": -104.652537,
       "sports": [
@@ -19348,8 +19348,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Calla Avenue",
+      "city": "Pueblo",
       "state": "CO",
       "source": "osm",
       "tags": {}
@@ -19699,7 +19699,7 @@
     },
     {
       "id": "osm-w1169778889",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bear Creek Trail",
       "lat": 39.660834,
       "lng": -105.076165,
       "sports": [
@@ -19712,8 +19712,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bear Creek Trail",
+      "city": "Denver",
       "state": "CO",
       "source": "osm",
       "tags": {}
@@ -19996,7 +19996,7 @@
     },
     {
       "id": "osm-w1199966879",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Vickie Street",
       "lat": 40.260279,
       "lng": -103.783118,
       "sports": [
@@ -20009,8 +20009,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Vickie Street",
+      "city": "Fort Morgan",
       "state": "CO",
       "source": "osm",
       "tags": {}
@@ -20081,7 +20081,7 @@
     },
     {
       "id": "osm-w1204008765",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North Emporia Street",
       "lat": 39.810517,
       "lng": -104.874315,
       "sports": [
@@ -20093,8 +20093,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Emporia Street",
+      "city": "Denver",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -20147,7 +20147,7 @@
     },
     {
       "id": "osm-w1223910070",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 4th Street",
       "lat": 38.132541,
       "lng": -105.43816,
       "sports": [
@@ -20159,8 +20159,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "4th Street",
+      "city": "Silver Cliff",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -20191,7 +20191,7 @@
     },
     {
       "id": "osm-w1252993188",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Preservation Trail",
       "lat": 39.476732,
       "lng": -104.734251,
       "sports": [
@@ -20204,15 +20204,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Preservation Trail",
+      "city": "Douglas County",
       "state": "CO",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1252993226",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Village Road",
       "lat": 39.478137,
       "lng": -104.720052,
       "sports": [
@@ -20224,8 +20224,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Village Road",
+      "city": "Douglas County",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -20690,7 +20690,7 @@
     },
     {
       "id": "osm-w1262506043",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Oakwood Lane",
       "lat": 39.478617,
       "lng": -104.877684,
       "sports": [
@@ -20702,8 +20702,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Oakwood Lane",
+      "city": "Douglas County",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -20774,7 +20774,7 @@
     },
     {
       "id": "osm-w1264299243",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Jasper Way",
       "lat": 39.651871,
       "lng": -104.806218,
       "sports": [
@@ -20786,8 +20786,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Jasper Way",
+      "city": "Aurora",
       "state": "CO",
       "source": "osm",
       "tags": {}
@@ -21120,7 +21120,7 @@
     },
     {
       "id": "osm-w1287826764",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · John Muir Drive",
       "lat": 40.515734,
       "lng": -104.966982,
       "sports": [
@@ -21132,8 +21132,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "John Muir Drive",
+      "city": "Timnath",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -21186,7 +21186,7 @@
     },
     {
       "id": "osm-w1301636984",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 23 1/2 Road",
       "lat": 39.112526,
       "lng": -108.617045,
       "sports": [
@@ -21198,8 +21198,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "23 1/2 Road",
+      "city": "Grand Junction",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -21358,7 +21358,7 @@
     },
     {
       "id": "osm-w1317032344",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Rangewood Drive",
       "lat": 38.927574,
       "lng": -104.752903,
       "sports": [
@@ -21370,8 +21370,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rangewood Drive",
+      "city": "Colorado Springs",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -21422,7 +21422,7 @@
     },
     {
       "id": "osm-w1319754932",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Arizona Avenue",
       "lat": 39.694377,
       "lng": -105.085543,
       "sports": [
@@ -21434,8 +21434,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Arizona Avenue",
+      "city": "Lakewood",
       "state": "CO",
       "source": "osm",
       "tags": {}
@@ -21913,7 +21913,7 @@
     },
     {
       "id": "osm-w1354310671",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West 86th Place",
       "lat": 39.853834,
       "lng": -105.164813,
       "sports": [
@@ -21925,8 +21925,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 86th Place",
+      "city": "Arvada",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -22105,7 +22105,7 @@
     },
     {
       "id": "osm-w1375413185",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Trimble Lane",
       "lat": 37.390672,
       "lng": -107.837299,
       "sports": [
@@ -22117,8 +22117,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Trimble Lane",
+      "city": "La Plata County",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -22683,7 +22683,7 @@
     },
     {
       "id": "osm-w1433370040",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Winnipeg Court",
       "lat": 39.565118,
       "lng": -104.719967,
       "sports": [
@@ -22696,8 +22696,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Winnipeg Court",
+      "city": "Aurora",
       "state": "CO",
       "source": "osm",
       "tags": {}
@@ -23218,7 +23218,7 @@
     },
     {
       "id": "osm-w1446550396",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Campfire Avenue",
       "lat": 39.258844,
       "lng": -104.893728,
       "sports": [
@@ -23230,8 +23230,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Campfire Avenue",
+      "city": "Larkspur",
       "state": "CO",
       "source": "osm",
       "tags": {}
@@ -23322,7 +23322,7 @@
     },
     {
       "id": "osm-w1453925173",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Copper Hill Court",
       "lat": 39.984816,
       "lng": -105.162977,
       "sports": [
@@ -23334,8 +23334,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Copper Hill Court",
+      "city": "Louisville",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -23994,7 +23994,7 @@
     },
     {
       "id": "osm-w1469662448",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · CO 82",
       "lat": 39.407366,
       "lng": -107.157861,
       "sports": [
@@ -24007,8 +24007,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "CO 82",
+      "city": "Garfield County",
       "state": "CO",
       "source": "osm",
       "tags": {}
@@ -24749,7 +24749,7 @@
     },
     {
       "id": "osm-w1470267801",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hill Circle",
       "lat": 38.88739,
       "lng": -104.856099,
       "sports": [
@@ -24761,8 +24761,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hill Circle",
+      "city": "Colorado Springs",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -24984,7 +24984,7 @@
     },
     {
       "id": "osm-w1470278230",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Vardon Way",
       "lat": 40.480112,
       "lng": -104.972488,
       "sports": [
@@ -24997,8 +24997,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Vardon Way",
+      "city": "Larimer County",
       "state": "CO",
       "source": "osm",
       "tags": {}
@@ -25071,7 +25071,7 @@
     },
     {
       "id": "osm-w1470279437",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Spring Creek Trail",
       "lat": 40.558852,
       "lng": -105.103426,
       "sports": [
@@ -25083,8 +25083,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Spring Creek Trail",
+      "city": "Fort Collins",
       "state": "CO",
       "source": "osm",
       "tags": {}
@@ -25905,7 +25905,7 @@
     },
     {
       "id": "osm-w1470422280",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Easter Avenue",
       "lat": 39.590908,
       "lng": -104.910264,
       "sports": [
@@ -25917,8 +25917,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Easter Avenue",
+      "city": "Centennial",
       "state": "CO",
       "source": "osm",
       "tags": {}
@@ -26232,7 +26232,7 @@
     },
     {
       "id": "osm-w1470425976",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Pebble Beach Court",
       "lat": 40.096969,
       "lng": -105.258482,
       "sports": [
@@ -26245,8 +26245,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pebble Beach Court",
+      "city": "Boulder County",
       "state": "CO",
       "source": "osm",
       "tags": {}
@@ -26695,7 +26695,7 @@
     },
     {
       "id": "osm-w1470429137",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West 70th Avenue",
       "lat": 39.824201,
       "lng": -105.185351,
       "sports": [
@@ -26707,8 +26707,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 70th Avenue",
+      "city": "Arvada",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -26887,7 +26887,7 @@
     },
     {
       "id": "osm-w1471120331",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Trail Wood Drive",
       "lat": 37.26191,
       "lng": -107.998315,
       "sports": [
@@ -26899,8 +26899,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Trail Wood Drive",
+      "city": "La Plata County",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -27116,7 +27116,7 @@
     },
     {
       "id": "osm-w1471459911",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East 56th Avenue",
       "lat": 39.797896,
       "lng": -104.879143,
       "sports": [
@@ -27129,8 +27129,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 56th Avenue",
+      "city": "Denver",
       "state": "CO",
       "source": "osm",
       "tags": {}
@@ -27264,7 +27264,7 @@
     },
     {
       "id": "osm-w1471464348",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Florida Avenue",
       "lat": 39.689055,
       "lng": -104.709384,
       "sports": [
@@ -27276,8 +27276,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Florida Avenue",
+      "city": "Aurora",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -28359,7 +28359,7 @@
     },
     {
       "id": "osm-w1487301519",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Orchard Road",
       "lat": 39.609087,
       "lng": -104.769583,
       "sports": [
@@ -28371,8 +28371,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Orchard Road",
+      "city": "Centennial",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -28423,7 +28423,7 @@
     },
     {
       "id": "osm-w1487303110",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Mineral Place",
       "lat": 39.570136,
       "lng": -104.720258,
       "sports": [
@@ -28436,15 +28436,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Mineral Place",
+      "city": "Aurora",
       "state": "CO",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1487303118",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Park Crescent Drive",
       "lat": 39.585271,
       "lng": -104.696792,
       "sports": [
@@ -28456,8 +28456,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Park Crescent Drive",
+      "city": "Aurora",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -28530,7 +28530,7 @@
     },
     {
       "id": "osm-w1487306273",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Country Club Drive",
       "lat": 39.602698,
       "lng": -104.817915,
       "sports": [
@@ -28543,8 +28543,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Country Club Drive",
+      "city": "Centennial",
       "state": "CO",
       "source": "osm",
       "tags": {}
@@ -28703,7 +28703,7 @@
     },
     {
       "id": "osm-w1506926635",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Moxie Circle",
       "lat": 39.453516,
       "lng": -104.768258,
       "sports": [
@@ -28715,8 +28715,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Moxie Circle",
+      "city": "Douglas County",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -29068,7 +29068,7 @@
     },
     {
       "id": "osm-w1536311580",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Silver Thread Scenic Byway",
       "lat": 37.671228,
       "lng": -106.643368,
       "sports": [
@@ -29080,15 +29080,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Silver Thread Scenic Byway",
+      "city": "South Fork",
       "state": "CO",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1536311944",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Ogden Road",
       "lat": 38.450136,
       "lng": -107.86165,
       "sports": [
@@ -29100,8 +29100,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ogden Road",
+      "city": "Montrose",
       "state": "CO",
       "source": "osm",
       "tags": {}
@@ -29277,7 +29277,7 @@
     },
     {
       "id": "osm-w1549147739",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Rock N Pines Ranch Road",
       "lat": 39.582496,
       "lng": -107.377103,
       "sports": [
@@ -29289,8 +29289,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rock N Pines Ranch Road",
+      "city": "Garfield County",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -29321,7 +29321,7 @@
     },
     {
       "id": "osm-w1549239906",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · J West Drive",
       "lat": 39.398844,
       "lng": -107.09053,
       "sports": [
@@ -29333,8 +29333,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "J West Drive",
+      "city": "El Jebel",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -29895,7 +29895,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Snowmass Village",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -29948,7 +29948,7 @@
     },
     {
       "id": "osm-w1550806679",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Carefree Trail",
       "lat": 39.430499,
       "lng": -104.790621,
       "sports": [
@@ -29960,8 +29960,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Carefree Trail",
+      "city": "Douglas County",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -30080,7 +30080,7 @@
     },
     {
       "id": "osm-w1550936736",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Firehouse Road",
       "lat": 39.180019,
       "lng": -107.23923,
       "sports": [
@@ -30092,8 +30092,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Firehouse Road",
+      "city": "Pitkin County",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -30166,7 +30166,7 @@
     },
     {
       "id": "osm-w1551798306",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Katie Park Lane",
       "lat": 39.311514,
       "lng": -106.979718,
       "sports": [
@@ -30178,8 +30178,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Katie Park Lane",
+      "city": "Pitkin County",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -30188,7 +30188,7 @@
     },
     {
       "id": "osm-w1551808249",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Brush Creek Road",
       "lat": 39.246063,
       "lng": -106.889919,
       "sports": [
@@ -30200,8 +30200,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Brush Creek Road",
+      "city": "Pitkin County",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -30210,7 +30210,7 @@
     },
     {
       "id": "osm-w1551812416",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Government Trail",
       "lat": 39.195049,
       "lng": -106.875015,
       "sports": [
@@ -30222,8 +30222,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Government Trail",
+      "city": "Pitkin County",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -30443,7 +30443,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Garfield County",
       "state": "CO",
       "source": "osm",
       "tags": {
@@ -30540,7 +30540,7 @@
     },
     {
       "id": "osm-w1553226352",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · McLain Flats Road",
       "lat": 39.230741,
       "lng": -106.858761,
       "sports": [
@@ -30552,8 +30552,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "McLain Flats Road",
+      "city": "Woody Creek",
       "state": "CO",
       "source": "osm",
       "tags": {

@@ -199,7 +199,7 @@
     },
     {
       "id": "osm-w5098080",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Latona Avenue Northeast",
       "lat": 47.681548,
       "lng": -122.328382,
       "sports": [
@@ -212,8 +212,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Latona Avenue Northeast",
+      "city": "Seattle",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -240,7 +240,7 @@
     },
     {
       "id": "osm-w29189127",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Marymoor Connector Trail",
       "lat": 47.665064,
       "lng": -122.122402,
       "sports": [
@@ -252,8 +252,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Marymoor Connector Trail",
+      "city": "Southeast Redmond",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -511,7 +511,7 @@
     },
     {
       "id": "osm-w34151476",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Green Lake Trail",
       "lat": 47.681292,
       "lng": -122.342711,
       "sports": [
@@ -523,8 +523,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Green Lake Trail",
+      "city": "Seattle",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -702,7 +702,7 @@
     },
     {
       "id": "osm-w37814969",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 95th Street Southwest",
       "lat": 47.911041,
       "lng": -122.24694,
       "sports": [
@@ -714,8 +714,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "95th Street Southwest",
+      "city": "Everett",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -828,7 +828,7 @@
     },
     {
       "id": "osm-w38653790",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Smith Street",
       "lat": 47.640941,
       "lng": -122.400346,
       "sports": [
@@ -841,8 +841,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Smith Street",
+      "city": "Seattle",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -851,7 +851,7 @@
     },
     {
       "id": "osm-w38777538",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Northeast 145th Street",
       "lat": 47.731056,
       "lng": -122.248315,
       "sports": [
@@ -863,8 +863,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northeast 145th Street",
+      "city": "Kenmore",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -974,7 +974,7 @@
     },
     {
       "id": "osm-w42729421",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Blaine Street",
       "lat": 47.634869,
       "lng": -122.278128,
       "sports": [
@@ -986,8 +986,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Blaine Street",
+      "city": "Seattle",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -1372,7 +1372,7 @@
     },
     {
       "id": "osm-w88778076",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Cherry Street",
       "lat": 47.607759,
       "lng": -122.314872,
       "sports": [
@@ -1384,15 +1384,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Cherry Street",
+      "city": "Seattle",
       "state": "WA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w92832585",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Northwest 197th Street",
       "lat": 47.772811,
       "lng": -122.385658,
       "sports": [
@@ -1404,8 +1404,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northwest 197th Street",
+      "city": "Shoreline",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -1560,7 +1560,7 @@
     },
     {
       "id": "osm-w109817450",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cherry Avenue Northeast",
       "lat": 47.630745,
       "lng": -122.500706,
       "sports": [
@@ -1572,8 +1572,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cherry Avenue Northeast",
+      "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -1582,7 +1582,7 @@
     },
     {
       "id": "osm-w111663479",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Mercer Way",
       "lat": 47.535018,
       "lng": -122.242824,
       "sports": [
@@ -1594,8 +1594,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Mercer Way",
+      "city": "Mercer Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -1604,7 +1604,7 @@
     },
     {
       "id": "osm-w111663504",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Mercer Way",
       "lat": 47.593934,
       "lng": -122.247176,
       "sports": [
@@ -1616,8 +1616,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Mercer Way",
+      "city": "Mercer Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -1924,7 +1924,7 @@
     },
     {
       "id": "osm-w147254139",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Roanoke Way",
       "lat": 47.594765,
       "lng": -122.24655,
       "sports": [
@@ -1936,8 +1936,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Roanoke Way",
+      "city": "Mercer Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -1981,7 +1981,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Mercer Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -1990,7 +1990,7 @@
     },
     {
       "id": "osm-w147321564",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Freeman Avenue",
       "lat": 47.574255,
       "lng": -122.240425,
       "sports": [
@@ -2002,8 +2002,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Freeman Avenue",
+      "city": "Mercer Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -2012,7 +2012,7 @@
     },
     {
       "id": "osm-w147381664",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Southeast 38th Street",
       "lat": 47.575967,
       "lng": -122.240096,
       "sports": [
@@ -2024,8 +2024,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Southeast 38th Street",
+      "city": "Mercer Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -2391,7 +2391,7 @@
     },
     {
       "id": "osm-w162511647",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Tapps Highway East",
       "lat": 47.190237,
       "lng": -122.165878,
       "sports": [
@@ -2403,8 +2403,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Tapps Highway East",
+      "city": "Bonney Lake",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -2413,7 +2413,7 @@
     },
     {
       "id": "osm-w163198133",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Southwest 321st Street",
       "lat": 47.311979,
       "lng": -122.379915,
       "sports": [
@@ -2425,8 +2425,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Southwest 321st Street",
+      "city": "Federal Way",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -2521,7 +2521,7 @@
     },
     {
       "id": "osm-w169907557",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ravenna Avenue Northeast",
       "lat": 47.669439,
       "lng": -122.302935,
       "sports": [
@@ -2533,8 +2533,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ravenna Avenue Northeast",
+      "city": "Seattle",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -2543,7 +2543,7 @@
     },
     {
       "id": "osm-w173006666",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Siyaya Avenue Northeast",
       "lat": 47.797794,
       "lng": -122.519338,
       "sports": [
@@ -2555,8 +2555,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Siyaya Avenue Northeast",
+      "city": "Kingston",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -2669,7 +2669,7 @@
     },
     {
       "id": "osm-w192517181",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Southeast 47th Street",
       "lat": 47.561668,
       "lng": -122.219457,
       "sports": [
@@ -2681,8 +2681,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Southeast 47th Street",
+      "city": "Mercer Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -2691,7 +2691,7 @@
     },
     {
       "id": "osm-w192517182",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 89th Avenue Southeast",
       "lat": 47.561295,
       "lng": -122.22083,
       "sports": [
@@ -2703,8 +2703,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "89th Avenue Southeast",
+      "city": "Mercer Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -3076,7 +3076,7 @@
     },
     {
       "id": "osm-w220802126",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 5th Street",
       "lat": 47.918116,
       "lng": -122.102062,
       "sports": [
@@ -3088,15 +3088,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "5th Street",
+      "city": "Snohomish",
       "state": "WA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w221237789",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Gold Street",
       "lat": 46.714144,
       "lng": -122.952206,
       "sports": [
@@ -3109,8 +3109,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Gold Street",
+      "city": "Centralia",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -3263,7 +3263,7 @@
     },
     {
       "id": "osm-w231738737",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Limited Lane Northwest",
       "lat": 47.049338,
       "lng": -122.936828,
       "sports": [
@@ -3275,8 +3275,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Limited Lane Northwest",
+      "city": "Olympia",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -3387,7 +3387,7 @@
     },
     {
       "id": "osm-w233390578",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Vienna Street",
       "lat": 46.731536,
       "lng": -122.94174,
       "sports": [
@@ -3399,8 +3399,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Vienna Street",
+      "city": "Centralia",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -3658,7 +3658,7 @@
     },
     {
       "id": "osm-w247137303",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 47th Avenue West",
       "lat": 47.669042,
       "lng": -122.416975,
       "sports": [
@@ -3670,8 +3670,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "47th Avenue West",
+      "city": "Seattle",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -3680,7 +3680,7 @@
     },
     {
       "id": "osm-w247137304",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 46th Avenue West",
       "lat": 47.669945,
       "lng": -122.415183,
       "sports": [
@@ -3692,8 +3692,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "46th Avenue West",
+      "city": "Seattle",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -3702,7 +3702,7 @@
     },
     {
       "id": "osm-w254942325",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 120th Avenue Northeast",
       "lat": 47.770595,
       "lng": -122.181142,
       "sports": [
@@ -3714,8 +3714,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "120th Avenue Northeast",
+      "city": "Bothell",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -3829,7 +3829,7 @@
     },
     {
       "id": "osm-w260664006",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Crescent Bar Road Northwest",
       "lat": 47.224186,
       "lng": -120.000892,
       "sports": [
@@ -3841,8 +3841,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Crescent Bar Road Northwest",
+      "city": "Grant County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -3851,7 +3851,7 @@
     },
     {
       "id": "osm-w262230332",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Sand Point Way Northeast",
       "lat": 47.684073,
       "lng": -122.264416,
       "sports": [
@@ -3863,8 +3863,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sand Point Way Northeast",
+      "city": "Seattle",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -3873,7 +3873,7 @@
     },
     {
       "id": "osm-w262429915",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Northeast Wahkiakum Lane",
       "lat": 47.654869,
       "lng": -122.301469,
       "sports": [
@@ -3885,8 +3885,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northeast Wahkiakum Lane",
+      "city": "Seattle",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -4442,7 +4442,7 @@
     },
     {
       "id": "osm-w308164820",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Woodview Drive",
       "lat": 47.705563,
       "lng": -117.300352,
       "sports": [
@@ -4454,8 +4454,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Woodview Drive",
+      "city": "Spokane County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -4486,7 +4486,7 @@
     },
     {
       "id": "osm-w310858663",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Klahanie Trail",
       "lat": 47.567317,
       "lng": -122.00172,
       "sports": [
@@ -4498,8 +4498,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Klahanie Trail",
+      "city": "Sammamish",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -4736,7 +4736,7 @@
     },
     {
       "id": "osm-w355181302",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Eagledale Park Road",
       "lat": 47.609887,
       "lng": -122.521397,
       "sports": [
@@ -4748,8 +4748,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Eagledale Park Road",
+      "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -4948,7 +4948,7 @@
     },
     {
       "id": "osm-w360427914",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 110th Avenue Southeast",
       "lat": 47.413099,
       "lng": -122.194061,
       "sports": [
@@ -4960,8 +4960,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "110th Avenue Southeast",
+      "city": "Kent",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -5416,7 +5416,7 @@
     },
     {
       "id": "osm-w374853838",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Kahler Drive",
       "lat": 47.798516,
       "lng": -120.723458,
       "sports": [
@@ -5428,8 +5428,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kahler Drive",
+      "city": "Chelan County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -5460,7 +5460,7 @@
     },
     {
       "id": "osm-w375030978",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fort Vancouver Way",
       "lat": 45.634456,
       "lng": -122.657566,
       "sports": [
@@ -5472,8 +5472,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fort Vancouver Way",
+      "city": "Vancouver",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -6105,7 +6105,7 @@
     },
     {
       "id": "osm-w414060490",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Trolley Lane",
       "lat": 47.305226,
       "lng": -122.516009,
       "sports": [
@@ -6118,8 +6118,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Trolley Lane",
+      "city": "Tacoma",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -6564,7 +6564,7 @@
     },
     {
       "id": "osm-w432851660",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 24th Street Southeast",
       "lat": 47.974054,
       "lng": -122.124177,
       "sports": [
@@ -6576,8 +6576,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "24th Street Southeast",
+      "city": "Lake Stevens",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -6800,7 +6800,7 @@
     },
     {
       "id": "osm-w438102557",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Lake Wilderness Drive Southeast",
       "lat": 47.374752,
       "lng": -122.040372,
       "sports": [
@@ -6813,8 +6813,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Lake Wilderness Drive Southeast",
+      "city": "Maple Valley",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -7196,7 +7196,7 @@
     },
     {
       "id": "osm-w460258708",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 53rd Avenue South",
       "lat": 47.479095,
       "lng": -122.268469,
       "sports": [
@@ -7208,8 +7208,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "53rd Avenue South",
+      "city": "Tukwila",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -7390,7 +7390,7 @@
     },
     {
       "id": "osm-w469847790",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South 166th Street",
       "lat": 47.455148,
       "lng": -122.284382,
       "sports": [
@@ -7403,8 +7403,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South 166th Street",
+      "city": "SeaTac",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -7540,7 +7540,7 @@
     },
     {
       "id": "osm-w472274575",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 188th Avenue Southwest",
       "lat": 46.812956,
       "lng": -123.111642,
       "sports": [
@@ -7552,8 +7552,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "188th Avenue Southwest",
+      "city": "Thurston County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -7790,7 +7790,7 @@
     },
     {
       "id": "osm-w481169107",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 17th Avenue",
       "lat": 47.689214,
       "lng": -122.194561,
       "sports": [
@@ -7802,8 +7802,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "17th Avenue",
+      "city": "Kirkland",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -7856,7 +7856,7 @@
     },
     {
       "id": "osm-w487769386",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Bonney Street",
       "lat": 47.554211,
       "lng": -122.230737,
       "sports": [
@@ -7868,8 +7868,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bonney Street",
+      "city": "Mercer Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -7963,7 +7963,7 @@
     },
     {
       "id": "osm-w499565061",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Northeast 10th Street",
       "lat": 47.499739,
       "lng": -122.152105,
       "sports": [
@@ -7975,15 +7975,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northeast 10th Street",
+      "city": "Renton",
       "state": "WA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w499932663",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Glacier Rim Drive",
       "lat": 48.883688,
       "lng": -121.923776,
       "sports": [
@@ -7996,15 +7996,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Glacier Rim Drive",
+      "city": "Whatcom County",
       "state": "WA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w501735206",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Nelmida Lane",
       "lat": 47.834593,
       "lng": -120.019133,
       "sports": [
@@ -8016,8 +8016,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Nelmida Lane",
+      "city": "Chelan",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -8214,7 +8214,7 @@
     },
     {
       "id": "osm-w528357915",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Country Club Drive",
       "lat": 47.857767,
       "lng": -122.20597,
       "sports": [
@@ -8226,8 +8226,8 @@
       "indoor": true,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Country Club Drive",
+      "city": "Mill Creek",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -8553,7 +8553,7 @@
     },
     {
       "id": "osm-w556914844",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Northeast 4th Street",
       "lat": 47.613149,
       "lng": -122.05507,
       "sports": [
@@ -8565,8 +8565,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northeast 4th Street",
+      "city": "Sammamish",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -8619,7 +8619,7 @@
     },
     {
       "id": "osm-w561102581",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 15th Street",
       "lat": 47.574335,
       "lng": -122.640245,
       "sports": [
@@ -8631,8 +8631,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "15th Street",
+      "city": "Bremerton",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -9262,7 +9262,7 @@
     },
     {
       "id": "osm-w623370715",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Countryside Beach Drive Northwest",
       "lat": 47.113573,
       "lng": -122.936436,
       "sports": [
@@ -9274,8 +9274,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Countryside Beach Drive Northwest",
+      "city": "Thurston County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -9284,7 +9284,7 @@
     },
     {
       "id": "osm-w623414842",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Bayshore Lane Northwest",
       "lat": 47.099947,
       "lng": -122.94737,
       "sports": [
@@ -9296,8 +9296,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bayshore Lane Northwest",
+      "city": "Thurston County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -9328,7 +9328,7 @@
     },
     {
       "id": "osm-w625701177",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fireweed Drive Northwest",
       "lat": 47.073589,
       "lng": -122.971596,
       "sports": [
@@ -9341,8 +9341,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fireweed Drive Northwest",
+      "city": "Thurston County",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -9432,7 +9432,7 @@
     },
     {
       "id": "osm-w628955359",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Narnia Lane Northwest",
       "lat": 47.052453,
       "lng": -122.966571,
       "sports": [
@@ -9444,8 +9444,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Narnia Lane Northwest",
+      "city": "Thurston County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -9454,7 +9454,7 @@
     },
     {
       "id": "osm-w629856603",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 13th Avenue Southwest",
       "lat": 47.035125,
       "lng": -122.957468,
       "sports": [
@@ -9466,8 +9466,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "13th Avenue Southwest",
+      "city": "Thurston County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -9583,7 +9583,7 @@
     },
     {
       "id": "osm-w635890721",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Village Drive Southeast",
       "lat": 47.005658,
       "lng": -122.874469,
       "sports": [
@@ -9595,8 +9595,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Village Drive Southeast",
+      "city": "Thurston County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -9859,7 +9859,7 @@
     },
     {
       "id": "osm-w669214379",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Northeast 42nd Place",
       "lat": 47.648453,
       "lng": -122.212413,
       "sports": [
@@ -9871,8 +9871,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northeast 42nd Place",
+      "city": "Yarrow Point",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -10156,7 +10156,7 @@
     },
     {
       "id": "osm-w692325138",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · C Street",
       "lat": 47.166255,
       "lng": -122.589796,
       "sports": [
@@ -10168,8 +10168,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "C Street",
+      "city": "Steilacoom",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -10431,7 +10431,7 @@
     },
     {
       "id": "osm-w726906933",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Southeast 172nd Street",
       "lat": 47.449048,
       "lng": -122.195692,
       "sports": [
@@ -10443,8 +10443,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Southeast 172nd Street",
+      "city": "Renton",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -11030,7 +11030,7 @@
     },
     {
       "id": "osm-w797999798",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Olympus Way",
       "lat": 48.894013,
       "lng": -121.920162,
       "sports": [
@@ -11042,8 +11042,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Olympus Way",
+      "city": "Whatcom County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -11052,7 +11052,7 @@
     },
     {
       "id": "osm-w800150096",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Southeast 43rd Street",
       "lat": 47.568478,
       "lng": -122.110852,
       "sports": [
@@ -11064,8 +11064,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Southeast 43rd Street",
+      "city": "Bellevue",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -11204,7 +11204,7 @@
     },
     {
       "id": "osm-w839993371",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Northwest Alexandra Lane",
       "lat": 45.635485,
       "lng": -122.452086,
       "sports": [
@@ -11216,8 +11216,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northwest Alexandra Lane",
+      "city": "Camas",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -11355,7 +11355,7 @@
     },
     {
       "id": "osm-w853077882",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 286th Place Northeast",
       "lat": 47.663091,
       "lng": -121.954996,
       "sports": [
@@ -11367,8 +11367,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "286th Place Northeast",
+      "city": "King County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -11486,7 +11486,7 @@
     },
     {
       "id": "osm-w874464029",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Country Club Road",
       "lat": 46.222032,
       "lng": -119.253499,
       "sports": [
@@ -11498,8 +11498,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Country Club Road",
+      "city": "Richland",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -11528,7 +11528,7 @@
     },
     {
       "id": "osm-w876047767",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lake Washington Boulevard South",
       "lat": 47.548165,
       "lng": -122.257754,
       "sports": [
@@ -11540,8 +11540,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lake Washington Boulevard South",
+      "city": "Seattle",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -11570,7 +11570,7 @@
     },
     {
       "id": "osm-w885681047",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · McElroy Place",
       "lat": 47.192152,
       "lng": -122.321453,
       "sports": [
@@ -11582,8 +11582,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "McElroy Place",
+      "city": "Puyallup",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -11592,7 +11592,7 @@
     },
     {
       "id": "osm-w885681048",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · McElroy Place",
       "lat": 47.193543,
       "lng": -122.32329,
       "sports": [
@@ -11604,8 +11604,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "McElroy Place",
+      "city": "Puyallup",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -11614,7 +11614,7 @@
     },
     {
       "id": "osm-w886098596",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Northeast Parkway Drive",
       "lat": 45.654148,
       "lng": -122.590821,
       "sports": [
@@ -11626,8 +11626,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northeast Parkway Drive",
+      "city": "Vancouver",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -11936,7 +11936,7 @@
     },
     {
       "id": "osm-w914300518",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 152nd Avenue Northeast",
       "lat": 47.74015,
       "lng": -122.137106,
       "sports": [
@@ -11948,8 +11948,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "152nd Avenue Northeast",
+      "city": "King County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -12066,7 +12066,7 @@
     },
     {
       "id": "osm-w924996453",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · South Sevier Road",
       "lat": 45.796186,
       "lng": -122.732996,
       "sports": [
@@ -12078,8 +12078,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Sevier Road",
+      "city": "Ridgefield",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -12088,7 +12088,7 @@
     },
     {
       "id": "osm-w932309114",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Southwest 122nd Place",
       "lat": 47.492976,
       "lng": -122.36394,
       "sports": [
@@ -12100,8 +12100,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Southwest 122nd Place",
+      "city": "Burien",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -12198,7 +12198,7 @@
     },
     {
       "id": "osm-w954023133",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Horseshoe Lane",
       "lat": 47.197904,
       "lng": -124.190969,
       "sports": [
@@ -12211,8 +12211,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Horseshoe Lane",
+      "city": "Seabrook",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -12261,7 +12261,7 @@
     },
     {
       "id": "osm-w970165145",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 164th Avenue Northeast",
       "lat": 47.738478,
       "lng": -122.119964,
       "sports": [
@@ -12273,8 +12273,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "164th Avenue Northeast",
+      "city": "Cottage Lake",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -12283,7 +12283,7 @@
     },
     {
       "id": "osm-w975852452",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · McDougall Avenue",
       "lat": 47.982708,
       "lng": -122.199778,
       "sports": [
@@ -12295,8 +12295,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "McDougall Avenue",
+      "city": "Everett",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -12473,7 +12473,7 @@
     },
     {
       "id": "osm-w1014445334",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Bible Camp Drive",
       "lat": 47.976352,
       "lng": -122.386376,
       "sports": [
@@ -12485,8 +12485,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bible Camp Drive",
+      "city": "Island County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -12517,7 +12517,7 @@
     },
     {
       "id": "osm-w1025768667",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Northeast Union Hill Road",
       "lat": 47.670446,
       "lng": -122.060778,
       "sports": [
@@ -12529,8 +12529,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northeast Union Hill Road",
+      "city": "Union Hill-Novelty Hill",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -12950,7 +12950,7 @@
     },
     {
       "id": "osm-w1060346732",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 42nd Avenue West",
       "lat": 47.644049,
       "lng": -122.41035,
       "sports": [
@@ -12962,8 +12962,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "42nd Avenue West",
+      "city": "Seattle",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -12972,7 +12972,7 @@
     },
     {
       "id": "osm-w1060362398",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 43rd Avenue West",
       "lat": 47.646743,
       "lng": -122.412464,
       "sports": [
@@ -12984,8 +12984,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "43rd Avenue West",
+      "city": "Seattle",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -13203,7 +13203,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Douglas County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -13232,7 +13232,7 @@
     },
     {
       "id": "osm-w1077741047",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Southeast 27th Street",
       "lat": 47.586058,
       "lng": -122.204999,
       "sports": [
@@ -13244,8 +13244,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Southeast 27th Street",
+      "city": "Beaux Arts Village",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -13316,7 +13316,7 @@
     },
     {
       "id": "osm-w1080869605",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Shore Avenue",
       "lat": 47.985699,
       "lng": -122.508133,
       "sports": [
@@ -13329,8 +13329,8 @@
       "indoor": false,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Shore Avenue",
+      "city": "Island County",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -13526,7 +13526,7 @@
     },
     {
       "id": "osm-w1096865552",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 55th Avenue Northeast",
       "lat": 48.058696,
       "lng": -122.157591,
       "sports": [
@@ -13538,8 +13538,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "55th Avenue Northeast",
+      "city": "Marysville",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -13903,7 +13903,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Silver Firs",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -14020,7 +14020,7 @@
     },
     {
       "id": "osm-w1136094563",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Aspen Beach Lane",
       "lat": 48.518414,
       "lng": -123.018877,
       "sports": [
@@ -14032,8 +14032,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Aspen Beach Lane",
+      "city": "San Juan County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -14108,7 +14108,7 @@
     },
     {
       "id": "osm-w1150106258",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Racquet Lane",
       "lat": 46.575135,
       "lng": -120.542612,
       "sports": [
@@ -14121,8 +14121,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Racquet Lane",
+      "city": "Yakima",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -14173,7 +14173,7 @@
     },
     {
       "id": "osm-w1153397660",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Northeast Williams Lane",
       "lat": 47.664934,
       "lng": -122.566816,
       "sports": [
@@ -14185,8 +14185,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northeast Williams Lane",
+      "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -14215,7 +14215,7 @@
     },
     {
       "id": "osm-w1155372703",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Tolo",
       "lat": 47.654398,
       "lng": -122.585148,
       "sports": [
@@ -14228,7 +14228,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -14237,7 +14237,7 @@
     },
     {
       "id": "osm-w1158039890",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Pleasant Beach Drive Northeast",
       "lat": 47.590747,
       "lng": -122.533143,
       "sports": [
@@ -14249,8 +14249,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pleasant Beach Drive Northeast",
+      "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -14303,7 +14303,7 @@
     },
     {
       "id": "osm-w1160154055",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Northeast County Park Road",
       "lat": 47.704712,
       "lng": -122.536206,
       "sports": [
@@ -14315,8 +14315,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northeast County Park Road",
+      "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -14347,7 +14347,7 @@
     },
     {
       "id": "osm-w1160637761",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Agate Street Northeast",
       "lat": 47.721022,
       "lng": -122.552281,
       "sports": [
@@ -14359,8 +14359,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Agate Street Northeast",
+      "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -14391,7 +14391,7 @@
     },
     {
       "id": "osm-w1160889127",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Larkspur Drive",
       "lat": 48.452609,
       "lng": -120.18384,
       "sports": [
@@ -14403,8 +14403,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Larkspur Drive",
+      "city": "Okanogan County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -14479,7 +14479,7 @@
     },
     {
       "id": "osm-w1163103912",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Pleasant Beach Drive Northeast",
       "lat": 47.596891,
       "lng": -122.543099,
       "sports": [
@@ -14491,8 +14491,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pleasant Beach Drive Northeast",
+      "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -14523,7 +14523,7 @@
     },
     {
       "id": "osm-w1164894348",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Northeast 164th Street",
       "lat": 47.74769,
       "lng": -122.044896,
       "sports": [
@@ -14535,8 +14535,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northeast 164th Street",
+      "city": "Cottage Lake",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -14545,7 +14545,7 @@
     },
     {
       "id": "osm-w1164894415",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Northeast 165th Street",
       "lat": 47.747833,
       "lng": -122.046818,
       "sports": [
@@ -14557,8 +14557,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northeast 165th Street",
+      "city": "Cottage Lake",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -14589,7 +14589,7 @@
     },
     {
       "id": "osm-w1169249713",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Blue Pond Place Northeast",
       "lat": 47.663567,
       "lng": -122.543381,
       "sports": [
@@ -14601,8 +14601,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Blue Pond Place Northeast",
+      "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -14633,7 +14633,7 @@
     },
     {
       "id": "osm-w1170420494",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 238th Street Southwest",
       "lat": 47.783256,
       "lng": -122.299338,
       "sports": [
@@ -14646,8 +14646,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "238th Street Southwest",
+      "city": "Mountlake Terrace",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -14674,7 +14674,7 @@
     },
     {
       "id": "osm-w1175236814",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Clubhouse Way Southwest",
       "lat": 46.685703,
       "lng": -119.928596,
       "sports": [
@@ -14686,8 +14686,8 @@
       "indoor": null,
       "access": "customers",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Clubhouse Way Southwest",
+      "city": "Desert Aire",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -14718,7 +14718,7 @@
     },
     {
       "id": "osm-w1176356481",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Wauna Vista Drive",
       "lat": 46.052686,
       "lng": -118.320319,
       "sports": [
@@ -14730,8 +14730,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wauna Vista Drive",
+      "city": "Walla Walla",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -14822,7 +14822,7 @@
     },
     {
       "id": "osm-w1187579310",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Miller Bay Road Northeast",
       "lat": 47.804317,
       "lng": -122.53946,
       "sports": [
@@ -14834,8 +14834,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Miller Bay Road Northeast",
+      "city": "Kingston",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -14886,7 +14886,7 @@
     },
     {
       "id": "osm-w1192513596",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Stevenson Property Trail",
       "lat": 47.547891,
       "lng": -122.223483,
       "sports": [
@@ -14898,8 +14898,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Stevenson Property Trail",
+      "city": "Mercer Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -15208,7 +15208,7 @@
     },
     {
       "id": "osm-w1210876937",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 6th Avenue North",
       "lat": 47.813134,
       "lng": -122.374579,
       "sports": [
@@ -15220,8 +15220,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "6th Avenue North",
+      "city": "Edmonds",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -15318,7 +15318,7 @@
     },
     {
       "id": "osm-w1211140514",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Southeast 66th Street",
       "lat": 47.542634,
       "lng": -122.139496,
       "sports": [
@@ -15330,8 +15330,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Southeast 66th Street",
+      "city": "Bellevue",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -15466,7 +15466,7 @@
     },
     {
       "id": "osm-w1216160877",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Juniper Street",
       "lat": 47.249477,
       "lng": -122.315569,
       "sports": [
@@ -15478,8 +15478,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Juniper Street",
+      "city": "Milton",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -15660,7 +15660,7 @@
     },
     {
       "id": "osm-w1222306166",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Reitan Road Northeast",
       "lat": 47.713419,
       "lng": -122.561393,
       "sports": [
@@ -15672,8 +15672,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Reitan Road Northeast",
+      "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -15704,7 +15704,7 @@
     },
     {
       "id": "osm-w1223115816",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Love Lane",
       "lat": 47.476468,
       "lng": -120.375831,
       "sports": [
@@ -15716,8 +15716,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Love Lane",
+      "city": "Chelan County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -15789,7 +15789,7 @@
     },
     {
       "id": "osm-w1227945217",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Maiden Lane Northeast",
       "lat": 47.662488,
       "lng": -122.546836,
       "sports": [
@@ -15801,8 +15801,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Maiden Lane Northeast",
+      "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -15811,7 +15811,7 @@
     },
     {
       "id": "osm-w1230499864",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Northeast North Tolo Road",
       "lat": 47.655806,
       "lng": -122.586251,
       "sports": [
@@ -15823,8 +15823,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northeast North Tolo Road",
+      "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -16158,7 +16158,7 @@
     },
     {
       "id": "osm-w1251914681",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Rockaway Beach Road Northeast",
       "lat": 47.609842,
       "lng": -122.497992,
       "sports": [
@@ -16170,8 +16170,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rockaway Beach Road Northeast",
+      "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -16200,7 +16200,7 @@
     },
     {
       "id": "osm-w1252211981",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Blakely Avenue Northeast",
       "lat": 47.596326,
       "lng": -122.53526,
       "sports": [
@@ -16212,8 +16212,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Blakely Avenue Northeast",
+      "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -16235,7 +16235,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -16572,7 +16572,7 @@
     },
     {
       "id": "osm-w1263965322",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Eagle Crest Way",
       "lat": 48.23915,
       "lng": -124.284775,
       "sports": [
@@ -16584,8 +16584,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Eagle Crest Way",
+      "city": "Clallam County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -16594,7 +16594,7 @@
     },
     {
       "id": "osm-w1265214429",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 216th Place Southeast",
       "lat": 47.801189,
       "lng": -122.185543,
       "sports": [
@@ -16606,8 +16606,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "216th Place Southeast",
+      "city": "Bothell",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -16660,7 +16660,7 @@
     },
     {
       "id": "osm-w1268564987",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Sakai Forest Learning Trail",
       "lat": 47.64803,
       "lng": -122.52849,
       "sports": [
@@ -16672,8 +16672,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sakai Forest Learning Trail",
+      "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -16757,7 +16757,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Okanogan County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -16829,7 +16829,7 @@
     },
     {
       "id": "osm-w1271292484",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · South Homestead Court",
       "lat": 47.646197,
       "lng": -117.189724,
       "sports": [
@@ -16841,8 +16841,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Homestead Court",
+      "city": "Spokane Valley",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -16871,7 +16871,7 @@
     },
     {
       "id": "osm-w1274163695",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wolves Road",
       "lat": 47.537211,
       "lng": -122.622201,
       "sports": [
@@ -16883,8 +16883,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wolves Road",
+      "city": "Port Orchard",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -16976,7 +16976,7 @@
     },
     {
       "id": "osm-w1279129574",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Southwest Birch Road",
       "lat": 47.505614,
       "lng": -122.657588,
       "sports": [
@@ -16988,8 +16988,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Southwest Birch Road",
+      "city": "Kitsap County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -17020,7 +17020,7 @@
     },
     {
       "id": "osm-w1284239108",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Loop E",
       "lat": 47.846698,
       "lng": -120.029499,
       "sports": [
@@ -17032,8 +17032,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Loop E",
+      "city": "Chelan",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -17302,7 +17302,7 @@
     },
     {
       "id": "osm-w1295515170",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 16th Avenue Northeast",
       "lat": 47.672909,
       "lng": -122.311087,
       "sports": [
@@ -17314,8 +17314,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "16th Avenue Northeast",
+      "city": "Seattle",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -17388,7 +17388,7 @@
     },
     {
       "id": "osm-w1297705866",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Adele Street",
       "lat": 47.195144,
       "lng": -122.241808,
       "sports": [
@@ -17400,8 +17400,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Adele Street",
+      "city": "Sumner",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -17423,7 +17423,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Puyallup",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -17578,7 +17578,7 @@
     },
     {
       "id": "osm-w1304294783",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Northeast 113th Street",
       "lat": 47.710621,
       "lng": -122.280712,
       "sports": [
@@ -17590,8 +17590,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northeast 113th Street",
+      "city": "Seattle",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -17729,7 +17729,7 @@
     },
     {
       "id": "osm-w1311911612",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Everett Street",
       "lat": 46.296809,
       "lng": -119.361745,
       "sports": [
@@ -17741,8 +17741,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Everett Street",
+      "city": "West Richland",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -17795,7 +17795,7 @@
     },
     {
       "id": "osm-w1312745436",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 136th Avenue East",
       "lat": 47.148298,
       "lng": -122.247551,
       "sports": [
@@ -17807,8 +17807,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "136th Avenue East",
+      "city": "South Hill",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -18029,7 +18029,7 @@
     },
     {
       "id": "osm-w1331729762",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Irving Lane Northeast",
       "lat": 47.636646,
       "lng": -122.504839,
       "sports": [
@@ -18041,8 +18041,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Irving Lane Northeast",
+      "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -18155,7 +18155,7 @@
     },
     {
       "id": "osm-w1334469073",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 144th Street East",
       "lat": 47.125472,
       "lng": -122.32216,
       "sports": [
@@ -18167,8 +18167,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "144th Street East",
+      "city": "South Hill",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -18198,7 +18198,7 @@
     },
     {
       "id": "osm-w1335248412",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Northeast Koura Road",
       "lat": 47.665343,
       "lng": -122.534807,
       "sports": [
@@ -18210,8 +18210,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northeast Koura Road",
+      "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -18262,7 +18262,7 @@
     },
     {
       "id": "osm-w1337618800",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Arrow Point Drive Northeast",
       "lat": 47.663385,
       "lng": -122.569962,
       "sports": [
@@ -18274,8 +18274,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Arrow Point Drive Northeast",
+      "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -18284,7 +18284,7 @@
     },
     {
       "id": "osm-w1338166919",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · South Keller Lane",
       "lat": 47.622453,
       "lng": -117.226337,
       "sports": [
@@ -18296,8 +18296,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Keller Lane",
+      "city": "Spokane County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -18412,7 +18412,7 @@
     },
     {
       "id": "osm-w1347509806",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 243rd Place Southwest",
       "lat": 47.777227,
       "lng": -122.270277,
       "sports": [
@@ -18424,8 +18424,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "243rd Place Southwest",
+      "city": "Brier",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -18457,7 +18457,7 @@
     },
     {
       "id": "osm-w1349479133",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Penny Place Northeast",
       "lat": 47.670212,
       "lng": -122.54674,
       "sports": [
@@ -18469,8 +18469,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Penny Place Northeast",
+      "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -18501,7 +18501,7 @@
     },
     {
       "id": "osm-w1352381561",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 3rd Avenue Court East",
       "lat": 47.111311,
       "lng": -122.426675,
       "sports": [
@@ -18513,8 +18513,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "3rd Avenue Court East",
+      "city": "Spanaway",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -18545,7 +18545,7 @@
     },
     {
       "id": "osm-w1353057775",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Rodal Court Northeast",
       "lat": 47.666377,
       "lng": -122.511007,
       "sports": [
@@ -18557,8 +18557,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rodal Court Northeast",
+      "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -18611,7 +18611,7 @@
     },
     {
       "id": "osm-w1353997680",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Southeast 98th Avenue",
       "lat": 45.611741,
       "lng": -122.571994,
       "sports": [
@@ -18623,8 +18623,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Southeast 98th Avenue",
+      "city": "Vancouver",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -18718,7 +18718,7 @@
     },
     {
       "id": "osm-w1355513174",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Westward Lane",
       "lat": 48.499707,
       "lng": -123.123596,
       "sports": [
@@ -18730,8 +18730,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Westward Lane",
+      "city": "San Juan County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -18906,7 +18906,7 @@
     },
     {
       "id": "osm-w1359239962",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Sutherland Road",
       "lat": 48.535178,
       "lng": -122.984321,
       "sports": [
@@ -18918,8 +18918,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sutherland Road",
+      "city": "San Juan County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -18928,7 +18928,7 @@
     },
     {
       "id": "osm-w1360046895",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Division Avenue Northeast",
       "lat": 47.725391,
       "lng": -122.558876,
       "sports": [
@@ -18940,8 +18940,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Division Avenue Northeast",
+      "city": "Port Madison Indian Reservation",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -19056,7 +19056,7 @@
     },
     {
       "id": "osm-w1364328902",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Halftide Lane",
       "lat": 48.474951,
       "lng": -123.010991,
       "sports": [
@@ -19069,8 +19069,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Halftide Lane",
+      "city": "San Juan County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -19123,7 +19123,7 @@
     },
     {
       "id": "osm-w1365255405",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Northeast Country Club Road",
       "lat": 47.594386,
       "lng": -122.51718,
       "sports": [
@@ -19135,8 +19135,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northeast Country Club Road",
+      "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -19211,7 +19211,7 @@
     },
     {
       "id": "osm-w1366332581",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Northeast Mount Mystery Loop",
       "lat": 47.685135,
       "lng": -122.639696,
       "sports": [
@@ -19224,8 +19224,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northeast Mount Mystery Loop",
+      "city": "Kitsap County",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -19276,7 +19276,7 @@
     },
     {
       "id": "osm-w1368207571",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 272nd Street Northwest",
       "lat": 48.243911,
       "lng": -122.333369,
       "sports": [
@@ -19288,15 +19288,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "272nd Street Northwest",
+      "city": "Stanwood",
       "state": "WA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1368459281",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Johnson Road",
       "lat": 47.696604,
       "lng": -122.788439,
       "sports": [
@@ -19308,8 +19308,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Johnson Road",
+      "city": "Jefferson County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -19318,7 +19318,7 @@
     },
     {
       "id": "osm-w1369724820",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Northwest Mountain View Road",
       "lat": 47.692364,
       "lng": -122.669494,
       "sports": [
@@ -19330,8 +19330,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northwest Mountain View Road",
+      "city": "Silverdale",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -19491,7 +19491,7 @@
     },
     {
       "id": "osm-w1378715100",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Northeast Byron Drive",
       "lat": 47.638041,
       "lng": -122.506801,
       "sports": [
@@ -19503,8 +19503,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northeast Byron Drive",
+      "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -19533,7 +19533,7 @@
     },
     {
       "id": "osm-w1378867900",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Alexander Place Northeast",
       "lat": 47.633028,
       "lng": -122.505743,
       "sports": [
@@ -19545,8 +19545,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Alexander Place Northeast",
+      "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -19643,7 +19643,7 @@
     },
     {
       "id": "osm-w1380484680",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Rockaway Beach Road Northeast",
       "lat": 47.607644,
       "lng": -122.499156,
       "sports": [
@@ -19655,8 +19655,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rockaway Beach Road Northeast",
+      "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -19753,7 +19753,7 @@
     },
     {
       "id": "osm-w1384439613",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Northeast Knight Road",
       "lat": 47.683207,
       "lng": -122.513641,
       "sports": [
@@ -19765,8 +19765,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northeast Knight Road",
+      "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -19775,7 +19775,7 @@
     },
     {
       "id": "osm-w1384446488",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Cunningham Road",
       "lat": 46.096675,
       "lng": -122.824849,
       "sports": [
@@ -19787,8 +19787,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cunningham Road",
+      "city": "Cowlitz County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -19832,7 +19832,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -19841,7 +19841,7 @@
     },
     {
       "id": "osm-w1385284294",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Northeast Day Road East",
       "lat": 47.680297,
       "lng": -122.512563,
       "sports": [
@@ -19853,8 +19853,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northeast Day Road East",
+      "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -19906,7 +19906,7 @@
     },
     {
       "id": "osm-w1389156221",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Ballesteros Court",
       "lat": 47.583378,
       "lng": -117.542969,
       "sports": [
@@ -19918,8 +19918,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Ballesteros Court",
+      "city": "Spokane County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -19992,7 +19992,7 @@
     },
     {
       "id": "osm-w1394194919",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Northeast Crystal Springs Hill Lane",
       "lat": 47.598225,
       "lng": -122.574981,
       "sports": [
@@ -20004,8 +20004,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northeast Crystal Springs Hill Lane",
+      "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -20014,7 +20014,7 @@
     },
     {
       "id": "osm-w1394206688",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Northeast My Way",
       "lat": 47.596769,
       "lng": -122.563848,
       "sports": [
@@ -20026,8 +20026,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northeast My Way",
+      "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -20036,7 +20036,7 @@
     },
     {
       "id": "osm-w1395443540",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Wing Point Road Northeast",
       "lat": 47.627011,
       "lng": -122.495846,
       "sports": [
@@ -20048,8 +20048,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wing Point Road Northeast",
+      "city": "Bainbridge Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -20058,7 +20058,7 @@
     },
     {
       "id": "osm-w1408713699",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Yakima Road",
       "lat": 47.215111,
       "lng": -121.0971,
       "sports": [
@@ -20070,8 +20070,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Yakima Road",
+      "city": "Kittitas County",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -20099,7 +20099,7 @@
     },
     {
       "id": "osm-w1412958877",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Goat Creek Road",
       "lat": 48.591911,
       "lng": -120.402553,
       "sports": [
@@ -20111,8 +20111,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Goat Creek Road",
+      "city": "Okanogan County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -20230,7 +20230,7 @@
     },
     {
       "id": "osm-w1417175619",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Caldart Avenue Northeast",
       "lat": 47.73638,
       "lng": -122.627306,
       "sports": [
@@ -20242,8 +20242,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Caldart Avenue Northeast",
+      "city": "Poulsbo",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -20292,7 +20292,7 @@
     },
     {
       "id": "osm-w1418247452",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Foxglove Lane",
       "lat": 47.846193,
       "lng": -120.042118,
       "sports": [
@@ -20304,8 +20304,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Foxglove Lane",
+      "city": "Chelan",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -20443,7 +20443,7 @@
     },
     {
       "id": "osm-w1421498286",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Tallagson Lane Northeast",
       "lat": 47.734982,
       "lng": -122.60768,
       "sports": [
@@ -20455,8 +20455,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Tallagson Lane Northeast",
+      "city": "Kitsap County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -20571,7 +20571,7 @@
     },
     {
       "id": "osm-w1429754632",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lake Park Drive South",
       "lat": 47.57957,
       "lng": -122.288535,
       "sports": [
@@ -20583,8 +20583,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lake Park Drive South",
+      "city": "Seattle",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -20822,7 +20822,7 @@
     },
     {
       "id": "osm-w1431434216",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · River Road",
       "lat": 47.222183,
       "lng": -119.998182,
       "sports": [
@@ -20834,8 +20834,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "River Road",
+      "city": "Grant County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -20858,7 +20858,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Douglas County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -21054,7 +21054,7 @@
     },
     {
       "id": "osm-w1434172872",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Stampede Boulevard Northwest",
       "lat": 47.629289,
       "lng": -122.661585,
       "sports": [
@@ -21066,8 +21066,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Stampede Boulevard Northwest",
+      "city": "Kitsap County",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -21223,7 +21223,7 @@
     },
     {
       "id": "osm-w1436091678",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Northeast 97th Place",
       "lat": 47.686915,
       "lng": -122.052324,
       "sports": [
@@ -21235,8 +21235,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northeast 97th Place",
+      "city": "Union Hill-Novelty Hill",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -21579,7 +21579,7 @@
     },
     {
       "id": "osm-w1442708243",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Bel-Red Road",
       "lat": 47.625062,
       "lng": -122.14805,
       "sports": [
@@ -21591,8 +21591,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bel-Red Road",
+      "city": "Bellevue",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -21642,7 +21642,7 @@
     },
     {
       "id": "osm-w1442961837",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Northeast 13th Street",
       "lat": 47.621128,
       "lng": -122.22025,
       "sports": [
@@ -21654,8 +21654,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northeast 13th Street",
+      "city": "Clyde Hill",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -22621,7 +22621,7 @@
     },
     {
       "id": "osm-w1446334930",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Honolulu Drive Trail",
       "lat": 47.215941,
       "lng": -121.048455,
       "sports": [
@@ -22633,8 +22633,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Honolulu Drive Trail",
+      "city": "Kittitas County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -22685,7 +22685,7 @@
     },
     {
       "id": "osm-w1446338422",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Lakeview Avenue Northwest",
       "lat": 47.678207,
       "lng": -122.654656,
       "sports": [
@@ -22697,8 +22697,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lakeview Avenue Northwest",
+      "city": "Silverdale",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -22858,7 +22858,7 @@
     },
     {
       "id": "osm-w1446404411",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 41st Avenue Court East",
       "lat": 47.189997,
       "lng": -122.373341,
       "sports": [
@@ -22870,8 +22870,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "41st Avenue Court East",
+      "city": "Waller",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -22880,7 +22880,7 @@
     },
     {
       "id": "osm-w1446404425",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 40th Avenue Court East",
       "lat": 47.190876,
       "lng": -122.374741,
       "sports": [
@@ -22892,8 +22892,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "40th Avenue Court East",
+      "city": "Waller",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -23005,7 +23005,7 @@
     },
     {
       "id": "osm-w1446531666",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 45th Avenue East",
       "lat": 47.20104,
       "lng": -122.368781,
       "sports": [
@@ -23017,8 +23017,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "45th Avenue East",
+      "city": "Waller",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -23027,7 +23027,7 @@
     },
     {
       "id": "osm-w1446531667",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 64th Street East",
       "lat": 47.199151,
       "lng": -122.364718,
       "sports": [
@@ -23039,8 +23039,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "64th Street East",
+      "city": "Waller",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -23049,7 +23049,7 @@
     },
     {
       "id": "osm-w1446531668",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 58th Street Court East",
       "lat": 47.203807,
       "lng": -122.363466,
       "sports": [
@@ -23061,8 +23061,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "58th Street Court East",
+      "city": "Waller",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -23071,7 +23071,7 @@
     },
     {
       "id": "osm-w1446531669",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 54th Street Court East",
       "lat": 47.206892,
       "lng": -122.363315,
       "sports": [
@@ -23083,8 +23083,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "54th Street Court East",
+      "city": "Waller",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -23093,7 +23093,7 @@
     },
     {
       "id": "osm-w1446531670",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 86th Street East",
       "lat": 47.178391,
       "lng": -122.353712,
       "sports": [
@@ -23105,8 +23105,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "86th Street East",
+      "city": "Pierce County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -23115,7 +23115,7 @@
     },
     {
       "id": "osm-w1446531671",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 3rd Street Southeast",
       "lat": 47.171934,
       "lng": -122.291626,
       "sports": [
@@ -23127,8 +23127,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "3rd Street Southeast",
+      "city": "Puyallup",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -23137,7 +23137,7 @@
     },
     {
       "id": "osm-w1446531672",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · South 380th Street",
       "lat": 47.260819,
       "lng": -122.264814,
       "sports": [
@@ -23149,8 +23149,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South 380th Street",
+      "city": "Pacific",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -23504,7 +23504,7 @@
     },
     {
       "id": "osm-w1446825803",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lakefront Drive",
       "lat": 47.763469,
       "lng": -120.164541,
       "sports": [
@@ -23517,8 +23517,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lakefront Drive",
+      "city": "Douglas County",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -23566,7 +23566,7 @@
     },
     {
       "id": "osm-w1446827351",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 5th Street",
       "lat": 47.430824,
       "lng": -120.339932,
       "sports": [
@@ -23579,15 +23579,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "5th Street",
+      "city": "Wenatchee",
       "state": "WA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1446827773",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Saunders Road",
       "lat": 47.564697,
       "lng": -120.599659,
       "sports": [
@@ -23599,8 +23599,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Saunders Road",
+      "city": "Peshastin",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -23715,7 +23715,7 @@
     },
     {
       "id": "osm-w1447059913",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Naches Wenas Road",
       "lat": 46.746354,
       "lng": -120.659533,
       "sports": [
@@ -23727,8 +23727,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Naches Wenas Road",
+      "city": "Yakima County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -23779,7 +23779,7 @@
     },
     {
       "id": "osm-w1447065786",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · C Street Southwest",
       "lat": 47.28192,
       "lng": -122.234001,
       "sports": [
@@ -23791,8 +23791,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "C Street Southwest",
+      "city": "Auburn",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -23864,7 +23864,7 @@
     },
     {
       "id": "osm-w1447216741",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Mountain Highway East",
       "lat": 46.92557,
       "lng": -122.357916,
       "sports": [
@@ -23877,8 +23877,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mountain Highway East",
+      "city": "Pierce County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -23887,7 +23887,7 @@
     },
     {
       "id": "osm-w1447234316",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Southeast 20th Street",
       "lat": 47.592038,
       "lng": -122.251866,
       "sports": [
@@ -23899,15 +23899,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Southeast 20th Street",
+      "city": "Mercer Island",
       "state": "WA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1447236346",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Brook Bay Road",
       "lat": 47.552696,
       "lng": -122.230594,
       "sports": [
@@ -23919,8 +23919,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Brook Bay Road",
+      "city": "Mercer Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -23929,7 +23929,7 @@
     },
     {
       "id": "osm-w1447236347",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Southeast 62nd Street",
       "lat": 47.547043,
       "lng": -122.233247,
       "sports": [
@@ -23941,8 +23941,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Southeast 62nd Street",
+      "city": "Mercer Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -23973,7 +23973,7 @@
     },
     {
       "id": "osm-w1447236350",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Southeast 78th Street",
       "lat": 47.533372,
       "lng": -122.236726,
       "sports": [
@@ -23985,8 +23985,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Southeast 78th Street",
+      "city": "Mercer Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -23995,7 +23995,7 @@
     },
     {
       "id": "osm-w1447236352",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 78th Avenue Southeast",
       "lat": 47.534257,
       "lng": -122.234945,
       "sports": [
@@ -24007,8 +24007,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "78th Avenue Southeast",
+      "city": "Mercer Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -24017,7 +24017,7 @@
     },
     {
       "id": "osm-w1447236353",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 80th Place Southeast",
       "lat": 47.533429,
       "lng": -122.232645,
       "sports": [
@@ -24029,8 +24029,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "80th Place Southeast",
+      "city": "Mercer Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -24039,7 +24039,7 @@
     },
     {
       "id": "osm-w1447236355",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Southeast 77th Place",
       "lat": 47.533572,
       "lng": -122.217603,
       "sports": [
@@ -24051,8 +24051,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Southeast 77th Place",
+      "city": "Mercer Island",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -24124,7 +24124,7 @@
     },
     {
       "id": "osm-w1447452163",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 46th Avenue West",
       "lat": 47.645285,
       "lng": -122.415375,
       "sports": [
@@ -24136,8 +24136,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "46th Avenue West",
+      "city": "Seattle",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -24146,7 +24146,7 @@
     },
     {
       "id": "osm-w1447452164",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 38th Avenue West",
       "lat": 47.643878,
       "lng": -122.406453,
       "sports": [
@@ -24158,15 +24158,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "38th Avenue West",
+      "city": "Seattle",
       "state": "WA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1447452170",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 37th Avenue West",
       "lat": 47.643093,
       "lng": -122.404492,
       "sports": [
@@ -24178,8 +24178,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "37th Avenue West",
+      "city": "Seattle",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -24188,7 +24188,7 @@
     },
     {
       "id": "osm-w1447452171",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Halladay Street",
       "lat": 47.642522,
       "lng": -122.391082,
       "sports": [
@@ -24200,8 +24200,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Halladay Street",
+      "city": "Seattle",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -24210,7 +24210,7 @@
     },
     {
       "id": "osm-w1447455234",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Webster Point Road Northeast",
       "lat": 47.64822,
       "lng": -122.277203,
       "sports": [
@@ -24222,8 +24222,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Webster Point Road Northeast",
+      "city": "Seattle",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -24232,7 +24232,7 @@
     },
     {
       "id": "osm-w1447455236",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Northeast 38th Street",
       "lat": 47.655169,
       "lng": -122.27915,
       "sports": [
@@ -24244,8 +24244,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northeast 38th Street",
+      "city": "Seattle",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -24275,7 +24275,7 @@
     },
     {
       "id": "osm-w1447455241",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 55th Avenue Northeast",
       "lat": 47.660548,
       "lng": -122.268075,
       "sports": [
@@ -24287,8 +24287,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "55th Avenue Northeast",
+      "city": "Seattle",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -24339,7 +24339,7 @@
     },
     {
       "id": "osm-w1447540263",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Northwest Monterey Loop",
       "lat": 47.759582,
       "lng": -122.666097,
       "sports": [
@@ -24351,8 +24351,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northwest Monterey Loop",
+      "city": "Poulsbo",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -24361,7 +24361,7 @@
     },
     {
       "id": "osm-w1447863134",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Northeast 31st Street",
       "lat": 47.592269,
       "lng": -122.649455,
       "sports": [
@@ -24373,8 +24373,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northeast 31st Street",
+      "city": "Bremerton",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -24620,7 +24620,7 @@
     },
     {
       "id": "osm-w1452715134",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Oslo Lane Northwest",
       "lat": 47.67352,
       "lng": -122.70641,
       "sports": [
@@ -24632,8 +24632,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Oslo Lane Northwest",
+      "city": "Silverdale",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -24876,7 +24876,7 @@
     },
     {
       "id": "osm-w1453677332",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Chennault Beach Road",
       "lat": 47.895684,
       "lng": -122.300221,
       "sports": [
@@ -24888,8 +24888,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Chennault Beach Road",
+      "city": "Mukilteo",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -24940,7 +24940,7 @@
     },
     {
       "id": "osm-w1453680002",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ridgetop Boulevard Northwest",
       "lat": 47.657442,
       "lng": -122.669251,
       "sports": [
@@ -24952,8 +24952,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ridgetop Boulevard Northwest",
+      "city": "Silverdale",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -24984,7 +24984,7 @@
     },
     {
       "id": "osm-w1453680974",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lebo Boulevard",
       "lat": 47.58373,
       "lng": -122.638631,
       "sports": [
@@ -24996,8 +24996,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lebo Boulevard",
+      "city": "Bremerton",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -25067,7 +25067,7 @@
     },
     {
       "id": "osm-w1453684197",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Line Drive",
       "lat": 47.386711,
       "lng": -122.843228,
       "sports": [
@@ -25079,8 +25079,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Line Drive",
+      "city": "Allyn",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -25259,7 +25259,7 @@
     },
     {
       "id": "osm-w1453798285",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Shoshone Drive",
       "lat": 48.38008,
       "lng": -122.517381,
       "sports": [
@@ -25272,8 +25272,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Shoshone Drive",
+      "city": "Skagit County",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -25535,7 +25535,7 @@
     },
     {
       "id": "osm-w1453800450",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Seawood Drive",
       "lat": 48.933819,
       "lng": -122.740067,
       "sports": [
@@ -25548,15 +25548,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Seawood Drive",
+      "city": "Birch Bay",
       "state": "WA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1453800726",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bay Road",
       "lat": 48.905346,
       "lng": -122.754268,
       "sports": [
@@ -25569,8 +25569,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bay Road",
+      "city": "Birch Bay",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -25901,7 +25901,7 @@
     },
     {
       "id": "osm-w1454060461",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Apple Capital Recreation Loop Trail",
       "lat": 47.444106,
       "lng": -120.318747,
       "sports": [
@@ -25913,8 +25913,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Apple Capital Recreation Loop Trail",
+      "city": "Wenatchee",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -25965,7 +25965,7 @@
     },
     {
       "id": "osm-w1454063730",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · SR 28",
       "lat": 47.383737,
       "lng": -120.249535,
       "sports": [
@@ -25977,8 +25977,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "SR 28",
+      "city": "Douglas County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -26326,7 +26326,7 @@
     },
     {
       "id": "osm-w1454071638",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Kingsgate Way",
       "lat": 46.32295,
       "lng": -119.317995,
       "sports": [
@@ -26339,8 +26339,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kingsgate Way",
+      "city": "Richland",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -26870,7 +26870,7 @@
     },
     {
       "id": "osm-w1454307407",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West 6th Avenue",
       "lat": 46.204283,
       "lng": -119.214993,
       "sports": [
@@ -26882,8 +26882,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 6th Avenue",
+      "city": "Kennewick",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -27083,7 +27083,7 @@
     },
     {
       "id": "osm-w1454575889",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Audubon Street",
       "lat": 47.726036,
       "lng": -117.45485,
       "sports": [
@@ -27096,8 +27096,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Audubon Street",
+      "city": "Spokane",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -27293,7 +27293,7 @@
     },
     {
       "id": "osm-w1454578939",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Euclid Avenue",
       "lat": 47.687123,
       "lng": -117.347972,
       "sports": [
@@ -27305,8 +27305,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Euclid Avenue",
+      "city": "Spokane",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -27421,7 +27421,7 @@
     },
     {
       "id": "osm-w1454581274",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East 8th Avenue",
       "lat": 47.123806,
       "lng": -118.370469,
       "sports": [
@@ -27433,8 +27433,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 8th Avenue",
+      "city": "Ritzville",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -27571,7 +27571,7 @@
     },
     {
       "id": "osm-w1454581980",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Southwest 6th Street",
       "lat": 46.044289,
       "lng": -118.395716,
       "sports": [
@@ -27583,8 +27583,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Southwest 6th Street",
+      "city": "College Place",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -27845,7 +27845,7 @@
     },
     {
       "id": "osm-w1459425232",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Cascade Way",
       "lat": 48.435714,
       "lng": -122.347024,
       "sports": [
@@ -27857,8 +27857,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cascade Way",
+      "city": "Skagit County",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -27887,7 +27887,7 @@
     },
     {
       "id": "osm-w1459446652",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Road 23 Northwest",
       "lat": 47.422884,
       "lng": -119.498274,
       "sports": [
@@ -27899,8 +27899,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Road 23 Northwest",
+      "city": "Grant County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -27929,7 +27929,7 @@
     },
     {
       "id": "osm-w1459468219",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Weyerhaeuser Road",
       "lat": 47.292941,
       "lng": -122.296634,
       "sports": [
@@ -27942,8 +27942,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Weyerhaeuser Road",
+      "city": "Federal Way",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -27974,7 +27974,7 @@
     },
     {
       "id": "osm-w1459470097",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Mount Baker Highway",
       "lat": 48.911404,
       "lng": -122.135327,
       "sports": [
@@ -27987,8 +27987,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mount Baker Highway",
+      "city": "Whatcom County",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -28055,7 +28055,7 @@
     },
     {
       "id": "osm-w1465169825",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Occidental Road",
       "lat": 46.563691,
       "lng": -120.626775,
       "sports": [
@@ -28067,15 +28067,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Occidental Road",
+      "city": "Yakima",
       "state": "WA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1466796914",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Trilogy Loop Trail",
       "lat": 47.125719,
       "lng": -122.178807,
       "sports": [
@@ -28087,8 +28087,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Trilogy Loop Trail",
+      "city": "Prairie Ridge",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -28119,7 +28119,7 @@
     },
     {
       "id": "osm-w1468160968",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Tumble Creek Drive",
       "lat": 47.214616,
       "lng": -121.051368,
       "sports": [
@@ -28131,8 +28131,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Tumble Creek Drive",
+      "city": "Kittitas County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -28207,7 +28207,7 @@
     },
     {
       "id": "osm-w1473421914",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Golf Course Road",
       "lat": 48.508822,
       "lng": -123.022136,
       "sports": [
@@ -28219,8 +28219,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Golf Course Road",
+      "city": "San Juan County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -28271,7 +28271,7 @@
     },
     {
       "id": "osm-w1478467582",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Northeast 167th Avenue",
       "lat": 45.750746,
       "lng": -122.500064,
       "sports": [
@@ -28283,8 +28283,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northeast 167th Avenue",
+      "city": "Greater Brush Prairie",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -28379,7 +28379,7 @@
     },
     {
       "id": "osm-w1486695063",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Mount Baker Highway",
       "lat": 48.919414,
       "lng": -122.096212,
       "sports": [
@@ -28391,8 +28391,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mount Baker Highway",
+      "city": "Maple Falls",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -28401,7 +28401,7 @@
     },
     {
       "id": "osm-w1494934796",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · H Street Road",
       "lat": 48.99459,
       "lng": -122.655571,
       "sports": [
@@ -28413,8 +28413,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "H Street Road",
+      "city": "Blaine",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -28485,7 +28485,7 @@
     },
     {
       "id": "osm-w1499800734",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Country Crescent Boulevard",
       "lat": 47.864797,
       "lng": -121.961233,
       "sports": [
@@ -28497,8 +28497,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Country Crescent Boulevard",
+      "city": "Monroe",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -28528,7 +28528,7 @@
     },
     {
       "id": "osm-w1502961841",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · White Point Road",
       "lat": 48.595634,
       "lng": -123.165027,
       "sports": [
@@ -28541,8 +28541,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "White Point Road",
+      "city": "San Juan County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -28700,7 +28700,7 @@
     },
     {
       "id": "osm-w1502979109",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Hawk",
       "lat": 48.40721,
       "lng": -122.550404,
       "sports": [
@@ -28712,8 +28712,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hawk",
+      "city": "Skagit County",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -28806,7 +28806,7 @@
     },
     {
       "id": "osm-w1502982752",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Olympic Boulevard",
       "lat": 47.960693,
       "lng": -122.243155,
       "sports": [
@@ -28818,8 +28818,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Olympic Boulevard",
+      "city": "Everett",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -28974,7 +28974,7 @@
     },
     {
       "id": "osm-w1502996267",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Howe Street",
       "lat": 47.635611,
       "lng": -122.397544,
       "sports": [
@@ -28986,8 +28986,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Howe Street",
+      "city": "Seattle",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -29079,7 +29079,7 @@
     },
     {
       "id": "osm-w1520132343",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Northeast 1st Street",
       "lat": 47.612092,
       "lng": -122.128498,
       "sports": [
@@ -29091,8 +29091,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northeast 1st Street",
+      "city": "Bellevue",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -29101,7 +29101,7 @@
     },
     {
       "id": "osm-w1520132560",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Northeast 132nd Street",
       "lat": 47.718015,
       "lng": -122.117116,
       "sports": [
@@ -29113,8 +29113,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northeast 132nd Street",
+      "city": "Cottage Lake",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -29123,7 +29123,7 @@
     },
     {
       "id": "osm-w1520132610",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Northeast 113th Court",
       "lat": 47.701369,
       "lng": -122.130688,
       "sports": [
@@ -29135,8 +29135,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northeast 113th Court",
+      "city": "Redmond",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -29479,7 +29479,7 @@
     },
     {
       "id": "osm-w1526206747",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Northeast 95th Street",
       "lat": 47.685361,
       "lng": -122.122018,
       "sports": [
@@ -29491,8 +29491,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northeast 95th Street",
+      "city": "Redmond",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -29880,7 +29880,7 @@
     },
     {
       "id": "osm-w1526761170",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Marshall Street",
       "lat": 47.651364,
       "lng": -118.149106,
       "sports": [
@@ -29892,8 +29892,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Marshall Street",
+      "city": "Davenport",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -30192,7 +30192,7 @@
     },
     {
       "id": "osm-w1527904633",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Bessie Road",
       "lat": 47.68373,
       "lng": -117.291459,
       "sports": [
@@ -30204,8 +30204,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Bessie Road",
+      "city": "Spokane Valley",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -30255,7 +30255,7 @@
     },
     {
       "id": "osm-w1527905776",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Opportunity",
       "lat": 47.673178,
       "lng": -117.253966,
       "sports": [
@@ -30268,7 +30268,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Spokane Valley",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -30426,7 +30426,7 @@
     },
     {
       "id": "osm-w1528171904",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Almota Road",
       "lat": 46.742633,
       "lng": -117.471127,
       "sports": [
@@ -30438,8 +30438,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Almota Road",
+      "city": "Whitman County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -30556,7 +30556,7 @@
     },
     {
       "id": "osm-w1528328196",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Somewhere Hot Place",
       "lat": 47.876629,
       "lng": -120.117556,
       "sports": [
@@ -30569,8 +30569,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Somewhere Hot Place",
+      "city": "Chelan County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -30667,7 +30667,7 @@
     },
     {
       "id": "osm-w1528542646",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Southeast Lake Holm Road",
       "lat": 47.301327,
       "lng": -122.149862,
       "sports": [
@@ -30679,8 +30679,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Southeast Lake Holm Road",
+      "city": "King County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -30925,7 +30925,7 @@
     },
     {
       "id": "osm-w1533328016",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · David Day Drive Northwest",
       "lat": 47.332394,
       "lng": -122.652625,
       "sports": [
@@ -30937,8 +30937,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "David Day Drive Northwest",
+      "city": "Artondale",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -31095,7 +31095,7 @@
     },
     {
       "id": "osm-w1537745480",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Sound Drive",
       "lat": 48.530713,
       "lng": -122.204293,
       "sports": [
@@ -31107,8 +31107,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Sound Drive",
+      "city": "Sedro-Woolley",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -31181,7 +31181,7 @@
     },
     {
       "id": "osm-w1538924090",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Semiahmoo Parkway",
       "lat": 48.989911,
       "lng": -122.773251,
       "sports": [
@@ -31193,8 +31193,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Semiahmoo Parkway",
+      "city": "Blaine",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -31706,7 +31706,7 @@
     },
     {
       "id": "osm-w1539494410",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Arthur's Way",
       "lat": 49.003715,
       "lng": -122.275073,
       "sports": [
@@ -31718,8 +31718,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Arthur's Way",
+      "city": "Sumas",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -31792,7 +31792,7 @@
     },
     {
       "id": "osm-w1546892342",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Riverbluff Lane",
       "lat": 47.780089,
       "lng": -117.467192,
       "sports": [
@@ -31804,8 +31804,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Riverbluff Lane",
+      "city": "Spokane County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -32264,7 +32264,7 @@
     },
     {
       "id": "osm-w1551385615",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lake Washington Boulevard South",
       "lat": 47.60136,
       "lng": -122.287714,
       "sports": [
@@ -32277,8 +32277,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lake Washington Boulevard South",
+      "city": "Seattle",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -32306,7 +32306,7 @@
     },
     {
       "id": "osm-w1551387148",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Tolt Pipeline Trail",
       "lat": 47.718121,
       "lng": -122.014178,
       "sports": [
@@ -32319,8 +32319,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Tolt Pipeline Trail",
+      "city": "Cottage Lake",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -32349,7 +32349,7 @@
     },
     {
       "id": "osm-w1551387488",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Northeast 123rd Lane",
       "lat": 47.709526,
       "lng": -122.013661,
       "sports": [
@@ -32361,8 +32361,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northeast 123rd Lane",
+      "city": "Union Hill-Novelty Hill",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -32393,7 +32393,7 @@
     },
     {
       "id": "osm-w1551387850",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Eastridge Drive Northeast",
       "lat": 47.69036,
       "lng": -122.016606,
       "sports": [
@@ -32405,8 +32405,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Eastridge Drive Northeast",
+      "city": "Union Hill-Novelty Hill",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -32825,7 +32825,7 @@
     },
     {
       "id": "osm-w1551428650",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 138th Place Southeast",
       "lat": 47.308686,
       "lng": -122.159782,
       "sports": [
@@ -32838,8 +32838,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "138th Place Southeast",
+      "city": "Lea Hill",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -32980,7 +32980,7 @@
     },
     {
       "id": "osm-w1551432188",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lacrosse Way",
       "lat": 47.232294,
       "lng": -123.103185,
       "sports": [
@@ -32993,8 +32993,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lacrosse Way",
+      "city": "Shelton",
       "state": "WA",
       "source": "osm",
       "tags": {}
@@ -33105,7 +33105,7 @@
     },
     {
       "id": "osm-w1551631565",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Northeast 53rd Avenue",
       "lat": 45.796744,
       "lng": -122.617012,
       "sports": [
@@ -33117,8 +33117,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northeast 53rd Avenue",
+      "city": "King Corner",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -33652,7 +33652,7 @@
     },
     {
       "id": "osm-w1553879368",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Tut Terrace",
       "lat": 48.882211,
       "lng": -122.5043,
       "sports": [
@@ -33664,8 +33664,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Tut Terrace",
+      "city": "Whatcom County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -33674,7 +33674,7 @@
     },
     {
       "id": "osm-w1556413508",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Boundary Bay Road",
       "lat": 48.996004,
       "lng": -123.034524,
       "sports": [
@@ -33686,8 +33686,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Boundary Bay Road",
+      "city": "Whatcom County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -33696,7 +33696,7 @@
     },
     {
       "id": "osm-w1556486239",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 161st Avenue Northeast",
       "lat": 47.752421,
       "lng": -122.126109,
       "sports": [
@@ -33708,8 +33708,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "161st Avenue Northeast",
+      "city": "Cottage Lake",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -33718,7 +33718,7 @@
     },
     {
       "id": "osm-w1556597744",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Mission Beach Road",
       "lat": 48.053205,
       "lng": -122.288059,
       "sports": [
@@ -33730,8 +33730,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mission Beach Road",
+      "city": "Tulalip Bay",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -33740,7 +33740,7 @@
     },
     {
       "id": "osm-w1556597867",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Port Susan Drive",
       "lat": 48.017694,
       "lng": -122.324793,
       "sports": [
@@ -33752,8 +33752,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Port Susan Drive",
+      "city": "Snohomish County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -33762,7 +33762,7 @@
     },
     {
       "id": "osm-w1556599676",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Shore Avenue",
       "lat": 47.986626,
       "lng": -122.507142,
       "sports": [
@@ -33774,8 +33774,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Shore Avenue",
+      "city": "Island County",
       "state": "WA",
       "source": "osm",
       "tags": {
@@ -33784,7 +33784,7 @@
     },
     {
       "id": "osm-w1556623302",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · A Street",
       "lat": 47.699629,
       "lng": -122.622299,
       "sports": [
@@ -33796,8 +33796,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "A Street",
+      "city": "Kitsap County",
       "state": "WA",
       "source": "osm",
       "tags": {

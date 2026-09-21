@@ -4,7 +4,7 @@
   "facilities": [
     {
       "id": "osm-n10787280079",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Township Route 80122",
       "lat": 38.852418,
       "lng": -82.145673,
       "sports": [
@@ -16,8 +16,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Township Route 80122",
+      "city": "Gallia County",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -71,7 +71,7 @@
     },
     {
       "id": "osm-n13374895485",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Sugar Street",
       "lat": 40.396651,
       "lng": -82.500637,
       "sports": [
@@ -83,8 +83,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Sugar Street",
+      "city": "Mount Vernon",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -198,7 +198,7 @@
     },
     {
       "id": "osm-n14181087176",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Kings Highland Drive West",
       "lat": 40.067002,
       "lng": -82.992207,
       "sports": [
@@ -210,8 +210,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kings Highland Drive West",
+      "city": "Columbus",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -386,7 +386,7 @@
     },
     {
       "id": "osm-w32243922",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Alpine Place",
       "lat": 39.119364,
       "lng": -84.489927,
       "sports": [
@@ -398,8 +398,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Alpine Place",
+      "city": "Cincinnati",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -912,7 +912,7 @@
     },
     {
       "id": "osm-w33832902",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East McMillan Street",
       "lat": 39.126573,
       "lng": -84.510967,
       "sports": [
@@ -924,8 +924,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East McMillan Street",
+      "city": "Cincinnati",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -1623,7 +1623,7 @@
     },
     {
       "id": "osm-w35224797",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Webster Avenue",
       "lat": 39.154294,
       "lng": -84.471087,
       "sports": [
@@ -1635,8 +1635,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Webster Avenue",
+      "city": "Norwood",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -1665,7 +1665,7 @@
     },
     {
       "id": "osm-w35800797",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Squire Court",
       "lat": 39.351972,
       "lng": -84.372661,
       "sports": [
@@ -1677,8 +1677,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Squire Court",
+      "city": "Butler County",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -1709,7 +1709,7 @@
     },
     {
       "id": "osm-w36833343",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Crossbridge Drive",
       "lat": 39.356833,
       "lng": -84.439115,
       "sports": [
@@ -1721,8 +1721,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Crossbridge Drive",
+      "city": "Butler County",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -2850,7 +2850,7 @@
     },
     {
       "id": "osm-w56236630",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Shore Point Court",
       "lat": 39.237771,
       "lng": -84.245755,
       "sports": [
@@ -2862,8 +2862,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Shore Point Court",
+      "city": "Clermont County",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -2954,7 +2954,7 @@
     },
     {
       "id": "osm-w56394863",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hill and Hollow Lane",
       "lat": 39.124966,
       "lng": -84.447577,
       "sports": [
@@ -2966,8 +2966,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hill and Hollow Lane",
+      "city": "Cincinnati",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -3076,7 +3076,7 @@
     },
     {
       "id": "osm-w57770490",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Stream Ridge Lane",
       "lat": 39.070014,
       "lng": -84.347265,
       "sports": [
@@ -3088,8 +3088,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Stream Ridge Lane",
+      "city": "Hamilton County",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -3140,7 +3140,7 @@
     },
     {
       "id": "osm-w59685727",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Woodford Road",
       "lat": 39.179193,
       "lng": -84.416479,
       "sports": [
@@ -3152,8 +3152,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Woodford Road",
+      "city": "Cincinnati",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -3466,7 +3466,7 @@
     },
     {
       "id": "osm-w69210810",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South East Street",
       "lat": 39.430348,
       "lng": -84.204614,
       "sports": [
@@ -3478,8 +3478,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South East Street",
+      "city": "Lebanon",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -3506,7 +3506,7 @@
     },
     {
       "id": "osm-w69702555",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Grandin Road",
       "lat": 39.129173,
       "lng": -84.454007,
       "sports": [
@@ -3519,8 +3519,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Grandin Road",
+      "city": "Cincinnati",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -4111,7 +4111,7 @@
     },
     {
       "id": "osm-w75213013",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wooster Pike",
       "lat": 39.142063,
       "lng": -84.355024,
       "sports": [
@@ -4123,8 +4123,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wooster Pike",
+      "city": "Hamilton County",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -4511,7 +4511,7 @@
     },
     {
       "id": "osm-w79014215",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Nash Avenue",
       "lat": 39.124289,
       "lng": -84.429798,
       "sports": [
@@ -4523,8 +4523,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Nash Avenue",
+      "city": "Cincinnati",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -5547,7 +5547,7 @@
     },
     {
       "id": "osm-w82226885",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Marshall Street",
       "lat": 39.797458,
       "lng": -83.889278,
       "sports": [
@@ -5559,8 +5559,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Marshall Street",
+      "city": "Yellow Springs",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -6167,7 +6167,7 @@
     },
     {
       "id": "osm-w88115241",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Woodland Street",
       "lat": 41.296643,
       "lng": -82.223706,
       "sports": [
@@ -6179,8 +6179,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Woodland Street",
+      "city": "Oberlin",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -7271,7 +7271,7 @@
     },
     {
       "id": "osm-w106045201",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hunters Green Drive",
       "lat": 39.325163,
       "lng": -84.340713,
       "sports": [
@@ -7283,8 +7283,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hunters Green Drive",
+      "city": "Warren County",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -7293,7 +7293,7 @@
     },
     {
       "id": "osm-w106864659",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Kurt Street",
       "lat": 39.794261,
       "lng": -83.888591,
       "sports": [
@@ -7305,8 +7305,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kurt Street",
+      "city": "Yellow Springs",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -8257,7 +8257,7 @@
     },
     {
       "id": "osm-w133125138",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Westwoods Boulevard",
       "lat": 39.947224,
       "lng": -83.148538,
       "sports": [
@@ -8269,8 +8269,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Westwoods Boulevard",
+      "city": "Columbus",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -8711,7 +8711,7 @@
     },
     {
       "id": "osm-w137508560",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Mallet Club Drive",
       "lat": 39.676087,
       "lng": -84.205517,
       "sports": [
@@ -8723,8 +8723,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mallet Club Drive",
+      "city": "Montgomery County",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -9451,7 +9451,7 @@
     },
     {
       "id": "osm-w158650141",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Elm Street",
       "lat": 39.089577,
       "lng": -84.556483,
       "sports": [
@@ -9463,8 +9463,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Elm Street",
+      "city": "Ludlow",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -9868,7 +9868,7 @@
     },
     {
       "id": "osm-w169419580",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Triangle Park Drive",
       "lat": 39.287619,
       "lng": -84.443906,
       "sports": [
@@ -9880,8 +9880,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Triangle Park Drive",
+      "city": "Sharonville",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -9934,7 +9934,7 @@
     },
     {
       "id": "osm-w171450403",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Clotts Alley",
       "lat": 40.015565,
       "lng": -82.875282,
       "sports": [
@@ -9946,8 +9946,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Clotts Alley",
+      "city": "Gahanna",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -10018,7 +10018,7 @@
     },
     {
       "id": "osm-w173109870",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Memorial Park Boulevard",
       "lat": 40.94758,
       "lng": -83.38284,
       "sports": [
@@ -10030,8 +10030,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Memorial Park Boulevard",
+      "city": "Carey",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -10792,7 +10792,7 @@
     },
     {
       "id": "osm-w191203826",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 5th Avenue",
       "lat": 39.139536,
       "lng": -84.366389,
       "sports": [
@@ -10804,8 +10804,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "5th Avenue",
+      "city": "Hamilton County",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -10814,7 +10814,7 @@
     },
     {
       "id": "osm-w191203828",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Pavillion Court",
       "lat": 39.139834,
       "lng": -84.367798,
       "sports": [
@@ -10826,8 +10826,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pavillion Court",
+      "city": "Hamilton County",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -11583,7 +11583,7 @@
     },
     {
       "id": "osm-w217214652",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Maple Street",
       "lat": 40.875107,
       "lng": -81.417719,
       "sports": [
@@ -11595,8 +11595,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Maple Street",
+      "city": "North Canton",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -12766,7 +12766,7 @@
     },
     {
       "id": "osm-w243016128",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Delaware Drive",
       "lat": 40.115383,
       "lng": -82.905335,
       "sports": [
@@ -12778,8 +12778,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Delaware Drive",
+      "city": "Westerville",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -13439,7 +13439,7 @@
     },
     {
       "id": "osm-w263302899",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Parkview Drive",
       "lat": 41.583365,
       "lng": -83.890478,
       "sports": [
@@ -13451,8 +13451,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Parkview Drive",
+      "city": "Swanton",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -13797,7 +13797,7 @@
     },
     {
       "id": "osm-w274101633",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Howe Road",
       "lat": 41.115064,
       "lng": -81.401706,
       "sports": [
@@ -13809,8 +13809,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Howe Road",
+      "city": "Tallmadge",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -14141,7 +14141,7 @@
     },
     {
       "id": "osm-w288585423",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lake Street",
       "lat": 40.306514,
       "lng": -83.059051,
       "sports": [
@@ -14153,8 +14153,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lake Street",
+      "city": "Delaware",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -14223,7 +14223,7 @@
     },
     {
       "id": "osm-w291239140",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Western Avenue",
       "lat": 41.013805,
       "lng": -83.659589,
       "sports": [
@@ -14235,8 +14235,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Western Avenue",
+      "city": "Findlay",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -14245,7 +14245,7 @@
     },
     {
       "id": "osm-w291272424",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Eisenhower Trail",
       "lat": 41.020375,
       "lng": -80.649183,
       "sports": [
@@ -14258,8 +14258,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Eisenhower Trail",
+      "city": "Mahoning County",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -14350,7 +14350,7 @@
     },
     {
       "id": "osm-w295376516",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Kentigern Court North",
       "lat": 40.139988,
       "lng": -83.154425,
       "sports": [
@@ -14362,8 +14362,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kentigern Court North",
+      "city": "Dublin",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -14479,7 +14479,7 @@
     },
     {
       "id": "osm-w302853974",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ontario Street",
       "lat": 41.106098,
       "lng": -81.504591,
       "sports": [
@@ -14491,8 +14491,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ontario Street",
+      "city": "Akron",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -14893,7 +14893,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Tiffin",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -15005,7 +15005,7 @@
     },
     {
       "id": "osm-w315047418",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hayes Street",
       "lat": 40.293294,
       "lng": -83.064608,
       "sports": [
@@ -15017,8 +15017,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hayes Street",
+      "city": "Delaware",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -15192,7 +15192,7 @@
     },
     {
       "id": "osm-w324127157",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Southfield Road",
       "lat": 40.066765,
       "lng": -82.829447,
       "sports": [
@@ -15205,8 +15205,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Southfield Road",
+      "city": "New Albany",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -15862,7 +15862,7 @@
     },
     {
       "id": "osm-w342209175",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hike-Bike Trail",
       "lat": 41.312618,
       "lng": -81.140399,
       "sports": [
@@ -15875,8 +15875,8 @@
       "indoor": null,
       "access": "customers",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hike-Bike Trail",
+      "city": "Hiram",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -15985,7 +15985,7 @@
     },
     {
       "id": "osm-w346068350",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Catalpa Drive",
       "lat": 40.229821,
       "lng": -84.493499,
       "sports": [
@@ -15997,8 +15997,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Catalpa Drive",
+      "city": "Versailles",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -16341,7 +16341,7 @@
     },
     {
       "id": "osm-w363746837",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Pacesetter-Centennial Trail",
       "lat": 41.715674,
       "lng": -83.746538,
       "sports": [
@@ -16353,8 +16353,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pacesetter-Centennial Trail",
+      "city": "Sylvania",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -16593,7 +16593,7 @@
     },
     {
       "id": "osm-w378948242",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Meadow Brook Campgrounds",
       "lat": 41.128635,
       "lng": -83.274349,
       "sports": [
@@ -16605,8 +16605,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Meadow Brook Campgrounds",
+      "city": "Seneca County",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -16615,7 +16615,7 @@
     },
     {
       "id": "osm-w379243451",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Spring Street",
       "lat": 41.675319,
       "lng": -84.323347,
       "sports": [
@@ -16627,8 +16627,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Spring Street",
+      "city": "Fayette",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -16741,7 +16741,7 @@
     },
     {
       "id": "osm-w384222714",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Sentinel-Tribune Community Walkway",
       "lat": 41.378657,
       "lng": -83.626668,
       "sports": [
@@ -16753,8 +16753,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sentinel-Tribune Community Walkway",
+      "city": "Bowling Green",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -16783,7 +16783,7 @@
     },
     {
       "id": "osm-w384569590",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Parmly Road",
       "lat": 41.794002,
       "lng": -81.162521,
       "sports": [
@@ -16795,8 +16795,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Parmly Road",
+      "city": "Lake County",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -16948,7 +16948,7 @@
     },
     {
       "id": "osm-w386820907",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · King Avenue",
       "lat": 40.300293,
       "lng": -83.079242,
       "sports": [
@@ -16960,8 +16960,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "King Avenue",
+      "city": "Delaware",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -16970,7 +16970,7 @@
     },
     {
       "id": "osm-w387204730",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Arrow Wood Circle",
       "lat": 40.545959,
       "lng": -82.763115,
       "sports": [
@@ -16982,8 +16982,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Arrow Wood Circle",
+      "city": "Morrow County",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -17096,7 +17096,7 @@
     },
     {
       "id": "osm-w395841584",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Watkins Road Southwest",
       "lat": 39.965114,
       "lng": -82.648453,
       "sports": [
@@ -17108,8 +17108,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Watkins Road Southwest",
+      "city": "Licking County",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -17202,7 +17202,7 @@
     },
     {
       "id": "osm-w402523783",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Miami Street",
       "lat": 41.120305,
       "lng": -83.189504,
       "sports": [
@@ -17214,8 +17214,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Miami Street",
+      "city": "Tiffin",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -17899,7 +17899,7 @@
     },
     {
       "id": "osm-w457622946",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Morrison Road",
       "lat": 41.312759,
       "lng": -83.133171,
       "sports": [
@@ -17911,8 +17911,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Morrison Road",
+      "city": "Ballville",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -18001,7 +18001,7 @@
     },
     {
       "id": "osm-w462589307",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Milton Avenue",
       "lat": 41.601736,
       "lng": -81.523938,
       "sports": [
@@ -18013,8 +18013,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Milton Avenue",
+      "city": "Euclid",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -18101,7 +18101,7 @@
     },
     {
       "id": "osm-w463924512",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hocking Parkway",
       "lat": 39.441221,
       "lng": -82.221942,
       "sports": [
@@ -18113,8 +18113,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hocking Parkway",
+      "city": "Nelsonville",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -18165,7 +18165,7 @@
     },
     {
       "id": "osm-w465291380",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Executive Court",
       "lat": 40.131195,
       "lng": -82.935725,
       "sports": [
@@ -18177,8 +18177,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Executive Court",
+      "city": "Westerville",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -18390,7 +18390,7 @@
     },
     {
       "id": "osm-w470527756",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Dogwood Avenue Northeast",
       "lat": 40.883614,
       "lng": -81.398194,
       "sports": [
@@ -18402,8 +18402,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Dogwood Avenue Northeast",
+      "city": "North Canton",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -19010,7 +19010,7 @@
     },
     {
       "id": "osm-w521684257",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Wayne Street",
       "lat": 40.556321,
       "lng": -84.556586,
       "sports": [
@@ -19022,8 +19022,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Wayne Street",
+      "city": "Celina",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -19150,7 +19150,7 @@
     },
     {
       "id": "osm-w527807731",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Babbert Way",
       "lat": 39.875082,
       "lng": -83.093873,
       "sports": [
@@ -19162,8 +19162,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Babbert Way",
+      "city": "Grove City",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -19281,7 +19281,7 @@
     },
     {
       "id": "osm-w537306910",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Shoal Way",
       "lat": 40.199634,
       "lng": -83.099878,
       "sports": [
@@ -19293,8 +19293,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Shoal Way",
+      "city": "Delaware County",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -19635,7 +19635,7 @@
     },
     {
       "id": "osm-w547978363",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Mount Holyoke Road",
       "lat": 40.016887,
       "lng": -83.053645,
       "sports": [
@@ -19647,8 +19647,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mount Holyoke Road",
+      "city": "Upper Arlington",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -19822,7 +19822,7 @@
     },
     {
       "id": "osm-w550348000",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wedgewood Boulevard",
       "lat": 40.157008,
       "lng": -83.100143,
       "sports": [
@@ -19834,15 +19834,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wedgewood Boulevard",
+      "city": "Delaware County",
       "state": "OH",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w550348025",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fairway Drive",
       "lat": 40.156286,
       "lng": -83.098382,
       "sports": [
@@ -19854,8 +19854,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fairway Drive",
+      "city": "Delaware County",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -20198,7 +20198,7 @@
     },
     {
       "id": "osm-w554444573",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Clubview Boulevard North",
       "lat": 40.130262,
       "lng": -83.051623,
       "sports": [
@@ -20210,8 +20210,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Clubview Boulevard North",
+      "city": "Franklin County",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -20220,7 +20220,7 @@
     },
     {
       "id": "osm-w554444624",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Clubview Boulevard South",
       "lat": 40.123586,
       "lng": -83.04602,
       "sports": [
@@ -20232,8 +20232,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Clubview Boulevard South",
+      "city": "Franklin County",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -20882,7 +20882,7 @@
     },
     {
       "id": "osm-w583476575",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Veterans Memorial Drive",
       "lat": 40.030023,
       "lng": -83.170652,
       "sports": [
@@ -20894,8 +20894,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Veterans Memorial Drive",
+      "city": "Hilliard",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -21242,7 +21242,7 @@
     },
     {
       "id": "osm-w590841254",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Edgewater Boulevard",
       "lat": 41.428975,
       "lng": -82.314375,
       "sports": [
@@ -21254,8 +21254,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Edgewater Boulevard",
+      "city": "Vermilion",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -21472,7 +21472,7 @@
     },
     {
       "id": "osm-w609304596",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Southwest Crossing",
       "lat": 39.896918,
       "lng": -83.116339,
       "sports": [
@@ -21484,8 +21484,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Southwest Crossing",
+      "city": "Grove City",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -21596,7 +21596,7 @@
     },
     {
       "id": "osm-w622973682",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Foxhound Lane",
       "lat": 40.086543,
       "lng": -82.874588,
       "sports": [
@@ -21608,8 +21608,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Foxhound Lane",
+      "city": "Columbus",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -21825,7 +21825,7 @@
     },
     {
       "id": "osm-w631392939",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Jonathan Avenue",
       "lat": 39.142767,
       "lng": -84.479448,
       "sports": [
@@ -21837,8 +21837,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Jonathan Avenue",
+      "city": "Cincinnati",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -22331,7 +22331,7 @@
     },
     {
       "id": "osm-w637155881",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Opportunity Way",
       "lat": 39.878032,
       "lng": -82.754754,
       "sports": [
@@ -22343,8 +22343,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Opportunity Way",
+      "city": "Pickerington",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -22816,7 +22816,7 @@
     },
     {
       "id": "osm-w677462470",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Red Trail",
       "lat": 41.154028,
       "lng": -81.440945,
       "sports": [
@@ -22828,8 +22828,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Red Trail",
+      "city": "Stow",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -23127,7 +23127,7 @@
     },
     {
       "id": "osm-w701210295",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · US 33",
       "lat": 39.535665,
       "lng": -82.422373,
       "sports": [
@@ -23139,8 +23139,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "US 33",
+      "city": "Logan",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -23237,7 +23237,7 @@
     },
     {
       "id": "osm-w706085991",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Vi-Lilly Circle West",
       "lat": 39.868266,
       "lng": -83.073274,
       "sports": [
@@ -23249,8 +23249,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Vi-Lilly Circle West",
+      "city": "Grove City",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -23299,7 +23299,7 @@
     },
     {
       "id": "osm-w717951683",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Louis Moore Memorial Walking Trail",
       "lat": 39.061579,
       "lng": -84.215277,
       "sports": [
@@ -23312,8 +23312,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Louis Moore Memorial Walking Trail",
+      "city": "Clermont County",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -23406,7 +23406,7 @@
     },
     {
       "id": "osm-w723235335",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East 2nd Street",
       "lat": 41.562559,
       "lng": -83.619638,
       "sports": [
@@ -23418,8 +23418,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 2nd Street",
+      "city": "Perrysburg",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -23554,7 +23554,7 @@
     },
     {
       "id": "osm-w728912646",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Club North Drive",
       "lat": 39.693915,
       "lng": -84.023338,
       "sports": [
@@ -23566,8 +23566,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Club North Drive",
+      "city": "Greene County",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -23834,7 +23834,7 @@
     },
     {
       "id": "osm-w729433136",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wasson Way",
       "lat": 39.144061,
       "lng": -84.415301,
       "sports": [
@@ -23847,8 +23847,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wasson Way",
+      "city": "Cincinnati",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -24163,7 +24163,7 @@
     },
     {
       "id": "osm-w754343818",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Glenwood Road",
       "lat": 41.607447,
       "lng": -83.557175,
       "sports": [
@@ -24175,8 +24175,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Glenwood Road",
+      "city": "Rossford",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -24455,7 +24455,7 @@
     },
     {
       "id": "osm-w758831188",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Langston Drive",
       "lat": 40.045934,
       "lng": -83.060631,
       "sports": [
@@ -24467,8 +24467,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Langston Drive",
+      "city": "Upper Arlington",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -24477,7 +24477,7 @@
     },
     {
       "id": "osm-w758839680",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Swansea Road",
       "lat": 40.023404,
       "lng": -83.085958,
       "sports": [
@@ -24489,8 +24489,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Swansea Road",
+      "city": "Upper Arlington",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -24665,7 +24665,7 @@
     },
     {
       "id": "osm-w773634923",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hillcrest Drive",
       "lat": 41.019727,
       "lng": -81.710384,
       "sports": [
@@ -24677,8 +24677,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hillcrest Drive",
+      "city": "Wadsworth",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -25131,7 +25131,7 @@
     },
     {
       "id": "osm-w846803480",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Green Avenue",
       "lat": 39.849811,
       "lng": -82.893886,
       "sports": [
@@ -25143,8 +25143,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Green Avenue",
+      "city": "Groveport",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -25587,14 +25587,14 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Defiance",
       "state": "OH",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w912786183",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Muirfield Court",
       "lat": 40.143629,
       "lng": -83.137954,
       "sports": [
@@ -25606,8 +25606,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Muirfield Court",
+      "city": "Dublin",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -25656,7 +25656,7 @@
     },
     {
       "id": "osm-w915306601",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Beech Street",
       "lat": 41.608404,
       "lng": -83.55456,
       "sports": [
@@ -25668,8 +25668,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Beech Street",
+      "city": "Rossford",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -25848,7 +25848,7 @@
     },
     {
       "id": "osm-w917581533",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · New Burg Street",
       "lat": 40.080191,
       "lng": -82.525719,
       "sports": [
@@ -25860,15 +25860,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "New Burg Street",
+      "city": "Granville",
       "state": "OH",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w917581814",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Achievement Circle Northwest",
       "lat": 39.911462,
       "lng": -82.731731,
       "sports": [
@@ -25880,8 +25880,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Achievement Circle Northwest",
+      "city": "Fairfield County",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -26012,7 +26012,7 @@
     },
     {
       "id": "osm-w917585452",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Kirkwood Drive",
       "lat": 39.941169,
       "lng": -83.289464,
       "sports": [
@@ -26024,8 +26024,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kirkwood Drive",
+      "city": "West Jefferson",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -26053,7 +26053,7 @@
     },
     {
       "id": "osm-w917585759",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lynn Street",
       "lat": 40.430113,
       "lng": -83.300054,
       "sports": [
@@ -26065,8 +26065,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lynn Street",
+      "city": "Richwood",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -26119,7 +26119,7 @@
     },
     {
       "id": "osm-w917817831",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hill Avenue",
       "lat": 41.637409,
       "lng": -83.649542,
       "sports": [
@@ -26131,8 +26131,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hill Avenue",
+      "city": "Toledo",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -26355,7 +26355,7 @@
     },
     {
       "id": "osm-w918762438",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bennett Avenue",
       "lat": 41.151698,
       "lng": -81.2378,
       "sports": [
@@ -26367,15 +26367,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bennett Avenue",
+      "city": "Ravenna",
       "state": "OH",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w918762693",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Yellow Trail",
       "lat": 41.152448,
       "lng": -81.443353,
       "sports": [
@@ -26387,8 +26387,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Yellow Trail",
+      "city": "Stow",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -26543,7 +26543,7 @@
     },
     {
       "id": "osm-w918936253",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Rock Road",
       "lat": 40.765893,
       "lng": -82.633133,
       "sports": [
@@ -26555,8 +26555,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Rock Road",
+      "city": "Ontario",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -26988,7 +26988,7 @@
     },
     {
       "id": "osm-w948500575",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Mitchell-Dewitt Road",
       "lat": 40.133752,
       "lng": -83.173926,
       "sports": [
@@ -27000,15 +27000,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mitchell-Dewitt Road",
+      "city": "Dublin",
       "state": "OH",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w953962809",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Hollyhock Drive",
       "lat": 40.100797,
       "lng": -82.809529,
       "sports": [
@@ -27020,8 +27020,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hollyhock Drive",
+      "city": "New Albany",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -27261,7 +27261,7 @@
     },
     {
       "id": "osm-w984543241",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Beloit Snodes Road",
       "lat": 40.910082,
       "lng": -80.9929,
       "sports": [
@@ -27273,8 +27273,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Beloit Snodes Road",
+      "city": "Beloit",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -27387,7 +27387,7 @@
     },
     {
       "id": "osm-w987200879",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Washington Street",
       "lat": 39.838975,
       "lng": -82.811191,
       "sports": [
@@ -27399,8 +27399,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Washington Street",
+      "city": "Canal Winchester",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -27636,7 +27636,7 @@
     },
     {
       "id": "osm-w1005088775",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Clinton Drive",
       "lat": 41.483121,
       "lng": -81.962361,
       "sports": [
@@ -27648,8 +27648,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Clinton Drive",
+      "city": "Bay Village",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -27722,7 +27722,7 @@
     },
     {
       "id": "osm-w1014213885",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Shaker Drive",
       "lat": 41.131239,
       "lng": -81.854358,
       "sports": [
@@ -27734,8 +27734,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Shaker Drive",
+      "city": "Medina",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -27849,7 +27849,7 @@
     },
     {
       "id": "osm-w1020164827",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fairwood Drive",
       "lat": 40.231714,
       "lng": -83.380432,
       "sports": [
@@ -27861,8 +27861,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fairwood Drive",
+      "city": "Marysville",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -28423,7 +28423,7 @@
     },
     {
       "id": "osm-w1059442570",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fairview Lane",
       "lat": 39.418635,
       "lng": -81.469695,
       "sports": [
@@ -28435,8 +28435,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fairview Lane",
+      "city": "Marietta",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -28463,7 +28463,7 @@
     },
     {
       "id": "osm-w1061444059",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Achievement Circle Northwest",
       "lat": 39.913373,
       "lng": -82.734217,
       "sports": [
@@ -28475,15 +28475,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Achievement Circle Northwest",
+      "city": "Fairfield County",
       "state": "OH",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1061542785",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lake Club Drive",
       "lat": 40.167303,
       "lng": -82.945494,
       "sports": [
@@ -28496,8 +28496,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lake Club Drive",
+      "city": "Delaware County",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -28687,7 +28687,7 @@
     },
     {
       "id": "osm-w1069813138",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wellington Road",
       "lat": 41.486234,
       "lng": -81.567408,
       "sports": [
@@ -28699,8 +28699,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wellington Road",
+      "city": "Cleveland Heights",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -28764,7 +28764,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Geauga County",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -29341,7 +29341,7 @@
     },
     {
       "id": "osm-w1124322999",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Babbert Way",
       "lat": 39.874241,
       "lng": -83.096251,
       "sports": [
@@ -29353,8 +29353,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Babbert Way",
+      "city": "Grove City",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -29426,7 +29426,7 @@
     },
     {
       "id": "osm-w1125525070",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Crystal Clear Drive",
       "lat": 40.046546,
       "lng": -83.155355,
       "sports": [
@@ -29438,8 +29438,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Crystal Clear Drive",
+      "city": "Hilliard",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -29747,7 +29747,7 @@
     },
     {
       "id": "osm-w1128109634",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Springbrook Drive Northwest",
       "lat": 39.896334,
       "lng": -82.710681,
       "sports": [
@@ -29759,8 +29759,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Springbrook Drive Northwest",
+      "city": "Fairfield County",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -29918,7 +29918,7 @@
     },
     {
       "id": "osm-w1138114283",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Ellmarie Drive",
       "lat": 39.169344,
       "lng": -84.401113,
       "sports": [
@@ -29930,8 +29930,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ellmarie Drive",
+      "city": "Hamilton County",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -30432,7 +30432,7 @@
     },
     {
       "id": "osm-w1155937575",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Pioneer Trail",
       "lat": 41.297592,
       "lng": -81.227449,
       "sports": [
@@ -30444,8 +30444,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pioneer Trail",
+      "city": "Mantua Corners",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -30617,7 +30617,7 @@
     },
     {
       "id": "osm-w1157072658",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Park Drive",
       "lat": 41.34959,
       "lng": -82.102887,
       "sports": [
@@ -30629,8 +30629,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Park Drive",
+      "city": "Elyria",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -30983,7 +30983,7 @@
     },
     {
       "id": "osm-w1165944134",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Woodrow Drive",
       "lat": 41.721396,
       "lng": -83.706105,
       "sports": [
@@ -30995,8 +30995,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Woodrow Drive",
+      "city": "Sylvania",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -31045,7 +31045,7 @@
     },
     {
       "id": "osm-w1167432352",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wilderness Drive",
       "lat": 41.588275,
       "lng": -83.640245,
       "sports": [
@@ -31057,8 +31057,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wilderness Drive",
+      "city": "Maumee",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -31171,7 +31171,7 @@
     },
     {
       "id": "osm-w1168831036",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Clegg Drive",
       "lat": 41.719712,
       "lng": -83.610466,
       "sports": [
@@ -31183,8 +31183,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Clegg Drive",
+      "city": "Toledo",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -31605,7 +31605,7 @@
     },
     {
       "id": "osm-w1181856787",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East 8th Street",
       "lat": 40.874732,
       "lng": -82.293877,
       "sports": [
@@ -31617,8 +31617,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 8th Street",
+      "city": "Ashland",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -32047,7 +32047,7 @@
     },
     {
       "id": "osm-w1228038954",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Marion-Franklin Walking path",
       "lat": 39.908565,
       "lng": -82.967913,
       "sports": [
@@ -32059,8 +32059,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Marion-Franklin Walking path",
+      "city": "Columbus",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -32357,7 +32357,7 @@
     },
     {
       "id": "osm-w1246163408",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Mystic Way",
       "lat": 39.888421,
       "lng": -83.103567,
       "sports": [
@@ -32369,8 +32369,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mystic Way",
+      "city": "Grove City",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -32398,7 +32398,7 @@
     },
     {
       "id": "osm-w1251360724",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Shasta Drive",
       "lat": 39.720664,
       "lng": -82.637564,
       "sports": [
@@ -32410,8 +32410,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Shasta Drive",
+      "city": "Lancaster",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -32847,7 +32847,7 @@
     },
     {
       "id": "osm-w1277942500",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Secrest Avenue",
       "lat": 39.859035,
       "lng": -82.972401,
       "sports": [
@@ -32859,15 +32859,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Secrest Avenue",
+      "city": "Franklin County",
       "state": "OH",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1277943788",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lattimer Drive",
       "lat": 39.941433,
       "lng": -82.865817,
       "sports": [
@@ -32879,8 +32879,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lattimer Drive",
+      "city": "Columbus",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -32931,7 +32931,7 @@
     },
     {
       "id": "osm-w1280202338",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Sharon Valley Road",
       "lat": 40.073384,
       "lng": -82.441747,
       "sports": [
@@ -32943,8 +32943,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sharon Valley Road",
+      "city": "Newark",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -32995,7 +32995,7 @@
     },
     {
       "id": "osm-w1281257803",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South 10th Street",
       "lat": 38.526708,
       "lng": -82.668647,
       "sports": [
@@ -33007,15 +33007,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South 10th Street",
+      "city": "Ironton",
       "state": "OH",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1281259304",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Kendrick Avenue",
       "lat": 39.330137,
       "lng": -83.002235,
       "sports": [
@@ -33027,8 +33027,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kendrick Avenue",
+      "city": "Chillicothe",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -33057,7 +33057,7 @@
     },
     {
       "id": "osm-w1285436677",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Harbors Edge Drive",
       "lat": 41.569399,
       "lng": -82.849439,
       "sports": [
@@ -33069,8 +33069,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Harbors Edge Drive",
+      "city": "Ottawa County",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -33121,7 +33121,7 @@
     },
     {
       "id": "osm-w1290439741",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Maverick Drive",
       "lat": 39.160176,
       "lng": -84.442254,
       "sports": [
@@ -33133,8 +33133,8 @@
       "indoor": null,
       "access": "customers",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Maverick Drive",
+      "city": "Norwood",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -33271,7 +33271,7 @@
     },
     {
       "id": "osm-w1297139919",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Lakeland Parkway",
       "lat": 41.162609,
       "lng": -81.468386,
       "sports": [
@@ -33283,8 +33283,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lakeland Parkway",
+      "city": "Silver Lake",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -33379,7 +33379,7 @@
     },
     {
       "id": "osm-w1302535345",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Front Street",
       "lat": 39.72704,
       "lng": -82.639182,
       "sports": [
@@ -33392,8 +33392,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Front Street",
+      "city": "Lancaster",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -33672,7 +33672,7 @@
     },
     {
       "id": "osm-w1313881975",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Davidson Drive",
       "lat": 39.952708,
       "lng": -82.804208,
       "sports": [
@@ -33684,8 +33684,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Davidson Drive",
+      "city": "Reynoldsburg",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -33971,7 +33971,7 @@
     },
     {
       "id": "osm-w1314965411",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wright Park",
       "lat": 39.959595,
       "lng": -82.888658,
       "sports": [
@@ -33983,8 +33983,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wright Park",
+      "city": "Whitehall",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -34095,7 +34095,7 @@
     },
     {
       "id": "osm-w1321583024",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Riding Club Lane",
       "lat": 39.95311,
       "lng": -82.858303,
       "sports": [
@@ -34107,8 +34107,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Riding Club Lane",
+      "city": "Columbus",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -34353,7 +34353,7 @@
     },
     {
       "id": "osm-w1332519024",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Clough Pike",
       "lat": 39.066613,
       "lng": -84.204341,
       "sports": [
@@ -34365,8 +34365,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Clough Pike",
+      "city": "Batavia",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -34615,7 +34615,7 @@
     },
     {
       "id": "osm-w1334996763",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Etna Road",
       "lat": 39.962742,
       "lng": -82.870192,
       "sports": [
@@ -34627,8 +34627,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Etna Road",
+      "city": "Whitehall",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -34679,7 +34679,7 @@
     },
     {
       "id": "osm-w1337189823",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Paxton South",
       "lat": 39.220382,
       "lng": -84.244152,
       "sports": [
@@ -34691,8 +34691,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Paxton South",
+      "city": "Clermont County",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -34701,7 +34701,7 @@
     },
     {
       "id": "osm-w1337189824",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Barrington Circle",
       "lat": 39.221671,
       "lng": -84.238427,
       "sports": [
@@ -34713,8 +34713,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Barrington Circle",
+      "city": "Clermont County",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -34723,7 +34723,7 @@
     },
     {
       "id": "osm-w1337189831",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bridgehaven Drive",
       "lat": 39.196719,
       "lng": -84.256485,
       "sports": [
@@ -34735,8 +34735,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bridgehaven Drive",
+      "city": "Mulberry",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -34787,7 +34787,7 @@
     },
     {
       "id": "osm-w1337586516",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Macon Court",
       "lat": 39.224772,
       "lng": -84.234469,
       "sports": [
@@ -34799,8 +34799,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Macon Court",
+      "city": "Clermont County",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -34873,7 +34873,7 @@
     },
     {
       "id": "osm-w1339754874",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Clough Pike",
       "lat": 39.106231,
       "lng": -84.383093,
       "sports": [
@@ -34885,8 +34885,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Clough Pike",
+      "city": "Hamilton County",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -34957,7 +34957,7 @@
     },
     {
       "id": "osm-w1347342902",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · South Haley Street",
       "lat": 41.369665,
       "lng": -83.939931,
       "sports": [
@@ -34969,8 +34969,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Haley Street",
+      "city": "McClure",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -35147,7 +35147,7 @@
     },
     {
       "id": "osm-w1362987967",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Chapel Street",
       "lat": 39.958304,
       "lng": -83.01261,
       "sports": [
@@ -35159,8 +35159,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Chapel Street",
+      "city": "Columbus",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -35249,7 +35249,7 @@
     },
     {
       "id": "osm-w1369684761",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 210",
       "lat": 39.637428,
       "lng": -83.240881,
       "sports": [
@@ -35261,8 +35261,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "210",
+      "city": "Pickaway County",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -35526,7 +35526,7 @@
     },
     {
       "id": "osm-w1381676785",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Commerce Parkway",
       "lat": 40.101948,
       "lng": -83.141364,
       "sports": [
@@ -35538,8 +35538,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Commerce Parkway",
+      "city": "Dublin",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -35632,7 +35632,7 @@
     },
     {
       "id": "osm-w1390239443",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Oxley Road",
       "lat": 39.986626,
       "lng": -83.034724,
       "sports": [
@@ -35644,8 +35644,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Oxley Road",
+      "city": "Columbus",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -35840,7 +35840,7 @@
     },
     {
       "id": "osm-w1409257710",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Community Park Drive",
       "lat": 40.101461,
       "lng": -82.95462,
       "sports": [
@@ -35852,8 +35852,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Community Park Drive",
+      "city": "Columbus",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -35928,7 +35928,7 @@
     },
     {
       "id": "osm-w1413936869",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North Road",
       "lat": 40.203219,
       "lng": -83.0149,
       "sports": [
@@ -35940,8 +35940,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Road",
+      "city": "Delaware County",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -36391,7 +36391,7 @@
     },
     {
       "id": "osm-w1432348909",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · New Albany Links Drive",
       "lat": 40.10065,
       "lng": -82.786845,
       "sports": [
@@ -36403,8 +36403,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "New Albany Links Drive",
+      "city": "New Albany",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -36693,7 +36693,7 @@
     },
     {
       "id": "osm-w1435167680",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Home Road",
       "lat": 40.192343,
       "lng": -83.085961,
       "sports": [
@@ -36705,8 +36705,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Home Road",
+      "city": "Delaware County",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -36925,7 +36925,7 @@
     },
     {
       "id": "osm-w1442171274",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wood Creek Drive",
       "lat": 39.203636,
       "lng": -84.257921,
       "sports": [
@@ -36937,8 +36937,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wood Creek Drive",
+      "city": "Mulberry",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -37055,7 +37055,7 @@
     },
     {
       "id": "osm-w1442636486",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Rolling Hill Road",
       "lat": 41.635986,
       "lng": -83.754532,
       "sports": [
@@ -37068,15 +37068,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rolling Hill Road",
+      "city": "Lucas County",
       "state": "OH",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1442951104",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Windbrook Trail",
       "lat": 39.348484,
       "lng": -84.442743,
       "sports": [
@@ -37088,8 +37088,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Windbrook Trail",
+      "city": "Butler County",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -37507,7 +37507,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Delaware County",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -37732,7 +37732,7 @@
     },
     {
       "id": "osm-w1456925333",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Schreiber Road",
       "lat": 41.385811,
       "lng": -81.59298,
       "sports": [
@@ -37744,8 +37744,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Schreiber Road",
+      "city": "Valley View",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -37798,7 +37798,7 @@
     },
     {
       "id": "osm-w1458165579",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · White Cap Drive",
       "lat": 40.196608,
       "lng": -83.081757,
       "sports": [
@@ -37810,8 +37810,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "White Cap Drive",
+      "city": "Delaware County",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -38121,7 +38121,7 @@
     },
     {
       "id": "osm-w1468983026",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Monarch Trail",
       "lat": 41.319291,
       "lng": -81.460062,
       "sports": [
@@ -38133,8 +38133,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Monarch Trail",
+      "city": "Twinsburg",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -38156,7 +38156,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Dayton",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -38297,7 +38297,7 @@
     },
     {
       "id": "osm-w1472490145",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · L'Ermitage Place",
       "lat": 41.168978,
       "lng": -81.410081,
       "sports": [
@@ -38309,8 +38309,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "L'Ermitage Place",
+      "city": "Stow",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -38488,7 +38488,7 @@
     },
     {
       "id": "osm-w1474822646",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Etna Street",
       "lat": 38.538729,
       "lng": -82.687858,
       "sports": [
@@ -38500,8 +38500,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Etna Street",
+      "city": "Ironton",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -39330,7 +39330,7 @@
     },
     {
       "id": "osm-w1481003793",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Clough Pike",
       "lat": 39.069967,
       "lng": -84.251134,
       "sports": [
@@ -39342,8 +39342,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Clough Pike",
+      "city": "Clermont County",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -40247,7 +40247,7 @@
     },
     {
       "id": "osm-w1485428252",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Club House Drive",
       "lat": 39.12297,
       "lng": -84.344769,
       "sports": [
@@ -40259,8 +40259,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Club House Drive",
+      "city": "Newtown",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -40289,7 +40289,7 @@
     },
     {
       "id": "osm-w1485429351",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Asbury Road",
       "lat": 39.049635,
       "lng": -84.349799,
       "sports": [
@@ -40301,8 +40301,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Asbury Road",
+      "city": "Coldstream",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -40517,7 +40517,7 @@
     },
     {
       "id": "osm-w1485741132",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Campbell Street",
       "lat": 41.412902,
       "lng": -82.700572,
       "sports": [
@@ -40529,8 +40529,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Campbell Street",
+      "city": "Erie County",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -40580,7 +40580,7 @@
     },
     {
       "id": "osm-w1486701315",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Euclid Chardon Road",
       "lat": 41.582321,
       "lng": -81.361069,
       "sports": [
@@ -40592,8 +40592,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Euclid Chardon Road",
+      "city": "Kirtland",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -40745,7 +40745,7 @@
     },
     {
       "id": "osm-w1486911638",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Coffman Park Drive",
       "lat": 40.104434,
       "lng": -83.135363,
       "sports": [
@@ -40758,8 +40758,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Coffman Park Drive",
+      "city": "Dublin",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -40850,7 +40850,7 @@
     },
     {
       "id": "osm-w1486915898",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Sleepy Hollow Drive",
       "lat": 40.257078,
       "lng": -81.847802,
       "sports": [
@@ -40862,8 +40862,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sleepy Hollow Drive",
+      "city": "Coshocton",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -41231,7 +41231,7 @@
     },
     {
       "id": "osm-w1487031469",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Goodale Boulevard",
       "lat": 39.976419,
       "lng": -83.050217,
       "sports": [
@@ -41243,8 +41243,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Goodale Boulevard",
+      "city": "Grandview Heights",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -42110,7 +42110,7 @@
     },
     {
       "id": "osm-w1489468864",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cheyenne Drive",
       "lat": 39.955613,
       "lng": -83.490568,
       "sports": [
@@ -42123,8 +42123,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cheyenne Drive",
+      "city": "Madison County",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -42443,7 +42443,7 @@
     },
     {
       "id": "osm-w1489932902",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Tomahawk Trail",
       "lat": 40.164468,
       "lng": -84.202971,
       "sports": [
@@ -42455,8 +42455,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Tomahawk Trail",
+      "city": "Piqua",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -43252,7 +43252,7 @@
     },
     {
       "id": "osm-w1490415838",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · State Route 48",
       "lat": 39.540112,
       "lng": -84.167122,
       "sports": [
@@ -43264,8 +43264,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "State Route 48",
+      "city": "Warren County",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -43497,7 +43497,7 @@
     },
     {
       "id": "osm-w1490707307",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Prospect Street",
       "lat": 41.239185,
       "lng": -82.124515,
       "sports": [
@@ -43509,8 +43509,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Prospect Street",
+      "city": "LaGrange",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -43987,7 +43987,7 @@
     },
     {
       "id": "osm-w1490873969",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bridgetown Road",
       "lat": 39.173095,
       "lng": -84.70505,
       "sports": [
@@ -44000,8 +44000,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bridgetown Road",
+      "city": "Hamilton County",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -44134,7 +44134,7 @@
     },
     {
       "id": "osm-w1490875475",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Little Miami Scenic Trail",
       "lat": 39.24326,
       "lng": -84.292408,
       "sports": [
@@ -44146,8 +44146,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Little Miami Scenic Trail",
+      "city": "Clermont County",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -44621,7 +44621,7 @@
     },
     {
       "id": "osm-w1511784100",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · May Street",
       "lat": 40.551992,
       "lng": -84.548257,
       "sports": [
@@ -44633,8 +44633,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "May Street",
+      "city": "Celina",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -45068,7 +45068,7 @@
     },
     {
       "id": "osm-w1526399898",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Nottingham Loop",
       "lat": 40.108904,
       "lng": -82.814684,
       "sports": [
@@ -45080,8 +45080,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Nottingham Loop",
+      "city": "Franklin County",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -45090,7 +45090,7 @@
     },
     {
       "id": "osm-w1526888600",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Serena Drive",
       "lat": 40.252405,
       "lng": -81.856969,
       "sports": [
@@ -45102,8 +45102,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Serena Drive",
+      "city": "Coshocton",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -45473,7 +45473,7 @@
     },
     {
       "id": "osm-w1537248721",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Township Highway 211",
       "lat": 40.398122,
       "lng": -80.82658,
       "sports": [
@@ -45485,8 +45485,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Township Highway 211",
+      "city": "Jefferson County",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -45559,7 +45559,7 @@
     },
     {
       "id": "osm-w1537252951",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Moss Hill Drive",
       "lat": 40.864329,
       "lng": -82.325206,
       "sports": [
@@ -45571,8 +45571,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Moss Hill Drive",
+      "city": "Ashland",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -46029,7 +46029,7 @@
     },
     {
       "id": "osm-w1543063740",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Park Road Number 1",
       "lat": 39.217111,
       "lng": -84.057963,
       "sports": [
@@ -46041,8 +46041,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Park Road Number 1",
+      "city": "Clermont County",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -46095,7 +46095,7 @@
     },
     {
       "id": "osm-w1548715906",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Lavender Lane",
       "lat": 41.29601,
       "lng": -81.628889,
       "sports": [
@@ -46107,8 +46107,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lavender Lane",
+      "city": "Brecksville",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -46181,7 +46181,7 @@
     },
     {
       "id": "osm-w1549856251",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Duncan Run Road",
       "lat": 39.855853,
       "lng": -81.90901,
       "sports": [
@@ -46193,8 +46193,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Duncan Run Road",
+      "city": "Philo",
       "state": "OH",
       "source": "osm",
       "tags": {}
@@ -46410,7 +46410,7 @@
     },
     {
       "id": "osm-w1558614227",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Lewis Center Road",
       "lat": 40.199867,
       "lng": -83.004043,
       "sports": [
@@ -46422,15 +46422,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lewis Center Road",
+      "city": "Delaware County",
       "state": "OH",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1558733537",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Canada Road",
       "lat": 41.274824,
       "lng": -81.218645,
       "sports": [
@@ -46442,8 +46442,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Canada Road",
+      "city": "Mantua",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -46452,7 +46452,7 @@
     },
     {
       "id": "osm-w1559421707",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Coldbrook Drive",
       "lat": 41.294458,
       "lng": -81.215607,
       "sports": [
@@ -46464,8 +46464,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Coldbrook Drive",
+      "city": "Mantua Corners",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -46474,7 +46474,7 @@
     },
     {
       "id": "osm-w1560418244",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Northhampton Drive",
       "lat": 40.144482,
       "lng": -83.090357,
       "sports": [
@@ -46486,8 +46486,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northhampton Drive",
+      "city": "Delaware County",
       "state": "OH",
       "source": "osm",
       "tags": {
@@ -46496,7 +46496,7 @@
     },
     {
       "id": "osm-w1560552377",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Locust Street",
       "lat": 38.945359,
       "lng": -82.10996,
       "sports": [
@@ -46508,8 +46508,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Locust Street",
+      "city": "Gallia County",
       "state": "OH",
       "source": "osm",
       "tags": {

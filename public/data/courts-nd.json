@@ -371,7 +371,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Dickinson",
       "state": "ND",
       "source": "osm",
       "tags": {}
@@ -738,7 +738,7 @@
     },
     {
       "id": "osm-w243480072",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 42nd Street South",
       "lat": 46.85141,
       "lng": -96.851785,
       "sports": [
@@ -750,8 +750,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "42nd Street South",
+      "city": "Fargo",
       "state": "ND",
       "source": "osm",
       "tags": {
@@ -782,7 +782,7 @@
     },
     {
       "id": "osm-w244295504",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 18th Avenue South",
       "lat": 46.853302,
       "lng": -96.849023,
       "sports": [
@@ -794,8 +794,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "18th Avenue South",
+      "city": "Fargo",
       "state": "ND",
       "source": "osm",
       "tags": {
@@ -3521,7 +3521,7 @@
     },
     {
       "id": "osm-w1311298187",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · State Highway 19",
       "lat": 48.110511,
       "lng": -99.177484,
       "sports": [
@@ -3533,8 +3533,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "State Highway 19",
+      "city": "Benson County",
       "state": "ND",
       "source": "osm",
       "tags": {
@@ -3585,7 +3585,7 @@
     },
     {
       "id": "osm-w1388314595",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Rainia Way West",
       "lat": 46.806281,
       "lng": -96.913679,
       "sports": [
@@ -3597,8 +3597,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rainia Way West",
+      "city": "West Fargo",
       "state": "ND",
       "source": "osm",
       "tags": {
@@ -3850,7 +3850,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Stanley Township",
       "state": "ND",
       "source": "osm",
       "tags": {}
@@ -3899,7 +3899,7 @@
     },
     {
       "id": "osm-w1560543308",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ramsland Avenue",
       "lat": 47.311401,
       "lng": -98.190641,
       "sports": [
@@ -3911,8 +3911,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ramsland Avenue",
+      "city": "Hannaford",
       "state": "ND",
       "source": "osm",
       "tags": {

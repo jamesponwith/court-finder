@@ -824,7 +824,7 @@
     },
     {
       "id": "osm-w366020665",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Fork Road",
       "lat": 45.904643,
       "lng": -114.177547,
       "sports": [
@@ -836,8 +836,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Fork Road",
+      "city": "Ravalli County",
       "state": "MT",
       "source": "osm",
       "tags": {
@@ -1199,7 +1199,7 @@
     },
     {
       "id": "osm-w500021140",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Box Elder Avenue",
       "lat": 45.883522,
       "lng": -106.626138,
       "sports": [
@@ -1211,8 +1211,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Box Elder Avenue",
+      "city": "Colstrip",
       "state": "MT",
       "source": "osm",
       "tags": {
@@ -1391,7 +1391,7 @@
     },
     {
       "id": "osm-w606114346",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fairmont Road",
       "lat": 46.042645,
       "lng": -112.810621,
       "sports": [
@@ -1403,8 +1403,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fairmont Road",
+      "city": "Butte",
       "state": "MT",
       "source": "osm",
       "tags": {
@@ -2494,7 +2494,7 @@
     },
     {
       "id": "osm-w1257463799",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 13th Street",
       "lat": 47.817914,
       "lng": -110.672569,
       "sports": [
@@ -2506,8 +2506,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "13th Street",
+      "city": "Fort Benton",
       "state": "MT",
       "source": "osm",
       "tags": {
@@ -2689,7 +2689,7 @@
     },
     {
       "id": "osm-w1328900270",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Stock Farm Road",
       "lat": 46.256719,
       "lng": -114.055298,
       "sports": [
@@ -2701,8 +2701,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Stock Farm Road",
+      "city": "Ravalli County",
       "state": "MT",
       "source": "osm",
       "tags": {}
@@ -2817,7 +2817,7 @@
     },
     {
       "id": "osm-w1340465488",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Russell Drive",
       "lat": 46.140578,
       "lng": -114.163834,
       "sports": [
@@ -2829,8 +2829,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Russell Drive",
+      "city": "Ravalli County",
       "state": "MT",
       "source": "osm",
       "tags": {
@@ -2861,7 +2861,7 @@
     },
     {
       "id": "osm-w1346972750",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Mountain Chickadee Lane",
       "lat": 47.691838,
       "lng": -114.121045,
       "sports": [
@@ -2873,8 +2873,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mountain Chickadee Lane",
+      "city": "Lake County",
       "state": "MT",
       "source": "osm",
       "tags": {}
@@ -2903,7 +2903,7 @@
     },
     {
       "id": "osm-w1349356455",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fairway Drive",
       "lat": 48.405186,
       "lng": -114.358528,
       "sports": [
@@ -2915,8 +2915,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fairway Drive",
+      "city": "Whitefish",
       "state": "MT",
       "source": "osm",
       "tags": {
@@ -3244,7 +3244,7 @@
     },
     {
       "id": "osm-w1446191716",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Higgins Avenue",
       "lat": 46.402753,
       "lng": -112.728758,
       "sports": [
@@ -3256,8 +3256,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Higgins Avenue",
+      "city": "Deer Lodge",
       "state": "MT",
       "source": "osm",
       "tags": {
@@ -3408,7 +3408,7 @@
     },
     {
       "id": "osm-w1448356318",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Leighton Boulevard",
       "lat": 46.411477,
       "lng": -105.821716,
       "sports": [
@@ -3420,8 +3420,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Leighton Boulevard",
+      "city": "Custer County",
       "state": "MT",
       "source": "osm",
       "tags": {

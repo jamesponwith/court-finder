@@ -117,7 +117,7 @@
     },
     {
       "id": "osm-n13915683140",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Monroe Street",
       "lat": 38.663942,
       "lng": -86.454391,
       "sports": [
@@ -129,8 +129,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Monroe Street",
+      "city": "Orleans",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -431,7 +431,7 @@
     },
     {
       "id": "osm-w81946803",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · St. Marys Pathway",
       "lat": 41.049111,
       "lng": -85.159774,
       "sports": [
@@ -443,8 +443,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "St. Marys Pathway",
+      "city": "Fort Wayne",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -849,7 +849,7 @@
     },
     {
       "id": "osm-w131400448",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Kilmer Lane",
       "lat": 39.896473,
       "lng": -86.037816,
       "sports": [
@@ -861,8 +861,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kilmer Lane",
+      "city": "Indianapolis",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -1165,7 +1165,7 @@
     },
     {
       "id": "osm-w155654760",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Sierra Spring",
       "lat": 39.929453,
       "lng": -86.128734,
       "sports": [
@@ -1177,8 +1177,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sierra Spring",
+      "city": "Carmel",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -1200,7 +1200,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Sullivan County",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -1343,7 +1343,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Nappanee",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -1370,7 +1370,7 @@
     },
     {
       "id": "osm-w167866198",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Sunnyside Road",
       "lat": 39.876458,
       "lng": -85.971399,
       "sports": [
@@ -1382,8 +1382,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sunnyside Road",
+      "city": "Lawrence",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -1433,7 +1433,7 @@
     },
     {
       "id": "osm-w170537732",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Royalty Drive",
       "lat": 39.967864,
       "lng": -85.914167,
       "sports": [
@@ -1445,15 +1445,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Royalty Drive",
+      "city": "Fishers",
       "state": "IN",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w171685079",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East 56th Street",
       "lat": 39.857633,
       "lng": -86.038509,
       "sports": [
@@ -1465,8 +1465,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 56th Street",
+      "city": "Lawrence",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -1559,7 +1559,7 @@
     },
     {
       "id": "osm-w178303846",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Riverside Drive",
       "lat": 41.686415,
       "lng": -86.2547,
       "sports": [
@@ -1571,8 +1571,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Riverside Drive",
+      "city": "South Bend",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -1639,7 +1639,7 @@
     },
     {
       "id": "osm-w179441097",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · River Walk Trail",
       "lat": 41.665343,
       "lng": -86.189385,
       "sports": [
@@ -1651,8 +1651,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "River Walk Trail",
+      "city": "Mishawaka",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -1911,7 +1911,7 @@
     },
     {
       "id": "osm-w197498112",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Willow Bend Trail",
       "lat": 39.997511,
       "lng": -86.252519,
       "sports": [
@@ -1923,8 +1923,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Willow Bend Trail",
+      "city": "Zionsville",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -1955,7 +1955,7 @@
     },
     {
       "id": "osm-w198746253",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Lincoln Street",
       "lat": 41.442126,
       "lng": -86.142536,
       "sports": [
@@ -1967,8 +1967,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Lincoln Street",
+      "city": "Bremen",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -1997,7 +1997,7 @@
     },
     {
       "id": "osm-w202503269",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ambleside Drive",
       "lat": 39.981598,
       "lng": -85.997119,
       "sports": [
@@ -2009,15 +2009,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ambleside Drive",
+      "city": "Fishers",
       "state": "IN",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w203344579",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Plymouth",
       "lat": 41.328824,
       "lng": -86.375871,
       "sports": [
@@ -2029,8 +2029,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Plymouth",
+      "city": "Marshall County",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -2544,7 +2544,7 @@
     },
     {
       "id": "osm-w232578412",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Binford Boulevard",
       "lat": 39.879471,
       "lng": -86.070919,
       "sports": [
@@ -2556,8 +2556,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Binford Boulevard",
+      "city": "Indianapolis",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -2610,7 +2610,7 @@
     },
     {
       "id": "osm-w233953641",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Greenwillow Road",
       "lat": 39.852474,
       "lng": -86.077628,
       "sports": [
@@ -2622,8 +2622,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Greenwillow Road",
+      "city": "Indianapolis",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -2650,7 +2650,7 @@
     },
     {
       "id": "osm-w234163708",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East 46th Street",
       "lat": 39.839594,
       "lng": -86.048565,
       "sports": [
@@ -2662,8 +2662,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 46th Street",
+      "city": "Indianapolis",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -2712,7 +2712,7 @@
     },
     {
       "id": "osm-w235125439",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Courthouse Drive",
       "lat": 39.85729,
       "lng": -86.045657,
       "sports": [
@@ -2724,8 +2724,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Courthouse Drive",
+      "city": "Lawrence",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -2734,7 +2734,7 @@
     },
     {
       "id": "osm-w235268321",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East 56th Street",
       "lat": 39.856149,
       "lng": -86.015599,
       "sports": [
@@ -2746,8 +2746,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 56th Street",
+      "city": "Lawrence",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -3171,7 +3171,7 @@
     },
     {
       "id": "osm-w243949699",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Duval Drive",
       "lat": 39.96468,
       "lng": -85.941205,
       "sports": [
@@ -3183,8 +3183,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Duval Drive",
+      "city": "Fishers",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -3783,7 +3783,7 @@
     },
     {
       "id": "osm-w262259935",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Kingsway Drive",
       "lat": 41.411608,
       "lng": -87.224237,
       "sports": [
@@ -3795,8 +3795,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kingsway Drive",
+      "city": "Lake County",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -3849,7 +3849,7 @@
     },
     {
       "id": "osm-w262562161",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East 21st Avenue",
       "lat": 41.578135,
       "lng": -87.244836,
       "sports": [
@@ -3861,8 +3861,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 21st Avenue",
+      "city": "Lake Station",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -3911,7 +3911,7 @@
     },
     {
       "id": "osm-w262573102",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Holly Lane",
       "lat": 41.544121,
       "lng": -87.482782,
       "sports": [
@@ -3923,15 +3923,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Holly Lane",
+      "city": "Munster",
       "state": "IN",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w262573105",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Oriole Drive",
       "lat": 41.544217,
       "lng": -87.499799,
       "sports": [
@@ -3944,8 +3944,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Oriole Drive",
+      "city": "Munster",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -4071,7 +4071,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Terre Haute",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -4295,7 +4295,7 @@
     },
     {
       "id": "osm-w263995862",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Big 4 Rail Trail",
       "lat": 39.976105,
       "lng": -86.296645,
       "sports": [
@@ -4307,8 +4307,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Big 4 Rail Trail",
+      "city": "Zionsville",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -4703,7 +4703,7 @@
     },
     {
       "id": "osm-w264360620",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Oakhill Drive",
       "lat": 41.072528,
       "lng": -85.28157,
       "sports": [
@@ -4715,8 +4715,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Oakhill Drive",
+      "city": "Fort Wayne",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -5057,7 +5057,7 @@
     },
     {
       "id": "osm-w265732189",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Runaway Bay Circle",
       "lat": 41.689856,
       "lng": -86.185901,
       "sports": [
@@ -5069,8 +5069,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Runaway Bay Circle",
+      "city": "Mishawaka",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -5264,7 +5264,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Indianapolis",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -5460,7 +5460,7 @@
     },
     {
       "id": "osm-w290578353",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Redmond Court",
       "lat": 39.868158,
       "lng": -85.995854,
       "sports": [
@@ -5472,8 +5472,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Redmond Court",
+      "city": "Lawrence",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -5630,7 +5630,7 @@
     },
     {
       "id": "osm-w295505697",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Carnoustie Circle",
       "lat": 39.749947,
       "lng": -86.43266,
       "sports": [
@@ -5642,8 +5642,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Carnoustie Circle",
+      "city": "Avon",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -5754,7 +5754,7 @@
     },
     {
       "id": "osm-w300961733",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Pebblepointe Pass",
       "lat": 39.963062,
       "lng": -86.081002,
       "sports": [
@@ -5767,8 +5767,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pebblepointe Pass",
+      "city": "Carmel",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -5923,7 +5923,7 @@
     },
     {
       "id": "osm-w304264056",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Goldfinch Circle",
       "lat": 39.903179,
       "lng": -86.018905,
       "sports": [
@@ -5936,15 +5936,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Goldfinch Circle",
+      "city": "Indianapolis",
       "state": "IN",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w304264075",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Summer Estates Drive",
       "lat": 39.909141,
       "lng": -86.008951,
       "sports": [
@@ -5956,8 +5956,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Summer Estates Drive",
+      "city": "Indianapolis",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -5966,7 +5966,7 @@
     },
     {
       "id": "osm-w304313072",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Jessman Road South Drive",
       "lat": 39.884233,
       "lng": -86.040087,
       "sports": [
@@ -5978,8 +5978,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Jessman Road South Drive",
+      "city": "Indianapolis",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -5988,7 +5988,7 @@
     },
     {
       "id": "osm-w304430954",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Sargent Creek Court",
       "lat": 39.917042,
       "lng": -86.008019,
       "sports": [
@@ -6000,8 +6000,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sargent Creek Court",
+      "city": "Indianapolis",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -6010,7 +6010,7 @@
     },
     {
       "id": "osm-w304615124",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East 82nd Street",
       "lat": 39.905467,
       "lng": -86.012894,
       "sports": [
@@ -6022,8 +6022,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 82nd Street",
+      "city": "Indianapolis",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -6863,7 +6863,7 @@
     },
     {
       "id": "osm-w331078930",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Summer Estates Drive",
       "lat": 39.908673,
       "lng": -86.011046,
       "sports": [
@@ -6875,8 +6875,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Summer Estates Drive",
+      "city": "Indianapolis",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -7835,7 +7835,7 @@
     },
     {
       "id": "osm-w390004432",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Whipporwill Place",
       "lat": 39.910742,
       "lng": -86.039198,
       "sports": [
@@ -7847,8 +7847,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Whipporwill Place",
+      "city": "Indianapolis",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -7879,7 +7879,7 @@
     },
     {
       "id": "osm-w390579230",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Monon Trail",
       "lat": 39.956072,
       "lng": -86.136645,
       "sports": [
@@ -7891,8 +7891,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Monon Trail",
+      "city": "Carmel",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -7945,7 +7945,7 @@
     },
     {
       "id": "osm-w390804351",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Kungsholm Drive",
       "lat": 39.921564,
       "lng": -86.07115,
       "sports": [
@@ -7957,8 +7957,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kungsholm Drive",
+      "city": "Indianapolis",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -8344,7 +8344,7 @@
     },
     {
       "id": "osm-w435391854",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West North Shore Drive",
       "lat": 41.697363,
       "lng": -86.255656,
       "sports": [
@@ -8356,8 +8356,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West North Shore Drive",
+      "city": "South Bend",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -8498,7 +8498,7 @@
     },
     {
       "id": "osm-w444706495",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · River Bend Parkway",
       "lat": 39.916796,
       "lng": -86.080225,
       "sports": [
@@ -8510,8 +8510,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "River Bend Parkway",
+      "city": "Indianapolis",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -8563,7 +8563,7 @@
     },
     {
       "id": "osm-w462189479",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Grantham Way",
       "lat": 39.936706,
       "lng": -86.012825,
       "sports": [
@@ -8575,8 +8575,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Grantham Way",
+      "city": "Fishers",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -8585,7 +8585,7 @@
     },
     {
       "id": "osm-w462189481",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Jaywick Drive",
       "lat": 39.939212,
       "lng": -86.010736,
       "sports": [
@@ -8597,8 +8597,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Jaywick Drive",
+      "city": "Fishers",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -8607,7 +8607,7 @@
     },
     {
       "id": "osm-w462193021",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Garden Circle West",
       "lat": 39.961088,
       "lng": -86.020067,
       "sports": [
@@ -8619,8 +8619,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Garden Circle West",
+      "city": "Fishers",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -9030,7 +9030,7 @@
     },
     {
       "id": "osm-w482307871",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · John Hinkle Place",
       "lat": 39.171145,
       "lng": -86.491188,
       "sports": [
@@ -9042,8 +9042,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "John Hinkle Place",
+      "city": "Bloomington",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -9769,7 +9769,7 @@
     },
     {
       "id": "osm-w482931120",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Leopold Street",
       "lat": 40.936612,
       "lng": -87.136063,
       "sports": [
@@ -9781,8 +9781,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Leopold Street",
+      "city": "Rensselaer",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -10000,7 +10000,7 @@
     },
     {
       "id": "osm-w489164452",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Southwest E Street",
       "lat": 39.821247,
       "lng": -84.902668,
       "sports": [
@@ -10012,8 +10012,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Southwest E Street",
+      "city": "Richmond",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -10187,7 +10187,7 @@
     },
     {
       "id": "osm-w505673103",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Brook Mill Court",
       "lat": 39.986225,
       "lng": -86.160276,
       "sports": [
@@ -10200,8 +10200,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Brook Mill Court",
+      "city": "Carmel",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -10506,7 +10506,7 @@
     },
     {
       "id": "osm-w514032463",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East 34th Place",
       "lat": 39.820602,
       "lng": -86.016849,
       "sports": [
@@ -10518,8 +10518,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 34th Place",
+      "city": "Indianapolis",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -10970,7 +10970,7 @@
     },
     {
       "id": "osm-w541761286",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Prospect Street",
       "lat": 39.752993,
       "lng": -85.973296,
       "sports": [
@@ -10982,8 +10982,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Prospect Street",
+      "city": "Indianapolis",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -11692,7 +11692,7 @@
     },
     {
       "id": "osm-w554652751",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Wind Drift Drive East",
       "lat": 39.824946,
       "lng": -86.28781,
       "sports": [
@@ -11704,8 +11704,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wind Drift Drive East",
+      "city": "Indianapolis",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -12011,7 +12011,7 @@
     },
     {
       "id": "osm-w577270554",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lincoln Way",
       "lat": 40.748712,
       "lng": -86.329672,
       "sports": [
@@ -12023,8 +12023,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lincoln Way",
+      "city": "Logansport",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -12117,7 +12117,7 @@
     },
     {
       "id": "osm-w586234888",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Pawnee Drive",
       "lat": 39.813383,
       "lng": -85.980967,
       "sports": [
@@ -12129,8 +12129,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pawnee Drive",
+      "city": "Indianapolis",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -12198,7 +12198,7 @@
     },
     {
       "id": "osm-w590825342",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Springhaven Drive",
       "lat": 38.033161,
       "lng": -87.570409,
       "sports": [
@@ -12210,8 +12210,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Springhaven Drive",
+      "city": "Evansville",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -13724,7 +13724,7 @@
     },
     {
       "id": "osm-w667682832",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East Front Street",
       "lat": 41.083933,
       "lng": -85.626703,
       "sports": [
@@ -13736,8 +13736,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Front Street",
+      "city": "South Whitley",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -14301,7 +14301,7 @@
     },
     {
       "id": "osm-w673894478",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ford Street",
       "lat": 41.66877,
       "lng": -86.313941,
       "sports": [
@@ -14313,8 +14313,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ford Street",
+      "city": "South Bend",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -15670,7 +15670,7 @@
     },
     {
       "id": "osm-w712030599",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · John Glenn Drive",
       "lat": 41.45772,
       "lng": -86.477176,
       "sports": [
@@ -15682,8 +15682,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "John Glenn Drive",
+      "city": "Walkerton",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -15798,7 +15798,7 @@
     },
     {
       "id": "osm-w720390564",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Adams Road",
       "lat": 41.7536,
       "lng": -86.188438,
       "sports": [
@@ -15810,8 +15810,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Adams Road",
+      "city": "Saint Joseph County",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -15904,7 +15904,7 @@
     },
     {
       "id": "osm-w726595607",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Byron Drive",
       "lat": 41.635493,
       "lng": -86.223612,
       "sports": [
@@ -15916,8 +15916,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Byron Drive",
+      "city": "South Bend",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -16218,7 +16218,7 @@
     },
     {
       "id": "osm-w749592028",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cherry Creek Boulevard",
       "lat": 39.992483,
       "lng": -86.06719,
       "sports": [
@@ -16230,8 +16230,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cherry Creek Boulevard",
+      "city": "Carmel",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -16447,7 +16447,7 @@
     },
     {
       "id": "osm-w767369230",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Vigo Drive",
       "lat": 39.386595,
       "lng": -87.401353,
       "sports": [
@@ -16459,8 +16459,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Vigo Drive",
+      "city": "Vigo County",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -16636,7 +16636,7 @@
     },
     {
       "id": "osm-w777090727",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Golden Oaks North",
       "lat": 39.923512,
       "lng": -86.199775,
       "sports": [
@@ -16648,8 +16648,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Golden Oaks North",
+      "city": "Indianapolis",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -16741,7 +16741,7 @@
     },
     {
       "id": "osm-w783107037",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cherry Tree Road",
       "lat": 40.004969,
       "lng": -86.057416,
       "sports": [
@@ -16753,8 +16753,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cherry Tree Road",
+      "city": "Noblesville",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -16827,7 +16827,7 @@
     },
     {
       "id": "osm-w792200033",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Muir Lane",
       "lat": 39.937762,
       "lng": -86.008762,
       "sports": [
@@ -16839,8 +16839,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Muir Lane",
+      "city": "Fishers",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -16849,7 +16849,7 @@
     },
     {
       "id": "osm-w793968951",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Garrick Street",
       "lat": 39.951754,
       "lng": -86.02921,
       "sports": [
@@ -16861,8 +16861,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Garrick Street",
+      "city": "Fishers",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -16974,7 +16974,7 @@
     },
     {
       "id": "osm-w812936872",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Drexel Road",
       "lat": 40.923101,
       "lng": -87.157095,
       "sports": [
@@ -16986,15 +16986,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Drexel Road",
+      "city": "Jasper County",
       "state": "IN",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w813741208",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Glenview Drive",
       "lat": 41.727979,
       "lng": -86.273752,
       "sports": [
@@ -17006,8 +17006,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Glenview Drive",
+      "city": "South Bend",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -17457,7 +17457,7 @@
     },
     {
       "id": "osm-w887546543",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North River Road",
       "lat": 40.459641,
       "lng": -86.894436,
       "sports": [
@@ -17469,8 +17469,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North River Road",
+      "city": "Tippecanoe County",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -17885,7 +17885,7 @@
     },
     {
       "id": "osm-w940942726",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Logan Lane",
       "lat": 39.928742,
       "lng": -86.007726,
       "sports": [
@@ -17897,8 +17897,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Logan Lane",
+      "city": "Fishers",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -17907,7 +17907,7 @@
     },
     {
       "id": "osm-w943441182",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Whitecap Way",
       "lat": 39.91399,
       "lng": -85.988723,
       "sports": [
@@ -17919,8 +17919,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Whitecap Way",
+      "city": "Indianapolis",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -17951,7 +17951,7 @@
     },
     {
       "id": "osm-w947017551",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lahr Court",
       "lat": 39.916448,
       "lng": -86.022838,
       "sports": [
@@ -17963,8 +17963,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lahr Court",
+      "city": "Indianapolis",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -18481,7 +18481,7 @@
     },
     {
       "id": "osm-w987023794",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Sand Creek Boulevard",
       "lat": 39.95805,
       "lng": -85.985832,
       "sports": [
@@ -18493,8 +18493,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sand Creek Boulevard",
+      "city": "Fishers",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -18630,7 +18630,7 @@
     },
     {
       "id": "osm-w1004206590",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East 118th Street",
       "lat": 39.962077,
       "lng": -85.921203,
       "sports": [
@@ -18642,15 +18642,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 118th Street",
+      "city": "Fishers",
       "state": "IN",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1007348897",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Kensworth Drive",
       "lat": 39.871179,
       "lng": -85.982409,
       "sports": [
@@ -18662,8 +18662,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kensworth Drive",
+      "city": "Lawrence",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -18672,7 +18672,7 @@
     },
     {
       "id": "osm-w1007428356",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Eastwind Lane",
       "lat": 39.923508,
       "lng": -85.989308,
       "sports": [
@@ -18685,8 +18685,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Eastwind Lane",
+      "city": "Indianapolis",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -19383,7 +19383,7 @@
     },
     {
       "id": "osm-w1042657867",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Lookout Court",
       "lat": 39.579092,
       "lng": -86.1727,
       "sports": [
@@ -19395,8 +19395,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lookout Court",
+      "city": "Johnson County",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -19577,7 +19577,7 @@
     },
     {
       "id": "osm-w1066973858",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Phil Harris Parkway",
       "lat": 39.040854,
       "lng": -87.14909,
       "sports": [
@@ -19589,8 +19589,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Phil Harris Parkway",
+      "city": "Linton",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -20214,7 +20214,7 @@
     },
     {
       "id": "osm-w1109139331",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Rowland Boulevard",
       "lat": 39.957221,
       "lng": -86.144591,
       "sports": [
@@ -20226,8 +20226,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rowland Boulevard",
+      "city": "Carmel",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -20236,7 +20236,7 @@
     },
     {
       "id": "osm-w1112164634",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East Main Street",
       "lat": 39.979269,
       "lng": -86.063173,
       "sports": [
@@ -20248,8 +20248,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Main Street",
+      "city": "Carmel",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -20258,7 +20258,7 @@
     },
     {
       "id": "osm-w1112164644",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Parkview Place",
       "lat": 39.981908,
       "lng": -86.133471,
       "sports": [
@@ -20271,8 +20271,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Parkview Place",
+      "city": "Carmel",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -20303,7 +20303,7 @@
     },
     {
       "id": "osm-w1113459471",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Oak Meadow",
       "lat": 38.084684,
       "lng": -87.529801,
       "sports": [
@@ -20315,8 +20315,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Oak Meadow",
+      "city": "Vanderburgh County",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -20493,7 +20493,7 @@
     },
     {
       "id": "osm-w1125713053",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wolf Run Court",
       "lat": 40.011404,
       "lng": -85.950036,
       "sports": [
@@ -20505,8 +20505,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wolf Run Court",
+      "city": "Noblesville",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -20872,7 +20872,7 @@
     },
     {
       "id": "osm-w1148093092",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Lakeview Drive",
       "lat": 39.943782,
       "lng": -86.10639,
       "sports": [
@@ -20884,8 +20884,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lakeview Drive",
+      "city": "Carmel",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -20894,7 +20894,7 @@
     },
     {
       "id": "osm-w1148094968",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Dickson Road",
       "lat": 39.844565,
       "lng": -86.062082,
       "sports": [
@@ -20906,8 +20906,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Dickson Road",
+      "city": "Indianapolis",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -21019,7 +21019,7 @@
     },
     {
       "id": "osm-w1149293819",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Baker Street",
       "lat": 41.59715,
       "lng": -87.391187,
       "sports": [
@@ -21031,8 +21031,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Baker Street",
+      "city": "Gary",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -21084,7 +21084,7 @@
     },
     {
       "id": "osm-w1155681113",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East 675 North",
       "lat": 41.741362,
       "lng": -84.851317,
       "sports": [
@@ -21096,8 +21096,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 675 North",
+      "city": "Clear Lake",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -21394,7 +21394,7 @@
     },
     {
       "id": "osm-w1166124310",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Oakleaf Avenue",
       "lat": 39.506717,
       "lng": -87.460692,
       "sports": [
@@ -21406,8 +21406,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Oakleaf Avenue",
+      "city": "Vigo County",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -21457,7 +21457,7 @@
     },
     {
       "id": "osm-w1168597836",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Greenbriar Road West",
       "lat": 38.515734,
       "lng": -86.00185,
       "sports": [
@@ -21469,8 +21469,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Greenbriar Road West",
+      "city": "Washington County",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -21559,7 +21559,7 @@
     },
     {
       "id": "osm-w1176297912",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West North Shore Drive",
       "lat": 41.697531,
       "lng": -86.257288,
       "sports": [
@@ -21571,8 +21571,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West North Shore Drive",
+      "city": "South Bend",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -21747,7 +21747,7 @@
     },
     {
       "id": "osm-w1184249270",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Rockne Drive",
       "lat": 41.692005,
       "lng": -86.207812,
       "sports": [
@@ -21759,15 +21759,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Rockne Drive",
+      "city": "South Bend",
       "state": "IN",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1188216467",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Creekwood Court",
       "lat": 39.914277,
       "lng": -85.941226,
       "sports": [
@@ -21779,8 +21779,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Creekwood Court",
+      "city": "Indianapolis",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -21915,7 +21915,7 @@
     },
     {
       "id": "osm-w1205257535",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Milligan Street",
       "lat": 40.037068,
       "lng": -86.91004,
       "sports": [
@@ -21927,8 +21927,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Milligan Street",
+      "city": "Crawfordsville",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -22058,7 +22058,7 @@
     },
     {
       "id": "osm-w1216032327",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Saddle Drive",
       "lat": 39.559482,
       "lng": -85.778214,
       "sports": [
@@ -22070,8 +22070,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Saddle Drive",
+      "city": "Shelbyville",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -22123,7 +22123,7 @@
     },
     {
       "id": "osm-w1221395985",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Jefferson Street",
       "lat": 39.479521,
       "lng": -86.059232,
       "sports": [
@@ -22135,8 +22135,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Jefferson Street",
+      "city": "Franklin",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -22185,7 +22185,7 @@
     },
     {
       "id": "osm-w1225235298",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ridge Valley Court",
       "lat": 39.988916,
       "lng": -86.248696,
       "sports": [
@@ -22197,8 +22197,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ridge Valley Court",
+      "city": "Zionsville",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -22311,7 +22311,7 @@
     },
     {
       "id": "osm-w1253410588",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lynch Road",
       "lat": 38.012096,
       "lng": -87.493018,
       "sports": [
@@ -22323,8 +22323,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lynch Road",
+      "city": "Evansville",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -22351,7 +22351,7 @@
     },
     {
       "id": "osm-w1255671482",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · South Elm Street",
       "lat": 41.43474,
       "lng": -86.000241,
       "sports": [
@@ -22363,8 +22363,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Elm Street",
+      "city": "Nappanee",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -22395,7 +22395,7 @@
     },
     {
       "id": "osm-w1257819663",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Peru River Walkway",
       "lat": 40.746908,
       "lng": -86.076324,
       "sports": [
@@ -22407,8 +22407,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Peru River Walkway",
+      "city": "Peru",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -22849,7 +22849,7 @@
     },
     {
       "id": "osm-w1293279614",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Shadyside Recreation Trail/Killbuck Wetlands",
       "lat": 40.122919,
       "lng": -85.673649,
       "sports": [
@@ -22861,8 +22861,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Shadyside Recreation Trail/Killbuck Wetlands",
+      "city": "Anderson",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -22954,7 +22954,7 @@
     },
     {
       "id": "osm-w1296700350",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · South P Street",
       "lat": 39.807782,
       "lng": -84.900611,
       "sports": [
@@ -22966,8 +22966,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South P Street",
+      "city": "Richmond",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -22976,7 +22976,7 @@
     },
     {
       "id": "osm-w1298616838",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Cabin Hill Drive",
       "lat": 40.024241,
       "lng": -85.93901,
       "sports": [
@@ -22988,8 +22988,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cabin Hill Drive",
+      "city": "Noblesville",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -23062,7 +23062,7 @@
     },
     {
       "id": "osm-w1308888435",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Miller's Ridge",
       "lat": 39.297052,
       "lng": -86.688392,
       "sports": [
@@ -23074,8 +23074,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Miller's Ridge",
+      "city": "Owen County",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -23168,7 +23168,7 @@
     },
     {
       "id": "osm-w1314962706",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Technology Lane",
       "lat": 39.961992,
       "lng": -86.007012,
       "sports": [
@@ -23180,8 +23180,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Technology Lane",
+      "city": "Fishers",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -23276,7 +23276,7 @@
     },
     {
       "id": "osm-w1318821597",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · O Connor Street",
       "lat": 41.664566,
       "lng": -86.176165,
       "sports": [
@@ -23289,8 +23289,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "O Connor Street",
+      "city": "Mishawaka",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -23364,7 +23364,7 @@
     },
     {
       "id": "osm-w1334984611",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Rasmussen Court",
       "lat": 38.300336,
       "lng": -85.810969,
       "sports": [
@@ -23376,15 +23376,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rasmussen Court",
+      "city": "New Albany",
       "state": "IN",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1334984811",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East 15th Street",
       "lat": 38.286745,
       "lng": -85.745811,
       "sports": [
@@ -23396,8 +23396,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 15th Street",
+      "city": "Jeffersonville",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -23807,7 +23807,7 @@
     },
     {
       "id": "osm-w1378443811",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Central Avenue",
       "lat": 39.917717,
       "lng": -86.14984,
       "sports": [
@@ -23819,8 +23819,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Central Avenue",
+      "city": "Indianapolis",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -23869,7 +23869,7 @@
     },
     {
       "id": "osm-w1381565830",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East Jefferson Boulevard",
       "lat": 41.674737,
       "lng": -86.233229,
       "sports": [
@@ -23881,8 +23881,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Jefferson Boulevard",
+      "city": "South Bend",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -24504,7 +24504,7 @@
     },
     {
       "id": "osm-w1445919635",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lake Point Court",
       "lat": 39.903908,
       "lng": -86.021947,
       "sports": [
@@ -24516,8 +24516,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lake Point Court",
+      "city": "Indianapolis",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -24548,7 +24548,7 @@
     },
     {
       "id": "osm-w1450703980",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lake Drive Clear Lake",
       "lat": 41.733096,
       "lng": -84.822261,
       "sports": [
@@ -24560,8 +24560,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lake Drive Clear Lake",
+      "city": "Clear Lake",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -24806,7 +24806,7 @@
     },
     {
       "id": "osm-w1463571208",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Southwind Lane",
       "lat": 39.615039,
       "lng": -86.168506,
       "sports": [
@@ -24818,8 +24818,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Southwind Lane",
+      "city": "Johnson County",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -24828,7 +24828,7 @@
     },
     {
       "id": "osm-w1464008714",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ruffian Drive",
       "lat": 40.010467,
       "lng": -86.206533,
       "sports": [
@@ -24841,8 +24841,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ruffian Drive",
+      "city": "Westfield",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -24871,7 +24871,7 @@
     },
     {
       "id": "osm-w1466130036",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Fox Moor Lane",
       "lat": 39.588051,
       "lng": -86.187589,
       "sports": [
@@ -24883,8 +24883,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fox Moor Lane",
+      "city": "Johnson County",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -24959,7 +24959,7 @@
     },
     {
       "id": "osm-w1468075243",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East 106th Street",
       "lat": 39.942493,
       "lng": -85.968659,
       "sports": [
@@ -24971,8 +24971,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 106th Street",
+      "city": "Fishers",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -24981,7 +24981,7 @@
     },
     {
       "id": "osm-w1469833694",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Derksen Road",
       "lat": 41.448604,
       "lng": -85.992476,
       "sports": [
@@ -24994,8 +24994,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Derksen Road",
+      "city": "Nappanee",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -25089,7 +25089,7 @@
     },
     {
       "id": "osm-w1474041975",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Krestridge Court West",
       "lat": 39.542577,
       "lng": -86.210941,
       "sports": [
@@ -25101,8 +25101,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Krestridge Court West",
+      "city": "Bargersville",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -25111,7 +25111,7 @@
     },
     {
       "id": "osm-w1475120606",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Park Ridge Drive",
       "lat": 37.929615,
       "lng": -87.919823,
       "sports": [
@@ -25124,8 +25124,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Park Ridge Drive",
+      "city": "Mount Vernon",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -25166,7 +25166,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Vincennes",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -25770,7 +25770,7 @@
     },
     {
       "id": "osm-w1480359226",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cumberland Road",
       "lat": 39.943606,
       "lng": -85.994214,
       "sports": [
@@ -25782,8 +25782,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cumberland Road",
+      "city": "Fishers",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -25814,7 +25814,7 @@
     },
     {
       "id": "osm-w1480361316",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Misty Way",
       "lat": 39.906751,
       "lng": -85.946255,
       "sports": [
@@ -25826,8 +25826,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Misty Way",
+      "city": "Lawrence",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -25836,7 +25836,7 @@
     },
     {
       "id": "osm-w1480361747",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Northcrest Drive",
       "lat": 39.909269,
       "lng": -86.036294,
       "sports": [
@@ -25848,8 +25848,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northcrest Drive",
+      "city": "Indianapolis",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -25923,7 +25923,7 @@
     },
     {
       "id": "osm-w1480364910",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · River Bay Drive East",
       "lat": 39.905395,
       "lng": -86.110461,
       "sports": [
@@ -25936,8 +25936,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "River Bay Drive East",
+      "city": "Indianapolis",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -25987,7 +25987,7 @@
     },
     {
       "id": "osm-w1480367850",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West 156th Street",
       "lat": 40.013345,
       "lng": -86.167513,
       "sports": [
@@ -26000,8 +26000,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 156th Street",
+      "city": "Westfield",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -26029,7 +26029,7 @@
     },
     {
       "id": "osm-w1480372404",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bay Road North Drive",
       "lat": 39.902601,
       "lng": -86.108118,
       "sports": [
@@ -26042,8 +26042,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bay Road North Drive",
+      "city": "Indianapolis",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -26238,7 +26238,7 @@
     },
     {
       "id": "osm-w1480878384",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cider Mill Lane",
       "lat": 39.848758,
       "lng": -86.041663,
       "sports": [
@@ -26250,8 +26250,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cider Mill Lane",
+      "city": "Lawrence",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -26282,7 +26282,7 @@
     },
     {
       "id": "osm-w1480879489",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Clubhouse Drive",
       "lat": 39.965081,
       "lng": -86.043365,
       "sports": [
@@ -26294,8 +26294,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Clubhouse Drive",
+      "city": "Fishers",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -26304,7 +26304,7 @@
     },
     {
       "id": "osm-w1480879731",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Vintner Drive",
       "lat": 39.979408,
       "lng": -85.874977,
       "sports": [
@@ -26317,8 +26317,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Vintner Drive",
+      "city": "Fishers",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -26797,7 +26797,7 @@
     },
     {
       "id": "osm-w1482579807",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Snead Avenue",
       "lat": 41.59923,
       "lng": -87.029497,
       "sports": [
@@ -26810,8 +26810,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Snead Avenue",
+      "city": "Chesterton",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -27288,7 +27288,7 @@
     },
     {
       "id": "osm-w1506418335",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Quincy Place",
       "lat": 40.012103,
       "lng": -86.165585,
       "sports": [
@@ -27300,8 +27300,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Quincy Place",
+      "city": "Westfield",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -27354,7 +27354,7 @@
     },
     {
       "id": "osm-w1510827770",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · The 106 Trail",
       "lat": 39.940692,
       "lng": -85.979721,
       "sports": [
@@ -27366,8 +27366,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "The 106 Trail",
+      "city": "Hamilton County",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -27440,7 +27440,7 @@
     },
     {
       "id": "osm-w1512793371",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Country Club Dr South",
       "lat": 41.045955,
       "lng": -86.173453,
       "sports": [
@@ -27452,8 +27452,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Country Club Dr South",
+      "city": "Rochester",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -27990,7 +27990,7 @@
     },
     {
       "id": "osm-w1545035260",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Evans Road",
       "lat": 39.352124,
       "lng": -86.033347,
       "sports": [
@@ -28002,8 +28002,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Evans Road",
+      "city": "Johnson County",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -28142,7 +28142,7 @@
     },
     {
       "id": "osm-w1549210869",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Massimo Drive",
       "lat": 39.709708,
       "lng": -85.992361,
       "sports": [
@@ -28154,8 +28154,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Massimo Drive",
+      "city": "Indianapolis",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -28228,7 +28228,7 @@
     },
     {
       "id": "osm-w1552106501",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Oakview Drive",
       "lat": 39.73436,
       "lng": -86.389102,
       "sports": [
@@ -28240,8 +28240,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Oakview Drive",
+      "city": "Hendricks County",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -28268,7 +28268,7 @@
     },
     {
       "id": "osm-w1552721123",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Sinclair Street",
       "lat": 38.563691,
       "lng": -86.616431,
       "sports": [
@@ -28280,8 +28280,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Sinclair Street",
+      "city": "West Baden Springs",
       "state": "IN",
       "source": "osm",
       "tags": {}
@@ -28330,7 +28330,7 @@
     },
     {
       "id": "osm-w1554867455",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ashvale Drive",
       "lat": 39.924573,
       "lng": -86.069163,
       "sports": [
@@ -28342,8 +28342,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ashvale Drive",
+      "city": "Indianapolis",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -28387,7 +28387,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Steuben County",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -28396,7 +28396,7 @@
     },
     {
       "id": "osm-w1555345397",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Wildwood Drive",
       "lat": 40.352199,
       "lng": -86.478267,
       "sports": [
@@ -28408,8 +28408,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Wildwood Drive",
+      "city": "Clinton County",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -28418,7 +28418,7 @@
     },
     {
       "id": "osm-w1558407069",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West 127th Place",
       "lat": 41.386469,
       "lng": -87.348297,
       "sports": [
@@ -28430,8 +28430,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 127th Place",
+      "city": "Lake County",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -28440,7 +28440,7 @@
     },
     {
       "id": "osm-w1559319868",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Eastpark Circle",
       "lat": 39.986299,
       "lng": -85.886378,
       "sports": [
@@ -28452,8 +28452,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Eastpark Circle",
+      "city": "Fishers",
       "state": "IN",
       "source": "osm",
       "tags": {
@@ -28462,7 +28462,7 @@
     },
     {
       "id": "osm-w1559319945",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Swallow Falls Way",
       "lat": 39.988589,
       "lng": -85.897637,
       "sports": [
@@ -28474,8 +28474,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Swallow Falls Way",
+      "city": "Fishers",
       "state": "IN",
       "source": "osm",
       "tags": {

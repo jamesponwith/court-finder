@@ -2395,7 +2395,7 @@
     },
     {
       "id": "osm-w592512693",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · South 74th Street",
       "lat": 35.353637,
       "lng": -94.349841,
       "sports": [
@@ -2407,8 +2407,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South 74th Street",
+      "city": "Fort Smith",
       "state": "AR",
       "source": "osm",
       "tags": {
@@ -4699,7 +4699,7 @@
     },
     {
       "id": "osm-w1121933942",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Mt Hebron Park Trails",
       "lat": 36.274329,
       "lng": -94.197362,
       "sports": [
@@ -4712,15 +4712,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mt Hebron Park Trails",
+      "city": "Rogers",
       "state": "AR",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1123368183",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Blossom Way Drive",
       "lat": 36.293557,
       "lng": -94.189125,
       "sports": [
@@ -4732,8 +4732,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Blossom Way Drive",
+      "city": "Rogers",
       "state": "AR",
       "source": "osm",
       "tags": {
@@ -6124,7 +6124,7 @@
     },
     {
       "id": "osm-w1313596238",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Pine Hill Road",
       "lat": 34.426632,
       "lng": -93.094548,
       "sports": [
@@ -6137,8 +6137,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pine Hill Road",
+      "city": "Garland County",
       "state": "AR",
       "source": "osm",
       "tags": {}
@@ -7490,7 +7490,7 @@
     },
     {
       "id": "osm-w1424310384",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Marigold Road",
       "lat": 36.35645,
       "lng": -94.257235,
       "sports": [
@@ -7502,8 +7502,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Marigold Road",
+      "city": "Centerton",
       "state": "AR",
       "source": "osm",
       "tags": {
@@ -7512,7 +7512,7 @@
     },
     {
       "id": "osm-w1425385022",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Municipal Drive",
       "lat": 34.86491,
       "lng": -92.130135,
       "sports": [
@@ -7524,8 +7524,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Municipal Drive",
+      "city": "Jacksonville",
       "state": "AR",
       "source": "osm",
       "tags": {
@@ -7594,7 +7594,7 @@
     },
     {
       "id": "osm-w1427022020",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · NE Heights Lane",
       "lat": 36.393488,
       "lng": -94.198012,
       "sports": [
@@ -7606,8 +7606,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "NE Heights Lane",
+      "city": "Bentonville",
       "state": "AR",
       "source": "osm",
       "tags": {
@@ -7984,7 +7984,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Springdale",
       "state": "AR",
       "source": "osm",
       "tags": {
@@ -9847,7 +9847,7 @@
     },
     {
       "id": "osm-w1554000446",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Sussex Circle",
       "lat": 34.722775,
       "lng": -92.387927,
       "sports": [
@@ -9859,8 +9859,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sussex Circle",
+      "city": "Little Rock",
       "state": "AR",
       "source": "osm",
       "tags": {
@@ -9869,7 +9869,7 @@
     },
     {
       "id": "osm-w1557481899",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Plaza Court",
       "lat": 36.183703,
       "lng": -94.51811,
       "sports": [
@@ -9882,8 +9882,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Plaza Court",
+      "city": "Siloam Springs",
       "state": "AR",
       "source": "osm",
       "tags": {}

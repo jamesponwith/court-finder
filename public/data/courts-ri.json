@@ -91,7 +91,7 @@
     },
     {
       "id": "osm-w139287435",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lincoln Avenue",
       "lat": 41.745766,
       "lng": -71.321141,
       "sports": [
@@ -103,8 +103,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lincoln Avenue",
+      "city": "Barrington",
       "state": "RI",
       "source": "osm",
       "tags": {}
@@ -237,7 +237,7 @@
     },
     {
       "id": "osm-w154744007",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wampanoag Road",
       "lat": 41.658453,
       "lng": -71.422984,
       "sports": [
@@ -249,8 +249,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wampanoag Road",
+      "city": "Warwick",
       "state": "RI",
       "source": "osm",
       "tags": {
@@ -344,7 +344,7 @@
     },
     {
       "id": "osm-w184978318",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Boston Neck Road",
       "lat": 41.489546,
       "lng": -71.439195,
       "sports": [
@@ -357,8 +357,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Boston Neck Road",
+      "city": "Narragansett",
       "state": "RI",
       "source": "osm",
       "tags": {}
@@ -1442,7 +1442,7 @@
     },
     {
       "id": "osm-w445938746",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Roger Williams University Way",
       "lat": 41.653926,
       "lng": -71.259133,
       "sports": [
@@ -1454,8 +1454,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Roger Williams University Way",
+      "city": "Bristol",
       "state": "RI",
       "source": "osm",
       "tags": {}
@@ -1522,7 +1522,7 @@
     },
     {
       "id": "osm-w482558325",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hoyt Avenue",
       "lat": 41.845064,
       "lng": -71.357364,
       "sports": [
@@ -1534,8 +1534,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hoyt Avenue",
+      "city": "East Providence",
       "state": "RI",
       "source": "osm",
       "tags": {
@@ -1693,7 +1693,7 @@
     },
     {
       "id": "osm-w544200704",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Narragansett Street",
       "lat": 41.784294,
       "lng": -71.39224,
       "sports": [
@@ -1705,8 +1705,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Narragansett Street",
+      "city": "Cranston",
       "state": "RI",
       "source": "osm",
       "tags": {
@@ -1737,7 +1737,7 @@
     },
     {
       "id": "osm-w550007655",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Brayton Meadow",
       "lat": 41.6415,
       "lng": -71.521935,
       "sports": [
@@ -1749,8 +1749,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Brayton Meadow",
+      "city": "East Greenwich",
       "state": "RI",
       "source": "osm",
       "tags": {
@@ -2398,7 +2398,7 @@
     },
     {
       "id": "osm-w903242278",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ward Avenue",
       "lat": 41.4764,
       "lng": -71.302825,
       "sports": [
@@ -2410,8 +2410,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ward Avenue",
+      "city": "Newport",
       "state": "RI",
       "source": "osm",
       "tags": {
@@ -2506,7 +2506,7 @@
     },
     {
       "id": "osm-w906616704",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lincoln Drive",
       "lat": 41.469775,
       "lng": -71.344834,
       "sports": [
@@ -2518,8 +2518,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lincoln Drive",
+      "city": "Newport",
       "state": "RI",
       "source": "osm",
       "tags": {
@@ -2658,7 +2658,7 @@
     },
     {
       "id": "osm-w935182322",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Harrison Avenue",
       "lat": 41.46386,
       "lng": -71.348646,
       "sports": [
@@ -2670,8 +2670,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Harrison Avenue",
+      "city": "Newport",
       "state": "RI",
       "source": "osm",
       "tags": {}
@@ -2700,7 +2700,7 @@
     },
     {
       "id": "osm-w936706233",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ruggles Avenue",
       "lat": 41.468003,
       "lng": -71.305056,
       "sports": [
@@ -2712,15 +2712,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ruggles Avenue",
+      "city": "Newport",
       "state": "RI",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w936706236",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Leroy Avenue",
       "lat": 41.47252,
       "lng": -71.303293,
       "sports": [
@@ -2732,8 +2732,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Leroy Avenue",
+      "city": "Newport",
       "state": "RI",
       "source": "osm",
       "tags": {}
@@ -2914,7 +2914,7 @@
     },
     {
       "id": "osm-w963247166",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Jackson Road",
       "lat": 41.476411,
       "lng": -71.338663,
       "sports": [
@@ -2926,8 +2926,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Jackson Road",
+      "city": "Newport",
       "state": "RI",
       "source": "osm",
       "tags": {
@@ -3190,7 +3190,7 @@
     },
     {
       "id": "osm-w1013611724",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Gortons Corner",
       "lat": 41.678788,
       "lng": -71.672481,
       "sports": [
@@ -3203,7 +3203,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Coventry",
       "state": "RI",
       "source": "osm",
       "tags": {
@@ -3212,7 +3212,7 @@
     },
     {
       "id": "osm-w1022144283",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Park Entrance",
       "lat": 41.709587,
       "lng": -71.568314,
       "sports": [
@@ -3224,8 +3224,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Park Entrance",
+      "city": "Coventry",
       "state": "RI",
       "source": "osm",
       "tags": {
@@ -3269,7 +3269,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "South Kingstown",
       "state": "RI",
       "source": "osm",
       "tags": {}
@@ -3487,7 +3487,7 @@
     },
     {
       "id": "osm-w1218929837",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Windermere Road",
       "lat": 41.410255,
       "lng": -71.470968,
       "sports": [
@@ -3500,8 +3500,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Windermere Road",
+      "city": "Narragansett",
       "state": "RI",
       "source": "osm",
       "tags": {}
@@ -3767,7 +3767,7 @@
     },
     {
       "id": "osm-w1366027448",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Olive Grove Lane",
       "lat": 41.351617,
       "lng": -71.73474,
       "sports": [
@@ -3779,8 +3779,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Olive Grove Lane",
+      "city": "Westerly",
       "state": "RI",
       "source": "osm",
       "tags": {
@@ -3833,7 +3833,7 @@
     },
     {
       "id": "osm-w1366335013",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Chapman Road",
       "lat": 41.333609,
       "lng": -71.758912,
       "sports": [
@@ -3846,15 +3846,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Chapman Road",
+      "city": "Westerly",
       "state": "RI",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1366672408",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Valley Drive",
       "lat": 41.342246,
       "lng": -71.780347,
       "sports": [
@@ -3867,8 +3867,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Valley Drive",
+      "city": "Westerly",
       "state": "RI",
       "source": "osm",
       "tags": {}
@@ -4027,7 +4027,7 @@
     },
     {
       "id": "osm-w1383081103",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · South Arnolda Road",
       "lat": 41.374407,
       "lng": -71.649753,
       "sports": [
@@ -4039,8 +4039,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Arnolda Road",
+      "city": "Charlestown",
       "state": "RI",
       "source": "osm",
       "tags": {
@@ -4307,7 +4307,7 @@
     },
     {
       "id": "osm-w1427362314",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Clarke Road",
       "lat": 41.399055,
       "lng": -71.4764,
       "sports": [
@@ -4319,15 +4319,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Clarke Road",
+      "city": "Narragansett",
       "state": "RI",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1427568660",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Rhode Island Avenue",
       "lat": 41.40221,
       "lng": -71.466879,
       "sports": [
@@ -4339,8 +4339,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rhode Island Avenue",
+      "city": "Narragansett",
       "state": "RI",
       "source": "osm",
       "tags": {
@@ -4410,7 +4410,7 @@
     },
     {
       "id": "osm-w1432486062",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · William C. O'Neill Bike Path",
       "lat": 41.460258,
       "lng": -71.521854,
       "sports": [
@@ -4423,15 +4423,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "William C. O'Neill Bike Path",
+      "city": "South Kingstown",
       "state": "RI",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1432782858",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Roosevelt Avenue",
       "lat": 41.574181,
       "lng": -71.459214,
       "sports": [
@@ -4444,8 +4444,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Roosevelt Avenue",
+      "city": "North Kingstown",
       "state": "RI",
       "source": "osm",
       "tags": {}
@@ -4496,7 +4496,7 @@
     },
     {
       "id": "osm-w1435715712",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Crest Avenue",
       "lat": 41.47144,
       "lng": -71.43485,
       "sports": [
@@ -4508,8 +4508,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Crest Avenue",
+      "city": "Narragansett",
       "state": "RI",
       "source": "osm",
       "tags": {
@@ -4603,7 +4603,7 @@
     },
     {
       "id": "osm-w1442211858",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Washington Secondary Rail Trail",
       "lat": 41.715772,
       "lng": -71.516641,
       "sports": [
@@ -4615,8 +4615,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Washington Secondary Rail Trail",
+      "city": "West Warwick",
       "state": "RI",
       "source": "osm",
       "tags": {}
@@ -4730,7 +4730,7 @@
     },
     {
       "id": "osm-w1442851345",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Bonnet Shores Road",
       "lat": 41.484848,
       "lng": -71.430058,
       "sports": [
@@ -4742,8 +4742,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bonnet Shores Road",
+      "city": "Narragansett",
       "state": "RI",
       "source": "osm",
       "tags": {
@@ -5009,7 +5009,7 @@
     },
     {
       "id": "osm-w1479407787",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ferry Road",
       "lat": 41.508738,
       "lng": -71.4183,
       "sports": [
@@ -5021,8 +5021,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ferry Road",
+      "city": "North Kingstown",
       "state": "RI",
       "source": "osm",
       "tags": {
@@ -5133,7 +5133,7 @@
     },
     {
       "id": "osm-w1500870932",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Roosevelt Avenue",
       "lat": 41.574658,
       "lng": -71.457402,
       "sports": [
@@ -5145,8 +5145,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Roosevelt Avenue",
+      "city": "North Kingstown",
       "state": "RI",
       "source": "osm",
       "tags": {}
@@ -5175,7 +5175,7 @@
     },
     {
       "id": "osm-w1504263221",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ronaele Drive",
       "lat": 41.674093,
       "lng": -71.38886,
       "sports": [
@@ -5188,8 +5188,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ronaele Drive",
+      "city": "Warwick",
       "state": "RI",
       "source": "osm",
       "tags": {}
@@ -5239,7 +5239,7 @@
     },
     {
       "id": "osm-w1504756423",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wm P Hawkins Jr Trail",
       "lat": 41.882914,
       "lng": -71.552114,
       "sports": [
@@ -5252,8 +5252,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wm P Hawkins Jr Trail",
+      "city": "Smithfield",
       "state": "RI",
       "source": "osm",
       "tags": {}
@@ -5365,7 +5365,7 @@
     },
     {
       "id": "osm-w1525504148",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Diamond Hill Road",
       "lat": 42.002075,
       "lng": -71.418929,
       "sports": [
@@ -5377,8 +5377,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Diamond Hill Road",
+      "city": "Cumberland",
       "state": "RI",
       "source": "osm",
       "tags": {
@@ -5409,7 +5409,7 @@
     },
     {
       "id": "osm-w1548370452",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Oyster Cove",
       "lat": 41.332143,
       "lng": -71.819828,
       "sports": [
@@ -5422,8 +5422,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Oyster Cove",
+      "city": "Westerly",
       "state": "RI",
       "source": "osm",
       "tags": {}

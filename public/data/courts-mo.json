@@ -132,7 +132,7 @@
     },
     {
       "id": "osm-n14160332639",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Tara Court",
       "lat": 38.65535,
       "lng": -90.644769,
       "sports": [
@@ -144,8 +144,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Tara Court",
+      "city": "Chesterfield",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -615,7 +615,7 @@
     },
     {
       "id": "osm-w75608866",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Olive Boulevard",
       "lat": 38.665852,
       "lng": -90.317438,
       "sports": [
@@ -627,8 +627,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Olive Boulevard",
+      "city": "University City",
       "state": "MO",
       "source": "osm",
       "tags": {}
@@ -805,7 +805,7 @@
     },
     {
       "id": "osm-w134425288",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Greenway Bike Trail",
       "lat": 38.575865,
       "lng": -92.188849,
       "sports": [
@@ -817,8 +817,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Greenway Bike Trail",
+      "city": "Jefferson City",
       "state": "MO",
       "source": "osm",
       "tags": {}
@@ -1244,7 +1244,7 @@
     },
     {
       "id": "osm-w207556611",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East 163rd Street",
       "lat": 38.827369,
       "lng": -94.47146,
       "sports": [
@@ -1256,8 +1256,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 163rd Street",
+      "city": "Raymore",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -1331,7 +1331,7 @@
     },
     {
       "id": "osm-w221153211",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Country Club Drive",
       "lat": 38.828019,
       "lng": -94.588802,
       "sports": [
@@ -1344,8 +1344,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Country Club Drive",
+      "city": "Loch Lloyd",
       "state": "MO",
       "source": "osm",
       "tags": {}
@@ -2465,7 +2465,7 @@
     },
     {
       "id": "osm-w283725779",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Cleveland Avenue",
       "lat": 39.183127,
       "lng": -94.533439,
       "sports": [
@@ -2477,8 +2477,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Cleveland Avenue",
+      "city": "Kansas City",
       "state": "MO",
       "source": "osm",
       "tags": {}
@@ -2571,7 +2571,7 @@
     },
     {
       "id": "osm-w290418947",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Clark Street",
       "lat": 38.757416,
       "lng": -93.733168,
       "sports": [
@@ -2583,8 +2583,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Clark Street",
+      "city": "Warrensburg",
       "state": "MO",
       "source": "osm",
       "tags": {}
@@ -3049,7 +3049,7 @@
     },
     {
       "id": "osm-w330738847",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ridgepointe Place Drive",
       "lat": 38.781236,
       "lng": -90.763855,
       "sports": [
@@ -3061,8 +3061,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ridgepointe Place Drive",
+      "city": "Lake Saint Louis",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -3084,7 +3084,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Lake Saint Louis",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -3237,7 +3237,7 @@
     },
     {
       "id": "osm-w332419862",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hazel Avenue",
       "lat": 38.584784,
       "lng": -90.329278,
       "sports": [
@@ -3249,8 +3249,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hazel Avenue",
+      "city": "Shrewsbury",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -3957,7 +3957,7 @@
     },
     {
       "id": "osm-w365031120",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Northwest Westside Drive",
       "lat": 39.236654,
       "lng": -94.700634,
       "sports": [
@@ -3969,8 +3969,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northwest Westside Drive",
+      "city": "Weatherby Lake",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -3999,7 +3999,7 @@
     },
     {
       "id": "osm-w365724418",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Maple Street",
       "lat": 37.500581,
       "lng": -94.281284,
       "sports": [
@@ -4011,8 +4011,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Maple Street",
+      "city": "Lamar",
       "state": "MO",
       "source": "osm",
       "tags": {}
@@ -4440,7 +4440,7 @@
     },
     {
       "id": "osm-w375969710",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wintercreek Drive",
       "lat": 38.908394,
       "lng": -94.43037,
       "sports": [
@@ -4452,8 +4452,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wintercreek Drive",
+      "city": "Lee's Summit",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -4462,7 +4462,7 @@
     },
     {
       "id": "osm-w375969712",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Grand Summit Boulevard",
       "lat": 38.848697,
       "lng": -94.515982,
       "sports": [
@@ -4474,8 +4474,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Grand Summit Boulevard",
+      "city": "Grandview",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -4614,7 +4614,7 @@
     },
     {
       "id": "osm-w377316469",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Valley Lane",
       "lat": 37.171759,
       "lng": -94.547839,
       "sports": [
@@ -4626,8 +4626,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Valley Lane",
+      "city": "Carl Junction",
       "state": "MO",
       "source": "osm",
       "tags": {}
@@ -4675,7 +4675,7 @@
     },
     {
       "id": "osm-w377406722",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Southeast Murphy Boulevard",
       "lat": 37.085325,
       "lng": -94.503643,
       "sports": [
@@ -4687,8 +4687,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Southeast Murphy Boulevard",
+      "city": "Joplin",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -4730,7 +4730,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Webb City",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -5555,7 +5555,7 @@
     },
     {
       "id": "osm-w391800536",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Kentucky Avenue",
       "lat": 39.263603,
       "lng": -94.471284,
       "sports": [
@@ -5567,8 +5567,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Kentucky Avenue",
+      "city": "Kansas City",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -6396,7 +6396,7 @@
     },
     {
       "id": "osm-w452866967",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Holden Street",
       "lat": 38.752548,
       "lng": -93.741356,
       "sports": [
@@ -6408,8 +6408,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Holden Street",
+      "city": "Warrensburg",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -6666,7 +6666,7 @@
     },
     {
       "id": "osm-w480961125",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Spencer Creek Trail",
       "lat": 38.773386,
       "lng": -90.586211,
       "sports": [
@@ -6678,8 +6678,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Spencer Creek Trail",
+      "city": "Saint Peters",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -6688,7 +6688,7 @@
     },
     {
       "id": "osm-w480961147",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Spencer Creek Trail",
       "lat": 38.781406,
       "lng": -90.587624,
       "sports": [
@@ -6700,8 +6700,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Spencer Creek Trail",
+      "city": "Saint Peters",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -7090,7 +7090,7 @@
     },
     {
       "id": "osm-w506835248",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · MO E",
       "lat": 37.956757,
       "lng": -91.784013,
       "sports": [
@@ -7102,8 +7102,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "MO E",
+      "city": "Rolla",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -7132,7 +7132,7 @@
     },
     {
       "id": "osm-w509058478",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Blackberry Place",
       "lat": 38.66618,
       "lng": -90.343689,
       "sports": [
@@ -7144,8 +7144,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Blackberry Place",
+      "city": "University City",
       "state": "MO",
       "source": "osm",
       "tags": {}
@@ -7172,7 +7172,7 @@
     },
     {
       "id": "osm-w510877086",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Antioch Road",
       "lat": 39.165447,
       "lng": -94.549264,
       "sports": [
@@ -7184,8 +7184,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Antioch Road",
+      "city": "Kansas City",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -7214,7 +7214,7 @@
     },
     {
       "id": "osm-w511514988",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Northeast Poe Street",
       "lat": 39.199838,
       "lng": -94.504875,
       "sports": [
@@ -7226,8 +7226,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northeast Poe Street",
+      "city": "Claycomo",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -7493,7 +7493,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Kansas City",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -8539,7 +8539,7 @@
     },
     {
       "id": "osm-w618132117",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Park College Circle",
       "lat": 39.19106,
       "lng": -94.681733,
       "sports": [
@@ -8551,8 +8551,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Park College Circle",
+      "city": "Parkville",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -8928,7 +8928,7 @@
     },
     {
       "id": "osm-w643179991",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ridgemoor Lane",
       "lat": 38.791295,
       "lng": -90.614363,
       "sports": [
@@ -8940,8 +8940,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ridgemoor Lane",
+      "city": "Saint Peters",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -9289,7 +9289,7 @@
     },
     {
       "id": "osm-w670169793",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Highland Hill Drive",
       "lat": 38.776634,
       "lng": -90.58428,
       "sports": [
@@ -9301,8 +9301,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Highland Hill Drive",
+      "city": "Saint Peters",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -9395,7 +9395,7 @@
     },
     {
       "id": "osm-w679269994",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Northwest Lake Drive",
       "lat": 38.987575,
       "lng": -94.386958,
       "sports": [
@@ -9407,8 +9407,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northwest Lake Drive",
+      "city": "Lee's Summit",
       "state": "MO",
       "source": "osm",
       "tags": {}
@@ -9543,7 +9543,7 @@
     },
     {
       "id": "osm-w737799126",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Northwest Poplar Street",
       "lat": 38.992931,
       "lng": -94.385437,
       "sports": [
@@ -9555,8 +9555,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northwest Poplar Street",
+      "city": "Lee's Summit",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -9649,7 +9649,7 @@
     },
     {
       "id": "osm-w758260758",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Northwest Briar Point Drive",
       "lat": 39.16529,
       "lng": -94.590485,
       "sports": [
@@ -9661,8 +9661,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northwest Briar Point Drive",
+      "city": "Kansas City",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -10040,7 +10040,7 @@
     },
     {
       "id": "osm-w842882987",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Burlington Street",
       "lat": 39.139706,
       "lng": -94.579979,
       "sports": [
@@ -10052,8 +10052,8 @@
       "indoor": true,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Burlington Street",
+      "city": "North Kansas City",
       "state": "MO",
       "source": "osm",
       "tags": {}
@@ -10251,7 +10251,7 @@
     },
     {
       "id": "osm-w864507792",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Via Pendio Drive",
       "lat": 38.175337,
       "lng": -92.648044,
       "sports": [
@@ -10263,8 +10263,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Via Pendio Drive",
+      "city": "Camden County",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -10437,7 +10437,7 @@
     },
     {
       "id": "osm-w911697889",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Laurel Court",
       "lat": 38.210887,
       "lng": -92.714936,
       "sports": [
@@ -10449,8 +10449,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Laurel Court",
+      "city": "Village of Four Seasons",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -10479,7 +10479,7 @@
     },
     {
       "id": "osm-w914686226",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Regency Drive",
       "lat": 37.870465,
       "lng": -92.256711,
       "sports": [
@@ -10491,8 +10491,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Regency Drive",
+      "city": "Pulaski County",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -11174,7 +11174,7 @@
     },
     {
       "id": "osm-w1059109061",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Westchester Court",
       "lat": 37.117626,
       "lng": -93.340827,
       "sports": [
@@ -11186,8 +11186,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Westchester Court",
+      "city": "Greene County",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -11364,7 +11364,7 @@
     },
     {
       "id": "osm-w1078556477",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Gillham Road",
       "lat": 39.061275,
       "lng": -94.581766,
       "sports": [
@@ -11376,8 +11376,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Gillham Road",
+      "city": "Kansas City",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -11612,7 +11612,7 @@
     },
     {
       "id": "osm-w1116709811",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Truman Road",
       "lat": 39.094897,
       "lng": -94.566414,
       "sports": [
@@ -11624,8 +11624,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Truman Road",
+      "city": "Kansas City",
       "state": "MO",
       "source": "osm",
       "tags": {}
@@ -11698,7 +11698,7 @@
     },
     {
       "id": "osm-w1127423381",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bess Truman Parkway",
       "lat": 39.098157,
       "lng": -94.421158,
       "sports": [
@@ -11710,8 +11710,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bess Truman Parkway",
+      "city": "Independence",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -11888,7 +11888,7 @@
     },
     {
       "id": "osm-w1161965355",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Washington Drive",
       "lat": 37.155239,
       "lng": -94.470166,
       "sports": [
@@ -11900,8 +11900,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Washington Drive",
+      "city": "Webb City",
       "state": "MO",
       "source": "osm",
       "tags": {}
@@ -11974,7 +11974,7 @@
     },
     {
       "id": "osm-w1174627936",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · River Valley Drive",
       "lat": 38.688637,
       "lng": -90.504873,
       "sports": [
@@ -11986,8 +11986,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "River Valley Drive",
+      "city": "Chesterfield",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -12187,7 +12187,7 @@
     },
     {
       "id": "osm-w1192669450",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East Commons Drive",
       "lat": 38.75489,
       "lng": -91.057293,
       "sports": [
@@ -12199,8 +12199,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Commons Drive",
+      "city": "Innsbrook",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -12209,7 +12209,7 @@
     },
     {
       "id": "osm-w1192669454",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Innsbrook Drive",
       "lat": 38.765896,
       "lng": -91.056479,
       "sports": [
@@ -12222,8 +12222,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Innsbrook Drive",
+      "city": "Innsbrook",
       "state": "MO",
       "source": "osm",
       "tags": {}
@@ -12463,7 +12463,7 @@
     },
     {
       "id": "osm-w1197886021",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Independence Boulevard",
       "lat": 39.106184,
       "lng": -94.555388,
       "sports": [
@@ -12475,8 +12475,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Independence Boulevard",
+      "city": "Kansas City",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -12547,7 +12547,7 @@
     },
     {
       "id": "osm-w1205917398",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Villa Dorado Drive",
       "lat": 38.690454,
       "lng": -90.434832,
       "sports": [
@@ -12559,8 +12559,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Villa Dorado Drive",
+      "city": "Saint Louis County",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -12989,7 +12989,7 @@
     },
     {
       "id": "osm-w1217730503",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Stonecrop Drive",
       "lat": 38.834775,
       "lng": -90.72523,
       "sports": [
@@ -13001,8 +13001,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Stonecrop Drive",
+      "city": "O’Fallon",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -13031,7 +13031,7 @@
     },
     {
       "id": "osm-w1221092517",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Champagne Drive",
       "lat": 38.796736,
       "lng": -90.795108,
       "sports": [
@@ -13044,15 +13044,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Champagne Drive",
+      "city": "Lake Saint Louis",
       "state": "MO",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1221211834",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Napa Lane",
       "lat": 38.718712,
       "lng": -90.587116,
       "sports": [
@@ -13064,8 +13064,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Napa Lane",
+      "city": "Harvester",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -13140,7 +13140,7 @@
     },
     {
       "id": "osm-w1227892277",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · St Louis Mills Circle",
       "lat": 38.78833,
       "lng": -90.412427,
       "sports": [
@@ -13152,8 +13152,8 @@
       "indoor": true,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "St Louis Mills Circle",
+      "city": "Hazelwood",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -13226,7 +13226,7 @@
     },
     {
       "id": "osm-w1247954603",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Thorntree Lane",
       "lat": 38.498615,
       "lng": -90.651141,
       "sports": [
@@ -13238,8 +13238,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Thorntree Lane",
+      "city": "Eureka",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -13270,7 +13270,7 @@
     },
     {
       "id": "osm-w1256711842",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Howard Avenue",
       "lat": 37.057623,
       "lng": -93.555648,
       "sports": [
@@ -13282,8 +13282,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Howard Avenue",
+      "city": "Billings",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -13481,7 +13481,7 @@
     },
     {
       "id": "osm-w1289815750",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Allen Way",
       "lat": 39.218562,
       "lng": -94.7098,
       "sports": [
@@ -13494,8 +13494,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Allen Way",
+      "city": "Parkville",
       "state": "MO",
       "source": "osm",
       "tags": {}
@@ -13524,7 +13524,7 @@
     },
     {
       "id": "osm-w1293468414",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East 24th Street",
       "lat": 37.064096,
       "lng": -94.50706,
       "sports": [
@@ -13536,8 +13536,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 24th Street",
+      "city": "Joplin",
       "state": "MO",
       "source": "osm",
       "tags": {}
@@ -13630,7 +13630,7 @@
     },
     {
       "id": "osm-w1303747333",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Timber Ridge Drive",
       "lat": 39.26391,
       "lng": -94.453612,
       "sports": [
@@ -13642,8 +13642,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Timber Ridge Drive",
+      "city": "Liberty",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -13652,7 +13652,7 @@
     },
     {
       "id": "osm-w1303777033",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Northeast 76th Street",
       "lat": 39.230863,
       "lng": -94.577401,
       "sports": [
@@ -13664,8 +13664,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northeast 76th Street",
+      "city": "Gladstone",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -14117,7 +14117,7 @@
     },
     {
       "id": "osm-w1333225538",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Saint Dominic Drive",
       "lat": 38.805103,
       "lng": -90.722152,
       "sports": [
@@ -14129,15 +14129,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Saint Dominic Drive",
+      "city": "O’Fallon",
       "state": "MO",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1333225597",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · O'Fallon Lakes Drive",
       "lat": 38.801938,
       "lng": -90.748922,
       "sports": [
@@ -14149,8 +14149,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "O'Fallon Lakes Drive",
+      "city": "O’Fallon",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -14411,7 +14411,7 @@
     },
     {
       "id": "osm-w1354309088",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Grand Summit Drive",
       "lat": 38.845685,
       "lng": -94.51764,
       "sports": [
@@ -14423,8 +14423,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Grand Summit Drive",
+      "city": "Grandview",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -14604,7 +14604,7 @@
     },
     {
       "id": "osm-w1365573879",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Campbell Street",
       "lat": 38.791218,
       "lng": -94.270154,
       "sports": [
@@ -14616,8 +14616,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Campbell Street",
+      "city": "Pleasant Hill",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -14648,7 +14648,7 @@
     },
     {
       "id": "osm-w1367989849",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North 10th Street",
       "lat": 38.636346,
       "lng": -90.191715,
       "sports": [
@@ -14660,8 +14660,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North 10th Street",
+      "city": "Saint Louis",
       "state": "MO",
       "source": "osm",
       "tags": {}
@@ -14816,7 +14816,7 @@
     },
     {
       "id": "osm-w1385399389",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East 50th Street",
       "lat": 39.036774,
       "lng": -94.581677,
       "sports": [
@@ -14828,8 +14828,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 50th Street",
+      "city": "Kansas City",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -15009,7 +15009,7 @@
     },
     {
       "id": "osm-w1409560264",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Drury Lane",
       "lat": 37.220457,
       "lng": -93.286376,
       "sports": [
@@ -15022,15 +15022,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Drury Lane",
+      "city": "Springfield",
       "state": "MO",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1412547722",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Friendship Ridge Lane",
       "lat": 38.522256,
       "lng": -90.406984,
       "sports": [
@@ -15042,8 +15042,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Friendship Ridge Lane",
+      "city": "Sunset Hills",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -15179,7 +15179,7 @@
     },
     {
       "id": "osm-w1418745379",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Knickerbacker Drive",
       "lat": 38.571205,
       "lng": -90.513996,
       "sports": [
@@ -15191,8 +15191,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Knickerbacker Drive",
+      "city": "Manchester",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -15287,7 +15287,7 @@
     },
     {
       "id": "osm-w1422756488",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Southern Hills Drive",
       "lat": 38.500135,
       "lng": -90.657542,
       "sports": [
@@ -15300,15 +15300,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Southern Hills Drive",
+      "city": "Eureka",
       "state": "MO",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1422757076",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Timber Falls Lane",
       "lat": 38.130583,
       "lng": -92.718168,
       "sports": [
@@ -15320,8 +15320,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Timber Falls Lane",
+      "city": "Camden County",
       "state": "MO",
       "source": "osm",
       "tags": {}
@@ -15900,7 +15900,7 @@
     },
     {
       "id": "osm-w1444099029",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Cherry Street",
       "lat": 37.203604,
       "lng": -93.213047,
       "sports": [
@@ -15912,8 +15912,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Cherry Street",
+      "city": "Springfield",
       "state": "MO",
       "source": "osm",
       "tags": {}
@@ -16006,7 +16006,7 @@
     },
     {
       "id": "osm-w1447244619",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Sunny Road",
       "lat": 38.546976,
       "lng": -91.13651,
       "sports": [
@@ -16018,8 +16018,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sunny Road",
+      "city": "Franklin County",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -16236,7 +16236,7 @@
     },
     {
       "id": "osm-w1455788318",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Pedro Simmons Drive",
       "lat": 36.894955,
       "lng": -89.350517,
       "sports": [
@@ -16248,8 +16248,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pedro Simmons Drive",
+      "city": "Charleston",
       "state": "MO",
       "source": "osm",
       "tags": {}
@@ -16613,7 +16613,7 @@
     },
     {
       "id": "osm-w1462985353",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · College Street",
       "lat": 37.586685,
       "lng": -90.627447,
       "sports": [
@@ -16625,8 +16625,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "College Street",
+      "city": "Arcadia",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -16741,7 +16741,7 @@
     },
     {
       "id": "osm-w1466835956",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Northwest 86th Place",
       "lat": 39.25096,
       "lng": -94.663798,
       "sports": [
@@ -16753,8 +16753,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northwest 86th Place",
+      "city": "Kansas City",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -17355,7 +17355,7 @@
     },
     {
       "id": "osm-w1471511553",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Northeast 103rd Street",
       "lat": 39.280615,
       "lng": -94.548321,
       "sports": [
@@ -17367,8 +17367,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northeast 103rd Street",
+      "city": "Kansas City",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -17461,7 +17461,7 @@
     },
     {
       "id": "osm-w1472113573",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lake Shore Drive",
       "lat": 36.654597,
       "lng": -93.211092,
       "sports": [
@@ -17474,8 +17474,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lake Shore Drive",
+      "city": "Taney County",
       "state": "MO",
       "source": "osm",
       "tags": {}
@@ -17809,7 +17809,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Warrensburg",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -17818,7 +17818,7 @@
     },
     {
       "id": "osm-w1474480832",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Watson Parkway",
       "lat": 38.349604,
       "lng": -93.762671,
       "sports": [
@@ -17830,8 +17830,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Watson Parkway",
+      "city": "Clinton",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -17919,7 +17919,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Camden County",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -18118,7 +18118,7 @@
     },
     {
       "id": "osm-w1474854632",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Division Street",
       "lat": 37.223822,
       "lng": -93.201342,
       "sports": [
@@ -18130,8 +18130,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Division Street",
+      "city": "Greene County",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -18328,7 +18328,7 @@
     },
     {
       "id": "osm-w1474901563",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Forest Club Drive",
       "lat": 38.617251,
       "lng": -90.594562,
       "sports": [
@@ -18341,8 +18341,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Forest Club Drive",
+      "city": "Clarkson Valley",
       "state": "MO",
       "source": "osm",
       "tags": {}
@@ -18413,7 +18413,7 @@
     },
     {
       "id": "osm-w1474902979",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Timberland Drive",
       "lat": 38.775531,
       "lng": -90.846469,
       "sports": [
@@ -18425,8 +18425,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Timberland Drive",
+      "city": "Wentzville",
       "state": "MO",
       "source": "osm",
       "tags": {}
@@ -18454,7 +18454,7 @@
     },
     {
       "id": "osm-w1474903273",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Lockhaven Court",
       "lat": 38.783266,
       "lng": -90.751405,
       "sports": [
@@ -18466,15 +18466,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lockhaven Court",
+      "city": "Lake Saint Louis",
       "state": "MO",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1474903395",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Courtois Common North",
       "lat": 38.722463,
       "lng": -90.65768,
       "sports": [
@@ -18486,8 +18486,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Courtois Common North",
+      "city": "Weldon Spring",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -18496,7 +18496,7 @@
     },
     {
       "id": "osm-w1474903495",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Whispering Pines Drive",
       "lat": 38.683013,
       "lng": -90.464458,
       "sports": [
@@ -18508,8 +18508,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Whispering Pines Drive",
+      "city": "Saint Louis County",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -18539,7 +18539,7 @@
     },
     {
       "id": "osm-w1474903983",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Featherstone Drive",
       "lat": 38.616793,
       "lng": -90.474243,
       "sports": [
@@ -18551,8 +18551,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Featherstone Drive",
+      "city": "Town and Country",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -19080,7 +19080,7 @@
     },
     {
       "id": "osm-w1480197622",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Slater Drive",
       "lat": 38.540563,
       "lng": -90.976108,
       "sports": [
@@ -19092,8 +19092,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Slater Drive",
+      "city": "Washington",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -19746,7 +19746,7 @@
     },
     {
       "id": "osm-w1527269771",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Emerald Bay Drive",
       "lat": 38.19257,
       "lng": -92.673744,
       "sports": [
@@ -19758,8 +19758,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Emerald Bay Drive",
+      "city": "Camden County",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -19768,7 +19768,7 @@
     },
     {
       "id": "osm-w1527275144",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Black Hawk Terrace",
       "lat": 38.190335,
       "lng": -92.677104,
       "sports": [
@@ -19780,8 +19780,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Black Hawk Terrace",
+      "city": "Camden County",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -19845,7 +19845,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Village of Four Seasons",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -19876,7 +19876,7 @@
     },
     {
       "id": "osm-w1535879081",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Elizabeth Street",
       "lat": 39.221714,
       "lng": -94.758835,
       "sports": [
@@ -19888,8 +19888,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Elizabeth Street",
+      "city": "Parkville",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -20095,7 +20095,7 @@
     },
     {
       "id": "osm-w1536631137",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Alona Point",
       "lat": 38.144546,
       "lng": -92.680844,
       "sports": [
@@ -20107,8 +20107,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Alona Point",
+      "city": "Osage Beach",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -20247,7 +20247,7 @@
     },
     {
       "id": "osm-w1539188114",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Carson Drive",
       "lat": 38.106069,
       "lng": -92.711514,
       "sports": [
@@ -20259,8 +20259,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Carson Drive",
+      "city": "Camden County",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -20291,7 +20291,7 @@
     },
     {
       "id": "osm-w1539794213",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Recreation Row",
       "lat": 38.100096,
       "lng": -92.79722,
       "sports": [
@@ -20303,8 +20303,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Recreation Row",
+      "city": "Greenview",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -20313,7 +20313,7 @@
     },
     {
       "id": "osm-w1540062405",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Barolo Lane",
       "lat": 38.074776,
       "lng": -92.767331,
       "sports": [
@@ -20325,8 +20325,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Barolo Lane",
+      "city": "Friedenswald",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -20379,7 +20379,7 @@
     },
     {
       "id": "osm-w1547033871",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Summer Place Drive",
       "lat": 38.137863,
       "lng": -92.822262,
       "sports": [
@@ -20391,8 +20391,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Summer Place Drive",
+      "city": "Camden County",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -20401,7 +20401,7 @@
     },
     {
       "id": "osm-w1547938352",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Northwest O'Brien Road",
       "lat": 38.920171,
       "lng": -94.416139,
       "sports": [
@@ -20413,8 +20413,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northwest O'Brien Road",
+      "city": "Lee's Summit",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -20507,7 +20507,7 @@
     },
     {
       "id": "osm-w1554337953",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Foxhead Shores Drive",
       "lat": 38.080394,
       "lng": -92.740572,
       "sports": [
@@ -20519,8 +20519,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Foxhead Shores Drive",
+      "city": "Friedenswald",
       "state": "MO",
       "source": "osm",
       "tags": {
@@ -20542,7 +20542,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Bolivar",
       "state": "MO",
       "source": "osm",
       "tags": {}
@@ -20584,7 +20584,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Blue Springs",
       "state": "MO",
       "source": "osm",
       "tags": {

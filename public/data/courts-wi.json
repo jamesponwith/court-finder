@@ -127,7 +127,7 @@
     },
     {
       "id": "osm-n13391053184",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East-West Freeway",
       "lat": 43.035564,
       "lng": -87.90917,
       "sports": [
@@ -139,8 +139,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East-West Freeway",
+      "city": "Milwaukee",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -193,7 +193,7 @@
     },
     {
       "id": "osm-w15059819",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Reserve Street",
       "lat": 44.531704,
       "lng": -89.570321,
       "sports": [
@@ -205,8 +205,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Reserve Street",
+      "city": "Stevens Point",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -648,7 +648,7 @@
     },
     {
       "id": "osm-w63939600",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Vilas Park Path",
       "lat": 43.060224,
       "lng": -89.415647,
       "sports": [
@@ -660,8 +660,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Vilas Park Path",
+      "city": "Madison",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -861,7 +861,7 @@
     },
     {
       "id": "osm-w85872482",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Allman Street",
       "lat": 45.148275,
       "lng": -90.358716,
       "sports": [
@@ -874,8 +874,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Allman Street",
+      "city": "Town of Medford",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -1108,7 +1108,7 @@
     },
     {
       "id": "osm-w111460513",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Park Place",
       "lat": 43.067707,
       "lng": -87.889962,
       "sports": [
@@ -1120,15 +1120,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Park Place",
+      "city": "Milwaukee",
       "state": "WI",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w118781024",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Lincoln Memorial Drive",
       "lat": 43.054121,
       "lng": -87.885549,
       "sports": [
@@ -1140,8 +1140,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Lincoln Memorial Drive",
+      "city": "Milwaukee",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -1170,7 +1170,7 @@
     },
     {
       "id": "osm-w121502804",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Landmark Circle",
       "lat": 45.041031,
       "lng": -87.297718,
       "sports": [
@@ -1183,15 +1183,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Landmark Circle",
+      "city": "Town of Egg Harbor",
       "state": "WI",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w121502808",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Evergreen Road",
       "lat": 45.044214,
       "lng": -87.306904,
       "sports": [
@@ -1203,8 +1203,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Evergreen Road",
+      "city": "Egg Harbor",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -1213,7 +1213,7 @@
     },
     {
       "id": "osm-w121502811",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Alpine Road",
       "lat": 45.045228,
       "lng": -87.289635,
       "sports": [
@@ -1225,8 +1225,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Alpine Road",
+      "city": "Egg Harbor",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -1235,7 +1235,7 @@
     },
     {
       "id": "osm-w121502812",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Horseshoe Bay Road",
       "lat": 45.041504,
       "lng": -87.309863,
       "sports": [
@@ -1247,8 +1247,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Horseshoe Bay Road",
+      "city": "Egg Harbor",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -1811,7 +1811,7 @@
     },
     {
       "id": "osm-w142995940",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lincoln Street",
       "lat": 44.187498,
       "lng": -88.447576,
       "sports": [
@@ -1823,8 +1823,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lincoln Street",
+      "city": "Neenah",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -2308,7 +2308,7 @@
     },
     {
       "id": "osm-w168635585",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bristlecone Drive",
       "lat": 43.118374,
       "lng": -88.323387,
       "sports": [
@@ -2320,8 +2320,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bristlecone Drive",
+      "city": "Hartland",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -2583,7 +2583,7 @@
     },
     {
       "id": "osm-w176078523",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Thornbush Circle",
       "lat": 43.111188,
       "lng": -88.323559,
       "sports": [
@@ -2595,8 +2595,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Thornbush Circle",
+      "city": "Hartland",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -2813,7 +2813,7 @@
     },
     {
       "id": "osm-w193818061",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Pheasant Branch Conservancy Northeast Trail",
       "lat": 43.117855,
       "lng": -89.476288,
       "sports": [
@@ -2825,8 +2825,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pheasant Branch Conservancy Northeast Trail",
+      "city": "Middleton",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -2877,7 +2877,7 @@
     },
     {
       "id": "osm-w202300578",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 7th Street",
       "lat": 44.210394,
       "lng": -88.451429,
       "sports": [
@@ -2889,8 +2889,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "7th Street",
+      "city": "Menasha",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -3040,7 +3040,7 @@
     },
     {
       "id": "osm-w205662509",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East River Trail",
       "lat": 44.454021,
       "lng": -88.020928,
       "sports": [
@@ -3052,8 +3052,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East River Trail",
+      "city": "Allouez",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -3101,7 +3101,7 @@
     },
     {
       "id": "osm-w206477363",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · High Parking Lot",
       "lat": 45.098357,
       "lng": -92.528482,
       "sports": [
@@ -3113,8 +3113,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "High Parking Lot",
+      "city": "New Richmond",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -3141,7 +3141,7 @@
     },
     {
       "id": "osm-w207085869",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Ville du Parc Drive",
       "lat": 43.243028,
       "lng": -87.950735,
       "sports": [
@@ -3154,8 +3154,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Ville du Parc Drive",
+      "city": "Mequon",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -3418,7 +3418,7 @@
     },
     {
       "id": "osm-w231384658",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Czech Court",
       "lat": 43.991069,
       "lng": -89.960038,
       "sports": [
@@ -3430,8 +3430,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Czech Court",
+      "city": "Town of Strongs Prairie",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -4019,7 +4019,7 @@
     },
     {
       "id": "osm-w244125940",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Oak Street",
       "lat": 44.979687,
       "lng": -92.740828,
       "sports": [
@@ -4031,8 +4031,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Oak Street",
+      "city": "Hudson",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -4222,7 +4222,7 @@
     },
     {
       "id": "osm-w244285302",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · High School Drive",
       "lat": 42.67164,
       "lng": -88.528672,
       "sports": [
@@ -4234,8 +4234,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "High School Drive",
+      "city": "Elkhorn",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -4277,7 +4277,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Burlington",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -4328,7 +4328,7 @@
     },
     {
       "id": "osm-w244499768",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Beverly Hills Trail",
       "lat": 43.064755,
       "lng": -88.109975,
       "sports": [
@@ -4340,8 +4340,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Beverly Hills Trail",
+      "city": "Brookfield",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -4680,7 +4680,7 @@
     },
     {
       "id": "osm-w247888574",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Greenville Walking Path",
       "lat": 44.299872,
       "lng": -88.529734,
       "sports": [
@@ -4692,8 +4692,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Greenville Walking Path",
+      "city": "Greenville",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -5038,7 +5038,7 @@
     },
     {
       "id": "osm-w265351726",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Golf View Drive",
       "lat": 45.864425,
       "lng": -89.684443,
       "sports": [
@@ -5050,8 +5050,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Golf View Drive",
+      "city": "Town of Minocqua",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -5335,7 +5335,7 @@
     },
     {
       "id": "osm-w289075838",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North River Road",
       "lat": 43.167812,
       "lng": -87.933566,
       "sports": [
@@ -5347,8 +5347,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North River Road",
+      "city": "River Hills",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -6645,7 +6645,7 @@
     },
     {
       "id": "osm-w292637588",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Blazing Star Boulevard",
       "lat": 44.814148,
       "lng": -91.462063,
       "sports": [
@@ -6657,15 +6657,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Blazing Star Boulevard",
+      "city": "Altoona",
       "state": "WI",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w292637592",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Meadow Green Road",
       "lat": 45.962307,
       "lng": -92.152485,
       "sports": [
@@ -6677,8 +6677,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Meadow Green Road",
+      "city": "Town of Scott",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -6811,7 +6811,7 @@
     },
     {
       "id": "osm-w294903604",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Campus Drive",
       "lat": 43.736252,
       "lng": -87.756578,
       "sports": [
@@ -6823,15 +6823,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Campus Drive",
+      "city": "Sheboygan",
       "state": "WI",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w295841988",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Illinois Avenue",
       "lat": 44.531927,
       "lng": -89.568157,
       "sports": [
@@ -6843,8 +6843,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Illinois Avenue",
+      "city": "Stevens Point",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -7118,7 +7118,7 @@
     },
     {
       "id": "osm-w325337971",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Airport Road",
       "lat": 46.159831,
       "lng": -89.210262,
       "sports": [
@@ -7130,8 +7130,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Airport Road",
+      "city": "Town of Land O' Lakes",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -7223,7 +7223,7 @@
     },
     {
       "id": "osm-w331959288",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Division Street",
       "lat": 45.915997,
       "lng": -89.260126,
       "sports": [
@@ -7235,8 +7235,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Division Street",
+      "city": "Eagle River",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -7326,7 +7326,7 @@
     },
     {
       "id": "osm-w358228351",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Decorah Road",
       "lat": 43.410814,
       "lng": -88.166747,
       "sports": [
@@ -7338,8 +7338,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Decorah Road",
+      "city": "West Bend",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -7926,7 +7926,7 @@
     },
     {
       "id": "osm-w362815917",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Brandy Beach Road",
       "lat": 45.900469,
       "lng": -89.702727,
       "sports": [
@@ -7938,8 +7938,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Brandy Beach Road",
+      "city": "Town of Arbor Vitae",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -8257,7 +8257,7 @@
     },
     {
       "id": "osm-w369446804",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Marquette Street",
       "lat": 44.843852,
       "lng": -91.484437,
       "sports": [
@@ -8269,8 +8269,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Marquette Street",
+      "city": "Eau Claire",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -8359,7 +8359,7 @@
     },
     {
       "id": "osm-w369613523",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Pearl Avenue",
       "lat": 44.022971,
       "lng": -88.551084,
       "sports": [
@@ -8371,8 +8371,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pearl Avenue",
+      "city": "Oshkosh",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -8507,7 +8507,7 @@
     },
     {
       "id": "osm-w370489919",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Prospect Avenue",
       "lat": 44.254061,
       "lng": -88.42127,
       "sports": [
@@ -8519,8 +8519,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Prospect Avenue",
+      "city": "Appleton",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -8611,7 +8611,7 @@
     },
     {
       "id": "osm-w370510473",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Country Club Drive",
       "lat": 42.544585,
       "lng": -88.554286,
       "sports": [
@@ -8624,8 +8624,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Country Club Drive",
+      "city": "Fontana-on-Geneva Lake",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -9332,7 +9332,7 @@
     },
     {
       "id": "osm-w372400697",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Brown Street",
       "lat": 44.979445,
       "lng": -89.604073,
       "sports": [
@@ -9344,8 +9344,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Brown Street",
+      "city": "Wausau",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -10153,7 +10153,7 @@
     },
     {
       "id": "osm-w397093297",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Sheridan Road",
       "lat": 42.626592,
       "lng": -87.823782,
       "sports": [
@@ -10165,8 +10165,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sheridan Road",
+      "city": "Kenosha",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -10193,7 +10193,7 @@
     },
     {
       "id": "osm-w404458183",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lake Park Road",
       "lat": 43.072584,
       "lng": -87.870504,
       "sports": [
@@ -10205,15 +10205,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lake Park Road",
+      "city": "Milwaukee",
       "state": "WI",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w405129219",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Mathew Street",
       "lat": 43.587346,
       "lng": -89.796776,
       "sports": [
@@ -10225,8 +10225,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mathew Street",
+      "city": "Lake Delton",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -10801,7 +10801,7 @@
     },
     {
       "id": "osm-w413176982",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Slifer Street",
       "lat": 43.557544,
       "lng": -89.472997,
       "sports": [
@@ -10813,8 +10813,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Slifer Street",
+      "city": "Portage",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -11039,7 +11039,7 @@
     },
     {
       "id": "osm-w417982533",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Index Road",
       "lat": 43.026294,
       "lng": -89.409155,
       "sports": [
@@ -11051,8 +11051,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Index Road",
+      "city": "Fitchburg",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -11103,7 +11103,7 @@
     },
     {
       "id": "osm-w423462341",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Keyes Street",
       "lat": 44.19809,
       "lng": -88.440384,
       "sports": [
@@ -11116,8 +11116,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Keyes Street",
+      "city": "Menasha",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -11389,7 +11389,7 @@
     },
     {
       "id": "osm-w431341082",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Parkridge Lane",
       "lat": 42.948887,
       "lng": -88.014081,
       "sports": [
@@ -11401,8 +11401,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Parkridge Lane",
+      "city": "Greendale",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -11621,7 +11621,7 @@
     },
     {
       "id": "osm-w432398135",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Detrie Court",
       "lat": 43.112213,
       "lng": -88.070595,
       "sports": [
@@ -11633,8 +11633,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Detrie Court",
+      "city": "Butler",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -12427,7 +12427,7 @@
     },
     {
       "id": "osm-w447124240",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cutler Street",
       "lat": 43.005712,
       "lng": -88.230308,
       "sports": [
@@ -12439,8 +12439,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cutler Street",
+      "city": "Waukesha",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -13240,7 +13240,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Town of Troy",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -13334,7 +13334,7 @@
     },
     {
       "id": "osm-w461339583",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Birch Avenue",
       "lat": 45.40707,
       "lng": -91.855909,
       "sports": [
@@ -13346,8 +13346,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Birch Avenue",
+      "city": "Barron",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -14375,7 +14375,7 @@
     },
     {
       "id": "osm-w482907928",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Elm Street",
       "lat": 45.309377,
       "lng": -92.366938,
       "sports": [
@@ -14387,8 +14387,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Elm Street",
+      "city": "Amery",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -14435,7 +14435,7 @@
     },
     {
       "id": "osm-w484293661",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Course View Drive",
       "lat": 42.947399,
       "lng": -89.244445,
       "sports": [
@@ -14447,8 +14447,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Course View Drive",
+      "city": "Dane County",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -14754,7 +14754,7 @@
     },
     {
       "id": "osm-w489601691",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Apache Lane",
       "lat": 44.192109,
       "lng": -89.818297,
       "sports": [
@@ -14766,8 +14766,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Apache Lane",
+      "city": "Lake Sherwood",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -14789,7 +14789,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Adams County",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -14798,7 +14798,7 @@
     },
     {
       "id": "osm-w490164548",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Pondhurst Circle",
       "lat": 45.300118,
       "lng": -92.379802,
       "sports": [
@@ -14810,8 +14810,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pondhurst Circle",
+      "city": "Amery",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -15025,7 +15025,7 @@
     },
     {
       "id": "osm-w508305375",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hickory Street",
       "lat": 43.725876,
       "lng": -87.804112,
       "sports": [
@@ -15038,8 +15038,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hickory Street",
+      "city": "Sheboygan Falls",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -15146,7 +15146,7 @@
     },
     {
       "id": "osm-w543214930",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Arrowhead Park Trail",
       "lat": 44.252437,
       "lng": -88.484456,
       "sports": [
@@ -15158,8 +15158,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Arrowhead Park Trail",
+      "city": "Town of Grand Chute",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -15335,7 +15335,7 @@
     },
     {
       "id": "osm-w549581267",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Dennis Droese Drive",
       "lat": 43.142762,
       "lng": -88.091581,
       "sports": [
@@ -15348,8 +15348,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Dennis Droese Drive",
+      "city": "Menomonee Falls",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -15438,7 +15438,7 @@
     },
     {
       "id": "osm-w554228894",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Grahl Avenue",
       "lat": 43.695614,
       "lng": -88.365516,
       "sports": [
@@ -15450,8 +15450,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Grahl Avenue",
+      "city": "Eden",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -15651,7 +15651,7 @@
     },
     {
       "id": "osm-w560565692",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Canal Street",
       "lat": 44.276573,
       "lng": -88.313612,
       "sports": [
@@ -15663,8 +15663,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Canal Street",
+      "city": "Little Chute",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -15781,7 +15781,7 @@
     },
     {
       "id": "osm-w572491343",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Maricopa Drive",
       "lat": 43.999974,
       "lng": -88.594075,
       "sports": [
@@ -15793,8 +15793,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Maricopa Drive",
+      "city": "Oshkosh",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -16053,7 +16053,7 @@
     },
     {
       "id": "osm-w591071598",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Riverview Drive",
       "lat": 45.917321,
       "lng": -89.254777,
       "sports": [
@@ -16065,8 +16065,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Riverview Drive",
+      "city": "Eagle River",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -16137,7 +16137,7 @@
     },
     {
       "id": "osm-w592908056",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North 75th Street",
       "lat": 43.185357,
       "lng": -88.000636,
       "sports": [
@@ -16149,8 +16149,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North 75th Street",
+      "city": "Milwaukee",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -16627,7 +16627,7 @@
     },
     {
       "id": "osm-w648810921",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Sturgeon Eddy Road",
       "lat": 44.939894,
       "lng": -89.629078,
       "sports": [
@@ -16639,8 +16639,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sturgeon Eddy Road",
+      "city": "Wausau",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -17427,7 +17427,7 @@
     },
     {
       "id": "osm-w713251609",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Highland Road",
       "lat": 43.249879,
       "lng": -87.917654,
       "sports": [
@@ -17439,8 +17439,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Highland Road",
+      "city": "Mequon",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -17959,7 +17959,7 @@
     },
     {
       "id": "osm-w771777696",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Village Lane",
       "lat": 44.003015,
       "lng": -88.598646,
       "sports": [
@@ -17971,8 +17971,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Village Lane",
+      "city": "Oshkosh",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -18041,7 +18041,7 @@
     },
     {
       "id": "osm-w783485465",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Purcell Road",
       "lat": 42.94329,
       "lng": -89.502674,
       "sports": [
@@ -18053,8 +18053,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Purcell Road",
+      "city": "Town of Verona",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -18866,7 +18866,7 @@
     },
     {
       "id": "osm-w921322240",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Main Street",
       "lat": 44.17,
       "lng": -88.064635,
       "sports": [
@@ -18878,8 +18878,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Main Street",
+      "city": "Brillion",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -20020,7 +20020,7 @@
     },
     {
       "id": "osm-w1064479250",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East King Road",
       "lat": 45.479333,
       "lng": -89.707428,
       "sports": [
@@ -20032,8 +20032,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East King Road",
+      "city": "Tomahawk",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -20829,7 +20829,7 @@
     },
     {
       "id": "osm-w1146828321",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · High Street",
       "lat": 45.003243,
       "lng": -91.721661,
       "sports": [
@@ -20842,8 +20842,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "High Street",
+      "city": "Colfax",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -21437,7 +21437,7 @@
     },
     {
       "id": "osm-w1180134448",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 197th Street",
       "lat": 44.925825,
       "lng": -91.273502,
       "sports": [
@@ -21449,8 +21449,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "197th Street",
+      "city": "Town of Lafayette",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -21499,7 +21499,7 @@
     },
     {
       "id": "osm-w1182065010",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Yahara Drive",
       "lat": 43.071244,
       "lng": -88.444376,
       "sports": [
@@ -21511,8 +21511,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Yahara Drive",
+      "city": "Summit",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -21561,7 +21561,7 @@
     },
     {
       "id": "osm-w1190665559",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Athletic Avenue",
       "lat": 42.500466,
       "lng": -89.01811,
       "sports": [
@@ -21573,8 +21573,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Athletic Avenue",
+      "city": "Beloit",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -21625,7 +21625,7 @@
     },
     {
       "id": "osm-w1206484910",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Camp Brynafon Road",
       "lat": 45.66357,
       "lng": -89.277137,
       "sports": [
@@ -21637,8 +21637,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Camp Brynafon Road",
+      "city": "Oneida County",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -21756,7 +21756,7 @@
     },
     {
       "id": "osm-w1219101680",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · St Anne Court",
       "lat": 43.245066,
       "lng": -87.960318,
       "sports": [
@@ -21768,8 +21768,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "St Anne Court",
+      "city": "Mequon",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -22204,7 +22204,7 @@
     },
     {
       "id": "osm-w1274419416",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Sullivan Street",
       "lat": 43.838369,
       "lng": -88.835014,
       "sports": [
@@ -22216,8 +22216,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Sullivan Street",
+      "city": "Ripon",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -22266,7 +22266,7 @@
     },
     {
       "id": "osm-w1290445418",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Romans' Road",
       "lat": 45.249326,
       "lng": -88.750511,
       "sports": [
@@ -22279,8 +22279,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Romans' Road",
+      "city": "Town of Wolf River",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -22416,7 +22416,7 @@
     },
     {
       "id": "osm-w1301022965",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cobblestone Circle",
       "lat": 45.014715,
       "lng": -87.319711,
       "sports": [
@@ -22428,8 +22428,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cobblestone Circle",
+      "city": "Town of Egg Harbor",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -22438,7 +22438,7 @@
     },
     {
       "id": "osm-w1301022981",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wayside Road",
       "lat": 45.018593,
       "lng": -87.316312,
       "sports": [
@@ -22450,8 +22450,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wayside Road",
+      "city": "Town of Egg Harbor",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -22480,7 +22480,7 @@
     },
     {
       "id": "osm-w1303893343",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Park Street",
       "lat": 43.500475,
       "lng": -87.851401,
       "sports": [
@@ -22493,8 +22493,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Park Street",
+      "city": "Belgium",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -22670,7 +22670,7 @@
     },
     {
       "id": "osm-w1308521274",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Pine Avenue East",
       "lat": 44.901464,
       "lng": -91.919419,
       "sports": [
@@ -22683,8 +22683,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pine Avenue East",
+      "city": "Menomonie",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -22857,7 +22857,7 @@
     },
     {
       "id": "osm-w1328429451",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East 1st Avenue",
       "lat": 46.551543,
       "lng": -91.575684,
       "sports": [
@@ -22869,8 +22869,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 1st Avenue",
+      "city": "Town of Brule",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -23001,7 +23001,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Waukesha",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -23010,7 +23010,7 @@
     },
     {
       "id": "osm-w1339404052",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 115th Street",
       "lat": 44.869118,
       "lng": -91.43763,
       "sports": [
@@ -23022,8 +23022,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "115th Street",
+      "city": "Lake Hallie",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -23268,7 +23268,7 @@
     },
     {
       "id": "osm-w1354308898",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Freshford Drive",
       "lat": 43.174137,
       "lng": -89.450716,
       "sports": [
@@ -23280,8 +23280,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Freshford Drive",
+      "city": "Waunakee",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -23523,7 +23523,7 @@
     },
     {
       "id": "osm-w1363862002",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Richter Lane",
       "lat": 44.163492,
       "lng": -88.769012,
       "sports": [
@@ -23535,8 +23535,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Richter Lane",
+      "city": "Town of Wolf River",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -24075,7 +24075,7 @@
     },
     {
       "id": "osm-w1423041169",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Lake Geneva Shore Path",
       "lat": 42.575391,
       "lng": -88.468644,
       "sports": [
@@ -24087,8 +24087,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lake Geneva Shore Path",
+      "city": "Town of Linn",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -24285,7 +24285,7 @@
     },
     {
       "id": "osm-w1443749498",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Clayton Avenue",
       "lat": 45.330601,
       "lng": -92.174867,
       "sports": [
@@ -24297,8 +24297,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Clayton Avenue",
+      "city": "Clayton",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -24456,7 +24456,7 @@
     },
     {
       "id": "osm-w1447242584",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Rogers Street",
       "lat": 43.009129,
       "lng": -88.048971,
       "sports": [
@@ -24468,8 +24468,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Rogers Street",
+      "city": "West Allis",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -24520,7 +24520,7 @@
     },
     {
       "id": "osm-w1448288308",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Tower Drive",
       "lat": 44.830144,
       "lng": -91.397004,
       "sports": [
@@ -24533,8 +24533,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Tower Drive",
+      "city": "Town of Seymour",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -24561,7 +24561,7 @@
     },
     {
       "id": "osm-w1452564348",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bay Lane",
       "lat": 45.251909,
       "lng": -87.078144,
       "sports": [
@@ -24573,8 +24573,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bay Lane",
+      "city": "Town of Liberty Grove",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -25093,7 +25093,7 @@
     },
     {
       "id": "osm-w1470131648",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · McDonough Street",
       "lat": 44.823554,
       "lng": -91.488865,
       "sports": [
@@ -25105,8 +25105,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "McDonough Street",
+      "city": "Eau Claire",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -25239,7 +25239,7 @@
     },
     {
       "id": "osm-w1470133832",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lakewoods Drive",
       "lat": 46.199323,
       "lng": -91.124474,
       "sports": [
@@ -25251,8 +25251,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lakewoods Drive",
+      "city": "Town of Namakagon",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -25283,7 +25283,7 @@
     },
     {
       "id": "osm-w1470137172",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Michigan Avenue",
       "lat": 46.854269,
       "lng": -91.101518,
       "sports": [
@@ -25296,8 +25296,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Michigan Avenue",
+      "city": "Town of Bell",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -25656,7 +25656,7 @@
     },
     {
       "id": "osm-w1471825056",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Monroe Street",
       "lat": 43.728223,
       "lng": -87.815577,
       "sports": [
@@ -25668,8 +25668,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Monroe Street",
+      "city": "Sheboygan Falls",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -25786,7 +25786,7 @@
     },
     {
       "id": "osm-w1474787656",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Diamond Drive",
       "lat": 42.926461,
       "lng": -88.147933,
       "sports": [
@@ -25798,8 +25798,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Diamond Drive",
+      "city": "Muskego",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -26599,7 +26599,7 @@
     },
     {
       "id": "osm-w1481547936",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Shore Drive",
       "lat": 43.125009,
       "lng": -87.903425,
       "sports": [
@@ -26612,8 +26612,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Shore Drive",
+      "city": "Whitefish Bay",
       "state": "WI",
       "source": "osm",
       "tags": {}
@@ -27073,7 +27073,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Menomonie",
       "state": "WI",
       "source": "osm",
       "tags": {
@@ -27674,7 +27674,7 @@
     },
     {
       "id": "osm-w1556451779",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · South Saint Augustine Street",
       "lat": 44.666078,
       "lng": -88.243212,
       "sports": [
@@ -27686,8 +27686,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Saint Augustine Street",
+      "city": "Pulaski",
       "state": "WI",
       "source": "osm",
       "tags": {

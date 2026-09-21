@@ -245,7 +245,7 @@
     },
     {
       "id": "osm-n14157987441",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Stablestone Drive",
       "lat": 38.54563,
       "lng": -89.946844,
       "sports": [
@@ -257,8 +257,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Stablestone Drive",
+      "city": "Saint Clair County",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -267,7 +267,7 @@
     },
     {
       "id": "osm-n14196912348",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Whirlaway Drive",
       "lat": 42.115547,
       "lng": -87.871612,
       "sports": [
@@ -279,8 +279,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Whirlaway Drive",
+      "city": "Cook County",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -870,7 +870,7 @@
     },
     {
       "id": "osm-w39139356",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East 51st Street",
       "lat": 41.801834,
       "lng": -87.609379,
       "sports": [
@@ -882,8 +882,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 51st Street",
+      "city": "Chicago",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -1274,7 +1274,7 @@
     },
     {
       "id": "osm-w64989771",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North Front Street",
       "lat": 40.881871,
       "lng": -89.499736,
       "sports": [
@@ -1286,8 +1286,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Front Street",
+      "city": "Rome",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -1627,7 +1627,7 @@
     },
     {
       "id": "osm-w70985668",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Luis Muñoz Marín Drive",
       "lat": 41.905927,
       "lng": -87.697447,
       "sports": [
@@ -1639,8 +1639,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": false,
-      "address": null,
-      "city": null,
+      "address": "Luis Muñoz Marín Drive",
+      "city": "Chicago",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -1751,7 +1751,7 @@
     },
     {
       "id": "osm-w84882122",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Warren Street",
       "lat": 41.881303,
       "lng": -87.834718,
       "sports": [
@@ -1763,8 +1763,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Warren Street",
+      "city": "Maywood",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -2372,7 +2372,7 @@
     },
     {
       "id": "osm-w116060584",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Woodward Drive",
       "lat": 41.878172,
       "lng": -87.717091,
       "sports": [
@@ -2384,8 +2384,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Woodward Drive",
+      "city": "Chicago",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -2638,7 +2638,7 @@
     },
     {
       "id": "osm-w119926336",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · St Andrews Circle",
       "lat": 41.876401,
       "lng": -88.337305,
       "sports": [
@@ -2650,8 +2650,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "St Andrews Circle",
+      "city": "Geneva",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -3108,7 +3108,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Mattoon",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -3178,7 +3178,7 @@
     },
     {
       "id": "osm-w123466514",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Thorndale Avenue",
       "lat": 41.988158,
       "lng": -87.709193,
       "sports": [
@@ -3190,8 +3190,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Thorndale Avenue",
+      "city": "Chicago",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -3595,7 +3595,7 @@
     },
     {
       "id": "osm-w142435184",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East 53rd Drive",
       "lat": 41.800162,
       "lng": -87.582226,
       "sports": [
@@ -3607,8 +3607,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 53rd Drive",
+      "city": "Chicago",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -3635,7 +3635,7 @@
     },
     {
       "id": "osm-w143393853",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Cottage Grove Avenue",
       "lat": 41.793957,
       "lng": -87.605847,
       "sports": [
@@ -3647,8 +3647,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Cottage Grove Avenue",
+      "city": "Chicago",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -3867,7 +3867,7 @@
     },
     {
       "id": "osm-w149492963",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Country Club Road",
       "lat": 39.473233,
       "lng": -88.325832,
       "sports": [
@@ -3879,8 +3879,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Country Club Road",
+      "city": "Mattoon",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -4405,7 +4405,7 @@
     },
     {
       "id": "osm-w164556615",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Mansfield Drive",
       "lat": 41.784446,
       "lng": -88.263761,
       "sports": [
@@ -4418,8 +4418,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mansfield Drive",
+      "city": "Aurora",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -6106,7 +6106,7 @@
     },
     {
       "id": "osm-w178123647",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South State Street",
       "lat": 41.720716,
       "lng": -87.623256,
       "sports": [
@@ -6118,8 +6118,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South State Street",
+      "city": "Chicago",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -6461,7 +6461,7 @@
     },
     {
       "id": "osm-w179687132",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East 74th Street",
       "lat": 41.762243,
       "lng": -87.558212,
       "sports": [
@@ -6473,8 +6473,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 74th Street",
+      "city": "Chicago",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -6608,7 +6608,7 @@
     },
     {
       "id": "osm-w180102176",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hollywood Avenue",
       "lat": 41.829234,
       "lng": -87.834006,
       "sports": [
@@ -6620,8 +6620,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hollywood Avenue",
+      "city": "Brookfield",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -6813,7 +6813,7 @@
     },
     {
       "id": "osm-w182327686",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Rockwell Street",
       "lat": 42.009426,
       "lng": -87.694673,
       "sports": [
@@ -6825,8 +6825,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Rockwell Street",
+      "city": "Chicago",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -7227,7 +7227,7 @@
     },
     {
       "id": "osm-w183799433",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Ridge Avenue",
       "lat": 41.989398,
       "lng": -87.668972,
       "sports": [
@@ -7239,8 +7239,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Ridge Avenue",
+      "city": "Chicago",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -7887,7 +7887,7 @@
     },
     {
       "id": "osm-w190537852",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · EIU Panther Trail",
       "lat": 39.480354,
       "lng": -88.178131,
       "sports": [
@@ -7899,8 +7899,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "EIU Panther Trail",
+      "city": "Charleston",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -8159,7 +8159,7 @@
     },
     {
       "id": "osm-w191975561",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Edgar Drive",
       "lat": 39.474703,
       "lng": -88.169686,
       "sports": [
@@ -8171,8 +8171,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Edgar Drive",
+      "city": "Charleston",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -10046,7 +10046,7 @@
     },
     {
       "id": "osm-w209471565",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Division Street",
       "lat": 41.903371,
       "lng": -87.685037,
       "sports": [
@@ -10058,8 +10058,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Division Street",
+      "city": "Chicago",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -10130,7 +10130,7 @@
     },
     {
       "id": "osm-w210564573",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Wabash Avenue",
       "lat": 41.837027,
       "lng": -87.625543,
       "sports": [
@@ -10142,8 +10142,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Wabash Avenue",
+      "city": "Chicago",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -10358,7 +10358,7 @@
     },
     {
       "id": "osm-w217214109",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Long Avenue",
       "lat": 41.616207,
       "lng": -87.752042,
       "sports": [
@@ -10370,8 +10370,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Long Avenue",
+      "city": "Oak Forest",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -10524,7 +10524,7 @@
     },
     {
       "id": "osm-w220203565",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West 55th Street",
       "lat": 41.788334,
       "lng": -87.934526,
       "sports": [
@@ -10536,8 +10536,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 55th Street",
+      "city": "Hinsdale",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -11188,7 +11188,7 @@
     },
     {
       "id": "osm-w226217578",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Doctor Martin Luther King Junior Drive",
       "lat": 41.78931,
       "lng": -87.615577,
       "sports": [
@@ -11201,8 +11201,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Doctor Martin Luther King Junior Drive",
+      "city": "Chicago",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -11251,7 +11251,7 @@
     },
     {
       "id": "osm-w227213194",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Green Bay Road",
       "lat": 42.297569,
       "lng": -87.859979,
       "sports": [
@@ -11263,8 +11263,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Green Bay Road",
+      "city": "North Chicago",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -11294,7 +11294,7 @@
     },
     {
       "id": "osm-w227794910",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · KC Boulevard",
       "lat": 38.562189,
       "lng": -89.196699,
       "sports": [
@@ -11306,8 +11306,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "KC Boulevard",
+      "city": "Clinton County",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -12160,7 +12160,7 @@
     },
     {
       "id": "osm-w233914061",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Country Club Court",
       "lat": 41.650321,
       "lng": -87.806834,
       "sports": [
@@ -12173,8 +12173,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Country Club Court",
+      "city": "Palos Heights",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -12494,7 +12494,7 @@
     },
     {
       "id": "osm-w236712745",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Morton Avenue",
       "lat": 40.64596,
       "lng": -89.463624,
       "sports": [
@@ -12506,15 +12506,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Morton Avenue",
+      "city": "Morton",
       "state": "IL",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w236852521",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Shady Lane",
       "lat": 42.390113,
       "lng": -88.160131,
       "sports": [
@@ -12526,8 +12526,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Shady Lane",
+      "city": "Fox Lake",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -14678,7 +14678,7 @@
     },
     {
       "id": "osm-w275863701",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Orleans Street",
       "lat": 41.343739,
       "lng": -88.835509,
       "sports": [
@@ -14690,8 +14690,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Orleans Street",
+      "city": "Ottawa",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -15201,7 +15201,7 @@
     },
     {
       "id": "osm-w296074121",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Tournament Drive North",
       "lat": 42.249207,
       "lng": -88.072372,
       "sports": [
@@ -15213,8 +15213,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Tournament Drive North",
+      "city": "Hawthorn Woods",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -15262,7 +15262,7 @@
     },
     {
       "id": "osm-w296074126",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Glengarry Court",
       "lat": 42.159646,
       "lng": -88.318993,
       "sports": [
@@ -15274,8 +15274,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Glengarry Court",
+      "city": "Algonquin",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -15305,7 +15305,7 @@
     },
     {
       "id": "osm-w296074137",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Boulder Drive",
       "lat": 42.180005,
       "lng": -88.358954,
       "sports": [
@@ -15317,8 +15317,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Boulder Drive",
+      "city": "Lake in the Hills",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -15388,7 +15388,7 @@
     },
     {
       "id": "osm-w296130273",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Southern Hills Drive",
       "lat": 42.412328,
       "lng": -87.915816,
       "sports": [
@@ -15400,8 +15400,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Southern Hills Drive",
+      "city": "Waukegan",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -15720,7 +15720,7 @@
     },
     {
       "id": "osm-w301494859",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Kenilworth Avenue",
       "lat": 41.871345,
       "lng": -88.097954,
       "sports": [
@@ -15732,8 +15732,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kenilworth Avenue",
+      "city": "Wheaton",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -15781,7 +15781,7 @@
     },
     {
       "id": "osm-w306244841",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Carillon Drive",
       "lat": 41.635637,
       "lng": -88.13469,
       "sports": [
@@ -15793,8 +15793,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Carillon Drive",
+      "city": "Romeoville",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -16646,7 +16646,7 @@
     },
     {
       "id": "osm-w333686715",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 27th Street",
       "lat": 42.446618,
       "lng": -87.830426,
       "sports": [
@@ -16658,8 +16658,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "27th Street",
+      "city": "Zion",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -19353,7 +19353,7 @@
     },
     {
       "id": "osm-w414865221",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Windsor Drive",
       "lat": 42.161092,
       "lng": -88.46561,
       "sports": [
@@ -19365,8 +19365,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Windsor Drive",
+      "city": "Huntley",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -19525,7 +19525,7 @@
     },
     {
       "id": "osm-w420053369",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lakewood Trails Drive",
       "lat": 41.430403,
       "lng": -88.267109,
       "sports": [
@@ -19538,8 +19538,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lakewood Trails Drive",
+      "city": "Minooka",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -19568,7 +19568,7 @@
     },
     {
       "id": "osm-w422925645",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North Lakeshore Drive",
       "lat": 42.403087,
       "lng": -88.133672,
       "sports": [
@@ -19580,8 +19580,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Lakeshore Drive",
+      "city": "Lake County",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -19590,7 +19590,7 @@
     },
     {
       "id": "osm-w427109174",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Drendel Road",
       "lat": 42.139574,
       "lng": -88.451153,
       "sports": [
@@ -19602,8 +19602,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Drendel Road",
+      "city": "Huntley",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -20414,7 +20414,7 @@
     },
     {
       "id": "osm-w452757173",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Crampton Lane",
       "lat": 42.29911,
       "lng": -89.005271,
       "sports": [
@@ -20426,8 +20426,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Crampton Lane",
+      "city": "Rockford",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -20630,7 +20630,7 @@
     },
     {
       "id": "osm-w454601691",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Grant Highway",
       "lat": 42.241819,
       "lng": -88.588601,
       "sports": [
@@ -20642,8 +20642,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Grant Highway",
+      "city": "Marengo",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -21149,7 +21149,7 @@
     },
     {
       "id": "osm-w469495245",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Branch Street",
       "lat": 38.676513,
       "lng": -89.966882,
       "sports": [
@@ -21161,8 +21161,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Branch Street",
+      "city": "Collinsville",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -22282,7 +22282,7 @@
     },
     {
       "id": "osm-w495510349",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Armitage Avenue",
       "lat": 41.910598,
       "lng": -88.055044,
       "sports": [
@@ -22294,8 +22294,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Armitage Avenue",
+      "city": "Glendale Heights",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -22846,7 +22846,7 @@
     },
     {
       "id": "osm-w527340991",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lot GG",
       "lat": 41.604486,
       "lng": -88.083995,
       "sports": [
@@ -22858,8 +22858,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lot GG",
+      "city": "Romeoville",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -23234,7 +23234,7 @@
     },
     {
       "id": "osm-w544808543",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Central Avenue",
       "lat": 41.374841,
       "lng": -89.455964,
       "sports": [
@@ -23246,15 +23246,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Central Avenue",
+      "city": "Princeton",
       "state": "IL",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w544953380",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Michels Avenue",
       "lat": 41.774185,
       "lng": -88.293552,
       "sports": [
@@ -23266,8 +23266,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Michels Avenue",
+      "city": "Aurora",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -23557,7 +23557,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Belvidere",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -24420,7 +24420,7 @@
     },
     {
       "id": "osm-w570293627",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South 4th Street",
       "lat": 40.852187,
       "lng": -89.677038,
       "sports": [
@@ -24432,8 +24432,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South 4th Street",
+      "city": "Dunlap",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -24506,7 +24506,7 @@
     },
     {
       "id": "osm-w574632754",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Clark Street",
       "lat": 41.910163,
       "lng": -87.63122,
       "sports": [
@@ -24518,8 +24518,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Clark Street",
+      "city": "Chicago",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -24692,7 +24692,7 @@
     },
     {
       "id": "osm-w585469894",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Parkside Road",
       "lat": 40.514255,
       "lng": -89.022171,
       "sports": [
@@ -24704,8 +24704,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Parkside Road",
+      "city": "Normal",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -25101,7 +25101,7 @@
     },
     {
       "id": "osm-w607215695",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Buffalo Grove Road",
       "lat": 42.181937,
       "lng": -87.966176,
       "sports": [
@@ -25113,8 +25113,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Buffalo Grove Road",
+      "city": "Buffalo Grove",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -25269,7 +25269,7 @@
     },
     {
       "id": "osm-w613919963",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Stonebridge Drive",
       "lat": 42.121358,
       "lng": -87.989897,
       "sports": [
@@ -25281,8 +25281,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Stonebridge Drive",
+      "city": "Arlington Heights",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -26678,7 +26678,7 @@
     },
     {
       "id": "osm-w694450732",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Elm Street",
       "lat": 41.15596,
       "lng": -87.869847,
       "sports": [
@@ -26690,8 +26690,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Elm Street",
+      "city": "Bourbonnais",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -26841,7 +26841,7 @@
     },
     {
       "id": "osm-w704734381",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Walker Drive",
       "lat": 41.518676,
       "lng": -90.531557,
       "sports": [
@@ -26853,8 +26853,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Walker Drive",
+      "city": "Rock Island County",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -26885,7 +26885,7 @@
     },
     {
       "id": "osm-w707068598",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East North Street",
       "lat": 41.450951,
       "lng": -90.150853,
       "sports": [
@@ -26898,8 +26898,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East North Street",
+      "city": "Geneseo",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -26968,7 +26968,7 @@
     },
     {
       "id": "osm-w710638907",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lake Christine Drive",
       "lat": 38.545379,
       "lng": -89.958554,
       "sports": [
@@ -26980,8 +26980,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lake Christine Drive",
+      "city": "Swansea",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -27116,7 +27116,7 @@
     },
     {
       "id": "osm-w732003613",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lakewood Springs",
       "lat": 41.665387,
       "lng": -88.497699,
       "sports": [
@@ -27129,7 +27129,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Plano",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -27138,7 +27138,7 @@
     },
     {
       "id": "osm-w732003628",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Veronica Street",
       "lat": 41.656423,
       "lng": -88.504267,
       "sports": [
@@ -27150,8 +27150,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Veronica Street",
+      "city": "Plano",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -27480,7 +27480,7 @@
     },
     {
       "id": "osm-w759646662",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hedge Lane",
       "lat": 41.521412,
       "lng": -90.543222,
       "sports": [
@@ -27492,8 +27492,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hedge Lane",
+      "city": "Rock Island County",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -27543,7 +27543,7 @@
     },
     {
       "id": "osm-w764398442",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Harbor Drive",
       "lat": 41.885395,
       "lng": -87.614715,
       "sports": [
@@ -27555,8 +27555,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Harbor Drive",
+      "city": "Chicago",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -27667,7 +27667,7 @@
     },
     {
       "id": "osm-w773818131",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 2200th Road",
       "lat": 39.471663,
       "lng": -87.699205,
       "sports": [
@@ -27679,8 +27679,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "2200th Road",
+      "city": "Clark County",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -28720,7 +28720,7 @@
     },
     {
       "id": "osm-w839499116",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Northwest 6th Street",
       "lat": 41.206423,
       "lng": -90.754056,
       "sports": [
@@ -28732,8 +28732,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northwest 6th Street",
+      "city": "Aledo",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -29370,7 +29370,7 @@
     },
     {
       "id": "osm-w893950080",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Country Club Drive",
       "lat": 42.090787,
       "lng": -87.923044,
       "sports": [
@@ -29382,8 +29382,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Country Club Drive",
+      "city": "Prospect Heights",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -29958,7 +29958,7 @@
     },
     {
       "id": "osm-w921080661",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Kishwaukee Riverfront Path",
       "lat": 42.256743,
       "lng": -88.854985,
       "sports": [
@@ -29970,8 +29970,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kishwaukee Riverfront Path",
+      "city": "Belvidere",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -30105,7 +30105,7 @@
     },
     {
       "id": "osm-w940872273",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Trailblazer Way",
       "lat": 38.951835,
       "lng": -90.19763,
       "sports": [
@@ -30117,8 +30117,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Trailblazer Way",
+      "city": "Godfrey",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -30411,7 +30411,7 @@
     },
     {
       "id": "osm-w951867311",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Innisbrook Drive",
       "lat": 41.798271,
       "lng": -88.214062,
       "sports": [
@@ -30423,8 +30423,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Innisbrook Drive",
+      "city": "DuPage County",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -30433,7 +30433,7 @@
     },
     {
       "id": "osm-w952823996",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Terrace View Drive",
       "lat": 41.733764,
       "lng": -88.251193,
       "sports": [
@@ -30445,8 +30445,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Terrace View Drive",
+      "city": "Aurora",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -30920,7 +30920,7 @@
     },
     {
       "id": "osm-w972306884",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West 2nd Street",
       "lat": 41.39608,
       "lng": -89.911804,
       "sports": [
@@ -30932,8 +30932,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 2nd Street",
+      "city": "Annawan",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -30964,7 +30964,7 @@
     },
     {
       "id": "osm-w972306896",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East 5th Avenue",
       "lat": 41.180283,
       "lng": -90.313503,
       "sports": [
@@ -30976,8 +30976,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 5th Avenue",
+      "city": "Woodhull",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -31114,7 +31114,7 @@
     },
     {
       "id": "osm-w973092428",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · South East Street",
       "lat": 41.35241,
       "lng": -89.731202,
       "sports": [
@@ -31126,8 +31126,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South East Street",
+      "city": "Sheffield",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -31441,7 +31441,7 @@
     },
     {
       "id": "osm-w975291344",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East 4th Street",
       "lat": 40.635917,
       "lng": -91.165363,
       "sports": [
@@ -31453,8 +31453,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 4th Street",
+      "city": "Dallas City",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -31549,7 +31549,7 @@
     },
     {
       "id": "osm-w976356673",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Florida Avenue",
       "lat": 40.096351,
       "lng": -88.22704,
       "sports": [
@@ -31561,8 +31561,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Florida Avenue",
+      "city": "Urbana",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -31949,7 +31949,7 @@
     },
     {
       "id": "osm-w1014963453",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West 15th Street",
       "lat": 40.474545,
       "lng": -88.3771,
       "sports": [
@@ -31961,8 +31961,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 15th Street",
+      "city": "Gibson City",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -32024,7 +32024,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Lake County",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -32117,7 +32117,7 @@
     },
     {
       "id": "osm-w1018954341",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · St Andrews Drive",
       "lat": 41.94846,
       "lng": -87.996247,
       "sports": [
@@ -32129,8 +32129,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "St Andrews Drive",
+      "city": "Wood Dale",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -32322,7 +32322,7 @@
     },
     {
       "id": "osm-w1025959001",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South 16th Street",
       "lat": 39.801171,
       "lng": -89.63328,
       "sports": [
@@ -32334,8 +32334,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South 16th Street",
+      "city": "Springfield",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -32426,7 +32426,7 @@
     },
     {
       "id": "osm-w1025959019",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Panther Creek Drive",
       "lat": 39.729209,
       "lng": -89.709903,
       "sports": [
@@ -32438,8 +32438,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Panther Creek Drive",
+      "city": "Springfield",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -32573,7 +32573,7 @@
     },
     {
       "id": "osm-w1025959861",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Illini Road",
       "lat": 39.782884,
       "lng": -89.682759,
       "sports": [
@@ -32586,8 +32586,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Illini Road",
+      "city": "Leland Grove",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -33054,7 +33054,7 @@
     },
     {
       "id": "osm-w1058971909",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Kishwaukee Drive",
       "lat": 41.938864,
       "lng": -88.761671,
       "sports": [
@@ -33066,8 +33066,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kishwaukee Drive",
+      "city": "DeKalb",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -33116,7 +33116,7 @@
     },
     {
       "id": "osm-w1060879186",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Washington Boulevard",
       "lat": 41.883583,
       "lng": -87.66462,
       "sports": [
@@ -33129,8 +33129,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Washington Boulevard",
+      "city": "Chicago",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -33836,7 +33836,7 @@
     },
     {
       "id": "osm-w1106858960",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Dean Avenue",
       "lat": 42.16894,
       "lng": -87.778389,
       "sports": [
@@ -33848,8 +33848,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Dean Avenue",
+      "city": "Highland Park",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -34002,7 +34002,7 @@
     },
     {
       "id": "osm-w1112388793",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cedar Avenue",
       "lat": 42.171059,
       "lng": -87.779787,
       "sports": [
@@ -34014,8 +34014,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cedar Avenue",
+      "city": "Highland Park",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -34241,7 +34241,7 @@
     },
     {
       "id": "osm-w1123165524",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Dan Ryan Expressway",
       "lat": 41.873521,
       "lng": -87.646481,
       "sports": [
@@ -34254,8 +34254,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Dan Ryan Expressway",
+      "city": "Chicago",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -34282,7 +34282,7 @@
     },
     {
       "id": "osm-w1124486891",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Blue Heron Drive",
       "lat": 39.642514,
       "lng": -87.700851,
       "sports": [
@@ -34294,8 +34294,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Blue Heron Drive",
+      "city": "Paris",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -34770,7 +34770,7 @@
     },
     {
       "id": "osm-w1144105409",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Algonquin Road",
       "lat": 42.187039,
       "lng": -88.246894,
       "sports": [
@@ -34782,8 +34782,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Algonquin Road",
+      "city": "Fox River Grove",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -34875,7 +34875,7 @@
     },
     {
       "id": "osm-w1144256266",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Logan College Road",
       "lat": 37.748352,
       "lng": -89.092922,
       "sports": [
@@ -34887,15 +34887,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Logan College Road",
+      "city": "Carterville",
       "state": "IL",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1144950361",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Country Club Drive",
       "lat": 38.778387,
       "lng": -89.997616,
       "sports": [
@@ -34908,8 +34908,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Country Club Drive",
+      "city": "Edwardsville",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -35044,7 +35044,7 @@
     },
     {
       "id": "osm-w1147429069",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Oak Street",
       "lat": 41.900184,
       "lng": -87.636111,
       "sports": [
@@ -35057,8 +35057,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Oak Street",
+      "city": "Chicago",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -35845,7 +35845,7 @@
     },
     {
       "id": "osm-w1203827054",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Glenview Court",
       "lat": 41.600418,
       "lng": -87.985001,
       "sports": [
@@ -35857,8 +35857,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Glenview Court",
+      "city": "Will County",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -36284,7 +36284,7 @@
     },
     {
       "id": "osm-w1222873703",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Kimberwick Lane",
       "lat": 42.401059,
       "lng": -87.959813,
       "sports": [
@@ -36297,8 +36297,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kimberwick Lane",
+      "city": "Lake County",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -36621,7 +36621,7 @@
     },
     {
       "id": "osm-w1263025296",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Patterson Avenue",
       "lat": 41.94824,
       "lng": -87.658387,
       "sports": [
@@ -36633,8 +36633,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Patterson Avenue",
+      "city": "Chicago",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -37163,7 +37163,7 @@
     },
     {
       "id": "osm-w1302086367",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Dorner Drive",
       "lat": 40.101346,
       "lng": -88.221311,
       "sports": [
@@ -37175,8 +37175,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Dorner Drive",
+      "city": "Urbana",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -37227,7 +37227,7 @@
     },
     {
       "id": "osm-w1308013357",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · South Des Plaines River Road",
       "lat": 42.023396,
       "lng": -87.875417,
       "sports": [
@@ -37239,8 +37239,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Des Plaines River Road",
+      "city": "Des Plaines",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -37313,7 +37313,7 @@
     },
     {
       "id": "osm-w1311839188",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Venetian Way",
       "lat": 41.710058,
       "lng": -88.417813,
       "sports": [
@@ -37325,8 +37325,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Venetian Way",
+      "city": "Montgomery",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -37526,7 +37526,7 @@
     },
     {
       "id": "osm-w1314965817",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Oakhurst Lane",
       "lat": 42.17196,
       "lng": -87.87755,
       "sports": [
@@ -37538,8 +37538,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Oakhurst Lane",
+      "city": "Riverwoods",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -37656,7 +37656,7 @@
     },
     {
       "id": "osm-w1314967595",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Campton Hills Drive",
       "lat": 41.911671,
       "lng": -88.367687,
       "sports": [
@@ -37668,8 +37668,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Campton Hills Drive",
+      "city": "St. Charles",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -37886,7 +37886,7 @@
     },
     {
       "id": "osm-w1328430428",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North Kolmar Avenue",
       "lat": 41.959906,
       "lng": -87.743404,
       "sports": [
@@ -37898,8 +37898,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Kolmar Avenue",
+      "city": "Chicago",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -37928,7 +37928,7 @@
     },
     {
       "id": "osm-w1329889368",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bloomfield Parkway",
       "lat": 41.949409,
       "lng": -88.10733,
       "sports": [
@@ -37941,8 +37941,8 @@
       "indoor": true,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bloomfield Parkway",
+      "city": "Bloomingdale",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -38929,7 +38929,7 @@
     },
     {
       "id": "osm-w1354519946",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East North Street",
       "lat": 39.052688,
       "lng": -89.948771,
       "sports": [
@@ -38941,8 +38941,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East North Street",
+      "city": "Bunker Hill",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -38993,7 +38993,7 @@
     },
     {
       "id": "osm-w1355425538",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Morrison Avenue",
       "lat": 38.647642,
       "lng": -90.011455,
       "sports": [
@@ -39005,15 +39005,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Morrison Avenue",
+      "city": "Collinsville",
       "state": "IL",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1355425798",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North 3rd Street",
       "lat": 38.526916,
       "lng": -87.706423,
       "sports": [
@@ -39025,8 +39025,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North 3rd Street",
+      "city": "Allendale",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -39053,7 +39053,7 @@
     },
     {
       "id": "osm-w1359347423",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Glazebrook Trail",
       "lat": 38.947296,
       "lng": -90.20179,
       "sports": [
@@ -39065,8 +39065,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Glazebrook Trail",
+      "city": "Godfrey",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -39226,7 +39226,7 @@
     },
     {
       "id": "osm-w1366080129",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Sleepy Hollow Loop",
       "lat": 38.035804,
       "lng": -88.944258,
       "sports": [
@@ -39238,8 +39238,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sleepy Hollow Loop",
+      "city": "Franklin County",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -39525,7 +39525,7 @@
     },
     {
       "id": "osm-w1381564281",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Hubbard Avenue",
       "lat": 39.881724,
       "lng": -88.929132,
       "sports": [
@@ -39537,8 +39537,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hubbard Avenue",
+      "city": "Decatur",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -39611,7 +39611,7 @@
     },
     {
       "id": "osm-w1385400321",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · McCormick Boulevard",
       "lat": 42.059886,
       "lng": -87.695769,
       "sports": [
@@ -39623,8 +39623,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "McCormick Boulevard",
+      "city": "Evanston",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -39655,7 +39655,7 @@
     },
     {
       "id": "osm-w1385667299",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Hemmingsen Road",
       "lat": 42.221229,
       "lng": -88.47101,
       "sports": [
@@ -39667,8 +39667,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hemmingsen Road",
+      "city": "McHenry County",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -39697,7 +39697,7 @@
     },
     {
       "id": "osm-w1385691666",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Forest View Court",
       "lat": 41.786231,
       "lng": -88.18192,
       "sports": [
@@ -39709,8 +39709,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Forest View Court",
+      "city": "Naperville",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -39805,7 +39805,7 @@
     },
     {
       "id": "osm-w1389201863",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Andrew Boulevard",
       "lat": 42.09335,
       "lng": -88.428583,
       "sports": [
@@ -39818,8 +39818,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Andrew Boulevard",
+      "city": "Pingree Grove",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -39889,7 +39889,7 @@
     },
     {
       "id": "osm-w1389937424",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Harley Road",
       "lat": 41.897509,
       "lng": -88.429728,
       "sports": [
@@ -39901,8 +39901,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Harley Road",
+      "city": "Campton Hills",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -39944,7 +39944,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "North Aurora",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -39953,7 +39953,7 @@
     },
     {
       "id": "osm-w1392216550",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Jefferson Avenue",
       "lat": 42.097539,
       "lng": -88.53685,
       "sports": [
@@ -39965,8 +39965,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Jefferson Avenue",
+      "city": "Hampshire",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -40059,7 +40059,7 @@
     },
     {
       "id": "osm-w1396021353",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Swimming Trail",
       "lat": 41.652741,
       "lng": -88.413423,
       "sports": [
@@ -40071,8 +40071,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Swimming Trail",
+      "city": "Oswego",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -40499,7 +40499,7 @@
     },
     {
       "id": "osm-w1422758553",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Pershing Road",
       "lat": 41.823578,
       "lng": -87.607695,
       "sports": [
@@ -40512,8 +40512,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Pershing Road",
+      "city": "Chicago",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -40540,7 +40540,7 @@
     },
     {
       "id": "osm-w1424324515",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Meadows Edge Lane",
       "lat": 41.780339,
       "lng": -88.056275,
       "sports": [
@@ -40552,8 +40552,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Meadows Edge Lane",
+      "city": "DuPage County",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -40858,7 +40858,7 @@
     },
     {
       "id": "osm-w1427783131",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Le Moyne Street",
       "lat": 41.908727,
       "lng": -87.659942,
       "sports": [
@@ -40870,8 +40870,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Le Moyne Street",
+      "city": "Chicago",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -41126,7 +41126,7 @@
     },
     {
       "id": "osm-w1435107891",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lasalle Lane",
       "lat": 42.179945,
       "lng": -87.966103,
       "sports": [
@@ -41138,8 +41138,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lasalle Lane",
+      "city": "Buffalo Grove",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -41456,7 +41456,7 @@
     },
     {
       "id": "osm-w1445363753",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Burr Road",
       "lat": 41.95115,
       "lng": -88.363765,
       "sports": [
@@ -41468,8 +41468,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Burr Road",
+      "city": "Kane County",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -42021,7 +42021,7 @@
     },
     {
       "id": "osm-w1463808073",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Bluestem Parkway",
       "lat": 41.522535,
       "lng": -87.565692,
       "sports": [
@@ -42033,8 +42033,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bluestem Parkway",
+      "city": "Lynwood",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -42230,7 +42230,7 @@
     },
     {
       "id": "osm-w1471486257",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East Water Street",
       "lat": 42.356752,
       "lng": -87.822549,
       "sports": [
@@ -42242,8 +42242,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Water Street",
+      "city": "Waukegan",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -42252,7 +42252,7 @@
     },
     {
       "id": "osm-w1473285377",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · South Darr Drive",
       "lat": 41.610284,
       "lng": -88.226251,
       "sports": [
@@ -42264,8 +42264,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Darr Drive",
+      "city": "Plainfield",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -42604,7 +42604,7 @@
     },
     {
       "id": "osm-w1476336891",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 1st Street",
       "lat": 39.4162,
       "lng": -89.467186,
       "sports": [
@@ -42616,8 +42616,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "1st Street",
+      "city": "Morrisonville",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -42806,7 +42806,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Geneseo",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -42835,7 +42835,7 @@
     },
     {
       "id": "osm-w1478707915",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · IL 16;IL 49",
       "lat": 39.551158,
       "lng": -87.941093,
       "sports": [
@@ -42847,8 +42847,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "IL 16;IL 49",
+      "city": "Kansas",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -42958,7 +42958,7 @@
     },
     {
       "id": "osm-w1481558011",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Thornfield Lane",
       "lat": 42.23824,
       "lng": -88.102407,
       "sports": [
@@ -42971,8 +42971,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Thornfield Lane",
+      "city": "Hawthorn Woods",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -43212,7 +43212,7 @@
     },
     {
       "id": "osm-w1482786802",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Oak Place",
       "lat": 40.318188,
       "lng": -88.149258,
       "sports": [
@@ -43224,8 +43224,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Oak Place",
+      "city": "Rantoul",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -43926,7 +43926,7 @@
     },
     {
       "id": "osm-w1486829356",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Pingree Road",
       "lat": 42.218176,
       "lng": -88.295603,
       "sports": [
@@ -43938,8 +43938,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pingree Road",
+      "city": "Crystal Lake",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -44221,7 +44221,7 @@
     },
     {
       "id": "osm-w1488448049",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Springhill Drive",
       "lat": 42.136499,
       "lng": -87.855412,
       "sports": [
@@ -44234,8 +44234,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Springhill Drive",
+      "city": "Northbrook",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -44429,7 +44429,7 @@
     },
     {
       "id": "osm-w1489972190",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Avenue",
       "lat": 41.514004,
       "lng": -87.795058,
       "sports": [
@@ -44441,8 +44441,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Avenue",
+      "city": "Will County",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -44451,7 +44451,7 @@
     },
     {
       "id": "osm-w1489973314",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Saint Francis Road",
       "lat": 41.521133,
       "lng": -87.803425,
       "sports": [
@@ -44463,8 +44463,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Saint Francis Road",
+      "city": "Matteson",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -44783,7 +44783,7 @@
     },
     {
       "id": "osm-w1489988493",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Dixie Highway",
       "lat": 41.515163,
       "lng": -87.64579,
       "sports": [
@@ -44795,8 +44795,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Dixie Highway",
+      "city": "Chicago Heights",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -45158,7 +45158,7 @@
     },
     {
       "id": "osm-w1490210657",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Clubhouse Drive",
       "lat": 42.219934,
       "lng": -88.114463,
       "sports": [
@@ -45171,8 +45171,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Clubhouse Drive",
+      "city": "North Barrington",
       "state": "IL",
       "source": "osm",
       "tags": {}
@@ -45813,7 +45813,7 @@
     },
     {
       "id": "osm-w1498914764",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North Harbor Drive",
       "lat": 42.189776,
       "lng": -88.161441,
       "sports": [
@@ -45825,8 +45825,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Harbor Drive",
+      "city": "Lake Barrington",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -45835,7 +45835,7 @@
     },
     {
       "id": "osm-w1498914790",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North Signal Hill Road",
       "lat": 42.200171,
       "lng": -88.149363,
       "sports": [
@@ -45847,8 +45847,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Signal Hill Road",
+      "city": "North Barrington",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -45943,7 +45943,7 @@
     },
     {
       "id": "osm-w1507929656",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Dosher Boulevard",
       "lat": 40.615469,
       "lng": -89.201278,
       "sports": [
@@ -45955,8 +45955,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Dosher Boulevard",
+      "city": "Congerville",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -46459,7 +46459,7 @@
     },
     {
       "id": "osm-w1514999201",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Manor Street",
       "lat": 42.222221,
       "lng": -88.290738,
       "sports": [
@@ -46472,15 +46472,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Manor Street",
+      "city": "Crystal Lake",
       "state": "IL",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1514999353",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · North Drury Lane",
       "lat": 42.373421,
       "lng": -88.039204,
       "sports": [
@@ -46492,8 +46492,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Drury Lane",
+      "city": "Grayslake",
       "state": "IL",
       "source": "osm",
       "tags": {
@@ -47219,7 +47219,7 @@
     },
     {
       "id": "osm-w1550686205",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Somerset Drive",
       "lat": 41.927687,
       "lng": -88.068902,
       "sports": [
@@ -47231,8 +47231,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Somerset Drive",
+      "city": "Glendale Heights",
       "state": "IL",
       "source": "osm",
       "tags": {

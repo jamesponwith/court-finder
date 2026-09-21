@@ -429,7 +429,7 @@
     },
     {
       "id": "osm-w95559439",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Charter Oak Road",
       "lat": 41.724418,
       "lng": -72.21997,
       "sports": [
@@ -441,8 +441,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Charter Oak Road",
+      "city": "Willimantic",
       "state": "CT",
       "source": "osm",
       "tags": {}
@@ -1370,7 +1370,7 @@
     },
     {
       "id": "osm-w207778524",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cornell Road",
       "lat": 41.18952,
       "lng": -73.228081,
       "sports": [
@@ -1382,15 +1382,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cornell Road",
+      "city": "Fairfield",
       "state": "CT",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w207778528",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Algonquin Road",
       "lat": 41.185319,
       "lng": -73.225664,
       "sports": [
@@ -1402,8 +1402,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Algonquin Road",
+      "city": "Fairfield",
       "state": "CT",
       "source": "osm",
       "tags": {}
@@ -1494,7 +1494,7 @@
     },
     {
       "id": "osm-w215824338",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Keeler Close",
       "lat": 41.286681,
       "lng": -73.495208,
       "sports": [
@@ -1506,8 +1506,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Keeler Close",
+      "city": "Ridgefield",
       "state": "CT",
       "source": "osm",
       "tags": {
@@ -1600,7 +1600,7 @@
     },
     {
       "id": "osm-w219315568",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Blonders Boulevard",
       "lat": 41.433054,
       "lng": -72.0034,
       "sports": [
@@ -1612,8 +1612,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Blonders Boulevard",
+      "city": "Ledyard",
       "state": "CT",
       "source": "osm",
       "tags": {
@@ -1871,7 +1871,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "New London",
       "state": "CT",
       "source": "osm",
       "tags": {
@@ -2910,7 +2910,7 @@
     },
     {
       "id": "osm-w306784235",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Orange Center Road",
       "lat": 41.273185,
       "lng": -73.02015,
       "sports": [
@@ -2922,8 +2922,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Orange Center Road",
+      "city": "Orange",
       "state": "CT",
       "source": "osm",
       "tags": {
@@ -4135,7 +4135,7 @@
     },
     {
       "id": "osm-w380510855",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Baker Avenue Extension",
       "lat": 41.353141,
       "lng": -72.074129,
       "sports": [
@@ -4147,8 +4147,8 @@
       "indoor": false,
       "access": "public",
       "fee": false,
-      "address": null,
-      "city": null,
+      "address": "Baker Avenue Extension",
+      "city": "Groton",
       "state": "CT",
       "source": "osm",
       "tags": {}
@@ -4283,7 +4283,7 @@
     },
     {
       "id": "osm-w384271442",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Collins Street",
       "lat": 41.574742,
       "lng": -73.040929,
       "sports": [
@@ -4295,8 +4295,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Collins Street",
+      "city": "Waterbury",
       "state": "CT",
       "source": "osm",
       "tags": {}
@@ -6061,7 +6061,7 @@
     },
     {
       "id": "osm-w607979465",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Village Street",
       "lat": 41.489146,
       "lng": -73.226958,
       "sports": [
@@ -6073,8 +6073,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Village Street",
+      "city": "Southbury",
       "state": "CT",
       "source": "osm",
       "tags": {
@@ -6569,7 +6569,7 @@
     },
     {
       "id": "osm-w673517790",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Waterville Road",
       "lat": 41.731216,
       "lng": -72.821925,
       "sports": [
@@ -6581,8 +6581,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Waterville Road",
+      "city": "Farmington",
       "state": "CT",
       "source": "osm",
       "tags": {
@@ -6657,7 +6657,7 @@
     },
     {
       "id": "osm-w677576957",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Mill Street",
       "lat": 41.506123,
       "lng": -73.063041,
       "sports": [
@@ -6669,8 +6669,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mill Street",
+      "city": "Naugatuck",
       "state": "CT",
       "source": "osm",
       "tags": {
@@ -6897,7 +6897,7 @@
     },
     {
       "id": "osm-w693120856",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Hill Road",
       "lat": 41.825296,
       "lng": -72.911603,
       "sports": [
@@ -6909,8 +6909,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Hill Road",
+      "city": "Canton",
       "state": "CT",
       "source": "osm",
       "tags": {}
@@ -7241,7 +7241,7 @@
     },
     {
       "id": "osm-w699308866",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hubbard Street",
       "lat": 41.701257,
       "lng": -72.589386,
       "sports": [
@@ -7253,8 +7253,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hubbard Street",
+      "city": "Glastonbury",
       "state": "CT",
       "source": "osm",
       "tags": {}
@@ -7323,7 +7323,7 @@
     },
     {
       "id": "osm-w703828618",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Priorwood Gardens",
       "lat": 41.631976,
       "lng": -72.641109,
       "sports": [
@@ -7335,8 +7335,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Priorwood Gardens",
+      "city": "Cromwell",
       "state": "CT",
       "source": "osm",
       "tags": {
@@ -7535,7 +7535,7 @@
     },
     {
       "id": "osm-w734786803",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Vine Street",
       "lat": 41.556339,
       "lng": -72.661541,
       "sports": [
@@ -7547,8 +7547,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Vine Street",
+      "city": "Middletown",
       "state": "CT",
       "source": "osm",
       "tags": {}
@@ -8333,7 +8333,7 @@
     },
     {
       "id": "osm-w838027162",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Marianapolis Drive",
       "lat": 41.9591,
       "lng": -71.868806,
       "sports": [
@@ -8345,15 +8345,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Marianapolis Drive",
+      "city": "Thompson",
       "state": "CT",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w839157972",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Moody Road",
       "lat": 42.000063,
       "lng": -72.537183,
       "sports": [
@@ -8365,8 +8365,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Moody Road",
+      "city": "Enfield",
       "state": "CT",
       "source": "osm",
       "tags": {
@@ -8417,7 +8417,7 @@
     },
     {
       "id": "osm-w840987934",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Granby Street",
       "lat": 41.801771,
       "lng": -72.707433,
       "sports": [
@@ -8429,8 +8429,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Granby Street",
+      "city": "Hartford",
       "state": "CT",
       "source": "osm",
       "tags": {}
@@ -8520,7 +8520,7 @@
     },
     {
       "id": "osm-w844069188",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Kaiser Drive",
       "lat": 41.693404,
       "lng": -72.763302,
       "sports": [
@@ -8532,7 +8532,7 @@
       "indoor": false,
       "access": "public",
       "fee": false,
-      "address": null,
+      "address": "Kaiser Drive",
       "city": "New Britain",
       "state": "CT",
       "source": "osm",
@@ -9584,7 +9584,7 @@
     },
     {
       "id": "osm-w905273263",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · McMullen Avenue",
       "lat": 41.044055,
       "lng": -73.520433,
       "sports": [
@@ -9596,8 +9596,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "McMullen Avenue",
+      "city": "Stamford",
       "state": "CT",
       "source": "osm",
       "tags": {}
@@ -10038,7 +10038,7 @@
     },
     {
       "id": "osm-w934886693",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Thamesville",
       "lat": 41.521408,
       "lng": -72.085732,
       "sports": [
@@ -10051,7 +10051,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Norwich",
       "state": "CT",
       "source": "osm",
       "tags": {
@@ -10422,7 +10422,7 @@
     },
     {
       "id": "osm-w949557193",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Curtis Lane",
       "lat": 41.765693,
       "lng": -72.886423,
       "sports": [
@@ -10434,8 +10434,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Curtis Lane",
+      "city": "Avon",
       "state": "CT",
       "source": "osm",
       "tags": {
@@ -10510,7 +10510,7 @@
     },
     {
       "id": "osm-w971846350",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Wingate Road",
       "lat": 41.263685,
       "lng": -72.722626,
       "sports": [
@@ -10522,8 +10522,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wingate Road",
+      "city": "Guilford",
       "state": "CT",
       "source": "osm",
       "tags": {
@@ -11616,7 +11616,7 @@
     },
     {
       "id": "osm-w1107601189",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Putnam Road",
       "lat": 41.735769,
       "lng": -71.903739,
       "sports": [
@@ -11628,8 +11628,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Putnam Road",
+      "city": "Plainfield",
       "state": "CT",
       "source": "osm",
       "tags": {}
@@ -12491,7 +12491,7 @@
     },
     {
       "id": "osm-w1207448945",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Nod Road",
       "lat": 41.808521,
       "lng": -72.818865,
       "sports": [
@@ -12503,8 +12503,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Nod Road",
+      "city": "Avon",
       "state": "CT",
       "source": "osm",
       "tags": {
@@ -12534,7 +12534,7 @@
     },
     {
       "id": "osm-w1207762869",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Mallard Drive",
       "lat": 41.763895,
       "lng": -72.88252,
       "sports": [
@@ -12546,8 +12546,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mallard Drive",
+      "city": "Farmington",
       "state": "CT",
       "source": "osm",
       "tags": {
@@ -12556,7 +12556,7 @@
     },
     {
       "id": "osm-w1207837034",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Heritage Drive",
       "lat": 41.769117,
       "lng": -72.874309,
       "sports": [
@@ -12569,8 +12569,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Heritage Drive",
+      "city": "Avon",
       "state": "CT",
       "source": "osm",
       "tags": {}
@@ -12781,7 +12781,7 @@
     },
     {
       "id": "osm-w1211089903",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Nyack Lane",
       "lat": 41.254452,
       "lng": -73.113031,
       "sports": [
@@ -12794,8 +12794,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Nyack Lane",
+      "city": "Stratford",
       "state": "CT",
       "source": "osm",
       "tags": {}
@@ -12931,7 +12931,7 @@
     },
     {
       "id": "osm-w1212049579",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Old Redding Road",
       "lat": 41.225786,
       "lng": -73.330654,
       "sports": [
@@ -12944,8 +12944,8 @@
       "indoor": true,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Old Redding Road",
+      "city": "Weston",
       "state": "CT",
       "source": "osm",
       "tags": {}
@@ -13032,7 +13032,7 @@
     },
     {
       "id": "osm-w1212224172",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Old Redding Road",
       "lat": 41.227339,
       "lng": -73.333946,
       "sports": [
@@ -13044,8 +13044,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Old Redding Road",
+      "city": "Weston",
       "state": "CT",
       "source": "osm",
       "tags": {
@@ -13075,7 +13075,7 @@
     },
     {
       "id": "osm-w1212516775",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Hoyt Street",
       "lat": 41.105349,
       "lng": -73.50447,
       "sports": [
@@ -13087,15 +13087,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hoyt Street",
+      "city": "Darien",
       "state": "CT",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1212516798",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hoyt Street",
       "lat": 41.105559,
       "lng": -73.507998,
       "sports": [
@@ -13107,8 +13107,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hoyt Street",
+      "city": "Darien",
       "state": "CT",
       "source": "osm",
       "tags": {}
@@ -13283,7 +13283,7 @@
     },
     {
       "id": "osm-w1215393321",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Lane",
       "lat": 41.291201,
       "lng": -72.205511,
       "sports": [
@@ -13295,8 +13295,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Lane",
+      "city": "East Lyme",
       "state": "CT",
       "source": "osm",
       "tags": {
@@ -13407,7 +13407,7 @@
     },
     {
       "id": "osm-w1216308008",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fairway Crossing",
       "lat": 41.730801,
       "lng": -72.522767,
       "sports": [
@@ -13419,8 +13419,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fairway Crossing",
+      "city": "Glastonbury",
       "state": "CT",
       "source": "osm",
       "tags": {
@@ -15958,7 +15958,7 @@
     },
     {
       "id": "osm-w1436586596",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Millbrook Lane",
       "lat": 41.932674,
       "lng": -71.967418,
       "sports": [
@@ -15970,8 +15970,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Millbrook Lane",
+      "city": "Woodstock",
       "state": "CT",
       "source": "osm",
       "tags": {
@@ -16044,7 +16044,7 @@
     },
     {
       "id": "osm-w1442162757",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Little Brook Drive",
       "lat": 41.653717,
       "lng": -72.708348,
       "sports": [
@@ -16056,8 +16056,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Little Brook Drive",
+      "city": "Newington",
       "state": "CT",
       "source": "osm",
       "tags": {
@@ -16214,7 +16214,7 @@
     },
     {
       "id": "osm-w1444099985",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Porter Road",
       "lat": 41.724068,
       "lng": -72.82953,
       "sports": [
@@ -16226,8 +16226,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Porter Road",
+      "city": "Farmington",
       "state": "CT",
       "source": "osm",
       "tags": {}
@@ -16483,7 +16483,7 @@
       "access": "public",
       "fee": false,
       "address": null,
-      "city": null,
+      "city": "Groton",
       "state": "CT",
       "source": "osm",
       "tags": {
@@ -16618,7 +16618,7 @@
     },
     {
       "id": "osm-w1469015646",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Mallory Street",
       "lat": 41.888307,
       "lng": -71.963952,
       "sports": [
@@ -16630,8 +16630,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mallory Street",
+      "city": "Pomfret",
       "state": "CT",
       "source": "osm",
       "tags": {}
@@ -16722,7 +16722,7 @@
     },
     {
       "id": "osm-w1483604239",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Main Street",
       "lat": 41.714198,
       "lng": -72.199262,
       "sports": [
@@ -16734,8 +16734,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Main Street",
+      "city": "Willimantic",
       "state": "CT",
       "source": "osm",
       "tags": {
@@ -17436,7 +17436,7 @@
     },
     {
       "id": "osm-w1494900168",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Elm Street",
       "lat": 41.661824,
       "lng": -72.650501,
       "sports": [
@@ -17448,8 +17448,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Elm Street",
+      "city": "Rocky Hill",
       "state": "CT",
       "source": "osm",
       "tags": {}
@@ -18033,7 +18033,7 @@
     },
     {
       "id": "osm-w1500054645",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Tampa",
       "lat": 41.369626,
       "lng": -72.096915,
       "sports": [
@@ -18045,8 +18045,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Tampa",
+      "city": "New London",
       "state": "CT",
       "source": "osm",
       "tags": {}
@@ -18161,7 +18161,7 @@
     },
     {
       "id": "osm-w1500060479",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Agawam Avenue",
       "lat": 41.27112,
       "lng": -72.352983,
       "sports": [
@@ -18173,8 +18173,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Agawam Avenue",
+      "city": "Old Saybrook",
       "state": "CT",
       "source": "osm",
       "tags": {}
@@ -18582,7 +18582,7 @@
     },
     {
       "id": "osm-w1504026023",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Pioneer Valley Road",
       "lat": 42.021466,
       "lng": -72.051225,
       "sports": [
@@ -18594,8 +18594,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pioneer Valley Road",
+      "city": "Woodstock",
       "state": "CT",
       "source": "osm",
       "tags": {}
@@ -18960,7 +18960,7 @@
     },
     {
       "id": "osm-w1504762190",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Charter Oak Greenway",
       "lat": 41.763538,
       "lng": -72.516878,
       "sports": [
@@ -18972,8 +18972,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Charter Oak Greenway",
+      "city": "Manchester",
       "state": "CT",
       "source": "osm",
       "tags": {
@@ -19300,7 +19300,7 @@
     },
     {
       "id": "osm-w1505408134",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Mills Drive",
       "lat": 41.772593,
       "lng": -72.952666,
       "sports": [
@@ -19313,8 +19313,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mills Drive",
+      "city": "Burlington",
       "state": "CT",
       "source": "osm",
       "tags": {}
@@ -19365,7 +19365,7 @@
     },
     {
       "id": "osm-w1505408373",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Guilford Drive",
       "lat": 41.767641,
       "lng": -72.886913,
       "sports": [
@@ -19377,8 +19377,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Guilford Drive",
+      "city": "Avon",
       "state": "CT",
       "source": "osm",
       "tags": {
@@ -19621,7 +19621,7 @@
     },
     {
       "id": "osm-w1505410570",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Capitol Boulevard",
       "lat": 41.647212,
       "lng": -72.656202,
       "sports": [
@@ -19634,8 +19634,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Capitol Boulevard",
+      "city": "Rocky Hill",
       "state": "CT",
       "source": "osm",
       "tags": {}
@@ -20660,7 +20660,7 @@
     },
     {
       "id": "osm-w1508852420",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Shelter Cove Road",
       "lat": 41.533199,
       "lng": -73.471382,
       "sports": [
@@ -20673,8 +20673,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Shelter Cove Road",
+      "city": "Sherman",
       "state": "CT",
       "source": "osm",
       "tags": {}
@@ -20786,7 +20786,7 @@
     },
     {
       "id": "osm-w1509870821",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Montauk Avenue",
       "lat": 41.327121,
       "lng": -72.09573,
       "sports": [
@@ -20798,8 +20798,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Montauk Avenue",
+      "city": "New London",
       "state": "CT",
       "source": "osm",
       "tags": {}
@@ -20850,7 +20850,7 @@
     },
     {
       "id": "osm-w1512412565",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Burning Tree Road",
       "lat": 41.081269,
       "lng": -73.604509,
       "sports": [
@@ -20862,8 +20862,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Burning Tree Road",
+      "city": "Greenwich",
       "state": "CT",
       "source": "osm",
       "tags": {
@@ -21092,7 +21092,7 @@
     },
     {
       "id": "osm-w1513824502",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · South Eagleville Road",
       "lat": 41.799594,
       "lng": -72.244302,
       "sports": [
@@ -21104,8 +21104,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Eagleville Road",
+      "city": "Mansfield",
       "state": "CT",
       "source": "osm",
       "tags": {}
@@ -21176,7 +21176,7 @@
     },
     {
       "id": "osm-w1518352439",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Abar Lane",
       "lat": 41.860861,
       "lng": -72.572592,
       "sports": [
@@ -21188,8 +21188,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Abar Lane",
+      "city": "South Windsor",
       "state": "CT",
       "source": "osm",
       "tags": {}
@@ -21970,7 +21970,7 @@
     },
     {
       "id": "osm-w1552053094",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Chaffeeville Road",
       "lat": 41.774466,
       "lng": -72.203287,
       "sports": [
@@ -21982,8 +21982,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Chaffeeville Road",
+      "city": "Mansfield",
       "state": "CT",
       "source": "osm",
       "tags": {
@@ -22034,7 +22034,7 @@
     },
     {
       "id": "osm-w1553766842",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Farmington Canal Heritage Trail",
       "lat": 41.822908,
       "lng": -72.824881,
       "sports": [
@@ -22046,8 +22046,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Farmington Canal Heritage Trail",
+      "city": "Simsbury",
       "state": "CT",
       "source": "osm",
       "tags": {
@@ -22076,7 +22076,7 @@
     },
     {
       "id": "osm-w1553766985",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Middlebury Road",
       "lat": 41.539556,
       "lng": -73.112418,
       "sports": [
@@ -22088,8 +22088,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Middlebury Road",
+      "city": "Middlebury",
       "state": "CT",
       "source": "osm",
       "tags": {
@@ -22098,7 +22098,7 @@
     },
     {
       "id": "osm-w1553766995",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Charcoal Avenue",
       "lat": 41.538659,
       "lng": -73.120874,
       "sports": [
@@ -22110,8 +22110,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Charcoal Avenue",
+      "city": "Middlebury",
       "state": "CT",
       "source": "osm",
       "tags": {
@@ -22164,7 +22164,7 @@
     },
     {
       "id": "osm-w1558346947",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Washington Road",
       "lat": 41.824288,
       "lng": -72.674797,
       "sports": [
@@ -22177,8 +22177,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Washington Road",
+      "city": "Windsor",
       "state": "CT",
       "source": "osm",
       "tags": {}

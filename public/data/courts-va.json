@@ -244,7 +244,7 @@
     },
     {
       "id": "osm-n13563371219",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Skyhawk Drive",
       "lat": 38.89703,
       "lng": -77.425576,
       "sports": [
@@ -256,8 +256,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Skyhawk Drive",
+      "city": "Chantilly",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -266,7 +266,7 @@
     },
     {
       "id": "osm-n13709688644",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Chimney Rock Drive",
       "lat": 37.674627,
       "lng": -77.377771,
       "sports": [
@@ -278,8 +278,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Chimney Rock Drive",
+      "city": "Hanover County",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -288,7 +288,7 @@
     },
     {
       "id": "osm-n14005336921",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Curtis Merritt Harbor Drive",
       "lat": 37.904321,
       "lng": -75.406651,
       "sports": [
@@ -300,8 +300,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Curtis Merritt Harbor Drive",
+      "city": "Chincoteague",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -332,7 +332,7 @@
     },
     {
       "id": "osm-n14066674882",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Zachary Taylor Highway",
       "lat": 38.098644,
       "lng": -77.890361,
       "sports": [
@@ -344,8 +344,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Zachary Taylor Highway",
+      "city": "Louisa County",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -374,7 +374,7 @@
     },
     {
       "id": "osm-w25705703",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Washington Street",
       "lat": 37.223997,
       "lng": -80.417108,
       "sports": [
@@ -387,8 +387,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Washington Street",
+      "city": "Blacksburg",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -633,7 +633,7 @@
     },
     {
       "id": "osm-w45086476",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fieldstone Way",
       "lat": 38.820901,
       "lng": -77.591853,
       "sports": [
@@ -645,8 +645,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fieldstone Way",
+      "city": "Gainesville",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -655,7 +655,7 @@
     },
     {
       "id": "osm-w45090806",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Heritage Hunt Drive",
       "lat": 38.809837,
       "lng": -77.60022,
       "sports": [
@@ -667,8 +667,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Heritage Hunt Drive",
+      "city": "Gainesville",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -872,7 +872,7 @@
     },
     {
       "id": "osm-w51060380",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Belmont Manor Lane",
       "lat": 39.069867,
       "lng": -77.489338,
       "sports": [
@@ -884,15 +884,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Belmont Manor Lane",
+      "city": "Belmont",
       "state": "VA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w51710558",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fairfax County Parkway Trail",
       "lat": 38.871079,
       "lng": -77.382841,
       "sports": [
@@ -904,8 +904,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fairfax County Parkway Trail",
+      "city": "Fair Lakes",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -956,7 +956,7 @@
     },
     {
       "id": "osm-w53814727",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Scott's Run Trail",
       "lat": 38.920505,
       "lng": -77.208535,
       "sports": [
@@ -969,8 +969,8 @@
       "indoor": null,
       "access": "public",
       "fee": false,
-      "address": null,
-      "city": null,
+      "address": "Scott's Run Trail",
+      "city": "Pimmit Hills",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -999,7 +999,7 @@
     },
     {
       "id": "osm-w59987336",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Briar Patch Court",
       "lat": 38.821191,
       "lng": -77.264839,
       "sports": [
@@ -1011,8 +1011,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Briar Patch Court",
+      "city": "Long Branch",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -1103,7 +1103,7 @@
     },
     {
       "id": "osm-w70643404",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Tall Oaks Drive",
       "lat": 37.217633,
       "lng": -80.447013,
       "sports": [
@@ -1115,8 +1115,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Tall Oaks Drive",
+      "city": "Blacksburg",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -1145,7 +1145,7 @@
     },
     {
       "id": "osm-w74117330",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Shenandoah Circle",
       "lat": 37.246331,
       "lng": -80.422382,
       "sports": [
@@ -1157,8 +1157,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Shenandoah Circle",
+      "city": "Blacksburg",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -1228,7 +1228,7 @@
     },
     {
       "id": "osm-w78500059",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Becontree Lake Drive",
       "lat": 38.96549,
       "lng": -77.325083,
       "sports": [
@@ -1240,8 +1240,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Becontree Lake Drive",
+      "city": "Reston",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -1332,7 +1332,7 @@
     },
     {
       "id": "osm-w79240278",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Chestnut Charlie",
       "lat": 38.955665,
       "lng": -77.332073,
       "sports": [
@@ -1344,8 +1344,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Chestnut Charlie",
+      "city": "Reston",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -1521,7 +1521,7 @@
     },
     {
       "id": "osm-w79666839",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Stuart Road",
       "lat": 38.97969,
       "lng": -77.362551,
       "sports": [
@@ -1533,8 +1533,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Stuart Road",
+      "city": "Reston",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -1609,7 +1609,7 @@
     },
     {
       "id": "osm-w80190456",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Laurence Lane",
       "lat": 37.246397,
       "lng": -80.426926,
       "sports": [
@@ -1621,8 +1621,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Laurence Lane",
+      "city": "Blacksburg",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -1675,7 +1675,7 @@
     },
     {
       "id": "osm-w80288158",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Pheasant Run Court",
       "lat": 37.249286,
       "lng": -80.418854,
       "sports": [
@@ -1687,8 +1687,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pheasant Run Court",
+      "city": "Blacksburg",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -1697,7 +1697,7 @@
     },
     {
       "id": "osm-w80298364",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hounds Chase Lane",
       "lat": 37.218254,
       "lng": -80.451941,
       "sports": [
@@ -1709,8 +1709,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hounds Chase Lane",
+      "city": "Blacksburg",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -1997,7 +1997,7 @@
     },
     {
       "id": "osm-w95241122",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Waterway Drive",
       "lat": 38.603026,
       "lng": -77.337858,
       "sports": [
@@ -2009,8 +2009,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Waterway Drive",
+      "city": "Dale City",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -2165,7 +2165,7 @@
     },
     {
       "id": "osm-w105070032",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Clubhouse Road",
       "lat": 37.212563,
       "lng": -80.358017,
       "sports": [
@@ -2177,8 +2177,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Clubhouse Road",
+      "city": "Montgomery County",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -2249,7 +2249,7 @@
     },
     {
       "id": "osm-w111696795",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hayfield Road",
       "lat": 38.756784,
       "lng": -77.147475,
       "sports": [
@@ -2262,15 +2262,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hayfield Road",
+      "city": "Hayfield",
       "state": "VA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w111705613",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Pennymoor Court",
       "lat": 38.94374,
       "lng": -77.410288,
       "sports": [
@@ -2282,8 +2282,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pennymoor Court",
+      "city": "Floris",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -2292,7 +2292,7 @@
     },
     {
       "id": "osm-w111705618",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cornelia Road",
       "lat": 38.945083,
       "lng": -77.410696,
       "sports": [
@@ -2304,8 +2304,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cornelia Road",
+      "city": "Floris",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -2336,7 +2336,7 @@
     },
     {
       "id": "osm-w111782932",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Coppermine Road",
       "lat": 38.943694,
       "lng": -77.405639,
       "sports": [
@@ -2348,8 +2348,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Coppermine Road",
+      "city": "McNair",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -2670,7 +2670,7 @@
     },
     {
       "id": "osm-w120487167",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Olney Road",
       "lat": 38.915362,
       "lng": -77.193321,
       "sports": [
@@ -2682,8 +2682,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Olney Road",
+      "city": "Pimmit Hills",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -2861,7 +2861,7 @@
     },
     {
       "id": "osm-w131360798",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Tobin Road",
       "lat": 38.852685,
       "lng": -77.239913,
       "sports": [
@@ -2873,8 +2873,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Tobin Road",
+      "city": "Woodburn",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -2969,7 +2969,7 @@
     },
     {
       "id": "osm-w136291531",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Government Center Parkway",
       "lat": 38.852958,
       "lng": -77.34586,
       "sports": [
@@ -2981,8 +2981,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Government Center Parkway",
+      "city": "Fair Oaks",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -3185,7 +3185,7 @@
     },
     {
       "id": "osm-w142641114",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Mount Air Drive",
       "lat": 38.727078,
       "lng": -77.177377,
       "sports": [
@@ -3197,8 +3197,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Mount Air Drive",
+      "city": "Springfield",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -3207,7 +3207,7 @@
     },
     {
       "id": "osm-w142662864",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Morning View Lane",
       "lat": 38.751795,
       "lng": -77.170277,
       "sports": [
@@ -3219,8 +3219,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Morning View Lane",
+      "city": "Springfield",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -3229,7 +3229,7 @@
     },
     {
       "id": "osm-w142662869",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · PineCone Alley",
       "lat": 38.735501,
       "lng": -77.179335,
       "sports": [
@@ -3241,8 +3241,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "PineCone Alley",
+      "city": "Springfield",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -3251,7 +3251,7 @@
     },
     {
       "id": "osm-w142662871",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Netties Lane",
       "lat": 38.750433,
       "lng": -77.174379,
       "sports": [
@@ -3263,8 +3263,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Netties Lane",
+      "city": "Springfield",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -3337,7 +3337,7 @@
     },
     {
       "id": "osm-w142815337",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Kidd Street",
       "lat": 38.742458,
       "lng": -77.113283,
       "sports": [
@@ -3349,8 +3349,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kidd Street",
+      "city": "Woodlawn",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -3529,7 +3529,7 @@
     },
     {
       "id": "osm-w144082840",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Old Colchester Road",
       "lat": 38.675679,
       "lng": -77.227052,
       "sports": [
@@ -3541,8 +3541,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Old Colchester Road",
+      "city": "Lorton",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -3615,7 +3615,7 @@
     },
     {
       "id": "osm-w144489087",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Sydenstricker Road",
       "lat": 38.77397,
       "lng": -77.267225,
       "sports": [
@@ -3627,8 +3627,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sydenstricker Road",
+      "city": "Burke",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -3953,7 +3953,7 @@
     },
     {
       "id": "osm-w146978496",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Grass Trail",
       "lat": 38.755958,
       "lng": -77.180974,
       "sports": [
@@ -3965,8 +3965,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Grass Trail",
+      "city": "Springfield",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -4081,7 +4081,7 @@
     },
     {
       "id": "osm-w151509925",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Rough-Steep",
       "lat": 38.770609,
       "lng": -77.246564,
       "sports": [
@@ -4093,8 +4093,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rough-Steep",
+      "city": "Burke",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -4353,7 +4353,7 @@
     },
     {
       "id": "osm-w159837983",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Pohick Stream Valley Trail",
       "lat": 38.785789,
       "lng": -77.257031,
       "sports": [
@@ -4365,8 +4365,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pohick Stream Valley Trail",
+      "city": "Burke",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -5493,14 +5493,14 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Lansdowne",
       "state": "VA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w185930967",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Magnolia Grove Square",
       "lat": 39.08144,
       "lng": -77.472115,
       "sports": [
@@ -5512,8 +5512,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Magnolia Grove Square",
+      "city": "Lansdowne",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -5738,7 +5738,7 @@
     },
     {
       "id": "osm-w203045062",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Horgan Court",
       "lat": 38.776961,
       "lng": -77.125635,
       "sports": [
@@ -5750,8 +5750,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Horgan Court",
+      "city": "Kingstowne",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -6687,7 +6687,7 @@
     },
     {
       "id": "osm-w218198040",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wilton Road",
       "lat": 38.790214,
       "lng": -77.096457,
       "sports": [
@@ -6699,8 +6699,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wilton Road",
+      "city": "Springfield",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -6813,7 +6813,7 @@
     },
     {
       "id": "osm-w220343125",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Herndon Parkway",
       "lat": 38.98302,
       "lng": -77.377809,
       "sports": [
@@ -6825,8 +6825,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Herndon Parkway",
+      "city": "Herndon",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -7217,7 +7217,7 @@
     },
     {
       "id": "osm-w224773379",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Old Courthouse Road",
       "lat": 38.927957,
       "lng": -77.267839,
       "sports": [
@@ -7229,8 +7229,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Old Courthouse Road",
+      "city": "Wolf Trap",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -7579,7 +7579,7 @@
     },
     {
       "id": "osm-w227606993",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Marshall Avenue",
       "lat": 37.021056,
       "lng": -76.33275,
       "sports": [
@@ -7591,8 +7591,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Marshall Avenue",
+      "city": "Hampton",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -7729,7 +7729,7 @@
     },
     {
       "id": "osm-w228627157",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 10th Street",
       "lat": 38.773412,
       "lng": -77.054666,
       "sports": [
@@ -7741,8 +7741,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "10th Street",
+      "city": "Belle Haven",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -7771,7 +7771,7 @@
     },
     {
       "id": "osm-w228896844",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bristow Village Boulevard",
       "lat": 38.721786,
       "lng": -77.55192,
       "sports": [
@@ -7783,8 +7783,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bristow Village Boulevard",
+      "city": "Bristow",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -7793,7 +7793,7 @@
     },
     {
       "id": "osm-w229117368",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Northview Drive",
       "lat": 37.241287,
       "lng": -80.411818,
       "sports": [
@@ -7805,8 +7805,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northview Drive",
+      "city": "Blacksburg",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -7917,7 +7917,7 @@
     },
     {
       "id": "osm-w232846374",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Chadwick Avenue",
       "lat": 38.734909,
       "lng": -77.051338,
       "sports": [
@@ -7929,8 +7929,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Chadwick Avenue",
+      "city": "Fort Hunt",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -8843,7 +8843,7 @@
     },
     {
       "id": "osm-w240892512",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hiddenbrook Drive",
       "lat": 38.986577,
       "lng": -77.388432,
       "sports": [
@@ -8855,8 +8855,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hiddenbrook Drive",
+      "city": "Reston",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -9126,7 +9126,7 @@
     },
     {
       "id": "osm-w250396641",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Country Club Grove",
       "lat": 38.921577,
       "lng": -77.125585,
       "sports": [
@@ -9140,7 +9140,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Arlington",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -9354,7 +9354,7 @@
     },
     {
       "id": "osm-w259483473",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Huntington Place",
       "lat": 36.890205,
       "lng": -76.265352,
       "sports": [
@@ -9366,15 +9366,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Huntington Place",
+      "city": "Norfolk",
       "state": "VA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w260552047",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Marstellar Street",
       "lat": 38.812637,
       "lng": -77.061148,
       "sports": [
@@ -9386,8 +9386,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Marstellar Street",
+      "city": "Alexandria",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -10687,7 +10687,7 @@
     },
     {
       "id": "osm-w306064985",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cardinal Road",
       "lat": 36.865728,
       "lng": -76.005244,
       "sports": [
@@ -10699,8 +10699,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cardinal Road",
+      "city": "Virginia Beach",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -10793,7 +10793,7 @@
     },
     {
       "id": "osm-w310314391",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Presidential Parkway",
       "lat": 36.847014,
       "lng": -76.266005,
       "sports": [
@@ -10805,8 +10805,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Presidential Parkway",
+      "city": "Norfolk",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -11299,7 +11299,7 @@
     },
     {
       "id": "osm-w327013268",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Piper Way",
       "lat": 37.988617,
       "lng": -78.385197,
       "sports": [
@@ -11311,8 +11311,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Piper Way",
+      "city": "Rivanna",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -11751,7 +11751,7 @@
     },
     {
       "id": "osm-w348331161",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Tennis Road",
       "lat": 38.061766,
       "lng": -78.543137,
       "sports": [
@@ -11763,8 +11763,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Tennis Road",
+      "city": "Albemarle County",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -12454,7 +12454,7 @@
     },
     {
       "id": "osm-w384954830",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fairway Reach",
       "lat": 36.765988,
       "lng": -76.215861,
       "sports": [
@@ -12466,15 +12466,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fairway Reach",
+      "city": "Chesapeake",
       "state": "VA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w384954831",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Greenbrier Parkway",
       "lat": 36.760697,
       "lng": -76.223725,
       "sports": [
@@ -12486,15 +12486,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Greenbrier Parkway",
+      "city": "Chesapeake",
       "state": "VA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w384954838",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fairway Drive",
       "lat": 36.766366,
       "lng": -76.213811,
       "sports": [
@@ -12506,8 +12506,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fairway Drive",
+      "city": "Chesapeake",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -12833,7 +12833,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Fairfax",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -13902,7 +13902,7 @@
     },
     {
       "id": "osm-w417042659",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Belmont-Ferry Farm Trail",
       "lat": 38.311525,
       "lng": -77.45723,
       "sports": [
@@ -13915,8 +13915,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Belmont-Ferry Farm Trail",
+      "city": "Falmouth",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -14179,7 +14179,7 @@
     },
     {
       "id": "osm-w440076475",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Kings Crossing Terrace",
       "lat": 39.017007,
       "lng": -77.495959,
       "sports": [
@@ -14191,8 +14191,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kings Crossing Terrace",
+      "city": "Ashburn",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -14609,7 +14609,7 @@
     },
     {
       "id": "osm-w469205103",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Alder Woods Drive",
       "lat": 38.878735,
       "lng": -77.380292,
       "sports": [
@@ -14621,8 +14621,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Alder Woods Drive",
+      "city": "Navy",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -15199,7 +15199,7 @@
     },
     {
       "id": "osm-w505096603",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hawthorn Road",
       "lat": 37.301242,
       "lng": -80.056592,
       "sports": [
@@ -15211,8 +15211,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hawthorn Road",
+      "city": "Salem",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -15243,7 +15243,7 @@
     },
     {
       "id": "osm-w508257573",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Boulder Springs Drive",
       "lat": 37.505994,
       "lng": -77.531956,
       "sports": [
@@ -15255,8 +15255,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Boulder Springs Drive",
+      "city": "Manchester",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -15329,7 +15329,7 @@
     },
     {
       "id": "osm-w516503034",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Old Saint Johns Road",
       "lat": 37.691284,
       "lng": -76.400087,
       "sports": [
@@ -15341,8 +15341,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Old Saint Johns Road",
+      "city": "Lancaster County",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -15513,7 +15513,7 @@
     },
     {
       "id": "osm-w519684664",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hunters Mill Road",
       "lat": 37.213506,
       "lng": -80.4494,
       "sports": [
@@ -15525,8 +15525,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hunters Mill Road",
+      "city": "Blacksburg",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -16678,7 +16678,7 @@
     },
     {
       "id": "osm-w571489658",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Matchpoint Way",
       "lat": 39.052862,
       "lng": -77.48175,
       "sports": [
@@ -16690,8 +16690,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Matchpoint Way",
+      "city": "Ashburn",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -17057,7 +17057,7 @@
     },
     {
       "id": "osm-w605755096",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cedar Lane",
       "lat": 36.882581,
       "lng": -76.377082,
       "sports": [
@@ -17069,8 +17069,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cedar Lane",
+      "city": "Portsmouth",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -17099,7 +17099,7 @@
     },
     {
       "id": "osm-w606931843",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cedarfield of Churchland",
       "lat": 36.881899,
       "lng": -76.371123,
       "sports": [
@@ -17112,7 +17112,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Portsmouth",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -17161,7 +17161,7 @@
     },
     {
       "id": "osm-w612086578",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Harbor Court",
       "lat": 36.839501,
       "lng": -76.295918,
       "sports": [
@@ -17173,8 +17173,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Harbor Court",
+      "city": "Portsmouth",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -17183,7 +17183,7 @@
     },
     {
       "id": "osm-w612117864",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Water Street",
       "lat": 36.836571,
       "lng": -76.296774,
       "sports": [
@@ -17195,8 +17195,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Water Street",
+      "city": "Portsmouth",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -17291,7 +17291,7 @@
     },
     {
       "id": "osm-w616791323",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bennett's Creek Park Tennis Courts",
       "lat": 36.851758,
       "lng": -76.481671,
       "sports": [
@@ -17303,8 +17303,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bennett's Creek Park Tennis Courts",
+      "city": "Suffolk",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -17869,7 +17869,7 @@
     },
     {
       "id": "osm-w670359506",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Gloucester Parkway",
       "lat": 39.053299,
       "lng": -77.48723,
       "sports": [
@@ -17881,8 +17881,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Gloucester Parkway",
+      "city": "Ashburn",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -18076,7 +18076,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "York County",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -18855,7 +18855,7 @@
     },
     {
       "id": "osm-w725117911",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Barnwick Court Northeast",
       "lat": 39.102858,
       "lng": -77.518077,
       "sports": [
@@ -18867,8 +18867,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Barnwick Court Northeast",
+      "city": "Leesburg",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -18919,7 +18919,7 @@
     },
     {
       "id": "osm-w729439442",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lynnhurst Drive",
       "lat": 38.853003,
       "lng": -77.252841,
       "sports": [
@@ -18931,8 +18931,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lynnhurst Drive",
+      "city": "Mantua",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -18983,7 +18983,7 @@
     },
     {
       "id": "osm-w734230979",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Blue Holly Lane",
       "lat": 38.927518,
       "lng": -77.411615,
       "sports": [
@@ -18995,8 +18995,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Blue Holly Lane",
+      "city": "Oak Hill",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -19689,7 +19689,7 @@
     },
     {
       "id": "osm-w759887672",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Pearl Crescent Square",
       "lat": 39.066146,
       "lng": -77.459176,
       "sports": [
@@ -19701,8 +19701,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pearl Crescent Square",
+      "city": "One Loudoun",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -19839,7 +19839,7 @@
     },
     {
       "id": "osm-w767332611",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 4-H Camp Road",
       "lat": 37.389259,
       "lng": -78.641198,
       "sports": [
@@ -19851,8 +19851,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "4-H Camp Road",
+      "city": "Appomattox County",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -19903,7 +19903,7 @@
     },
     {
       "id": "osm-w771118756",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cranoke Street",
       "lat": 38.851239,
       "lng": -77.463893,
       "sports": [
@@ -19915,8 +19915,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cranoke Street",
+      "city": "Centreville",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -20483,7 +20483,7 @@
     },
     {
       "id": "osm-w822733790",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Gatewood Road",
       "lat": 37.054015,
       "lng": -76.473325,
       "sports": [
@@ -20495,8 +20495,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Gatewood Road",
+      "city": "Newport News",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -20841,7 +20841,7 @@
     },
     {
       "id": "osm-w835162569",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · William R. Harvey Way",
       "lat": 37.022381,
       "lng": -76.334054,
       "sports": [
@@ -20853,8 +20853,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "William R. Harvey Way",
+      "city": "Hampton",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -20967,7 +20967,7 @@
     },
     {
       "id": "osm-w839680457",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fenwood Crescent",
       "lat": 37.127777,
       "lng": -76.549676,
       "sports": [
@@ -20979,8 +20979,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fenwood Crescent",
+      "city": "Newport News",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -21502,7 +21502,7 @@
     },
     {
       "id": "osm-w869935832",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Water Oak Court",
       "lat": 38.013543,
       "lng": -78.52409,
       "sports": [
@@ -21514,8 +21514,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Water Oak Court",
+      "city": "Albemarle County",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -21695,7 +21695,7 @@
     },
     {
       "id": "osm-w878733361",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Braddock Road",
       "lat": 38.865936,
       "lng": -77.464484,
       "sports": [
@@ -21707,8 +21707,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Braddock Road",
+      "city": "Centreville",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -21728,7 +21728,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Carrollton",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -21821,7 +21821,7 @@
     },
     {
       "id": "osm-w881602064",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Sports Club Run",
       "lat": 36.879625,
       "lng": -76.44327,
       "sports": [
@@ -21833,8 +21833,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sports Club Run",
+      "city": "Suffolk",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -21887,7 +21887,7 @@
     },
     {
       "id": "osm-w884240250",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Padgett's Ordinary",
       "lat": 37.226933,
       "lng": -76.664117,
       "sports": [
@@ -21899,8 +21899,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Padgett's Ordinary",
+      "city": "James City County",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -21949,7 +21949,7 @@
     },
     {
       "id": "osm-w884335414",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Kingsmill Road",
       "lat": 37.232099,
       "lng": -76.66378,
       "sports": [
@@ -21961,8 +21961,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kingsmill Road",
+      "city": "James City County",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -22114,7 +22114,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "James City County",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -22205,7 +22205,7 @@
     },
     {
       "id": "osm-w891230247",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Addingtons",
       "lat": 37.293722,
       "lng": -76.794467,
       "sports": [
@@ -22218,8 +22218,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Addingtons",
+      "city": "James City County",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -23074,7 +23074,7 @@
     },
     {
       "id": "osm-w940522242",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Willow Spring Court",
       "lat": 38.994084,
       "lng": -77.386719,
       "sports": [
@@ -23086,8 +23086,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Willow Spring Court",
+      "city": "Reston",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -23784,7 +23784,7 @@
     },
     {
       "id": "osm-w988321261",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ox Road",
       "lat": 38.818297,
       "lng": -77.320919,
       "sports": [
@@ -23797,8 +23797,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ox Road",
+      "city": "Fairfax Station",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -23929,7 +23929,7 @@
     },
     {
       "id": "osm-w997976829",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · VES Road",
       "lat": 37.452407,
       "lng": -79.188051,
       "sports": [
@@ -23941,8 +23941,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "VES Road",
+      "city": "Lynchburg",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -24035,7 +24035,7 @@
     },
     {
       "id": "osm-w1012915034",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Cardinal Drive",
       "lat": 38.609224,
       "lng": -77.295335,
       "sports": [
@@ -24047,8 +24047,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cardinal Drive",
+      "city": "Leesylvania",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -24240,7 +24240,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Virginia Beach",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -24313,7 +24313,7 @@
     },
     {
       "id": "osm-w1028791602",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · County Place",
       "lat": 36.729843,
       "lng": -76.028008,
       "sports": [
@@ -24325,8 +24325,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "County Place",
+      "city": "Virginia Beach",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -25041,7 +25041,7 @@
     },
     {
       "id": "osm-w1082151392",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Founders Bridge Boulevard",
       "lat": 37.543531,
       "lng": -77.682031,
       "sports": [
@@ -25053,8 +25053,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Founders Bridge Boulevard",
+      "city": "Powhatan County",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -25233,7 +25233,7 @@
     },
     {
       "id": "osm-w1084943466",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Magnolia Green Parkway",
       "lat": 37.39821,
       "lng": -77.743144,
       "sports": [
@@ -25245,8 +25245,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Magnolia Green Parkway",
+      "city": "Chesterfield County",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -25377,7 +25377,7 @@
     },
     {
       "id": "osm-w1086533315",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bay Creek Parkway",
       "lat": 37.255681,
       "lng": -76.009598,
       "sports": [
@@ -25389,8 +25389,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bay Creek Parkway",
+      "city": "Cape Charles",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -25793,7 +25793,7 @@
     },
     {
       "id": "osm-w1092955539",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Whiteoaks Drive",
       "lat": 38.751228,
       "lng": -77.067769,
       "sports": [
@@ -25805,8 +25805,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Whiteoaks Drive",
+      "city": "Hybla Valley",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -25855,7 +25855,7 @@
     },
     {
       "id": "osm-w1094636440",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Spring Hill Road",
       "lat": 38.925798,
       "lng": -77.245791,
       "sports": [
@@ -25867,8 +25867,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Spring Hill Road",
+      "city": "Tysons",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -26112,7 +26112,7 @@
     },
     {
       "id": "osm-w1107890009",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Catharpin Creek Greenway",
       "lat": 38.85199,
       "lng": -77.65,
       "sports": [
@@ -26124,8 +26124,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Catharpin Creek Greenway",
+      "city": "Dominion Valley",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -26439,7 +26439,7 @@
     },
     {
       "id": "osm-w1123803114",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Palmers Way",
       "lat": 37.763178,
       "lng": -77.603758,
       "sports": [
@@ -26451,8 +26451,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Palmers Way",
+      "city": "Hanover County",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -26567,7 +26567,7 @@
     },
     {
       "id": "osm-w1127369525",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Randolph Drive",
       "lat": 36.811345,
       "lng": -76.739135,
       "sports": [
@@ -26579,8 +26579,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Randolph Drive",
+      "city": "Windsor",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -26761,7 +26761,7 @@
     },
     {
       "id": "osm-w1136315938",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Filly Court",
       "lat": 38.852809,
       "lng": -77.443641,
       "sports": [
@@ -26773,8 +26773,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Filly Court",
+      "city": "Centreville",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -26783,7 +26783,7 @@
     },
     {
       "id": "osm-w1137674566",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ironbridge Parkway",
       "lat": 37.360656,
       "lng": -77.485272,
       "sports": [
@@ -26796,8 +26796,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ironbridge Parkway",
+      "city": "Chesterfield",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -26883,7 +26883,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Petersburg",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -28013,7 +28013,7 @@
     },
     {
       "id": "osm-w1214067233",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Deerfield Pond Drive",
       "lat": 39.004627,
       "lng": -77.291379,
       "sports": [
@@ -28025,8 +28025,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Deerfield Pond Drive",
+      "city": "Great Falls",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -28035,7 +28035,7 @@
     },
     {
       "id": "osm-w1214068328",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Beach Mill Road",
       "lat": 39.025896,
       "lng": -77.287609,
       "sports": [
@@ -28047,8 +28047,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Beach Mill Road",
+      "city": "Great Falls",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -28079,7 +28079,7 @@
     },
     {
       "id": "osm-w1215783121",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Woodland Falls Drive",
       "lat": 39.007676,
       "lng": -77.323035,
       "sports": [
@@ -28091,8 +28091,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Woodland Falls Drive",
+      "city": "Reston",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -28101,7 +28101,7 @@
     },
     {
       "id": "osm-w1215794389",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Riverscape Run",
       "lat": 39.025114,
       "lng": -77.319525,
       "sports": [
@@ -28113,8 +28113,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Riverscape Run",
+      "city": "Reston",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -28274,7 +28274,7 @@
     },
     {
       "id": "osm-w1227011178",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Smith Street",
       "lat": 37.933378,
       "lng": -75.372321,
       "sports": [
@@ -28286,8 +28286,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Smith Street",
+      "city": "Chincoteague",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -28382,7 +28382,7 @@
     },
     {
       "id": "osm-w1229679711",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Arthur Hills Drive",
       "lat": 37.35231,
       "lng": -76.770045,
       "sports": [
@@ -28394,8 +28394,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Arthur Hills Drive",
+      "city": "Norge",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -28607,7 +28607,7 @@
       "access": "public",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Virginia Beach",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -28704,7 +28704,7 @@
     },
     {
       "id": "osm-w1262588050",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Outrigger Drive",
       "lat": 37.368426,
       "lng": -77.327116,
       "sports": [
@@ -28716,8 +28716,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Outrigger Drive",
+      "city": "Chesterfield County",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -28790,7 +28790,7 @@
     },
     {
       "id": "osm-w1270734262",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Fort Hunt Road",
       "lat": 38.789291,
       "lng": -77.060256,
       "sports": [
@@ -28802,8 +28802,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fort Hunt Road",
+      "city": "Huntington",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -29154,7 +29154,7 @@
     },
     {
       "id": "osm-w1307866427",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Elliott Drive",
       "lat": 37.24252,
       "lng": -80.407514,
       "sports": [
@@ -29166,8 +29166,8 @@
       "indoor": null,
       "access": "public",
       "fee": false,
-      "address": null,
-      "city": null,
+      "address": "Elliott Drive",
+      "city": "Blacksburg",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -29306,7 +29306,7 @@
     },
     {
       "id": "osm-w1318075644",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · University Drive",
       "lat": 37.136798,
       "lng": -80.540353,
       "sports": [
@@ -29318,8 +29318,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "University Drive",
+      "city": "Radford",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -30067,7 +30067,7 @@
     },
     {
       "id": "osm-w1334161146",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Knollwood Drive",
       "lat": 37.201149,
       "lng": -80.403006,
       "sports": [
@@ -30079,8 +30079,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Knollwood Drive",
+      "city": "Blacksburg",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -30089,7 +30089,7 @@
     },
     {
       "id": "osm-w1334960015",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Shore Drive",
       "lat": 36.907736,
       "lng": -76.089204,
       "sports": [
@@ -30101,8 +30101,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Shore Drive",
+      "city": "Virginia Beach",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -30811,7 +30811,7 @@
     },
     {
       "id": "osm-w1341924169",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · South Keswick Drive",
       "lat": 37.962506,
       "lng": -78.337631,
       "sports": [
@@ -30823,8 +30823,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Keswick Drive",
+      "city": "Fluvanna County",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -30893,7 +30893,7 @@
     },
     {
       "id": "osm-w1346218276",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Chatham Square Office Park",
       "lat": 38.315312,
       "lng": -77.454538,
       "sports": [
@@ -30906,8 +30906,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Chatham Square Office Park",
+      "city": "Falmouth",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -31169,7 +31169,7 @@
     },
     {
       "id": "osm-w1353256481",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Highcliffe Drive",
       "lat": 39.17503,
       "lng": -78.096435,
       "sports": [
@@ -31181,8 +31181,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Highcliffe Drive",
+      "city": "Frederick County",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -31321,7 +31321,7 @@
     },
     {
       "id": "osm-w1356410528",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wiley Drive",
       "lat": 36.92882,
       "lng": -80.024517,
       "sports": [
@@ -31333,8 +31333,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wiley Drive",
+      "city": "Ferrum",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -31425,7 +31425,7 @@
     },
     {
       "id": "osm-w1380075390",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Powhatan Avenue",
       "lat": 36.884628,
       "lng": -76.312088,
       "sports": [
@@ -31437,15 +31437,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Powhatan Avenue",
+      "city": "Norfolk",
       "state": "VA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1383906328",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Strickler",
       "lat": 38.642826,
       "lng": -78.538264,
       "sports": [
@@ -31457,8 +31457,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Strickler",
+      "city": "Page County",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -31531,7 +31531,7 @@
     },
     {
       "id": "osm-w1390044771",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Main Street",
       "lat": 37.51792,
       "lng": -79.701712,
       "sports": [
@@ -31544,8 +31544,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Main Street",
+      "city": "Buchanan",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -32342,7 +32342,7 @@
     },
     {
       "id": "osm-w1420879620",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Rambler Drive",
       "lat": 36.581239,
       "lng": -79.415922,
       "sports": [
@@ -32354,15 +32354,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rambler Drive",
+      "city": "Danville",
       "state": "VA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1420986074",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Canterbury Road",
       "lat": 36.584529,
       "lng": -79.414491,
       "sports": [
@@ -32374,8 +32374,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Canterbury Road",
+      "city": "Danville",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -32423,7 +32423,7 @@
     },
     {
       "id": "osm-w1421834686",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Cherry Street",
       "lat": 38.8809,
       "lng": -77.165542,
       "sports": [
@@ -32436,8 +32436,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Cherry Street",
+      "city": "Falls Church",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -32660,7 +32660,7 @@
     },
     {
       "id": "osm-w1425042938",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cleveland Avenue",
       "lat": 37.301971,
       "lng": -80.052615,
       "sports": [
@@ -32672,8 +32672,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cleveland Avenue",
+      "city": "Salem",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -32746,7 +32746,7 @@
     },
     {
       "id": "osm-w1425481430",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Chatham Hall Circle",
       "lat": 36.825831,
       "lng": -79.38803,
       "sports": [
@@ -32758,8 +32758,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Chatham Hall Circle",
+      "city": "Chatham",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -33146,7 +33146,7 @@
     },
     {
       "id": "osm-w1430041852",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · US 11",
       "lat": 37.138173,
       "lng": -80.572533,
       "sports": [
@@ -33159,8 +33159,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "US 11",
+      "city": "Radford",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -33357,7 +33357,7 @@
     },
     {
       "id": "osm-w1430662796",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Dale Avenue Southeast",
       "lat": 37.274368,
       "lng": -79.912058,
       "sports": [
@@ -33369,8 +33369,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Dale Avenue Southeast",
+      "city": "Roanoke",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -33464,7 +33464,7 @@
     },
     {
       "id": "osm-w1430927457",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Goodwin Neck Road",
       "lat": 37.205957,
       "lng": -76.441053,
       "sports": [
@@ -33477,8 +33477,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Goodwin Neck Road",
+      "city": "Seaford",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -33507,7 +33507,7 @@
     },
     {
       "id": "osm-w1431217917",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Brockway Lane",
       "lat": 37.556136,
       "lng": -77.395304,
       "sports": [
@@ -33519,8 +33519,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Brockway Lane",
+      "city": "Henrico County",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -33761,7 +33761,7 @@
     },
     {
       "id": "osm-w1431821820",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Layton Drive",
       "lat": 37.701293,
       "lng": -77.608312,
       "sports": [
@@ -33774,8 +33774,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Layton Drive",
+      "city": "Wyndham",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -34330,7 +34330,7 @@
     },
     {
       "id": "osm-w1434797854",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Grafton Street",
       "lat": 38.813972,
       "lng": -77.164013,
       "sports": [
@@ -34342,8 +34342,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Grafton Street",
+      "city": "Springfield",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -35135,7 +35135,7 @@
     },
     {
       "id": "osm-w1443901796",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Racy Acres",
       "lat": 37.742866,
       "lng": -79.342125,
       "sports": [
@@ -35148,7 +35148,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Buena Vista",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -35429,7 +35429,7 @@
     },
     {
       "id": "osm-w1447182706",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Club Terrace",
       "lat": 37.398072,
       "lng": -79.326192,
       "sports": [
@@ -35441,15 +35441,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Club Terrace",
+      "city": "Forest",
       "state": "VA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1447238473",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Middle Ridge Drive",
       "lat": 38.869496,
       "lng": -77.393841,
       "sports": [
@@ -35461,8 +35461,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Middle Ridge Drive",
+      "city": "Greenbriar",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -35493,7 +35493,7 @@
     },
     {
       "id": "osm-w1447773001",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Union Street",
       "lat": 37.28165,
       "lng": -80.057482,
       "sports": [
@@ -35505,8 +35505,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Union Street",
+      "city": "Salem",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -35997,7 +35997,7 @@
     },
     {
       "id": "osm-w1463638183",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · The Links",
       "lat": 37.301519,
       "lng": -76.781054,
       "sports": [
@@ -36010,14 +36010,14 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Ford's Colony",
       "state": "VA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1463638741",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Manor Gate Road",
       "lat": 37.272664,
       "lng": -76.809382,
       "sports": [
@@ -36029,8 +36029,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Manor Gate Road",
+      "city": "James City County",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -36039,7 +36039,7 @@
     },
     {
       "id": "osm-w1463638989",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Philip Ludwell",
       "lat": 37.266546,
       "lng": -76.804139,
       "sports": [
@@ -36051,8 +36051,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Philip Ludwell",
+      "city": "James City County",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -36061,7 +36061,7 @@
     },
     {
       "id": "osm-w1464011810",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Pilgrim Drive",
       "lat": 38.682209,
       "lng": -77.274672,
       "sports": [
@@ -36073,8 +36073,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pilgrim Drive",
+      "city": "Woodbridge",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -36318,7 +36318,7 @@
     },
     {
       "id": "osm-w1470426936",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Memorial Park Drive",
       "lat": 38.634496,
       "lng": -78.781391,
       "sports": [
@@ -36330,8 +36330,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Memorial Park Drive",
+      "city": "Timberville",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -36534,7 +36534,7 @@
     },
     {
       "id": "osm-w1474894061",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Virginia Trail",
       "lat": 36.621431,
       "lng": -82.081901,
       "sports": [
@@ -36546,15 +36546,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Virginia Trail",
+      "city": "Washington County",
       "state": "VA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1474894198",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Golf Drive",
       "lat": 38.05531,
       "lng": -78.718682,
       "sports": [
@@ -36566,8 +36566,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Golf Drive",
+      "city": "Crozet",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -36885,7 +36885,7 @@
     },
     {
       "id": "osm-w1475997419",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · General Booth Boulevard",
       "lat": 36.812385,
       "lng": -75.990253,
       "sports": [
@@ -36897,8 +36897,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "General Booth Boulevard",
+      "city": "Virginia Beach",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -37095,7 +37095,7 @@
     },
     {
       "id": "osm-w1476213030",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Reeder Circle",
       "lat": 37.008097,
       "lng": -76.311384,
       "sports": [
@@ -37107,8 +37107,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Reeder Circle",
+      "city": "Hampton",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -37204,7 +37204,7 @@
     },
     {
       "id": "osm-w1476216736",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Griffin Drive",
       "lat": 37.064624,
       "lng": -76.418105,
       "sports": [
@@ -37216,8 +37216,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Griffin Drive",
+      "city": "Hampton",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -37331,7 +37331,7 @@
     },
     {
       "id": "osm-w1476221456",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Terry Drive",
       "lat": 36.847468,
       "lng": -76.40552,
       "sports": [
@@ -37343,15 +37343,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Terry Drive",
+      "city": "Chesapeake",
       "state": "VA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1476221459",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Bruin Drive",
       "lat": 36.849612,
       "lng": -76.40717,
       "sports": [
@@ -37363,8 +37363,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bruin Drive",
+      "city": "Chesapeake",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -37475,7 +37475,7 @@
     },
     {
       "id": "osm-w1476224254",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · EOD Lane",
       "lat": 37.247934,
       "lng": -77.3521,
       "sports": [
@@ -37487,8 +37487,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "EOD Lane",
+      "city": "Fort Lee",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -37559,7 +37559,7 @@
     },
     {
       "id": "osm-w1476230872",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 4th Avenue",
       "lat": 37.239937,
       "lng": -77.421786,
       "sports": [
@@ -37571,8 +37571,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "4th Avenue",
+      "city": "Ettrick",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -38318,7 +38318,7 @@
     },
     {
       "id": "osm-w1476661023",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Piney Forest Road",
       "lat": 36.598788,
       "lng": -79.411996,
       "sports": [
@@ -38331,8 +38331,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Piney Forest Road",
+      "city": "Danville",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -38830,7 +38830,7 @@
     },
     {
       "id": "osm-w1487365192",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ferndale Avenue",
       "lat": 38.973842,
       "lng": -77.393602,
       "sports": [
@@ -38842,8 +38842,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ferndale Avenue",
+      "city": "Herndon",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -38912,7 +38912,7 @@
     },
     {
       "id": "osm-w1488735766",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Richmond Highway",
       "lat": 38.69856,
       "lng": -77.212124,
       "sports": [
@@ -38924,8 +38924,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Richmond Highway",
+      "city": "Lorton",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -39017,7 +39017,7 @@
     },
     {
       "id": "osm-w1490542974",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Samuel Miller Loop",
       "lat": 38.00645,
       "lng": -78.704004,
       "sports": [
@@ -39029,15 +39029,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Samuel Miller Loop",
+      "city": "Albemarle County",
       "state": "VA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1491014203",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Golf Trail Lane",
       "lat": 38.872849,
       "lng": -77.359252,
       "sports": [
@@ -39049,8 +39049,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Golf Trail Lane",
+      "city": "Fair Oaks",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -39227,7 +39227,7 @@
     },
     {
       "id": "osm-w1493190082",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Correspondent Drive",
       "lat": 38.971475,
       "lng": -77.554709,
       "sports": [
@@ -39239,8 +39239,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Correspondent Drive",
+      "city": "Brambleton",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -39269,7 +39269,7 @@
     },
     {
       "id": "osm-w1493295388",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Blue Ridge Drive",
       "lat": 37.926093,
       "lng": -78.944853,
       "sports": [
@@ -39281,8 +39281,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Blue Ridge Drive",
+      "city": "Wintergreen",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -39440,7 +39440,7 @@
     },
     {
       "id": "osm-w1495322281",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Muirfield Green Lane",
       "lat": 37.438138,
       "lng": -77.653182,
       "sports": [
@@ -39452,8 +39452,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Muirfield Green Lane",
+      "city": "Brandermill",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -39502,7 +39502,7 @@
     },
     {
       "id": "osm-w1495486593",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wakefield Drive",
       "lat": 38.77143,
       "lng": -77.055947,
       "sports": [
@@ -39514,8 +39514,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wakefield Drive",
+      "city": "Belle Haven",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -39671,7 +39671,7 @@
     },
     {
       "id": "osm-w1497990965",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Stallion Barn Place",
       "lat": 38.973053,
       "lng": -77.745451,
       "sports": [
@@ -39684,8 +39684,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Stallion Barn Place",
+      "city": "Middleburg",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -40014,7 +40014,7 @@
     },
     {
       "id": "osm-w1501626316",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Academic Avenue",
       "lat": 38.732412,
       "lng": -77.682508,
       "sports": [
@@ -40026,8 +40026,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Academic Avenue",
+      "city": "Fauquier County",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -40094,7 +40094,7 @@
     },
     {
       "id": "osm-w1503478822",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Riverside Street",
       "lat": 37.43806,
       "lng": -79.165339,
       "sports": [
@@ -40106,8 +40106,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Riverside Street",
+      "city": "Lynchburg",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -40221,7 +40221,7 @@
     },
     {
       "id": "osm-w1505311073",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Jermantown Road",
       "lat": 38.87114,
       "lng": -77.320466,
       "sports": [
@@ -40233,8 +40233,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Jermantown Road",
+      "city": "Oakton",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -40385,7 +40385,7 @@
     },
     {
       "id": "osm-w1509244378",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Tournament Drive",
       "lat": 38.653536,
       "lng": -77.872515,
       "sports": [
@@ -40397,8 +40397,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Tournament Drive",
+      "city": "Fauquier County",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -40491,7 +40491,7 @@
     },
     {
       "id": "osm-w1509665595",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Charter Club Way",
       "lat": 37.479486,
       "lng": -77.667377,
       "sports": [
@@ -40504,8 +40504,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Charter Club Way",
+      "city": "Midlothian",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -40621,7 +40621,7 @@
     },
     {
       "id": "osm-w1509959771",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wexwood Drive",
       "lat": 37.496318,
       "lng": -77.626661,
       "sports": [
@@ -40634,15 +40634,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wexwood Drive",
+      "city": "Midlothian",
       "state": "VA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1509964415",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Walton Park Road",
       "lat": 37.490284,
       "lng": -77.634829,
       "sports": [
@@ -40654,8 +40654,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Walton Park Road",
+      "city": "Midlothian",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -40725,7 +40725,7 @@
     },
     {
       "id": "osm-w1509968529",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Broad Run",
       "lat": 37.647295,
       "lng": -77.701236,
       "sports": [
@@ -40738,7 +40738,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Goochland County",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -41105,7 +41105,7 @@
     },
     {
       "id": "osm-w1510144583",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Country Club Drive",
       "lat": 38.325126,
       "lng": -78.403574,
       "sports": [
@@ -41117,8 +41117,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Country Club Drive",
+      "city": "Greene County",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -41211,7 +41211,7 @@
     },
     {
       "id": "osm-w1510146360",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · I 81",
       "lat": 38.432588,
       "lng": -78.870271,
       "sports": [
@@ -41223,8 +41223,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "I 81",
+      "city": "Harrisonburg",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -41378,7 +41378,7 @@
     },
     {
       "id": "osm-w1510293555",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Roosevelt Boulevard",
       "lat": 38.876033,
       "lng": -77.154076,
       "sports": [
@@ -41390,8 +41390,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Roosevelt Boulevard",
+      "city": "Falls Church",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -41841,7 +41841,7 @@
     },
     {
       "id": "osm-w1512099106",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Heller Road",
       "lat": 38.724783,
       "lng": -77.240634,
       "sports": [
@@ -41854,8 +41854,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Heller Road",
+      "city": "Laurel Hill",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -42311,7 +42311,7 @@
     },
     {
       "id": "osm-w1520959611",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Quiet Brook Road",
       "lat": 38.815461,
       "lng": -77.354568,
       "sports": [
@@ -42323,8 +42323,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Quiet Brook Road",
+      "city": "Braddock",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -42439,7 +42439,7 @@
     },
     {
       "id": "osm-w1524043732",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Kim Graham Lane",
       "lat": 38.763916,
       "lng": -77.51091,
       "sports": [
@@ -42451,8 +42451,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Kim Graham Lane",
+      "city": "Innovation",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -42521,7 +42521,7 @@
     },
     {
       "id": "osm-w1524124483",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Capital Beltway (Local)",
       "lat": 38.80148,
       "lng": -77.093354,
       "sports": [
@@ -42533,8 +42533,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Capital Beltway (Local)",
+      "city": "Huntington",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -42625,7 +42625,7 @@
     },
     {
       "id": "osm-w1524285101",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Redbud Path",
       "lat": 38.976689,
       "lng": -77.368686,
       "sports": [
@@ -42637,8 +42637,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Redbud Path",
+      "city": "Herndon",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -42669,7 +42669,7 @@
     },
     {
       "id": "osm-w1524285127",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Sycamore Court",
       "lat": 38.959271,
       "lng": -77.396307,
       "sports": [
@@ -42681,8 +42681,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sycamore Court",
+      "city": "Herndon",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -42734,7 +42734,7 @@
     },
     {
       "id": "osm-w1524476389",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Appian Court",
       "lat": 38.751827,
       "lng": -77.07479,
       "sports": [
@@ -42747,8 +42747,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Appian Court",
+      "city": "Hybla Valley",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -43201,7 +43201,7 @@
     },
     {
       "id": "osm-w1524820353",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Clifton Farm Court",
       "lat": 38.733063,
       "lng": -77.07621,
       "sports": [
@@ -43213,8 +43213,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Clifton Farm Court",
+      "city": "Mount Vernon",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -43307,7 +43307,7 @@
     },
     {
       "id": "osm-w1524821906",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fordson Road",
       "lat": 38.736804,
       "lng": -77.083831,
       "sports": [
@@ -43319,8 +43319,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fordson Road",
+      "city": "Hybla Valley",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -43539,7 +43539,7 @@
     },
     {
       "id": "osm-w1524826224",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ronald Craven Trail",
       "lat": 38.804572,
       "lng": -77.289445,
       "sports": [
@@ -43551,8 +43551,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ronald Craven Trail",
+      "city": "Kings Park West",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -43561,7 +43561,7 @@
     },
     {
       "id": "osm-w1524826494",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Tournament Drive",
       "lat": 38.840616,
       "lng": -77.640332,
       "sports": [
@@ -43573,8 +43573,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Tournament Drive",
+      "city": "Dominion Valley",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -43666,7 +43666,7 @@
     },
     {
       "id": "osm-w1524898073",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Oak Ridge Avenue",
       "lat": 38.941151,
       "lng": -77.185187,
       "sports": [
@@ -43678,8 +43678,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Oak Ridge Avenue",
+      "city": "McLean",
       "state": "VA",
       "source": "osm",
       "tags": {}
@@ -43706,7 +43706,7 @@
     },
     {
       "id": "osm-w1524899592",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Piedmont Vista Drive",
       "lat": 38.826975,
       "lng": -77.626519,
       "sports": [
@@ -43718,8 +43718,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Piedmont Vista Drive",
+      "city": "Gainesville",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -44332,7 +44332,7 @@
     },
     {
       "id": "osm-w1530730187",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · New Ascot Drive",
       "lat": 39.010296,
       "lng": -77.308213,
       "sports": [
@@ -44344,8 +44344,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "New Ascot Drive",
+      "city": "Great Falls",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -44354,7 +44354,7 @@
     },
     {
       "id": "osm-w1530730190",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · New Ascot Drive",
       "lat": 39.010761,
       "lng": -77.306806,
       "sports": [
@@ -44366,8 +44366,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "New Ascot Drive",
+      "city": "Great Falls",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -44550,7 +44550,7 @@
     },
     {
       "id": "osm-w1551641549",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Neptune Road",
       "lat": 36.558752,
       "lng": -76.006573,
       "sports": [
@@ -44562,8 +44562,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Neptune Road",
+      "city": "Virginia Beach",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -44594,7 +44594,7 @@
     },
     {
       "id": "osm-w1553156076",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · River Bend Road",
       "lat": 39.017004,
       "lng": -77.271037,
       "sports": [
@@ -44606,8 +44606,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "River Bend Road",
+      "city": "Great Falls",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -44746,7 +44746,7 @@
     },
     {
       "id": "osm-w1553932963",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Henderson Road",
       "lat": 38.743344,
       "lng": -77.331261,
       "sports": [
@@ -44758,8 +44758,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Henderson Road",
+      "city": "Fairfax County",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -44768,7 +44768,7 @@
     },
     {
       "id": "osm-w1555108230",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Nalles Mill Road",
       "lat": 38.4753,
       "lng": -77.976429,
       "sports": [
@@ -44780,8 +44780,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Nalles Mill Road",
+      "city": "Culpeper County",
       "state": "VA",
       "source": "osm",
       "tags": {
@@ -44812,7 +44812,7 @@
     },
     {
       "id": "osm-w1559992318",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Locust Shade Drive",
       "lat": 38.533309,
       "lng": -77.352058,
       "sports": [
@@ -44824,8 +44824,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Locust Shade Drive",
+      "city": "Triangle",
       "state": "VA",
       "source": "osm",
       "tags": {

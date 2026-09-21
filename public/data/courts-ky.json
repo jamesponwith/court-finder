@@ -44,7 +44,7 @@
     },
     {
       "id": "osm-n13461635964",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Louisville Loop",
       "lat": 38.265268,
       "lng": -85.726535,
       "sports": [
@@ -56,8 +56,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Louisville Loop",
+      "city": "Louisville",
       "state": "KY",
       "source": "osm",
       "tags": {}
@@ -465,7 +465,7 @@
     },
     {
       "id": "osm-w60876256",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Twin Wells",
       "lat": 39.065884,
       "lng": -84.443721,
       "sports": [
@@ -477,8 +477,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Twin Wells",
+      "city": "Fort Thomas",
       "state": "KY",
       "source": "osm",
       "tags": {}
@@ -635,7 +635,7 @@
     },
     {
       "id": "osm-w63666563",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Yandell Drive",
       "lat": 38.286752,
       "lng": -85.540026,
       "sports": [
@@ -647,8 +647,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Yandell Drive",
+      "city": "Louisville",
       "state": "KY",
       "source": "osm",
       "tags": {
@@ -1133,7 +1133,7 @@
     },
     {
       "id": "osm-w116802574",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Softball Road",
       "lat": 39.029414,
       "lng": -84.467925,
       "sports": [
@@ -1145,8 +1145,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Softball Road",
+      "city": "Highland Heights",
       "state": "KY",
       "source": "osm",
       "tags": {
@@ -1392,7 +1392,7 @@
     },
     {
       "id": "osm-w158650141",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Elm Street",
       "lat": 39.089577,
       "lng": -84.556483,
       "sports": [
@@ -1404,8 +1404,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Elm Street",
+      "city": "Ludlow",
       "state": "KY",
       "source": "osm",
       "tags": {
@@ -2036,7 +2036,7 @@
     },
     {
       "id": "osm-w252389604",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Adkisson Greenbelt Park",
       "lat": 37.742344,
       "lng": -87.047044,
       "sports": [
@@ -2048,8 +2048,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Adkisson Greenbelt Park",
+      "city": "Daviess County",
       "state": "KY",
       "source": "osm",
       "tags": {
@@ -2358,7 +2358,7 @@
     },
     {
       "id": "osm-w284456890",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Honeysuckle Drive",
       "lat": 39.018378,
       "lng": -84.512607,
       "sports": [
@@ -2370,8 +2370,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Honeysuckle Drive",
+      "city": "Taylor Mill",
       "state": "KY",
       "source": "osm",
       "tags": {
@@ -2531,7 +2531,7 @@
     },
     {
       "id": "osm-w297625044",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Keene Manor Circle",
       "lat": 37.962622,
       "lng": -84.603722,
       "sports": [
@@ -2543,8 +2543,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Keene Manor Circle",
+      "city": "Jessamine County",
       "state": "KY",
       "source": "osm",
       "tags": {
@@ -2716,7 +2716,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Lexington",
       "state": "KY",
       "source": "osm",
       "tags": {
@@ -3113,7 +3113,7 @@
     },
     {
       "id": "osm-w337205526",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Indian Legends Drive",
       "lat": 38.29519,
       "lng": -85.552281,
       "sports": [
@@ -3125,8 +3125,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Indian Legends Drive",
+      "city": "Louisville",
       "state": "KY",
       "source": "osm",
       "tags": {
@@ -6715,7 +6715,7 @@
     },
     {
       "id": "osm-w1012790933",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Storey Avenue",
       "lat": 36.965227,
       "lng": -86.47042,
       "sports": [
@@ -6727,8 +6727,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Storey Avenue",
+      "city": "Bowling Green",
       "state": "KY",
       "source": "osm",
       "tags": {}
@@ -7433,7 +7433,7 @@
     },
     {
       "id": "osm-w1124715296",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Bittel Road",
       "lat": 37.75098,
       "lng": -87.153209,
       "sports": [
@@ -7445,8 +7445,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Bittel Road",
+      "city": "Owensboro",
       "state": "KY",
       "source": "osm",
       "tags": {}
@@ -7666,7 +7666,7 @@
     },
     {
       "id": "osm-w1182666235",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Spindletop Way",
       "lat": 38.130155,
       "lng": -84.504386,
       "sports": [
@@ -7679,8 +7679,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Spindletop Way",
+      "city": "Lexington",
       "state": "KY",
       "source": "osm",
       "tags": {}
@@ -8132,7 +8132,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Paducah",
       "state": "KY",
       "source": "osm",
       "tags": {}
@@ -8464,14 +8464,14 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Calvert City",
       "state": "KY",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1318194011",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Oakview Road",
       "lat": 38.470699,
       "lng": -82.648272,
       "sports": [
@@ -8484,8 +8484,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Oakview Road",
+      "city": "Ashland",
       "state": "KY",
       "source": "osm",
       "tags": {}
@@ -9102,7 +9102,7 @@
     },
     {
       "id": "osm-w1334984494",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Rough River Lodge Road",
       "lat": 37.611938,
       "lng": -86.500078,
       "sports": [
@@ -9114,8 +9114,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rough River Lodge Road",
+      "city": "Grayson County",
       "state": "KY",
       "source": "osm",
       "tags": {}
@@ -10696,7 +10696,7 @@
     },
     {
       "id": "osm-w1448022257",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Canebrake Drive",
       "lat": 37.969656,
       "lng": -84.382909,
       "sports": [
@@ -10708,8 +10708,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Canebrake Drive",
+      "city": "Lexington",
       "state": "KY",
       "source": "osm",
       "tags": {}
@@ -11483,7 +11483,7 @@
     },
     {
       "id": "osm-w1476316825",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Beechwood Drive",
       "lat": 37.085055,
       "lng": -84.030052,
       "sports": [
@@ -11495,8 +11495,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Beechwood Drive",
+      "city": "Laurel County",
       "state": "KY",
       "source": "osm",
       "tags": {
@@ -11775,7 +11775,7 @@
     },
     {
       "id": "osm-w1476692651",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Leitchfield Road",
       "lat": 37.673472,
       "lng": -85.908899,
       "sports": [
@@ -11787,8 +11787,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Leitchfield Road",
+      "city": "Hardin County",
       "state": "KY",
       "source": "osm",
       "tags": {}
@@ -11877,7 +11877,7 @@
     },
     {
       "id": "osm-w1478622862",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hall Drive",
       "lat": 37.732704,
       "lng": -84.29965,
       "sports": [
@@ -11889,8 +11889,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hall Drive",
+      "city": "Richmond",
       "state": "KY",
       "source": "osm",
       "tags": {}
@@ -12002,7 +12002,7 @@
     },
     {
       "id": "osm-w1478682243",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Country Club Drive",
       "lat": 37.862868,
       "lng": -87.485458,
       "sports": [
@@ -12014,8 +12014,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Country Club Drive",
+      "city": "Henderson County",
       "state": "KY",
       "source": "osm",
       "tags": {
@@ -12430,7 +12430,7 @@
     },
     {
       "id": "osm-w1479253154",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Freys Hill Road",
       "lat": 38.284824,
       "lng": -85.554935,
       "sports": [
@@ -12443,8 +12443,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Freys Hill Road",
+      "city": "Louisville",
       "state": "KY",
       "source": "osm",
       "tags": {}
@@ -13127,7 +13127,7 @@
     },
     {
       "id": "osm-w1509024114",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ic-1001",
       "lat": 37.621883,
       "lng": -86.50412,
       "sports": [
@@ -13140,8 +13140,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ic-1001",
+      "city": "Grayson County",
       "state": "KY",
       "source": "osm",
       "tags": {}
@@ -13272,7 +13272,7 @@
     },
     {
       "id": "osm-w1532389711",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Alexandria Drive",
       "lat": 38.057353,
       "lng": -84.55699,
       "sports": [
@@ -13284,8 +13284,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Alexandria Drive",
+      "city": "Lexington",
       "state": "KY",
       "source": "osm",
       "tags": {

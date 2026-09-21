@@ -131,7 +131,7 @@
     },
     {
       "id": "osm-w35389912",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Hudson Road",
       "lat": 42.518908,
       "lng": -92.464349,
       "sports": [
@@ -143,8 +143,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hudson Road",
+      "city": "Cedar Falls",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -195,7 +195,7 @@
     },
     {
       "id": "osm-w37957381",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Northwest Ash Drive",
       "lat": 41.740416,
       "lng": -93.612017,
       "sports": [
@@ -208,8 +208,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northwest Ash Drive",
+      "city": "Ankeny",
       "state": "IA",
       "source": "osm",
       "tags": {}
@@ -336,7 +336,7 @@
     },
     {
       "id": "osm-w51251885",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Drake Park Avenue",
       "lat": 41.597823,
       "lng": -93.64909,
       "sports": [
@@ -348,8 +348,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Drake Park Avenue",
+      "city": "Des Moines",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -669,7 +669,7 @@
     },
     {
       "id": "osm-w104341445",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ross Road",
       "lat": 42.030819,
       "lng": -93.661341,
       "sports": [
@@ -681,8 +681,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ross Road",
+      "city": "Ames",
       "state": "IA",
       "source": "osm",
       "tags": {}
@@ -1165,7 +1165,7 @@
     },
     {
       "id": "osm-w182884868",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Washington Street",
       "lat": 42.837734,
       "lng": -91.799467,
       "sports": [
@@ -1177,8 +1177,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Washington Street",
+      "city": "Fayette",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -1355,7 +1355,7 @@
     },
     {
       "id": "osm-w190254891",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Aurora Avenue",
       "lat": 41.638492,
       "lng": -93.739431,
       "sports": [
@@ -1367,8 +1367,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Aurora Avenue",
+      "city": "Urbandale",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -1377,7 +1377,7 @@
     },
     {
       "id": "osm-w190531537",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Prairie Meadow Drive",
       "lat": 41.662763,
       "lng": -91.58057,
       "sports": [
@@ -1389,8 +1389,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Prairie Meadow Drive",
+      "city": "Iowa City",
       "state": "IA",
       "source": "osm",
       "tags": {}
@@ -1608,7 +1608,7 @@
     },
     {
       "id": "osm-w210914289",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North 1st Street",
       "lat": 41.324057,
       "lng": -93.098452,
       "sports": [
@@ -1620,8 +1620,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North 1st Street",
+      "city": "Knoxville",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -2214,7 +2214,7 @@
     },
     {
       "id": "osm-w243595962",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Heritage Court",
       "lat": 42.999614,
       "lng": -96.054681,
       "sports": [
@@ -2226,8 +2226,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Heritage Court",
+      "city": "Orange City",
       "state": "IA",
       "source": "osm",
       "tags": {}
@@ -2254,7 +2254,7 @@
     },
     {
       "id": "osm-w247706332",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 13th Street Northwest",
       "lat": 41.976737,
       "lng": -91.688953,
       "sports": [
@@ -2266,8 +2266,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "13th Street Northwest",
+      "city": "Cedar Rapids",
       "state": "IA",
       "source": "osm",
       "tags": {}
@@ -2733,7 +2733,7 @@
     },
     {
       "id": "osm-w286686347",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Guthrie Avenue",
       "lat": 41.614682,
       "lng": -93.608956,
       "sports": [
@@ -2745,8 +2745,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Guthrie Avenue",
+      "city": "Des Moines",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -2946,7 +2946,7 @@
     },
     {
       "id": "osm-w297125960",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Country Club Drive",
       "lat": 42.450378,
       "lng": -90.811848,
       "sports": [
@@ -2959,8 +2959,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Country Club Drive",
+      "city": "Dubuque County",
       "state": "IA",
       "source": "osm",
       "tags": {}
@@ -3027,7 +3027,7 @@
     },
     {
       "id": "osm-w297224905",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Stadium Drive",
       "lat": 41.712432,
       "lng": -94.923985,
       "sports": [
@@ -3039,8 +3039,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Stadium Drive",
+      "city": "Audubon",
       "state": "IA",
       "source": "osm",
       "tags": {}
@@ -3172,7 +3172,7 @@
     },
     {
       "id": "osm-w297393025",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 13th Street",
       "lat": 41.474168,
       "lng": -91.832405,
       "sports": [
@@ -3184,8 +3184,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "13th Street",
+      "city": "Wellman",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -3357,7 +3357,7 @@
     },
     {
       "id": "osm-w297465671",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East 60th Street",
       "lat": 41.5819,
       "lng": -90.505,
       "sports": [
@@ -3369,8 +3369,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 60th Street",
+      "city": "Davenport",
       "state": "IA",
       "source": "osm",
       "tags": {}
@@ -3797,7 +3797,7 @@
     },
     {
       "id": "osm-w340559696",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Johnson Court",
       "lat": 41.598712,
       "lng": -93.597508,
       "sports": [
@@ -3809,15 +3809,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Johnson Court",
+      "city": "Des Moines",
       "state": "IA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w342659205",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Geneva Drive",
       "lat": 41.447858,
       "lng": -91.056894,
       "sports": [
@@ -3829,8 +3829,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Geneva Drive",
+      "city": "Muscatine",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -4615,7 +4615,7 @@
     },
     {
       "id": "osm-w456284202",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lark Lane",
       "lat": 41.013087,
       "lng": -92.422001,
       "sports": [
@@ -4627,8 +4627,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lark Lane",
+      "city": "Ottumwa",
       "state": "IA",
       "source": "osm",
       "tags": {}
@@ -4909,7 +4909,7 @@
     },
     {
       "id": "osm-w472431600",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lillie Avenue",
       "lat": 41.562433,
       "lng": -90.590022,
       "sports": [
@@ -4921,8 +4921,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lillie Avenue",
+      "city": "Davenport",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -4973,7 +4973,7 @@
     },
     {
       "id": "osm-w473023255",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Dankwardt Park Drive",
       "lat": 40.779415,
       "lng": -91.102894,
       "sports": [
@@ -4985,8 +4985,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Dankwardt Park Drive",
+      "city": "Burlington",
       "state": "IA",
       "source": "osm",
       "tags": {}
@@ -5035,7 +5035,7 @@
     },
     {
       "id": "osm-w474625560",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · C Avenue Northeast",
       "lat": 41.989659,
       "lng": -91.657399,
       "sports": [
@@ -5047,8 +5047,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "C Avenue Northeast",
+      "city": "Cedar Rapids",
       "state": "IA",
       "source": "osm",
       "tags": {}
@@ -5245,7 +5245,7 @@
     },
     {
       "id": "osm-w478204213",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 210 Street",
       "lat": 40.738306,
       "lng": -95.021957,
       "sports": [
@@ -5257,8 +5257,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "210 Street",
+      "city": "Clarinda",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -5598,7 +5598,7 @@
     },
     {
       "id": "osm-w479865733",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Overmeyer Drive",
       "lat": 43.062085,
       "lng": -94.23962,
       "sports": [
@@ -5610,8 +5610,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Overmeyer Drive",
+      "city": "Algona",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -6081,7 +6081,7 @@
     },
     {
       "id": "osm-w504444984",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 10th Avenue",
       "lat": 41.752791,
       "lng": -92.71804,
       "sports": [
@@ -6093,8 +6093,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "10th Avenue",
+      "city": "Grinnell",
       "state": "IA",
       "source": "osm",
       "tags": {}
@@ -6243,7 +6243,7 @@
     },
     {
       "id": "osm-w557395264",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Stuart Street",
       "lat": 40.73794,
       "lng": -95.02427,
       "sports": [
@@ -6255,8 +6255,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Stuart Street",
+      "city": "Clarinda",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -6614,7 +6614,7 @@
     },
     {
       "id": "osm-w659461701",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Northwest Beaver Drive",
       "lat": 41.696302,
       "lng": -93.706983,
       "sports": [
@@ -6626,8 +6626,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northwest Beaver Drive",
+      "city": "Johnston",
       "state": "IA",
       "source": "osm",
       "tags": {}
@@ -6943,7 +6943,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "West Burlington",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -6972,7 +6972,7 @@
     },
     {
       "id": "osm-w704426854",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Capitol Park",
       "lat": 41.599747,
       "lng": -93.61129,
       "sports": [
@@ -6985,7 +6985,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Des Moines",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -7414,7 +7414,7 @@
     },
     {
       "id": "osm-w778057683",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Willow Creek Trail",
       "lat": 41.652593,
       "lng": -91.581238,
       "sports": [
@@ -7426,15 +7426,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Willow Creek Trail",
+      "city": "Iowa City",
       "state": "IA",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w779190127",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Wildcat Lane",
       "lat": 41.64692,
       "lng": -91.607408,
       "sports": [
@@ -7446,8 +7446,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wildcat Lane",
+      "city": "Iowa City",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -7621,7 +7621,7 @@
     },
     {
       "id": "osm-w798553061",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East 11th Street",
       "lat": 41.531281,
       "lng": -90.567168,
       "sports": [
@@ -7633,8 +7633,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 11th Street",
+      "city": "Davenport",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -7663,7 +7663,7 @@
     },
     {
       "id": "osm-w803344369",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Clear Creek Trail",
       "lat": 41.704327,
       "lng": -91.646185,
       "sports": [
@@ -7675,8 +7675,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Clear Creek Trail",
+      "city": "Tiffin",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -8028,7 +8028,7 @@
     },
     {
       "id": "osm-w844057732",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Woodberry Court",
       "lat": 41.540709,
       "lng": -90.479386,
       "sports": [
@@ -8040,8 +8040,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Woodberry Court",
+      "city": "Bettendorf",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -8050,7 +8050,7 @@
     },
     {
       "id": "osm-w844057741",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Treeline Drive",
       "lat": 41.537776,
       "lng": -90.478602,
       "sports": [
@@ -8062,8 +8062,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Treeline Drive",
+      "city": "Bettendorf",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -8072,7 +8072,7 @@
     },
     {
       "id": "osm-w844852548",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fairway Lane Southeast",
       "lat": 41.652066,
       "lng": -91.471135,
       "sports": [
@@ -8084,8 +8084,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fairway Lane Southeast",
+      "city": "Johnson County",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -8114,7 +8114,7 @@
     },
     {
       "id": "osm-w846716192",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Northview Drive",
       "lat": 42.518752,
       "lng": -90.704214,
       "sports": [
@@ -8126,8 +8126,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Northview Drive",
+      "city": "Dubuque",
       "state": "IA",
       "source": "osm",
       "tags": {}
@@ -8368,7 +8368,7 @@
     },
     {
       "id": "osm-w851719064",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Taft Avenue Southeast",
       "lat": 41.651893,
       "lng": -91.463791,
       "sports": [
@@ -8380,8 +8380,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Taft Avenue Southeast",
+      "city": "Iowa City",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -8390,7 +8390,7 @@
     },
     {
       "id": "osm-w851811887",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Boone Street",
       "lat": 42.076618,
       "lng": -93.88134,
       "sports": [
@@ -8402,8 +8402,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Boone Street",
+      "city": "Boone",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -8694,7 +8694,7 @@
     },
     {
       "id": "osm-w852225493",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · DMACC Boulevard",
       "lat": 41.7086,
       "lng": -93.615284,
       "sports": [
@@ -8706,8 +8706,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "DMACC Boulevard",
+      "city": "Ankeny",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -10233,7 +10233,7 @@
     },
     {
       "id": "osm-w857869638",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Birdland Drive",
       "lat": 41.6149,
       "lng": -93.623051,
       "sports": [
@@ -10245,8 +10245,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Birdland Drive",
+      "city": "Des Moines",
       "state": "IA",
       "source": "osm",
       "tags": {}
@@ -11167,7 +11167,7 @@
     },
     {
       "id": "osm-w886367510",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Douglas Avenue",
       "lat": 41.630344,
       "lng": -93.529614,
       "sports": [
@@ -11179,8 +11179,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Douglas Avenue",
+      "city": "Des Moines",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -11425,7 +11425,7 @@
     },
     {
       "id": "osm-w902342859",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South 95th Street",
       "lat": 41.548301,
       "lng": -93.841117,
       "sports": [
@@ -11437,8 +11437,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South 95th Street",
+      "city": "West Des Moines",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -11642,7 +11642,7 @@
     },
     {
       "id": "osm-w903912430",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ashworth Road",
       "lat": 41.585565,
       "lng": -93.732064,
       "sports": [
@@ -11654,8 +11654,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ashworth Road",
+      "city": "West Des Moines",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -11686,7 +11686,7 @@
     },
     {
       "id": "osm-w904472456",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 262nd Street",
       "lat": 42.413578,
       "lng": -91.373302,
       "sports": [
@@ -11698,8 +11698,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "262nd Street",
+      "city": "Delaware County",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -11750,7 +11750,7 @@
     },
     {
       "id": "osm-w907187430",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Deer Path",
       "lat": 41.244412,
       "lng": -91.692422,
       "sports": [
@@ -11762,8 +11762,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Deer Path",
+      "city": "Washington County",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -12146,7 +12146,7 @@
     },
     {
       "id": "osm-w948436262",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Sylvania Drive",
       "lat": 41.586036,
       "lng": -93.743584,
       "sports": [
@@ -12158,8 +12158,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sylvania Drive",
+      "city": "West Des Moines",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -12190,7 +12190,7 @@
     },
     {
       "id": "osm-w949187600",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Aurora Avenue",
       "lat": 41.636584,
       "lng": -93.679242,
       "sports": [
@@ -12202,8 +12202,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Aurora Avenue",
+      "city": "Des Moines",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -12254,7 +12254,7 @@
     },
     {
       "id": "osm-w949775012",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Welker Avenue",
       "lat": 41.576954,
       "lng": -93.691182,
       "sports": [
@@ -12266,8 +12266,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Welker Avenue",
+      "city": "Des Moines",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -12384,7 +12384,7 @@
     },
     {
       "id": "osm-w969647910",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Potter Avenue",
       "lat": 40.777769,
       "lng": -91.103539,
       "sports": [
@@ -12396,8 +12396,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Potter Avenue",
+      "city": "Burlington",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -12533,7 +12533,7 @@
     },
     {
       "id": "osm-w995424083",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Fairway Drive",
       "lat": 40.759795,
       "lng": -91.147704,
       "sports": [
@@ -12545,8 +12545,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Fairway Drive",
+      "city": "Des Moines County",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -12878,7 +12878,7 @@
     },
     {
       "id": "osm-w1036041280",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West Center Street",
       "lat": 42.086762,
       "lng": -95.043945,
       "sports": [
@@ -12890,8 +12890,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Center Street",
+      "city": "Arcadia",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -13070,7 +13070,7 @@
     },
     {
       "id": "osm-w1039907458",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Ovid Avenue",
       "lat": 41.624994,
       "lng": -93.680578,
       "sports": [
@@ -13082,8 +13082,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ovid Avenue",
+      "city": "Des Moines",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -13092,7 +13092,7 @@
     },
     {
       "id": "osm-w1040536894",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Meredith Drive",
       "lat": 41.641772,
       "lng": -93.861007,
       "sports": [
@@ -13104,8 +13104,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Meredith Drive",
+      "city": "Urbandale",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -14161,7 +14161,7 @@
     },
     {
       "id": "osm-w1417422253",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Hyacinth Drive",
       "lat": 42.490351,
       "lng": -92.440243,
       "sports": [
@@ -14173,8 +14173,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Hyacinth Drive",
+      "city": "Cedar Falls",
       "state": "IA",
       "source": "osm",
       "tags": {}
@@ -14244,7 +14244,7 @@
     },
     {
       "id": "osm-w1442001291",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Asbury Road",
       "lat": 42.516707,
       "lng": -90.803509,
       "sports": [
@@ -14256,8 +14256,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Asbury Road",
+      "city": "Dubuque",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -14644,7 +14644,7 @@
     },
     {
       "id": "osm-w1485151997",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Walnut Street",
       "lat": 42.303871,
       "lng": -96.28541,
       "sports": [
@@ -14656,8 +14656,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Walnut Street",
+      "city": "Salix",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -14666,7 +14666,7 @@
     },
     {
       "id": "osm-w1485171374",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · East 4th Avenue",
       "lat": 42.632035,
       "lng": -95.641286,
       "sports": [
@@ -14678,8 +14678,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 4th Avenue",
+      "city": "Quimby",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -14825,7 +14825,7 @@
       "access": "unknown",
       "fee": null,
       "address": null,
-      "city": null,
+      "city": "Clive",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -14834,7 +14834,7 @@
     },
     {
       "id": "osm-w1511128010",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · West State Street",
       "lat": 42.843039,
       "lng": -91.80365,
       "sports": [
@@ -14846,8 +14846,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West State Street",
+      "city": "Fayette",
       "state": "IA",
       "source": "osm",
       "tags": {
@@ -14900,7 +14900,7 @@
     },
     {
       "id": "osm-w1513108836",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Eisenhower Avenue",
       "lat": 42.047151,
       "lng": -93.63675,
       "sports": [
@@ -14912,8 +14912,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Eisenhower Avenue",
+      "city": "Ames",
       "state": "IA",
       "source": "osm",
       "tags": {}
@@ -14962,7 +14962,7 @@
     },
     {
       "id": "osm-w1541300468",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 5th Avenue Northeast",
       "lat": 42.735828,
       "lng": -93.729163,
       "sports": [
@@ -14974,8 +14974,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "5th Avenue Northeast",
+      "city": "Clarion",
       "state": "IA",
       "source": "osm",
       "tags": {

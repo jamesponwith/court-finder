@@ -24,7 +24,7 @@
     },
     {
       "id": "osm-w44772690",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Missouri Avenue",
       "lat": 44.358661,
       "lng": -100.342801,
       "sports": [
@@ -36,8 +36,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Missouri Avenue",
+      "city": "Pierre",
       "state": "SD",
       "source": "osm",
       "tags": {}
@@ -108,7 +108,7 @@
     },
     {
       "id": "osm-w163510840",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Canyon Street",
       "lat": 44.499777,
       "lng": -103.86517,
       "sports": [
@@ -120,15 +120,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Canyon Street",
+      "city": "Spearfish",
       "state": "SD",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w167527737",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Canyon Lake Drive",
       "lat": 44.077882,
       "lng": -103.261163,
       "sports": [
@@ -140,8 +140,8 @@
       "indoor": null,
       "access": "public",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Canyon Lake Drive",
+      "city": "Rapid City",
       "state": "SD",
       "source": "osm",
       "tags": {}
@@ -255,7 +255,7 @@
     },
     {
       "id": "osm-w242988893",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Raider Road",
       "lat": 44.077311,
       "lng": -103.29078,
       "sports": [
@@ -267,8 +267,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Raider Road",
+      "city": "Rapid City",
       "state": "SD",
       "source": "osm",
       "tags": {
@@ -317,7 +317,7 @@
     },
     {
       "id": "osm-w253413424",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East 2nd Street",
       "lat": 43.714644,
       "lng": -98.474368,
       "sports": [
@@ -329,8 +329,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 2nd Street",
+      "city": "Plankinton",
       "state": "SD",
       "source": "osm",
       "tags": {
@@ -469,7 +469,7 @@
     },
     {
       "id": "osm-w296975077",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Willow Drive",
       "lat": 42.485599,
       "lng": -96.490264,
       "sports": [
@@ -482,8 +482,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Willow Drive",
+      "city": "Dakota Dunes",
       "state": "SD",
       "source": "osm",
       "tags": {}
@@ -576,7 +576,7 @@
     },
     {
       "id": "osm-w305185089",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · South Kuehn Park Road",
       "lat": 43.519114,
       "lng": -96.803971,
       "sports": [
@@ -588,8 +588,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "South Kuehn Park Road",
+      "city": "Sioux Falls",
       "state": "SD",
       "source": "osm",
       "tags": {}
@@ -1058,7 +1058,7 @@
     },
     {
       "id": "osm-w590911094",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 260th Street",
       "lat": 43.614979,
       "lng": -96.785021,
       "sports": [
@@ -1070,8 +1070,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "260th Street",
+      "city": "Sioux Falls",
       "state": "SD",
       "source": "osm",
       "tags": {
@@ -1164,7 +1164,7 @@
     },
     {
       "id": "osm-w743428072",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Arizona Avenue Southwest",
       "lat": 44.347587,
       "lng": -98.230341,
       "sports": [
@@ -1176,8 +1176,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Arizona Avenue Southwest",
+      "city": "Huron",
       "state": "SD",
       "source": "osm",
       "tags": {}
@@ -1312,7 +1312,7 @@
     },
     {
       "id": "osm-w1006300449",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Shooting Star Trail",
       "lat": 44.024283,
       "lng": -103.280782,
       "sports": [
@@ -1324,8 +1324,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Shooting Star Trail",
+      "city": "Rapid City",
       "state": "SD",
       "source": "osm",
       "tags": {
@@ -1354,7 +1354,7 @@
     },
     {
       "id": "osm-w1027417391",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Tamarac Circle",
       "lat": 43.596854,
       "lng": -96.581409,
       "sports": [
@@ -1366,15 +1366,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Tamarac Circle",
+      "city": "Brandon",
       "state": "SD",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1046607697",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West Chicago Street",
       "lat": 44.08548,
       "lng": -103.29955,
       "sports": [
@@ -1386,8 +1386,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West Chicago Street",
+      "city": "Rapid City",
       "state": "SD",
       "source": "osm",
       "tags": {
@@ -1542,7 +1542,7 @@
     },
     {
       "id": "osm-w1221599069",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North 5th Avenue",
       "lat": 43.596333,
       "lng": -97.295941,
       "sports": [
@@ -1555,8 +1555,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North 5th Avenue",
+      "city": "Canistota",
       "state": "SD",
       "source": "osm",
       "tags": {
@@ -1695,7 +1695,7 @@
     },
     {
       "id": "osm-w1290593200",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Arndt Drive",
       "lat": 44.077966,
       "lng": -103.267213,
       "sports": [
@@ -1707,8 +1707,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Arndt Drive",
+      "city": "Rapid City",
       "state": "SD",
       "source": "osm",
       "tags": {}
@@ -1923,7 +1923,7 @@
     },
     {
       "id": "osm-w1328907483",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East 35th Street",
       "lat": 43.519951,
       "lng": -96.7075,
       "sports": [
@@ -1935,8 +1935,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East 35th Street",
+      "city": "Sioux Falls",
       "state": "SD",
       "source": "osm",
       "tags": {}
@@ -2178,7 +2178,7 @@
     },
     {
       "id": "osm-w1435171476",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Maple",
       "lat": 43.548245,
       "lng": -97.979578,
       "sports": [
@@ -2190,15 +2190,15 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Maple",
+      "city": "Ethan",
       "state": "SD",
       "source": "osm",
       "tags": {}
     },
     {
       "id": "osm-w1442711569",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Rushmore Avenue",
       "lat": 44.572067,
       "lng": -96.641611,
       "sports": [
@@ -2210,8 +2210,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rushmore Avenue",
+      "city": "Toronto",
       "state": "SD",
       "source": "osm",
       "tags": {}
@@ -2258,7 +2258,7 @@
     },
     {
       "id": "osm-w1448040014",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 17th Avenue Southeast",
       "lat": 45.446025,
       "lng": -98.482161,
       "sports": [
@@ -2270,8 +2270,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "17th Avenue Southeast",
+      "city": "Aberdeen",
       "state": "SD",
       "source": "osm",
       "tags": {}
@@ -2318,7 +2318,7 @@
     },
     {
       "id": "osm-w1456183283",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Dudley Lane",
       "lat": 43.506312,
       "lng": -96.685724,
       "sports": [
@@ -2331,8 +2331,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Dudley Lane",
+      "city": "Sioux Falls",
       "state": "SD",
       "source": "osm",
       "tags": {}
@@ -2381,7 +2381,7 @@
     },
     {
       "id": "osm-w1468889747",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Country Club Drive",
       "lat": 43.420029,
       "lng": -103.511144,
       "sports": [
@@ -2393,8 +2393,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Country Club Drive",
+      "city": "Fall River County",
       "state": "SD",
       "source": "osm",
       "tags": {
@@ -2487,7 +2487,7 @@
     },
     {
       "id": "osm-w1468939093",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cedar Street Southwest",
       "lat": 45.154859,
       "lng": -98.096669,
       "sports": [
@@ -2499,8 +2499,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cedar Street Southwest",
+      "city": "Conde",
       "state": "SD",
       "source": "osm",
       "tags": {
@@ -2509,7 +2509,7 @@
     },
     {
       "id": "osm-w1468939270",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Clinton Street",
       "lat": 44.87847,
       "lng": -97.742092,
       "sports": [
@@ -2521,8 +2521,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Clinton Street",
+      "city": "Clark",
       "state": "SD",
       "source": "osm",
       "tags": {
@@ -2595,7 +2595,7 @@
     },
     {
       "id": "osm-w1468970203",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Spruce Street",
       "lat": 42.874129,
       "lng": -97.40519,
       "sports": [
@@ -2607,8 +2607,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Spruce Street",
+      "city": "Yankton",
       "state": "SD",
       "source": "osm",
       "tags": {
@@ -2661,7 +2661,7 @@
     },
     {
       "id": "osm-w1491297515",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Lavin Avenue Southwest",
       "lat": 45.60965,
       "lng": -98.312064,
       "sports": [
@@ -2673,8 +2673,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lavin Avenue Southwest",
+      "city": "Columbia",
       "state": "SD",
       "source": "osm",
       "tags": {
@@ -2791,7 +2791,7 @@
     },
     {
       "id": "osm-w1556642516",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Walnut Street",
       "lat": 45.662242,
       "lng": -97.05048,
       "sports": [
@@ -2803,8 +2803,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Walnut Street",
+      "city": "Sisseton",
       "state": "SD",
       "source": "osm",
       "tags": {

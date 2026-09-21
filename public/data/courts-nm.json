@@ -24,7 +24,7 @@
     },
     {
       "id": "osm-n14155855024",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cielo del Oeste",
       "lat": 31.910153,
       "lng": -106.640409,
       "sports": [
@@ -36,8 +36,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cielo del Oeste",
+      "city": "Doña Ana County",
       "state": "NM",
       "source": "osm",
       "tags": {
@@ -112,7 +112,7 @@
     },
     {
       "id": "osm-w48494722",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Stagecoach Road Southeast",
       "lat": 35.052423,
       "lng": -106.492624,
       "sports": [
@@ -125,8 +125,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Stagecoach Road Southeast",
+      "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
       "tags": {}
@@ -299,7 +299,7 @@
     },
     {
       "id": "osm-w120028991",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Lomas Boulevard Northeast",
       "lat": 35.084668,
       "lng": -106.512731,
       "sports": [
@@ -311,8 +311,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Lomas Boulevard Northeast",
+      "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
       "tags": {}
@@ -509,7 +509,7 @@
     },
     {
       "id": "osm-w159745134",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Storm Avenue Northeast",
       "lat": 35.31048,
       "lng": -106.643595,
       "sports": [
@@ -521,8 +521,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Storm Avenue Northeast",
+      "city": "Rio Rancho",
       "state": "NM",
       "source": "osm",
       "tags": {}
@@ -776,7 +776,7 @@
     },
     {
       "id": "osm-w175160709",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Myrtle Street",
       "lat": 35.882749,
       "lng": -106.296488,
       "sports": [
@@ -788,8 +788,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Myrtle Street",
+      "city": "Los Alamos",
       "state": "NM",
       "source": "osm",
       "tags": {}
@@ -1004,7 +1004,7 @@
     },
     {
       "id": "osm-w198402255",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Upper Walnut",
       "lat": 35.901751,
       "lng": -106.31783,
       "sports": [
@@ -1016,8 +1016,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Upper Walnut",
+      "city": "Los Alamos",
       "state": "NM",
       "source": "osm",
       "tags": {
@@ -1506,7 +1506,7 @@
     },
     {
       "id": "osm-w327170575",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · East Wildflower Drive",
       "lat": 35.711052,
       "lng": -105.987372,
       "sports": [
@@ -1518,8 +1518,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "East Wildflower Drive",
+      "city": "Santa Fe County",
       "state": "NM",
       "source": "osm",
       "tags": {
@@ -2869,7 +2869,7 @@
     },
     {
       "id": "osm-w555577321",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Warm Sands Trail Southeast",
       "lat": 35.055667,
       "lng": -106.492514,
       "sports": [
@@ -2881,8 +2881,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Warm Sands Trail Southeast",
+      "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
       "tags": {
@@ -3263,7 +3263,7 @@
     },
     {
       "id": "osm-w597092008",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Pedregoso Place Southeast",
       "lat": 35.045376,
       "lng": -106.485708,
       "sports": [
@@ -3275,8 +3275,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Pedregoso Place Southeast",
+      "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
       "tags": {
@@ -3285,7 +3285,7 @@
     },
     {
       "id": "osm-w597092108",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cuatro Cerros Trail Southeast",
       "lat": 35.046023,
       "lng": -106.495195,
       "sports": [
@@ -3297,8 +3297,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cuatro Cerros Trail Southeast",
+      "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
       "tags": {
@@ -3393,7 +3393,7 @@
     },
     {
       "id": "osm-w597441310",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Brazos Place Southeast",
       "lat": 35.045378,
       "lng": -106.504615,
       "sports": [
@@ -3405,8 +3405,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Brazos Place Southeast",
+      "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
       "tags": {
@@ -4367,7 +4367,7 @@
     },
     {
       "id": "osm-w704104557",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Central Avenue Northwest",
       "lat": 35.087175,
       "lng": -106.661497,
       "sports": [
@@ -4379,8 +4379,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Central Avenue Northwest",
+      "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
       "tags": {}
@@ -4757,7 +4757,7 @@
     },
     {
       "id": "osm-w706237360",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Manana Drive",
       "lat": 35.116841,
       "lng": -106.374081,
       "sports": [
@@ -4769,8 +4769,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Manana Drive",
+      "city": "Cedar Crest",
       "state": "NM",
       "source": "osm",
       "tags": {
@@ -5427,7 +5427,7 @@
     },
     {
       "id": "osm-w728946534",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Eagle Rock Avenue Northeast",
       "lat": 35.186655,
       "lng": -106.525854,
       "sports": [
@@ -5439,8 +5439,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Eagle Rock Avenue Northeast",
+      "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
       "tags": {
@@ -5773,7 +5773,7 @@
     },
     {
       "id": "osm-w754323027",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · La Madera Road Northeast",
       "lat": 35.147994,
       "lng": -106.561937,
       "sports": [
@@ -5785,8 +5785,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "La Madera Road Northeast",
+      "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
       "tags": {
@@ -6292,7 +6292,7 @@
     },
     {
       "id": "osm-w776882342",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Ranch Court Southeast",
       "lat": 35.046214,
       "lng": -106.489064,
       "sports": [
@@ -6304,8 +6304,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ranch Court Southeast",
+      "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
       "tags": {
@@ -7108,7 +7108,7 @@
     },
     {
       "id": "osm-w863278430",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Estante Way",
       "lat": 35.793086,
       "lng": -106.20707,
       "sports": [
@@ -7120,8 +7120,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Estante Way",
+      "city": "White Rock",
       "state": "NM",
       "source": "osm",
       "tags": {
@@ -7130,7 +7130,7 @@
     },
     {
       "id": "osm-w863278432",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Cherokee Lane",
       "lat": 35.802443,
       "lng": -106.21342,
       "sports": [
@@ -7142,8 +7142,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Cherokee Lane",
+      "city": "White Rock",
       "state": "NM",
       "source": "osm",
       "tags": {
@@ -7152,7 +7152,7 @@
     },
     {
       "id": "osm-w863278434",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Rio Bravo Drive",
       "lat": 35.807075,
       "lng": -106.208066,
       "sports": [
@@ -7164,8 +7164,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Rio Bravo Drive",
+      "city": "White Rock",
       "state": "NM",
       "source": "osm",
       "tags": {
@@ -7322,7 +7322,7 @@
     },
     {
       "id": "osm-w902882664",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Susan Avenue",
       "lat": 35.512749,
       "lng": -108.720727,
       "sports": [
@@ -7334,8 +7334,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Susan Avenue",
+      "city": "Gallup",
       "state": "NM",
       "source": "osm",
       "tags": {
@@ -7646,7 +7646,7 @@
     },
     {
       "id": "osm-w1015276418",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · 41st Street",
       "lat": 35.884697,
       "lng": -106.321989,
       "sports": [
@@ -7658,8 +7658,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "41st Street",
+      "city": "Los Alamos",
       "state": "NM",
       "source": "osm",
       "tags": {}
@@ -7711,7 +7711,7 @@
     },
     {
       "id": "osm-w1059826357",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Clubhouse Drive",
       "lat": 35.709793,
       "lng": -106.045732,
       "sports": [
@@ -7723,8 +7723,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Clubhouse Drive",
+      "city": "Las Campanas",
       "state": "NM",
       "source": "osm",
       "tags": {
@@ -7795,7 +7795,7 @@
     },
     {
       "id": "osm-w1122812986",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Ottawa Drive Northeast",
       "lat": 35.324371,
       "lng": -106.58151,
       "sports": [
@@ -7807,8 +7807,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Ottawa Drive Northeast",
+      "city": "Rio Rancho",
       "state": "NM",
       "source": "osm",
       "tags": {
@@ -8015,7 +8015,7 @@
     },
     {
       "id": "osm-w1168175884",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Conejo Drive",
       "lat": 35.657462,
       "lng": -105.932462,
       "sports": [
@@ -8027,8 +8027,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Conejo Drive",
+      "city": "Santa Fe",
       "state": "NM",
       "source": "osm",
       "tags": {
@@ -8145,7 +8145,7 @@
     },
     {
       "id": "osm-w1213463120",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Mesa Park Road",
       "lat": 35.892185,
       "lng": -106.277575,
       "sports": [
@@ -8157,8 +8157,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Mesa Park Road",
+      "city": "Los Alamos",
       "state": "NM",
       "source": "osm",
       "tags": {
@@ -8189,7 +8189,7 @@
     },
     {
       "id": "osm-w1226629979",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · San Ildefonso Road",
       "lat": 35.892872,
       "lng": -106.297968,
       "sports": [
@@ -8201,8 +8201,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "San Ildefonso Road",
+      "city": "Los Alamos",
       "state": "NM",
       "source": "osm",
       "tags": {}
@@ -8637,7 +8637,7 @@
     },
     {
       "id": "osm-w1389424618",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Elena Drive Northeast",
       "lat": 35.191241,
       "lng": -106.513458,
       "sports": [
@@ -8649,8 +8649,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Elena Drive Northeast",
+      "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
       "tags": {
@@ -8659,7 +8659,7 @@
     },
     {
       "id": "osm-w1389424620",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Wilshire Avenue Northeast",
       "lat": 35.180943,
       "lng": -106.535168,
       "sports": [
@@ -8671,8 +8671,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Wilshire Avenue Northeast",
+      "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
       "tags": {
@@ -8703,7 +8703,7 @@
     },
     {
       "id": "osm-w1394902107",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · San Antonio Drive Northeast",
       "lat": 35.1602,
       "lng": -106.50149,
       "sports": [
@@ -8716,8 +8716,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "San Antonio Drive Northeast",
+      "city": "Albuquerque",
       "state": "NM",
       "source": "osm",
       "tags": {
@@ -8770,7 +8770,7 @@
     },
     {
       "id": "osm-w1408632893",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Las Soleras Drive",
       "lat": 35.618847,
       "lng": -106.021164,
       "sports": [
@@ -8782,8 +8782,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Las Soleras Drive",
+      "city": "Santa Fe",
       "state": "NM",
       "source": "osm",
       "tags": {
@@ -8792,7 +8792,7 @@
     },
     {
       "id": "osm-w1409623471",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Yucca Trail",
       "lat": 35.23069,
       "lng": -106.602065,
       "sports": [
@@ -8804,8 +8804,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Yucca Trail",
+      "city": "Corrales",
       "state": "NM",
       "source": "osm",
       "tags": {
@@ -8814,7 +8814,7 @@
     },
     {
       "id": "osm-w1409623507",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · 34th Street Southeast",
       "lat": 35.228207,
       "lng": -106.66963,
       "sports": [
@@ -8826,8 +8826,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "34th Street Southeast",
+      "city": "Rio Rancho",
       "state": "NM",
       "source": "osm",
       "tags": {
@@ -9318,7 +9318,7 @@
     },
     {
       "id": "osm-w1457049449",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Paseo del Sol",
       "lat": 35.621365,
       "lng": -106.04269,
       "sports": [
@@ -9330,8 +9330,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Paseo del Sol",
+      "city": "Santa Fe",
       "state": "NM",
       "source": "osm",
       "tags": {}
@@ -9609,7 +9609,7 @@
     },
     {
       "id": "osm-w1467140707",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · Sherwood Boulevard",
       "lat": 35.823853,
       "lng": -106.21242,
       "sports": [
@@ -9622,8 +9622,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Sherwood Boulevard",
+      "city": "White Rock",
       "state": "NM",
       "source": "osm",
       "tags": {}
@@ -9856,7 +9856,7 @@
     },
     {
       "id": "osm-w1467147229",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · North Urton Road",
       "lat": 33.425276,
       "lng": -104.492089,
       "sports": [
@@ -9868,8 +9868,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "North Urton Road",
+      "city": "Roswell",
       "state": "NM",
       "source": "osm",
       "tags": {}
@@ -10000,7 +10000,7 @@
     },
     {
       "id": "osm-w1467151205",
-      "name": "Public Tennis Courts",
+      "name": "Tennis Courts · West 17th Street",
       "lat": 34.174085,
       "lng": -103.349436,
       "sports": [
@@ -10012,8 +10012,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "West 17th Street",
+      "city": "Portales",
       "state": "NM",
       "source": "osm",
       "tags": {}
@@ -10364,7 +10364,7 @@
     },
     {
       "id": "osm-w1528636019",
-      "name": "Public Pickleball Courts",
+      "name": "Pickleball Courts · Buckeye Street",
       "lat": 32.258065,
       "lng": -107.765337,
       "sports": [
@@ -10376,8 +10376,8 @@
       "indoor": null,
       "access": "unknown",
       "fee": null,
-      "address": null,
-      "city": null,
+      "address": "Buckeye Street",
+      "city": "Deming",
       "state": "NM",
       "source": "osm",
       "tags": {
